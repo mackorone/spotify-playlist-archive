@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: mindfreakkk, Rangga Jones, Andreas Arianto
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,592 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,593 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

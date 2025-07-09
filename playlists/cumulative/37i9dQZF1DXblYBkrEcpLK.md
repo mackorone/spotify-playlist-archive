@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: ASCA
 
-760 songs - 2 day 2 hr 22 min
+761 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,9 +110,10 @@
 | [Explosive Heart](https://open.spotify.com/track/1HwvFg9Jd8rToi9q16jG9o) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Explosive Heart](https://open.spotify.com/album/3cE1YEVscxHhIap042HAI2) | 3:30 | 2025-01-30 |  |
 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 | 2023-01-05 | 2024-04-17 |
 | [Far Middle](https://open.spotify.com/track/3vn1q2f2qiHAkDKGXeGqfU) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [8○○○○○○Z○○](https://open.spotify.com/album/0RvzLnpAYRmB0N6dpCy2EF) | 2:57 | 2023-03-07 | 2023-04-12 |
+| [Feel](https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Feel / mild days](https://open.spotify.com/album/48KQ7NOwA31fMBBhtmrMrr) | 4:05 | 2025-07-04 |  |
 | [Fiction](https://open.spotify.com/track/0LT1FJrmhPalsd2OVQwu49) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Fiction](https://open.spotify.com/album/04sFbywbBnpQwZpcdyLBf4) | 4:03 | 2022-07-07 | 2022-07-16 |
 | [Fightin Pose](https://open.spotify.com/track/2pZ5eJYGW9T8Gd3vwyOLl4) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Fightin Pose](https://open.spotify.com/album/2pNXhWFgPcxYp8N5GAL7Ro) | 3:48 | 2022-07-07 | 2022-07-18 |
-| [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 | 2024-05-23 |  |
+| [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 | 2024-05-23 | 2025-07-09 |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-06-14 | 2022-07-25 |
 | [Fixer](https://open.spotify.com/track/1YbKeP9f10A8cDmHHIugwI) | [Yui Ninomiya](https://open.spotify.com/artist/7HCJJr9kZs3qiKJVxjRXsk) | [Fixer](https://open.spotify.com/album/1hlrglBu9F6A3Wai9VeT3m) | 3:36 | 2024-03-26 | 2024-04-17 |
 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 | 2022-06-09 | 2024-04-17 |

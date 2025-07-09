@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAB8bFQDJ+72uVEfG71EAHhL",
+  "snapshot_id": "aGsOAAAAAABfEXJxIlCLVQoqUYsg67ds",
   "tracks": [
     {
       "added_at": null,
@@ -531,30 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proibid\u00e3o Delas",
-        "url": "https://open.spotify.com/album/7xk8dpr4b49rgsfj4hQVKF"
-      },
-      "artists": [
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Proibid\u00e3o Delas",
-      "url": "https://open.spotify.com/track/4nE9YqujqrNXyz5Ln8CLw9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recebi Meu Salario",
         "url": "https://open.spotify.com/album/5Uj1bMfxDFULotXlrGE77D"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 147691,
       "name": "Recebi Meu Salario",
       "url": "https://open.spotify.com/track/2fwkty1uxIo4Qpu1w1QzAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proibid\u00e3o Delas",
+        "url": "https://open.spotify.com/album/7xk8dpr4b49rgsfj4hQVKF"
+      },
+      "artists": [
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Proibid\u00e3o Delas",
+      "url": "https://open.spotify.com/track/4nE9YqujqrNXyz5Ln8CLw9"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Salto Alto",
-      "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMOUR BEIJA FLOR",
         "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 107142,
       "name": "BOLA LOGO",
       "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Avenida Brasil",
+      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -1055,22 +1095,6 @@
       "duration_ms": 99692,
       "name": "Toma Cuidado pra N\u00e3o Se Apegar",
       "url": "https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
       "added_at": null,
@@ -1108,13 +1132,29 @@
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         },
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "Tchouzen",
+          "url": "https://open.spotify.com/artist/7HVh9B5Q2bjs0FnS0yZMQq"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Avenida Brasil",
-      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
+      "duration_ms": 194629,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5EqsaI4AK0lij7cfXrgcqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
     },
     {
       "added_at": null,
@@ -1147,62 +1187,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mete Mac Vol 1",
-        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
+        "name": "As Ruas Sabem",
+        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
       },
       "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Olha Beb\u00ea",
-      "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        },
-        {
-          "name": "Tchouzen",
-          "url": "https://open.spotify.com/artist/7HVh9B5Q2bjs0FnS0yZMQq"
-        }
-      ],
-      "duration_ms": 194629,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5EqsaI4AK0lij7cfXrgcqU"
+      "duration_ms": 181998,
+      "name": "Tinta Na M\u00e3o",
+      "url": "https://open.spotify.com/track/34fml1FqZOCpBwAsqWrFYY"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

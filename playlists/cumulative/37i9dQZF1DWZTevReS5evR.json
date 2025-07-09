@@ -2161,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "album": {
         "name": "alone tonight",
         "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
       },

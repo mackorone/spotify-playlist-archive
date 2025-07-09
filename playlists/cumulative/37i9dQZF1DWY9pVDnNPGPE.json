@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Anywhere is Fine",
+        "url": "https://open.spotify.com/album/09UuMjRQ824AqhjYowuV8l"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "Akita",
+          "url": "https://open.spotify.com/artist/4NSfMdZSdFOJqkNTeGYXZt"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Anywhere is Fine (feat. Akita)",
+      "url": "https://open.spotify.com/track/2I2mjKYPjw3iDavvh07cw2"
+    },
+    {
+      "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
       },
@@ -704,7 +726,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 178013,
       "name": "FALL",
       "url": "https://open.spotify.com/track/10awNO9SdCIbX71isExPk0"
@@ -1216,6 +1238,24 @@
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/4Wq4fDXxs8nv8ptNhEC2tx"
+      },
+      "artists": [
+        {
+          "name": "summer",
+          "url": "https://open.spotify.com/artist/2Nt2wRy1YEhkaUh7tgapVh"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208629,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6I1vTVJnDdnuKbO6S79CQH"
     },
     {
       "album": {
@@ -1922,7 +1962,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 213375,
       "name": "Summer breeze (with Chamsom)",
       "url": "https://open.spotify.com/track/2uMhkwGoyDNeDfujSQHOOg"
@@ -1980,6 +2020,28 @@
       "duration_ms": 226400,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6D4ZkbtBd4DshKMzStOf8x"
+    },
+    {
+      "album": {
+        "name": "Sunshine Coast",
+        "url": "https://open.spotify.com/album/2jA6z1i2mNta9fB7NoRVf2"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        },
+        {
+          "name": "Naji",
+          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185687,
+      "name": "Sunshine Coast",
+      "url": "https://open.spotify.com/track/3F7aCMePBPszLTbvojA2U1"
     },
     {
       "album": {
@@ -2146,7 +2208,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 204053,
       "name": "Where the Wind Rises",
       "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"

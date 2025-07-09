@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1507195,
+  "num_followers": 1508367,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2023-11-10 14:51:19",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
         }
       ],
-      "duration_ms": 288973,
-      "name": "One More Night - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -779,22 +795,6 @@
       "duration_ms": 346586,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Soul Provider",
         "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 255666,
       "name": "How Am I Supposed to Live Without You",
       "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
+        "name": "New Edition",
+        "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
       },
       "artists": [
         {
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
         }
       ],
-      "duration_ms": 297706,
-      "name": "Can You Stand The Rain",
-      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
+      "duration_ms": 239160,
+      "name": "Mr. Telephone Man",
+      "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "New Edition",
-        "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
+        "name": "Heart Break",
+        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
       "artists": [
         {
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
         }
       ],
-      "duration_ms": 239160,
-      "name": "Mr. Telephone Man",
-      "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
+      "duration_ms": 297706,
+      "name": "Can You Stand The Rain",
+      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Temple Of Low Men",
+        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Cry Like a Rainstorm Howl Like the Wind",
         "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Temple Of Low Men",
-        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Introducing The Hardline According To Sananda Maitreya",
-        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
-      },
-      "artists": [
-        {
-          "name": "Sananda Maitreya",
-          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
-        }
-      ],
-      "duration_ms": 276533,
-      "name": "Sign Your Name",
-      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Never Run Never Hide",
         "url": "https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 271800,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Introducing The Hardline According To Sananda Maitreya",
+        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
+      },
+      "artists": [
+        {
+          "name": "Sananda Maitreya",
+          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
+        }
+      ],
+      "duration_ms": 276533,
+      "name": "Sign Your Name",
+      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Black & White (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "All That Jazz",
         "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 259506,
       "name": "Hands To Heaven",
       "url": "https://open.spotify.com/track/0LBtQiEVfP4ysLQ43Do8uN"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Black & White (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
     },
     {
       "added_at": "2023-01-24 23:00:00",

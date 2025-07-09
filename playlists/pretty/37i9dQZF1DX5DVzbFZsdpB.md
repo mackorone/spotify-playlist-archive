@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Swag on the Beat with Jack and Isaac is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,424 likes - 7 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423 likes - 7 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

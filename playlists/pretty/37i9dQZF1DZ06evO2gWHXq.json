@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 226428,
+  "num_followers": 226426,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAB8OlQjofYsX24FOghSMa45",
+  "snapshot_id": "aGsOAAAAAABf3hqksB0Smqk3J9Puyz5G",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marybel (Remix)",
         "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
       },
@@ -419,46 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta",
-        "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "La Receta",
-      "url": "https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
@@ -471,26 +455,6 @@
       "duration_ms": 205430,
       "name": "Ella Es Una Amenaza",
       "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "Mitad y Mitad",
-      "url": "https://open.spotify.com/track/0kQzaYovsOWbHglCGscxuP"
     },
     {
       "added_at": null,
@@ -511,6 +475,22 @@
       "duration_ms": 201000,
       "name": "Round 2",
       "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
     },
     {
       "added_at": null,
@@ -543,6 +523,26 @@
       "duration_ms": 302250,
       "name": "TRAPPERZ A Mafia Da Sicilia (feat. MC Davo & Fuego)",
       "url": "https://open.spotify.com/track/1KfIZjptrvN6jUpUzzRYiD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 191613,
+      "name": "Mitad y Mitad",
+      "url": "https://open.spotify.com/track/0kQzaYovsOWbHglCGscxuP"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Preguntan por M\u00ed",
         "url": "https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 228500,
       "name": "Si Preguntan por M\u00ed",
       "url": "https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
     },
     {
       "added_at": null,
@@ -867,22 +867,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morro Dolido",
-        "url": "https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4"
+        "name": "Por Si Pego",
+        "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
       },
       "artists": [
         {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        },
-        {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/75UT76qjyWvxN3wtxHExhA"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/4oQnaHAoScFnKnirYAk1C0"
         }
       ],
-      "duration_ms": 194560,
-      "name": "Morro Dolido",
-      "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
+      "duration_ms": 206500,
+      "name": "Por Si Pego",
+      "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
     },
     {
       "added_at": null,
@@ -927,42 +931,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Pego",
-        "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
+        "name": "Morro Dolido",
+        "url": "https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4"
       },
       "artists": [
         {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        },
+        {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/75UT76qjyWvxN3wtxHExhA"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/4oQnaHAoScFnKnirYAk1C0"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Por Si Pego",
-      "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
+      "duration_ms": 194560,
+      "name": "Morro Dolido",
+      "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+        "name": "Las 2 Caras",
+        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
+      "duration_ms": 240037,
+      "name": "Round 4 (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/1fuiGCrx88jnZYOHhskSzT"
     },
     {
       "added_at": null,
@@ -987,22 +991,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 2 Caras",
-        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 240037,
-      "name": "Round 4 (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/1fuiGCrx88jnZYOHhskSzT"
+      "duration_ms": 194754,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
-        }
-      ],
-      "duration_ms": 190435,
-      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
-      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuern\u00fa (Remix)",
         "url": "https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 459413,
       "name": "Cuern\u00fa - Remix",
       "url": "https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
+        }
+      ],
+      "duration_ms": 190435,
+      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
+      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16217,
+  "num_followers": 16216,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABPalAqdhFWB+Pzcajk+NCu",
+  "snapshot_id": "aGsOAAAAAAAFRNHK0ImJJ/cMqmD1i0e5",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+        "name": "Ordinary World",
+        "url": "https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 285813,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD"
+      "duration_ms": 280640,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ordinary World",
-        "url": "https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl"
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 280640,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ"
+      "duration_ms": 285813,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Armageddon In A Summer Dress",
         "url": "https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 194000,
       "name": "Cry Baby - feat. Valerie June",
       "url": "https://open.spotify.com/track/10TS4rn0t7GRGEB3gGLjUv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI"
     },
     {
       "added_at": null,

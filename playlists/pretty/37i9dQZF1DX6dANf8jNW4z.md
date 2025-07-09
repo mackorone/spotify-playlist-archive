@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Gara Durán.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,992 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,997 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

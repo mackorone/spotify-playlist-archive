@@ -1,6 +1,6 @@
 {
   "description": "The best in UK Funky. Cover: Roska",
-  "num_followers": 106922,
+  "num_followers": 106931,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-01-22 10:28:08",
       "album": {
-        "name": "BLU Magic",
-        "url": "https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG"
-      },
-      "artists": [
-        {
-          "name": "iLL BLU",
-          "url": "https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw"
-        },
-        {
-          "name": "Max Marshall",
-          "url": "https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6"
-        }
-      ],
-      "duration_ms": 290881,
-      "name": "BLU Magic",
-      "url": "https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2"
-    },
-    {
-      "added_at": "2025-01-22 10:28:08",
-      "album": {
         "name": "Broken Record Remixes",
         "url": "https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 333066,
       "name": "Broken Record - Geeneus Funky Mix",
       "url": "https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt"
+    },
+    {
+      "added_at": "2025-01-22 10:28:08",
+      "album": {
+        "name": "BLU Magic",
+        "url": "https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG"
+      },
+      "artists": [
+        {
+          "name": "iLL BLU",
+          "url": "https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw"
+        },
+        {
+          "name": "Max Marshall",
+          "url": "https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6"
+        }
+      ],
+      "duration_ms": 290881,
+      "name": "BLU Magic",
+      "url": "https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2"
     },
     {
       "added_at": "2025-01-22 10:28:08",

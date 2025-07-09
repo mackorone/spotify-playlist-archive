@@ -2,9 +2,9 @@
 
 ### [Summer K\-Pop Hits \(썸머 히트\)](https://open.spotify.com/playlist/37i9dQZF1DX1lU51fgoMhF)
 
-> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: H1\-KEY\(하이키\)\)
+> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: 도경수\(D.O.\)\)
 
-378 songs - 20 hr 36 min
+379 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Rococo](https://open.spotify.com/track/6SJNYr4HPQK678UZZI4yQP) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [Oneiric Diary](https://open.spotify.com/album/0Feph4xWbYik7e0oLR08sN) | 3:13 | 2021-11-17 | 2022-07-14 |
 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 | 2021-11-17 |  |
 | [Rollin](https://open.spotify.com/track/11WZXVtFOITrYD2LuxC2jT) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [Take off](https://open.spotify.com/album/2m8ne2CmFOMnfuOi52wN4H) | 3:46 | 2022-03-17 | 2022-07-25 |
-| [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-11-17 |  |
+| [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-11-17 | 2025-07-09 |
 | [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-07-27 | 2022-08-04 |
 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-03 | 2024-04-19 |
 | [Rollin' \(New Version\)](https://open.spotify.com/track/7DkqdEiDja7Gn9zvrfy7Vw) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin' \(New Version\)](https://open.spotify.com/album/4xmh2xJI6SENhp5cvXiynw) | 3:21 | 2021-11-17 | 2024-06-14 |
@@ -312,6 +312,7 @@
 | [See Sea, BAE](https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 3:27 | 2022-06-08 | 2022-07-29 |
 | [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 | 2022-06-09 | 2022-08-13 |
 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 | 2022-09-05 | 2022-09-28 |
+| [SING ALONG!](https://open.spotify.com/track/3i4BISVO0L6mrVM7V0IPGo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [The 1st full album \[BLISS\]](https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d) | 2:36 | 2025-07-08 |  |
 | [Skip Skip](https://open.spotify.com/track/2Zb4ieqfoCB6WP5LO2NmCK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [INTO VIOLET](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) | 3:22 | 2021-11-17 | 2022-07-29 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 |  |
 | [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-06-08 | 2022-09-12 |

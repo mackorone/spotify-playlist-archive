@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3368,
+  "num_followers": 3369,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACGMJE4ufceSjTI04x3rDNM",
+  "snapshot_id": "aGsOAAAAAABPjvNhkGC4+AYuJed8XMJ5",
   "tracks": [
     {
       "added_at": null,
@@ -927,34 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoada",
-        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
-      },
-      "artists": [
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Xandy MC",
-          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 195447,
-      "name": "Revoada",
-      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -987,6 +959,34 @@
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
+        },
+        {
+          "name": "Xandy MC",
+          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 195447,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
     },
     {
       "added_at": null,

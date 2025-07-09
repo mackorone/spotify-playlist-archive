@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,870 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,871 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 76 | [Mi Piace \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 2:38 |
 | 77 | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr) | 3:45 |
 | 78 | [UHLALA](https://open.spotify.com/track/1D7sdScaOxtmb0lInM90SN) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 3:09 |
-| 79 | [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 |
-| 80 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
+| 79 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
+| 80 | [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 |
 
 Snapshot ID: `Z1Lz3QAAAADzo9UWdq5r5zebvUmnGbWb`

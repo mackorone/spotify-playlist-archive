@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 17967,
+  "num_followers": 17969,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAOrvd65h6NAs5hfm/P6tBA",
+  "snapshot_id": "aGsOAAAAAACJz3sQIujuJVBizkX49Oyn",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 176803,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Your Friends",
         "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 206178,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 176803,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 163767,
-      "name": "Headrush",
-      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 193925,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
+      "duration_ms": 163767,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 171897,
-      "name": "Who Brings a Knife to a Gunfight?",
-      "url": "https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM"
+      "duration_ms": 193925,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 205786,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 171897,
+      "name": "Who Brings a Knife to a Gunfight?",
+      "url": "https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Save Your Breath",
-      "url": "https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Have Mixed Drinks About Feelings",
         "url": "https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 176344,
       "name": "I Have Mixed Drinks About Feelings",
       "url": "https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Save Your Breath",
+      "url": "https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA"
     },
     {
       "added_at": null,

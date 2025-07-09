@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82045,
+  "num_followers": 82047,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACUMLM0ta01tL+pCwHExQMv",
+  "snapshot_id": "aGsOAAAAAACTWPXTXhFEfx2RfWnBoxly",
   "tracks": [
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Deixa Ela",
-      "url": "https://open.spotify.com/track/6Ko0LtUSamxOleNdwcM5DL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 149538,
       "name": "Psiu",
       "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Deixa Ela",
+      "url": "https://open.spotify.com/track/6Ko0LtUSamxOleNdwcM5DL"
     },
     {
       "added_at": null,
@@ -1155,8 +1155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ciclo Vicioso (Deluxe)",
-        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+        "name": "SALA VERMELHA #20 - Cynthia Luz",
+        "url": "https://open.spotify.com/album/5wZg7OKvX8y2sMcjyAdVTL"
       },
       "artists": [
         {
@@ -1164,13 +1164,13 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
         }
       ],
-      "duration_ms": 175135,
-      "name": "Eu To Mudada",
-      "url": "https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD"
+      "duration_ms": 161311,
+      "name": "SALA VERMELHA #20 - Cynthia Luz",
+      "url": "https://open.spotify.com/track/7jCAyZWThBcg1IWdSLWKWw"
     },
     {
       "added_at": null,
@@ -1199,6 +1199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 175135,
+      "name": "Eu To Mudada",
+      "url": "https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Culpa \u00c9 das Igrejas / Sinais",
         "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
@@ -1219,46 +1239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALA VERMELHA #20 - Cynthia Luz",
-        "url": "https://open.spotify.com/album/5wZg7OKvX8y2sMcjyAdVTL"
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "SALA VERMELHA #20 - Cynthia Luz",
-      "url": "https://open.spotify.com/track/7jCAyZWThBcg1IWdSLWKWw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
-      },
-      "artists": [
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
+      "duration_ms": 183708,
+      "name": "Eu Penso",
+      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 55691,
+  "num_followers": 55702,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACrR6p2p0reNctOJ2n/tfTZ",
+  "snapshot_id": "aGsOAAAAAAA9bJGEfxfg7/7T/H6LXF8q",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 401695,
+      "name": "Han Pan",
+      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 233917,
       "name": "All That",
       "url": "https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 401695,
-      "name": "Han Pan",
-      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Purple Horizon",
-      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jigoo (Radio Edit)",
         "url": "https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 243066,
       "name": "Jigoo - Radio Edit",
       "url": "https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Purple Horizon",
+      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 117236,
-      "name": "Your Art",
-      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Needs x UN Women Present HeForShe",
         "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 402838,
       "name": "Shero",
       "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 117236,
+      "name": "Your Art",
+      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 157252,
-      "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
-      "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Art of War EP",
         "url": "https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 353047,
       "name": "Troop",
       "url": "https://open.spotify.com/track/7GbhZNoIASAeUjwekiT0sa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
+      "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
     },
     {
       "added_at": null,

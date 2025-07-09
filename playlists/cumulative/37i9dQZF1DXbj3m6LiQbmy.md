@@ -2,9 +2,9 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Musica dalla comunità LGBQTIA+ 🇮🇹  soap in cover ✨
+> Musica dalla comunità LGBQTIA+ 🇮🇹  Francamente in cover ✨
 
-376 songs - 21 hr 57 min
+377 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [You Keep Me Hangin' On](https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:14 | 2022-04-01 | 2023-01-25 |
 | [Young Boy](https://open.spotify.com/track/44S6dzwZux8Juxe8wP5y6E) | [Maria Violenza](https://open.spotify.com/artist/0Z9mBVXA1TwmOpN6AP8wFy) | [Tendres Tenebres](https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ) | 4:19 | 2023-02-28 |  |
 | [Young Forever](https://open.spotify.com/track/0eU6ogqTZmNiARD4PGNaJo) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Young Forever](https://open.spotify.com/album/0GIZIsdYluq59vJolVAOfc) | 3:50 | 2023-12-07 |  |
+| [Zagara](https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Zagara](https://open.spotify.com/album/5N9H0fJEfi0WPpZtr0NKq2) | 3:41 | 2025-07-08 |  |
 | [Ça va? Je t'aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/6CNTgqgmfpYMgI9h4uIWxH) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça va? Je t'aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/album/6IEdKxjlDHpJWwekOIyoSz) | 3:28 | 2023-10-27 | 2024-01-09 |
 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 | 2022-07-21 | 2023-11-02 |
 | [Ça va? Je t’aime! \- Feat\. EMMANUELLE](https://open.spotify.com/track/5FOhiZAJlPOIGBsIsnbNRC) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça va? Je t’aime! \(Feat\. Emmanuelle\)](https://open.spotify.com/album/4mn91zVzcoYysheAEd4bYJ) | 3:28 | 2022-04-22 | 2022-07-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:4dPjkPqNuC118hCi8HPocv">Para que Não Percais os Miolos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,829 likes - 16 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,830 likes - 16 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 8 | [\#143\. Tóxico a próspero](https://open.spotify.com/episode/6ZIaT3y3NF0HHfINzn3q93) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 36:03 |
 | 9 | [EX\-NAMORADOS \- \#POGRAMA 52](https://open.spotify.com/episode/4dOsFtVdXX0Lhf779R3Anc) | [POGRAMA](https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q) | [POGRAMA](https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q) | 45:53 |
 | 10 | [Clube do Erro \#175 \- Amante Por Conveniência](https://open.spotify.com/episode/0uaJ3xr7g3PeMQ7cXY0Aim) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 13:40 |
-| 11 | [GERAÇÃO Z e OS BEBÊS DE 2010](https://open.spotify.com/episode/4Q4F6UUCq04gM4mDkVwkqm) | [Estavu Show](https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu) | [Estavu Show](https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu) | 43:11 |
+| 11 | [GERAÇÃO Z e OS BEBÊS DE 2010 \#28](https://open.spotify.com/episode/4Q4F6UUCq04gM4mDkVwkqm) | [Estavu Show](https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu) | [Estavu Show](https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu) | 43:11 |
 | 12 | [\#102 \- Soluções para Bebês LTDA com Fabão \- Joguei no Grupo](https://open.spotify.com/episode/5vcMRt9s7tJzO5P3Me3uWN) | [Joguei no Grupo](https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9) | [Joguei no Grupo](https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9) | 1:31:08 |
 | 13 | [O QUE TEM NA SUA CARTEIRA? \#54 \| Cecilia Preto Alexandre, CMO](https://open.spotify.com/episode/4r4VR5cjfNwOtoW1d0nLxl) | [O que tem na sua carteira?](https://open.spotify.com/show/0TAMn2YGFdRgi3odrRdlQG) | [O que tem na sua carteira?](https://open.spotify.com/album/0TAMn2YGFdRgi3odrRdlQG) | 54:54 |
 | 14 | [O maior impostor que você vai ver hoje](https://open.spotify.com/episode/4PyYDbbqkrDWz3FJgrfmnI) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 28:25 |

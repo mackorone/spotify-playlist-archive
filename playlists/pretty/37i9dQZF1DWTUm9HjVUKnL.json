@@ -1,13 +1,33 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 238774,
+  "num_followers": 238784,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFKi7AAAAADvtnlNiavpRT0R0IIktAYR",
+  "snapshot_id": "aG0IvAAAAACFxfi8nv4gKZ4KMtsur44V",
   "tracks": [
+    {
+      "added_at": "2025-07-08 12:02:04",
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda - Spotify Singles",
+        "url": "https://open.spotify.com/album/2gzPNct7gehdFkAgPn9n2y"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Grupo Restaurado",
+          "url": "https://open.spotify.com/artist/47ryVplCCIIsbwcBFcg8Oc"
+        }
+      ],
+      "duration_ms": 143401,
+      "name": "Naci\u00f3 Pa' Leyenda - Spotify Singles",
+      "url": "https://open.spotify.com/track/2OWyDDiLOC6PACqh7Xac8y"
+    },
     {
       "added_at": "2025-06-18 11:28:44",
       "album": {

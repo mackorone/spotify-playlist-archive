@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,669 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,688 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 39 | [Found You](https://open.spotify.com/track/4iLeL1aYGcQBsYcWIhXIUO) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:11 |
 | 40 | [Take Me Home \(with Kane Brown\)](https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Restless Road \- EP](https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh) | 3:21 |
 | 41 | [Start a Fire](https://open.spotify.com/track/0cMDPpAmkf6W7em2POM8eu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 2:54 |
-| 42 | [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 |
-| 43 | [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 |
+| 42 | [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 |
+| 43 | [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 |
 | 44 | [Thunder in the Rain](https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 2:44 |
 | 45 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
 | 46 | [Go Around](https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 50 | [Leave You Alone](https://open.spotify.com/track/3J5UxKE5206of6TwawC4M8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:34 |
 
-Snapshot ID: `aGm8gAAAAADvKgnYaNvPViCmUdA+gkE9`
+Snapshot ID: `aGsOAAAAAADyZKEeIYMqtpYg/o7okV9V`

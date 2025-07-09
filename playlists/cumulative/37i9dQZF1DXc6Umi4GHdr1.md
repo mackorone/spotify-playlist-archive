@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-439 songs - 19 hr 27 min
+440 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [London Fog](https://open.spotify.com/track/39PaXHJYKENift4jbT5n8j) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [London Fog](https://open.spotify.com/album/0832H76yui7UZKuSv6i3ip) | 2:29 | 2024-02-02 |  |
 | [Long Walking Back Home](https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Long Walking Back Home](https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX) | 3:08 | 2022-03-03 |  |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-03-10 | 2023-06-16 |
-| [Lost in the Moment](https://open.spotify.com/track/2KOlLqz63AA8AMuH5lwIyX) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lost in the Moment](https://open.spotify.com/album/5YSiRGp7ninOfNhNM5osJl) | 2:20 | 2025-06-16 |  |
+| [Lost in the Moment](https://open.spotify.com/track/2KOlLqz63AA8AMuH5lwIyX) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lost in the Moment](https://open.spotify.com/album/5YSiRGp7ninOfNhNM5osJl) | 2:20 | 2025-06-16 | 2025-07-09 |
 | [Lost Intentions](https://open.spotify.com/track/7f7sBSR4G1LySZ1hhpc1ux) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Lost Intentions](https://open.spotify.com/album/4o0RSC1qJQLGorvbBnMHrO) | 2:49 | 2024-07-18 |  |
 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 | 2023-03-10 |  |
 | [Low\-lying Indiana](https://open.spotify.com/track/5NYLrenhF9CwDOgun0jdP0) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Low\-lying Indiana](https://open.spotify.com/album/3Z5FUnIVf3Vo4sSJBs8AEV) | 1:52 | 2025-01-20 | 2025-04-03 |
@@ -381,6 +381,7 @@
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-28 | 2023-08-26 |
 | [The Suns Above](https://open.spotify.com/track/04104rwOb5owuqmKFZ9Ewf) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Suns Above](https://open.spotify.com/album/3TFzn2c5ega5uvXHvBSaIA) | 2:07 | 2024-06-07 |  |
 | [The Time Traveler](https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [The Time Traveler](https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM) | 2:54 | 2023-11-24 |  |
+| [The Waning Sun](https://open.spotify.com/track/1Z6vzs8lWmbHe7LX852C1l) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [The Waning Sun](https://open.spotify.com/album/6rcucFTcfkGgaLvjYevaLF) | 2:06 | 2025-07-08 |  |
 | [The Wind's Lullaby](https://open.spotify.com/track/59RRgYSHSvKlM9awfBm0hk) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Wind's Lullaby](https://open.spotify.com/album/4TeJFDFWCKMUocydiW9Pnv) | 2:26 | 2023-08-11 | 2024-05-10 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-31 | 2023-06-16 |
 | [Three\-Two](https://open.spotify.com/track/12crmTFG4QHnePz3KYMlD1) | [Clogs](https://open.spotify.com/artist/12BDNYhvDp2RIeF9pabPzv) | [Veil Waltz](https://open.spotify.com/album/6u7QsDt1OyTk6W29X8PNwr) | 4:35 | 2021-12-10 | 2022-07-22 |

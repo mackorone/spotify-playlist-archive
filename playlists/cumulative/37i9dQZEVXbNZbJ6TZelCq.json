@@ -6360,7 +6360,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 139354,
       "name": "CALIFORNIA",
       "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
@@ -9608,7 +9608,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/02vTvq7jbYMUwrTy2YpLCH"
@@ -15424,6 +15424,40 @@
       "duration_ms": 162333,
       "name": "GOLD STACKS",
       "url": "https://open.spotify.com/track/1Ijpng3ZLhTRcEd8iqh4p4"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
       "album": {
@@ -27494,7 +27528,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -27972,7 +28006,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 235826,
       "name": "Panic\u0103",
       "url": "https://open.spotify.com/track/01tBcq5AY8j9ZjpZPlwxhx"
@@ -29744,7 +29778,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 210663,
       "name": "Prin\u021besa \u0219i l\u0103utarul",
       "url": "https://open.spotify.com/track/4RF66Ss3CGZWdpM9IImm2v"
@@ -36008,7 +36042,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 134519,
       "name": "SUNETE 2",
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
@@ -36608,7 +36642,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 196285,
       "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
       "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"

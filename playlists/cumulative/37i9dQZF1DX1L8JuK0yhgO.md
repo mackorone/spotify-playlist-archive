@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-8,111 songs - 18 day 12 hr 55 min
+8,112 songs - 18 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4561,6 +4561,7 @@
 | [Parallel](https://open.spotify.com/track/6ppWI3QTVeLim2vBQJFSNK) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Parallel](https://open.spotify.com/album/2zAvL1Uum9sWYYn95ZySXV) | 4:39 | 2023-11-20 | 2023-11-27 |
 | [Paralysis](https://open.spotify.com/track/74B3uUvjFzINHJ5sj4llg8) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF), [Shöka](https://open.spotify.com/artist/30jQ6f92trBV5CUO1lRYXv) | [Paralysis](https://open.spotify.com/album/1mzdZlZitVBDThmOumJdfc) | 3:50 | 2024-03-03 | 2024-03-11 |
 | [Paranoid](https://open.spotify.com/track/44FKEYsoy4iwVOkWxFxYK6) | [嚩ᴴᴬᴷᵁ](https://open.spotify.com/artist/7Mza9mcYZcEBJblRUgSzxM) | [Paranoid](https://open.spotify.com/album/6C6Jyp2IofJmGjG65K5Mja) | 2:39 | 2025-07-07 |  |
+| [PARCHED](https://open.spotify.com/track/74G34ll2tZhpiSQdxoM9wO) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [PARCHED](https://open.spotify.com/album/6zVZDHE0i9i3mMZnqkjoYP) | 2:09 | 2025-07-08 |  |
 | [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj) | 2:51 | 2023-07-24 | 2023-07-31 |
 | [Paris Nights](https://open.spotify.com/track/7fsVOqWhHJcOhRelkgcMxH) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Kino Beats](https://open.spotify.com/artist/5KNFZTB0wLQVuWHDp4Terx), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [24Hr Casino Pt 2](https://open.spotify.com/album/3C4w4WGG8j3akKYJ9Pp5Cg) | 1:44 | 2024-01-14 | 2024-01-22 |
 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:55 | 2024-06-23 | 2024-07-01 |

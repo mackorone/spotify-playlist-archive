@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 372,
+  "num_followers": 373,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAm9mi9/ClLPtnUrxlJxDXH",
+  "snapshot_id": "aGsOAAAAAAA0TysYiZskEGce23c33jSM",
   "tracks": [
     {
       "added_at": null,
@@ -562,11 +562,15 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 199196,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
+      "duration_ms": 216270,
+      "name": "What If I Am",
+      "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
     },
     {
       "added_at": null,
@@ -578,15 +582,11 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 216270,
-      "name": "What If I Am",
-      "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
+      "duration_ms": 199196,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
     },
     {
       "added_at": null,

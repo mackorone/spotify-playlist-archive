@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,366 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,398 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 30 | [Lost The Breakup](https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:09 |
 | 31 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 |
 | 32 | [Habit](https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Habit](https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq) | 3:00 |
-| 33 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
-| 34 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
-| 35 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 |
-| 36 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
+| 33 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
+| 34 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 35 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
+| 36 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 |
 | 37 | [Schön genug](https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Kuss.](https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs) | 3:18 |
 | 38 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 |
 | 39 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 61 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
 | 62 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
 | 63 | [Small Steps](https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Small Steps](https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce) | 2:46 |
-| 64 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 |
-| 65 | [Love U Again](https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Love U Again](https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M) | 2:46 |
-| 66 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 |
+| 64 | [Love U Again](https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Love U Again](https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M) | 2:46 |
+| 65 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 |
+| 66 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 |
 | 67 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 68 | [ASAP](https://open.spotify.com/track/0FQfX2SZ2X18QVa6hJrWPS) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [ASAP](https://open.spotify.com/album/3jJnmKAhUUkI4OjwO1AkuB) | 3:03 |
 | 69 | [The Weekend](https://open.spotify.com/track/5ELSNOIEl2Iqq3f8MEsc8Y) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Imran](https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv) | [Oldschool Love](https://open.spotify.com/album/6uwelipskyMH8GsmE6zbGa) | 2:34 |

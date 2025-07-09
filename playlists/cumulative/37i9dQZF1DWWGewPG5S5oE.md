@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 小室響
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 佐瀬悠輔
 
-425 songs - 1 day 10 hr 28 min
+427 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Gotta Be Happy](https://open.spotify.com/track/5Jdr6tDNTTROnTlE0Itb6Z) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Gotta Be Happy](https://open.spotify.com/album/6ouBUpD5orNd1zWTuwpSMl) | 6:44 | 2024-10-23 | 2024-11-06 |
 | [Green eyes](https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Green eyes](https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez) | 4:50 | 2025-07-01 |  |
 | [Gris et Liberte \- Instrumental](https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Gris et Liberte \(Instrumental\)](https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J) | 4:09 | 2022-10-11 | 2023-03-08 |
-| [HAGAKURE](https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [HAGAKURE](https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC) | 3:41 | 2024-07-02 |  |
+| [HAGAKURE](https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [HAGAKURE](https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC) | 3:41 | 2024-07-02 | 2025-07-09 |
 | [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 | 2023-05-02 | 2023-11-03 |
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-14 | 2024-01-20 |
 | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3) | [SOIL & "PIMP" SESSIONS with RHYMESTER](https://open.spotify.com/artist/2lcYYmJQqNAPYrfpSeUYih), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF), [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ) | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la) | 3:10 | 2022-09-13 | 2022-10-19 |
@@ -221,6 +221,7 @@
 | [Noisia](https://open.spotify.com/track/54DUSBw5r1lEqlsvVFmgBm) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Noisia](https://open.spotify.com/album/0oKLUiiUtEe6nrJzUS5hFz) | 5:07 | 2025-02-26 | 2025-04-06 |
 | [null](https://open.spotify.com/track/0lNwTmuyzwkZ3lcQwjUIm6) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [null](https://open.spotify.com/album/5OQnbpSFMWExzOv12Jqms7) | 3:38 | 2024-02-27 | 2024-06-12 |
 | [obsession](https://open.spotify.com/track/2sbXCzEskFPka5D80ZKzbG) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [LOTUS](https://open.spotify.com/album/35t0TpLbsQWFJQJXlwOyXV) | 4:26 | 2024-08-13 | 2024-09-18 |
+| [Off\-the\-cuff](https://open.spotify.com/track/5X6T29oDYziZKe59d62wRy) | [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Off\-the\-cuff](https://open.spotify.com/album/09g2LMDN0QntOdKzsaCWld) | 6:24 | 2025-07-08 |  |
 | [Oh My God](https://open.spotify.com/track/2tchGr5VPrWR8qwQA5VVyw) | [John Nakayama Trio](https://open.spotify.com/artist/43wM3prVdVeBJc4qD3gVdz), [VICTORIA](https://open.spotify.com/artist/4WaiQ89t3P3tsZ6FQNmnW2) | [Oh My God](https://open.spotify.com/album/2CqlzqET3jM9r5y7nUgIdn) | 4:49 | 2024-06-11 | 2024-07-24 |
 | [One More Time](https://open.spotify.com/track/5zDaw3oBx3e5dCnpyt7NEW) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [One More Time](https://open.spotify.com/album/31dVWeU7ZyIezMhWU1dNWc) | 4:55 | 2023-01-10 | 2023-04-29 |
 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 | 2022-09-06 | 2023-12-27 |
@@ -232,7 +233,7 @@
 | [path](https://open.spotify.com/track/0Ssnsve8Zj16FrN7ImqZhI) | [窪田ひかり](https://open.spotify.com/artist/3VY5fhcEPI6M1JrH1yFvMO) | [path](https://open.spotify.com/album/5FCmV7iPZfSYuOV5UN7SW3) | 4:19 | 2024-12-24 | 2025-02-19 |
 | [Pathos](https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI) | [川嶋哲郎](https://open.spotify.com/artist/7HYO9BWP2sgKxAF1VbCwCM), [CHAKA STRING QUARTET](https://open.spotify.com/artist/6bZSpfaWtn36aiqdRyakh2) | [A Walk in Life](https://open.spotify.com/album/66a5UKnW2qZdFmItUgReg3) | 8:05 | 2024-03-12 | 2024-07-24 |
 | [PATIO](https://open.spotify.com/track/4MMniEzwkS2fg0JcaTVsfJ) | [Satoru Shionoya](https://open.spotify.com/artist/2EgHsuNzwgFaVrPgjzHNpe) | [ARROW OF TIME](https://open.spotify.com/album/773UYnDHqToyTj9ML5lgrH) | 5:03 | 2024-02-20 | 2024-04-19 |
-| [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 | 2024-11-12 |  |
+| [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 | 2024-11-12 | 2025-07-09 |
 | [Peaceful Honk](https://open.spotify.com/track/1gHnfWCyM8v7A03Qst7dJ0) | [西口明宏](https://open.spotify.com/artist/7cfJQuXW7ehOs7SixLZJhC) | [Peaceful Honk](https://open.spotify.com/album/4Z9uEm5Vfak2MKEkAHA87j) | 3:04 | 2024-07-02 | 2024-09-18 |
 | [Pendulum \[Feat\. Sonicwonder & Michelle Willis\]](https://open.spotify.com/track/0JwQJRLM0Kwvs1CFWhufhj) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w), [Michelle Willis](https://open.spotify.com/artist/2CgQstPV8fb7a4zCFWgPw0) | [Pendulum \[Feat\. Sonicwonder & Michelle Willis\]](https://open.spotify.com/album/4xm9hq7Z4NORk6mJZA0grx) | 5:57 | 2025-03-04 | 2025-05-29 |
 | [Pentatonic 物語](https://open.spotify.com/track/7f1ZL67EshqrNwoqBvFlWl) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF) | [Songbook6](https://open.spotify.com/album/3asyCHxLTPhQu11NlRCqWh) | 3:04 | 2023-03-07 | 2023-05-17 |
@@ -336,6 +337,7 @@
 | [Tokyo Portage](https://open.spotify.com/track/45UTp7ium3cTgGO5zb2xR3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/2mD5jItxhFupy9zAv4XdbH) | 3:13 | 2023-05-16 | 2023-09-13 |
 | [tomali](https://open.spotify.com/track/4yBzh8MWJ565XnqZ3qsRJI) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [tomali](https://open.spotify.com/album/2zA14R3kYzejS6pcb9W0Si) | 3:36 | 2023-08-01 | 2023-09-13 |
 | [TONIGHT'S SPECIAL](https://open.spotify.com/track/7CZZ843p1Grx6YsRNq1djs) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [Life Is Beautiful](https://open.spotify.com/album/1HOQScg7UGTpP4RoQIKcM4) | 6:18 | 2025-01-21 | 2025-03-03 |
+| [Transient Line](https://open.spotify.com/track/4ekwaV3DkhZOWafEoKWUUZ) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Transient Line](https://open.spotify.com/album/4eOsTT2FgzuTRqCJLqXDbH) | 4:13 | 2025-07-08 |  |
 | [Trapezist](https://open.spotify.com/track/5klqRUmSGNKj8NL1Hurwop) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [Trapezist](https://open.spotify.com/album/40YhNdz3r9Yuom5B3HM2XW) | 3:36 | 2025-01-07 | 2025-01-15 |
 | [Tully, Corfu, Greece](https://open.spotify.com/track/5djFwb0ctwmcs7g8di1pUF) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Tully, Corfu, Greece](https://open.spotify.com/album/6Ldob1EDDVmP5DKWcWhryC) | 4:56 | 2023-10-24 | 2023-11-01 |
 | [Tutumikomuyouni](https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh) | [Tutumikomuyouni](https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1) | 5:10 | 2023-05-16 | 2023-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,288 likes - 67 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,356 likes - 67 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

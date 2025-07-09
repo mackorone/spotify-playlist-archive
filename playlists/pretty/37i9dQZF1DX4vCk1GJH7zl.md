@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Nasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,514 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,536 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 34 | [Marvin \- Microfonado](https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Marvin \(Microfonado\)](https://open.spotify.com/album/3AlCkEugY2m9apDEJZJS9j) | 3:39 |
 | 35 | [Tela Quente \- Acústico](https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Acústico](https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR) | 3:13 |
 | 36 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 |
-| 37 | [EU TE AMO](https://open.spotify.com/track/3mhDxeYWwVUfxDNc51nOD4) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [EU TE AMO](https://open.spotify.com/album/6lvxovwkQGcaTjWpBjS2GV) | 3:28 |
-| 38 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
+| 37 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
+| 38 | [EU TE AMO](https://open.spotify.com/track/3mhDxeYWwVUfxDNc51nOD4) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [EU TE AMO](https://open.spotify.com/album/6lvxovwkQGcaTjWpBjS2GV) | 3:28 |
 | 39 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 |
-| 40 | [Vendaval](https://open.spotify.com/track/4RfG59SGuZSvE2yUxQHwzv) | [Flamha](https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh) | [Vendaval](https://open.spotify.com/album/50RosNb33uXibjhV94GjpN) | 2:45 |
-| 41 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 |
+| 40 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 |
+| 41 | [Vendaval](https://open.spotify.com/track/4RfG59SGuZSvE2yUxQHwzv) | [Flamha](https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh) | [Vendaval](https://open.spotify.com/album/50RosNb33uXibjhV94GjpN) | 2:45 |
 | 42 | [SUA BOCA](https://open.spotify.com/track/1XCCN93wMrhXxJvevRVjSk) | [Bruno Caliman](https://open.spotify.com/artist/07co38WMLoS1YJ3bvv6faf), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CALIMANISMO](https://open.spotify.com/album/7tqAfjL1n6CfJTdOvakug7) | 3:00 |
 | 43 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 |
 | 44 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |

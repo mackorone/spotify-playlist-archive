@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1622256,
+  "num_followers": 1622416,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACYNG+qh4qZTikjaJusey4p",
+  "snapshot_id": "aGsOAAAAAAA2ecwfwOH8iNnPzgSMkYZG",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 213637,
-      "name": "You (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life of a DON",
+        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 213637,
+      "name": "You (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "WAKE UP F1LTHY (with Travis Scott)",
-      "url": "https://open.spotify.com/track/1pzN8bCzy017iK3vWzkk6Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 256161,
       "name": "Dark Knight Dummo (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "WAKE UP F1LTHY (with Travis Scott)",
+      "url": "https://open.spotify.com/track/1pzN8bCzy017iK3vWzkk6Z"
     },
     {
       "added_at": null,

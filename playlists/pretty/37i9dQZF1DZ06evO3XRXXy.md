@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,605 likes - 44 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,633 likes - 44 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 26 | [The Promise](https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Heart And Soul](https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o) | 5:13 |
 | 27 | [Heart And Soul \- Live](https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Brazilian Nights \(Deluxe Edition\)](https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS) | 4:41 |
 | 28 | [Theme from "Dying Young"](https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:02 |
-| 29 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
-| 30 | [Sabor A Mi](https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 4:22 |
+| 29 | [Sabor A Mi](https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 4:22 |
+| 30 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
 | 31 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
 | 32 | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1) | 2:57 |
 | 33 | [Mi manchi](https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Amore \(Remastered\)](https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ) | 3:34 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 43 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 |
 | 44 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 
-Snapshot ID: `aGm8gAAAAADVi3HnQPJp5tsxE+Ap3D2u`
+Snapshot ID: `aGsOAAAAAAAPPuWsz8rcU7zVH8AfmZh5`

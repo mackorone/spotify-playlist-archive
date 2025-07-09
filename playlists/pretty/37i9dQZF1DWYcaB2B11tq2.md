@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,433 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,583 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,12 +111,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 101 | [Leon de Judá](https://open.spotify.com/track/3rCg0CNahe2SnzGefriBgO) | [Jackson Gomez](https://open.spotify.com/artist/3HsDckNcQ0EqJ5HhhodhCP) | [Todos Unidos \(Discografía Completa\)](https://open.spotify.com/album/1XgXnV9pF7ITKOaOf6EPrs) | 5:44 |
 | 102 | [El Cielo Gobierna](https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW) | 4:25 |
 | 103 | [El Rey Te Mandó Llamar](https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Voy A Profetizar](https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG) | 4:44 |
-| 104 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
-| 105 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
-| 106 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |
-| 107 | [La Batería](https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [La Batería](https://open.spotify.com/album/6G8BppUXH9y4TKv7fi39iM) | 2:55 |
-| 108 | [Ante Ti](https://open.spotify.com/track/4VPQcpABzjTFFQvypXA1fg) | [Jennifer Salinas](https://open.spotify.com/artist/7GudoSqEQavoY6X5CtYTp9) | [Ante Ti](https://open.spotify.com/album/185S8AFFL2ZHGzg107Oy8d) | 5:36 |
-| 109 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
+| 104 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
+| 105 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
+| 106 | [La Batería](https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [La Batería](https://open.spotify.com/album/6G8BppUXH9y4TKv7fi39iM) | 2:55 |
+| 107 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |
+| 108 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
+| 109 | [Ante Ti](https://open.spotify.com/track/4VPQcpABzjTFFQvypXA1fg) | [Jennifer Salinas](https://open.spotify.com/artist/7GudoSqEQavoY6X5CtYTp9) | [Ante Ti](https://open.spotify.com/album/185S8AFFL2ZHGzg107Oy8d) | 5:36 |
 | 110 | [De Lo Más Profundo](https://open.spotify.com/track/4ldw8AP89yMbSrbJviQxBb) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/48qi6ZYqYATvWg7HtBYyQs) | 7:45 |
 | 111 | [Tiempo Para Perder](https://open.spotify.com/track/2BTFFK0UT88yUUQtuCe4qg) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/02JM776kXbBtxV2zzk00nG) | 3:40 |
 | 112 | [Me Llevas Más Alto \(feat\. Alex Campos & Redimi2\)](https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Me Llevas Más Alto \(feat\. Alex Campos & Redimi2\)](https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC) | 3:19 |

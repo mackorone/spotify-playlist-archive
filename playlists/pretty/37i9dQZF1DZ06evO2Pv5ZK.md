@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,320 likes - 46 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,326 likes - 46 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 11 | [Memories of Green](https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 5:05 |
 | 12 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 |
 | 13 | [West Across the Ocean Sea](https://open.spotify.com/track/574kl9OU5dmKGKYhDFXj2P) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 2:53 |
-| 14 | [Songs of the Seas](https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:12 |
+| 14 | [Prelude](https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 4:25 |
 | 15 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
-| 16 | [Prelude](https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 4:25 |
+| 16 | [Songs of the Seas](https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:12 |
 | 17 | [Light and Shadow](https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 3:46 |
 | 18 | [Antarctica Echoes \- Remastered](https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 5:52 |
 | 19 | [Tears in Rain](https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:00 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 45 | [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 |
 | 46 | [Losing Sleep](https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 6:41 |
 
-Snapshot ID: `aGm8gAAAAABBHIo5uQEDjqVjdFypB4ot`
+Snapshot ID: `aGsOAAAAAADhVZwRxpUJSb1r6tXgwtRb`

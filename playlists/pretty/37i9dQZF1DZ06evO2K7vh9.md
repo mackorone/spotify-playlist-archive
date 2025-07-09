@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,453 likes - 46 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,507 likes - 46 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 |
 | 2 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
-| 3 | [OWA OWA](https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [OWA OWA](https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7) | 2:12 |
-| 4 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
+| 3 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
+| 4 | [OWA OWA](https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [OWA OWA](https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7) | 2:12 |
 | 5 | [Favorite Lie](https://open.spotify.com/track/5KEixB30VO3hb8etUPkMEq) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:49 |
 | 6 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 |
 | 7 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 45 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 46 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
 
-Snapshot ID: `aGm8gAAAAACYgasyReVHiUBmcA4rVHYC`
+Snapshot ID: `aGsOAAAAAADuDyC113idwUaadUd+DTJE`

@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-611 songs - 1 day 7 hr 6 min
+612 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Afterall](https://open.spotify.com/track/6mDKqPHVwjDMrnEz6qtj3Z) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Afterall](https://open.spotify.com/album/0nXOzec7sBDtMzWFNNSr1s) | 3:22 | 2025-03-13 | 2025-04-01 |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-07-01 | 2024-07-14 |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-07-01 | 2024-09-11 |
+| [Air Maxes](https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Air Maxes](https://open.spotify.com/album/3uJi79dqEa5suZaCg5DTGK) | 3:01 | 2025-07-03 |  |
 | [All At Once](https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 2:34 | 2025-07-03 |  |
 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 | 2025-02-20 | 2025-02-22 |
 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-05 |  |
@@ -304,7 +305,7 @@
 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 | 2024-10-10 | 2025-01-25 |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/1TX8I69pBbZBWjFOUFQFrX) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/2kLhXQO7TXZNp2fuLrhcRa) | 3:11 | 2025-03-31 | 2025-04-04 |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/2RopGxa0f9Ep4K72j9SSpq) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/6BmaXJE7BbK7oCJdgkJcsV) | 3:11 | 2025-03-20 | 2025-03-22 |
-| [Interesseret \(feat\. Noah Carter\)](https://open.spotify.com/track/00yXYRKC6isUGHRvdpQodo) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Interesseret \(feat\. Noah Carter\)](https://open.spotify.com/album/6QzB4z49O9H0sFMWoCiScM) | 2:48 | 2025-05-29 |  |
+| [Interesseret \(feat\. Noah Carter\)](https://open.spotify.com/track/00yXYRKC6isUGHRvdpQodo) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Interesseret \(feat\. Noah Carter\)](https://open.spotify.com/album/6QzB4z49O9H0sFMWoCiScM) | 2:48 | 2025-05-29 | 2025-07-09 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 |  |
 | [Is It Just Me?](https://open.spotify.com/track/3BUKSDaklrjVckSi8JUCmr) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Is It Just Me?](https://open.spotify.com/album/180pxFgUrC6nG3pfo37Yr8) | 2:59 | 2025-01-24 | 2025-03-02 |
 | [Isn’t That Enough](https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:44 | 2024-08-09 | 2024-11-22 |

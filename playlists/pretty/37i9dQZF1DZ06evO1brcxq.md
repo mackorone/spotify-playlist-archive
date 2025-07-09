@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,161 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,332 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 15 | [B2b](https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:58 |
 | 16 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
 | 17 | [Boom Clap](https://open.spotify.com/track/7982sGZuvo5OXsY6REzgIn) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd) | 2:49 |
-| 18 | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/track/6nx4f2nVmFNWquoMtUrdYX) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:37 |
+| 18 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 |
 | 19 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 20 | [Fancy](https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf) | 3:19 |
 | 21 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 |
-| 22 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 |
+| 22 | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/track/6nx4f2nVmFNWquoMtUrdYX) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:37 |
 | 23 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 24 | [Unlock it \(Lock It\) \- feat\. Kim Petras and Jay Park](https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:52 |
 | 25 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 47 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 |
 | 48 | [Shake It \(feat\. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar\)](https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 4:35 |
 
-Snapshot ID: `aGm8gAAAAAC2GIQPSLVIvb8Ot3lPXl+C`
+Snapshot ID: `aGsOAAAAAAD+ZDvtfwW+u7MM4oRicOvH`

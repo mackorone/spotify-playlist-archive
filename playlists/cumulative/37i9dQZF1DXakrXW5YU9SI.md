@@ -4,7 +4,7 @@
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-545 songs - 1 day 6 hr 31 min
+546 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-06-28 | 2024-09-13 |
 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 | 2024-11-15 | 2025-02-08 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-20 |  |
+| [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 | 2025-07-04 |  |
 | [HOMESICK](https://open.spotify.com/track/1LgtiOd4QwvRSrY6ebiaSW) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [HOMESICK](https://open.spotify.com/album/5z6Aa2gtISXvVSzrb1ZlYH) | 2:49 | 2024-09-12 | 2024-09-15 |
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-20 |  |
 | [How Will You Know?](https://open.spotify.com/track/11ztyESfbhDrQZDchzKAMJ) | [Andi Fins](https://open.spotify.com/artist/2BPie6p0D58hgEWz5Y9ACw) | [Cooking, Puzzling, Working](https://open.spotify.com/album/3aP4Aufg1q7Fe0rBd3aVbM) | 3:27 | 2025-02-28 | 2025-03-02 |
@@ -442,7 +443,7 @@
 | [Sunshine In The Room \(feat\. Jon Batiste\)](https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Sunshine In The Room](https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW) | 3:02 | 2025-02-07 | 2025-03-01 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-16 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2024-09-12 | 2024-11-22 |
-| [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-31 |  |
+| [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-31 | 2025-07-09 |
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-07 | 2025-06-01 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-07-06 |
 | [Szum](https://open.spotify.com/track/4dbp2q4IPbDvmDlECn3Xii) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Szum](https://open.spotify.com/album/2S6yeWf41bXsVaVnQ8AskE) | 3:53 | 2024-06-28 | 2024-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,138 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,143 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 4 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
 | 5 | [Lonely Day](https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:47 |
 | 6 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 |
-| 7 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
-| 8 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
+| 7 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
+| 8 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
 | 9 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 10 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 11 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 43 | [Silver And Cold](https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
 | 44 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
 | 45 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
-| 46 | [Hot Mess](https://open.spotify.com/track/18eoNBn1L1li2TvPa2DupB) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 2:52 |
-| 47 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
+| 46 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
+| 47 | [Hot Mess](https://open.spotify.com/track/18eoNBn1L1li2TvPa2DupB) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 2:52 |
 | 48 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
 | 49 | [Whoa Oh! \(Me vs Everyone\)](https://open.spotify.com/track/7CKLZEwboCy2juXMLsAHFt) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [Underdog Alma Mater](https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS) | 3:24 |
 | 50 | [How You Love Me Now](https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:17 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 54 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
 | 55 | [Dark Blue](https://open.spotify.com/track/2XFOuxF5xUZ00RaVfaIdw2) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit \(Non\-PA Release\)](https://open.spotify.com/album/3kb9M8LHAO4JKh2Z7ZgiOV) | 4:11 |
 | 56 | [Bring It \(Snakes on a Plane\)](https://open.spotify.com/track/2YWDmfu4SAnYGboCRrkjxE) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [While the City Sleeps, We Rule the Streets](https://open.spotify.com/album/0XgX5j5Ne4Tfw4oMdcoNQI) | 3:14 |
-| 57 | [Bodybag](https://open.spotify.com/track/4iplm64dNcvu82IbBOqSnX) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [This is a Stick Up…don't Make It a Murder](https://open.spotify.com/album/4Sik3cj1yd7NilzGjI2u0B) | 3:09 |
-| 58 | [Which to Bury; Us or the Hatchet?](https://open.spotify.com/track/6BWLcSdnfewflgO6x1V73p) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:11 |
+| 57 | [Which to Bury; Us or the Hatchet?](https://open.spotify.com/track/6BWLcSdnfewflgO6x1V73p) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:11 |
+| 58 | [Bodybag](https://open.spotify.com/track/4iplm64dNcvu82IbBOqSnX) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [This is a Stick Up…don't Make It a Murder](https://open.spotify.com/album/4Sik3cj1yd7NilzGjI2u0B) | 3:09 |
 | 59 | [Heregoesnothin](https://open.spotify.com/track/4eaLY5pOPsgKzs37woeTRz) | [Never Shout Never](https://open.spotify.com/artist/5pUmXBIQtqpvdV1HAy2xYC) | [The Yippee EP](https://open.spotify.com/album/1oFeg6t9ToYo6DgGwb47Fm) | 3:26 |
 | 60 | [Kelsey](https://open.spotify.com/track/5weqqLD5pDadqumvcrRCVA) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 3:37 |
 | 61 | [Hello Fascination](https://open.spotify.com/track/1y8lFR39LJlYEdmxyUsXbA) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Hello Fascination](https://open.spotify.com/album/04mqej2VPYCufws8yIFWEy) | 3:22 |

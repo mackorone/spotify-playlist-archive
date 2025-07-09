@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 270575,
+  "num_followers": 270837,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
+    },
+    {
+      "added_at": "2025-06-27 10:19:13",
+      "album": {
         "name": "Asleep On The Wing",
         "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 220500,
       "name": "Asleep On The Wing - Pt. 4",
       "url": "https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn"
-    },
-    {
-      "added_at": "2025-06-27 10:19:13",
-      "album": {
-        "name": "PHANTOM BRICKWORKS (LP II)",
-        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 325320,
-      "name": "DOROTHEA\u2019S BED",
-      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
     },
     {
       "added_at": "2025-06-27 10:19:13",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
-        "name": "Dance of Seasons",
-        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 422853,
-      "name": "Dance of Seasons",
-      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
-    },
-    {
-      "added_at": "2025-06-27 10:19:13",
-      "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "added_at": "2025-06-27 10:19:13",
+      "album": {
+        "name": "Dance of Seasons",
+        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 422853,
+      "name": "Dance of Seasons",
+      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
     },
     {
       "added_at": "2025-06-27 10:19:13",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
-        "name": "Symmetry",
-        "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
-      },
-      "artists": [
-        {
-          "name": "Alexander John",
-          "url": "https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Symmetry",
-      "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
-    },
-    {
-      "added_at": "2025-06-27 10:19:13",
-      "album": {
         "name": "cry",
         "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 146133,
       "name": "cry - Slowed",
       "url": "https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY"
+    },
+    {
+      "added_at": "2025-06-27 10:19:13",
+      "album": {
+        "name": "Symmetry",
+        "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
+      },
+      "artists": [
+        {
+          "name": "Alexander John",
+          "url": "https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Symmetry",
+      "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
     },
     {
       "added_at": "2025-06-27 10:19:13",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
-        "name": "Canneto",
-        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
       "artists": [
         {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
-        },
-        {
-          "name": "G.U.P. Alcaro",
-          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
         }
       ],
-      "duration_ms": 114500,
-      "name": "Canneto",
-      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
     },
     {
       "added_at": "2025-06-27 10:19:13",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2025-06-27 10:19:13",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+        "name": "Canneto",
+        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
       "artists": [
         {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+        },
+        {
+          "name": "G.U.P. Alcaro",
+          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
         }
       ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+      "duration_ms": 114500,
+      "name": "Canneto",
+      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
     },
     {
       "added_at": "2025-06-27 10:19:13",

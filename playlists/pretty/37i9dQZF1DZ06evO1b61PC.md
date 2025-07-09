@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,250 likes - 36 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,254 likes - 36 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 35 | [Flight Log 822](https://open.spotify.com/track/2a6mctKwLyjHbZut4kOe0B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 2:03 |
 | 36 | [My Tears Could Fill A Well](https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 6:06 |
 
-Snapshot ID: `aGm8gAAAAADWsJycopsxl5/1VsmFh9Ly`
+Snapshot ID: `aGsOAAAAAAC8rzJLHVnVf30F33613YhH`

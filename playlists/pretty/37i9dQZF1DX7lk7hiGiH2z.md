@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,798 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,817 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 35 | [Kleine Meise](https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
 | 36 | [Alle Vögel sind schon da](https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 1:48 |
 | 37 | [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 |
-| 38 | [Liebesdusche](https://open.spotify.com/track/0M1F8GVMNhz4mTceABRmtd) | [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU), [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Liebesdusche](https://open.spotify.com/album/2uuHniEZdvH69ldP6RztzC) | 2:03 |
-| 39 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz), [Michel aus Lönneberga](https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
+| 38 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz), [Michel aus Lönneberga](https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
+| 39 | [Liebesdusche](https://open.spotify.com/track/0M1F8GVMNhz4mTceABRmtd) | [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU), [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Liebesdusche](https://open.spotify.com/album/2uuHniEZdvH69ldP6RztzC) | 2:03 |
 | 40 | [Dickie, der dicke Delfin](https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:10 |
 | 41 | [Wir holen euch ab](https://open.spotify.com/track/76mevuKh4WonFC305wU9BD) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [ordentlich durcheinander](https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa) | 2:58 |
 | 42 | [Ich gönn mir Eiscreme](https://open.spotify.com/track/0V7bnkaD5CBAdfKDVE7xGJ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:30 |

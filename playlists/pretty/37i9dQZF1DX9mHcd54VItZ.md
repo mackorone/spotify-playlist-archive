@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Die Heuwels Fantasties
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,829 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,839 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 11 | [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 |
 | 12 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 13 | [Gutter](https://open.spotify.com/track/5swJSrQesKJr7skiKkW1cx) | [Cistamatic](https://open.spotify.com/artist/6ueRqbxnDDHw3WXFivdxpK) | [Gutter](https://open.spotify.com/album/1g4wKB05xaohEhi8waZUse) | 3:52 |
-| 14 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
-| 15 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 14 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 15 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 16 | [Ek Mis Jou](https://open.spotify.com/track/0H5JatqjXRa1mMWYxaHGk7) | [Alba Vorster](https://open.spotify.com/artist/6uj3llpVrZTu3fOoicbkS6) | [Ek Mis Jou](https://open.spotify.com/album/45F6LHu6ZRj1MxGv1ANJuO) | 3:27 |
 | 17 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
 | 18 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 19 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 20 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 |
 | 21 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
-| 22 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
-| 23 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 22 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 23 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 24 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 25 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 26 | [Ten Minste Vir My \- Zaan's Version](https://open.spotify.com/track/1Sob6aKzROv3oPSkMfnGqY) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Ten Minste Vir My \(Zaan's Version\)](https://open.spotify.com/album/5uKy9A6bh7W7k2xMvNdHDF) | 3:24 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 44 | [Die Drie Varkies](https://open.spotify.com/track/18wDnlP7jU4fUWTyGDYdY9) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Die Drie Varkies](https://open.spotify.com/album/0AUyCXdFxs9hHfc5T0Ng7B) | 2:47 |
 | 45 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 46 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
-| 47 | [Black Book](https://open.spotify.com/track/1vTbBTzLzLKz6TVmRIwIBK) | [Our Bodies](https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW) | [Black Book](https://open.spotify.com/album/2ZhCAotYBPm0EfTOAyfTvg) | 2:56 |
-| 48 | [Fantasy Factory](https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fantasy Factory](https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce) | 2:52 |
+| 47 | [Fantasy Factory](https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fantasy Factory](https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce) | 2:52 |
+| 48 | [Black Book](https://open.spotify.com/track/1vTbBTzLzLKz6TVmRIwIBK) | [Our Bodies](https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW) | [Black Book](https://open.spotify.com/album/2ZhCAotYBPm0EfTOAyfTvg) | 2:56 |
 | 49 | [Vernietig My](https://open.spotify.com/track/1aoTQA9IyI4uwfBqxTdY6e) | [Noa Milan](https://open.spotify.com/artist/7zoWau3lHuure77mrr5jyH) | [Vernietig My](https://open.spotify.com/album/4v5tirAycQo0MtS3TS2YLe) | 3:44 |
 | 50 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
 

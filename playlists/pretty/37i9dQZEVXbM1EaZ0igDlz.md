@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,796 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,795 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 32 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 33 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 34 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 |
-| 35 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
+| 35 | [The Night We Met](https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn) | 3:28 |
 | 36 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 37 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 |
 | 38 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 43 | [Verwandtschaftstreffen](https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Verwandtschaftstreffen](https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p) | 2:45 |
 | 44 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 |
 | 45 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 |
-| 46 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
+| 46 | [In the End](https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory](https://open.spotify.com/album/2pKw6GERJVAD61449B1EEM) | 3:36 |
 | 47 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 48 | [Alles oder Nix](https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [Alles oder Nix](https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu) | 4:12 |
 | 49 | [SABÍA QUE NO](https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SABÍA QUE NO](https://open.spotify.com/album/4WszholwoxRZHWYkRgsXKs) | 3:02 |
 | 50 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 |
 
-Snapshot ID: `L/86eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MACOUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

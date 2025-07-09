@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > The Indie highlights of 2016\. Cover: AURORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,199 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,251 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 16 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
 | 17 | [7](https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:16 |
 | 18 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 |
-| 19 | [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines \(Deluxe\)](https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP) | 3:44 |
+| 19 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 |
 | 20 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
-| 21 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 |
+| 21 | [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines \(Deluxe\)](https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP) | 3:44 |
 | 22 | [Charlemagne](https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 2:46 |
 | 23 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 |
 | 24 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 42 | [Twice](https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 3:16 |
 | 43 | [She's American](https://open.spotify.com/track/5aV4HUW9RFOB0aXq0Ud9s0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:30 |
 | 44 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
-| 45 | [For Elise](https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:23 |
-| 46 | [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:17 |
+| 45 | [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:17 |
+| 46 | [For Elise](https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:23 |
 | 47 | [Season 2 Episode 3](https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:03 |
 | 48 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
 | 49 | [Are We Ready? \(Wreck\)](https://open.spotify.com/track/1qBLtdOv2zTzq0tkc6Vy6t) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Gameshow \(Deluxe Edition\)](https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB) | 3:50 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 75 | [Bad Decisions](https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Gameshow \(Deluxe Edition\)](https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB) | 4:57 |
 | 76 | [The Real World](https://open.spotify.com/track/3Rc94e3TOA1K4vHnWeFVrn) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Sheer Agony](https://open.spotify.com/artist/7rkVJB7ZekCLtOZ2PWD2mM) | [The End Of Comedy](https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H) | 3:07 |
 | 77 | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/track/0b8mGZFzNge8J9PsgGdudT) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/album/64xUD4qC1fHeidCNlv2UGC) | 3:36 |
-| 78 | [K.](https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 5:20 |
-| 79 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 |
+| 78 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 |
+| 79 | [K.](https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 5:20 |
 | 80 | [Low](https://open.spotify.com/track/4mxNpTSvmKCaQKdWhWnkCz) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Low](https://open.spotify.com/album/2Fs5beqHCsq6eCrtMiBOWu) | 3:26 |
 | 81 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 |
 | 82 | [Gone](https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Gone](https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM) | 3:41 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 92 | [Cleopatra](https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:21 |
 | 93 | [Go Fuck Yourself](https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv) | 2:09 |
 | 94 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 |
-| 95 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
-| 96 | [Flame](https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje) | 3:47 |
+| 95 | [Flame](https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje) | 3:47 |
+| 96 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
 | 97 | [Sleep On The Floor](https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:31 |
 | 98 | [Drunk Drivers/Killer Whales](https://open.spotify.com/track/2os0aK782bakCPmjow0SU0) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens of Denial](https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj) | 6:14 |
 | 99 | [33 “GOD”](https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 3:33 |

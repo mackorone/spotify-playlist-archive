@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,100 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,270 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 16 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 |
 | 17 | [Love You Anyway](https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:49 |
 | 18 | [Must've Never Met You](https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:18 |
-| 19 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
+| 19 | [Dive \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 4:20 |
 | 20 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 |
-| 21 | [Dive \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 4:20 |
+| 21 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
 | 22 | [I Know She Ain't Ready](https://open.spotify.com/track/0TQ9Hf5DwI9crGZSIlq445) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 3:04 |
 | 23 | [Houston, We Got a Problem](https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:11 |
 | 24 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [Used to You](https://open.spotify.com/track/2HR9wF4WR2sCJP4r6l9WVF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Used to You](https://open.spotify.com/album/6FsIVrMeaJPxJIxfx9tBZs) | 3:56 |
 | 50 | [Call Me](https://open.spotify.com/track/3sPIJzHiDC420uQa8ZitF1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:20 |
 
-Snapshot ID: `aGm8gAAAAACq5D/VIGgXEfsbzqOr3d4+`
+Snapshot ID: `aGsOAAAAAABTydV3Z9wZj6RxX6loObmI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia KAJ:lta, emmalta & matildalta, HUGOLTA ja JVG:ltä, Robin Packalenilta, Senyalta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,024 likes - 98 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,027 likes - 98 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

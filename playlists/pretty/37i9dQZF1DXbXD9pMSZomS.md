@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,702 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,872 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 18 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
 | 19 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 |
 | 20 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
-| 21 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
-| 22 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
+| 21 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
+| 22 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
 | 23 | [It's in My Ears](https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4) | [Gallegos](https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF) | [It's in My Ears](https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2) | 4:05 |
-| 24 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
-| 25 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
+| 24 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
+| 25 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
 | 26 | [Roots](https://open.spotify.com/track/2puKQ2WQoMrVcEf4LyvX2z) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Roots](https://open.spotify.com/album/3O54dMAezB6VzwCn6ZloER) | 3:51 |
 | 27 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
-| 28 | [Iced Coffee](https://open.spotify.com/track/6rxQMY5SxOpSO1neanphxY) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Iced Coffee](https://open.spotify.com/album/6TftWZf2uvREyJaKLlTL47) | 2:37 |
-| 29 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
+| 28 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
+| 29 | [Iced Coffee](https://open.spotify.com/track/6rxQMY5SxOpSO1neanphxY) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Iced Coffee](https://open.spotify.com/album/6TftWZf2uvREyJaKLlTL47) | 2:37 |
 | 30 | [About Our Amore](https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [About Our Amore](https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw) | 5:04 |
 | 31 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
 | 32 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 40 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
 | 41 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
 | 42 | [I'm In Love](https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1) | [Social Lovers](https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL) | [I'm In Love](https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze) | 4:32 |
-| 43 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
-| 44 | [Call](https://open.spotify.com/track/5mm3h0pkFAVSfSg3z7QCZ9) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Call](https://open.spotify.com/album/7sDoYNIuxPIADPJSvDyBny) | 1:18 |
-| 45 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
+| 43 | [Call](https://open.spotify.com/track/5mm3h0pkFAVSfSg3z7QCZ9) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Call](https://open.spotify.com/album/7sDoYNIuxPIADPJSvDyBny) | 1:18 |
+| 44 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
+| 45 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
 | 46 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
 | 47 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 48 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |

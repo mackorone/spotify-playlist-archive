@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,787 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,011 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 30 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
 | 31 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 32 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
-| 33 | [YKSI](https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [YKSI](https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD) | 3:53 |
-| 34 | [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 |
+| 33 | [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 |
+| 34 | [YKSI](https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [YKSI](https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD) | 3:53 |
 | 35 | [The Realm](https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [The Realm](https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO) | 5:58 |
 | 36 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 |
 | 37 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |

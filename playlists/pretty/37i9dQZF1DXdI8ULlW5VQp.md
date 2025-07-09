@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,328 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,339 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 35 | [La Gata Bajo la Lluvia \- Sesión Acústica en Vivo](https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [La Gata Bajo la Lluvia \(Sesión Acústica en Vivo\)](https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T) | 4:08 |
 | 36 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
 | 37 | [Cancionera](https://open.spotify.com/track/4omxAjV5OFVfh4vBeVUH60) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/1cj7pNUyxvUhnVseDclg7q) | 5:36 |
-| 38 | [Ojos De Ajonjolí](https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Ojos De Ajonjolí](https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663) | 2:38 |
-| 39 | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6) | 3:25 |
-| 40 | [Popango](https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n) | 2:44 |
+| 38 | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6) | 3:25 |
+| 39 | [Popango](https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n) | 2:44 |
+| 40 | [Ojos De Ajonjolí](https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Ojos De Ajonjolí](https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663) | 2:38 |
 | 41 | [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 |
 | 42 | [NOstas](https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE delux: CERODRAMA](https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa) | 2:56 |
 | 43 | [Dopamina](https://open.spotify.com/track/7ontkt96zdqa5SOxdA8xFu) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Dopamina](https://open.spotify.com/album/5GYUFA7GNOu4JfVbXUBO01) | 3:14 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 57 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
 | 58 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
 | 59 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
-| 60 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 |
-| 61 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
-| 62 | [Volver a Creer](https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Volver a Creer](https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD) | 3:10 |
-| 63 | [Medias tintas](https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Después del Norte](https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG) | 2:45 |
+| 60 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
+| 61 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 |
+| 62 | [Medias tintas](https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Después del Norte](https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG) | 2:45 |
+| 63 | [Volver a Creer](https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Volver a Creer](https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD) | 3:10 |
 | 64 | [Ya Valió](https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Escribí Esto para Ti](https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K) | 3:00 |
 | 65 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
 | 66 | [Mantenme pendiente](https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Mantenme pendiente](https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ) | 4:24 |

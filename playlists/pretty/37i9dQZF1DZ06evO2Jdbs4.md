@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,753 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,760 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 39 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
 | 40 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
 | 41 | [Intro / Se Murió de Amor \- En Vivo](https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 4:56 |
-| 42 | [Margarita](https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:57 |
-| 43 | [Sergio El Bailador \- En Vivo](https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:02 |
+| 42 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:07 |
+| 43 | [Margarita](https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:57 |
 | 44 | [Hey](https://open.spotify.com/track/7s71GmxpkyZwWm0g6vCE0b) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:31 |
 | 45 | [Ojalá Te Animes \- En Vivo](https://open.spotify.com/track/6Qw7aGWA26qKYSO8qNUpAD) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Ojalá Te Animes \(En Vivo\)](https://open.spotify.com/album/70WWJVjL1HfCied7kpwJwL) | 3:01 |
-| 46 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:09 |
-| 47 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:07 |
+| 46 | [Sergio El Bailador \- En Vivo](https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:02 |
+| 47 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:09 |
 | 48 | [¿Qué Hago Conmigo?](https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:20 |
 | 49 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
-| 50 | [Contra El Tiempo \- En Vivo](https://open.spotify.com/track/4ngBpSBbgLDopT16rgOvOY) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Contra El Tiempo \(En Vivo\)](https://open.spotify.com/album/0wpA6OJp9b0PycfxfSqcBQ) | 4:01 |
+| 50 | [Cosas Del Amor \- En Vivo](https://open.spotify.com/track/2qI8I5XpG5sjhjzlxsp06j) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Luis Padilla](https://open.spotify.com/artist/02lRteeUjXQmfEppmNO7pV) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:50 |
 
-Snapshot ID: `aGm8gAAAAACoOzX/0/8d1roNiieRQZxR`
+Snapshot ID: `aGsOAAAAAAD4Ibbzqfj+jLmbiw45DsGs`

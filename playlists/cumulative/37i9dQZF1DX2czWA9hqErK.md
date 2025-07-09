@@ -2,9 +2,9 @@
 
 ### [Easy](https://open.spotify.com/playlist/37i9dQZF1DX2czWA9hqErK)
 
-> Make every day feel like Sunday
+> For lazy days and cosy nights
 
-894 songs - 2 day 1 hr 55 min
+895 songs - 2 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,7 +672,7 @@
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-03-29 | 2024-12-21 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-26 | 2025-02-28 |
 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 | 2022-05-31 | 2023-03-08 |
-| [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 | 2025-04-04 |  |
+| [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 | 2025-04-04 | 2025-07-09 |
 | [Screaming At Traffic](https://open.spotify.com/track/3xlV9ddro4IMk92Ti0cHc1) | [Bea Stewart](https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli) | [Screaming At Traffic](https://open.spotify.com/album/0awqSPSGOzyjsYteW1IfiM) | 3:55 | 2022-10-11 | 2022-12-03 |
 | [Searching](https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Searching](https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr) | 3:07 | 2025-03-24 | 2025-04-08 |
 | [Seasons](https://open.spotify.com/track/22GqKGx91w1CBrEpnkSIFT) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Seasons](https://open.spotify.com/album/5vcLgFSiyypgDgR3qzPsS6) | 3:33 | 2021-12-16 | 2022-07-08 |
@@ -844,6 +844,7 @@
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-09-05 | 2025-03-14 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-12-16 | 2022-03-09 |
 | [vodka orange juice](https://open.spotify.com/track/2yx7j2SdTCDYcDGPRFdSBz) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [vodka orange juice](https://open.spotify.com/album/1WyIXN8s7H1sE4aZDOAhU9) | 3:59 | 2021-12-16 | 2022-04-21 |
+| [walking on air](https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 3:37 | 2025-05-22 |  |
 | [Want Me](https://open.spotify.com/track/13NB4jxR3qi28I5Utk968n) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Want Me](https://open.spotify.com/album/42i9ufZ8u8jWGDB3ggd6ck) | 3:24 | 2022-03-29 | 2022-04-20 |
 | [Warm](https://open.spotify.com/track/2DCTvd3tTAfyg0a1to4STY) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/0j1wU0GZ4LbqqXxiYQN2Jn) | 3:03 | 2022-01-25 | 2024-02-24 |
 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 | 2022-03-25 | 2022-04-12 |

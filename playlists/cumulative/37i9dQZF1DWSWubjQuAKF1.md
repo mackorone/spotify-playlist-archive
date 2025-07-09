@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Pośnik
 
-510 songs - 1 day 0 hr 44 min
+511 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 | 2024-08-01 | 2025-01-24 |
 | [KUKU](https://open.spotify.com/track/6zNT4rr5WyxydUAa1WfOTZ) | [Nicole](https://open.spotify.com/artist/0u0v2kVNfDCRjSlND4Od44), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [KUKU](https://open.spotify.com/album/6fNggR8FhEbRX6clkcMdtr) | 2:24 | 2025-03-06 | 2025-03-30 |
 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 | 2025-02-27 | 2025-04-25 |
+| [Kłódki](https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [Kłódki](https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6) | 2:15 | 2025-07-08 |  |
 | [Lawenda](https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ) | [Aymi](https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I) | [Lawenda](https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV) | 2:28 | 2024-08-22 | 2024-10-19 |
 | [lawenda](https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [lawenda](https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1) | 3:55 | 2024-07-11 | 2024-11-08 |
 | [Lepsze dni](https://open.spotify.com/track/7HnzviYTC1Ag8hPkBaKvHa) | [Lija](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [słowa, których nigdy nie wypowiedziałam](https://open.spotify.com/album/6evdJOStWbQNA0G8RwgssR) | 3:34 | 2024-06-28 | 2024-07-05 |
@@ -295,7 +296,7 @@
 | [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 | 2025-01-24 |
 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 | 2024-11-21 | 2025-01-24 |
 | [Nie Szkodzi](https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Nie Szkodzi](https://open.spotify.com/album/71VoAa4uW9aVsgFifebH62) | 2:31 | 2024-06-28 | 2024-08-02 |
-| [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 | 2025-02-27 |  |
+| [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 | 2025-02-27 | 2025-07-09 |
 | [Nie zawsze wszystko](https://open.spotify.com/track/4cl6qxj75z0HOdbHK2yDWD) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj), [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U) | [Nie zawsze wszystko](https://open.spotify.com/album/6hCqUNPQDp25b85hGQ7ixM) | 3:12 | 2024-06-28 | 2024-07-27 |
 | [Nie ze mną](https://open.spotify.com/track/6faAGWMBcX76s25R8QxDwf) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nie ze mną](https://open.spotify.com/album/7hJStuNFMi5tpEZ94bKAit) | 2:43 | 2024-06-28 | 2024-07-19 |
 | [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 | 2024-06-28 | 2024-11-22 |

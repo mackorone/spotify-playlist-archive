@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,158 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,161 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
 | 50 | [Não dá mais](https://open.spotify.com/track/1n05Rid1kkMfxdGLvcZmMw) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:29 |
 
-Snapshot ID: `aGm8gAAAAADtijEDbgq1MJL/UEWSfS4s`
+Snapshot ID: `aGsOAAAAAACdT91SKTKUXkBvzLu6cQrA`

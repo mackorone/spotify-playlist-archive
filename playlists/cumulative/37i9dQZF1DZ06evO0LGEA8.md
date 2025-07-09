@@ -4,7 +4,7 @@
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 40 min
+82 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Como la Espuma](https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 2:19 | 2025-03-17 |  |
 | [Como Me Encula Esa Dama](https://open.spotify.com/track/1mFXcxBVvvmB0j3MlogCAh) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:38 | 2023-11-10 |  |
 | [Compatible Contigo](https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:35 | 2023-12-13 |  |
+| [Cuchillo en la Yugular](https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 3:25 | 2025-07-09 |  |
 | [Cumbia Morena](https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:30 | 2023-11-10 |  |
 | [De Mexico Song](https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Mexico Song](https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy) | 3:33 | 2023-11-10 |  |
 | [De Nube en Nube](https://open.spotify.com/track/6uKxRqcYPJtBRZXfOJeSOZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [De Nube en Nube](https://open.spotify.com/album/0QL23W1P1RARwrX55ywxWt) | 3:06 | 2025-06-02 |  |
@@ -65,7 +66,7 @@
 | [No Que No Eras Fan](https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:22 | 2023-12-13 |  |
 | [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 | 2023-11-10 | 2023-12-14 |
 | [No Sé Que Pasó](https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No Sé Que Pasó](https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH) | 3:36 | 2023-11-10 |  |
-| [No te puedo olvidar](https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No te puedo olvidar](https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8) | 3:34 | 2024-09-08 |  |
+| [No te puedo olvidar](https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No te puedo olvidar](https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8) | 3:34 | 2024-09-08 | 2025-07-09 |
 | [No Vale La Pena](https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Vale la Pena](https://open.spotify.com/album/1Xf1J2t3uTb2dMgnH3gout) | 3:38 | 2023-11-10 | 2024-02-24 |
 | [Noche de Lokera](https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:24 | 2023-11-10 | 2024-08-09 |
 | [Nos Fuimos por Ahi](https://open.spotify.com/track/4n1VqkX5cVZSskfxNO5piu) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow) | 4:20 | 2024-01-23 | 2024-08-30 |

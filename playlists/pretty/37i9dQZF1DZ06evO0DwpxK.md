@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,810 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,894 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 26 | [Te Conocí en Japón](https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:08 |
 | 27 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 |
 | 28 | [BANDERA](https://open.spotify.com/track/1RjKGXhBFlhANSZ95rc0wb) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 2:44 |
-| 29 | [Amor a Primera](https://open.spotify.com/track/43X3Wbw98bSESjtMKT2Nj7) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM) | 3:06 |
+| 29 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 |
 | 30 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
-| 31 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 |
+| 31 | [Amor a Primera](https://open.spotify.com/track/43X3Wbw98bSESjtMKT2Nj7) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM) | 3:06 |
 | 32 | [TINTO DE VERANO](https://open.spotify.com/track/1yf4iiJDoxC0il1ymYNWue) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:47 |
-| 33 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 |
+| 33 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
 | 34 | [roma](https://open.spotify.com/track/5eIL2PBVtangYd7tepcTIs) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 2:55 |
-| 35 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
+| 35 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 |
 | 36 | [Te Quiero Aquí Ya](https://open.spotify.com/track/1Jl3WYyjdEGfz4sZxEfcPZ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Te Quiero Aquí Ya](https://open.spotify.com/album/4FWJCKi1rJ875C7FiP7Ymf) | 3:05 |
 | 37 | [bestia](https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bestia](https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6) | 3:40 |
-| 38 | [Para Olvidarte](https://open.spotify.com/track/4tHuMh95AN5m34RsuGxjBm) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM) | 3:48 |
-| 39 | [si mañana comienza sin mí](https://open.spotify.com/track/76cA70PWNqcNmyHt1IZeuM) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 2:05 |
+| 38 | [si mañana comienza sin mí](https://open.spotify.com/track/76cA70PWNqcNmyHt1IZeuM) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 2:05 |
+| 39 | [Para Olvidarte](https://open.spotify.com/track/4tHuMh95AN5m34RsuGxjBm) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM) | 3:48 |
 | 40 | [Ardemos](https://open.spotify.com/track/0TI6G2SV5iQ9IiXA5trjSj) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Ardemos](https://open.spotify.com/album/1mrEEdNYQThxInXMHUDhX3) | 2:30 |
 
-Snapshot ID: `aGm8gAAAAABH7JDCdHSrjLmfdK5M2Qop`
+Snapshot ID: `aGsOAAAAAAClWHj5834k5pWpqd8xuMNR`

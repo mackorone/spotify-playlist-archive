@@ -1,6 +1,6 @@
 {
   "description": "Oficjalna playlista Great September Festival. Pos\u0142uchaj wyj\u0105tkowych artyst\u00f3w, kt\u00f3rzy wyst\u0105pi\u0105 na festiwalu.",
-  "num_followers": 2215,
+  "num_followers": 2217,
   "original_name": "Great September Festival",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
+        "name": "#INDAWOODS",
+        "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
+      },
+      "artists": [
+        {
+          "name": "Sw@da",
+          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+        },
+        {
+          "name": "Niczos",
+          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+        }
+      ],
+      "duration_ms": 189916,
+      "name": "Na Biesiedi",
+      "url": "https://open.spotify.com/track/0Rvi79RuWBPLQBGB6NTd9n"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
         "name": "Przepraszam",
         "url": "https://open.spotify.com/album/4eeJclyITyN6MHd0roeaI4"
       },
@@ -343,38 +363,18 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "#INDAWOODS",
-        "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
+        "name": "Sanatorium",
+        "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
       },
       "artists": [
         {
-          "name": "Sw@da",
-          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
-        },
-        {
-          "name": "Niczos",
-          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+          "name": "Coals",
+          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
         }
       ],
-      "duration_ms": 189916,
-      "name": "Na Biesiedi",
-      "url": "https://open.spotify.com/track/0Rvi79RuWBPLQBGB6NTd9n"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
-        "name": "smutna planeta",
-        "url": "https://open.spotify.com/album/6NyE88EDc9nrPUrcAdCY9d"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 179791,
-      "name": "smutna planeta",
-      "url": "https://open.spotify.com/track/66l8hZa57KPWu86MtgfToD"
+      "duration_ms": 155064,
+      "name": "nowy \u015bwiat",
+      "url": "https://open.spotify.com/track/7zGIzOdC1URuucEfjLPru2"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Sanatorium",
-        "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
+        "name": "smutna planeta",
+        "url": "https://open.spotify.com/album/6NyE88EDc9nrPUrcAdCY9d"
       },
       "artists": [
         {
-          "name": "Coals",
-          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 155064,
-      "name": "nowy \u015bwiat",
-      "url": "https://open.spotify.com/track/7zGIzOdC1URuucEfjLPru2"
+      "duration_ms": 179791,
+      "name": "smutna planeta",
+      "url": "https://open.spotify.com/track/66l8hZa57KPWu86MtgfToD"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
+        "name": "ganc egal",
+        "url": "https://open.spotify.com/album/1jcAho7wmTUgw6XoIvaFxw"
+      },
+      "artists": [
+        {
+          "name": "Coals",
+          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "ganc egal",
+      "url": "https://open.spotify.com/track/3qTafJuEpUPPrOUNurh8Z3"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
         "name": "tantrum",
         "url": "https://open.spotify.com/album/6MeCgKkC0kLmsGaB5qdzQ2"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 159773,
       "name": "B\u0105d\u017a ze mn\u0105",
       "url": "https://open.spotify.com/track/25YoTohl0kVEtZWmn0mJE1"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
-        "name": "ganc egal",
-        "url": "https://open.spotify.com/album/1jcAho7wmTUgw6XoIvaFxw"
-      },
-      "artists": [
-        {
-          "name": "Coals",
-          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "ganc egal",
-      "url": "https://open.spotify.com/track/3qTafJuEpUPPrOUNurh8Z3"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
+        "name": "3D dream trendy teen",
+        "url": "https://open.spotify.com/album/2r1E8mSRfyVZqNEkYeUyPn"
+      },
+      "artists": [
+        {
+          "name": "ruskie kotki",
+          "url": "https://open.spotify.com/artist/2sgqhCWYTfaOZ2TYOU6qco"
+        }
+      ],
+      "duration_ms": 161879,
+      "name": "#lol",
+      "url": "https://open.spotify.com/track/6EKarcgbrV4Bi7Y9gZ6TQ4"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
         "name": "oxox",
         "url": "https://open.spotify.com/album/2yb1x8Eb3guDZGTpqCKSjS"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 162785,
       "name": "Kanon",
       "url": "https://open.spotify.com/track/1ElIDzXjNlyVOrtbbhIEQg"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
-        "name": "3D dream trendy teen",
-        "url": "https://open.spotify.com/album/2r1E8mSRfyVZqNEkYeUyPn"
-      },
-      "artists": [
-        {
-          "name": "ruskie kotki",
-          "url": "https://open.spotify.com/artist/2sgqhCWYTfaOZ2TYOU6qco"
-        }
-      ],
-      "duration_ms": 161879,
-      "name": "#lol",
-      "url": "https://open.spotify.com/track/6EKarcgbrV4Bi7Y9gZ6TQ4"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Przepraszam",
-        "url": "https://open.spotify.com/album/4eeJclyITyN6MHd0roeaI4"
-      },
-      "artists": [
-        {
-          "name": "Jan Wieteska",
-          "url": "https://open.spotify.com/artist/7h4515SjHOj0zz1oPQDFPW"
-        }
-      ],
-      "duration_ms": 108597,
-      "name": "ZA CO",
-      "url": "https://open.spotify.com/track/51PbxugSerR5sKvmShKnmF"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
         "name": "Harmony Attack",
         "url": "https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 238917,
       "name": "Harmony Attack",
       "url": "https://open.spotify.com/track/6ZpreeLhTLF0MWe7nRWx69"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
+        "name": "Przepraszam",
+        "url": "https://open.spotify.com/album/4eeJclyITyN6MHd0roeaI4"
+      },
+      "artists": [
+        {
+          "name": "Jan Wieteska",
+          "url": "https://open.spotify.com/artist/7h4515SjHOj0zz1oPQDFPW"
+        }
+      ],
+      "duration_ms": 108597,
+      "name": "ZA CO",
+      "url": "https://open.spotify.com/track/51PbxugSerR5sKvmShKnmF"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "zn\u00f3w patrzysz tak",
-        "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
-      },
-      "artists": [
-        {
-          "name": "Julia Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "zn\u00f3w patrzysz tak",
-      "url": "https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
         "name": "Grymas",
         "url": "https://open.spotify.com/album/2iPOP7NT9IX1HEFhvqdREY"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 237940,
       "name": "Winny",
       "url": "https://open.spotify.com/track/6vc9RdVLsjWDm1fIdtJXET"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
+        "name": "zn\u00f3w patrzysz tak",
+        "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "zn\u00f3w patrzysz tak",
+      "url": "https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Niewidzialne",
-        "url": "https://open.spotify.com/album/2HmSMTlL3png2Nah7mAGcp"
-      },
-      "artists": [
-        {
-          "name": "Julia Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Niewidzialne",
-      "url": "https://open.spotify.com/track/3MO1AReaMekOzmeKCTkQkj"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
         "name": "Grymas",
         "url": "https://open.spotify.com/album/2iPOP7NT9IX1HEFhvqdREY"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216804,
       "name": "Czerwone Diab\u0142y",
       "url": "https://open.spotify.com/track/4JisIy4ZbRiJcWSThEzuD4"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
+        "name": "Niewidzialne",
+        "url": "https://open.spotify.com/album/2HmSMTlL3png2Nah7mAGcp"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Niewidzialne",
+      "url": "https://open.spotify.com/track/3MO1AReaMekOzmeKCTkQkj"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Wielki Hochsztapler",
-        "url": "https://open.spotify.com/album/2OP7WfIO1w2dGkY7pqIkqo"
-      },
-      "artists": [
-        {
-          "name": "balkon",
-          "url": "https://open.spotify.com/artist/2768HR9fNOpGV0s7c9cK2T"
-        }
-      ],
-      "duration_ms": 282266,
-      "name": "Wielki Hochsztapler",
-      "url": "https://open.spotify.com/track/4qooxxh2aEl2RL6mstBjz1"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
         "name": "Grymas",
         "url": "https://open.spotify.com/album/2iPOP7NT9IX1HEFhvqdREY"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Ptaki Polski",
-        "url": "https://open.spotify.com/album/5B8ksR8qWrDCAmpMogjN5P"
+        "name": "Wielki Hochsztapler",
+        "url": "https://open.spotify.com/album/2OP7WfIO1w2dGkY7pqIkqo"
       },
       "artists": [
         {
-          "name": "Ptaki Polski",
-          "url": "https://open.spotify.com/artist/3qimtV6OxTP2LjexWmq88D"
+          "name": "balkon",
+          "url": "https://open.spotify.com/artist/2768HR9fNOpGV0s7c9cK2T"
         }
       ],
-      "duration_ms": 417405,
-      "name": "\u017buraw szary",
-      "url": "https://open.spotify.com/track/0GQun9rAtHgXO2w1B5tlkS"
+      "duration_ms": 282266,
+      "name": "Wielki Hochsztapler",
+      "url": "https://open.spotify.com/track/4qooxxh2aEl2RL6mstBjz1"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1335,6 +1319,22 @@
       "duration_ms": 404333,
       "name": "Vulgar Display of Abuse",
       "url": "https://open.spotify.com/track/6VmRSykpSobguH4wb2elR1"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
+        "name": "Ptaki Polski",
+        "url": "https://open.spotify.com/album/5B8ksR8qWrDCAmpMogjN5P"
+      },
+      "artists": [
+        {
+          "name": "Ptaki Polski",
+          "url": "https://open.spotify.com/artist/3qimtV6OxTP2LjexWmq88D"
+        }
+      ],
+      "duration_ms": 417405,
+      "name": "\u017buraw szary",
+      "url": "https://open.spotify.com/track/0GQun9rAtHgXO2w1B5tlkS"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "MI\u0141O",
-        "url": "https://open.spotify.com/album/3Pa1VBrNNzDujaZFWQgIrb"
-      },
-      "artists": [
-        {
-          "name": "barekprzesta\u0144",
-          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
-        }
-      ],
-      "duration_ms": 168083,
-      "name": "ROBI\u0118 CO CHC\u0118",
-      "url": "https://open.spotify.com/track/33sGXBthlr3X2B90Oq1yT9"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
         "name": "All Thoughts Are Bad Thoughts",
         "url": "https://open.spotify.com/album/6laCKpvYsaP7f2xnaCSdnP"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 241413,
       "name": "Cielo Overdrive",
       "url": "https://open.spotify.com/track/4JCCDDHB4LduGfpQcdRdKl"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
+        "name": "MI\u0141O",
+        "url": "https://open.spotify.com/album/3Pa1VBrNNzDujaZFWQgIrb"
+      },
+      "artists": [
+        {
+          "name": "barekprzesta\u0144",
+          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
+        }
+      ],
+      "duration_ms": 168083,
+      "name": "ROBI\u0118 CO CHC\u0118",
+      "url": "https://open.spotify.com/track/33sGXBthlr3X2B90Oq1yT9"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Dla B.",
-        "url": "https://open.spotify.com/album/4iD8TaH2qWCtnmbpqOFn02"
-      },
-      "artists": [
-        {
-          "name": "najni\u017cszy cz\u0142owiek",
-          "url": "https://open.spotify.com/artist/42OPk80DuUZKFeT9GtsDQW"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Dla B.",
-      "url": "https://open.spotify.com/track/5Meo0Mm3RhAbBpCbMYmzWh"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
         "name": "All Thoughts Are Bad Thoughts",
         "url": "https://open.spotify.com/album/6laCKpvYsaP7f2xnaCSdnP"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 278173,
       "name": "The More Beautiful Things",
       "url": "https://open.spotify.com/track/2gMd40QtpnXTlMWt5bxPod"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
+        "name": "Dla B.",
+        "url": "https://open.spotify.com/album/4iD8TaH2qWCtnmbpqOFn02"
+      },
+      "artists": [
+        {
+          "name": "najni\u017cszy cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/42OPk80DuUZKFeT9GtsDQW"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Dla B.",
+      "url": "https://open.spotify.com/track/5Meo0Mm3RhAbBpCbMYmzWh"
     },
     {
       "added_at": "2025-07-04 09:05:32",

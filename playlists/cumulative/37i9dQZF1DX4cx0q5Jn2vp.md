@@ -4,7 +4,7 @@
 
 > yiheeeeeeee
 
-218 songs - 12 hr 47 min
+219 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Kulimlim](https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Kulimlim](https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq) | 3:30 | 2024-10-24 | 2024-12-05 |
 | [Lahat Ng Bukas](https://open.spotify.com/track/3s39TR3Iarc2013cuvDGQ7) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Lahat Ng Bukas](https://open.spotify.com/album/7flIBguWZI3J5lURZT6Sbk) | 3:21 | 2024-02-14 | 2024-04-19 |
 | [LANGGA](https://open.spotify.com/track/5FAa20dKuaEaRHz9rzRw7X) | [Wilbert Ross](https://open.spotify.com/artist/6bVVssXSh08il9SKx18XOA) | [LANGGA](https://open.spotify.com/album/41IH920y2sDEY2JUrGqcVt) | 3:24 | 2022-11-11 | 2022-11-25 |
+| [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2025-07-08 |  |
 | [Lean On Me](https://open.spotify.com/track/5acSb48zFAcXTdL5Wsk8xx) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:29 | 2022-06-27 | 2022-09-06 |
 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 | 2022-06-27 | 2024-04-19 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 | 2024-02-27 | 2024-04-19 |
@@ -207,7 +208,7 @@
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-04 | 2022-06-28 |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-05-09 |  |
 | [Walang Aminan](https://open.spotify.com/track/17fq6LtVwn5AvyAkVZZL4z) | [huhsmile](https://open.spotify.com/artist/66jyWeUhy75IiWKCvAakuA) | [Walang Aminan](https://open.spotify.com/album/2vJjKU0dCcpILifHOCfTq9) | 2:34 | 2022-04-04 | 2022-06-17 |
-| [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-06-27 |  |
+| [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-06-27 | 2025-07-09 |
 | [What Am I](https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [What Am I](https://open.spotify.com/album/6IEEEv0mmFYPjhATWKYZRE) | 3:04 | 2022-04-04 | 2022-07-27 |
 | [What U Need](https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [What U Need](https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U) | 2:49 | 2024-12-04 | 2024-12-17 |
 | [When I Met You](https://open.spotify.com/track/3lQZqPra1JlUu0y4FK8C09) | [Kyle Juliano](https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5) | [When I Met You](https://open.spotify.com/album/7ulGRpaGZeVAARXKPZCD6w) | 4:37 | 2022-06-27 | 2022-09-06 |

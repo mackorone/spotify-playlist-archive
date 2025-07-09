@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Ränta på ränta..\. 💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,251 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,288 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 21 | [Hotel Room Service](https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r) | 3:57 |
 | 22 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
 | 23 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
-| 24 | [Where Them Girls At \(feat\. Nicki Minaj & Flo Rida\)](https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:14 |
-| 25 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
+| 24 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
+| 25 | [Where Them Girls At \(feat\. Nicki Minaj & Flo Rida\)](https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:14 |
 | 26 | [Like A G6](https://open.spotify.com/track/5AyL2kgLtTWEu3qO3B9SqK) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Free Wired](https://open.spotify.com/album/4axgysRjIB7ToC0DA7uxXC) | 3:36 |
 | 27 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 28 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 45 | [The Way I Are](https://open.spotify.com/track/5RM4iGrNOyeKLTcMv2FPc9) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 2:59 |
 | 46 | [Cocaina](https://open.spotify.com/track/13tzQyVcDgH0aIcImt7TGk) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Cocaina](https://open.spotify.com/album/1VTbBR9NT8FVvPIeMKgtNd) | 3:00 |
 | 47 | [Feeling Myself \- Roc Boyz Remix](https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Feeling Myself \(Roc Boyz Remix\)](https://open.spotify.com/album/4RCbNOVT6CdMVHt2kJqsjK) | 3:02 |
-| 48 | [Mister Cool](https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe) | [Snook](https://open.spotify.com/artist/79tTZzeIjEwOE6JMHG5eBS) | [Vi vet inte vart vi ska men vi ska komma dit](https://open.spotify.com/album/3lRmZBFANx5bmzUO3o5ThT) | 3:07 |
-| 49 | [Losing It \- Radio Edit](https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It \(Radio Edit\)](https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t) | 2:43 |
+| 48 | [Losing It \- Radio Edit](https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It \(Radio Edit\)](https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t) | 2:43 |
+| 49 | [Mister Cool](https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe) | [Snook](https://open.spotify.com/artist/79tTZzeIjEwOE6JMHG5eBS) | [Vi vet inte vart vi ska men vi ska komma dit](https://open.spotify.com/album/3lRmZBFANx5bmzUO3o5ThT) | 3:07 |
 | 50 | [High Life](https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:21 |
 
 Snapshot ID: `aGKd4gAAAAB6UQAKqQTIei2of8wzdg1d`

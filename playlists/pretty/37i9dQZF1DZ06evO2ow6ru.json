@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 175301,
+  "num_followers": 175313,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABqla0lsZJpHnjAU2Qz1cqt",
+  "snapshot_id": "aGsOAAAAAAByx1nHvpMgmP4a4GNi/Rkp",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Damned If I Do Ya (Damned If I Don't)",
-      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
+      "duration_ms": 224200,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Wrong, It's Right",
         "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
+      "duration_ms": 187000,
+      "name": "Damned If I Do Ya (Damned If I Don't)",
+      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
     },
     {
       "added_at": null,

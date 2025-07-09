@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 145 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 145 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 68 | [We'll Be Ok](https://open.spotify.com/track/5L25pF8uaJALK8iZY4NnHH) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Forget The World \(Deluxe\)](https://open.spotify.com/album/7G1441qDQeERZDyMipQPE8) | 5:19 |
 | 69 | [Another Side](https://open.spotify.com/track/4rXsJxWgPGiu7DWHRd53Ue) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Another Side](https://open.spotify.com/album/7sqjjTWxRkhpESRatUI15w) | 3:54 |
 | 70 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
-| 71 | [first winter](https://open.spotify.com/track/4r7i3Td09NJvgmXotOvi3a) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [first winter](https://open.spotify.com/album/3kDhiltnqo4XvEvAzPU7aI) | 2:56 |
-| 72 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
+| 71 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
+| 72 | [first winter](https://open.spotify.com/track/4r7i3Td09NJvgmXotOvi3a) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [first winter](https://open.spotify.com/album/3kDhiltnqo4XvEvAzPU7aI) | 2:56 |
 | 73 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 |
 | 74 | [Nirvana](https://open.spotify.com/track/7eFbvtQ85FfJGMwft9V1AP) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 4:22 |
 | 75 | [Summer](https://open.spotify.com/track/3y0pDizVSNtDBPWFS2cXC2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:30 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 99 | [closure](https://open.spotify.com/track/4awVIE9MRNCRtia0aplSiB) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 3:02 |
 | 100 | [Deep End](https://open.spotify.com/track/16P2MNSQAlKNCV6hsnclxs) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Deep End](https://open.spotify.com/album/29mkhh4TaJm7XbeQdCxrE5) | 2:37 |
 | 101 | [on the way down](https://open.spotify.com/track/4nfO3klnA3yB2LGZXtiqTL) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:32 |
-| 102 | [happy people](https://open.spotify.com/track/2d1yL0MZkW1RjB09NHSYXG) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:12 |
-| 103 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 |
+| 102 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 |
+| 103 | [happy people](https://open.spotify.com/track/2d1yL0MZkW1RjB09NHSYXG) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:12 |
 | 104 | [Bad Together](https://open.spotify.com/track/7AsWQONBnPkLi8GP2xJf5b) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Bad Together](https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb) | 3:45 |
 | 105 | [Crazy Ass B\*tch](https://open.spotify.com/track/1jKlyiUDQcbVgNLU67gufj) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 2:58 |
 | 106 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 144 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 145 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Ab2K3gAAAABdzoKSzDNajwy55ejSBfqa`
+Snapshot ID: `Ab2QdAAAAADmVgiuN12jLiFdeE2T3bhm`

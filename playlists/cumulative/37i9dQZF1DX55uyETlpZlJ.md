@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-524 songs - 1 day 5 hr 24 min
+525 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/13qgAYlWQ9NyRhlmP4gr86) | 4:51 | 2023-12-08 | 2024-06-29 |
 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/1NpuyaasFQawZTuXItBVbo) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/0OkFHiIQPeydk7D4TiiqpP) | 4:51 | 2023-12-08 | 2024-04-19 |
 | [Hridaya](https://open.spotify.com/track/3GjAay33DWIWuddkQHCQNi) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d) | [Hridaya](https://open.spotify.com/album/6487QP2q98aiA9s3TR7zr0) | 4:22 | 2025-05-09 |  |
+| [Hrudaya Rogi](https://open.spotify.com/track/4js3DpGwRybcniskdJG7H3) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [Rutvij Joshi](https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi) | [Hrudaya Rogi](https://open.spotify.com/album/1Ra1UFUGlwyMz8PFnKms14) | 3:09 | 2025-07-08 |  |
 | [Hrudhaya](https://open.spotify.com/track/0BsTSbYtsd9heOm28EOb8G) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Hrudhaya](https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0) | 3:13 | 2023-02-15 | 2023-09-01 |
 | [Hrudhayave](https://open.spotify.com/track/6ZffSuCnZXaT94V5oYV4QZ) | [Kalmesh Ujjinakoppa](https://open.spotify.com/artist/52t9xfEBkcVGvth61NXR1N), [Darshan Sutar](https://open.spotify.com/artist/6dDNyn95OJvM5F8QwVq6bU) | [Hrudhayave](https://open.spotify.com/album/43JgbZfphTgFl6MOVrKKSM) | 5:17 | 2025-01-13 | 2025-04-10 |
 | [HUBBALLI SONG](https://open.spotify.com/track/4epAvvYgRA0zRI90ud8jFD) | [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31), [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [HUBBALLI SONG](https://open.spotify.com/album/5QzcCrWpYxTmnw5UxlmF5R) | 3:52 | 2023-06-06 | 2023-08-24 |
@@ -269,7 +270,7 @@
 | [Manadaalada Maatu](https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd) | [Manadaalada Maatu](https://open.spotify.com/album/0LmYdvdjouZveQPz7pl8F3) | 3:08 | 2023-06-06 | 2024-01-12 |
 | [Manasaagide](https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2), [Abhishek Bangera](https://open.spotify.com/artist/4ccgSLvOIE9nw2mOQJwg2D) | [Manasaagide](https://open.spotify.com/album/1k24bvHGsLRZnBYIbqLleO) | 2:38 | 2024-09-09 | 2025-02-12 |
 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 | 2023-09-13 | 2024-08-13 |
-| [Manase Relax](https://open.spotify.com/track/39jpvgTkYZkH8bNeaIDFP2) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Manase Relax](https://open.spotify.com/album/2bydnauAN63633eCC1ddEM) | 2:51 | 2025-02-18 |  |
+| [Manase Relax](https://open.spotify.com/track/39jpvgTkYZkH8bNeaIDFP2) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Manase Relax](https://open.spotify.com/album/2bydnauAN63633eCC1ddEM) | 2:51 | 2025-02-18 | 2025-07-09 |
 | [Manaseega Birukagidhe](https://open.spotify.com/track/7CAbO29cTqanGs20E0PTDn) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Manaseega Birukagidhe](https://open.spotify.com/album/2PwFQISQAug99Eh7fizHMX) | 3:59 | 2023-10-07 | 2024-04-05 |
 | [Manasindha](https://open.spotify.com/track/4Xx16ZaD0LW0svsyWx6c3x) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Manasindha](https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p) | 4:37 | 2023-05-02 | 2023-07-04 |
 | [Manasu Jaaride](https://open.spotify.com/track/6bUKQYlsou3gViUUj6Xp2O) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Manasu Jaaride](https://open.spotify.com/album/6opIhmM4pIEcVqrM3ilhUO) | 2:39 | 2024-04-03 | 2024-08-29 |

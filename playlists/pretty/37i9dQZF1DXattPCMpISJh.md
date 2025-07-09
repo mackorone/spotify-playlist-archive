@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,180 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,226 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

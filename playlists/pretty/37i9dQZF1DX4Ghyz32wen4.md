@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Jacinto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,296 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,287 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 45 | [Calles De Madrid](https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [Calles De Madrid](https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4) | 2:59 |
 | 46 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 |
 | 47 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
-| 48 | [Acuerdo](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Acuerdo](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 |
+| 48 | [ACUERDO](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [ACUERDO](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 |
 | 49 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 |
 | 50 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 |
 | 51 | [LA FOTO](https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [LA FOTO](https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb) | 2:26 |

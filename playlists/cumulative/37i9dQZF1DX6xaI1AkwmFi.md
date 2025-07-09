@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-443 songs - 1 day 1 hr 40 min
+444 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [アイラブ](https://open.spotify.com/track/3U0vkx4Qy5D3IKlFq5Gfjc) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [アイラブ](https://open.spotify.com/album/3wWgzklKo7KbX3L4GuEinH) | 3:28 | 2024-05-28 | 2024-06-13 |
 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 | 2024-07-02 | 2024-08-14 |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-13 | 2024-07-13 |
+| [イケナイ太陽](https://open.spotify.com/track/7emibp3qHeqNNYqZ2Y09xb) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 3:59 | 2025-07-02 |  |
 | [インソムニア](https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [インソムニア](https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO) | 3:24 | 2024-04-17 | 2024-05-24 |
 | [ウィスパー](https://open.spotify.com/track/3Pn8IhJ6tulPS4cmGEGZBs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ウィスパー](https://open.spotify.com/album/4cdpSmfFF2bkD4BlS8V7k6) | 4:10 | 2024-11-27 | 2024-12-18 |
 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 | 2025-06-03 | 2025-07-02 |
@@ -433,7 +434,7 @@
 | [覚悟を決めろ!](https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/0jtrUUnMiw14yT1vSyA4mV) | 3:54 | 2024-02-13 | 2024-02-15 |
 | [言葉にして](https://open.spotify.com/track/6nEkWRyNxWHawcf6pRcNnW) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [言葉にして](https://open.spotify.com/album/7pudWjUKycdXIrwrUch3nK) | 4:35 | 2023-11-28 | 2024-01-10 |
 | [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 | 2024-10-09 | 2024-11-07 |
-| [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:48 | 2025-06-11 |  |
+| [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:48 | 2025-06-11 | 2025-07-09 |
 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-15 | 2025-07-01 |
 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2025-07-02 |  |
 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 | 2023-11-28 | 2024-04-19 |

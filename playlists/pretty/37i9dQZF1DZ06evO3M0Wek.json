@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 110250,
+  "num_followers": 110324,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADDDRi+zvXfcqGwzeNP/MBi",
+  "snapshot_id": "aGsOAAAAAACii9qggRl0f1E2PwFA8p06",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reimagined",
         "url": "https://open.spotify.com/album/6U136FqCYPkYDQnBaaUovl"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 294093,
       "name": "Break In (feat. Amy Lee)",
       "url": "https://open.spotify.com/track/2vB55r6U3pqNI8I6Spz391"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 250881,
+      "name": "Black Vultures",
+      "url": "https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 254887,
       "name": "Out In the Rain",
       "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 250881,
-      "name": "Black Vultures",
-      "url": "https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 307160,
-      "name": "Shoot to Thrill",
-      "url": "https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 240453,
       "name": "Killing Ourselves to Live",
       "url": "https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 307160,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv"
     },
     {
       "added_at": null,
@@ -684,25 +684,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 249986,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Gold Dust Woman",
-      "url": "https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer"
+      "duration_ms": 264120,
+      "name": "Still of the Night",
+      "url": "https://open.spotify.com/track/7ooVEVJp4yECVnTrYWCKfw"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
       "duration_ms": 209133,
       "name": "White Dress",
       "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Gold Dust Woman",
+      "url": "https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 264120,
-      "name": "Still of the Night",
-      "url": "https://open.spotify.com/track/7ooVEVJp4yECVnTrYWCKfw"
+      "duration_ms": 249986,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK"
     },
     {
       "added_at": null,

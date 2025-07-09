@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 146605,
+  "num_followers": 146633,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADVi3HnQPJp5tsxE+Ap3D2u",
+  "snapshot_id": "aGsOAAAAAAAPPuWsz8rcU7zVH8AfmZh5",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullaby Tres",
-        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 124976,
-      "name": "Lullaby Tres",
-      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Romance",
         "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 262533,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullaby Tres",
+        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 124976,
+      "name": "Lullaby Tres",
+      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
     },
     {
       "added_at": null,

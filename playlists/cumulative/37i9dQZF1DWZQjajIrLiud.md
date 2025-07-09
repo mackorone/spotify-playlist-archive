@@ -66,6 +66,7 @@
 | [Ya Ghrib](https://open.spotify.com/track/2khKVpcq5xBBFYXD0oNjMz) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 4:14 | 2024-01-17 | 2025-03-01 |
 | [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 | 2024-01-17 | 2025-03-01 |
 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 | 2024-01-17 | 2024-04-19 |
+| [â El Okd](https://open.spotify.com/track/0Lgo0JNBxUxMx4egk9Ykgm) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:38 | 2025-02-28 |  |
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2024-01-17 | 2025-03-01 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2025-02-28 |  |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2024-01-17 | 2025-03-01 |
@@ -89,6 +90,5 @@
 | [وردة على وردة](https://open.spotify.com/track/4PwGWP1RPG3yzsGcXiQrMf) | [Sakina Lafdaili](https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl), [Fayçal Azizi](https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ) | [وردة على وردة](https://open.spotify.com/album/47P1IDnYa7rWuEIFKQ6RGL) | 5:05 | 2024-01-17 | 2025-03-01 |
 | [وصفولى عيونك](https://open.spotify.com/track/5UO3DdPmSQbtRZ20SfC1QW) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Qesset Hob](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 4:26 | 2025-02-28 |  |
 | [يوم جديد](https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 0:49 | 2024-01-17 | 2025-03-01 |
-| [⁠El Okd](https://open.spotify.com/track/0Lgo0JNBxUxMx4egk9Ykgm) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:38 | 2025-02-28 |  |
 
 \*This playlist was first scraped on 2024-03-12. Prior content cannot be recovered.

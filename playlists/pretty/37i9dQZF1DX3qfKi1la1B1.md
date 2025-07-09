@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,515 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,518 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 25 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 26 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 |
 | 27 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
-| 28 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
-| 29 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 28 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 29 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
 | 30 | [stillbody](https://open.spotify.com/track/0S8jOzbMwsJZ5SiZA4IDJ7) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Äyala Alone Deer,](https://open.spotify.com/artist/3se7yVmLBXQxSFz4dAY6W0) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:19 |
 | 31 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
 | 32 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 43 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 |
 | 44 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
 | 45 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
-| 46 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |
-| 47 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
+| 46 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
+| 47 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |
 | 48 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
 | 49 | [エイリアンズ](https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [3](https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH) | 6:04 |
 | 50 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 |

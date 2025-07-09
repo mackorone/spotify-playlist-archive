@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 834259,
+  "num_followers": 834465,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
+        "name": "Sweet Danger",
+        "url": "https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 160855,
+      "name": "Sweet Danger",
+      "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 240587,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
-        "name": "Sweet Danger",
-        "url": "https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 160855,
-      "name": "Sweet Danger",
-      "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Road to Knowhere",
-        "url": "https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh"
-      },
-      "artists": [
-        {
-          "name": "Tommy Guerrero",
-          "url": "https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "El camino negro",
-      "url": "https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "Theme from Selva",
         "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Road to Knowhere",
+        "url": "https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Guerrero",
+          "url": "https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "El camino negro",
+      "url": "https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "S\u00e3o Paulo Motoboy",
         "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 148600,
       "name": "S\u00e3o Paulo Motoboy",
       "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "you loved me like a fool",
-        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 214638,
-      "name": "you loved me like a fool",
-      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "Xover",
         "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "you loved me like a fool",
+        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 214638,
+      "name": "you loved me like a fool",
+      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Miniatures de auto rhythm",
-        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
+        "name": "Earthology",
+        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Whitefield Brothers",
+          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
         }
       ],
-      "duration_ms": 143617,
-      "name": "Faux savage",
-      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
+      "duration_ms": 199572,
+      "name": "Safari Strut",
+      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Earthology",
-        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
+        "name": "Miniatures de auto rhythm",
+        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
       },
       "artists": [
         {
-          "name": "Whitefield Brothers",
-          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 199572,
-      "name": "Safari Strut",
-      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
+      "duration_ms": 143617,
+      "name": "Faux savage",
+      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
         "name": "Beyond Our Shores",
         "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 170483,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/2h2aS5GMCPRNLE0xvgci9j"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9"
-      },
-      "artists": [
-        {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1419,42 +1419,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Adada",
-        "url": "https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Adada",
-      "url": "https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
-        "name": "Robson Jorge e Lincoln Olivetti",
-        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
-      },
-      "artists": [
-        {
-          "name": "Robson Jorge",
-          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
-        },
-        {
-          "name": "Lincoln Olivetti",
-          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
-        }
-      ],
-      "duration_ms": 181427,
-      "name": "Ginga",
-      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/6gn7yCcrqB7zDovRUrn8ZH"
       },
@@ -1467,6 +1431,22 @@
       "duration_ms": 304827,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/0ODz72aWsdWhKqgEmJYZ7Q"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Adada",
+        "url": "https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Adada",
+      "url": "https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1487,6 +1467,26 @@
       "duration_ms": 293999,
       "name": "Homo Sapiens",
       "url": "https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+      },
+      "artists": [
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        }
+      ],
+      "duration_ms": 181427,
+      "name": "Ginga",
+      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "My Padi",
-        "url": "https://open.spotify.com/album/1EH9dIlkJeLraZsLBx2oWw"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 154556,
-      "name": "My Padi",
-      "url": "https://open.spotify.com/track/4v3r8Qo2urOchL0HVZbBQn"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "My Padi",
+        "url": "https://open.spotify.com/album/1EH9dIlkJeLraZsLBx2oWw"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 154556,
+      "name": "My Padi",
+      "url": "https://open.spotify.com/track/4v3r8Qo2urOchL0HVZbBQn"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
         "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 448947,
       "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
       "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Existe Uma Voz",
-        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Existe Uma Voz",
-      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "Los Santos y Pecadores",
         "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
-        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
+        "name": "Existe Uma Voz",
+        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
       },
       "artists": [
         {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
         }
       ],
-      "duration_ms": 223764,
-      "name": "Guzelim Benim",
-      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
+      "duration_ms": 225826,
+      "name": "Existe Uma Voz",
+      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1787,6 +1771,22 @@
       "duration_ms": 282891,
       "name": "HOOYOO with Siriusmo",
       "url": "https://open.spotify.com/track/0RdNJ4ScB38jh0WWscjoNO"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
+        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
+      },
+      "artists": [
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
+        }
+      ],
+      "duration_ms": 223764,
+      "name": "Guzelim Benim",
+      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
-        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
-      },
-      "artists": [
-        {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
-        },
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        }
-      ],
-      "duration_ms": 267316,
-      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
-      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "Music Save Me (One More Time)",
         "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
       },
@@ -1963,22 +1943,22 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Keep Me On The Dancefloor",
-        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
+        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
+        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
       "artists": [
         {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
         },
         {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
         }
       ],
-      "duration_ms": 150803,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
+      "duration_ms": 267316,
+      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
+      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -1999,34 +1979,22 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+        "name": "Keep Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
-      },
-      "artists": [
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
         {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
         }
       ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
+      "duration_ms": 150803,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2043,6 +2011,22 @@
       "duration_ms": 291786,
       "name": "Alma Seca",
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2067,6 +2051,22 @@
       "duration_ms": 228000,
       "name": "Suco de Sol",
       "url": "https://open.spotify.com/track/3h7A9Ei5Qk07femqoyW6lw"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+      },
+      "artists": [
+        {
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Pirouette",
-        "url": "https://open.spotify.com/album/1NugzTHesSWhZAG34HIEzF"
-      },
-      "artists": [
-        {
-          "name": "Cindy",
-          "url": "https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Pirouette",
-      "url": "https://open.spotify.com/track/3VB7mQfM9kxTUQJC4ffxgx"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
@@ -2183,22 +2167,18 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "No Be Today",
-        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
+        "name": "Pirouette",
+        "url": "https://open.spotify.com/album/1NugzTHesSWhZAG34HIEzF"
       },
       "artists": [
         {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+          "name": "Cindy",
+          "url": "https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI"
         }
       ],
-      "duration_ms": 239666,
-      "name": "Os\u00e8",
-      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
+      "duration_ms": 196800,
+      "name": "Pirouette",
+      "url": "https://open.spotify.com/track/3VB7mQfM9kxTUQJC4ffxgx"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2223,18 +2203,22 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Various Bilongo",
-        "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
+        "name": "No Be Today",
+        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
       },
       "artists": [
         {
-          "name": "Kelenkye Band",
-          "url": "https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq"
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
         }
       ],
-      "duration_ms": 336133,
-      "name": "Jungle Music",
-      "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
+      "duration_ms": 239666,
+      "name": "Os\u00e8",
+      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2259,34 +2243,18 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
+        "name": "Various Bilongo",
+        "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
       },
       "artists": [
         {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+          "name": "Kelenkye Band",
+          "url": "https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Adagio",
-      "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
+      "duration_ms": 336133,
+      "name": "Jungle Music",
+      "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2307,6 +2275,22 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
         "name": "Kair\u00f2s",
         "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "KB's Mixtape No. 2",
+        "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Karate Boogaloo",
+          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
         }
       ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+      "duration_ms": 304333,
+      "name": "Juicy Fruit",
+      "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2363,18 +2347,18 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "KB's Mixtape No. 2",
-        "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
       "artists": [
         {
-          "name": "Karate Boogaloo",
-          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 304333,
-      "name": "Juicy Fruit",
-      "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2391,6 +2375,38 @@
       "duration_ms": 168097,
       "name": "Tayyara Warak",
       "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Mam Yinne Wa",
+        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
+      },
+      "artists": [
+        {
+          "name": "Alogte Oho & His Sounds of Joy",
+          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
+        }
+      ],
+      "duration_ms": 235250,
+      "name": "Mam Yinne Wa",
+      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2415,22 +2431,6 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Mam Yinne Wa",
-        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
-      },
-      "artists": [
-        {
-          "name": "Alogte Oho & His Sounds of Joy",
-          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
-        }
-      ],
-      "duration_ms": 235250,
-      "name": "Mam Yinne Wa",
-      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
         "name": "Wenu Wenu",
         "url": "https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC"
       },
@@ -2443,22 +2443,6 @@
       "duration_ms": 420773,
       "name": "Wenu Wenu",
       "url": "https://open.spotify.com/track/7kzhdwCg36NR0WphxVkorA"
-    },
-    {
-      "added_at": "2025-07-03 09:16:25",
-      "album": {
-        "name": "Back To Bahia",
-        "url": "https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd"
-      },
-      "artists": [
-        {
-          "name": "John Beltran",
-          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
-        }
-      ],
-      "duration_ms": 326986,
-      "name": "Entardecer",
-      "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2483,18 +2467,18 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Granturismo",
-        "url": "https://open.spotify.com/album/2TzbuUeYWupjLK7OYdGOqk"
+        "name": "Back To Bahia",
+        "url": "https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd"
       },
       "artists": [
         {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
         }
       ],
-      "duration_ms": 163016,
-      "name": "Granturismo",
-      "url": "https://open.spotify.com/track/3eAcrPW8owYHJ7oAw9bDgf"
+      "duration_ms": 326986,
+      "name": "Entardecer",
+      "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2543,6 +2527,22 @@
       "duration_ms": 197172,
       "name": "Felony",
       "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
+    },
+    {
+      "added_at": "2025-07-03 09:16:25",
+      "album": {
+        "name": "Granturismo",
+        "url": "https://open.spotify.com/album/2TzbuUeYWupjLK7OYdGOqk"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 163016,
+      "name": "Granturismo",
+      "url": "https://open.spotify.com/track/3eAcrPW8owYHJ7oAw9bDgf"
     },
     {
       "added_at": "2025-07-03 09:16:25",
@@ -2603,34 +2603,38 @@
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "TIMBO PROGRESSION",
-        "url": "https://open.spotify.com/album/70u6cm5Wp983688TTctIGW"
+        "name": "Apiafo",
+        "url": "https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn"
       },
       "artists": [
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Vaudou Game",
+          "url": "https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz"
+        },
+        {
+          "name": "Roger Damawuzan",
+          "url": "https://open.spotify.com/artist/6EP95HIx4uVmzGq7YMG0tv"
         }
       ],
-      "duration_ms": 166370,
-      "name": "Lion's Roar",
-      "url": "https://open.spotify.com/track/2ivzpUIo5dl90YTmxOryOq"
+      "duration_ms": 213373,
+      "name": "Pas Contente",
+      "url": "https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx"
     },
     {
       "added_at": "2025-07-03 09:16:25",
       "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+        "name": "Pieteron",
+        "url": "https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG"
       },
       "artists": [
         {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+          "name": "Fulu Miziki",
+          "url": "https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu"
         }
       ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
+      "duration_ms": 202000,
+      "name": "Pieteron",
+      "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
     }
   ],
   "unique_name": "Global Groove",

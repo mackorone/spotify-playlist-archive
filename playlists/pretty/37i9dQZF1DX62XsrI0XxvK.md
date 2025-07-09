@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Mark Natama
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,967 likes - 94 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,969 likes - 94 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

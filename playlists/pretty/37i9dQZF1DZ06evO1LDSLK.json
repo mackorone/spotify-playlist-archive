@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 72484,
+  "num_followers": 72487,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAhuSUnx8FMMAWPjGcImADN",
+  "snapshot_id": "aGsOAAAAAACayUvFmuDZMrikBAWyWPXS",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blah-Blah-Blah",
-        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Cry For Love",
-      "url": "https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life (The Prodigy Remix)",
         "url": "https://open.spotify.com/album/4qHxDHh1Go7ZR6d8fPC2Pd"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 300133,
       "name": "Lust For Life - The Prodigy Remix",
       "url": "https://open.spotify.com/track/5JLrVTFMGGeeB5Iz4Oci0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blah-Blah-Blah",
+        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 146598,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Post Pop Depression",
         "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 254120,
       "name": "Gardenia",
       "url": "https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 146598,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 392160,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVERY LOSER",
         "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 253893,
       "name": "Strung Out Johnny",
       "url": "https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 271171,
+      "name": "James Bond",
+      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clair Obscur",
         "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 245866,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 271171,
-      "name": "James Bond",
-      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "I'm Going Away Smiling",
-      "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVERY LOSER",
         "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
@@ -708,9 +692,25 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 366896,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
+      "duration_ms": 238387,
+      "name": "Chocolate Drops",
+      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "I'm Going Away Smiling",
+      "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 366896,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ECHOES \u2013 ANCIENT & MODERN",
         "url": "https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 206266,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 238387,
-      "name": "Chocolate Drops",
-      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 234561,
+      "name": "Break Into Your Heart",
+      "url": "https://open.spotify.com/track/16KCcwE616Sk4qTsW26wFf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 181880,
       "name": "Supermarket",
       "url": "https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 234561,
-      "name": "Break Into Your Heart",
-      "url": "https://open.spotify.com/track/16KCcwE616Sk4qTsW26wFf"
     },
     {
       "added_at": null,

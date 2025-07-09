@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 624235,
+  "num_followers": 624420,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2025-07-03 22:00:27",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 194840,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
-    },
-    {
-      "added_at": "2025-07-03 22:00:27",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2025-07-03 22:00:27",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2025-07-03 22:00:27",
-      "album": {
         "name": "LET'S GO",
         "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 193091,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
+    },
+    {
+      "added_at": "2025-07-03 22:00:27",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2025-07-03 22:00:27",
@@ -719,30 +719,6 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
-        "name": "Have You Ever Seen The Rain",
-        "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
-      },
-      "artists": [
-        {
-          "name": "Outliers",
-          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
-        },
-        {
-          "name": "John Fogerty",
-          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
-        },
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 125109,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
-    },
-    {
-      "added_at": "2025-07-03 22:00:27",
-      "album": {
         "name": "YEAH",
         "url": "https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 141551,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for"
+    },
+    {
+      "added_at": "2025-07-03 22:00:27",
+      "album": {
+        "name": "Have You Ever Seen The Rain",
+        "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
+      },
+      "artists": [
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        },
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 125109,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
     },
     {
       "added_at": "2025-07-03 22:00:27",
@@ -1007,22 +1007,26 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
-        "name": "Freestyler (Rock The Microphone)",
-        "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
+        "name": "Unendlichkeit (Remix)",
+        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
         },
         {
-          "name": "Bomfunk MC's",
-          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        },
+        {
+          "name": "The Boy The G",
+          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Freestyler (Rock The Microphone)",
-      "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
+      "duration_ms": 172764,
+      "name": "Unendlichkeit (Remix)",
+      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
     },
     {
       "added_at": "2025-07-03 22:00:27",
@@ -1067,26 +1071,22 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
-        "name": "Unendlichkeit (Remix)",
-        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
+        "name": "Freestyler (Rock The Microphone)",
+        "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
       },
       "artists": [
         {
-          "name": "MilleniumKid",
-          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
-        },
-        {
-          "name": "The Boy The G",
-          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
+          "name": "Bomfunk MC's",
+          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
         }
       ],
-      "duration_ms": 172764,
-      "name": "Unendlichkeit (Remix)",
-      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
+      "duration_ms": 174000,
+      "name": "Freestyler (Rock The Microphone)",
+      "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
     },
     {
       "added_at": "2025-07-03 22:00:27",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
-        "name": "HERZBLATT (AUA AUA)",
-        "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 160886,
-      "name": "HERZBLATT (AUA AUA)",
-      "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
-    },
-    {
-      "added_at": "2025-07-03 22:00:27",
-      "album": {
         "name": "Fast Cars & Superstars",
         "url": "https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 118701,
       "name": "Fast Cars & Superstars",
       "url": "https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa"
+    },
+    {
+      "added_at": "2025-07-03 22:00:27",
+      "album": {
+        "name": "HERZBLATT (AUA AUA)",
+        "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 160886,
+      "name": "HERZBLATT (AUA AUA)",
+      "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
     },
     {
       "added_at": "2025-07-03 22:00:27",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2025-07-03 22:00:27",
+      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
-    },
-    {
-      "added_at": "2025-07-03 22:00:27",
-      "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2025-07-03 22:00:27",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2025-07-03 22:00:27",
+      "album": {
         "name": "Abenteuerland",
         "url": "https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 179087,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq"
-    },
-    {
-      "added_at": "2025-07-03 22:00:27",
-      "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2025-07-03 22:00:27",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-07-03 22:00:27",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
-    },
-    {
-      "added_at": "2025-07-03 22:00:27",
-      "album": {
         "name": "Helele",
         "url": "https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 148411,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
+    },
+    {
+      "added_at": "2025-07-03 22:00:27",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "added_at": "2025-07-03 22:00:27",

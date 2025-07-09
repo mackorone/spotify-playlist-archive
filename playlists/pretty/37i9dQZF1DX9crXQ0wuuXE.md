@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,845 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,779 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 37 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 38 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 |
 | 39 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
-| 40 | [Alone](https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 4:28 |
-| 41 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 |
+| 40 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 |
+| 41 | [Alone](https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 4:28 |
 | 42 | [This Must Be The Place](https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Sing Into My Mouth](https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl) | 3:32 |
 | 43 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 44 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 64 | [Hold Your Head Up High](https://open.spotify.com/track/7nxIBClhF3MK4aYC7TiCWy) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 3:37 |
 | 65 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |
 | 66 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
-| 67 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 |
-| 68 | [You Don't Know How Lucky You Are](https://open.spotify.com/track/7L4w1yQnlhqo4oUjpW53wz) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Dear](https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ) | 3:48 |
+| 67 | [You Don't Know How Lucky You Are](https://open.spotify.com/track/7L4w1yQnlhqo4oUjpW53wz) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Dear](https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ) | 3:48 |
+| 68 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 |
 | 69 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
 | 70 | [Heaven Sent](https://open.spotify.com/track/0FbKvqTBo2TsSzhT5ohFI2) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:52 |
 | 71 | [Still Trying](https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:09 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 76 | [No One's Gonna Love You \- Live from Spotify Sweden](https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Spotify Sessions](https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX) | 3:59 |
 | 77 | [Just One of the Guys](https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:51 |
 | 78 | [At the Purchaser's Option](https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 4:16 |
-| 79 | [Blue Ridge Mountain](https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO) | 2:33 |
-| 80 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
+| 79 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
+| 80 | [Blue Ridge Mountain](https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO) | 2:33 |
 | 81 | [On the Frame](https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:39 |
 | 82 | [Snowden's Jig \(Genuine Negro Jig\)](https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:52 |
 | 83 | [Fire and the Flood \- Acoustic](https://open.spotify.com/track/3fUpLMdT3hPTOiy6sy6x9L) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Fire and the Flood \(Acoustic\)](https://open.spotify.com/album/6alwDf6dHo90NoIgIJqnnk) | 3:42 |

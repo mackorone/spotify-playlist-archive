@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,735 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,739 likes - 45 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 9 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 10 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
 | 11 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 |
-| 12 | [Från och med Du](https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:13 |
-| 13 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
+| 12 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
+| 13 | [Från och med Du](https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:13 |
 | 14 | [Jag kommer](https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:22 |
 | 15 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
 | 16 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |

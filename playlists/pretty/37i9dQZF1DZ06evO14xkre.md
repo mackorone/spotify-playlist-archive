@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,152 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,265 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 29 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 |
 | 30 | [Love Between...](https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:35 |
 | 31 | [Just A Stranger \(feat\. Steve Lacy\)](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:57 |
-| 32 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 |
-| 33 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:18 |
+| 32 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:18 |
+| 33 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 |
 | 34 | [Pensamientos Intrusivos](https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:12 |
 | 35 | [Moral Conscience](https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:32 |
 | 36 | [Lottery](https://open.spotify.com/track/4atsB8EjUKY1kWg8KVag9h) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 49 | [Dame Beso // Muévete](https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:35 |
 | 50 | [la luz\(Fín\)](https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:00 |
 
-Snapshot ID: `aGm8gAAAAACsJ8DvB9f61kz9/zQTvjhf`
+Snapshot ID: `aGsOAAAAAAD8LfqANCpNxP9gQqGuH4k1`

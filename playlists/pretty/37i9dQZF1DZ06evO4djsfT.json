@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27132,
+  "num_followers": 27134,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACSwuq8JkiAKXT3u/7Wmc08",
+  "snapshot_id": "aGsOAAAAAACCAsS8V+T1k9XHBbvWhsIZ",
   "tracks": [
     {
       "added_at": null,
@@ -534,11 +534,15 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
     },
     {
       "added_at": null,
@@ -614,15 +618,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 229807,
-      "name": "The Name (feat. Koryn Hawthorne)",
-      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
     },
     {
       "added_at": null,

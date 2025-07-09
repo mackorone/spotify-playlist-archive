@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-309 songs - 13 hr 12 min
+311 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Eventide](https://open.spotify.com/track/63Zw5WXjM3OWMu0m6wRtk8) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Eventide](https://open.spotify.com/album/0KLP3M9mwfduSGbhX1ypyB) | 2:34 | 2022-11-18 |  |
 | [Everytime](https://open.spotify.com/track/3A4LIH23q9wvMPbeXqqM0p) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Everytime](https://open.spotify.com/album/0GyjxgnC0a3HuoR7Gu5L48) | 2:16 | 2024-05-03 |  |
 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2022-10-14 | 2024-05-24 |
+| [Faces](https://open.spotify.com/track/04fdftVJxtAA1oSYX20Wvf) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Faces](https://open.spotify.com/album/4hhaujnJTy1xDKtLFAiRJl) | 2:43 | 2025-07-08 |  |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-06-10 | 2023-08-31 |
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2022-06-17 |  |
 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 | 2021-12-09 | 2024-04-20 |
@@ -230,6 +231,7 @@
 | [Serenna Vale](https://open.spotify.com/track/2wFah7Gqdl9AU6SOzPcLym) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Serenna Vale](https://open.spotify.com/album/6HVT7lmc1v5TMA8ZA6ADor) | 3:12 | 2025-03-25 | 2025-04-23 |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-01-06 | 2022-06-10 |
 | [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2022-09-23 | 2023-08-26 |
+| [Several Layers](https://open.spotify.com/track/6BR5LwJbKIXa34Z5toMkGB) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Several Layers](https://open.spotify.com/album/3Xezbke1CDtcpwvmxMs8Vx) | 2:20 | 2025-07-08 |  |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Share My Burden](https://open.spotify.com/track/4zrE3bK51nBFR3lA32AADH) | [Pete Harris](https://open.spotify.com/artist/1lw09BJ43yAgXRP8EtUiQQ) | [Share My Burden](https://open.spotify.com/album/4StzfazKpweUdCP3Ei0QH8) | 3:49 | 2022-10-14 | 2023-04-29 |
 | [Sighs in the Night](https://open.spotify.com/track/1InvD1XYaRe9IlwnLJ0kiy) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Sighs in the Night](https://open.spotify.com/album/6XLbtxg1YGNcIItuco4nlc) | 2:17 | 2024-05-24 |  |

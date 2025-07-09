@@ -569,6 +569,8 @@
 | [Zina Weya El Nas](https://open.spotify.com/track/37SWbX2hYRarRnxphEV1Zs) | [Sina Mousa](https://open.spotify.com/artist/3GSiCt6cvJBYsiinXBrCSd) | [Zina Weya El Nas](https://open.spotify.com/album/1vwUwpq5kOrMEJqEcf2eUM) | 3:15 | 2021-12-23 | 2022-02-28 |
 | [Zuruni](https://open.spotify.com/track/1n1Qfej8CS4L0xX5niQpxU) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Zuruni](https://open.spotify.com/album/2pFIooMgMqaHfgHeqwSb0g) | 3:09 | 2021-12-23 | 2022-03-02 |
 | [À toi](https://open.spotify.com/track/45pUwNcBbrJGDYWFvEZClz) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [À toi](https://open.spotify.com/album/1vYkBZQKoSuWMZLMaHNhCc) | 2:17 | 2023-12-07 | 2024-01-11 |
+| [â Ana Sekketen](https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 4:57 | 2024-05-07 |  |
+| [Ø£ÙŠØ§Ù…](https://open.spotify.com/track/5274F6rwUOrHb7OUs5l3K3) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Ø£ÙŠØ§Ù…](https://open.spotify.com/album/0P4aDQhzHXIfiofCbdTd1t) | 3:37 | 2024-05-29 |  |
 | [آخر إصدار](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [آخر إصدار](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-05-11 | 2023-09-09 |
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 | 2023-05-13 |
 | [أكتر بكتير](https://open.spotify.com/track/1XkJjxi6GnzVMrWdkRsqMh) | [Nour Chehab](https://open.spotify.com/artist/1vi8wXxu7J0TKgxiNXV3uQ) | [أكتر بكتير](https://open.spotify.com/album/4gunC4wM9clRzn6jfltbKE) | 2:45 | 2023-09-14 | 2023-11-02 |
@@ -576,7 +578,6 @@
 | [أنا مش صوتك](https://open.spotify.com/track/2so4YlyW2pJ2hpkB8mDca3) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا مش صوتك](https://open.spotify.com/album/1iU9abXK45PvgLdKkU2axL) | 3:07 | 2024-03-08 | 2024-04-19 |
 | [أناكوندا](https://open.spotify.com/track/1XWBr66ODYX70TMRFvqVqc) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [أناكوندا](https://open.spotify.com/album/4CRITjhIkefit5B9J1HCEq) | 3:16 | 2021-12-23 | 2022-02-26 |
 | [أنساك](https://open.spotify.com/track/7Kt2dIB6IvPUs2qSdPRw8X) | [Layla Rina](https://open.spotify.com/artist/1T6zSTnrsGeN5HwgwcGTnt) | [أنساك](https://open.spotify.com/album/1FjKSu7MPy5dDQrA7FpFbn) | 3:52 | 2021-12-30 | 2022-03-01 |
-| [أيام](https://open.spotify.com/track/5274F6rwUOrHb7OUs5l3K3) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [أيام](https://open.spotify.com/album/0P4aDQhzHXIfiofCbdTd1t) | 3:37 | 2024-05-29 |  |
 | [إجمدي](https://open.spotify.com/track/56bavY4NOpLZ8usVJp1PmZ) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [إجمدي](https://open.spotify.com/album/75JEt9SVbFyVYv3oaYuUVV) | 2:41 | 2023-10-02 | 2023-11-18 |
 | [إكشف](https://open.spotify.com/track/5VUx0VtxOY7NeM8j0WgBGN) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [إكشف](https://open.spotify.com/album/2XArlbaa3p0modU9dsoHYJ) | 3:32 | 2023-09-14 | 2023-12-09 |
 | [اتكشفت الحكاية](https://open.spotify.com/track/11BPPYdEkXxPHnWrucDY7g) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [اتكشفت الحكاية](https://open.spotify.com/album/6YSLdGbtjZFEDGXB6HQcRZ) | 3:16 | 2023-09-14 | 2023-12-09 |
@@ -711,6 +712,5 @@
 | [يالأيام](https://open.spotify.com/track/0irTKPA6HKoBqS84qzfImN) | [Meriem Nourdine](https://open.spotify.com/artist/3Kh8dQTSIfbZ0f4ZHvm9al) | [يالأيام](https://open.spotify.com/album/4Zcqp2T7U2AmG5tII9nw7p) | 4:48 | 2021-12-23 | 2022-02-28 |
 | [يتميلح](https://open.spotify.com/track/7773uSBeDmRum6cT0RmH2q) | [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi) | [يتميلح](https://open.spotify.com/album/6lBjQb25aQ7D62YQFiRkRi) | 2:54 | 2021-12-30 | 2022-03-01 |
 | [يذكرني الشتاء](https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [يذكرني الشتاء](https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC) | 2:55 | 2023-01-25 | 2023-09-09 |
-| [⁠Ana Sekketen](https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 4:57 | 2024-05-07 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

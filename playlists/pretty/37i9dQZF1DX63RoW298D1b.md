@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 
 > Soothing piano for the ultimate wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,415 likes - 99 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,441 likes - 99 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Juliet Rose](https://open.spotify.com/track/5eiXYdSRFd48jBqnQrw83h) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Juliet Rose](https://open.spotify.com/album/1z8NJlHqLWNVCkh3jbpL6T) | 2:02 |
-| 2 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
+| 1 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
+| 2 | [Juliet Rose](https://open.spotify.com/track/5eiXYdSRFd48jBqnQrw83h) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Juliet Rose](https://open.spotify.com/album/1z8NJlHqLWNVCkh3jbpL6T) | 2:02 |
 | 3 | [Her First Theme](https://open.spotify.com/track/4Fdm4NrMFgHRCQZIr1guDz) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Her First Theme](https://open.spotify.com/album/6oxC9shBjvSwCnbs1iwKNg) | 2:30 |
 | 4 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 |
 | 5 | [Fatsia](https://open.spotify.com/track/3dYZA2Zu4jPASbKbZgqC3L) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Fatsia](https://open.spotify.com/album/5AhD8WFtcvufsebhRyCEjl) | 2:25 |
@@ -18,27 +18,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 | 8 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 |
 | 9 | [Rays](https://open.spotify.com/track/1o23KVEUtj9M51iEGJg78o) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Rays](https://open.spotify.com/album/2AP9ZRgQEolXjRccHlPqw1) | 2:33 |
 | 10 | [Now And Before](https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Now And Before](https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk) | 2:01 |
-| 11 | [Holy Embers](https://open.spotify.com/track/6XovkaL6NCGSq42LWERqz4) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Holy Embers](https://open.spotify.com/album/4uWmXxPxhG9WoggJ1v46p0) | 2:15 |
-| 12 | [Intuitive](https://open.spotify.com/track/31VWZJtZ5ba8GCVhllyOiQ) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Intuitive](https://open.spotify.com/album/6Xa4sstww69EZKAPiwnPRs) | 2:07 |
-| 13 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 |
-| 14 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
-| 15 | [le voyageur](https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [le voyageur](https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX) | 2:30 |
-| 16 | [Golden Fields](https://open.spotify.com/track/7sdBQrciBCuWoAFe8pY0sw) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Golden Fields](https://open.spotify.com/album/5cMkJA1S0kyGbsedwON2zo) | 2:38 |
-| 17 | [Into The Light](https://open.spotify.com/track/339bMJGEo9fHqWy0g7F7ht) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Into The Light](https://open.spotify.com/album/4yzkMY5AjfqnfyOCk11fNz) | 2:41 |
-| 18 | [For love](https://open.spotify.com/track/4kDRLAbvEWLXFRG3zPcU0p) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [For love](https://open.spotify.com/album/6mLw8MErNI9cmkpjnAQ3bw) | 2:26 |
-| 19 | [Quiet Palette](https://open.spotify.com/track/7404RoJRtD7G6js1gAdZGz) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Quiet Palette](https://open.spotify.com/album/02ptJu9pkcqOeejvdyvJep) | 2:48 |
-| 20 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 |
+| 11 | [Intuitive](https://open.spotify.com/track/31VWZJtZ5ba8GCVhllyOiQ) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Intuitive](https://open.spotify.com/album/6Xa4sstww69EZKAPiwnPRs) | 2:07 |
+| 12 | [Holy Embers](https://open.spotify.com/track/6XovkaL6NCGSq42LWERqz4) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Holy Embers](https://open.spotify.com/album/4uWmXxPxhG9WoggJ1v46p0) | 2:15 |
+| 13 | [Alder](https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Alder](https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl) | 2:59 |
+| 14 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 |
+| 15 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
+| 16 | [le voyageur](https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [le voyageur](https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX) | 2:30 |
+| 17 | [Golden Fields](https://open.spotify.com/track/7sdBQrciBCuWoAFe8pY0sw) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Golden Fields](https://open.spotify.com/album/5cMkJA1S0kyGbsedwON2zo) | 2:38 |
+| 18 | [Into The Light](https://open.spotify.com/track/339bMJGEo9fHqWy0g7F7ht) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Into The Light](https://open.spotify.com/album/4yzkMY5AjfqnfyOCk11fNz) | 2:41 |
+| 19 | [For love](https://open.spotify.com/track/4kDRLAbvEWLXFRG3zPcU0p) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [For love](https://open.spotify.com/album/6mLw8MErNI9cmkpjnAQ3bw) | 2:26 |
+| 20 | [Quiet Palette](https://open.spotify.com/track/7404RoJRtD7G6js1gAdZGz) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Quiet Palette](https://open.spotify.com/album/02ptJu9pkcqOeejvdyvJep) | 2:48 |
 | 21 | [Soft Echoes](https://open.spotify.com/track/6LgGNehVT0BpXcYqu4tWIc) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Soft Echoes](https://open.spotify.com/album/0j3nUOkfEKrduxG19DtbTJ) | 2:47 |
-| 22 | [Alder](https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Alder](https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl) | 2:59 |
-| 23 | [It Takes Time](https://open.spotify.com/track/3dQa7fCfGgoRM5FW5Liawc) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [It Takes Time](https://open.spotify.com/album/0lCUipFZcKcXYukQ0Wk9QT) | 2:50 |
-| 24 | [Una Segunda Oportunidad](https://open.spotify.com/track/06QAq1rViVOXwvA1MwQJVG) | [Bress Curton](https://open.spotify.com/artist/31hpV7tUYfk8ylQR1gSN8v) | [Una Segunda Oportunidad](https://open.spotify.com/album/1s1SMYocP9natVC3rSqDyQ) | 2:56 |
-| 25 | [Lucence](https://open.spotify.com/track/6SY0nMP1iAmNNMwHnWrCgI) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Lucence](https://open.spotify.com/album/4bkuf9zuqctbiJSvOr6U91) | 2:17 |
-| 26 | [Paradise Waiting](https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradise Waiting](https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2) | 3:45 |
-| 27 | [Wanderlust](https://open.spotify.com/track/0FWiBmCzyNSuvus2TIoAEw) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Wanderlust](https://open.spotify.com/album/2nVZXTIoztXDPcG6em3MTv) | 2:18 |
-| 28 | [Authentic](https://open.spotify.com/track/79WuHtIUNcbSeDmKrUQKas) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Authentic](https://open.spotify.com/album/7vkO9Ja6IlloWVRk3PzCex) | 2:42 |
-| 29 | [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 |
-| 30 | [Beyond](https://open.spotify.com/track/0gtfOobHUV6nOcdXIEPbXl) | [Luçon](https://open.spotify.com/artist/1TKCUHSYzKgzZsRuxpsjfH) | [Beyond](https://open.spotify.com/album/6LSpdPraDW0a3Azl3sFOmn) | 3:15 |
-| 31 | [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 |
+| 22 | [Wanderlust](https://open.spotify.com/track/0FWiBmCzyNSuvus2TIoAEw) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Wanderlust](https://open.spotify.com/album/2nVZXTIoztXDPcG6em3MTv) | 2:18 |
+| 23 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/6SfRPNpx53bVHzG8dNvROF) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 |
+| 24 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 |
+| 25 | [Paradise Waiting](https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradise Waiting](https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2) | 3:45 |
+| 26 | [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 |
+| 27 | [Una Segunda Oportunidad](https://open.spotify.com/track/06QAq1rViVOXwvA1MwQJVG) | [Bress Curton](https://open.spotify.com/artist/31hpV7tUYfk8ylQR1gSN8v) | [Una Segunda Oportunidad](https://open.spotify.com/album/1s1SMYocP9natVC3rSqDyQ) | 2:56 |
+| 28 | [Lucence](https://open.spotify.com/track/6SY0nMP1iAmNNMwHnWrCgI) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Lucence](https://open.spotify.com/album/4bkuf9zuqctbiJSvOr6U91) | 2:17 |
+| 29 | [Authentic](https://open.spotify.com/track/79WuHtIUNcbSeDmKrUQKas) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Authentic](https://open.spotify.com/album/7vkO9Ja6IlloWVRk3PzCex) | 2:42 |
+| 30 | [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 |
+| 31 | [Beyond](https://open.spotify.com/track/0gtfOobHUV6nOcdXIEPbXl) | [Luçon](https://open.spotify.com/artist/1TKCUHSYzKgzZsRuxpsjfH) | [Beyond](https://open.spotify.com/album/6LSpdPraDW0a3Azl3sFOmn) | 3:15 |
 | 32 | [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 |
 | 33 | [First Espresso](https://open.spotify.com/track/0a36Dei2NUET7Bxc0d9q7e) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [First Espresso](https://open.spotify.com/album/0HXafUnDAJ9zXyKGMcCF78) | 2:41 |
 | 34 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 | 98 | [If lonely...](https://open.spotify.com/track/3w7ooeKGTjTd8W7Qp2oAop) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [If lonely...](https://open.spotify.com/album/68CGa50C8hC4xr28VhCSmZ) | 2:19 |
 | 99 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
 
-Snapshot ID: `aEf5PQAAAAAyGQZ9WCwW6IRNcuQNKm2L`
+Snapshot ID: `aGzbOAAAAAAkd0pX2RIXJ4ucTe+FYKlT`

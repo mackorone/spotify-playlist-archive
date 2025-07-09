@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 560002,
+  "num_followers": 560032,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Senandung Hati dan Jiwa",
-        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
       "artists": [
         {
-          "name": "NaFF",
-          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Kenanglah Aku",
-      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
+      "duration_ms": 170000,
+      "name": "Interaksi",
+      "url": "https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -455,18 +455,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+        "name": "Senandung Hati dan Jiwa",
+        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "NaFF",
+          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Interaksi",
-      "url": "https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP"
+      "duration_ms": 240600,
+      "name": "Kenanglah Aku",
+      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 260003,
-      "name": "Kusut",
-      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Dunia Batas",
         "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 240882,
       "name": "Resah",
       "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 260003,
+      "name": "Kusut",
+      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Tolong",
         "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 250322,
       "name": "Tolong",
       "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Lebih Dari Egoku",
-        "url": "https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu"
-      },
-      "artists": [
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
-        }
-      ],
-      "duration_ms": 249097,
-      "name": "Lebih Dari Egoku",
-      "url": "https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "1st (Special Edition)",
         "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 245400,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Lebih Dari Egoku",
+        "url": "https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 249097,
+      "name": "Lebih Dari Egoku",
+      "url": "https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Daur Hidup",
-        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
-      },
-      "artists": [
-        {
-          "name": "Donne Maula",
-          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
-        }
-      ],
-      "duration_ms": 162739,
-      "name": "Daur Hidup",
-      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 218293,
       "name": "Bimbang",
       "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Daur Hidup",
+        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "duration_ms": 162739,
+      "name": "Daur Hidup",
+      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
+        "name": "keepyousafe",
+        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
       },
       "artists": [
         {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        },
-        {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Bicara (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+      "duration_ms": 261673,
+      "name": "keepyousafe",
+      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1199,34 +1195,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "semua, semua.",
-        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
       "artists": [
         {
-          "name": "Teddy Adhitya",
-          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
-        }
-      ],
-      "duration_ms": 201479,
-      "name": "Kembalikanku",
-      "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
-        "name": "keepyousafe",
-        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
-      },
-      "artists": [
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
         {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
         }
       ],
-      "duration_ms": 261673,
-      "name": "keepyousafe",
-      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
+      "duration_ms": 236394,
+      "name": "Bicara (feat. Monita Tahalea)",
+      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1243,6 +1227,22 @@
       "duration_ms": 350626,
       "name": "Lagunya Begini, Nadanya Begitu",
       "url": "https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "semua, semua.",
+        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
+      },
+      "artists": [
+        {
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+        }
+      ],
+      "duration_ms": 201479,
+      "name": "Kembalikanku",
+      "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
     },
     {
       "added_at": "2025-05-05 23:09:10",

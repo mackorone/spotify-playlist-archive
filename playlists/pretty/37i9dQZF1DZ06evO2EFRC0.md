@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,080 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,092 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 25 | [No Hay Pero Va a Sobrar](https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:30 |
 | 26 | [Al Que Es Digno](https://open.spotify.com/track/0pUUc74GRf1hV7fHeblO3c) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 3:39 |
 | 27 | [Temprano Yo Te Buscaré / Yo Te Busco](https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Temprano Yo Te Buscaré / Yo Te Busco](https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS) | 4:31 |
-| 28 | [Santo Río de Dios](https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM) | 5:01 |
-| 29 | [Exáltate](https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn) | 6:20 |
+| 28 | [Exáltate](https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn) | 6:20 |
+| 29 | [Santo Río de Dios](https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM) | 5:01 |
 | 30 | [Renuévame / Tu Amor Por Mi](https://open.spotify.com/track/0iV2iKb7xXppAHh0pDGkCR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Krystal Guerra Witt](https://open.spotify.com/artist/1WCzAjMYQUbMR5CVZKfYkm), [Elena Witt\-Guerra](https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 3:47 |
 | 31 | [Si puedes creer](https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 6:11 |
 | 32 | [Cuan Grande Es el](https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva) | [Eunice Rodriguez](https://open.spotify.com/artist/2hgP8nOel52OiqwXIFxZYD), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Cuan Grande Es el](https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 49 | [Primero Nos Amó](https://open.spotify.com/track/2J5SBXo9kmS37AQCBj4wiU) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Primero Nos Amó](https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW) | 3:49 |
 | 50 | [Quiero Levantar mis Manos](https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 4:28 |
 
-Snapshot ID: `aGm8gAAAAAA8HS0Yl3Q9KvWbWG5tKDdL`
+Snapshot ID: `aGsOAAAAAACfNhh3swLx7C9KVNNL7qFf`

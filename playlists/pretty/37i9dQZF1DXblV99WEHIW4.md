@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,810 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,904 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 59 | [Your Love \(Has Ruined My Life\)](https://open.spotify.com/track/10JEOrrLhzEGQm1HgFnrpN) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 4:27 |
 | 60 | [The Stigma \(Boys Don’t Cry\)](https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:02 |
 | 61 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
-| 62 | [Anthem](https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 3:48 |
-| 63 | [All We Have Is Now](https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:33 |
+| 62 | [All We Have Is Now](https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:33 |
+| 63 | [Anthem](https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 3:48 |
 | 64 | [Toothpick](https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:35 |
 | 65 | [Everything and Nothing](https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Everything and Nothing](https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9) | 3:57 |
 | 66 | [Ripple Water Shine](https://open.spotify.com/track/7rPpErLCzp22gTrEmx4XYb) | [Pianos Become The Teeth](https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C) | [Keep You](https://open.spotify.com/album/6FIG1qaWuCW4SiY2EtLJE7) | 3:29 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 76 | [I Heard That You Died](https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw) | [Secret Keeper](https://open.spotify.com/artist/1PTWE7Ai94DpmZGoZ3I7RA) | [Losing Sleep](https://open.spotify.com/album/46RGSr1CHy2jWrnxt5LFgA) | 3:01 |
 | 77 | [Graduating Life](https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:40 |
 | 78 | [Crescent\-Shaped Depression](https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Crescent\-Shaped Depression](https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o) | 2:24 |
-| 79 | [Remember Me](https://open.spotify.com/track/7MXWdvqzy7viwrTSPy9Gon) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [How To Be A Person Like Other People](https://open.spotify.com/album/2DoKntiTZn1YxdyfQHgA4D) | 3:41 |
+| 79 | [The Hardest Part Is Forgetting Those You Swore You Would Never Forget \- Acoustic](https://open.spotify.com/track/1piJyYNcnEwdnLpKLEhlfU) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [Dear G\-D..\. \(10 Years Anniversary Bonus Tracks\)](https://open.spotify.com/album/71m4Wae9Qxo4SniAdQ9vcA) | 5:34 |
 | 80 | [Background Sad](https://open.spotify.com/track/3QgcFagmjAErgUjXXZldZc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:31 |
 
 Snapshot ID: `Zo2x+AAAAADRccnVkdRVI9OUtxv2kdYh`

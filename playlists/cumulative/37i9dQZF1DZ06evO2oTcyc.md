@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-154 songs - 8 hr 3 min
+155 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Hate Being Alone](https://open.spotify.com/track/4OTofNs1V7sgnSSlzj4edo) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heart Break Kodak \(HBK\)](https://open.spotify.com/album/0U578dQAanKmYDKCvqk2P3) | 4:04 | 2024-06-03 | 2024-11-08 |
 | [Heart Mind](https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [FEMA \(Finesse Elevate Motivate Achieve\)](https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0) | 3:23 | 2022-10-28 |  |
 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 | 2022-10-28 |  |
-| [Hit Bout It](https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Bout It](https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0) | 2:57 | 2023-11-10 |  |
+| [Hit Bout It](https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Bout It](https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0) | 2:57 | 2023-11-10 | 2025-07-09 |
 | [Hit Stick](https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Stick](https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN) | 3:13 | 2024-08-11 | 2025-04-12 |
 | [HOMAGE \(feat\. Kodak Black\)](https://open.spotify.com/track/7d385YmjS53AFzloIRmfL9) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HOMAGE \(feat\. Kodak Black\)](https://open.spotify.com/album/7BUO6iB8gQ0bOeLBSNMvQv) | 3:09 | 2024-05-10 | 2024-06-06 |
 | [Honey Bun](https://open.spotify.com/track/1SRYeLTTfFC1nYtIMauYQc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heart of the Projects](https://open.spotify.com/album/6KFW9lDRKODehZOBESXp3s) | 2:35 | 2024-05-10 | 2024-07-22 |
@@ -141,6 +141,7 @@
 | [That For Real](https://open.spotify.com/track/3DG8A4l8nOWDouQrfu8t1V) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:26 | 2023-06-06 | 2023-06-22 |
 | [There He Go](https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:16 | 2022-10-28 |  |
 | [This N That \(feat\. Bryson Tiller & Kodak Black\)](https://open.spotify.com/track/7evkF9xaNtay5beh1w9QyQ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:09 | 2024-09-02 | 2024-11-07 |
+| [Till im Gone \(feat\. Kodak Black\)](https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 3:46 | 2025-07-09 |  |
 | [Too Many Years](https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:16 | 2022-10-28 |  |
 | [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:49 | 2022-10-28 |  |
 | [Tryna Figure Why](https://open.spotify.com/track/3BfNIW0GIh5V56rhaMUSpe) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:28 | 2023-06-02 | 2023-07-10 |

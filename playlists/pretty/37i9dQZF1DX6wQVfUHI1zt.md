@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,432 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,466 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,24 +79,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 69 | [Perdoname](https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [FOREVER MAZZ](https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA) | 4:38 |
 | 70 | [Costumbres](https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:49 |
 | 71 | [Que Me Lleven Canciones](https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:56 |
-| 72 | [El Poder De Tus Manos](https://open.spotify.com/track/5cK8SOO5rp6FTJEaq6ojzN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:02 |
+| 72 | [Sueña](https://open.spotify.com/track/6LsysQAxBx5PVMbufJeqY9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:15 |
 | 73 | [Qué Más Te Puedo Dar](https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:40 |
 | 74 | [Di Algo featuring Edgar Ramirez of Zeri](https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Iconic \(Remastered\)](https://open.spotify.com/album/04QjiAjGtDlaGITJRecZRj) | 3:44 |
 | 75 | [Siempre Hace Frio](https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:13 |
 | 76 | [¿Qué Será?](https://open.spotify.com/track/2Jgu37m4rGRGhmaS0W9JMv) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:39 |
-| 77 | [Sueña](https://open.spotify.com/track/6LsysQAxBx5PVMbufJeqY9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:15 |
+| 77 | [El Poder De Tus Manos](https://open.spotify.com/track/5cK8SOO5rp6FTJEaq6ojzN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:02 |
 | 78 | [Vive](https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 4:14 |
 | 79 | [Porque Todavía Te Quiero](https://open.spotify.com/track/6cDh2RUe0AFbt2XJZd3R0J) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Porque Todavía Te Quiero](https://open.spotify.com/album/4AbAg6HHrjQzgCxni3fSLb) | 4:08 |
 | 80 | [La Carcacha](https://open.spotify.com/track/6ylsnFJHjC6g68EOlMpjnq) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 4:11 |
 | 81 | [Traicionera](https://open.spotify.com/track/6uwFq7V0QQEENpFHFpYX4z) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:48 |
 | 82 | [Enséñame A Olvidarte](https://open.spotify.com/track/0shtd9B4bdC8Nf4hw5Ii7k) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:22 |
 | 83 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 |
-| 84 | [Agua De Papaya](https://open.spotify.com/track/1bGZfq8JYklMC8yT0BcpWz) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Que Cante El Mundo \(Remastered\)](https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC) | 4:06 |
+| 84 | [El Mariachi Loco](https://open.spotify.com/track/7E4zThdgqCQO3WCPY0C3r5) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Porque Todavía Te Quiero](https://open.spotify.com/album/4AbAg6HHrjQzgCxni3fSLb) | 4:13 |
 | 85 | [No Me Queda Más](https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:10 |
 | 86 | [Vuelvo](https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Basico](https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC) | 4:15 |
 | 87 | [Eso Duele](https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:16 |
 | 88 | [Te Voy A Amar](https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:56 |
-| 89 | [El Mariachi Loco](https://open.spotify.com/track/7E4zThdgqCQO3WCPY0C3r5) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Porque Todavía Te Quiero](https://open.spotify.com/album/4AbAg6HHrjQzgCxni3fSLb) | 4:13 |
+| 89 | [Agua De Papaya](https://open.spotify.com/track/1bGZfq8JYklMC8yT0BcpWz) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Que Cante El Mundo \(Remastered\)](https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC) | 4:06 |
 | 90 | [Fotos Y Recuerdos](https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 2:35 |
 | 91 | [Don Luis El Tejano](https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:02 |
 | 92 | [Con Mis Alas Rotas](https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:36 |

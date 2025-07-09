@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: B Jack$
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,887 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,847 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 2 | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/album/1ir2QtNdkl8WgzyPjDNcHz) | 4:35 |
 | 3 | [PlaqueBoyMax](https://open.spotify.com/track/3LYXwZsL3SUwZGEvOqYCKI) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [PlaqueBoyMax](https://open.spotify.com/album/5xUIDwmQwT7HChkNTr9peO) | 1:53 |
 | 4 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
-| 5 | [Cant Go Broke Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke Remix](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
+| 5 | [Cant Go Broke \- Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke \(Remix\)](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
 | 6 | [Trick](https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Trick](https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1) | 2:02 |
 | 7 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
 | 8 | [Summer '25](https://open.spotify.com/track/75YrOesTP7LR2NxNrKDH7h) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Summer '25](https://open.spotify.com/album/4Z5Q79bhK7ViROrUyrhZgk) | 2:19 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Gunna, Don Toliver and Drake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,025,774 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,024,265 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
 | 2 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |
 | 3 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 |
-| 4 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 4 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 5 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
 | 6 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 7 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 |

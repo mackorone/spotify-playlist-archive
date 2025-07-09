@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,268 likes - 73 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,270 likes - 73 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 10 | [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 |
 | 11 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 |
 | 12 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 |
-| 13 | [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 |
-| 14 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
+| 13 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
+| 14 | [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 |
 | 15 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 |
 | 16 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 |
 | 17 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 34 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 |
 | 35 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 |
 | 36 | [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 |
-| 37 | [Drizzle](https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Drizzle](https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh) | 2:04 |
-| 38 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 |
+| 37 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 |
+| 38 | [Drizzle](https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Drizzle](https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh) | 2:04 |
 | 39 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
 | 40 | [chime in](https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [chime in](https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca) | 2:14 |
 | 41 | [Give Me a Slice](https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ) | [Amai Beats](https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp) | [Give Me a Slice](https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD) | 2:26 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 56 | [broth](https://open.spotify.com/track/1V07rv74k9FinkehDGR14N) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [broth](https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y) | 3:06 |
 | 57 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 |
 | 58 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 |
-| 59 | [temporary approved](https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [temporary approved](https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa) | 2:00 |
-| 60 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
+| 59 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
+| 60 | [temporary approved](https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [temporary approved](https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa) | 2:00 |
 | 61 | [The Tallest Mountain](https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [The Tallest Mountain](https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy) | 2:16 |
 | 62 | [Glowing Tears](https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Glowing Tears](https://open.spotify.com/album/4VEGzMvsvquNr4Mc3C9rBD) | 2:20 |
 | 63 | [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 |

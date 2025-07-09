@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,104 songs - 11 day 21 hr 40 min
+5,108 songs - 11 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Beam Me Up!](https://open.spotify.com/track/0GBSwgvLhG9meotnVaQCZF) | [Cherry Blonde](https://open.spotify.com/artist/25y7fG0CNjnRHUnT5ppyYa) | [Beam Me Up!](https://open.spotify.com/album/6jasdK3DjBOVyt63icmbFz) | 2:41 | 2024-05-24 | 2024-06-05 |
 | [Beat Drama](https://open.spotify.com/track/0ZVRZR2YYydNZX4K0OmouQ) | [PYN](https://open.spotify.com/artist/2E3GkyDBfEHrKhr1uKMeao) | [Beat Drama](https://open.spotify.com/album/3E4F97upWqAh1RmkEbw8V5) | 3:39 | 2023-09-16 | 2023-12-14 |
 | [Beat Drops](https://open.spotify.com/track/5gJkF3K0mryPzTNMj9rNtq) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Angry Symphony](https://open.spotify.com/album/2ZGZcvJG7962kbe35MCfLb) | 2:19 | 2021-02-24 | 2021-03-02 |
+| [Beautiful](https://open.spotify.com/track/0wa3MTBTE5vPw3rs6CFTcF) | [MAAME](https://open.spotify.com/artist/6A7193ANWwr38cgNn7Q3i4) | [Beautiful](https://open.spotify.com/album/2f3s82SaU2ROOX1uqfObW8) | 3:27 | 2025-07-08 |  |
 | [Beautiful \- Acoustic](https://open.spotify.com/track/4c44YYG6P584AOQE1Q1giv) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Little Crazy \(Acoustic Version\)](https://open.spotify.com/album/0O9QWDkFAYXX5xzIBc6e6K) | 3:20 | 2022-12-30 | 2023-01-21 |
 | [Beautiful Cynical](https://open.spotify.com/track/0sAtYj5UW5tXesC3JOHG6Q) | [Boy Willows](https://open.spotify.com/artist/41JVKMtlK9ecoACJu1xWca) | [Beautiful Cynical](https://open.spotify.com/album/0UwQzahQaaCxzDECkAK3AW) | 3:41 | 2021-12-10 | 2022-01-07 |
 | [Beautiful Lies](https://open.spotify.com/track/4Bos7oKfHFY7SpWWRpk49E) | [YOUNG HitzRUS](https://open.spotify.com/artist/7eCB3R7e8Bh2ZQ4PeaBVCS) | [Beautiful Lies](https://open.spotify.com/album/01rWcOk7IyJdyivWRz4xfG) | 1:25 | 2024-11-15 | 2024-11-27 |
@@ -1306,6 +1307,7 @@
 | [Ego](https://open.spotify.com/track/0Anq5EHV2VjF2Q8cOJIbRP) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Ego](https://open.spotify.com/album/4oj8UWEYEVEZrXTdZTRLrZ) | 3:18 | 2021-11-27 | 2021-12-12 |
 | [EGO](https://open.spotify.com/track/6WgxsLt26rCCa1nm9rPcBw) | [Doble Xx](https://open.spotify.com/artist/5GhCBaGHtfS7fnpkM0fzj3), [Bebo & Deluxx](https://open.spotify.com/artist/0zooY90x77JepDmoCJriwQ) | [EGO](https://open.spotify.com/album/4pBt9od2PRrPoEgniXNT4d) | 2:13 | 2024-08-18 | 2024-08-30 |
 | [EGO](https://open.spotify.com/track/7DjVaaIsHzSp5gpklsOf5U) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [EGO](https://open.spotify.com/album/0JzLjknhXjOdw1qNPESQEt) | 3:05 | 2025-05-02 | 2025-05-17 |
+| [Ego](https://open.spotify.com/track/0rzMfGsTjJCohA46y1oheQ) | [Rebecca Sichon](https://open.spotify.com/artist/4ZkUKEx3NOZaU4Y4dPXg3E) | [Ego](https://open.spotify.com/album/3ke427zryHGCTCGEEybisH) | 3:04 | 2025-07-08 |  |
 | [Ego Mégalo](https://open.spotify.com/track/5emJwSB8vwPnpvzmkhlsl5) | [Adelina](https://open.spotify.com/artist/0z6AhCJhphrAGC5eINRnLz) | [Ego Mégalo](https://open.spotify.com/album/3pKyiafSl2hgDZ1CyxymRL) | 3:30 | 2022-02-25 | 2022-03-14 |
 | [Ego Queen](https://open.spotify.com/track/7kUNRP28Rj4tMjvh18SPpJ) | [CASUAL FRIDAY](https://open.spotify.com/artist/0UQrXgSGetULIfINg6WeBb) | [Ego Queen](https://open.spotify.com/album/1TNw52De8fJJbxOvlEzWDn) | 3:40 | 2025-02-12 | 2025-02-25 |
 | [Eighties](https://open.spotify.com/track/2lb9ZVghr5jc2t5P6jrBtD) | [Jason Wade](https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE) | [Eighties](https://open.spotify.com/album/3S75t2Py0qSf5cZ5keHkI5) | 4:38 | 2024-11-02 | 2024-11-30 |
@@ -2999,6 +3001,7 @@
 | [My Intuition](https://open.spotify.com/track/3jAQPM5lfaWjxNSpgEuxyd) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [My Intuition](https://open.spotify.com/album/2whk6YfnjmBZrx1fhr6bHM) | 2:59 | 2025-04-08 | 2025-04-20 |
 | [My Kind](https://open.spotify.com/track/1av0KbWB2vOVxkRKsrESna) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [My Kind](https://open.spotify.com/album/4pZhWXgxao6lAEwb1k3yfY) | 2:16 | 2024-01-26 | 2024-02-07 |
 | [My Kinda Cowgirl](https://open.spotify.com/track/1kkdyp5T1aYjCnUeOyEFVz) | [TT](https://open.spotify.com/artist/4KNXuX5qorQkvQDDQ0A0L0) | [Man on the Corner](https://open.spotify.com/album/0YbnlU8rBkn26beErml8Zv) | 3:27 | 2025-03-25 | 2025-04-06 |
+| [My Lemon](https://open.spotify.com/track/5CyLs247oECJpKHqei2oRW) | [Lynndigo](https://open.spotify.com/artist/1AFlJFCgGkFiqjZBtRuZvY) | [My Lemon](https://open.spotify.com/album/2UceK89NU5F2AK6xJInhsn) | 4:02 | 2025-07-08 |  |
 | [My lil friend](https://open.spotify.com/track/22HFcU0WBxr8kaIljPiyOf) | [Dav3 Mack](https://open.spotify.com/artist/09e6yrrxhZPdQn4WcESkyU) | [Vibrations](https://open.spotify.com/album/6CXx3AgTexIOiMJXUYey6p) | 2:38 | 2024-05-31 | 2024-06-11 |
 | [My Love](https://open.spotify.com/track/5MWROLaEEcQgWGZ16QuyI6) | [Bella Delle](https://open.spotify.com/artist/2Ss9z0SG3FQwFJVpWoyafk) | [My Love](https://open.spotify.com/album/62GJz4BTrOuEGYPLPtL672) | 3:03 | 2023-07-15 | 2023-08-04 |
 | [My Love \(Borth Remix\)](https://open.spotify.com/track/3QA979rq5SWdIH2Rsm2TPg) | [Eric Anders](https://open.spotify.com/artist/7wYbNTiiFpJwzAwFk910dl), [Mark O'Bitz](https://open.spotify.com/artist/1l1iTfSE17m7r3FZehWsIR) | [Bardo Hauntings II: Borth Remixes](https://open.spotify.com/album/4xomyU3RIbujt0hAJLxkwc) | 3:54 | 2022-10-28 | 2022-11-19 |
@@ -3126,6 +3129,7 @@
 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/5cxtM0p5qey54cocnP1wC3) | [Lindsay H](https://open.spotify.com/artist/3eBLRoFx8j6LSY8pIAOTNC) | [Nobody's Supposed to Be Here](https://open.spotify.com/album/6gvEloJGfEl3ei5gy89c7P) | 3:39 | 2023-08-22 | 2023-09-01 |
 | [Noise](https://open.spotify.com/track/33vkeGG9QbOu1OpPJ8r41F) | [Stefan Olovsson BrainZapArt](https://open.spotify.com/artist/6lltpKSCWQFsc6nRrFHoNm) | [Noise](https://open.spotify.com/album/45gu4JlJU6fLcSPrBHcC2Y) | 3:06 | 2024-06-25 | 2024-07-08 |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-05-07 |  |
+| [None Of You](https://open.spotify.com/track/7zn8KFmMcJbZzeqgML8SPw) | [Brynja Rán](https://open.spotify.com/artist/4ru6DsYY6QIegPYyD0AZOt) | [SEVEN](https://open.spotify.com/album/3v6kLTwK72rSdebyv90MNJ) | 3:13 | 2025-07-08 |  |
 | [Northern Lights \(Norbz Remix\)](https://open.spotify.com/track/5kcUaa9CD5QCS11N15eh96) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [NORBZ](https://open.spotify.com/artist/2OXrjcnQwqvsrIiufc0Ci7) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 3:11 | 2020-07-21 | 2020-08-02 |
 | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/2akwgKeDWZNllzgTsQi32S) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [ØZWALD Sings The Beatles](https://open.spotify.com/album/5ytYhbyedbbZ8PGzAUWdeC) | 2:13 | 2022-10-10 | 2022-10-29 |
 | [Nos ocupamos del mar](https://open.spotify.com/track/2o4fJkvkuNFzhPI8mbVr9Z) | [Paco Álvarez](https://open.spotify.com/artist/00rNOPrK0Fy2kufnnlISzZ) | [Óleo](https://open.spotify.com/album/0ryUmtmWqdimcxDQxlJCV0) | 3:03 | 2024-03-13 | 2024-03-22 |

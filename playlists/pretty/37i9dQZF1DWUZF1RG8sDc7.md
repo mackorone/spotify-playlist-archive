@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,867 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,915 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 50 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
 | 51 | [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 |
 | 52 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 |
-| 53 | [No He Podido Ser Feliz](https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG) | 5:06 |
+| 53 | [Mi Diosa Humana](https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 |
 | 54 | [Novios Cruzados](https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Uniendo Corazones](https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X) | 4:19 |
 | 55 | [Quiero Saber de Ti](https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk) | 4:57 |
-| 56 | [Sin Ti No Hay Vida](https://open.spotify.com/track/7DBmoLFNz6MHHvXr3g453W) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 5:01 |
+| 56 | [No He Podido Ser Feliz](https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG) | 5:06 |
 | 57 | [Olvídala](https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:04 |
-| 58 | [Un Solo Corazón](https://open.spotify.com/track/4AEAHcLDOoL0BGhrrvQ2RE) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG) | 4:46 |
-| 59 | [Las Razones Del Amor](https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 5:07 |
-| 60 | [Ella Era Todo](https://open.spotify.com/track/1MldC2AUalcu3fYRFHalHS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:06 |
+| 58 | [Sólo para Ti](https://open.spotify.com/track/2xZhP2Dw5izHDfJ0MHBDjj) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/4qeWVAsMsFmwEDQgMfoLcq) | 4:48 |
+| 59 | [Que Vuelva](https://open.spotify.com/track/5c3u3mao1N5YWKJcfgX8n3) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:22 |
+| 60 | [Regalame una Noche](https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:08 |
 
 Snapshot ID: `ZgTL0AAAAADi0BC93l+oMYaEWuHAdgqJ`

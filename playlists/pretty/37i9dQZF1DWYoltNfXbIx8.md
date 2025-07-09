@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,418 likes - 70 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,455 likes - 70 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

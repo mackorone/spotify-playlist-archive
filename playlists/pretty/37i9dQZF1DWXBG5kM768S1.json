@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79313,
+  "num_followers": 79321,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
+        "name": "T\u00f8r ikkje leva",
+        "url": "https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 221687,
+      "name": "T\u00f8r ikkje leva",
+      "url": "https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo"
+    },
+    {
+      "added_at": "2025-07-03 22:00:30",
+      "album": {
         "name": "Under deg",
         "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
-        "name": "T\u00f8r ikkje leva",
-        "url": "https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 221687,
-      "name": "T\u00f8r ikkje leva",
-      "url": "https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo"
-    },
-    {
-      "added_at": "2025-07-03 22:00:30",
-      "album": {
         "name": "St\u00f8v Og Stjerner",
         "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
       },
@@ -567,6 +567,26 @@
       "duration_ms": 181200,
       "name": "V\u00e5r Beste Dag",
       "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
+    },
+    {
+      "added_at": "2025-07-03 22:00:30",
+      "album": {
+        "name": "De Beste",
+        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Mysteriet deg",
+      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
     },
     {
       "added_at": "2025-07-03 22:00:30",
@@ -615,26 +635,6 @@
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
-    },
-    {
-      "added_at": "2025-07-03 22:00:30",
-      "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
     },
     {
       "added_at": "2025-07-03 22:00:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Rishab Rikhiram Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,541 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,569 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 46 | [Dekho Sakhi](https://open.spotify.com/track/65xJV3XPDoSbQCJTzLZ6hi) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Prateek Narsimha](https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Dekho Sakhi](https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h) | 4:37 |
 | 47 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |
 | 48 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
-| 49 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
-| 50 | [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 |
+| 49 | [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 |
+| 50 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
 
 Snapshot ID: `aF5xYgAAAAALbFwtXOBYCcWT6NHbbzgi`

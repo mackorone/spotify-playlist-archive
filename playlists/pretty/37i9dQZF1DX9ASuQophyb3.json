@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: EDIS",
-  "num_followers": 1516293,
+  "num_followers": 1516649,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGbvXQAAAABMvgWerqIZ5OfDoO/skNKg",
+  "snapshot_id": "aGzUSAAAAAA7RzDILR0bW4Tx8fZWCO/L",
   "tracks": [
     {
       "added_at": "2025-07-03 21:00:13",
@@ -31,18 +31,22 @@
     {
       "added_at": "2025-07-03 21:00:13",
       "album": {
-        "name": "Bir Yol",
-        "url": "https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG"
+        "name": "Bir \u00c7ift G\u00f6z",
+        "url": "https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH"
       },
       "artists": [
         {
-          "name": "EDIS",
-          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+          "name": "Norm Ender",
+          "url": "https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ"
+        },
+        {
+          "name": "Ebru G\u00fcnde\u015f",
+          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
         }
       ],
-      "duration_ms": 148775,
-      "name": "Bir Yol",
-      "url": "https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y"
+      "duration_ms": 207678,
+      "name": "Bir \u00c7ift G\u00f6z",
+      "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
     },
     {
       "added_at": "2025-07-03 21:00:13",
@@ -63,22 +67,18 @@
     {
       "added_at": "2025-07-03 21:00:13",
       "album": {
-        "name": "Bir \u00c7ift G\u00f6z",
-        "url": "https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH"
+        "name": "Bir Yol",
+        "url": "https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG"
       },
       "artists": [
         {
-          "name": "Norm Ender",
-          "url": "https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ"
-        },
-        {
-          "name": "Ebru G\u00fcnde\u015f",
-          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
         }
       ],
-      "duration_ms": 207678,
-      "name": "Bir \u00c7ift G\u00f6z",
-      "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
+      "duration_ms": 148775,
+      "name": "Bir Yol",
+      "url": "https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y"
     },
     {
       "added_at": "2025-07-03 21:00:13",

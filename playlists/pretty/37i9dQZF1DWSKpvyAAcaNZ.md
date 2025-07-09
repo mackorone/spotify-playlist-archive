@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,491 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,557 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

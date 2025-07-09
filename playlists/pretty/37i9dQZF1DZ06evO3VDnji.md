@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,514 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,520 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 17 | [KATY PERRY \(feat\. Sheeno\)](https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [KATY PERRY \(feat\. Sheeno\)](https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh) | 2:35 |
 | 18 | [Sal De Mi Mente](https://open.spotify.com/track/34VdhciQ6LFncMIqTqPHAr) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 2:55 |
 | 19 | [no\_pasa\_nada\_demo.wav](https://open.spotify.com/track/1Ww2IlYffQX3Ci9JJYGNfA) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 2:34 |
-| 20 | [24:7](https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [24:7](https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R) | 3:01 |
-| 21 | [ME CAMBIASTE \(with Eslabon Armado\)](https://open.spotify.com/track/0cAy6Iu6GQcFegbu9RMK1R) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Eslabon Armado](https://open.spotify.com/artist/3qd5K0Y3u1cYQd5uNTrsVj) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:45 |
+| 20 | [ME CAMBIASTE \(with Eslabon Armado\)](https://open.spotify.com/track/0cAy6Iu6GQcFegbu9RMK1R) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Eslabon Armado](https://open.spotify.com/artist/3qd5K0Y3u1cYQd5uNTrsVj) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:45 |
+| 21 | [24:7](https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [24:7](https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R) | 3:01 |
 | 22 | [Decir Adios \(with DannyLux\)](https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 4:39 |
 | 23 | [DIME BB](https://open.spotify.com/track/3fGP6nB0UHONOm3PPl6Oqc) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 2:40 |
-| 24 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
-| 25 | [AMAR Y PERDER](https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 5:19 |
+| 24 | [AMAR Y PERDER](https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 5:19 |
+| 25 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
 | 26 | [rompo esquemas](https://open.spotify.com/track/3YQBN90z1f6cpYANeWPdWT) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:19 |
 | 27 | [carrusel\_eterno\_demo.wav](https://open.spotify.com/track/3scXR1D9lYmQ0Dp8F7IfIm) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 3:59 |
 | 28 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 49 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
 | 50 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
 
-Snapshot ID: `aGm8gAAAAADW2SWqdoJ/C7Wlb1Qolpgl`
+Snapshot ID: `aGsOAAAAAAC4c2FBdX84AIlWf1al3HCK`

@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 246936,
+  "num_followers": 247048,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAB9OeZZvUHmZ51SbkOOMSjA",
+  "snapshot_id": "aGsOAAAAAABrU4xwtOWHGXI/kfo5VC9b",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bunda \ud83c\udf51",
-        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 223855,
-      "name": "bunda \ud83c\udf51",
-      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MASNA REMIX",
         "url": "https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 248000,
       "name": "MASNA REMIX",
       "url": "https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "noviogangsta <3",
+        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157209,
+      "name": "noviogangsta <3",
+      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En La Intimidad | CROSSOVER #1",
         "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "noviogangsta <3",
-        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 157209,
-      "name": "noviogangsta <3",
-      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chain",
-        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 139518,
-      "name": "La Chain",
-      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
+      "duration_ms": 149471,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 149471,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
       "added_at": null,

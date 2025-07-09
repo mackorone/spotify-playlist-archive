@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Teen Beach Movie",
+        "url": "https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF"
+      },
+      "artists": [
+        {
+          "name": "Brady",
+          "url": "https://open.spotify.com/artist/4j6UbCmWa3sZAq8zmy1ZXd"
+        },
+        {
+          "name": "Maia Mitchell",
+          "url": "https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Can't Stop Singing - From \"Teen Beach Movie\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2adTfABiJJQpZWlujYO3Qo"
+    },
+    {
+      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -2260,7 +2282,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 193669,
       "name": "It\u2019s Alright - From The Netflix Film My Little Pony: A New Generation",
       "url": "https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV"

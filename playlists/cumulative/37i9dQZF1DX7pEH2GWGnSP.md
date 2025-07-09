@@ -4,7 +4,7 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-83 songs - 3 hr 52 min
+85 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [HOT \(English ver.\) \(feat\. JADE\)](https://open.spotify.com/track/6MZ8oSuvqMjnvCvwniPNPc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [HOT \(English ver.\) \(feat\. JADE\)](https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT) | 2:23 | 2025-06-14 |  |
 | [HOT \(HONG EUNCHAE ver.\)](https://open.spotify.com/track/5GTVROehshYBZP8lvrUVI1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(LE SSERAFIM Package\)](https://open.spotify.com/album/1f5xm4vrWYjq6SXgWj9Dm5) | 2:31 | 2025-06-14 |  |
 | [HOT \(HUH YUNJIN ver.\)](https://open.spotify.com/track/4VoZLrS5KS5A7P67ujxx8l) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(LE SSERAFIM Package\)](https://open.spotify.com/album/1f5xm4vrWYjq6SXgWj9Dm5) | 3:05 | 2025-06-14 |  |
+| [HOT \(Japanese ver.\)](https://open.spotify.com/track/3KrVjZq7pd3nvAmXAVy2lX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/7EsVt6j6nJ6U9JRbJD8OlM) | 2:23 | 2025-07-09 |  |
 | [HOT \(KAZUHA ver.\)](https://open.spotify.com/track/1fwBUAXdD4j8YeJgBUrWhg) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(LE SSERAFIM Package\)](https://open.spotify.com/album/1f5xm4vrWYjq6SXgWj9Dm5) | 2:09 | 2025-06-14 |  |
 | [HOT \(KIM CHAEWON ver.\)](https://open.spotify.com/track/3RH8MZU18p1Tp2lFxJylE9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(LE SSERAFIM Package\)](https://open.spotify.com/album/1f5xm4vrWYjq6SXgWj9Dm5) | 2:42 | 2025-06-14 |  |
 | [HOT \(SAKURA ver.\)](https://open.spotify.com/track/51dzPsthZo6vv3dpr8dmlc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(LE SSERAFIM Package\)](https://open.spotify.com/album/1f5xm4vrWYjq6SXgWj9Dm5) | 2:16 | 2025-06-14 |  |
@@ -71,6 +72,7 @@
 | [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 | 2024-03-29 |  |
 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2023-05-01 |  |
 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 | 2025-01-11 |  |
+| [Kawaii \(Prod\. Gen Hoshino\)](https://open.spotify.com/track/0LR3NuYLVcr8pqmxHzLkHT) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/7EsVt6j6nJ6U9JRbJD8OlM) | 3:20 | 2025-07-09 |  |
 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 | 2023-05-01 |  |
 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 | 2023-05-01 |  |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-11-03 |  |

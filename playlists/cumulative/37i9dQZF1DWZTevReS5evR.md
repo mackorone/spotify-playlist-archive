@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-264 songs - 16 hr 13 min
+265 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-03-24 |  |
 | [I'm Here](https://open.spotify.com/track/21KTIFgocZeDapOi59FK6W) | [Anoraga](https://open.spotify.com/artist/6VhsSg02qZJatqX5Mn91Qa) | [I'm Here](https://open.spotify.com/album/6kJBXVKxcFB92VUdn50llC) | 5:20 | 2023-12-06 | 2024-09-28 |
 | [if u could see me cryin' in my room](https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ) | 4:16 | 2024-04-25 |  |
+| [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-07-08 |  |
 | [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 | 2024-10-10 | 2025-04-30 |
 | [Jadikan Aku Yang Kedua](https://open.spotify.com/track/3sDrAxYdVtrduFmTEu6K0n) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Jadikan Aku Yang Kedua](https://open.spotify.com/album/2QXZh0ONgicCZHSloy6t2M) | 4:04 | 2024-09-09 | 2024-09-28 |
 | [Jalan Tengah](https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Jalan Tengah](https://open.spotify.com/album/6WqoW3CKWU3lPyBDhcDzgn) | 4:50 | 2023-08-29 | 2025-03-04 |

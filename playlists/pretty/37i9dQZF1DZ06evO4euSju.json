@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1387,
+  "num_followers": 1386,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAHD0DCutTnS8TbuFBalEYR",
+  "snapshot_id": "aGsOAAAAAABs4a7YwudXGZ3AM3bApLT+",
   "tracks": [
     {
       "added_at": null,
@@ -70,11 +70,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 194010,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
+      "duration_ms": 224453,
+      "name": "Still Love",
+      "url": "https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C"
     },
     {
       "added_at": null,
@@ -134,15 +138,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 224453,
-      "name": "Still Love",
-      "url": "https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C"
+      "duration_ms": 194010,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 238588,
       "name": "Black Flamingo",
       "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 247170,
-      "name": "Mirror Talk",
-      "url": "https://open.spotify.com/track/5FXNdpyVlUObWx7jLDor5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 227820,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/5FXNdpyVlUObWx7jLDor5s"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 339212,
-      "name": "Sparkle / Fade",
-      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 223875,
       "name": "Chrome Neon Jesus",
       "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 246325,
+      "name": "Outside of Love",
+      "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 246325,
-      "name": "Outside of Love",
-      "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Counting Flies",
         "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 213953,
-      "name": "Believe In The Wrong Things",
-      "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
+      "duration_ms": 339212,
+      "name": "Sparkle / Fade",
+      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 301418,
       "name": "Summer",
       "url": "https://open.spotify.com/track/5cDp8qgQCsni5pD2YKdh5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Believe In The Wrong Things",
+      "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
     }
   ],
   "unique_name": "This Is Teenage Wrist",

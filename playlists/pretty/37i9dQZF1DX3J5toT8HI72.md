@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,818 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,804 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 65 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
 | 66 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 |
 | 67 | [Viver de Carinho](https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Viver de Carinho](https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm) | 2:28 |
-| 68 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y) | 2:47 |
-| 69 | [SIM](https://open.spotify.com/track/6Luu7cF9h6JSKwoxRFqagr) | [Marina Gold](https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI) | [SIM](https://open.spotify.com/album/5gxX6FRHxAzRiHBw1DeY3r) | 2:48 |
+| 68 | [SIM](https://open.spotify.com/track/6Luu7cF9h6JSKwoxRFqagr) | [Marina Gold](https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI) | [SIM](https://open.spotify.com/album/5gxX6FRHxAzRiHBw1DeY3r) | 2:48 |
+| 69 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y) | 2:47 |
 | 70 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
 | 71 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 |
 | 72 | [O amor me fala de você](https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [O amor me fala de você](https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz) | 3:19 |

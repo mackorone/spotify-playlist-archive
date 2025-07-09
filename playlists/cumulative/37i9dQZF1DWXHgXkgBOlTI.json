@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Break it Out",
+        "url": "https://open.spotify.com/album/43EXZ6q0GFtLJDX6HyqSRm"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250053,
+      "name": "Break it Out",
+      "url": "https://open.spotify.com/track/2Alpcm2uOw20QAxBmExDFf"
+    },
+    {
+      "album": {
         "name": "THE SQUARE YEAR END Live 20151226",
         "url": "https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 268425,
       "name": "Never Let Go - Instrumental",
       "url": "https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl"
@@ -2389,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "\u590f\u306eGravity",
+        "url": "https://open.spotify.com/album/7rS1CRSWX9zdmlALxZ8m3d"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "\u590f\u306eGravity",
+      "url": "https://open.spotify.com/track/6enQtdIj33IpAt8Z0baDpA"
+    },
+    {
+      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
@@ -2490,7 +2526,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 186906,
       "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
       "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"

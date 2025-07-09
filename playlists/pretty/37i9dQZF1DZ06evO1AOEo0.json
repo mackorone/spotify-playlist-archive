@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 36792,
+  "num_followers": 36798,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAfWK9wsHWgMaL35ZceXisZ",
+  "snapshot_id": "aGsOAAAAAAAqo1YYtDDp6bO7bdlheJzm",
   "tracks": [
     {
       "added_at": null,
@@ -811,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns in the Round",
-        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+        "name": "The Worship Initiative, Vol. 11",
+        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
       "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 253406,
-      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
-      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
+      "duration_ms": 340129,
+      "name": "O Come to the Altar",
+      "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
     },
     {
       "added_at": null,
@@ -867,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 11",
-        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
       },
       "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 340129,
-      "name": "O Come to the Altar",
-      "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
+      "duration_ms": 253406,
+      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
+      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
     },
     {
       "added_at": null,

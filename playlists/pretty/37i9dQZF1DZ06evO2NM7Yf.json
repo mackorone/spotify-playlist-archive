@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAB8eT+KRHCi1KUR88gWwsij",
+  "snapshot_id": "aGsOAAAAAAAo72BBbyEPZU5cMc+kB0gv",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "emotional punching bag",
-        "url": "https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ"
+        "name": "breakup with a friend",
+        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 176030,
-      "name": "Emotional Punching Bag",
-      "url": "https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b"
+      "duration_ms": 162000,
+      "name": "breakup with a friend",
+      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "breakup with a friend",
-        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
+        "name": "emotional punching bag",
+        "url": "https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 162000,
-      "name": "breakup with a friend",
-      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
+      "duration_ms": 176030,
+      "name": "Emotional Punching Bag",
+      "url": "https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b"
     },
     {
       "added_at": null,

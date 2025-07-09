@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,922 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,927 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 71 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 |
 | 72 | [Genuine feelings](https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn) | [冬美 旬 \(CV.永塚拓馬\)](https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 4:41 |
 | 73 | [Radiant Letter](https://open.spotify.com/track/40R5PKT1WKL8W0k9bJB4So) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM NEW STAGE EPISODE：03 Jupiter](https://open.spotify.com/album/41FMIe73fP3RyJlue8Gpzk) | 4:05 |
-| 74 | [オレたちの最強伝説～一世一代、破羅駄威棲！～](https://open.spotify.com/track/33tX1p5ZILarwKKb1Lg0dD) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE \-BEST \(VOCAL Edition\)](https://open.spotify.com/album/5W4q9TO7CUxRQ7QeqMqlXU) | 3:15 |
-| 75 | [威風堂々と](https://open.spotify.com/track/6loUWr8hVdRMostxfh6OXU) | [黒野玄武 \(CV.深町寿成\)](https://open.spotify.com/artist/2Wo5mO1Cuu2wWk9AYd2rex) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:27 |
+| 74 | [威風堂々と](https://open.spotify.com/track/6loUWr8hVdRMostxfh6OXU) | [黒野玄武 \(CV.深町寿成\)](https://open.spotify.com/artist/2Wo5mO1Cuu2wWk9AYd2rex) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:27 |
+| 75 | [Tone's Destiny](https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:39 |
 
 Snapshot ID: `Z4aJSQAAAABFSGpjzAu8gKS/5C1mId8J`

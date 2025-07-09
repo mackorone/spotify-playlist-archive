@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,657 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,678 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 41 | [Escreve Aí \- Ao Vivo](https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx) | 4:03 |
 | 42 | [Não Precisa Ser Cowboy](https://open.spotify.com/track/6Ujs35aawDLfAD1S8Q7zbe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:17 |
 | 43 | [Bagunça Minha Vida \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:25 |
-| 44 | [Surto De Amor \- Ao Vivo Em Uberlândia / 2018](https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Surto De Amor \(Ao Vivo\)](https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi) | 2:37 |
-| 45 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
+| 44 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
+| 45 | [Surto De Amor \- Ao Vivo Em Uberlândia / 2018](https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Surto De Amor \(Ao Vivo\)](https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi) | 2:37 |
 | 46 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 | 47 | [A Gente Fez Amor \- Ao Vivo](https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:57 |
 | 48 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
 | 49 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 |
-| 50 | [Dois Carentes](https://open.spotify.com/track/5sHN3t3NnoC2wbLigX3YWI) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52), [Enzo Ferro](https://open.spotify.com/artist/16XDej3zylKAlkjdM35f86) | [Dois Carentes](https://open.spotify.com/album/2HbdCYON9BgNbsiLsWQHm8) | 2:36 |
+| 50 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 
 Snapshot ID: `aEvZDQAAAADf0xTIG+XPmPnM5Xx83DKu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,848 likes - 205 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,851 likes - 205 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 90 | [Cautionary Tales](https://open.spotify.com/track/6BbANlpji0u8ZlqyPVMQiM) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:47 |
 | 91 | [Lead Me On](https://open.spotify.com/track/4627b0SeGkBoYKejSG6XXJ) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:53 |
 | 92 | [Pre\-Occupied](https://open.spotify.com/track/0i4Zkb6Ts5JqLJIAMNzSSl) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 4:27 |
-| 93 | [missin u](https://open.spotify.com/track/343rMHcHcliecg4YxQ2sYQ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:57 |
-| 94 | [God Went Crazy](https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:03 |
+| 93 | [God Went Crazy](https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:03 |
+| 94 | [missin u](https://open.spotify.com/track/343rMHcHcliecg4YxQ2sYQ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:57 |
 | 95 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
 | 96 | [While You Count Sheep](https://open.spotify.com/track/2XPNF1bC6w4HQUn8QPMsyn) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:25 |
 | 97 | [A Haunted House](https://open.spotify.com/track/647YDaQTk75guVjjMQQJt0) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 3:03 |
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 148 | [shelter](https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:51 |
 | 149 | [Timeless](https://open.spotify.com/track/7ftFKr5YodntV2NlzbUgIy) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:29 |
 | 150 | [Robin Williams](https://open.spotify.com/track/1pyQEXRG3YxxMzNVzfjBFM) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Heart Blanche](https://open.spotify.com/album/4V7teI9GVCoLf6BNdaNj29) | 3:29 |
-| 151 | [Worship](https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:13 |
-| 152 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
+| 151 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
+| 152 | [Worship](https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:13 |
 | 153 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
 | 154 | [One More Time](https://open.spotify.com/track/4wPbR6XonWB7fiyWUMAaH2) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:59 |
 | 155 | [Antidote](https://open.spotify.com/track/4bxH0J1mnut9n5KwnuOHc9) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 4:08 |
@@ -183,18 +183,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 173 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
 | 174 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
 | 175 | [Mother](https://open.spotify.com/track/0breJW7kUS0qXn4tn2w7as) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:57 |
-| 176 | [Do](https://open.spotify.com/track/5VaT5fkg41ZAzCJ5tuuVYT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:06 |
-| 177 | [WASH2](https://open.spotify.com/track/2FcPfHa1dngTMjhlHD9zg4) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:41 |
+| 176 | [WASH2](https://open.spotify.com/track/2FcPfHa1dngTMjhlHD9zg4) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:41 |
+| 177 | [Do](https://open.spotify.com/track/5VaT5fkg41ZAzCJ5tuuVYT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:06 |
 | 178 | [distance](https://open.spotify.com/track/21AKjDqarlr1DgcGPnazg6) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:10 |
 | 179 | [shine on](https://open.spotify.com/track/4WG69ltMTdZA8hPrgieNzn) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:57 |
-| 180 | [diamonds](https://open.spotify.com/track/4ESFcKe9Dumyh85dwevUWc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:59 |
-| 181 | [OBLIVIOUS](https://open.spotify.com/track/65hG7wpGsBD591lcfzEmHC) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:46 |
+| 180 | [OBLIVIOUS](https://open.spotify.com/track/65hG7wpGsBD591lcfzEmHC) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:46 |
+| 181 | [diamonds](https://open.spotify.com/track/4ESFcKe9Dumyh85dwevUWc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:59 |
 | 182 | [RICH AND BROKE](https://open.spotify.com/track/4IhQDdS75FROk5hse6zaap) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:02 |
 | 183 | [same girl](https://open.spotify.com/track/1Cpqs8mrymxFdFoZpllIf8) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:28 |
 | 184 | [Promotion](https://open.spotify.com/track/7okgepKwMl2jHLsq5KbDX6) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 2:38 |
 | 185 | [Over The Moon](https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4) | 2:41 |
-| 186 | [Death of Me](https://open.spotify.com/track/6K6zrtwS8CMXmPgorq22cq) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 4:02 |
-| 187 | [DON'T SHOOT](https://open.spotify.com/track/30S2Wy2y1rdFE0pBKWBFJD) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:16 |
+| 186 | [DON'T SHOOT](https://open.spotify.com/track/30S2Wy2y1rdFE0pBKWBFJD) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:16 |
+| 187 | [Death of Me](https://open.spotify.com/track/6K6zrtwS8CMXmPgorq22cq) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 4:02 |
 | 188 | [Circle Back](https://open.spotify.com/track/0tZFqafeOYFbxDHgezbuuI) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 2:56 |
 | 189 | [MY BOY](https://open.spotify.com/track/5lMgrOJ4bZdzVF5cuBHmId) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:23 |
 | 190 | [Trippy](https://open.spotify.com/track/7J4FAKrqQ6N52pAd6t6ec4) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Free Skizzy Mars](https://open.spotify.com/album/06uilmMkjOIuifxVYJyqwD) | 2:41 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 204 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 205 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `Ab2K3gAAAACSMUBW/KL2TOHT6QA1+WAk`
+Snapshot ID: `Ab2QYAAAAAAwNDVuSrsX3gKEqS/IS0WO`

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  FADES.",
-  "num_followers": 20740,
+  "num_followers": 20744,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
+        "name": "entre cuatro paredes y una verdad",
+        "url": "https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 169356,
+      "name": "A PLENO PULM\u00d3N",
+      "url": "https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
         "name": "La Perra de Despe\u00f1aperros (Seg\u00fan Sta. Francisca)",
         "url": "https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 177400,
       "name": "La Perra de Despe\u00f1aperros (Seg\u00fan Sta. Francisca)",
       "url": "https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
-        "name": "entre cuatro paredes y una verdad",
-        "url": "https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 169356,
-      "name": "A PLENO PULM\u00d3N",
-      "url": "https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v"
     },
     {
       "added_at": "2025-07-01 22:00:27",

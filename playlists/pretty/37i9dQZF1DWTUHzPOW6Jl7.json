@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 716283,
+  "num_followers": 716599,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 220639,
+      "name": "Long Way 2 Go",
+      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 229866,
       "name": "Run It! (feat. Juelz Santana)",
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 220639,
-      "name": "Long Way 2 Go",
-      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -299,6 +299,26 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Here I Stand",
+        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Love in This Club (feat. Young Jeezy)",
+      "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 264946,
       "name": "Loyal (feat. Lil Wayne & Tyga)",
       "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Here I Stand",
-        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Love in This Club (feat. Young Jeezy)",
-      "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/6AnYRqJHyeEzt2zviudTMH"
-      },
-      "artists": [
-        {
-          "name": "Blu Cantrell",
-          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Breathe (feat. Sean Paul) - Rap Version",
-      "url": "https://open.spotify.com/track/1BPybPVkDfUjFDvqG04l58"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/6AnYRqJHyeEzt2zviudTMH"
+      },
+      "artists": [
+        {
+          "name": "Blu Cantrell",
+          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Breathe (feat. Sean Paul) - Rap Version",
+      "url": "https://open.spotify.com/track/1BPybPVkDfUjFDvqG04l58"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
-    },
-    {
       "added_at": "2024-03-22 07:20:24",
       "album": {
         "name": "TYLA",
@@ -575,6 +559,22 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
     },
     {
       "added_at": "2024-10-26 03:44:41",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "So Blu",
-        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
-      },
-      "artists": [
-        {
-          "name": "Blu Cantrell",
-          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "My Own Lane (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 217800,
       "name": "Show Me (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "So Blu",
+        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
+      },
+      "artists": [
+        {
+          "name": "Blu Cantrell",
+          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 264893,
       "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
       "url": "https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
     },
     {
       "added_at": "2022-08-25 12:17:17",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c"
     },
     {
-      "added_at": "2025-06-06 04:53:00",
-      "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 136096,
-      "name": "ALL IN",
-      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Somebody",
@@ -1127,6 +1111,22 @@
       "duration_ms": 189906,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3"
+    },
+    {
+      "added_at": "2025-06-06 04:53:00",
+      "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1225,26 +1225,6 @@
       "url": "https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt"
     },
     {
-      "added_at": "2025-06-06 04:53:00",
-      "album": {
-        "name": "Oh Lala",
-        "url": "https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 230031,
-      "name": "Oh Lala",
-      "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
-    },
-    {
       "added_at": "2025-02-28 20:14:03",
       "album": {
         "name": "Morayo",
@@ -1263,6 +1243,26 @@
       "duration_ms": 170760,
       "name": "Bad For You (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
+    },
+    {
+      "added_at": "2025-06-06 04:53:00",
+      "album": {
+        "name": "Oh Lala",
+        "url": "https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 230031,
+      "name": "Oh Lala",
+      "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1573,26 +1573,6 @@
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Fly Girl (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Fly Girl (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
-    },
-    {
       "added_at": "2024-06-14 07:39:29",
       "album": {
         "name": "The Year I Turned 21",
@@ -1611,6 +1591,26 @@
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Fly Girl (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Fly Girl (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
     },
     {
       "added_at": "2022-08-02 10:25:51",

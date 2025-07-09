@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > Legendary tracks been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,374 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,448 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 43 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 |
 | 44 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
 | 45 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
-| 46 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 |
-| 47 | [Hunter](https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 4:15 |
-| 48 | [Alone \- Paradise](https://open.spotify.com/track/06Mts9X72EonW3kq8owouA) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Alone](https://open.spotify.com/album/0307WAhBTyZd9YNB6rvPMx) | 6:46 |
-| 49 | [Don't Leave Me](https://open.spotify.com/track/46ysV2R0UyqObMmY0IgGHc) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Don't Leave Me / Plan A](https://open.spotify.com/album/5htDgTnOfAIsk4ZFzdQqf8) | 6:55 |
-| 50 | [Throw Your Hands](https://open.spotify.com/track/4Fetk6GvNL2fYVo0UQbLcN) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 8:32 |
+| 46 | [Hunter](https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 4:15 |
+| 47 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 |
+| 48 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 |
+| 49 | [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 |
+| 50 | [Alone \- Paradise](https://open.spotify.com/track/06Mts9X72EonW3kq8owouA) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Alone](https://open.spotify.com/album/0307WAhBTyZd9YNB6rvPMx) | 6:46 |
 
 Snapshot ID: `Zo5FlAAAAABSlPnvkBP0luIY5OGLjbQK`

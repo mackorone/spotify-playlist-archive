@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Draganov
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,790 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,886 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 |
+| 1 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
 | 2 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 |
 | 3 | [Échec \- Spotify Singles](https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Sipo](https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o) | [Échec \(Spotify Singles\)](https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt) | 3:23 |
 | 4 | [KA3I](https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:20 |
-| 5 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
-| 6 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
-| 7 | [Twam Mafyouzi](https://open.spotify.com/track/5m0WDhOtaCO4yCoy8bqOy7) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Twam Mafyouzi](https://open.spotify.com/album/4eqDkabbyPAMkojyo9OYHQ) | 2:06 |
+| 5 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
+| 6 | [Twam Mafyouzi](https://open.spotify.com/track/5m0WDhOtaCO4yCoy8bqOy7) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Twam Mafyouzi](https://open.spotify.com/album/4eqDkabbyPAMkojyo9OYHQ) | 2:06 |
+| 7 | [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 |
 | 8 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
 | 9 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 |
 | 10 | [BLACKLIST](https://open.spotify.com/track/7iFPpFyRIErmhqslTbHlCl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [BLACKLIST](https://open.spotify.com/album/2wQW5jfshfC2TidcqSGYkr) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 |
 | 50 | [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 |
 
-Snapshot ID: `aGt7SwAAAACycdi4HViU0DvpACvTriup`
+Snapshot ID: `aG0gPAAAAAD2BQaAdboDZGxnHgTrK+aE`

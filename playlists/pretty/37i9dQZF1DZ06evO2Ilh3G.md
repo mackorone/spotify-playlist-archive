@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,511 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,522 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 30 | [Dubai Shit](https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 3:48 |
 | 31 | [Fantasy \(feat\. Offset\)](https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Big Grim Reaper: The Return](https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut) | 3:22 |
 | 32 | [Step 1 \(with Offset\)](https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 2:57 |
-| 33 | [TEN](https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [TEN](https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA) | 2:08 |
-| 34 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
+| 33 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
+| 34 | [TEN](https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [TEN](https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA) | 2:08 |
 | 35 | [Startender \(feat\. Offset and Tyga\)](https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:12 |
 | 36 | [Lick](https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Best of Rap](https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z) | 3:24 |
 | 37 | [Baby Sitter \(feat\. Offset\)](https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [New To You \(with Normani, Tinashe & Offset\)](https://open.spotify.com/track/5Axapk6xMmSHK2A75EZiYo) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 5:02 |
 | 50 | [Pink Toes \(Offset, DaBaby feat\. Gunna\)](https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:37 |
 
-Snapshot ID: `aGm8gAAAAACilKc36stn6HwiA7k57suG`
+Snapshot ID: `aGsOAAAAAADlm+esW0M3OVeB9ZlkjPUH`

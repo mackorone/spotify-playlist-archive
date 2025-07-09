@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,037 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,014 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 33 | [One Last Stand](https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [One Last Stand](https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou) | 2:17 |
 | 34 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
 | 35 | [\#3](https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:44 |
-| 36 | [One Last Time](https://open.spotify.com/track/4Oz7IIaDnrNXpzNWWSNt6W) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [One Last Time](https://open.spotify.com/album/55A6vOF7lOl0RghquUwmh2) | 3:51 |
-| 37 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 |
+| 36 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 |
+| 37 | [One Last Time](https://open.spotify.com/track/4Oz7IIaDnrNXpzNWWSNt6W) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [One Last Time](https://open.spotify.com/album/55A6vOF7lOl0RghquUwmh2) | 3:51 |
 | 38 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 | 39 | [+1](https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [+1](https://open.spotify.com/album/4FvSyKog587pT37wscO9L5) | 3:23 |
 | 40 | [Sunrise Song \- Luttrell Revisit](https://open.spotify.com/track/4ut30hNj4ye8hwkHcqbwXj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Sunrise Song \(Luttrell Revisit\)](https://open.spotify.com/album/4Uc9g6bHlSNL2NzWzd6vMh) | 3:04 |

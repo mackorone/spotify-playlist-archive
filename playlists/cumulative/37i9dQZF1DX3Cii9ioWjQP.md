@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: 박지은\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: 소이에 \(soye\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-263 songs - 18 hr 29 min
+264 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [My weird music \(Feat\. Yireh\)](https://open.spotify.com/track/5BhDJIAXEpdpEwlJBfLzh8) | [JEZZ](https://open.spotify.com/artist/7rU69MSitmrRQtoZoY6h8Q), [Yireh](https://open.spotify.com/artist/67m3FjwGv4IGpLXQycLnE6) | [JEZZ or JAZZ \(Feat\. Yireh\)](https://open.spotify.com/album/6oOiquCBmbnfnekb0QtJIC) | 4:08 | 2025-01-02 | 2025-04-10 |
 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 | 2023-02-07 | 2024-11-07 |
 | [News & Sames](https://open.spotify.com/track/2ivkHxcmwVvbgVRMIXRzvs) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA II](https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx) | 3:51 | 2025-05-07 |  |
-| [Ninguém](https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R) | [HeeKyung Na](https://open.spotify.com/artist/0v7AyJqbUksRKUWHSN5ghz), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [BOSSA](https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE) | 2:44 | 2024-09-13 |  |
+| [Ninguém](https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R) | [HeeKyung Na](https://open.spotify.com/artist/0v7AyJqbUksRKUWHSN5ghz), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [BOSSA](https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE) | 2:44 | 2024-09-13 | 2025-07-09 |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 | 2024-11-07 |
 | [November Rain \(Feat\. Groovy D\)](https://open.spotify.com/track/6wN0bERE8RNJvEAeG7tEAW) | [PIACAL](https://open.spotify.com/artist/0QuxeG3QBD0kddWQPgfXaX) | [November Rain](https://open.spotify.com/album/0mkXZKaYTzzb9gOtAqpeU4) | 3:21 | 2022-11-11 | 2024-09-20 |
 | [Now I'm Alive](https://open.spotify.com/track/2JODszmQKfirJaIb2QebHp) | [Gomm](https://open.spotify.com/artist/2Zlxg4WEB6pNeM6tdO3RoE) | [Now I'm Alive](https://open.spotify.com/album/3CVYFeLwjz5scaMfpN04AK) | 2:27 | 2023-07-19 | 2024-11-07 |
@@ -202,6 +202,7 @@
 | [Standstill](https://open.spotify.com/track/2FO4NG072mM775tWuGErNB) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr) | 4:26 | 2022-11-23 | 2024-04-19 |
 | [Standstill](https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0) | 4:26 | 2022-05-03 | 2024-08-11 |
 | [START OVER](https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [START OVER](https://open.spotify.com/album/0ZwMsN7Rq0QcGrfqO1E8Dd) | 3:17 | 2022-05-03 | 2023-09-14 |
+| [Stop](https://open.spotify.com/track/4kTQFfqIEpfrJPEYsYwgnz) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Stop](https://open.spotify.com/album/3mjo6r9VpITj8LQgFZZG2y) | 2:31 | 2025-07-08 |  |
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-02-24 | 2024-04-19 |
 | [Sugar Sweet](https://open.spotify.com/track/5AByPt6g5Up72n6XKVJOda) | [Min Sei hui](https://open.spotify.com/artist/1l22lGI1hDbXE4F1iDFk7q) | [One latte](https://open.spotify.com/album/4WEKKqCVSgvbd25TaiJxOp) | 2:44 | 2024-06-07 | 2024-08-11 |
 | [sun in my eyes](https://open.spotify.com/track/71wLiJRoaTUH6vpUgU7tYP) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Image \#4](https://open.spotify.com/album/0MkjQ5J3apbaP2LqxTX5bW) | 6:10 | 2024-03-08 | 2024-11-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: HANRORO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,807 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,802 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,522 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,534 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 51 | [Just Watching You](https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Alchemy of Souls, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin) | 4:02 |
 | 52 | [Get To You](https://open.spotify.com/track/2S8mZn8qjT8udtuoCziMPf) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [KING THE LAND \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/4Y0Xe9mVSKmn0k24oVkrtU) | 3:27 |
 | 53 | [With You](https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
-| 54 | [What If](https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dear Hyeri, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2) | 3:51 |
-| 55 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
+| 54 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
+| 55 | [What If](https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dear Hyeri, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2) | 3:51 |
 | 56 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 |
 | 57 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
 | 58 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 76 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 |
 | 77 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
 | 78 | [By your side](https://open.spotify.com/track/2OAbhTVIWlwoGkhqMuqBEt) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Melo Movie \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5PlWD3jtXFnEGFm00Y6End) | 4:08 |
-| 79 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 |
-| 80 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
+| 79 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
+| 80 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 |
 
 Snapshot ID: `aGXptQAAAACESYQMedJOwXdPtO8HRLWX`

@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 35 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
 | 36 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 |
 | 37 | [Future Tripping](https://open.spotify.com/track/1A5kvLbOhmGYMZVIUepuQh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:28 |
-| 38 | [Nothing Really Matters](https://open.spotify.com/track/39WrHcSaHfV38HRUJOid1K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:37 |
-| 39 | [To The Men That Love Women After Heartbreak](https://open.spotify.com/track/64yNVFQSll4Sl2Vfe4G1di) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:52 |
+| 38 | [To The Men That Love Women After Heartbreak](https://open.spotify.com/track/64yNVFQSll4Sl2Vfe4G1di) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:52 |
+| 39 | [Nothing Really Matters](https://open.spotify.com/track/39WrHcSaHfV38HRUJOid1K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:37 |
 | 40 | [Fake Names](https://open.spotify.com/track/2ClUu1kEWAGb6KZroRkkUq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Fake Names](https://open.spotify.com/album/6HR8wY3bzZWNoU3sJZY2bX) | 2:39 |
 | 41 | [I GUESS THEY CALL IT FALLIN'](https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 4:01 |
 | 42 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 75 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
 | 76 | [Turn It On](https://open.spotify.com/track/1pLV9JBBz6TEPKgs1QPO7p) | [Big Radio Lovers](https://open.spotify.com/artist/6ysaqb07lMZJ6Ti3Lon5Tn) | [Turn It On](https://open.spotify.com/album/2fCu44OszPLrhSa3AmZv16) | 5:36 |
 
-Snapshot ID: `Ab2K6AAAAABGdqKBKwaJHYk/TV++QSSQ`
+Snapshot ID: `Ab2QagAAAAD4FTUb43ocLEAAcLRY9z0R`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,301 likes - 43 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,474 likes - 43 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,19 +37,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 27 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
 | 28 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
 | 29 | [Arsonist's Lullabye](https://open.spotify.com/track/7lpmIGFw7Kc9qIdq4cGs34) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:26 |
-| 30 | [Swan Upon Leda](https://open.spotify.com/track/6hXiNksbHFrVLOGlLb3sU6) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ) | 3:42 |
-| 31 | [July](https://open.spotify.com/track/5KmBuvGpRo2SGMraPntlhK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:34 |
+| 30 | [July](https://open.spotify.com/track/5KmBuvGpRo2SGMraPntlhK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:34 |
+| 31 | [Swan Upon Leda](https://open.spotify.com/track/6hXiNksbHFrVLOGlLb3sU6) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ) | 3:42 |
 | 32 | [Be \- Acoustic](https://open.spotify.com/track/0U74q2Txx1kpyJ8iB1cFAG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby! \(Special Edition\)](https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5) | 3:55 |
 | 33 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 |
-| 34 | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 |
-| 35 | [Empire Now](https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 2:58 |
+| 34 | [Empire Now](https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 2:58 |
+| 35 | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 |
 | 36 | [Why Would You Be Loved](https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby! \(Special Edition\)](https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5) | 4:08 |
 | 37 | [Moment's Silence \(Common Tongue\)](https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:14 |
-| 38 | [Better Love \- From "The Legend Of Tarzan" Original Motion Picture Soundtrack / Single Version](https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Better Love](https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl) | 3:13 |
-| 39 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/3Zwb1yipBxvrukVaNMm4o5) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:42 |
+| 38 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/3Zwb1yipBxvrukVaNMm4o5) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:42 |
+| 39 | [Better Love \- From "The Legend Of Tarzan" Original Motion Picture Soundtrack / Single Version](https://open.spotify.com/track/1xSNfIhSXHEJIwqDXHAxQ7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Better Love](https://open.spotify.com/album/3x9wI2YbixwKFQwfawMAOl) | 3:13 |
 | 40 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 |
 | 41 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
-| 42 | [That You Are](https://open.spotify.com/track/4Zayz7dbduel3h0zyYk3qZ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Unaired](https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo) | 4:16 |
-| 43 | [Fare Well](https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:08 |
+| 42 | [Fare Well](https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:08 |
+| 43 | [That You Are](https://open.spotify.com/track/4Zayz7dbduel3h0zyYk3qZ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Unaired](https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo) | 4:16 |
 
-Snapshot ID: `aGm8gAAAAADQLXYdrFPA9CjcVkyXtQa3`
+Snapshot ID: `aGsOAAAAAABh+T1jl0fcjTUdCNWH7nQz`

@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,256 songs - 5 day 7 hr 30 min
+2,257 songs - 5 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Dile](https://open.spotify.com/track/7qsyyhllSvwoJl4I1O4VZW) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Welcome to Hell III](https://open.spotify.com/album/4x5D8GnJE4JoAdZI41Z8PF) | 2:30 | 2024-05-01 | 2024-06-22 |
 | [Diluvio](https://open.spotify.com/track/1ktxjDVHlAqnzmbmzgKoZC) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Diluvio](https://open.spotify.com/album/09YqQh4UDSidW3LLJZteIw) | 2:58 | 2024-05-20 | 2024-06-29 |
 | [Dimini](https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Dimini](https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny) | 2:22 | 2023-02-17 | 2023-02-25 |
+| [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 | 2025-07-08 |  |
 | [Dip Dip](https://open.spotify.com/track/64Iarb0yOhbpKS49N2DbOO) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Dip Dip](https://open.spotify.com/album/3jgGpB51lg7mOay6gGjZhX) | 2:47 | 2024-07-12 | 2024-08-03 |
 | [Dipped In $ugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 | 2022-09-09 | 2022-09-18 |
 | [Dirty Blonde](https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Dirty Blonde](https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb) | 3:27 | 2023-11-17 | 2024-01-06 |

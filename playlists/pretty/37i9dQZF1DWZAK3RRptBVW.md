@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 
 > Bu yıl yıldızı parlayanlar, editörlerimizin seçkisiyle\. Kapak: M Lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,605 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,600 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

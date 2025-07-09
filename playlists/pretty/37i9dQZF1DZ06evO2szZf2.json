@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35174,
+  "num_followers": 35171,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADf1FuimcyqQNXgGZg6w6Xy",
+  "snapshot_id": "aGsOAAAAAABFAoNQLJxRz8F0PjYETiLt",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marra de Bandido",
+        "url": "https://open.spotify.com/album/2u4mR0k6kBJKTAO9p92le7"
+      },
+      "artists": [
+        {
+          "name": "Michele Andrade",
+          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "HITZIN",
+          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
+        }
+      ],
+      "duration_ms": 118586,
+      "name": "Marra de Bandido",
+      "url": "https://open.spotify.com/track/3q3rhHGxVcTfZvkE1b2Jgw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
         "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
       },
@@ -455,30 +479,6 @@
       "duration_ms": 1113600,
       "name": "Set Dos Casados 2",
       "url": "https://open.spotify.com/track/7KM3s9TZZ3yJDSP9rIkcbc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marra de Bandido",
-        "url": "https://open.spotify.com/album/2u4mR0k6kBJKTAO9p92le7"
-      },
-      "artists": [
-        {
-          "name": "Michele Andrade",
-          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "HITZIN",
-          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
-        }
-      ],
-      "duration_ms": 118586,
-      "name": "Marra de Bandido",
-      "url": "https://open.spotify.com/track/3q3rhHGxVcTfZvkE1b2Jgw"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 213994,
       "name": "Mundo da Fama",
       "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Press\u00e3o Mundial Continua",
+        "url": "https://open.spotify.com/album/6f3MsNGwXJ8dTKiX7IupCl"
+      },
+      "artists": [
+        {
+          "name": "Biu do Piseiro",
+          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 119347,
+      "name": "Pede Que Eu Te Dou",
+      "url": "https://open.spotify.com/track/1X7sV26NBlBgPexQNZRYMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mandrake",
         "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Press\u00e3o Mundial Continua",
-        "url": "https://open.spotify.com/album/6f3MsNGwXJ8dTKiX7IupCl"
-      },
-      "artists": [
-        {
-          "name": "Biu do Piseiro",
-          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 119347,
-      "name": "Pede Que Eu Te Dou",
-      "url": "https://open.spotify.com/track/1X7sV26NBlBgPexQNZRYMw"
     },
     {
       "added_at": null,
@@ -1107,6 +1107,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "J\u00e1 Fui o Amor da sua Vida",
+        "url": "https://open.spotify.com/album/7iSuTXWW52Brxz2jBNlHdR"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Levin",
+          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
+        },
+        {
+          "name": "DJ Game Beat",
+          "url": "https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi"
+        },
+        {
+          "name": "Ritmo Dos Fluxos",
+          "url": "https://open.spotify.com/artist/1fIRsnPkqS51CQsnsKC4Cx"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "J\u00e1 Fui o Amor da sua Vida",
+      "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -1155,34 +1183,6 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J\u00e1 Fui o Amor da sua Vida",
-        "url": "https://open.spotify.com/album/7iSuTXWW52Brxz2jBNlHdR"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Levin",
-          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
-        },
-        {
-          "name": "DJ Game Beat",
-          "url": "https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi"
-        },
-        {
-          "name": "Ritmo Dos Fluxos",
-          "url": "https://open.spotify.com/artist/1fIRsnPkqS51CQsnsKC4Cx"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "J\u00e1 Fui o Amor da sua Vida",
-      "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
     },
     {
       "added_at": null,
@@ -1403,26 +1403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mellokillaz",
         "url": "https://open.spotify.com/album/4Tl9UDO3kyio8srwAu4Jnd"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 156363,
       "name": "Popola (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/41mbP4HHVq29rVatGp0S2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
     },
     {
       "added_at": null,
@@ -1551,22 +1551,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rickweek",
-        "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
+        "name": "Bate Com Vontade (Remix)",
+        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
       },
       "artists": [
         {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+          "name": "Dad\u00e1 Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Tarik Lima",
+          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
         }
       ],
-      "duration_ms": 126511,
-      "name": "Vagabunda do Caralho",
-      "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
+      "duration_ms": 144915,
+      "name": "Bate Com Vontade - Remix",
+      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
     }
   ],
   "unique_name": "This Is Mc Dricka",

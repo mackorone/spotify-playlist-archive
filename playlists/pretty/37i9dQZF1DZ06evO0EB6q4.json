@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 248213,
+  "num_followers": 248294,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAAkXBjlSKGTjnXdKRWFClJ",
+  "snapshot_id": "aGsOAAAAAACajB0R2O80GtKe0lrtgv4F",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #7",
         "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 169642,
       "name": "LQRA Session #7",
       "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Camina Sola",
+      "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Fondo",
         "url": "https://open.spotify.com/album/4xDD54XJqrbcLH8FtGjylv"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Camina Sola",
-      "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
     },
     {
       "added_at": null,

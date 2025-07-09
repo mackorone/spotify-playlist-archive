@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,870 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,900 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 10 | [Tu Nuevo Cariñito](https://open.spotify.com/track/5UCPSGLNI76qSbzPyMMyo2) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:55 |
 | 11 | [Ayúdame A Olvidarte](https://open.spotify.com/track/694ISCxj0nirQhsAn830hu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:01 |
 | 12 | [Noches Eternas](https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 2:50 |
-| 13 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
-| 14 | [Que El Mundo Ruede](https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Y Que El Mundo Ruede](https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0) | 2:53 |
+| 13 | [Que El Mundo Ruede](https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Y Que El Mundo Ruede](https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0) | 2:53 |
+| 14 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
 | 15 | [El Invencible](https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:36 |
 | 16 | [China De Los Ojos Negros](https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:15 |
 | 17 | [Tu Ultimo Verano](https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Rifare Mi Suerte](https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf) | 3:01 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 21 | [No Volveré](https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 2:57 |
 | 22 | [A Punto De Llorar](https://open.spotify.com/track/3Z2ZbacXEi2SCNNZhQNzrr) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Pos' Que No...Claro Que Si](https://open.spotify.com/album/5tOoa6i00CvfkkBGJSrJtP) | 2:59 |
 | 23 | [Mi Amor No Lo Mereces](https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:39 |
-| 24 | [Aventura Pasada](https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:35 |
-| 25 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
+| 24 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
+| 25 | [Aventura Pasada](https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:35 |
 | 26 | [La Equivocación](https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:17 |
 | 27 | [Renunciacion](https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:11 |
 | 28 | [¿Y Ahora Que?](https://open.spotify.com/track/222ealJk2LBZ56PX07GuLL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Despistando Al Enemigo](https://open.spotify.com/track/4m3GHbPZTuFGwYRaIpdTYl) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Despistando Al Enemigo](https://open.spotify.com/album/1YE3fDpcdYzZ21cpZAPO9M) | 2:19 |
 | 50 | [Las Rejas No Matan](https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 3:22 |
 
-Snapshot ID: `aGm8gAAAAABcbpMGcuu8x1cWArieiCtx`
+Snapshot ID: `aGsOAAAAAABqaTIGYlhOdOondpe/SUrV`

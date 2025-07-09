@@ -4,7 +4,7 @@
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 50 min
+70 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 | 2023-09-15 |  |
 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 | 2023-07-09 | 2024-09-09 |
 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 | 2023-07-09 |  |
-| [Eliseu \- Ao Vivo](https://open.spotify.com/track/7I1ZA8OJDPwyWmcvogY8Z5) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Eliseu \(Ao Vivo\)](https://open.spotify.com/album/3IxfoVmsukfrHmPm6asX4V) | 9:02 | 2025-01-27 |  |
+| [Eliseu \- Ao Vivo](https://open.spotify.com/track/7I1ZA8OJDPwyWmcvogY8Z5) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Eliseu \(Ao Vivo\)](https://open.spotify.com/album/3IxfoVmsukfrHmPm6asX4V) | 9:02 | 2025-01-27 | 2025-07-09 |
+| [Eliseu \- Ao Vivo](https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus de Obras Completas \(Ao Vivo\)](https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F) | 9:03 | 2025-07-09 |  |
 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 | 2023-07-09 |  |
 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 | 2023-07-09 |  |
 | [Farás Outra Vez](https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez](https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK) | 4:06 | 2024-12-08 |  |

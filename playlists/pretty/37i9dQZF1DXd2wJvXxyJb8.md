@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,887 likes - 70 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,120 likes - 70 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 32 | [Médio Versalico](https://open.spotify.com/track/207HLdUVIdZEUMRX15BIwD) | [DJ OLIVEIRA ORIGINAL](https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw) | [Médio Versalico](https://open.spotify.com/album/68in7bmnv2YgoEFyx6hpD7) | 1:43 |
 | 33 | [Meu Carro nao tem Porta Luva \- Remastered 2024](https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc) | [DJ NATAN 22](https://open.spotify.com/artist/1IOofxVTB3jFgrfUpufZgF), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Meu Carro nao tem Porta Luva \(Remastered 2024\)](https://open.spotify.com/album/2lspGbGOU0Bz2ZH4sfhN5b) | 2:39 |
 | 34 | [MONTAGEM TOMADA \- Slowed](https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ) | 1:24 |
-| 35 | [HERE \- Hood Trap](https://open.spotify.com/track/4X4Ur8jqwMcCKmfPAD8EIQ) | [Salako](https://open.spotify.com/artist/599kvLJs6hiYtRJJBKs2gj) | [HERE \(Hood Trap\)](https://open.spotify.com/album/38sMk3srE3rQhWYDOLNvyA) | 2:00 |
+| 35 | [HERE \- Hood Trap](https://open.spotify.com/track/4X4Ur8jqwMcCKmfPAD8EIQ) | [Salako](https://open.spotify.com/artist/599kvLJs6hiYtRJJBKs2gj) | [HERE \(Hood Trap\)](https://open.spotify.com/album/38sMk3srE3rQhWYDOLNvyA) | 2:01 |
 | 36 | [Rabetão De Terremoto](https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE) | [DJ CZ](https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [DJ TS](https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON), [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Rabetão De Terremoto](https://open.spotify.com/album/67v8jx5TDQDkewt5oMiJZn) | 1:47 |
 | 37 | [Puta É Só um Detalhe](https://open.spotify.com/track/58g8XjpC5Yj3jCOUVMqAfb) | [DJ Douglinhas](https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi), [DJ Miller Oficial](https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP), [MC Torugo](https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o) | [Puta É Só um Detalhe](https://open.spotify.com/album/0pAcro1CTQZfvV7en7fepD) | 2:38 |
 | 38 | [NÃO ERA LOVE](https://open.spotify.com/track/6lrQgEPTuOKyvn4bQJuaRU) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [NÃO ERA LOVE](https://open.spotify.com/album/0OLFw0H2DJQcEap0j54ie0) | 2:24 |

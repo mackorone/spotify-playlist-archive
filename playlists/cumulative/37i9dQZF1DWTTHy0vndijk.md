@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 조유리\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-490 songs - 1 day 2 hr 51 min
+491 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Gee \- Live](https://open.spotify.com/track/3f5tqrL3PfRrfxFwoYrOhQ) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into The New World \(The First Asia Tour\)](https://open.spotify.com/album/3gQKLh7YC3VjvO3AMDVuJt) | 3:21 | 2022-03-29 | 2022-05-18 |
 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-26 | 2024-08-01 |
 | [Glass Bead](https://open.spotify.com/track/2rFRa1eJ8RqlINbJCZwdtt) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 1st Mini Album 'Season Of Glass'](https://open.spotify.com/album/3yOVupLmLpD7Qosl08ow0u) | 3:23 | 2021-11-29 | 2022-07-20 |
+| [Glass Heart](https://open.spotify.com/track/7GKpMkxFM9RJO7IBXEq3vU) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Glass Heart](https://open.spotify.com/album/7eBRKTKCEULACWdW0bEv8X) | 2:58 | 2025-07-08 |  |
 | [Glass Shoes](https://open.spotify.com/track/1VNuUzsWTp1WGf3mMeItvp) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Fromis\_9 PRE\-DEBUT Single](https://open.spotify.com/album/3tm1tbyC1FgCrtMraqJXBr) | 3:11 | 2021-11-29 | 2022-07-29 |
 | [Glow Up](https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Glow Up](https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0) | 2:28 | 2025-02-05 | 2025-07-03 |
 | [Good Day \(Special Daileee\)](https://open.spotify.com/track/2bxQoEPkVPlCNTUACMnEbh) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Good Day \(Special Daileee\)](https://open.spotify.com/album/5iTWeHExLbtaLJPPFFD3Xq) | 2:48 | 2023-09-13 | 2023-09-28 |
@@ -490,7 +491,7 @@
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-05-09 | 2024-04-19 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
 | [YoYo](https://open.spotify.com/track/1WpZTJ75xyLy7EQtK8zYb6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Re:Scene](https://open.spotify.com/album/1C78MdRvc88435lTnGxGUF) | 3:30 | 2024-03-27 | 2024-04-19 |
-| [ZOOM](https://open.spotify.com/track/5koizuWzXgVvvJxeToiU1t) | [USPEER](https://open.spotify.com/artist/1p7Fm42iZrBEvG2wIaRCoL) | [SPEED ZONE](https://open.spotify.com/album/6eWgaSgtuchEdVEuJ5TOiX) | 2:58 | 2025-06-04 |  |
+| [ZOOM](https://open.spotify.com/track/5koizuWzXgVvvJxeToiU1t) | [USPEER](https://open.spotify.com/artist/1p7Fm42iZrBEvG2wIaRCoL) | [SPEED ZONE](https://open.spotify.com/album/6eWgaSgtuchEdVEuJ5TOiX) | 2:58 | 2025-06-04 | 2025-07-09 |
 | [날 바라바라봐 LOOK AT ME](https://open.spotify.com/track/6fNZs2SjBVvsT1xYOVuPDq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [twicetagram](https://open.spotify.com/album/7dOZAeST5qCpfpQRAHq9sa) | 3:13 | 2022-01-26 | 2022-06-16 |
 | [내 다리를 봐](https://open.spotify.com/track/7tHD9W1csiXXcfYL9v5Rba) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Be Ambitious](https://open.spotify.com/album/3YZ0la892g3mx8f9ZVcK5q) | 3:24 | 2022-01-17 | 2022-04-20 |
 | [너에게 주고 싶은 세 가지](https://open.spotify.com/track/6O9XDUYZ2QUW6C60xewOzG) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [너에게 주고 싶은 세 가지](https://open.spotify.com/album/2fxzplzb6bXwWjmTuSSdZm) | 3:26 | 2023-09-27 | 2023-10-12 |

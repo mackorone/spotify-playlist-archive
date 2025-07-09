@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,456 likes - 46 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,627 likes - 46 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 9 | [That's What You Get](https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:40 |
 | 10 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
 | 11 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 |
-| 12 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 |
+| 12 | [Emergency](https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 4:00 |
 | 13 | [crushcrushcrush](https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:09 |
-| 14 | [Emergency](https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 4:00 |
+| 14 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 |
 | 15 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
-| 16 | [Caught in the Middle](https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:34 |
-| 17 | [Interlude: I'm Not Angry Anymore](https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 0:52 |
+| 16 | [Interlude: I'm Not Angry Anymore](https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 0:52 |
+| 17 | [Caught in the Middle](https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:34 |
 | 18 | [I Caught Myself](https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [I Caught Myself](https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k) | 3:55 |
 | 19 | [Playing God](https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:02 |
-| 20 | [Told You So](https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:08 |
-| 21 | [My Heart](https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:59 |
+| 20 | [My Heart](https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:59 |
+| 21 | [Told You So](https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:08 |
 | 22 | [Monster \- Transformers Soundtrack Version](https://open.spotify.com/track/04BSvYghzdxjSJNpee36er) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Monster](https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C) | 3:20 |
 | 23 | [Crave](https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:55 |
 | 24 | [Last Hope](https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 5:09 |
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 33 | [Misguided Ghosts](https://open.spotify.com/track/2VYqkb77OjToeRAnMNd4yU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:01 |
 | 34 | [Hate to See Your Heart Break](https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 5:09 |
 | 35 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 |
-| 36 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
-| 37 | [Brighter](https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:43 |
+| 36 | [Brighter](https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:43 |
+| 37 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
 | 38 | [For a Pessimist, I'm Pretty Optimistic](https://open.spotify.com/track/2IBM7pWht51SaU52GZGiEc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:48 |
 | 39 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
-| 40 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
-| 41 | [Here We Go Again](https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:46 |
+| 40 | [Here We Go Again](https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:46 |
+| 41 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
 | 42 | [Tell Me It's Okay \- Demo](https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 2:43 |
 | 43 | [Renegade](https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:28 |
 | 44 | [Sanity \(demo\)](https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:30 |
 | 45 | [In the Mourning](https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:05 |
 | 46 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
 
-Snapshot ID: `aGm8gAAAAABZqhUY89GPwG30z74v/HtJ`
+Snapshot ID: `aGsOAAAAAAAFbMwvObYTr4f70VrQeIk1`

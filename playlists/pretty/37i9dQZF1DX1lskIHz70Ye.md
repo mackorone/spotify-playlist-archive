@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,975 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,001 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 10 | [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 |
 | 11 | [Cloudberry Hill](https://open.spotify.com/track/67uf7fIOdyn7ZniHZxBnJB) | [Oddn](https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN) | [Cloudberry Hill](https://open.spotify.com/album/2u2rFU0CLNVXJBzgin0203) | 3:02 |
 | 12 | [Antiques](https://open.spotify.com/track/5Ma7R5NkweVB9H39IfxVjm) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Antiques](https://open.spotify.com/album/47Y0BDt1BR8iuRLwBiOfzG) | 3:16 |
-| 13 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
+| 13 | [Amber Afternoon](https://open.spotify.com/track/74Q9Y6XcgD3T68a5twl6f5) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Amber Afternoon](https://open.spotify.com/album/2DBHJXcyFo5xe8Ki7RpvFq) | 2:53 |
 | 14 | [Holding Hands](https://open.spotify.com/track/6XUTzew4WENpk18JlfU9BU) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Holding Hands](https://open.spotify.com/album/5tdIQB7ClKnQJNAONbtcTy) | 2:28 |
-| 15 | [Look What You've Done to Me](https://open.spotify.com/track/6En4UOHRIceXLYOSuz9idc) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Look What You've Done to Me](https://open.spotify.com/album/45xkiwGVlPVp8RGq0RDUwZ) | 3:06 |
-| 16 | [Estrella del Alba](https://open.spotify.com/track/75MArQvQxnXcf1eihuGMIj) | [Mirta Alvarez](https://open.spotify.com/artist/4zEFyJWmosnx8lZKfy8EkZ) | [Estrella del Alba](https://open.spotify.com/album/1tPzlsbmcvftBFrSJtamoG) | 2:57 |
-| 17 | [Amber Afternoon](https://open.spotify.com/track/74Q9Y6XcgD3T68a5twl6f5) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Amber Afternoon](https://open.spotify.com/album/2DBHJXcyFo5xe8Ki7RpvFq) | 2:53 |
-| 18 | [La Noche](https://open.spotify.com/track/5hfdZPZVQJBQeS8gI2nytO) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [La Noche](https://open.spotify.com/album/3B5cMshSNYP8IBHRYPGVBh) | 2:30 |
-| 19 | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/track/1g7RJi4R1rCriDQUsETRf4) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/album/3TmeHfTpMHcPqQSOAFbZeC) | 2:10 |
-| 20 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
-| 21 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
-| 22 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
+| 15 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
+| 16 | [Look What You've Done to Me](https://open.spotify.com/track/6En4UOHRIceXLYOSuz9idc) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Look What You've Done to Me](https://open.spotify.com/album/45xkiwGVlPVp8RGq0RDUwZ) | 3:06 |
+| 17 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
+| 18 | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/track/1g7RJi4R1rCriDQUsETRf4) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/album/3TmeHfTpMHcPqQSOAFbZeC) | 2:10 |
+| 19 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
+| 20 | [La Noche](https://open.spotify.com/track/5hfdZPZVQJBQeS8gI2nytO) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [La Noche](https://open.spotify.com/album/3B5cMshSNYP8IBHRYPGVBh) | 2:30 |
+| 21 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
+| 22 | [Estrella del Alba](https://open.spotify.com/track/75MArQvQxnXcf1eihuGMIj) | [Mirta Alvarez](https://open.spotify.com/artist/4zEFyJWmosnx8lZKfy8EkZ) | [Estrella del Alba](https://open.spotify.com/album/1tPzlsbmcvftBFrSJtamoG) | 2:57 |
 | 23 | [Surrounded By You](https://open.spotify.com/track/7p9PuCcNoUbZP51ukCZ7JW) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Surrounded By You](https://open.spotify.com/album/3ZYD3x67rTRUVRpRRBM1LY) | 2:36 |
 | 24 | [Brisa](https://open.spotify.com/track/1Yq3YiBlTldgN2jJn3JTCW) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Brisa](https://open.spotify.com/album/0GuqxpAAAS5LSEEM7HD5sG) | 2:18 |
 | 25 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 77 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 |
 | 78 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
 
-Snapshot ID: `aE/ycQAAAAD5rQiACm9wo5zgPHuFjq/e`
+Snapshot ID: `aG0OIwAAAABJcnOfs+lg2t4wsLfKr8GL`

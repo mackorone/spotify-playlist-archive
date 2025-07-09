@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 620424,
+  "num_followers": 620491,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
+        "name": "El Bombazo",
+        "url": "https://open.spotify.com/album/6g4bKWae6itYgu4gysKLH2"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 269635,
+      "name": "Yo Soy Tu Maestro",
+      "url": "https://open.spotify.com/track/6iUzbEwZnm9NuXdWvuoNem"
+    },
+    {
+      "added_at": "2025-07-04 11:56:24",
+      "album": {
         "name": "En Directo - Piel Con Piel",
         "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
       },
@@ -1543,18 +1559,22 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
-        "name": "El Bombazo",
-        "url": "https://open.spotify.com/album/6g4bKWae6itYgu4gysKLH2"
+        "name": "\u00a1El Que No Hace Palmas Tiene Culo de Pato, Cuak!",
+        "url": "https://open.spotify.com/album/2X0Nr8WYHk4rzgs3M1cinZ"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+          "name": "Mak Donal",
+          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
+        },
+        {
+          "name": "Atento",
+          "url": "https://open.spotify.com/artist/5X1IIhfsA4afdpwfbZmkL3"
         }
       ],
-      "duration_ms": 269635,
-      "name": "Yo Soy Tu Maestro",
-      "url": "https://open.spotify.com/track/6iUzbEwZnm9NuXdWvuoNem"
+      "duration_ms": 193282,
+      "name": "Ella Me Pide Sexo",
+      "url": "https://open.spotify.com/track/1ROGweOPdTZsUzJyGk4oT2"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1571,6 +1591,22 @@
       "duration_ms": 174236,
       "name": "Sabros\u00f3n",
       "url": "https://open.spotify.com/track/4LY1GUwkUJD8PotaMUrqtE"
+    },
+    {
+      "added_at": "2025-07-04 11:56:24",
+      "album": {
+        "name": "Con Brillo Propio",
+        "url": "https://open.spotify.com/album/6UvXGJGA6ynxSbNc7kif1K"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 174484,
+      "name": "Me Olvide de Ti",
+      "url": "https://open.spotify.com/track/09yg5xVkRIxRFWCSfAgbjx"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1667,42 +1703,6 @@
       "duration_ms": 255164,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9"
-    },
-    {
-      "added_at": "2025-07-04 11:56:24",
-      "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2uJigYIPQFe3xg5btbHhRn"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Hasta Que Salga El Sol",
-      "url": "https://open.spotify.com/track/7Hbg7BL2h2To2jVJwSnFVD"
-    },
-    {
-      "added_at": "2025-07-04 11:56:24",
-      "album": {
-        "name": "\u00a1El Que No Hace Palmas Tiene Culo de Pato, Cuak!",
-        "url": "https://open.spotify.com/album/2X0Nr8WYHk4rzgs3M1cinZ"
-      },
-      "artists": [
-        {
-          "name": "Mak Donal",
-          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
-        },
-        {
-          "name": "Atento",
-          "url": "https://open.spotify.com/artist/5X1IIhfsA4afdpwfbZmkL3"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Ella Me Pide Sexo",
-      "url": "https://open.spotify.com/track/1ROGweOPdTZsUzJyGk4oT2"
     }
   ],
   "unique_name": "Asadito Cumbiero",

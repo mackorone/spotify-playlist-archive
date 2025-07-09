@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 178280,
+  "num_followers": 178194,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -739,38 +739,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Wildflowers in the Graveyard",
-        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
-      },
-      "artists": [
-        {
-          "name": "Amber Rubarth",
-          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Wildflowers in the Graveyard",
-      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Under the Concrete",
-      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -791,18 +759,34 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
       },
       "artists": [
         {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+      "duration_ms": 205875,
+      "name": "Under the Concrete",
+      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Wildflowers in the Graveyard",
+        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
+      },
+      "artists": [
+        {
+          "name": "Amber Rubarth",
+          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Wildflowers in the Graveyard",
+      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -819,6 +803,22 @@
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
-      },
-      "artists": [
-        {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Love Will Win the War",
-      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Dig",
         "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 275800,
       "name": "Myth",
       "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Love Will Win the War",
+      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Pacific Northwest Bound",
+        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
+      },
+      "artists": [
+        {
+          "name": "Mike McKenna Jr.",
+          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
+        }
+      ],
+      "duration_ms": 173786,
+      "name": "Pacific Northwest Bound",
+      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 234826,
       "name": "Avalon (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Pacific Northwest Bound",
-        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
-      },
-      "artists": [
-        {
-          "name": "Mike McKenna Jr.",
-          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
-        }
-      ],
-      "duration_ms": 173786,
-      "name": "Pacific Northwest Bound",
-      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
     },
     {
       "added_at": "2024-11-15 05:00:00",

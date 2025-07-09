@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: \ubc15\uc9c0\uc740) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "All about Korean Jazz hits & new (Cover: \uc18c\uc774\uc5d0 (soye)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 164257,
       "name": "Ningu\u00e9m",
       "url": "https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R"
@@ -3654,6 +3654,24 @@
       "duration_ms": 197982,
       "name": "START OVER",
       "url": "https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX"
+    },
+    {
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/3mjo6r9VpITj8LQgFZZG2y"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151013,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/4kTQFfqIEpfrJPEYsYwgnz"
     },
     {
       "album": {

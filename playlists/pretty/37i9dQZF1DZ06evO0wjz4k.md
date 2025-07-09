@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,333 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,352 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 8 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
 | 9 | [I Can't Breathe](https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 4:17 |
 | 10 | [Big Sky](https://open.spotify.com/track/0syywgDoE7Qaud0Kz1L3H0) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Big Sky](https://open.spotify.com/album/4sbFij3rJCbuzDUbGiOlae) | 2:47 |
-| 11 | [Hope That I’m Enough](https://open.spotify.com/track/74mjyK6UGHGSCLaFtmJfOW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hope That I’m Enough](https://open.spotify.com/album/4FdBwdv1qPuYHw6rm8gzh4) | 4:45 |
-| 12 | [To Be Loved By You](https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:19 |
+| 11 | [To Be Loved By You](https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:19 |
+| 12 | [Hope That I’m Enough](https://open.spotify.com/track/74mjyK6UGHGSCLaFtmJfOW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hope That I’m Enough](https://open.spotify.com/album/4FdBwdv1qPuYHw6rm8gzh4) | 4:45 |
 | 13 | [Love \(feat\. Parker McCollum\)](https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:43 |
 | 14 | [Young Man's Blues](https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Young Man's Blues](https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j) | 3:26 |
 | 15 | [Like A Cowboy](https://open.spotify.com/track/13bXmY0acm51KkgEdhCm1n) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Like A Cowboy](https://open.spotify.com/album/6orV3KooroY8VkXv7YyZrU) | 3:46 |
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 23 | [Why Indiana](https://open.spotify.com/track/4mwK3s8SpzlDH5eR7GacQc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:31 |
 | 24 | [Sunny Days](https://open.spotify.com/track/2Idq7J9Y7JwYuUgxBNJmNN) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 4:12 |
 | 25 | [Tails I Lose](https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:45 |
-| 26 | [Happy New Year](https://open.spotify.com/track/2Tsl7uA8FKysp2nyoeLn15) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 3:59 |
+| 26 | [Memphis Rain](https://open.spotify.com/track/2i21d4wmm7FsiZ37E8qPxS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 4:12 |
 | 27 | [Drinkin'](https://open.spotify.com/track/6P7aZG4PRvErVyxtHIBts5) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:14 |
 | 28 | [Watch Me Bleed](https://open.spotify.com/track/1lGme292PTeG8YIZMY3pwj) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 4:02 |
-| 29 | [Memphis Rain](https://open.spotify.com/track/2i21d4wmm7FsiZ37E8qPxS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 4:12 |
+| 29 | [Happy New Year](https://open.spotify.com/track/2Tsl7uA8FKysp2nyoeLn15) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 3:59 |
 | 30 | [Hold Me Back](https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:03 |
-| 31 | [Galveston Bay](https://open.spotify.com/track/6zOFXvLffrTtWXsCyWkezK) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 4:06 |
+| 31 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 |
 | 32 | [Permanent Headphones](https://open.spotify.com/track/1gVbNW6zPKkfhVSQu5nVDZ) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 |
-| 33 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 |
+| 33 | [Galveston Bay](https://open.spotify.com/track/6zOFXvLffrTtWXsCyWkezK) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 4:06 |
 | 34 | [I Ain't Going Nowhere](https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:24 |
 | 35 | [Sounds Like Something I'd Say \(Feat\. Parker McCollum\)](https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Sounds Like Something I'd Say \(Feat\. Parker McCollum\)](https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78) | 3:20 |
 | 36 | [Come On](https://open.spotify.com/track/62JRlZdb6mXsTW2NWKaITJ) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 49 | [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 |
 | 50 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
 
-Snapshot ID: `aGm8gAAAAADAVhuDl4S3KJjLp0k4MLRK`
+Snapshot ID: `aGsOAAAAAABHjmZA8Z3woe0NNhpZCKIR`

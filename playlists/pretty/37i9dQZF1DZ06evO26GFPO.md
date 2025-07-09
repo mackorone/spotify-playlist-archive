@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,529 likes - 47 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,539 likes - 47 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 46 | [Lud Session \#2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Lud Session \#2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 | 47 | [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 |
 
-Snapshot ID: `aGm8gAAAAACQLI2ogayLwAX5QSdAkTtZ`
+Snapshot ID: `aGsOAAAAAABuDudIR7BmDjsDozs5OV5r`

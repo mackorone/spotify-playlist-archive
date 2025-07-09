@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-353 songs - 17 hr 44 min
+354 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Binaural Vibe Alpha Sinus 64\-74 Hz](https://open.spotify.com/track/3QjHNYEzGUDfMOHqjnPJJA) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:26 | 2022-08-22 | 2025-02-11 |
 | [Birds Touch \- Gamma](https://open.spotify.com/track/19TGWSV1jpgTRxb6N37BdA) | [Meditative Souls](https://open.spotify.com/artist/6nyLL1OEFX7G7DUL3Wiyul) | [Birds Touch \- Gamma](https://open.spotify.com/album/0wFeuyeCcAOFVZrcPNmbUw) | 1:41 | 2021-02-03 | 2021-12-09 |
 | [Blank Caves Gamma 49\-80hz](https://open.spotify.com/track/75l8dDBK9BVNrJF7sH8m0U) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Blank Caves Gamma 49\-80hz](https://open.spotify.com/album/5oPu9eYDXAj0yXBxQjCsYq) | 3:00 | 2024-07-12 |  |
+| [Breaking Walls Gamma \(60\-107hz\)](https://open.spotify.com/track/2gc4HYHB0UYE18cAC7Pddc) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Breaking Walls Gamma \(60\-107hz\)](https://open.spotify.com/album/0VSo867aIqwHSoRfiQYeaT) | 2:44 | 2025-07-08 |  |
 | [Breathe \(Alpha 10 Hz\)](https://open.spotify.com/track/1yPHyeOZIcFCsY4xPKYwge) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [Breathe](https://open.spotify.com/album/4dvLP2NgD04TxQmE5yhBzY) | 2:40 | 2021-08-05 | 2022-05-06 |
 | [Bridge Alpha Sinus \- 147 hz \- 148 hz](https://open.spotify.com/track/1ml9cNlcbmwytBtl0eEadf) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Sinus Moments](https://open.spotify.com/album/7HbRDOMi06vfQgudWIeIIK) | 3:29 | 2021-08-05 | 2025-02-11 |
 | [Bûche Creuse](https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:38 | 2019-05-26\* | 2021-01-12 |

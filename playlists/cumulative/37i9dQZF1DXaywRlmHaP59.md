@@ -95,6 +95,7 @@
 | [Ya Mdallaa](https://open.spotify.com/track/3NjPre3o7IrY1OkBG97Opc) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [Ya Mdallaa](https://open.spotify.com/album/5VoAawJAUcU1ExRvABtQJJ) | 2:57 | 2021-09-10 |  |
 | [Ya Mdallaa](https://open.spotify.com/track/3q6TiB6NK1Fxpu6UPHJCQ9) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [Ya Mdallaa](https://open.spotify.com/album/29UXWn2MedgVcTkwsIkRgN) | 2:57 | 2023-03-13 | 2024-04-19 |
 | [Ya Tarek](https://open.spotify.com/track/1jlzJZAMqbHOVYyOtWN8hQ) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ya Tarek](https://open.spotify.com/album/2x58mqnuGWYA5Cl4NNIwZy) | 3:26 | 2021-09-10 |  |
+| [â Hazzi Dehekli](https://open.spotify.com/track/3VJ14M8j85bAYBupPOdZu2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:12 | 2024-08-14 |  |
 | [أنا رجعت](https://open.spotify.com/track/3QncHZbe3Y03DOb30PJMtt) | [Cyrine Abdel Nour](https://open.spotify.com/artist/5cmJD8Jj6XTpaEpcJAXDXj) | [أنا رجعت](https://open.spotify.com/album/77DthSlxlSkUXVxnvFBcLv) | 3:02 | 2021-09-10 |  |
 | [أنا وبس](https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا وبس](https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ) | 4:08 | 2022-08-26 |  |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2021-09-10 |  |
@@ -102,6 +103,5 @@
 | [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 | 2021-09-10 |  |
 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 | 2024-08-14 |  |
 | [يا لبنان](https://open.spotify.com/track/6NKr0wFMFsuxjRVcgjrEER) | [Moeen Shreif](https://open.spotify.com/artist/1EKUd22YubzgCoqFpGKLra) | [يا لبنان](https://open.spotify.com/album/1dEtBI2V4ZRUmDtHQVHOkW) | 2:54 | 2025-02-02 |  |
-| [⁠Hazzi Dehekli](https://open.spotify.com/track/3VJ14M8j85bAYBupPOdZu2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:12 | 2024-08-14 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

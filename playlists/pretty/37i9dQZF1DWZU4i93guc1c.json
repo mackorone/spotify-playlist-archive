@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: To Eternity",
-  "num_followers": 38593,
+  "num_followers": 38591,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u0422\u0430 \u0441\u0430\u043c\u0430",
-        "url": "https://open.spotify.com/album/7KW9GJVMIcoHsYMqeVZwlz"
-      },
-      "artists": [
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "\u0422\u0430 \u0441\u0430\u043c\u0430",
-      "url": "https://open.spotify.com/track/1P3BdBJLHT3uZlXU3kniQ5"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
         "url": "https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 199556,
       "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
       "url": "https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "\u0422\u0430 \u0441\u0430\u043c\u0430",
+        "url": "https://open.spotify.com/album/7KW9GJVMIcoHsYMqeVZwlz"
+      },
+      "artists": [
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "\u0422\u0430 \u0441\u0430\u043c\u0430",
+      "url": "https://open.spotify.com/track/1P3BdBJLHT3uZlXU3kniQ5"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "AMARA",
-        "url": "https://open.spotify.com/album/4PG7HcZnnk0aIqkvQPLiZR"
-      },
-      "artists": [
-        {
-          "name": "Phil It",
-          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "\u041b\u0443\u043d\u0430\u0454",
-      "url": "https://open.spotify.com/track/1eD2eY8EOi8pOGm7toAfQF"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u043d\u0435 \u0431\u0440\u0435\u0448\u0438",
         "url": "https://open.spotify.com/album/6IqttDgQZHC05pcI1WTa3k"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 125217,
       "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u043d\u0435 \u0431\u0440\u0435\u0448\u0438",
       "url": "https://open.spotify.com/track/1nBKQvdtCQB6vt4x69qSL0"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "AMARA",
+        "url": "https://open.spotify.com/album/4PG7HcZnnk0aIqkvQPLiZR"
+      },
+      "artists": [
+        {
+          "name": "Phil It",
+          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "\u041b\u0443\u043d\u0430\u0454",
+      "url": "https://open.spotify.com/track/1eD2eY8EOi8pOGm7toAfQF"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u041b\u0456\u0444\u0442",
-        "url": "https://open.spotify.com/album/7o0KiXHau0bjiaqy9PbN7H"
-      },
-      "artists": [
-        {
-          "name": "\u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
-          "url": "https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD"
-        }
-      ],
-      "duration_ms": 149280,
-      "name": "\u041b\u0456\u0444\u0442",
-      "url": "https://open.spotify.com/track/14tNEzKUco8Uxt8zCrFW5r"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u043d\u0435 \u043e\u0434\u0438\u043d",
         "url": "https://open.spotify.com/album/0k5Arenyl0yRWvBmZMZ4Y9"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 240000,
       "name": "\u043d\u0435 \u043e\u0434\u0438\u043d",
       "url": "https://open.spotify.com/track/3Gy0qB1a8oqOwz6XqoDqyW"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "\u041b\u0456\u0444\u0442",
+        "url": "https://open.spotify.com/album/7o0KiXHau0bjiaqy9PbN7H"
+      },
+      "artists": [
+        {
+          "name": "\u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
+          "url": "https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD"
+        }
+      ],
+      "duration_ms": 149280,
+      "name": "\u041b\u0456\u0444\u0442",
+      "url": "https://open.spotify.com/track/14tNEzKUco8Uxt8zCrFW5r"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
-        "url": "https://open.spotify.com/album/5RIvJWSQFDKbJekzvsaLL8"
-      },
-      "artists": [
-        {
-          "name": "\u0421\u0422\u0420\u0423\u041a\u0422\u0423\u0420\u0410 \u0429\u0410\u0421\u0422\u042f",
-          "url": "https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8"
-        }
-      ],
-      "duration_ms": 150552,
-      "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
-      "url": "https://open.spotify.com/track/01vbbtJDdEM6IKflX2PvHz"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u0421\u043e\u043d\u044f",
         "url": "https://open.spotify.com/album/7CpkR3HYyFu49gGUaSkdyd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 250956,
       "name": "\u0421\u043e\u043d\u044f",
       "url": "https://open.spotify.com/track/5cNeKQ02zQ3H4lrtHKohXh"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
+        "url": "https://open.spotify.com/album/5RIvJWSQFDKbJekzvsaLL8"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0422\u0420\u0423\u041a\u0422\u0423\u0420\u0410 \u0429\u0410\u0421\u0422\u042f",
+          "url": "https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8"
+        }
+      ],
+      "duration_ms": 150552,
+      "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
+      "url": "https://open.spotify.com/track/01vbbtJDdEM6IKflX2PvHz"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
+        "name": "\u041c\u0440\u0456\u044e",
+        "url": "https://open.spotify.com/album/5DdLG6obvBdNAge8dV9siI"
+      },
+      "artists": [
+        {
+          "name": "SHY",
+          "url": "https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt"
+        }
+      ],
+      "duration_ms": 138095,
+      "name": "\u041c\u0440\u0456\u044e",
+      "url": "https://open.spotify.com/track/5z8UhrDbS53B49qlkJJxgy"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
         "name": "\u043b\u0456\u0434 \u0443 \u0432\u043e\u0434\u0456",
         "url": "https://open.spotify.com/album/7mRKHnzH1fiNdrwcCn9nwB"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 246474,
       "name": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u0432 \u0442\u043e\u0431\u0456 \u043f\u0456\u0441\u043d\u044e",
       "url": "https://open.spotify.com/track/3BhDQN3XYIbGqYSouXhA9G"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
-        "name": "\u041c\u0440\u0456\u044e",
-        "url": "https://open.spotify.com/album/5DdLG6obvBdNAge8dV9siI"
-      },
-      "artists": [
-        {
-          "name": "SHY",
-          "url": "https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt"
-        }
-      ],
-      "duration_ms": 138095,
-      "name": "\u041c\u0440\u0456\u044e",
-      "url": "https://open.spotify.com/track/5z8UhrDbS53B49qlkJJxgy"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u041f\u0456\u0448\u0430\u043a",
-        "url": "https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX"
-      },
-      "artists": [
-        {
-          "name": "Intermezzo",
-          "url": "https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "\u041f\u0456\u0448\u0430\u043a",
-      "url": "https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u0422\u0430\u043a \u043d\u0456\u0436\u043d\u043e",
         "url": "https://open.spotify.com/album/0IXqSPTUJRzNsQNDigCvSw"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 184256,
       "name": "\u0422\u0430\u043a \u043d\u0456\u0436\u043d\u043e",
       "url": "https://open.spotify.com/track/41rQGeONHiocYIGRpB5Aqv"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "\u041f\u0456\u0448\u0430\u043a",
+        "url": "https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX"
+      },
+      "artists": [
+        {
+          "name": "Intermezzo",
+          "url": "https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "\u041f\u0456\u0448\u0430\u043a",
+      "url": "https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "Long Play: \u0413\u0440\u0430 \u0432 \u0434\u043e\u0432\u0433\u0443",
-        "url": "https://open.spotify.com/album/1rkCwt4qbVKH0X5vKtBHus"
-      },
-      "artists": [
-        {
-          "name": "Sofira",
-          "url": "https://open.spotify.com/artist/6IsIXhoZSxqf4BKGKGiN88"
-        }
-      ],
-      "duration_ms": 167214,
-      "name": "\u041d\u0435\u0431\u043e",
-      "url": "https://open.spotify.com/track/1wIaD1sUIBxkKBmE7wjyyj"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
         "url": "https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 174221,
       "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
       "url": "https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "Long Play: \u0413\u0440\u0430 \u0432 \u0434\u043e\u0432\u0433\u0443",
+        "url": "https://open.spotify.com/album/1rkCwt4qbVKH0X5vKtBHus"
+      },
+      "artists": [
+        {
+          "name": "Sofira",
+          "url": "https://open.spotify.com/artist/6IsIXhoZSxqf4BKGKGiN88"
+        }
+      ],
+      "duration_ms": 167214,
+      "name": "\u041d\u0435\u0431\u043e",
+      "url": "https://open.spotify.com/track/1wIaD1sUIBxkKBmE7wjyyj"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1195,6 +1195,22 @@
       "duration_ms": 247034,
       "name": "\u043b\u044e \u0431\u0456\u043b\u044c <3",
       "url": "https://open.spotify.com/track/1eT1M6cYSeEWbMVXZU8QUy"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "\u0421\u0430\u0442\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/1OEyFSCk0GEdg8Dmww0ry0"
+      },
+      "artists": [
+        {
+          "name": "Olyaska",
+          "url": "https://open.spotify.com/artist/3CHYK38IU7Igd9yiOO3I9J"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "\u0421\u0430\u0442\u0438\u0432\u0430",
+      "url": "https://open.spotify.com/track/1ouqFkok0LZkDAt3qqaYFY"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u0421\u0430\u0442\u0438\u0432\u0430",
-        "url": "https://open.spotify.com/album/1OEyFSCk0GEdg8Dmww0ry0"
-      },
-      "artists": [
-        {
-          "name": "Olyaska",
-          "url": "https://open.spotify.com/artist/3CHYK38IU7Igd9yiOO3I9J"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "\u0421\u0430\u0442\u0438\u0432\u0430",
-      "url": "https://open.spotify.com/track/1ouqFkok0LZkDAt3qqaYFY"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u041d\u0410 \u0414\u0412\u041e\u0425",
         "url": "https://open.spotify.com/album/6Xm4j25396Z6t7HxxPCXYS"
       },
@@ -1255,6 +1255,26 @@
       "duration_ms": 275308,
       "name": "\u041d\u0410 \u0414\u0412\u041e\u0425",
       "url": "https://open.spotify.com/track/5zB3t3Zy7JUN7C4GbdK2sn"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "\u0431\u0430\u0433\u0430\u0442\u0435\u043b\u044c \u0437\u0456 \u0441\u043d\u0443 \u0432 \u043a\u0456\u043e\u0442\u043e",
+        "url": "https://open.spotify.com/album/5LFkVnUrAjUrJuiiLWJQmw"
+      },
+      "artists": [
+        {
+          "name": "provulok",
+          "url": "https://open.spotify.com/artist/3i448OV2OVpKy6EQtenzzZ"
+        },
+        {
+          "name": "\u041c\u043e\u043d\u0442\u0435\u0441\u043a'\u0454",
+          "url": "https://open.spotify.com/artist/2HJh8v2atfiAjRk76wSJNa"
+        }
+      ],
+      "duration_ms": 208750,
+      "name": "\u0431\u0430\u0433\u0430\u0442\u0435\u043b\u044c \u0437\u0456 \u0441\u043d\u0443 \u0432 \u043a\u0456\u043e\u0442\u043e",
+      "url": "https://open.spotify.com/track/5WNqb7lpR0VS5LO1q8g7Cn"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1283,22 +1303,18 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u0431\u0430\u0433\u0430\u0442\u0435\u043b\u044c \u0437\u0456 \u0441\u043d\u0443 \u0432 \u043a\u0456\u043e\u0442\u043e",
-        "url": "https://open.spotify.com/album/5LFkVnUrAjUrJuiiLWJQmw"
+        "name": "\u043f\u0430\u0434\u0430\u0454\u0448",
+        "url": "https://open.spotify.com/album/2RLCk9ZCrMDUD2gxr3ERKF"
       },
       "artists": [
         {
-          "name": "provulok",
-          "url": "https://open.spotify.com/artist/3i448OV2OVpKy6EQtenzzZ"
-        },
-        {
-          "name": "\u041c\u043e\u043d\u0442\u0435\u0441\u043a'\u0454",
-          "url": "https://open.spotify.com/artist/2HJh8v2atfiAjRk76wSJNa"
+          "name": "\u043f\u0440\u043e\u043f\u0430\u0449\u0430 \u0441\u0438\u043b\u0430",
+          "url": "https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE"
         }
       ],
-      "duration_ms": 208750,
-      "name": "\u0431\u0430\u0433\u0430\u0442\u0435\u043b\u044c \u0437\u0456 \u0441\u043d\u0443 \u0432 \u043a\u0456\u043e\u0442\u043e",
-      "url": "https://open.spotify.com/track/5WNqb7lpR0VS5LO1q8g7Cn"
+      "duration_ms": 229230,
+      "name": "\u043f\u0430\u0434\u0430\u0454\u0448",
+      "url": "https://open.spotify.com/track/15qpScK6EoZSzH3rYTekTQ"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1315,22 +1331,6 @@
       "duration_ms": 178909,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/6SOrrXmsQqbKhX3hSrjYQ2"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
-        "name": "\u043f\u0430\u0434\u0430\u0454\u0448",
-        "url": "https://open.spotify.com/album/2RLCk9ZCrMDUD2gxr3ERKF"
-      },
-      "artists": [
-        {
-          "name": "\u043f\u0440\u043e\u043f\u0430\u0449\u0430 \u0441\u0438\u043b\u0430",
-          "url": "https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE"
-        }
-      ],
-      "duration_ms": 229230,
-      "name": "\u043f\u0430\u0434\u0430\u0454\u0448",
-      "url": "https://open.spotify.com/track/15qpScK6EoZSzH3rYTekTQ"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u041c\u0456\u0436 \u043d\u0430\u043c\u0438",
-        "url": "https://open.spotify.com/album/5fQPPnSHIVZ7MhaaIYsGMQ"
+        "name": "\u041a\u0440\u043e\u0432 \u0456 \u0441\u043d\u0456\u0433",
+        "url": "https://open.spotify.com/album/1jsy5rUiIjmKFx1N8X2tWA"
       },
       "artists": [
         {
-          "name": "POPIL",
-          "url": "https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he"
-        },
-        {
-          "name": "\u043e\u0441\u0442\u0430\u043d\u043d\u044f \u0437\u0443\u043f\u0438\u043d\u043a\u0430",
-          "url": "https://open.spotify.com/artist/7GktSt1XudYWyREKgd8DIh"
+          "name": "\u041e\u043a\u043e\u043b\u0438\u0446\u044f",
+          "url": "https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0"
         }
       ],
-      "duration_ms": 141000,
-      "name": "\u041c\u0456\u0436 \u043d\u0430\u043c\u0438",
-      "url": "https://open.spotify.com/track/1ecPyRhmPHFh08hkXE1gz5"
+      "duration_ms": 159099,
+      "name": "\u041a\u0440\u043e\u0432 \u0456 \u0441\u043d\u0456\u0433",
+      "url": "https://open.spotify.com/track/1vWP1xBjEVKCJWQ0MhPepy"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

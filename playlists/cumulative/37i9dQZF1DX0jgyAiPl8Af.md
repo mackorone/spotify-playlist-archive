@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-878 songs - 1 day 13 hr 52 min
+880 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Confidencen](https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Confidencen](https://open.spotify.com/album/2ponLnQXC8yHOsxtvs2Ypz) | 2:21 | 2023-04-21 | 2025-05-14 |
 | [Confirmation](https://open.spotify.com/track/4fjlynkBlFfxY8qvZ75Yn1) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Confirmation](https://open.spotify.com/album/3DSrPW0S0FjoyzWjgP5RXS) | 2:39 | 2024-01-12 |  |
 | [Consuelo](https://open.spotify.com/track/7sLspn56JPVQPEaEcXEK7l) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Whitestone](https://open.spotify.com/album/27s31ruaJOf6k92c8OrVhJ) | 2:41 | 2021-12-08 | 2022-07-01 |
+| [Cose Belle](https://open.spotify.com/track/4AJ5gsFxs1d3Eiqtcvx6zB) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Cose Belle](https://open.spotify.com/album/5FeZ6ETGaQIIAlTnVY4cEz) | 2:27 | 2025-07-08 |  |
 | [Costa Brava](https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S) | [Brian Brohn](https://open.spotify.com/artist/4IvSlgyUcZU9Ru7rEAVtAQ) | [Tree Runner](https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo) | 3:05 | 2021-12-08 | 2022-07-08 |
 | [County Clare](https://open.spotify.com/track/0NetSB2EidrnN9AxQUuj8s) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [County Clare](https://open.spotify.com/album/7KYYW1IeQvD3SjcDgEbMBA) | 3:04 | 2024-03-29 |  |
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-09 | 2023-05-13 |
@@ -266,6 +267,7 @@
 | [Fields](https://open.spotify.com/track/5QY21npYCzGrIMkhBlRAbX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Fields](https://open.spotify.com/album/41VAtxYHmGoChMv7ENrVeD) | 2:16 | 2024-07-18 |  |
 | [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 | 2023-08-19 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 | 2022-10-29 |
+| [Finally Home](https://open.spotify.com/track/1Qy7Uz4avfS6W295hIV5pH) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Finally Home](https://open.spotify.com/album/0SV6oxYQCM2AnaAWrPhjpn) | 2:24 | 2025-07-08 |  |
 | [Finally Home](https://open.spotify.com/track/3pnosLGt9HFkwCCSrP3SvV) | [Matteo Palmer](https://open.spotify.com/artist/4eOsxaC4lj75U7Qtcbxwn8) | [Finally Home](https://open.spotify.com/album/7p32mbdnUWUY50DzktIjzw) | 1:51 | 2022-11-18 | 2023-06-09 |
 | [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 | 2025-01-13 |  |
 | [First Light](https://open.spotify.com/track/5eIg1epMoq4ZRNPEy0W7wH) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [First Light](https://open.spotify.com/album/0S5xUJOjVtl6g3WXVGi5ED) | 1:42 | 2023-05-12 | 2023-08-19 |
@@ -770,7 +772,7 @@
 | [The Distant Echo](https://open.spotify.com/track/7dRtgpbpGUqOOQir25wm02) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [The Distant Echo](https://open.spotify.com/album/5xdr7fV5vsaLMgi8PArvGP) | 1:42 | 2022-11-18 | 2023-06-03 |
 | [The Dreamer](https://open.spotify.com/track/4JeCz2VmJDfpdw5nJUg7kV) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Dreamer](https://open.spotify.com/album/1MWZ3bhElou5DzdnnjnKVs) | 2:21 | 2025-03-18 | 2025-07-02 |
 | [The Flower](https://open.spotify.com/track/1DvaEFXZrWjBL7mLe1EEDo) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [The Flower](https://open.spotify.com/album/7JOxzs00yBfKsr2ORbtbFJ) | 2:36 | 2024-10-01 |  |
-| [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
+| [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 | 2025-07-09 |
 | [The Highland](https://open.spotify.com/track/34fmLyZjHRr1iQQacMd6hn) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:00 | 2021-12-08 | 2022-09-09 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2022-12-16 | 2024-06-01 |
 | [The Joker And The Queen](https://open.spotify.com/track/3G2ZshUqIBTDsyc9MWXNRJ) | [duo](https://open.spotify.com/artist/0Six3FVWVLG3jWr9UDLk6e) | [The Joker And The Queen](https://open.spotify.com/album/0sJU4C5EAU9XQ0pufWwRIX) | 2:37 | 2022-06-10 | 2022-07-15 |
@@ -838,7 +840,7 @@
 | [Vintervisa](https://open.spotify.com/track/6qFynggiuKEUNZrzjuuzWQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Vintervisa](https://open.spotify.com/album/4LVE0PGhIdMkOmfch01eKl) | 1:44 | 2022-12-09 | 2023-08-19 |
 | [Viola](https://open.spotify.com/track/5RV00BhineeA8Pridv87II) | [R.J\. Smith](https://open.spotify.com/artist/0ViPLqxFKIDH5MH3YaTN28) | [Viola](https://open.spotify.com/album/2lWNoK5SqMEQw5DmmohMr9) | 3:09 | 2021-12-08 | 2022-09-09 |
 | [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |
-| [Vitral](https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Vitral](https://open.spotify.com/album/04JXDkUvyzG0vSCXf5BK6k) | 2:45 | 2025-03-10 |  |
+| [Vitral](https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Vitral](https://open.spotify.com/album/04JXDkUvyzG0vSCXf5BK6k) | 2:45 | 2025-03-10 | 2025-07-09 |
 | [Volar con el viento](https://open.spotify.com/track/22LSqWnEYxqZeJOSOMlp4C) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Volar con el viento](https://open.spotify.com/album/7quiaEPm1wVGreNGivVaeK) | 2:37 | 2021-12-08 | 2022-09-03 |
 | [Vorfreude](https://open.spotify.com/track/098EOJ4n3mTwtlNNbxP2BL) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Vorfreude](https://open.spotify.com/album/4NrIq79Bai7tVLP7ccEToG) | 2:33 | 2021-12-08 | 2023-02-11 |
 | [Vøringfossen](https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Vøringfossen](https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP) | 2:09 | 2023-05-12 | 2023-11-24 |

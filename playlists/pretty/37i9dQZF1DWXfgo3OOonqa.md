@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,364 likes - 110 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,354 likes - 110 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 4 | [SANTORINI](https://open.spotify.com/track/60m76b2KtiQfbc3iIqOOoi) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SANTORINI](https://open.spotify.com/album/7LYspAMESaqeSiy9pHXtH7) | 2:20 |
 | 5 | [Jealousy](https://open.spotify.com/track/4X96ldR3otbbjtuTGgp1Fo) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Jealousy](https://open.spotify.com/album/5sWftiBrgMfkkNO0lnyl0j) | 2:24 |
 | 6 | [Déjà vu](https://open.spotify.com/track/5IfmDyNY5E6icqVPcWlR19) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Déjà vu](https://open.spotify.com/album/10nP5xolUoRzTBhKnSG2n4) | 2:52 |
-| 7 | [Wahala](https://open.spotify.com/track/5PrtZSMj0U4PeRrDm4mPys) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Wahala](https://open.spotify.com/album/1eNQleILFY7Y6DQWHhYJkq) | 2:11 |
-| 8 | [12TRE](https://open.spotify.com/track/4fWLZG09La6mqWwuScH598) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [12TRE](https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW) | 1:58 |
-| 9 | [Saknar dig](https://open.spotify.com/track/01K09DenrI93KSReYQ3Ker) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Saknar dig](https://open.spotify.com/album/5so730AUFfHSIhzRZikFXj) | 2:08 |
-| 10 | [Båda](https://open.spotify.com/track/3zZLfszBUlDjj98bHU48xu) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Båda](https://open.spotify.com/album/25VkEI6z5odoSCkZETJDaA) | 2:24 |
-| 11 | [GENERATION GAZA](https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx) | [Generationgaza](https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GENERATION GAZA](https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD) | 3:21 |
+| 7 | [Saknar dig](https://open.spotify.com/track/01K09DenrI93KSReYQ3Ker) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Saknar dig](https://open.spotify.com/album/5so730AUFfHSIhzRZikFXj) | 2:08 |
+| 8 | [Wahala](https://open.spotify.com/track/5PrtZSMj0U4PeRrDm4mPys) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Wahala](https://open.spotify.com/album/1eNQleILFY7Y6DQWHhYJkq) | 2:11 |
+| 9 | [GENERATION GAZA](https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx) | [Generationgaza](https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GENERATION GAZA](https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD) | 3:21 |
+| 10 | [12TRE](https://open.spotify.com/track/4fWLZG09La6mqWwuScH598) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [12TRE](https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW) | 1:58 |
+| 11 | [Båda](https://open.spotify.com/track/3zZLfszBUlDjj98bHU48xu) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Båda](https://open.spotify.com/album/25VkEI6z5odoSCkZETJDaA) | 2:24 |
 | 12 | [Jetpack](https://open.spotify.com/track/5mTMpmUrqXihcRa1TrsHLv) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [The World Is Yours](https://open.spotify.com/album/49PNgwc80ySfgoXZy0mpil) | 2:41 |
 | 13 | [Baby Kom](https://open.spotify.com/track/0ObXx8JTavVADLWIwlHKBX) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Baby Kom](https://open.spotify.com/album/1x3xh4KUuOY7uVChPsFBZf) | 3:04 |
 | 14 | [DALLAS](https://open.spotify.com/track/68tSaVETtHkbAR73juuiew) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:14 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 109 | [ÄNGLAR & DEMONER](https://open.spotify.com/track/3ad340IgxWc1dnHnbZjEDx) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [ÄNGLAR & DEMONER](https://open.spotify.com/album/5XBX1DDu4Lbipvhn6mM0Xk) | 2:40 |
 | 110 | [Låter Dig Gå](https://open.spotify.com/track/6nS8ssWeodzcBic4L3ILtF) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Låter Dig Gå](https://open.spotify.com/album/1zbCtimxs5Ar5Aot3jh9Re) | 2:31 |
 
-Snapshot ID: `aGt2qwAAAACyyDVpOY3IWIwU82SmKZQG`
+Snapshot ID: `aG0BXQAAAAAeB4QY3k5aJZA1kEaKAWuQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11455,
+  "num_followers": 11457,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACwFm3x/lQo2ZyiTtcL1Vj4",
+  "snapshot_id": "aGsOAAAAAACqkZYPEfmcqVlHI8/+HX/J",
   "tracks": [
     {
       "added_at": null,
@@ -63,38 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/78xEO4qUV8ZgMA5TqYbF0L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 129053,
-      "name": "We're All Gonna Die Someday",
-      "url": "https://open.spotify.com/track/4Yzt8bQMvDk2YfKamGLAxR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -115,6 +83,38 @@
       "duration_ms": 226446,
       "name": "Walk a Country Mile",
       "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 129053,
+      "name": "We're All Gonna Die Someday",
+      "url": "https://open.spotify.com/track/4Yzt8bQMvDk2YfKamGLAxR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/78xEO4qUV8ZgMA5TqYbF0L"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good People",
         "url": "https://open.spotify.com/album/5O1JpWoLxXK3IgxtxTYBmR"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 263714,
       "name": "Good People",
       "url": "https://open.spotify.com/track/5kS79rn0ol9Ha8zyxCz8Z4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
     },
     {
       "added_at": null,
@@ -306,31 +306,11 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 178200,
-      "name": "The Divorce Song",
-      "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 171893,
-      "name": "On A Bad Day",
-      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
+      "duration_ms": 212653,
+      "name": "Backbone (The Desert Child)",
+      "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
     },
     {
       "added_at": null,
@@ -347,6 +327,22 @@
       "duration_ms": 224386,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 171893,
+      "name": "On A Bad Day",
+      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
     },
     {
       "added_at": null,
@@ -374,27 +370,15 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 212653,
-      "name": "Backbone (The Desert Child)",
-      "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
+        },
         {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 179133,
-      "name": "A Little Bit Lonesome",
-      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+      "duration_ms": 178200,
+      "name": "The Divorce Song",
+      "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
       "duration_ms": 494360,
       "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
       "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "A Little Bit Lonesome",
+      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 235600,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 175832,
-      "name": "Whispering Voice",
-      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 175053,
       "name": "Sleeping Cold",
       "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 175832,
+      "name": "Whispering Voice",
+      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
     },
     {
       "added_at": null,

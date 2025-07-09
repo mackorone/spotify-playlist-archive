@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 278906,
       "name": "All I Ever Ask",
       "url": "https://open.spotify.com/track/3f3m9goDpt4T7m19vGHxcW"
@@ -4413,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -6560,7 +6578,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8350,7 +8368,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -14022,7 +14040,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
@@ -26032,7 +26050,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 333114,
       "name": "Le Habaka Etsa Eng",
       "url": "https://open.spotify.com/track/4zE84yee9Mkrt5Dm6Yt4oL"
@@ -27820,7 +27838,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -31582,7 +31600,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 203210,
       "name": "Naledi",
       "url": "https://open.spotify.com/track/73XTer5tuPKNstPEW1eKwL"
@@ -38182,7 +38200,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 215178,
       "name": "Residuals",
       "url": "https://open.spotify.com/track/6txAWGckgEGJIhLjhNdtE9"
@@ -39012,7 +39030,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 271305,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ"
@@ -51470,7 +51488,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
@@ -52346,7 +52364,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
@@ -54050,7 +54068,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"

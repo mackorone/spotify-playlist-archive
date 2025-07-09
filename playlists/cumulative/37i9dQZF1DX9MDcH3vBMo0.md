@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-824 songs - 1 day 11 hr 49 min
+827 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 | 2022-04-21 | 2023-08-08 |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-19 |  |
 | [Forget Me Not](https://open.spotify.com/track/1HQF8Vz4Kae6oLhni2E54z) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Forget Me Not](https://open.spotify.com/album/5slVwW2ujScGX4vXkuRAZB) | 2:42 | 2023-08-14 |  |
+| [Forgetting You](https://open.spotify.com/track/2JfOLY4AGWezrNrJ7UY8Zt) | [Sigrid Norrman](https://open.spotify.com/artist/1Peng0mboFNSv5ADqvYMUI) | [Forgetting You](https://open.spotify.com/album/5UVaRXcpwBNsrJ41aQIl5S) | 2:33 | 2025-07-08 |  |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2022-04-21 | 2022-07-21 |
 | [Forgotten Photographs](https://open.spotify.com/track/4jBBWqTt0BmeFDNmkEffpJ) | [Francis Monet](https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu) | [Forgotten Photographs](https://open.spotify.com/album/7vHQfVzpqaWSF7d7Zjd0pe) | 2:43 | 2025-03-25 |  |
 | [Forgotten Wonders](https://open.spotify.com/track/6Kex7iddmKt0i9pWiNns2i) | [Dreams on Ivories](https://open.spotify.com/artist/7HE4ZAv2dzUX80AKnCOnqV) | [Forgotten Wonders](https://open.spotify.com/album/7ffHf6mFT5zKOGDZuZhYWy) | 2:17 | 2022-04-21 | 2022-07-21 |
@@ -477,6 +478,7 @@
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2022-04-21 | 2023-10-03 |
 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-02-27 | 2025-05-31 |
 | [of view](https://open.spotify.com/track/4CK2atgvodyG3xJPXXt58U) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts of View](https://open.spotify.com/album/6hP9TRgcIHRY8NXYVEFQka) | 3:46 | 2022-07-20 | 2023-01-21 |
+| [Ogni Cosa](https://open.spotify.com/track/0kWnDjwAZiJgPWn3CI6J2B) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Ogni Cosa](https://open.spotify.com/album/4N4MPEeDi96fE1yO1Eo7cU) | 2:19 | 2025-07-08 |  |
 | [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 | 2022-09-23 | 2024-04-10 |
 | [Old Flame](https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg) | 2:08 | 2022-04-21 | 2022-09-24 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-04-21 | 2023-01-19 |
@@ -673,7 +675,7 @@
 | [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/65ClySy2jTVQdbXwhb6GkC) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 | 2024-05-07 |  |
 | [Stilles Sehnen \- Upright Reframings](https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu) | [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc) | [Stilles Sehnen \(Upright Reframings\)](https://open.spotify.com/album/2ac5YHVhCIkDRp2D7lgswK) | 3:25 | 2023-08-29 |  |
 | [Stjärnöga](https://open.spotify.com/track/2bKFD7mAcSDQvtAV08VXv1) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Stjärnöga](https://open.spotify.com/album/2DyGHcs004UG9Wc5AQsljD) | 3:11 | 2023-08-14 | 2023-08-17 |
-| [Stories In Stillness](https://open.spotify.com/track/5P6O63alWZ67O6STUC4Vrr) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Stories In Stillness](https://open.spotify.com/album/4Mk6pZKg2CK3mhzQ3pyWxE) | 2:38 | 2025-05-29 |  |
+| [Stories In Stillness](https://open.spotify.com/track/5P6O63alWZ67O6STUC4Vrr) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Stories In Stillness](https://open.spotify.com/album/4Mk6pZKg2CK3mhzQ3pyWxE) | 2:38 | 2025-05-29 | 2025-07-09 |
 | [Storr](https://open.spotify.com/track/1FsASiGx3ay1qxeqZA9sdP) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Storr](https://open.spotify.com/album/2HKmEzAH66lNarpba1JyoU) | 3:17 | 2022-07-20 | 2025-05-31 |
 | [Strangers](https://open.spotify.com/track/0GUmktLeQ8WqUU2D9jgWdB) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Strangers](https://open.spotify.com/album/4XQmAOMyocly3p9xA74HWA) | 2:30 | 2024-05-07 |  |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2022-04-21 | 2024-08-21 |
@@ -794,6 +796,7 @@
 | [Watching North](https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Watching North](https://open.spotify.com/album/5JjqTy2EicAtQbktvJrKXd) | 2:16 | 2023-09-25 | 2024-10-16 |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-04-21 | 2024-10-23 |
 | [Waves](https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:04 | 2022-04-21 | 2022-09-24 |
+| [Waves of Marble](https://open.spotify.com/track/3zNvafczZLmOUSLGCiYFy1) | [Lea Lee](https://open.spotify.com/artist/6T1R8ktiNOtCgSRGOap63X) | [Waves of Marble](https://open.spotify.com/album/5vlfHvQdu5KjrCVvHsbzwu) | 2:45 | 2025-07-08 |  |
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-04-21 | 2025-03-06 |
 | [Weaving](https://open.spotify.com/track/2HZqH4rqLWKZDZheQK0EUz) | [Moy Finneas](https://open.spotify.com/artist/1SlY8qPtaWfHek8pWieEkw) | [Weaving](https://open.spotify.com/album/389iBNdZJJo5xUYdDWjW3i) | 2:13 | 2022-04-21 | 2022-08-10 |
 | [Wednesday, Weaving](https://open.spotify.com/track/6JT1GBWsCgfhjkkzGwQ5so) | [Izzy Flynn](https://open.spotify.com/artist/4nglHdB53vreDOUajpOuAd) | [Wednesday, Weaving](https://open.spotify.com/album/1PvlQzGpoL3eek5TmOvmyd) | 2:18 | 2023-02-27 |  |

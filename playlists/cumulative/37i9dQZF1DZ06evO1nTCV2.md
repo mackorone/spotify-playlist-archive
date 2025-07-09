@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-260 songs - 15 hr 55 min
+261 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Chris \- Live at Carnegie Hall, May 14, 2022](https://open.spotify.com/track/4NSemr6oNuIcVCioLgo1r8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall \(Live at Carnegie Hall, May 14, 2022\)](https://open.spotify.com/album/4JUjiAuy48zaVjUhmwsaB9) | 3:39 | 2023-03-17 | 2023-05-27 |
 | [Chris \- Live at Carnegie Hall, May 14\. 2022](https://open.spotify.com/track/6PiCMlI8V5DjaSOdej5Cmn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall](https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q) | 3:26 | 2023-08-30 | 2023-12-14 |
 | [Cinnamon Girl \- Live from Calgary, AL\. 2023](https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Cinnamon Girl \(Live from Calgary, AL\. 2023\)](https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL) | 2:48 | 2024-06-02 | 2024-08-17 |
-| [Come Home](https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:50 | 2022-02-06 |  |
-| [Come Pick Me Up](https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:18 | 2022-01-11 |  |
+| [Come Home](https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:50 | 2022-02-06 | 2025-07-09 |
+| [Come Pick Me Up](https://open.spotify.com/track/5X1UhM3dxWwLtCRPl2Oczn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Come Pick Me Up](https://open.spotify.com/album/0BPSz0jNSRZo7lnLAS90Ix) | 4:44 | 2025-07-09 |  |
+| [Come Pick Me Up](https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:18 | 2022-01-11 | 2025-07-09 |
 | [Damn Sam \(I Love a Woman That Rains\)](https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 2:08 | 2022-03-15 | 2025-03-30 |
 | [Darkness](https://open.spotify.com/track/4m2Mt1zZ8kQW86zjOSoS3v) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 5:30 | 2024-01-05 | 2024-03-25 |
 | [Dear Chicago](https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:12 | 2022-01-11 |  |
@@ -261,7 +262,7 @@
 | [When The Stars Go Blue](https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:31 | 2022-01-11 |  |
 | [When You Cross Over](https://open.spotify.com/track/4AMSEr9CDJh7oryZM1Ga9Y) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Another Wednesday](https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL) | 4:34 | 2025-02-17 |  |
 | [Why](https://open.spotify.com/track/7A2Nu23pMnODXpUgjgnS58) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:17 | 2024-01-06 | 2024-03-08 |
-| [Why Do They Leave?](https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:38 | 2022-01-23 | 2022-10-11 |
+| [Why Do They Leave?](https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:38 | 2022-01-23 |  |
 | [Wild and Hopeless](https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:55 | 2022-08-21 | 2022-11-01 |
 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 | 2022-01-17 |  |
 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 | 2022-01-11 |  |

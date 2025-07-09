@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 112928,
+  "num_followers": 112953,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "512",
+      "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Primer Dia de Clases",
-        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "512",
-      "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "MONEY EDITION",
-        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158841,
-      "name": "MONEY EDITION",
-      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
         "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 192347,
       "name": "L-Gante: Bzrp Music Sessions, Vol.38",
       "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "MONEY EDITION",
+        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Bien Tony Montana",
         "url": "https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 166127,
       "name": "Bien Tony Montana",
       "url": "https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2359,6 +2359,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis (feat. Cartel de Santa)",
+      "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
       },
@@ -2387,22 +2407,18 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
       },
       "artists": [
         {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis (feat. Cartel de Santa)",
-      "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2419,22 +2435,6 @@
       "duration_ms": 219573,
       "name": "Si Te Vienen a Contar",
       "url": "https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174405,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
     },
     {
       "added_at": "2024-10-04 19:39:18",

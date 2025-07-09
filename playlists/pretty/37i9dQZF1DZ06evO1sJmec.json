@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2052440,
+  "num_followers": 2052806,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACdaFBhmBaMNJDeLxwvhsmC",
+  "snapshot_id": "aGsOAAAAAABr62g4V1g0mmyaGG+i9yju",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Whiplash - Remastered",
-      "url": "https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ride The Lightning (Deluxe / Remastered)",
         "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 396986,
       "name": "Ride The Lightning - Remastered",
       "url": "https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Whiplash - Remastered",
+      "url": "https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 345283,
+      "name": "Harvester of Sorrow",
+      "url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metallica (Remastered 2021)",
         "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 227573,
       "name": "Holier Than Thou - Remastered 2021",
       "url": "https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 345283,
-      "name": "Harvester of Sorrow (Remastered)",
-      "url": "https://open.spotify.com/track/3IolN0Ae207i0Fr9IHuNbu"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 256573,
-      "name": "Of Wolf and Man - Remastered 2021",
-      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 256573,
+      "name": "Of Wolf and Man - Remastered 2021",
+      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 477026,
       "name": "All Nightmare Long",
       "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 496626,
+      "name": "Disposable Heroes",
+      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
     },
     {
       "added_at": null,
@@ -659,38 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 496626,
-      "name": "Disposable Heroes",
-      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 319693,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3dWNUqrgkQakv9fj5epwPK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill 'Em All (Remastered)",
         "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 187840,
       "name": "Motorbreath - Remastered",
       "url": "https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "Hero Of The Day",
+      "url": "https://open.spotify.com/track/5ktyEZbrgBEePsu6MW5Cvw"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "Hero Of The Day",
-      "url": "https://open.spotify.com/track/5ktyEZbrgBEePsu6MW5Cvw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 396106,
       "name": "The Thing That Should Not Be",
       "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 319693,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3dWNUqrgkQakv9fj5epwPK"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 385986,
-      "name": "Eye of the Beholder",
-      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
+      "duration_ms": 339880,
+      "name": "Leper Messiah",
+      "url": "https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu"
     }
   ],
   "unique_name": "This Is Metallica",

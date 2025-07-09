@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,112 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,229 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 60 | [El y Yo](https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Fe](https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb) | 2:46 |
 | 61 | [Me Llamas](https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH) | [Jessie Blues](https://open.spotify.com/artist/4MlV4s55GdlnJTnHl81Cbk) | [Entre Ángeles y Poetas](https://open.spotify.com/album/20GZvLSomrpPTQwUPQv5bi) | 4:13 |
 | 62 | [Esta Vez](https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:41 |
-| 63 | [La Casa del Sol Naciente](https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [La Casa del Sol Naciente](https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW) | 3:43 |
+| 63 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 |
 | 64 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
-| 65 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 |
+| 65 | [La Casa del Sol Naciente](https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [La Casa del Sol Naciente](https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW) | 3:43 |
 | 66 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
 | 67 | [Déjalo](https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r) | [Sangre Avandaro](https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8) | [Ella Ya Murió](https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV) | 5:01 |
-| 68 | [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 |
+| 68 | [Tocando el Cielo](https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:35 |
 | 69 | [Oye Cantinero](https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:42 |
-| 70 | [Tocando el Cielo](https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:35 |
+| 70 | [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 |
 | 71 | [La Dosis Perfecta](https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 6:29 |
 | 72 | [Silvia](https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 5:36 |
-| 73 | [Metro Balderas \(Estación del metro Balderas\)](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
-| 74 | [Alarmala De Tos](https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:56 |
-| 75 | [Mi Terrible Soledad](https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:03 |
+| 73 | [Mi Terrible Soledad](https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:03 |
+| 74 | [Metro Balderas \(Estación del metro Balderas\)](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
+| 75 | [Alarmala De Tos](https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:56 |
 
 Snapshot ID: `aCZD0AAAAACZ+gSW50X/scRZq0I5LPSM`

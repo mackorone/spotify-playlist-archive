@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Model/Actriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,086 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,142 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 20 | [Pretty Girls](https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 3:54 |
 | 21 | [Johnny](https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Johnny](https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB) | 3:34 |
 | 22 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
-| 23 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 |
-| 24 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
+| 23 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
+| 24 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 |
 | 25 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
 | 26 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 |
 | 27 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 47 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
 | 48 | [Goon Show](https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Goon Show](https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut) | 5:06 |
 | 49 | [On The Road](https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Dreamachine](https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB) | 4:16 |
-| 50 | [Syd Sweeney](https://open.spotify.com/track/0SISKQTARRfDQaIfPpjVQV) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Syd Sweeney](https://open.spotify.com/album/4OxiGGc6yjeHEb4QexOFro) | 4:38 |
-| 51 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
+| 50 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
+| 51 | [Syd Sweeney](https://open.spotify.com/track/0SISKQTARRfDQaIfPpjVQV) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Syd Sweeney](https://open.spotify.com/album/4OxiGGc6yjeHEb4QexOFro) | 4:38 |
 | 52 | [It Will Get Worse](https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [It Will Get Worse](https://open.spotify.com/album/6ydter6esbJmAV73fIR8sD) | 2:53 |
 | 53 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
 | 54 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 86 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 |
 | 87 | [I Saw Another Bird](https://open.spotify.com/track/1IsTcFwWyQb722glDD1G9s) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [I Saw Another Bird](https://open.spotify.com/album/4tUU0iNooKi0yWHvKoxG4X) | 2:12 |
 | 88 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 |
-| 89 | [High Value Male](https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6) | [Papa Jupe's T.C.](https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh) | [High Value Male](https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx) | 3:42 |
-| 90 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
+| 89 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
+| 90 | [High Value Male](https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6) | [Papa Jupe's T.C.](https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh) | [High Value Male](https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx) | 3:42 |
 | 91 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 |
 | 92 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 |
 | 93 | [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 96 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
 | 97 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 |
 | 98 | [Big Dogs](https://open.spotify.com/track/6kkRGWw1IlO0VboVlZPMah) | [Sour Widows](https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG) | [Big Dogs](https://open.spotify.com/album/1gC7edlkh3u9AvdG9hUfRX) | 5:31 |
-| 99 | [I Wanna Be On Your Mind](https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [I Wanna Be On Your Mind](https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa) | 2:28 |
-| 100 | [Sprinter Brain](https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Sprinter Brain](https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN) | 3:43 |
+| 99 | [Sprinter Brain](https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Sprinter Brain](https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN) | 3:43 |
+| 100 | [I Wanna Be On Your Mind](https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [I Wanna Be On Your Mind](https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa) | 2:28 |
 
 Snapshot ID: `Z//nxgAAAAAngS4L2gwbqkht4JYXfmYv`

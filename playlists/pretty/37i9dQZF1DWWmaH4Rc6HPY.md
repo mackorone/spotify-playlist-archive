@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! babas tutsipop en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,708 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,719 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 31 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 |
 | 32 | [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 |
 | 33 | [110](https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [110](https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c) | 2:56 |
-| 34 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
-| 35 | [Te Recuerdo](https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Te Recuerdo](https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp) | 3:36 |
+| 34 | [Te Recuerdo](https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Te Recuerdo](https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp) | 3:36 |
+| 35 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
 | 36 | [No Volveré </3](https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [No Volveré </3](https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL) | 2:51 |
 | 37 | [Lo bien que suenas](https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Lo bien que suenas](https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy) | 3:30 |
 | 38 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 53 | [Qué Bien Se Te Ve](https://open.spotify.com/track/2Qu7k75pTkO1swHgMoHDus) | [MARASMO](https://open.spotify.com/artist/5c7eng6pvZIUFqfgWMTHWX), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [Qué Bien Se Te Ve](https://open.spotify.com/album/1PrHdsonw7QUGrOLmekfsN) | 2:31 |
 | 54 | [Secuaz \- Noches de Salón](https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Secuaz \(Noches de Salón\)](https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD) | 3:57 |
 | 55 | [AL100](https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [AL100](https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS) | 3:09 |
-| 56 | [Que nadie me llore](https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Que nadie me llore](https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ) | 3:30 |
-| 57 | [Prayer in C](https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Prayer in C](https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3) | 2:42 |
+| 56 | [Prayer in C](https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Prayer in C](https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3) | 2:42 |
+| 57 | [Que nadie me llore](https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Que nadie me llore](https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ) | 3:30 |
 | 58 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 59 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 60 | [Consecuencias](https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Consecuencias](https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ) | 4:35 |

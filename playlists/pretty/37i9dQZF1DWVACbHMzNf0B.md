@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚  Sangre x Sangre, y Dome Lipa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,063 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,185 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

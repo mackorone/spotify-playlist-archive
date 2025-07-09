@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-14",
+      "date_removed": null,
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/5CCr8msaN3MhgqBoa9yWhH"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 261842,
       "name": "Butterfly Blue",
       "url": "https://open.spotify.com/track/1EKjSEd05WhBfdf4BjJ8vu"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 159192,
       "name": "Chill",
       "url": "https://open.spotify.com/track/1QIUF20HdqMA0CJvkBOHNb"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 258901,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 183253,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 263760,
       "name": "In The Living Room",
       "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 204631,
       "name": "Met Him Last Night (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3"
@@ -3729,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139098,
+      "name": "Miss possessive",
+      "url": "https://open.spotify.com/track/0UD2KrDv5s5iPYNaQyRAan"
+    },
+    {
+      "album": {
         "name": "Mapping the Rendezvous",
         "url": "https://open.spotify.com/album/0cj7EnogzR5nmyFHxwLgj4"
       },
@@ -3820,6 +3838,24 @@
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/5G345YEhvleYxQLfYUlEFv"
+    },
+    {
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/3DrkYwyu8QqZQ05r2gGqHi"
     },
     {
       "album": {
@@ -4040,6 +4076,28 @@
       "duration_ms": 174500,
       "name": "newbury park",
       "url": "https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432"
+    },
+    {
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "Nice to meet you (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
     },
     {
       "album": {
@@ -4322,7 +4380,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 142829,
       "name": "One More Weekend",
       "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
@@ -4412,7 +4470,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 216160,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
@@ -4448,7 +4506,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 185940,
       "name": "Pavement",
       "url": "https://open.spotify.com/track/05NOojSHkMcdUpAk01vd0r"
@@ -4756,6 +4814,24 @@
       "duration_ms": 198436,
       "name": "QUARTER LIFE CRISIS",
       "url": "https://open.spotify.com/track/6hharu1T9edz8DckvJlf1C"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/6YOmMxGC0nYVYXE8z9gKKK"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166344,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/01A8QEUwHijtzWNB5e1uwR"
     },
     {
       "album": {
@@ -5655,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "The Archer",
+      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -5850,7 +5944,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 174880,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI"
@@ -6254,6 +6348,24 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,822 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,814 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 57 | [Sofro Onde Eu Quiser](https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Esquenta do DVD](https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV) | 2:35 |
 | 58 | [Amoreco](https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Amoreco](https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG) | 2:31 |
 | 59 | [Se Eu Te Procurar](https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Do Jeito que Nóis Gosta 2](https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM) | 2:41 |
-| 60 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
-| 61 | [Eu Era](https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Eu Era](https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K) | 3:31 |
+| 60 | [Eu Era](https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Eu Era](https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K) | 3:31 |
+| 61 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
 | 62 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 |
 | 63 | [Quem Ensinou Fui Eu](https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Quem Ensinou Fui Eu](https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH) | 2:31 |
 | 64 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 |

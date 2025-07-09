@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Marti Dodson
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,623 likes - 39 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,651 likes - 39 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

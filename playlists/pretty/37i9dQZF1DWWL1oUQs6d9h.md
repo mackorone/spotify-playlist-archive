@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,106 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,144 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 47 | [Flowers](https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:10 |
 | 48 | [Control Me](https://open.spotify.com/track/6e38ee2ioja5CGPMVpgnr0) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Control Me](https://open.spotify.com/album/2UC934E5A6G3q6rn5Pmk5d) | 3:26 |
 | 49 | [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 |
-| 50 | [Pygma girl](https://open.spotify.com/track/5fR0q66vzg3bCvH2vhBFUe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:37 |
+| 50 | [Raise y\_our glass](https://open.spotify.com/track/7j1vFohEm1lbsctYY9gyGd) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [Raise y\_our glass](https://open.spotify.com/album/5Ty5fWBzQypVhiboHneO3y) | 3:32 |
 
 Snapshot ID: `aGXpGAAAAAAbS5CnWKEQOH76bT0xQ9tb`

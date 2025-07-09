@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,310 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,338 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 39 | [Cuando Estoy Contigo \(feat\. Flavio Cianciarulo\)](https://open.spotify.com/track/0donCfhuT3BIjytI3Nqsak) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 3:12 |
 | 40 | [Cha\-Cha Love](https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Cha\-Cha Love](https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue) | 3:34 |
 | 41 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
-| 42 | [Amargo Adios](https://open.spotify.com/track/0UvMeaPWStJGuXMe89bAoJ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:01 |
-| 43 | [Rojo](https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rojo](https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO) | 3:06 |
+| 42 | [Rojo](https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rojo](https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO) | 3:06 |
+| 43 | [Amargo Adios](https://open.spotify.com/track/0UvMeaPWStJGuXMe89bAoJ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:01 |
 | 44 | [C.D.A.](https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:36 |
 | 45 | [Un Derecho de Nacimiento](https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 5:21 |
 | 46 | [Sobreviviré](https://open.spotify.com/track/6gVV28leSTAI70fV8fVP7L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sobreviviré](https://open.spotify.com/album/0QStKql1TfAGFQhHbt9cUF) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 49 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
 | 50 | [Inocente Pobre Amigo](https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:41 |
 
-Snapshot ID: `aGm8gAAAAADj9T0BFpe0E+YsrMfu4ZtX`
+Snapshot ID: `aGsOAAAAAABydI0jiYYjC+QKSz74O4X8`

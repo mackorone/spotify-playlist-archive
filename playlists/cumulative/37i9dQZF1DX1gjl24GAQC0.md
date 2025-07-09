@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: 원어스 \(ONEUS\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: SUPER JUNIOR \(슈퍼주니어\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-700 songs - 1 day 14 hr 29 min
+701 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 | 2025-05-28 |  |
 | [Excalibur](https://open.spotify.com/track/1SLDcZRnr6zHJOsFqO9T8n) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom : PartⅠ\. Arthur](https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7) | 4:13 | 2022-03-30 | 2022-04-20 |
 | [EXIT](https://open.spotify.com/track/5pTMVpOuFCM1GYjI2Lm2r3) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 2](https://open.spotify.com/album/0oTCoSk1qZJ2LdiZ05sJC0) | 3:10 | 2021-12-08 | 2022-04-18 |
+| [Express Mode](https://open.spotify.com/track/1fDGN1BOe1eMgofgO6qxm0) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior25 \- The 12th Album](https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a) | 3:08 | 2025-07-09 |  |
 | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd) | 3:34 | 2022-01-17 | 2022-07-25 |
 | [Fadeaway](https://open.spotify.com/track/3ckM6eeEiOc0iON56lKfDv) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Fadeaway \(From "GARBAGE TIME"\)](https://open.spotify.com/album/7phg7mzEHuthKyl6e4UvA7) | 2:52 | 2023-11-10 | 2023-12-22 |
 | [FAKE LOVE](https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2022-02-15 | 2022-05-15 |
@@ -707,6 +708,6 @@
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2021-12-08 | 2022-07-29 |
 | [내일, 오늘 Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2021-12-08 | 2022-07-28 |
 | [아 왜 I Wait](https://open.spotify.com/track/0ZO2iSS12JTftv10cSCYf8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:38 | 2022-03-31 | 2022-04-08 |
-| [어쩌면](https://open.spotify.com/track/18CMsYZK40q75KKo6prq4Y) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [어쩌면](https://open.spotify.com/album/16ijmvpwtcowSqCXh4oHmd) | 4:21 | 2025-06-18 |  |
+| [어쩌면](https://open.spotify.com/track/18CMsYZK40q75KKo6prq4Y) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [어쩌면](https://open.spotify.com/album/16ijmvpwtcowSqCXh4oHmd) | 4:21 | 2025-06-18 | 2025-07-09 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

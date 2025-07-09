@@ -4,7 +4,7 @@
 
 > 
 
-287 songs - 16 hr 2 min
+291 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Candy](https://open.spotify.com/track/1KglJGMDqfFWt4YWyZpYuc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Rules](https://open.spotify.com/album/5CVwTpfAIK2vN9IxuG5C3f) | 3:17 | 2023-09-14 |  |
 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 | 2023-08-11 |  |
 | [Cemetry Gates \- 2011 Remaster](https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 2:41 | 2024-11-23 |  |
+| [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2025-07-09 |  |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2025-04-14 |  |
 | [Child Psychology](https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS) | 4:08 | 2023-09-21 |  |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2023-08-27 |  |
@@ -75,6 +76,7 @@
 | [Diet Mountain Dew](https://open.spotify.com/track/6BFnRhvKCclDQOajt8dBGi) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:42 | 2023-09-21 |  |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-08-21 |  |
 | [Don Juan](https://open.spotify.com/track/3JC4ReSPU0gLZHLt32UCsm) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Some Other Ones](https://open.spotify.com/album/3f62e1h3kXSfQBBatUG7vq) | 1:56 | 2024-02-15 |  |
+| [Dream Girl](https://open.spotify.com/track/3Z6cltU0OfbUdSZtZlzKPL) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Dream Girl](https://open.spotify.com/album/2BVQCnH3Sj7lcBGAP9wPh1) | 2:59 | 2025-07-09 |  |
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-06-17 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-04-21 |  |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2023-06-20 |  |
@@ -250,6 +252,7 @@
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/14Q7Qja4PJwjMsKdBZcnww) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/4tRInpsZkScWnp3UWcdLTq) | 4:53 | 2023-09-26 |  |
 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 | 2025-03-28 |  |
 | [Sycamore Tree](https://open.spotify.com/track/34E2yJTGNWElxDetLk4on5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 1:51 | 2023-07-27 |  |
+| [Symphonia IX](https://open.spotify.com/track/1rluwEqsWp5tz0lgyOT9rE) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/6vQngf6iEG8xC6ArsIurXq) | 3:01 | 2025-07-09 |  |
 | [Taking What's Not Yours](https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:25 | 2023-12-12 |  |
 | [Teen Sex](https://open.spotify.com/track/3egoenea3zQ21VwqcUzH3A) | [infinite bisous](https://open.spotify.com/artist/7w5cbnOLouZ5bGFvwIF5Ff) | [W/ Love](https://open.spotify.com/album/2J9ruxYbxkeJNclf018WmL) | 3:57 | 2023-06-14 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 | 2023-09-26 |  |
@@ -288,6 +291,7 @@
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2023-09-30 |  |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2025-06-24 |  |
 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 | 2023-09-03 |  |
+| [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 | 2025-07-09 |  |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2023-06-13 |  |
 | [You and I](https://open.spotify.com/track/1tuSpba0RXUMubHpAOWlMN) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:32 | 2023-07-13 |  |
 | [You Suck](https://open.spotify.com/track/5LvTwD2e4Lar2mo2yZHh84) | [Consolidated](https://open.spotify.com/artist/2GQYazkEEYH4jJnDLpofHL), [Yeastie Girlz](https://open.spotify.com/artist/0ZrquZjtwgsakx5UDRVuoz) | [Play More Music](https://open.spotify.com/album/7Jok2A7gVSsa0VzaqJGsZ9) | 4:14 | 2023-08-19 |  |

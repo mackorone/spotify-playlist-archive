@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ekka",
-  "num_followers": 63520,
+  "num_followers": 63524,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGu2SQAAAAAZmIS+Sep0GwkXRD3SH8CV",
+  "snapshot_id": "aG0hKwAAAAAaSKYqdchOz+yzLPjVt3KC",
   "tracks": [
     {
       "added_at": "2025-06-09 12:18:40",
@@ -59,6 +59,30 @@
       "duration_ms": 291803,
       "name": "Kiwige Swarada (From \"Sees Kaddi\")",
       "url": "https://open.spotify.com/track/1VRKawwrmQgH3Pc9xKvJ2b"
+    },
+    {
+      "added_at": "2025-07-08 13:46:19",
+      "album": {
+        "name": "Nee Nanna (From \"Nidradevi Next Door\")",
+        "url": "https://open.spotify.com/album/2J2WaKuSfbkBxfhRRKJDlF"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Raghavendra Kamath",
+          "url": "https://open.spotify.com/artist/046r8qn0wLcpx2NkFoXnH9"
+        }
+      ],
+      "duration_ms": 262708,
+      "name": "Nee Nanna (From \"Nidradevi Next Door\")",
+      "url": "https://open.spotify.com/track/6uSbmEEL7Ra5PimuaWI7fU"
     },
     {
       "added_at": "2025-06-29 13:39:27",
@@ -1223,30 +1247,6 @@
       "duration_ms": 227852,
       "name": "Jai Annamma (From \"Majestic 2\")",
       "url": "https://open.spotify.com/track/11lvvtqUBrVyK9zrmYhUnP"
-    },
-    {
-      "added_at": "2025-04-16 09:06:33",
-      "album": {
-        "name": "Ainaathi Shokiwaalaanaa (From \"Kadeema\")",
-        "url": "https://open.spotify.com/album/1NJzD2ohRisQthXxLoTXKP"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        },
-        {
-          "name": "Bahaddhur Chethan",
-          "url": "https://open.spotify.com/artist/0Am2EOdehYwayPxvqnf0l5"
-        },
-        {
-          "name": "Shashank Sheshagiri",
-          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
-        }
-      ],
-      "duration_ms": 192264,
-      "name": "Ainaathi Shokiwaalaanaa - From \"Kadeema\"",
-      "url": "https://open.spotify.com/track/3E3QfePMfykRvx4sl0Jf7H"
     }
   ],
   "unique_name": "Latest Kannada",

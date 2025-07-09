@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > 👻 don't forget to live\. IDOLS is out!  Foto: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,000 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,992 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 4 | [OFF MY FACE](https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:29 |
 | 5 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 |
 | 6 | [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 |
-| 7 | [Fuck Off \- FIDLAR Alt Mix](https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp) | 2:09 |
-| 8 | [Hayloft II \(SMASHUP\)](https://open.spotify.com/track/1S20BsgYeUven3xXuIUVz2) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Hayloft II \(SMASHUP\)](https://open.spotify.com/album/6kWbCD4fGGjk7cpN9jbJqn) | 3:43 |
+| 7 | [Hayloft II \(SMASHUP\)](https://open.spotify.com/track/1S20BsgYeUven3xXuIUVz2) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Hayloft II \(SMASHUP\)](https://open.spotify.com/album/6kWbCD4fGGjk7cpN9jbJqn) | 3:43 |
+| 8 | [Fuck Off \- FIDLAR Alt Mix](https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp) | 2:09 |
 | 9 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 10 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
 | 11 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIUytmxcPSa0J>jev.</a>, <a href=spotify:playlist:37i9dQZF1EIVMkWGWytlVU>MGMT</a>, <a href=spotify:playlist:37i9dQZF1EIYOPn6uk5lv8>GoldLink</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWsmObR0ksBn>Enigma</a>, <a href=spotify:playlist:37i9dQZF1EIUBaJlpELxkl>Ella Mai</a>, <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 158286,
       "name": "All The Stars",
       "url": "https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 174782,
       "name": "black samuarai.",
       "url": "https://open.spotify.com/track/16JrfiRjHTFahRTV6fPKqQ"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 161840,
       "name": "Come Back to Earth",
       "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 220645,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/5vOUYERtWnw7CfrxktLrK2"
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -5506,7 +5506,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 272240,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/6EOJjwcPgGWe98IDyCsBmY"
@@ -7152,7 +7152,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
@@ -8916,7 +8916,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 315373,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/779d9J67lU0cqZCBQ1MF1j"
@@ -9235,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201609,
+      "name": "Shot Clock",
+      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+    },
+    {
+      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ"
       },
@@ -9514,7 +9532,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
@@ -11041,6 +11059,24 @@
     },
     {
       "album": {
+        "name": "Le Roi Est Mort, Vive Le Roi!",
+        "url": "https://open.spotify.com/album/2psKFkrVFSGUOyYKCaApHY"
+      },
+      "artists": [
+        {
+          "name": "Enigma",
+          "url": "https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306066,
+      "name": "The Child In Us",
+      "url": "https://open.spotify.com/track/6bl2cA03RSC3uodBpq66Jt"
+    },
+    {
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -11146,7 +11182,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 347280,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/0xjkgYSzHjBZNvyUaC9cXX"
@@ -11798,7 +11834,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 201240,
       "name": "U Say (feat. Tyler, The Creator & Jay Prince)",
       "url": "https://open.spotify.com/track/2p37Mfy2PWajgOS3i2aaep"
@@ -12225,6 +12261,28 @@
     },
     {
       "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204109,
+      "name": "WHARF TALK (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
+    },
+    {
+      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
@@ -12308,7 +12366,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 263880,
       "name": "When You Die",
       "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
@@ -12456,7 +12514,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 206947,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"

@@ -1,6 +1,6 @@
 {
   "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
-  "num_followers": 42143,
+  "num_followers": 42188,
   "original_name": "Los Animalitos",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "A cantar",
-        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 67243,
-      "name": "La lechuza",
-      "url": "https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Xuxa En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 200160,
       "name": "El Circo",
       "url": "https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 67243,
+      "name": "La lechuza",
+      "url": "https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -819,18 +819,18 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Besos, Abrazos y Apapachos",
-        "url": "https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic"
+        "name": "Masha and the Bear Songs, Pt. 2",
+        "url": "https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT"
       },
       "artists": [
         {
-          "name": "Mariana Mallol",
-          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
+          "name": "Masha and the Bear",
+          "url": "https://open.spotify.com/artist/2HTXyQhFn9avH2spohJh1j"
         }
       ],
-      "duration_ms": 131478,
-      "name": "El Cocodrilo y el Orangut\u00e1n",
-      "url": "https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb"
+      "duration_ms": 83693,
+      "name": "Bear's Song",
+      "url": "https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq"
     }
   ],
   "unique_name": "Los Animalitos",

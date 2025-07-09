@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,173 songs - 4 day 20 hr 24 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,176 songs - 4 day 20 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2181,5 +2181,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2171 | [Megatone Saxon \(Manchester Massive\)](https://open.spotify.com/track/7DFHG0gyFX5mq6e3hUXKOF) | [Mattik](https://open.spotify.com/artist/776NwCgoVkuhQziHlYoDqb) | [Bubble](https://open.spotify.com/album/246bHEdhkEeKGupdPxNxpP) | 4:49 |
 | 2172 | [Deep Lake](https://open.spotify.com/track/4yKQnfdhb8m5vwcTo2WuE8) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 3:08 |
 | 2173 | [Wifey Riddim \- George Daniel Remix](https://open.spotify.com/track/6aG0JW87HgZcYF7XZDBb6w) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Room 2 RMX](https://open.spotify.com/album/1GwsBdB1RtOwYtE5rbrEkg) | 2:48 |
+| 2174 | [Extended Mix](https://open.spotify.com/track/25EMKP5O8gkyegeZYRu9DW) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:26 |
+| 2175 | [Guatauba](https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Guatauba XXX](https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO) | 2:42 |
+| 2176 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |
 
-Snapshot ID: `AAAEYhG5EsycZYLF5uLO8884BzcfByjZ`
+Snapshot ID: `AAAEZQneD94qmhPmMIXNRVFaUdvZwEtD`

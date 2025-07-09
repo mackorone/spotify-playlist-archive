@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 > This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,107 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,110 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 46 | [El Amor No Miente](https://open.spotify.com/track/1uBfTcmu1F1NECpU0p3HMb) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio de Oro Total](https://open.spotify.com/album/0XsnG9Ipb9bcE5taTIbWVm) | 4:42 |
 | 47 | [Enamorado De Ti](https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 5:11 |
 | 48 | [Eterno Enamorado](https://open.spotify.com/track/21Sh1SFlSoMqE4evvJOnQl) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:26 |
-| 49 | [Juramento](https://open.spotify.com/track/4eaDydv22ANSYF0m3ELfnI) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Caché](https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs) | 4:31 |
+| 49 | [Tú No Notas](https://open.spotify.com/track/1mNMgUsVZGUmmPDuOld9qT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:22 |
 | 50 | [Mi Mejor Canción](https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Enamorado Como Siempre](https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z) | 3:54 |
 
-Snapshot ID: `aGm8gAAAAABVXPdcX3koJqmDppHTdowd`
+Snapshot ID: `aGsOAAAAAAAHsvqiVyRGXzSiCnfbBWeY`

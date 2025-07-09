@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Elle Shimada\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,831 likes - 49 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,841 likes - 49 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

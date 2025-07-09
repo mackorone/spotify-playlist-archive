@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz?si=W4wlsrdWRZOux6QlpKtkBw">Dandi Noxx</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,459 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,469 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

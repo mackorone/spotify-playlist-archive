@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Boslen
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,599 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,618 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 9 | [TBH](https://open.spotify.com/track/78UENIHzoxWF75JO1R5xRu) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [TBH](https://open.spotify.com/album/6JQJHr8cvixFtuTNJ3IhwP) | 2:01 |
 | 10 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |
 | 11 | [A Real Gemini](https://open.spotify.com/track/6vThZUtVTpru9QF4BpPPcV) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [A Real Gemini](https://open.spotify.com/album/2CSwmKRAe5oUjxCMzHpXIa) | 2:51 |
-| 12 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 12 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 13 | [STATION](https://open.spotify.com/track/5tyuajS5DiBO3G22APUPFC) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/08Dg7XUvVPa8a2FA6lGcY7) | 2:52 |
 | 14 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 |
 | 15 | [Mustangs Over Bentleys](https://open.spotify.com/track/6SZXEfLbUIaxlbT5xZm8Lt) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Mustangs Over Bentleys](https://open.spotify.com/album/2SxPJoWs9cWgeRQti2z0J7) | 2:26 |

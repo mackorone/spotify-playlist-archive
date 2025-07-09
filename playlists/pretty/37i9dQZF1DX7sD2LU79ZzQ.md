@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Assia Keva
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,394 likes - 114 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,417 likes - 114 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Chilled Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DX1IeqVkK7Ebc)
 
-> Vibes on ice
+> The clink of ice in your drink
 
 220 songs - 11 hr 48 min
 

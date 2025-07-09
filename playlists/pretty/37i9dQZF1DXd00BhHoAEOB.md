@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,166 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,190 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 42 | [Que Sepan Todos](https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc) | [Que Sepan Todos](https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5) | 3:25 |
 | 43 | [Brindo](https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY) | 3:18 |
 | 44 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
-| 45 | [Sembrando Flores](https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:16 |
-| 46 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 |
+| 45 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 |
+| 46 | [Sembrando Flores](https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:16 |
 | 47 | [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 |
 | 48 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 |
 | 49 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |

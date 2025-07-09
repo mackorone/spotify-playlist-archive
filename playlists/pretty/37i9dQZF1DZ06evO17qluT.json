@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 82142,
+  "num_followers": 82230,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAC9fazx+rwANJ7qESeK8219",
+  "snapshot_id": "aGsOAAAAAAAwg5fPPErdxwVasO2i2okw",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 149095,
       "name": "ANJO DA MADRUGADA",
       "url": "https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 211338,
-      "name": "Cidade do Pecado",
-      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 167999,
       "name": "Caminhos",
       "url": "https://open.spotify.com/track/2m1ecu2OlaHCXJQP7EJauN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 211338,
+      "name": "Cidade do Pecado",
+      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 225877,
-      "name": "O Que Quiser Fazer",
-      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 309618,
       "name": "Quadros",
       "url": "https://open.spotify.com/track/6ffxCvPayroRFYIZelqNMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um",
+        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 225877,
+      "name": "O Que Quiser Fazer",
+      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Sigo na Sombra",
+      "url": "https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEMR\u00c9H",
         "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 147967,
       "name": "SEMR\u00c9H",
       "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Sigo na Sombra",
-      "url": "https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B"
     },
     {
       "added_at": null,

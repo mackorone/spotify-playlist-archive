@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,068 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,075 likes - 75 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 18 | [雨櫻花](https://open.spotify.com/track/3ZxKUt8nudvrJbUvX0haHJ) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛行部落](https://open.spotify.com/album/4QUDMVhCj9fDvJSyiXzZNy) | 4:31 |
 | 19 | [雨沒停過](https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR) | [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [你所不知道的杜振熙之內部整修](https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS) | 4:45 |
 | 20 | [困在你的雨季](https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [困在你的雨季](https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC) | 4:32 |
-| 21 | [大雨將至（《女醫明妃傳》電視劇主題曲）](https://open.spotify.com/track/4RT4R9nSSDSYj7lwMVqrDb) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [大雨將至（《女醫明妃傳》電視劇主題曲）](https://open.spotify.com/album/1tZhU3WG2fMZniAFC1jqHU) | 3:51 |
-| 22 | [雨眠](https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [愛情萬歲](https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi) | 3:42 |
+| 21 | [雨眠](https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [愛情萬歲](https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi) | 3:42 |
+| 22 | [大雨將至（《女醫明妃傳》電視劇主題曲）](https://open.spotify.com/track/4RT4R9nSSDSYj7lwMVqrDb) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [大雨將至（《女醫明妃傳》電視劇主題曲）](https://open.spotify.com/album/1tZhU3WG2fMZniAFC1jqHU) | 3:51 |
 | 23 | [等待雨散](https://open.spotify.com/track/0xb9qQq48lPhlrmPf4EnG5) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [旺情歌](https://open.spotify.com/album/2PjCxy7d085P2vQ3Nt3Vg3) | 4:43 |
 | 24 | [雨季](https://open.spotify.com/track/7zJLX40mHrjN4NfoT4GZpR) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [雨季](https://open.spotify.com/album/3z2ycnShuTsTkPj78LNLa3) | 4:21 |
 | 25 | [雨水一盒](https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [時間的歌](https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO) | 4:49 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 59 | [雨天](https://open.spotify.com/track/7lpua9fF4OOuYoQity6uRA) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [淳.佳\. \(新歌+精選\)](https://open.spotify.com/album/6EAVkUzyCZmAxu1jETZLAt) | 4:57 |
 | 60 | [下個雨季](https://open.spotify.com/track/4M6BOVx4dZVSRUXc8en1PR) | [Harlem Yu](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) | [關不掉的月光](https://open.spotify.com/album/1SIixceUdO7ZqFvjoeGQqG) | 4:18 |
 | 61 | [下雨夜](https://open.spotify.com/track/2oAVwxd6a7sG6VYulTMBVA) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [下雨夜](https://open.spotify.com/album/7jYeBkdsESmTuI34GofAVi) | 3:52 |
-| 62 | [雨](https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz) | [脫拉庫](https://open.spotify.com/artist/0pt4nJkyLo7QGErUoqSREx) | [歡迎脫拉庫](https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk) | 4:18 |
-| 63 | [躲雨 \(電影《樂獄》插曲\)](https://open.spotify.com/track/014dGhEHjpF1osouV9tz0S) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [躲雨 \(電影《樂獄》插曲\)](https://open.spotify.com/album/7sIQVFVGrSIlFsdrTpVEWQ) | 4:16 |
+| 62 | [躲雨 \(電影《樂獄》插曲\)](https://open.spotify.com/track/014dGhEHjpF1osouV9tz0S) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [躲雨 \(電影《樂獄》插曲\)](https://open.spotify.com/album/7sIQVFVGrSIlFsdrTpVEWQ) | 4:16 |
+| 63 | [雨](https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz) | [脫拉庫](https://open.spotify.com/artist/0pt4nJkyLo7QGErUoqSREx) | [歡迎脫拉庫](https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk) | 4:18 |
 | 64 | [下雨天](https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [下雨天](https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI) | 4:25 |
 | 65 | [愛在雨季](https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU) | [吳映香](https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW) | [愛在雨季](https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL) | 2:46 |
 | 66 | [雨天小情歌](https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk) | [時光街樂隊](https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D) | [雨天小情歌](https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM) | 4:24 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 72 | [風雨](https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [盧廣仲 Good Morning & Good Evening 小巨蛋演唱會](https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi) | 4:16 |
 | 73 | [雨落大地](https://open.spotify.com/track/7cPm7ahWmHu3csfMWWxM6h) | [Phil Lam](https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV) | [小眾情人](https://open.spotify.com/album/3JaRf6oM6IzAKdWhoPXls0) | 3:41 |
 | 74 | [追雨](https://open.spotify.com/track/27glpEFVip10SzfxZ1aCky) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [親愛的世界](https://open.spotify.com/album/6GvKzjitgx5uE7o3b14QAb) | 4:20 |
-| 75 | [雨夜夢境](https://open.spotify.com/track/2wVwCB3xi7UGs4utTooVa7) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [雨夜夢境](https://open.spotify.com/album/7bcaklGCKw3SULZ0j2r4en) | 3:26 |
+| 75 | [冬季到台北來看雨](https://open.spotify.com/track/5wcl9XKeA9JlQ90w1yd3wO) | [孟庭葦](https://open.spotify.com/artist/2Ovp3J8JzCirwcGAgvK9cQ) | [孟庭葦鑽石精選集](https://open.spotify.com/album/17pP3yyViksj87gwX8kICu) | 5:04 |
 
 Snapshot ID: `Zz9pJQAAAABQN5ID5tBEBtQp/CpN6Odj`

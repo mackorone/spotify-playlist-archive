@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,143 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,188 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 19 | [Popurrí de animales \(El señor don Gato \- La cucaracha \- Pollito chicken\) \- Remasterizado 2016](https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 5:37 |
 | 20 | [Mi Burrito Sabanero](https://open.spotify.com/track/0ZdnI2t7hdmu2znvokiGbp) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 3:28 |
 | 21 | [El Cocodrilo Dante](https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:14 |
-| 22 | [La lechuza](https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:07 |
-| 23 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa En Español](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
+| 22 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa En Español](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
+| 23 | [La lechuza](https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:07 |
 | 24 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
 | 25 | [Patitos Cuacuacua](https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:49 |
 | 26 | [En el Arca de Noe](https://open.spotify.com/track/6uw29DF8FcbWlvf7AqR1va) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 4:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 47 | [A Bunny Can Go Savage](https://open.spotify.com/track/7eUj2Ck993hqGRwbEvrf86) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 1:45 |
 | 48 | [Crocodile Rock](https://open.spotify.com/track/4D0y7AbTatziBTlScK4RZm) | [Diego, Dora & Friends](https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V) | [Diego, Dora & Friends' Animal Jamboree](https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD) | 3:30 |
 | 49 | [La Pequena Arana\-Bonus](https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:12 |
-| 50 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 |
+| 50 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Masha and the Bear](https://open.spotify.com/artist/2HTXyQhFn9avH2spohJh1j) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
 
 Snapshot ID: `ZpAhjAAAAADK0DnjArBjva9UI1/hSIZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 
 > Porque el asado se prende con música.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,267 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,301 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 9 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 |
 | 10 | [El Ratón](https://open.spotify.com/track/1buolvlF8R0jk4j8HORtmN) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Ratón](https://open.spotify.com/album/422fse4XEC5doHsowf8z7s) | 4:33 |
 | 11 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
-| 12 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
+| 12 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
 | 13 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 |
-| 14 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
-| 15 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
-| 16 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
+| 14 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
+| 15 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
+| 16 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 17 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 |
 | 18 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
 | 19 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 45 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 46 | [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 |
 | 47 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 |
-| 48 | [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 |
-| 49 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
+| 48 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
+| 49 | [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 |
 | 50 | [Homero](https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:23 |
 | 51 | [Llenos De Magia](https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 3:52 |
 | 52 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 92 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
 | 93 | [La Vida Cura](https://open.spotify.com/track/70H9KzJ3vy5655EHTpdiP4) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:12 |
 | 94 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 |
-| 95 | [Extrañas Intenciones](https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8) | 2:48 |
+| 95 | [Por Mil Noches \- En Vivo](https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag \- En Vivo Estadio Vélez](https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP) | 5:03 |
 | 96 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 |
 | 97 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 |
 | 98 | [Ya No Sos Igual](https://open.spotify.com/track/1gom5NgPAZQOjpVLyh4HML) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Valentin Alsina](https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC) | 3:02 |
 | 99 | [El Arriero](https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 6:38 |
-| 100 | [Por Mil Noches \- En Vivo](https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag \- En Vivo Estadio Vélez](https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP) | 5:03 |
+| 100 | [Extrañas Intenciones](https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8) | 2:48 |
 
 Snapshot ID: `aB1vywAAAADigqpkV+omq/aZMyBJQa0/`

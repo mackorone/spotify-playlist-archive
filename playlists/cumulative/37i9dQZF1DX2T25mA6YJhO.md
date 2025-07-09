@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Las Petunias.
 
-419 songs - 21 hr 22 min
+420 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [ahora es diferente](https://open.spotify.com/track/5kzRmChVusM1Vu3fRc0yW4) | [FINTA](https://open.spotify.com/artist/4q5q5oeMnuEHo6UMyTOwrW), [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [ahora es diferente](https://open.spotify.com/album/6MYsspfP9I9si7jKvliwKt) | 2:44 | 2025-01-02 | 2025-02-14 |
 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 | 2024-07-11 | 2024-11-08 |
 | [Al Amanecer](https://open.spotify.com/track/4e53xhYzdbAWuZu6dqfDOh) | [Monteperdido](https://open.spotify.com/artist/3GxxpOZw5vZ4Z5Wxesav1y), [Marco](https://open.spotify.com/artist/5NIA81lu3aTT72RVQ20l2W) | [Al Amanecer](https://open.spotify.com/album/4JfvYkC4ih4egFoHmMr7ZG) | 2:54 | 2024-06-27 | 2024-08-23 |
-| [Al Dente](https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh) | [Supercremalleras](https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15) | [Al Dente](https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm) | 2:00 | 2025-04-03 |  |
+| [Al Dente](https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh) | [Supercremalleras](https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15) | [Al Dente](https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm) | 2:00 | 2025-04-03 | 2025-07-09 |
 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 | 2024-06-27 | 2025-01-24 |
 | [Alan](https://open.spotify.com/track/79UTXCeBar703rirVTLbeE) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Amor y Resiliencia](https://open.spotify.com/album/4aY9msZhbxir4Q1BoBvfxw) | 3:51 | 2025-03-13 | 2025-04-04 |
 | [Alba](https://open.spotify.com/track/4J9bAIwyQTMRwkVirnnXBH) | [Alison Darwin](https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz) | [Alba](https://open.spotify.com/album/5HKIjv0prAqGWDjyiQpHtw) | 2:45 | 2025-02-20 | 2025-03-21 |
@@ -364,6 +364,7 @@
 | [TODO ROSA](https://open.spotify.com/track/2w4G9KIg5tfLF87lv38rBx) | [Raya Diplomática](https://open.spotify.com/artist/3yUu1qLWJhq7XYxd7g8NfU) | [TODO ROSA](https://open.spotify.com/album/32MYXfjjL1FOCbBRgUU4nQ) | 2:59 | 2025-04-17 | 2025-05-09 |
 | [Todos menos tú](https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [I\-Ace](https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0) | [Todos menos tú](https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S) | 2:50 | 2024-06-27 | 2024-10-11 |
 | [Tony Soprano](https://open.spotify.com/track/3CQ6aBBe3khVVLa9M1en49) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [Dante Technicolor](https://open.spotify.com/album/1Iez6ESeFlk8ZBi9sok0B3) | 1:59 | 2025-05-22 | 2025-06-06 |
+| [Toro](https://open.spotify.com/track/38L5vNRY6RXo6j5G8Q4gMq) | [The Animal Plastics](https://open.spotify.com/artist/5iFGq7lrw5akXvNkvM2t1m), [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Toro](https://open.spotify.com/album/5PFcdkGCGZzbPSS94KrNtO) | 3:11 | 2025-07-03 |  |
 | [Torreznos y Larios](https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy) | [Ashleys](https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9) | [Torreznos y Larios](https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK) | 2:43 | 2024-12-19 | 2025-03-07 |
 | [Trash](https://open.spotify.com/track/2IKrGxiXxcp4gViTALjfSJ) | [NIÑA COYOTE eta CHICO TORNADO](https://open.spotify.com/artist/4QlaoCIrTZjyl1M6TaDUEW), [Maika Makovski](https://open.spotify.com/artist/23qto2LKAJoFxdffbvVvKC), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ), [Le Ra](https://open.spotify.com/artist/48qMM7J4at63DHV5hqHZfY), [Waxy](https://open.spotify.com/artist/7gtw6fJ0m3qOtkRPSYKipQ) | [Trash](https://open.spotify.com/album/6K2TLtJqoTFvbDiBPTfMI1) | 1:05 | 2025-04-03 | 2025-04-25 |
 | [Travieso](https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Travieso](https://open.spotify.com/album/1PoKsze0nTJ0Ntu9cHRfGp) | 2:27 | 2024-06-27 | 2024-12-13 |

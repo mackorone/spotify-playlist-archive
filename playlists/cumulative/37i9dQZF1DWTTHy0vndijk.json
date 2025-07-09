@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Glass Heart",
+        "url": "https://open.spotify.com/album/7eBRKTKCEULACWdW0bEv8X"
+      },
+      "artists": [
+        {
+          "name": "ICHILLIN'",
+          "url": "https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Glass Heart",
+      "url": "https://open.spotify.com/track/7GKpMkxFM9RJO7IBXEq3vU"
+    },
+    {
+      "album": {
         "name": "Fromis_9 PRE-DEBUT Single",
         "url": "https://open.spotify.com/album/3tm1tbyC1FgCrtMraqJXBr"
       },
@@ -8772,7 +8790,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 178573,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/5koizuWzXgVvvJxeToiU1t"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,205 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,341 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 65 | [Give It to Me](https://open.spotify.com/track/02sPuecm24k5cekMMH5JCW) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Midnight Snack](https://open.spotify.com/album/6c4dktaL7CdIeDZnTzBMBB) | 3:08 |
 | 66 | [be mine](https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [be mine](https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL) | 4:41 |
 | 67 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
-| 68 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
-| 69 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 |
+| 68 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 |
+| 69 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
 | 70 | [Where Do I Go](https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Where Do I Go](https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg) | 3:10 |
 | 71 | [You Tear Me Apart](https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [You Tear Me Apart](https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt) | 2:57 |
 | 72 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 83 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
 | 84 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
 | 85 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
-| 86 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
-| 87 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
+| 86 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
+| 87 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 88 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
 | 89 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
 | 90 | [Oh Well](https://open.spotify.com/track/2nGYf3UkZEsYZ5MfNjPDxx) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Oh Well](https://open.spotify.com/album/5RzwMQ6Vz6sRrAEke7rqjL) | 4:53 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 93 | [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 |
 | 94 | [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 |
 | 95 | [distance](https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [distance](https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL) | 3:04 |
-| 96 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
+| 96 | [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 |
 | 97 | [TEETH](https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Fuji](https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj) | 2:07 |
-| 98 | [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 |
+| 98 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
 | 99 | [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 |
 | 100 | [Way to You](https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [Way To You](https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF) | 3:08 |
 

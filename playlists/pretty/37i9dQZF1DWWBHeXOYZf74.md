@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Nick León
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,633 likes - 155 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,618 likes - 155 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

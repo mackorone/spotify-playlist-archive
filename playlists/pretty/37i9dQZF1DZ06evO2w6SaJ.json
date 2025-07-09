@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6634,
+  "num_followers": 6646,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAB5JrJ9jnwW+9NJJKHeJS+Z",
+  "snapshot_id": "aGsOAAAAAABlzHpwnePee20yaUeE+YAa",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starry Eyed Surprise",
-        "url": "https://open.spotify.com/album/4z5wOC6kklR2XKEBmv5orT"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
       },
       "artists": [
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Shifty Shellshock",
-          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
-        },
-        {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
         }
       ],
-      "duration_ms": 191039,
-      "name": "Starry Eyed Surprise",
-      "url": "https://open.spotify.com/track/2VdNMzJRe7xwD2xPpjmdhW"
+      "duration_ms": 202197,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
     },
     {
       "added_at": null,
@@ -275,22 +271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
+        "name": "Starry Eyed Surprise",
+        "url": "https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl"
       },
       "artists": [
         {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         },
         {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+          "name": "Shifty Shellshock",
+          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 202197,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
+      "duration_ms": 191039,
+      "name": "Starry Eyed Surprise",
+      "url": "https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc"
     },
     {
       "added_at": null,

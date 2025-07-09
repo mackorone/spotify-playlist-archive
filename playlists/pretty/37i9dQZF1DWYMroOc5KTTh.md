@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,097 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,255 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 28 | [Music is Better](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Music is Better](https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu) | 3:56 |
 | 29 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 |
 | 30 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
-| 31 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
-| 32 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
+| 31 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
+| 32 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 33 | [JOY \(Up The Street\)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 |
 | 34 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
 | 35 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |

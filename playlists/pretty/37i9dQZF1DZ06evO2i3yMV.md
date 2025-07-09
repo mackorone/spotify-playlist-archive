@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,502 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,501 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 49 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 |
 | 50 | [Early to Dawn \(feat\. Selah Sue\)](https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:38 |
 
-Snapshot ID: `aGm8gAAAAADA5zYHZVckObeG0Ml71tw4`
+Snapshot ID: `aGsOAAAAAAAbrjTNGyk6o/uma3THzpY7`

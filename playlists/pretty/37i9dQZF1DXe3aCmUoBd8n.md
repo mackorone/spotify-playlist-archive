@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,511 likes - 47 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,703 likes - 47 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 28 | [خيال](https://open.spotify.com/track/7HL0CmdyoBZ32PjQRd9Oax) | [Odai](https://open.spotify.com/artist/7EKPJOvqNmDu6IZjJTWKWO) | [خيال](https://open.spotify.com/album/0lNHfjnXCxvmJE0v0fnrmh) | 3:07 |
 | 29 | [Asli Ana](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 |
 | 30 | [Ya Zghiri](https://open.spotify.com/track/0IayU4PmWshvS0r4aMTzPD) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ya Zghiri](https://open.spotify.com/album/40vVMbWX1OW6Mo3KdK8ndA) | 3:03 |
-| 31 | [Sabb Farhety](https://open.spotify.com/track/4e7lA8xFXF1Fw7v2nZqtro) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sabb Farhety](https://open.spotify.com/album/5u9MUiMx6rkuCrGgwzfGuq) | 5:02 |
+| 31 | [Sabb Farhety](https://open.spotify.com/track/4e7lA8xFXF1Fw7v2nZqtro) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Sabb Farhety](https://open.spotify.com/album/5u9MUiMx6rkuCrGgwzfGuq) | 5:02 |
 | 32 | [مُهرة \- MOHRA](https://open.spotify.com/track/4V5CPi2Z1amClPyxT24fgE) | [Ismaeil Tamr](https://open.spotify.com/artist/5DzUF6vIJJsWlTX6HgPD6v) | [مُهرة \- MOHRA](https://open.spotify.com/album/07tBDn21opfLJwRBn0O7Sm) | 3:19 |
 | 33 | [Yama](https://open.spotify.com/track/13mfkUDpSJlQp3ZPPdRXrX) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Yama](https://open.spotify.com/album/44d1S25h0oDhLgzuXExMra) | 3:05 |
 | 34 | [ارجعلا بدا](https://open.spotify.com/track/0PsJP3Igq0uUSwKNu5tN6q) | [Wael Idrees](https://open.spotify.com/artist/00MQ5607RYLIP2OH8jSWOA) | [ارجعلا بدا](https://open.spotify.com/album/2bixbH22rOVxfiR1kk3xne) | 3:01 |

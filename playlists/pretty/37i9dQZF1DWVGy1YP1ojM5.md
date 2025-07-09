@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,394,490 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,394,259 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 24 | [What You Need](https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 3:26 |
 | 25 | [Take You Down](https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:05 |
 | 26 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 |
-| 27 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
-| 28 | [Searchin](https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H) | 4:24 |
+| 27 | [Searchin](https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H) | 4:24 |
+| 28 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
 | 29 | [Wicked Games](https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:25 |
 | 30 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 |
 | 31 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 64 | [A Night Off \(feat\. Lloyd\)](https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:13 |
 | 65 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 66 | [Water](https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:02 |
-| 67 | [Rocket](https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:31 |
+| 67 | [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 |
 | 68 | [Damage](https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Damage](https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII) | 3:43 |
-| 69 | [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 |
+| 69 | [Rocket](https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:31 |
 | 70 | [act vi: mad man](https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:38 |
 | 71 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
 | 72 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 73 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 |
-| 74 | [Caretaker \(feat\. SZA\)](https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Gahdamn!](https://open.spotify.com/album/0L6cXKn2whkvu2xJisMrI2) | 2:51 |
-| 75 | [Peak \(Fed Up\)](https://open.spotify.com/track/5CHmwR7t8clAK5Ag7uA5pI) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/1sC6WmqaHb3STWCWb9v5zQ) | 3:08 |
+| 74 | [Peak \(Fed Up\)](https://open.spotify.com/track/5CHmwR7t8clAK5Ag7uA5pI) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/1sC6WmqaHb3STWCWb9v5zQ) | 3:08 |
+| 75 | [Caretaker \(feat\. SZA\)](https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Gahdamn!](https://open.spotify.com/album/0L6cXKn2whkvu2xJisMrI2) | 2:51 |
 | 76 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
 | 77 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
 | 78 | [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 84 | [Stingy](https://open.spotify.com/track/6De63WRULDaa1fxOyLilnv) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:19 |
 | 85 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 |
 | 86 | [Speechless](https://open.spotify.com/track/3V5I90jseccXcK4MGC1gqr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 6:00 |
-| 87 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 |
-| 88 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
+| 87 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
+| 88 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 |
 | 89 | [BPW](https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:22 |
 | 90 | [HAVE MY BABIES?](https://open.spotify.com/track/1mKSpDySSnz6uLjtdHiJf8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:03 |
 | 91 | [Dirty](https://open.spotify.com/track/0WVQchechJX4c0BXp8bHpv) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [ELEVATION](https://open.spotify.com/album/0S9DWXx2fextbZkqM9Xp5J) | 3:44 |

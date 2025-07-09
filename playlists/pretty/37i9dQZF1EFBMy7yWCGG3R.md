@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,150 likes - 257 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,153 likes - 257 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 61 | [Hey Stupid, I Love You](https://open.spotify.com/track/7pJA5B7t0k5wObMPxFth0v) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together \(Deluxe\)](https://open.spotify.com/album/7gZ6XGlLxvy4SkSa360fUZ) | 3:01 |
 | 62 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 |
 | 63 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 |
-| 64 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/17Efhyf4A96n0EFXKeB7Ya) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:50 |
-| 65 | [Dear god](https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:51 |
+| 64 | [Dear god](https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:51 |
+| 65 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/17Efhyf4A96n0EFXKeB7Ya) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:50 |
 | 66 | [Gang Gang](https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:01 |
 | 67 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
 | 68 | [Uh Huh](https://open.spotify.com/track/0oiKDZUxZn9i4jCCDmbTM2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:58 |
@@ -266,4 +266,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 256 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 257 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `Ab2K3gAAAACuqqwa+PEL0guDsPIn44pC`
+Snapshot ID: `Ab2QdAAAAAAgUONJ9ag1FZAUa6r0+rfl`

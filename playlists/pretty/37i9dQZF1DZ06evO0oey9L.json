@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 94399,
+  "num_followers": 94410,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABn6US+3gGvf7eG5/Ynw6Zl",
+  "snapshot_id": "aGsOAAAAAABPxPheU1kr5WthxIGX/bl2",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 186261,
+      "name": "Se Oyen Recio Los Disparos",
+      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Que Me Va Mal",
+      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -475,38 +507,6 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Que Me Va Mal",
-      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 186261,
-      "name": "Se Oyen Recio Los Disparos",
-      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
     },
     {
       "added_at": null,

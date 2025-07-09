@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 157090,
       "name": "Abbraccio",
       "url": "https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 120000,
       "name": "Breath in the wild",
       "url": "https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 155000,
       "name": "Calmative",
       "url": "https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan"
@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 151750,
       "name": "Nepenthe",
       "url": "https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT"
@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 220087,
       "name": "Nourish",
       "url": "https://open.spotify.com/track/0t4SxD4RI2sZYu7ehNF0Dt"
@@ -4250,7 +4250,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 152571,
       "name": "Oceanwide",
       "url": "https://open.spotify.com/track/7Mr3SK5zRJ0mrdNraurM5Z"
@@ -4600,6 +4600,24 @@
       "duration_ms": 155851,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/6iP5Gok0mu3BExvKsVvZ46"
+    },
+    {
+      "album": {
+        "name": "Pine and Vapor",
+        "url": "https://open.spotify.com/album/3h0CVvaxvAHqqufVpiO83m"
+      },
+      "artists": [
+        {
+          "name": "Amos Stovall",
+          "url": "https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156545,
+      "name": "Pine and Vapor",
+      "url": "https://open.spotify.com/track/2JnyDitOwl54NldaeqmnkH"
     },
     {
       "album": {

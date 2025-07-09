@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,432 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,438 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 20 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 |
 | 21 | [Another Kind of Love](https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:09 |
 | 22 | [I'll Play The Blues For You \(Live\)](https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:14 |
-| 23 | [Still Walking With Me](https://open.spotify.com/track/37jT0oB7NHLP76GGryKFFF) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Still Walking With Me](https://open.spotify.com/album/2ws6PyyFhmVuk6eEqxVadk) | 3:40 |
-| 24 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 |
-| 25 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 |
-| 26 | [Black Night](https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 4:20 |
+| 23 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 |
+| 24 | [Still Walking With Me](https://open.spotify.com/track/37jT0oB7NHLP76GGryKFFF) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Still Walking With Me](https://open.spotify.com/album/2ws6PyyFhmVuk6eEqxVadk) | 3:40 |
+| 25 | [Black Night](https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 4:20 |
+| 26 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 |
 | 27 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 |
 | 28 | [Happier Times](https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:40 |
 | 29 | [Slow Train](https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 6:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 45 | [Fortune Teller Blues](https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Fortune Teller Blues](https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R) | 6:22 |
 | 46 | [Prisoner \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:35 |
 | 47 | [I Got All You Need](https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 3:03 |
-| 48 | [Well, I Done Got Over It](https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 2:54 |
-| 49 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
+| 48 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
+| 49 | [Well, I Done Got Over It](https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 2:54 |
 | 50 | [Woke Up Dreaming](https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 2:51 |
 
-Snapshot ID: `aGm8gAAAAADFVzb7sq1/YqsgcvG38AtI`
+Snapshot ID: `aGsOAAAAAADCYN87zdNYTfr6AfmkBWKa`

@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25473,
+  "num_followers": 25469,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAB7hQ8HCtFLhl58o2xBpbRb",
+  "snapshot_id": "aGsOAAAAAAAROg7Qb6dxFS7ihEr3CyWC",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 237569,
-      "name": "2 Bad Habits",
-      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 241466,
       "name": "Stay For A While (feat. Anthony Hamilton)",
       "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 237569,
+      "name": "2 Bad Habits",
+      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "London Ko",
         "url": "https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 202409,
       "name": "Somaw",
       "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
     },
     {
       "added_at": null,
@@ -579,6 +579,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worldwide Underground",
         "url": "https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ"
       },
@@ -603,38 +635,6 @@
       "duration_ms": 326226,
       "name": "Love Of My Life Worldwide",
       "url": "https://open.spotify.com/track/7sfv48GFGTACbipv2osobB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
     },
     {
       "added_at": null,

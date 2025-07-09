@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,404 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,434 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 16 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
 | 17 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 18 | [Stop the time](https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Selfreflection](https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog) | 3:14 |
-| 19 | [Without U](https://open.spotify.com/track/1ICrcCa1wdOwEuJB6UxkoH) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Without U](https://open.spotify.com/album/4rVXXB9xESq71coxFxVbYh) | 3:29 |
-| 20 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
+| 19 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
+| 20 | [Without U](https://open.spotify.com/track/1ICrcCa1wdOwEuJB6UxkoH) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Without U](https://open.spotify.com/album/4rVXXB9xESq71coxFxVbYh) | 3:29 |
 | 21 | [Unknowable](https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Unknowable](https://open.spotify.com/album/02KxfrGk4P5AesEeEDm343) | 3:03 |
 | 22 | [SOLD MY SOUL](https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [SOLD MY SOUL](https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW) | 3:19 |
 | 23 | [Follow Me](https://open.spotify.com/track/2CjAV5o0xbp9APj9WQ2gJZ) | [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [Cotton Duck](https://open.spotify.com/artist/4ZqPmeHmCFc9LDbOSdpzaM) | [Follow Me](https://open.spotify.com/album/0mgVhaztvwTi7amAD6wWWP) | 2:22 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 26 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
 | 27 | [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 |
 | 28 | [Paradis Blanc](https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [Paradis Blanc](https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N) | 2:59 |
-| 29 | [Promises](https://open.spotify.com/track/6e9QdWYdMbVAZVDpG8apU3) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Promises](https://open.spotify.com/album/4IOamu4brK3tYLkXIaPsZK) | 2:43 |
-| 30 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
+| 29 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
+| 30 | [Promises](https://open.spotify.com/track/6e9QdWYdMbVAZVDpG8apU3) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Promises](https://open.spotify.com/album/4IOamu4brK3tYLkXIaPsZK) | 2:43 |
 | 31 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
 | 32 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 33 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4861,
+  "num_followers": 4863,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAA6onWhP9aUVMDLfIZlSD32",
+  "snapshot_id": "aGsOAAAAAACQbhnuISxGAF3NTVxgFKiF",
   "tracks": [
     {
       "added_at": null,
@@ -347,42 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 174092,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 125312,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
         "url": "https://open.spotify.com/album/7kNSP0jOh4pBmKvWNQEHaj"
       },
@@ -403,6 +367,42 @@
       "duration_ms": 189960,
       "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
       "url": "https://open.spotify.com/track/6YvzWqCKEUwKIOozTK0x47"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 125312,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 174092,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 162199,
-      "name": "Luv Everybody",
-      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2000AND4EVA",
         "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 172993,
       "name": "DAMN DANIEL (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 162199,
+      "name": "Luv Everybody",
+      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
     },
     {
       "added_at": null,

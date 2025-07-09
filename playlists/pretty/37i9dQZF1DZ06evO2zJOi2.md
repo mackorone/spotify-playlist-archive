@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,610 likes - 27 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,825 likes - 27 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,19 +21,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 11 | [Just In Case](https://open.spotify.com/track/5z0LSDpPpGwc2ZyJHpsE3J) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 2:46 |
 | 12 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 |
 | 13 | [The Way I Talk](https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:28 |
-| 14 | [You Proof](https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:37 |
+| 14 | [You Proof](https://open.spotify.com/track/57a4iloBWqan5rtqPJBoVY) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/7c1wEzhXamUm7Lh9zqVMl9) | 2:37 |
 | 15 | [I'm The Problem](https://open.spotify.com/track/7AeM1BGYM7emrqmQn1PuWv) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 2:57 |
 | 16 | [More Than My Hometown](https://open.spotify.com/track/5OELUCYgOHKFAvCERnAvfS) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:36 |
 | 17 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [FLOWER SHOPS \(THE ALBUM\)](https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O) | 3:34 |
 | 18 | [Talkin' Tennessee](https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:41 |
 | 19 | [20 Cigarettes](https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 2:40 |
 | 20 | [7 Summers](https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:30 |
-| 21 | [Ain’t That Some](https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:38 |
-| 22 | [Hangin’ On \(feat\. Morgan Wallen\)](https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ) | 3:26 |
+| 21 | [Hangin’ On \(feat\. Morgan Wallen\)](https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ) | 3:26 |
+| 22 | [Ain’t That Some](https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:38 |
 | 23 | [Superman](https://open.spotify.com/track/3KC1yCIfkLrRaeeMUEKvg3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:08 |
 | 24 | [Cover Me Up](https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 4:53 |
-| 25 | [Thought You Should Know](https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:35 |
-| 26 | [Up Down \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:17 |
+| 25 | [Up Down \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:17 |
+| 26 | [Thought You Should Know](https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:35 |
 | 27 | [Man Made A Bar \(feat\. Eric Church\)](https://open.spotify.com/track/73zawW1ttszLRgT9By826D) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:11 |
 
-Snapshot ID: `aGm8gAAAAAA6C1Vgcni9mCaPYBW5cfoi`
+Snapshot ID: `aGsOAAAAAAAFAicGqhnY+7It1DYICfde`

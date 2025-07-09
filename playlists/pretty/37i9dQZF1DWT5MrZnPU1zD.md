@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,766 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,789 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 76 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 |
 | 77 | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 |
 | 78 | [Alley Oop](https://open.spotify.com/track/4prSeUgilnoQ6J5I3iMpQT) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Alley Oop](https://open.spotify.com/album/7zdLY5YF5DfG096Th62ipi) | 3:20 |
-| 79 | [SOLO STEPPIN CRETE BOY](https://open.spotify.com/track/7CIvyuVoWcY0LgUYa1aR5J) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Slide](https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU) | 2:29 |
-| 80 | [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 |
+| 79 | [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 |
+| 80 | [SOLO STEPPIN CRETE BOY](https://open.spotify.com/track/7CIvyuVoWcY0LgUYa1aR5J) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Slide](https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU) | 2:29 |
 | 81 | [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 |
 | 82 | [sneaky](https://open.spotify.com/track/2K7sv1mno9PvbXVBpqvSKn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:21 |
 | 83 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |

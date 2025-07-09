@@ -880,10 +880,28 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 290520,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
+    },
+    {
+      "album": {
+        "name": "Come Pick Me Up",
+        "url": "https://open.spotify.com/album/0BPSz0jNSRZo7lnLAS90Ix"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284415,
+      "name": "Come Pick Me Up",
+      "url": "https://open.spotify.com/track/5X1UhM3dxWwLtCRPl2Oczn"
     },
     {
       "album": {
@@ -898,7 +916,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 318102,
       "name": "Come Pick Me Up",
       "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
@@ -4574,7 +4592,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 218363,
       "name": "Why Do They Leave?",
       "url": "https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,106 likes - 150 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,175 likes - 150 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 28 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 |
 | 29 | [Rescue Story](https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:57 |
 | 30 | [Multiplied](https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Rivers in the Wasteland](https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw) | 4:35 |
-| 31 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 |
-| 32 | [Burn The Ships](https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 4:36 |
+| 31 | [Burn The Ships](https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 4:36 |
+| 32 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 |
 | 33 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 |
 | 34 | [Oh My Soul](https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 4:15 |
 | 35 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 120 | [The Basics Of Life](https://open.spotify.com/track/659nJCCP4NGGU8ncSM5NW1) | [4Him](https://open.spotify.com/artist/5F211gZjfoqvH8v7erGdsy) | [The Basics Of Life](https://open.spotify.com/album/6W0BrIYO2ouSiErccmwG4i) | 5:13 |
 | 121 | [When God Ran](https://open.spotify.com/track/4DEJa4TcaYUEVuiVX3PB5U) | [Benny Hester](https://open.spotify.com/artist/03CAU4k3sKX2o210ir9dRo) | [Benny from Here](https://open.spotify.com/album/48vIX0dteo2c9niPazAXEj) | 5:03 |
 | 122 | [We Will Stand](https://open.spotify.com/track/2167rwWY1N0bUmSZQ522kL) | [Russ Taff](https://open.spotify.com/artist/0hxYrVr7PlRoiYuYaKBctb) | [Walls of Glass](https://open.spotify.com/album/70v746yqHqYh3GnzTjBZmV) | 4:38 |
-| 123 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 |
-| 124 | [Love Has Won](https://open.spotify.com/track/7hdn2sjtxPwkrTN6K6yyUa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Love Has Won](https://open.spotify.com/album/29mEscGC93VONgWDdVOtNW) | 4:22 |
+| 123 | [Love Has Won](https://open.spotify.com/track/7hdn2sjtxPwkrTN6K6yyUa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Love Has Won](https://open.spotify.com/album/29mEscGC93VONgWDdVOtNW) | 4:22 |
+| 124 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 |
 | 125 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
 | 126 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 127 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 144 | [No Longer Slaves \(Live\)](https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm) | 6:13 |
 | 145 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
 | 146 | [Greater](https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:07 |
-| 147 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
-| 148 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
+| 147 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
+| 148 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
 | 149 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T) | 3:42 |
-| 150 | [God Is on the Move](https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [God Is on the Move](https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0) | 2:56 |
+| 150 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
 
 Snapshot ID: `aFHTugAAAACYfujL9BQRq8yF0yjXzH56`

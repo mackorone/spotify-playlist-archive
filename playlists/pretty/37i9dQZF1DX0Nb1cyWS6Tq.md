@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,612 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,796 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 23 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 24 | [Christian Woman](https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 8:58 |
 | 25 | [Vampyres](https://open.spotify.com/track/64eMRy4wA7f5guLIS2VL52) | [Inkubus Sukkubus](https://open.spotify.com/artist/5TcSmqbuyYcyn396CFLwPr) | [Belladonna & Aconite 2011 Digital Remaster](https://open.spotify.com/album/4zcd6nEpQl5o7rKleGQHcB) | 3:40 |
-| 26 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
-| 27 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
+| 26 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
+| 27 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 28 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
 | 29 | [Sacrifice](https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH) | [London After Midnight](https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer) | [Selected Scenes from the End of the World](https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN) | 7:35 |
 | 30 | [PLEASE COME TO ME](https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [PLEASE COME TO ME](https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk) | 6:53 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 77 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 |
 | 78 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 |
 | 79 | [Astrónomo Insumiso](https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc) | [Equinoxious](https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ) | [Cosmódromo](https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC) | 4:45 |
-| 80 | [Valentine's Day](https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw) | [Za Bakdaz: The Unfinished Opera](https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5) | 2:49 |
+| 80 | [A Failure](https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l) | [Lycia](https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE) | [In Flickers](https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI) | 4:57 |
 
 Snapshot ID: `Z7TVbQAAAAByl2vGXem4XZXqxq5TQEqt`

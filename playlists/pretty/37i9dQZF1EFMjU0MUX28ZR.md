@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 25 | [i wanna die](https://open.spotify.com/track/0NgEQBlWn3GbVyBkOvCMuD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:46 |
 | 26 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 |
 | 27 | [Underwater](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Underwater / Other Voices](https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG) | 4:57 |
-| 28 | [do you really want to hurt me?](https://open.spotify.com/track/2xMY0vcPCP5GHHqom5i6Gl) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:09 |
-| 29 | [keep me afraid](https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:44 |
-| 30 | [Dirty Work](https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 |
+| 28 | [Dirty Work](https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 |
+| 29 | [do you really want to hurt me?](https://open.spotify.com/track/2xMY0vcPCP5GHHqom5i6Gl) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:09 |
+| 30 | [keep me afraid](https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:44 |
 | 31 | [pretty poison](https://open.spotify.com/track/1a6SSxTLJK6AT9eTd8K6ao) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:17 |
 | 32 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
 | 33 | [talk to myself](https://open.spotify.com/track/2LvvFxwAqjp75Lp4XDetug) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:45 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 67 | [Sweatpants](https://open.spotify.com/track/5nIkCBRTvwEyEVqyXP25xC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Glorification of Sadness](https://open.spotify.com/album/3TpQfWDRBdDBqn9Edfr8uk) | 3:31 |
 | 68 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 |
 | 69 | [too much](https://open.spotify.com/track/4UEgp2mi62hkc6vxnU2l4u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [heaven/heartaches](https://open.spotify.com/album/1WsFxIioDqQ2JhGe80zPjy) | 2:56 |
-| 70 | [The Day Of The Locust](https://open.spotify.com/track/6BB80mPDvnkd5CceejCdXi) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 6:50 |
-| 71 | [Everything Forever](https://open.spotify.com/track/6RRJJCxA0kEtvBnhUog2Y9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/5JZy6n8SKyaoFeDaBVjxR4) | 2:48 |
-| 72 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
+| 70 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
+| 71 | [The Day Of The Locust](https://open.spotify.com/track/6BB80mPDvnkd5CceejCdXi) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 6:50 |
+| 72 | [Everything Forever](https://open.spotify.com/track/6RRJJCxA0kEtvBnhUog2Y9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/5JZy6n8SKyaoFeDaBVjxR4) | 2:48 |
 | 73 | [Ain't No Friend Of Mine](https://open.spotify.com/track/4T6lmAIs8c5O2OitvNKAuI) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/4oeYzrAzI7XQzD0nStoGN4) | 3:32 |
 | 74 | [Enter The Void](https://open.spotify.com/track/58xeEl5QLO0AGq7HoRV8Lt) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 5:15 |
 | 75 | [Internetgf](https://open.spotify.com/track/62Nr3aP2VXVmNySZmiJyOY) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Internetgf/Limousine](https://open.spotify.com/album/4pOHBb9AIat9b5aXujaBzJ) | 2:38 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 83 | [Warp Speed Suzie](https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5) | 2:56 |
 | 84 | [New Eyes](https://open.spotify.com/track/7iMfuQDXKZW27BzTbqcoP5) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [New Eyes](https://open.spotify.com/album/6Ts3DkmshODnrh3AuDlvHC) | 3:29 |
 | 85 | [Last Yr Rly Sucked](https://open.spotify.com/track/4jK6fPZa7ul8PSc0ekgsly) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Last Yr Rly Sucked](https://open.spotify.com/album/3b5jgWe63pMvAM8CGQjsk1) | 2:47 |
-| 86 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 |
-| 87 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 86 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 87 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 |
 | 88 | [Joy of Missing Out](https://open.spotify.com/track/0pNBvEYh2khOnyu6OtfNj5) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Sugarcoat](https://open.spotify.com/album/7rOUvjZLw3Nwp90KthdpKL) | 3:11 |
 | 89 | [Liquid Courage](https://open.spotify.com/track/0fuLYP5x6NvYjowORYssbs) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Liquid Courage](https://open.spotify.com/album/43vbxovedhrL0jriQY0tN7) | 3:25 |
 | 90 | [Quiet](https://open.spotify.com/track/6aBdP1eyRPUM1HwM8Y1Adp) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/1lO8SArbhIeGhr2MrnnLzy) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 99 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 100 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Ab2K8gAAAAD9LC74S6fN4/t5XhN84t0F`
+Snapshot ID: `Ab2QfgAAAACd6+e3D+LKLLAp4KtwvK7n`

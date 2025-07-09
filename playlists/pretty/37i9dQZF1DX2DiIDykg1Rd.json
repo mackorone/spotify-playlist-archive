@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 965,
+  "num_followers": 966,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 205663,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 205663,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg"
     },
     {
       "added_at": "2023-01-01 05:00:00",

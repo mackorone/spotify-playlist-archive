@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Hey, JID <br/>that's DOPE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,515 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,431 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 2 | [Voices](https://open.spotify.com/track/0TeyADr2CzTOdwfsZCKn3c) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Voices / Psycho](https://open.spotify.com/album/3hUnq084DKurIS1RMU9srZ) | 3:36 |
 | 3 | [Locos](https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Locos](https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R) | 2:15 |
 | 4 | [Yoda](https://open.spotify.com/track/5EQCcPs2QwFtT45eS1rQps) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [5816 Forest](https://open.spotify.com/album/1SExPzpX4Z5Ak7AYe1F1k7) | 3:30 |
-| 5 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 5 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 6 | [time to go](https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [time to go](https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p) | 3:29 |
 | 7 | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/album/6pqnNGhTMgWt2nvMIn7QlD) | 4:14 |
 | 8 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 |

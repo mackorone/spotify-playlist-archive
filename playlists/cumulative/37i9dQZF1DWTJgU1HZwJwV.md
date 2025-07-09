@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-574 songs - 1 day 0 hr 16 min
+576 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-12 | 2023-09-14 |
 | [All Because I Found You](https://open.spotify.com/track/7nMYvgw89GfmCixfIopY3J) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [All Because I Found You](https://open.spotify.com/album/1bAwPcodbxhx19GvgzYSsX) | 3:11 | 2023-04-28 | 2023-06-23 |
 | [Along rusty rails](https://open.spotify.com/track/5xgTVeCBbRQ2rHl33azMw2) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Along rusty rails](https://open.spotify.com/album/60chGCUrcfMTQD2WxZsqyC) | 2:10 | 2024-07-29 |  |
-| [Altai](https://open.spotify.com/track/5xnMxcqVARosZ7Uwr4D04M) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Altai](https://open.spotify.com/album/2nrYZcCUiavKgeH2f07zlz) | 2:59 | 2023-09-29 |  |
+| [Altai](https://open.spotify.com/track/5xnMxcqVARosZ7Uwr4D04M) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Altai](https://open.spotify.com/album/2nrYZcCUiavKgeH2f07zlz) | 2:59 | 2023-09-29 | 2025-07-09 |
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 |  |
 | [Amanda's Rose](https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Amanda's Rose](https://open.spotify.com/album/7qFUeny2ZIqb4hMfs7JyzV) | 1:55 | 2023-04-28 | 2023-06-23 |
 | [Ancient Memories](https://open.spotify.com/track/3a0mf882OFwis1OReHHiiV) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Ancient Memories](https://open.spotify.com/album/729ih92lBrqzu42FgEzYoO) | 2:26 | 2024-09-03 |  |
@@ -101,7 +101,7 @@
 | [Close To Home](https://open.spotify.com/track/1yKZOimGS312NRcpwjhsXd) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Close To Home](https://open.spotify.com/album/5dhdPcBxiWEroTeOjsdgQ4) | 2:33 | 2024-06-14 |  |
 | [Cloud Drift](https://open.spotify.com/track/09knApoYuzaX1vrxTYeo0A) | [John News](https://open.spotify.com/artist/5onXwaj8jL1rWwbHXakBqF) | [Cloud Drift](https://open.spotify.com/album/7qA6OBevrtlpWXFOXqkMwl) | 2:20 | 2025-03-28 | 2025-04-03 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-24 | 2023-06-23 |
-| [Colours Fly](https://open.spotify.com/track/1AsT0aTtuhWoGjJfGUdeSD) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Colours Fly](https://open.spotify.com/album/5ZDRYdNazw6bZjfH7BClFX) | 2:22 | 2025-06-16 |  |
+| [Colours Fly](https://open.spotify.com/track/1AsT0aTtuhWoGjJfGUdeSD) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Colours Fly](https://open.spotify.com/album/5ZDRYdNazw6bZjfH7BClFX) | 2:22 | 2025-06-16 | 2025-07-09 |
 | [Combo Cadre](https://open.spotify.com/track/2iuH3nCY89Ljb1tjmvcKwV) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Combo Cadre](https://open.spotify.com/album/44IxR6mPGmK1O24wBI3nwx) | 2:59 | 2022-06-17 | 2023-09-08 |
 | [Come to Me in the Silence of the Night](https://open.spotify.com/track/1V7vKOUi1FNJ2Ytl2ERakv) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Come to Me in the Silence of the Night](https://open.spotify.com/album/0yOTmHU1sMWDhOoHi7TCdE) | 3:08 | 2024-05-24 | 2024-09-11 |
 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 | 2023-05-19 | 2024-09-11 |
@@ -392,6 +392,7 @@
 | [Prelude No\. 22](https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Prelude No\. 22](https://open.spotify.com/album/6vz3YMF0T9VYiYqCbGWjNL) | 2:16 | 2022-11-18 | 2023-08-25 |
 | [Preludio, Op\. 26](https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D) | [Ernesto García de León](https://open.spotify.com/artist/7khoscfcFr6vJQCBWxXAEn), [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse) | [Preludio, Op\. 26](https://open.spotify.com/album/0qwyKk8uTrRO8Y4DpO4mNp) | 2:54 | 2022-06-17 | 2023-09-08 |
 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 | 2024-05-24 |  |
+| [Presence in the Present](https://open.spotify.com/track/1P1atoWaatAcMCw5w8E8Sf) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Presence in the Present](https://open.spotify.com/album/7eITvCHxiVyJ0N9ZeisGQE) | 2:21 | 2025-07-08 |  |
 | [Promise](https://open.spotify.com/track/28WsjxgjNUnDQXNEBMop7t) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Promise](https://open.spotify.com/album/2MfDNepXa2wpt2hSy0Qfv6) | 2:14 | 2025-05-19 |  |
 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 | 2022-06-17 | 2024-05-10 |
 | [Puigmal](https://open.spotify.com/track/4SG34NU780HN7JrcLeEEEi) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Open Waters](https://open.spotify.com/album/2EpNqhccApxUDtlgGcg9AT) | 2:19 | 2023-01-06 | 2025-01-14 |
@@ -563,6 +564,7 @@
 | [What If She Was Murdered?](https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YA7TB1egD5ApHIskQv4lK) | 3:49 | 2022-07-29 | 2022-08-05 |
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 | 2023-06-23 |
 | [Whispered words](https://open.spotify.com/track/4V4lgyWWYZlZB8GtqCwhE9) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Whispered words](https://open.spotify.com/album/3ty7RAPKAWVWv9LVweZsFn) | 2:55 | 2025-02-24 | 2025-04-17 |
+| [Whispers](https://open.spotify.com/track/2c4ViERSzhgBtLW65P61T3) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers](https://open.spotify.com/album/1MteMNxsPxEDfUizlPAefA) | 2:13 | 2025-07-08 |  |
 | [Whispers of Fondne](https://open.spotify.com/track/4IjwqZl1db3DsrO7RtZKJh) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers of Fondne](https://open.spotify.com/album/6lrs71ikfFEAIPB7m4bnoJ) | 2:55 | 2024-02-23 |  |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2023-02-25 |
 | [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-19 | 2023-10-27 |

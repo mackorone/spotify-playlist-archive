@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,672 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,819 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 22 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
 | 23 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 |
 | 24 | [La Chona](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:19 |
-| 25 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
-| 26 | [Me Vale](https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:31 |
+| 25 | [Me Vale](https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:31 |
+| 26 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
 | 27 | [Vamonos de Fiesta](https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:08 |
 | 28 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
 | 29 | [Me llamo Raquel](https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 2:47 |
-| 30 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
-| 31 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
+| 30 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
+| 31 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 32 | [El Gigante De Hierro](https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 3:36 |
 | 33 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
 | 34 | [El Mechón](https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:19 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 88 | [Llorar](https://open.spotify.com/track/7d00W7wOsi1V9nKxcedEi7) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/2BFbazOqKrNnhed71Kfqw0) | 3:43 |
 | 89 | [El Sinaloense](https://open.spotify.com/track/57qATI59zt97GfYpac1FoS) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:53 |
 | 90 | [Inténtalo](https://open.spotify.com/track/2HFWe77s9n7MExMTFY035N) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo](https://open.spotify.com/album/2QGWI5XAUxXEXBfc2QHxbl) | 3:13 |
-| 91 | [Mi Mayor Anhelo](https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Colección](https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z) | 3:31 |
-| 92 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
+| 91 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
+| 92 | [Mi Mayor Anhelo](https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Colección](https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z) | 3:31 |
 | 93 | [En Vida](https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 2:25 |
 | 94 | [La Quebradora](https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [18 Grandes Exitos Bailables](https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG) | 3:11 |
 | 95 | [Mi Trokita Cumbia](https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq) | 2:14 |

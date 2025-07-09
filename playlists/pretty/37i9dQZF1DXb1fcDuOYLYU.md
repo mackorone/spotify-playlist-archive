@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: Paloma Morphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,179 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,731 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 60 | [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 |
 | 61 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
 | 62 | [Sin Llorar](https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE) | 3:42 |
-| 63 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
+| 63 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
 | 64 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
 | 65 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
-| 66 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
+| 66 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
 | 67 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 |
 | 68 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 |
 | 69 | [Maléfica](https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 3:03 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 92 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
 | 93 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 |
 | 94 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
-| 95 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
-| 96 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 |
+| 95 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 |
+| 96 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
 | 97 | [Baila Conmigo](https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Baila Conmigo](https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6) | 2:43 |
 | 98 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
 | 99 | [POR EL CONTRARIO \(DEMO\)](https://open.spotify.com/track/2GIebvHnyaKLLHgQ58f98j) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [POR EL CONTRARIO](https://open.spotify.com/album/2cnThiqtDHLhqWA37xkDFh) | 3:17 |

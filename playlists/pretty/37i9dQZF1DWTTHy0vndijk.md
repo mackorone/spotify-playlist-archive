@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 조유리\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,294 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,474 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 7 | [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 |
 | 8 | [Echo](https://open.spotify.com/track/29sFqmK1SNaGhY8RTmMmpz) | [ablume](https://open.spotify.com/artist/4XvBehn5EnOEueirgtfIgj) | [Echo](https://open.spotify.com/album/7zfttfWarwucZwLgB0hkSP) | 3:14 |
 | 9 | [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 |
-| 10 | [ZOOM](https://open.spotify.com/track/5koizuWzXgVvvJxeToiU1t) | [USPEER](https://open.spotify.com/artist/1p7Fm42iZrBEvG2wIaRCoL) | [SPEED ZONE](https://open.spotify.com/album/6eWgaSgtuchEdVEuJ5TOiX) | 2:58 |
+| 10 | [Glass Heart](https://open.spotify.com/track/7GKpMkxFM9RJO7IBXEq3vU) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Glass Heart](https://open.spotify.com/album/7eBRKTKCEULACWdW0bEv8X) | 2:58 |
 | 11 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 |
 | 12 | [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 |
 | 13 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 49 | [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 |
 | 50 | [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 |
 
-Snapshot ID: `aGuPDwAAAABIATwM/wDvvSs8o93hJAk4`
+Snapshot ID: `aGykZQAAAAC20Pknz9/mbMOYuGt7XncV`

@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 67779,
+  "num_followers": 67816,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
@@ -427,38 +427,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Color Blind",
-        "url": "https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy"
-      },
-      "artists": [
-        {
-          "name": "Massive Scar Era",
-          "url": "https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D"
-        }
-      ],
-      "duration_ms": 222156,
-      "name": "Unfollow",
-      "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Desert Call",
-        "url": "https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt"
-      },
-      "artists": [
-        {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
-        }
-      ],
-      "duration_ms": 340426,
-      "name": "Forever and A Day",
-      "url": "https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Riot Against Riot",
         "url": "https://open.spotify.com/album/3U2yfv1nXbqz2WqmzFDro6"
       },
@@ -487,6 +455,38 @@
       "duration_ms": 484600,
       "name": "The Gambit",
       "url": "https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Desert Call",
+        "url": "https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt"
+      },
+      "artists": [
+        {
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        }
+      ],
+      "duration_ms": 340426,
+      "name": "Forever and A Day",
+      "url": "https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Color Blind",
+        "url": "https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy"
+      },
+      "artists": [
+        {
+          "name": "Massive Scar Era",
+          "url": "https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D"
+        }
+      ],
+      "duration_ms": 222156,
+      "name": "Unfollow",
+      "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"
     }
   ],
   "unique_name": "Arab Metal",

@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
+      },
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq"
+    },
+    {
+      "album": {
         "name": "Ripe Dreams, Pipe Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM"
       },
@@ -12591,7 +12609,7 @@
         },
         {
           "name": "Diego",
-          "url": "https://open.spotify.com/artist/5yV3HzJ8fzNsmmH1YfaIL3"
+          "url": "https://open.spotify.com/artist/79XD2aBNfCvTZLF9cnsxSB"
         },
         {
           "name": "Drigo",

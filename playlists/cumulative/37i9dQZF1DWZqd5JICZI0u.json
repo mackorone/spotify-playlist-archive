@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/6Wn0AisT188MrRIgVmwl7H"
+      },
+      "artists": [
+        {
+          "name": "SKEN",
+          "url": "https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163434,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/1YDn3bachGQc2hZATanMH9"
+    },
+    {
+      "album": {
         "name": "At Day's End",
         "url": "https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG"
       },
@@ -1256,6 +1274,24 @@
       "duration_ms": 144000,
       "name": "Breath of the Wildflower",
       "url": "https://open.spotify.com/track/2A9CeIrRq46bRTSt9vREed"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/72VkNF1ly62ai8VhxFF3TT"
+      },
+      "artists": [
+        {
+          "name": "Monte Aria",
+          "url": "https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/37qA48T9rJqbfGdmk2zZ17"
     },
     {
       "album": {
@@ -2552,7 +2588,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 185720,
       "name": "Designed",
       "url": "https://open.spotify.com/track/3eLLRRVnTQ41O6f6Eb2aU0"
@@ -2574,6 +2610,24 @@
       "duration_ms": 166375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl"
+    },
+    {
+      "album": {
+        "name": "Dewdrops",
+        "url": "https://open.spotify.com/album/1deqzuQ2WbvQW0Q4ti2uZi"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Dewdrops",
+      "url": "https://open.spotify.com/track/1HgFpm8XTIFAIP5uAnCPBc"
     },
     {
       "album": {
@@ -3236,7 +3290,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 162000,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1dJb5jCV1FrlyOMGhuesJQ"
@@ -4658,7 +4712,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 131428,
       "name": "Hjarta",
       "url": "https://open.spotify.com/track/3f2G3OMu792Qi3A4cvrXyq"
@@ -9058,6 +9112,24 @@
       "duration_ms": 202000,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/5ymF1YOLVmBCuu4sl7lgNF"
+    },
+    {
+      "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/7ICBhBU991Ppva3hE5Gyi8"
+      },
+      "artists": [
+        {
+          "name": "Noah Moon",
+          "url": "https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/4O64WPdOw5hAPv8I4MkQ3G"
     },
     {
       "album": {

@@ -12605,6 +12605,24 @@
     },
     {
       "album": {
+        "name": "The 1st Album 'A Montage of ( )'",
+        "url": "https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "La La Love Me",
+      "url": "https://open.spotify.com/track/6l0bVqiuv0HE7FxUG1TOkA"
+    },
+    {
+      "album": {
         "name": "La Vida Loca",
         "url": "https://open.spotify.com/album/7v5WJg3N0QQYC9BIlDnB0Z"
       },

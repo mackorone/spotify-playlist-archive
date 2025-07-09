@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: YADAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,733 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,735 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 31 | [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 |
 | 32 | [Fugitivo](https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Fugitivo](https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn) | 2:40 |
 | 33 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
-| 34 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
-| 35 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 |
+| 34 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 |
+| 35 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
 | 36 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
 | 37 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
 | 38 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 63 | [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 |
 | 64 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
 | 65 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
-| 66 | [444](https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:50 |
-| 67 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
+| 66 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
+| 67 | [444](https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:50 |
 | 68 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 |
 | 69 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
 | 70 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 82 | [KONFESSION](https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [KONFESSION](https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe) | 2:58 |
 | 83 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 |
 | 84 | [Sex Tape](https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Sex Tape](https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t) | 1:58 |
-| 85 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
-| 86 | [La Noche](https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [La Noche](https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU) | 2:43 |
-| 87 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
+| 85 | [La Noche](https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [La Noche](https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU) | 2:43 |
+| 86 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
+| 87 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
 | 88 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
-| 89 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
+| 89 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
 | 90 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
 | 91 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
 | 92 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Zia \(지아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 이홍기\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,342 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,427 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
 | 100 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 |
 
-Snapshot ID: `aGuS5wAAAABoBsqKQUPGTGCPYn6uxQ/F`
+Snapshot ID: `aGyfLwAAAABKjdJ2U46fe4cIh1qi51UH`

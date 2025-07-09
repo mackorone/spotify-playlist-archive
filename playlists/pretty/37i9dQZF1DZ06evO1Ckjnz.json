@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAA391kMOc24lEX2VTFLYVE4",
+  "snapshot_id": "aGsOAAAAAACUVll7QYvQydgBW1ecnyyD",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "#PROUDCATOWNERREMIX",
+        "url": "https://open.spotify.com/album/2rfqTGtJKFY3hJLuuTLA5A"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "#PROUDCATOWNERREMIX",
+      "url": "https://open.spotify.com/track/5dkZ2DrcPJrqwlRQe6Q35e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Nasty (w/ Rico Nasty & Whethan)",
         "url": "https://open.spotify.com/album/02LwsAJRZNg5elZqc4tPEo"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 131391,
       "name": "Get Nasty (w/ Rico Nasty & Whethan)",
       "url": "https://open.spotify.com/track/5l9IES7aHrrjA1yStzXaVW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#PROUDCATOWNERREMIX",
-        "url": "https://open.spotify.com/album/2rfqTGtJKFY3hJLuuTLA5A"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 157293,
-      "name": "#PROUDCATOWNERREMIX",
-      "url": "https://open.spotify.com/track/5dkZ2DrcPJrqwlRQe6Q35e"
     },
     {
       "added_at": null,
@@ -467,22 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+        "name": "Jungle (Rico Nasty Remix)",
+        "url": "https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
           "name": "Fred again..",
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
       "duration_ms": 213133,
       "name": "Jungle - Rico Nasty Remix",
-      "url": "https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms"
+      "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Blow Me",
-      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speed It Up (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 143277,
       "name": "Speed It Up (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 201061,
+      "name": "Blow Me",
+      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 109788,
-      "name": "Vaderz (feat. Bktherula)",
-      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Floor Seats",
         "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
       },
@@ -787,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
       },
       "artists": [
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
         }
       ],
-      "duration_ms": 136829,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
+      "duration_ms": 109788,
+      "name": "Vaderz (feat. Bktherula)",
+      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 167090,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136829,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,816 likes - 25 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,817 likes - 25 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 16 | [雛鳥 \- Vocalized Version](https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:15 |
 | 17 | [Jiyuu no Daishou](https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:49 |
 | 18 | [希望へ向う譚詩曲 \- Long Version](https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 8:08 |
-| 19 | [愛の放浪者 \- Vocalized Version](https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:41 |
+| 19 | [君は僕の希望 \- Vocalized Version](https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:10 |
 | 20 | [Souyoku no Hikari](https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:05 |
 | 21 | [風が吹いた日 \- Piano Solo Version](https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 2:46 |
-| 22 | [君は僕の希望 \- Vocalized Version](https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:10 |
+| 22 | [愛の放浪者 \- Vocalized Version](https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:41 |
 | 23 | [来訪者 \- Long Version](https://open.spotify.com/track/4tKj8h6sJQ4fK4HtT9Qu2Y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 4:30 |
-| 24 | [花が散る世界 \- Vocalized Version](https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 4:37 |
-| 25 | [純愛\(ハートマーク\) 十字砲火 \- Long Version](https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:26 |
+| 24 | [純愛\(ハートマーク\) 十字砲火 \- Long Version](https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:26 |
+| 25 | [ルクセンダルク紀行](https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 11:27 |
 
-Snapshot ID: `aGm8gAAAAABPSdZkZaw3sF2OOtbWo3up`
+Snapshot ID: `aGsOAAAAAAACqIHAIgTAqQyxQFxSvSYA`

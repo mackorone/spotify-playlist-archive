@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,447 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,450 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 47 | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw) | 3:32 |
 | 48 | [El primero, el único, el último](https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 3:38 |
 | 49 | [Costumbres](https://open.spotify.com/track/625ReH2UV67Qc466BptoAI) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Costumbres](https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT) | 4:19 |
-| 50 | [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 |
+| 50 | [Dígale](https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Pasiones de Cabaret](https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq) | 3:58 |
 
-Snapshot ID: `aGm8gAAAAAC9FMZo1UdJCMpWqsCRXVob`
+Snapshot ID: `aGsOAAAAAAAtQJon9dXdN2PJCPYJhkk5`

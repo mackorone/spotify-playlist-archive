@@ -151,6 +151,32 @@
     },
     {
       "album": {
+        "name": "1k maneras de morir",
+        "url": "https://open.spotify.com/album/2z1bio8YXENbNfl1jm1Q5B"
+      },
+      "artists": [
+        {
+          "name": "fox1",
+          "url": "https://open.spotify.com/artist/2tKY3KnuyCoj1aZOBXKP2D"
+        },
+        {
+          "name": "hellsu",
+          "url": "https://open.spotify.com/artist/4sDaCPhdE9ByJVX4C7ln4r"
+        },
+        {
+          "name": "Goa",
+          "url": "https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "1k maneras de morir",
+      "url": "https://open.spotify.com/track/6Tuwa1ytu8U607KAnOcZra"
+    },
+    {
+      "album": {
         "name": "2 perdices",
         "url": "https://open.spotify.com/album/6Sam76k7K4MD0bh4wEIEpY"
       },
@@ -12256,7 +12282,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 178536,
       "name": "Volver Con Mi Ex",
       "url": "https://open.spotify.com/track/6x7bITUOfSa6me2QSAp17t"

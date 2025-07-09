@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,248 likes - 72 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,270 likes - 72 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 3 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
 | 4 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
 | 5 | [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 |
-| 6 | [Por Una Cabeza](https://open.spotify.com/track/6ZwB9Jtr64BbYYVo2fGGuc) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Flamenco Music\- Acoustic Guitar Songs For Romance, Dining, Latin Party, Lounge & Relaxation](https://open.spotify.com/album/55YXKQiJuaokkwiOFLcp1i) | 3:02 |
-| 7 | [I Found the Day](https://open.spotify.com/track/50jkiTxHbEAi2h9wOZVbgE) | [Carl Fletcher](https://open.spotify.com/artist/6MJVrtr9vMYLrCv6y0ypzK) | [I Found the Day](https://open.spotify.com/album/3oWKbBZvbTsvf5rrgOQyMs) | 2:27 |
-| 8 | [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 |
+| 6 | [I Found the Day](https://open.spotify.com/track/50jkiTxHbEAi2h9wOZVbgE) | [Carl Fletcher](https://open.spotify.com/artist/6MJVrtr9vMYLrCv6y0ypzK) | [I Found the Day](https://open.spotify.com/album/3oWKbBZvbTsvf5rrgOQyMs) | 2:27 |
+| 7 | [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 |
+| 8 | [Por Una Cabeza](https://open.spotify.com/track/6ZwB9Jtr64BbYYVo2fGGuc) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Flamenco Music\- Acoustic Guitar Songs For Romance, Dining, Latin Party, Lounge & Relaxation](https://open.spotify.com/album/55YXKQiJuaokkwiOFLcp1i) | 3:02 |
 | 9 | [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 |
 | 10 | [Onyx](https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Onyx](https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN) | 2:45 |
-| 11 | [The Last Matador](https://open.spotify.com/track/3mQkFymDjaD18JmPt72odo) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Last Matador](https://open.spotify.com/album/2uGA86CeB6Z41yqdYOV9Bz) | 2:12 |
-| 12 | [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 |
+| 11 | [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 |
+| 12 | [The Last Matador](https://open.spotify.com/track/3mQkFymDjaD18JmPt72odo) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Last Matador](https://open.spotify.com/album/2uGA86CeB6Z41yqdYOV9Bz) | 2:12 |
 | 13 | [Susurros Del Viento](https://open.spotify.com/track/5Ciq3uMIf4SL0ZSbcMNoQn) | [J\. Silver](https://open.spotify.com/artist/3MRXHZdW001ggkduJ5CJja) | [Susurros Del Viento](https://open.spotify.com/album/5n7vpFa0NnqBKxtWd3EMp9) | 1:59 |
 | 14 | [Oscar](https://open.spotify.com/track/4vHfQcd66AdYudYQkeM5eF) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Oscar](https://open.spotify.com/album/5AvUWcX6u0sDE6CyV0N5xB) | 2:34 |
 | 15 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 71 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 |
 | 72 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `aE/zoQAAAAD+/mPvaxdQ7Gh8eQxh96Pl`
+Snapshot ID: `aG0WtwAAAAAF5vCL+oBh8FgpuOE55F5N`

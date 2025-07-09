@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95881,
+  "num_followers": 95885,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABOTuUh5gtF/DpI7xTPuur0",
+  "snapshot_id": "aGsOAAAAAADS+Jlz0lqTzYP1H4eBxZyh",
   "tracks": [
     {
       "added_at": null,
@@ -311,46 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 228386,
-      "name": "Wanted You (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1Faq8G2y56A8fRv7HsLq25"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "YOU (FT DON TOLIVER)",
-      "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -375,6 +335,46 @@
       "duration_ms": 187464,
       "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
       "url": "https://open.spotify.com/track/6PoKfDY78ih5OveWirggRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "YOU (FT DON TOLIVER)",
+      "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 228386,
+      "name": "Wanted You (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1Faq8G2y56A8fRv7HsLq25"
     },
     {
       "added_at": null,
@@ -510,11 +510,19 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Hit",
-      "url": "https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT"
+      "duration_ms": 265373,
+      "name": "Minute",
+      "url": "https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU"
     },
     {
       "added_at": null,
@@ -586,19 +594,11 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 265373,
-      "name": "Minute",
-      "url": "https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU"
+      "duration_ms": 169786,
+      "name": "Hit",
+      "url": "https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 89621,
-      "name": "GLOBE",
-      "url": "https://open.spotify.com/track/1dnXDVBhHOc6lji5N8nviK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emergency Tsunami",
         "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 145121,
       "name": "Friends & Family",
       "url": "https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 89621,
+      "name": "GLOBE",
+      "url": "https://open.spotify.com/track/1dnXDVBhHOc6lji5N8nviK"
     },
     {
       "added_at": null,

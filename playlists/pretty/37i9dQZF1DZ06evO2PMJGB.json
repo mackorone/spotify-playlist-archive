@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 262772,
+  "num_followers": 262794,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABe+9DSCxAmp74tGsgyx7UZ",
+  "snapshot_id": "aGsOAAAAAACu34XMIXtJOCUW5BiUs91t",
   "tracks": [
     {
       "added_at": null,
@@ -711,42 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 167122,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 130446,
-      "name": "INTERE$$EIRA",
-      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Posi\u00e7\u00e3o de Ataque",
         "url": "https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs"
       },
@@ -767,6 +731,42 @@
       "duration_ms": 149090,
       "name": "Posi\u00e7\u00e3o de Ataque",
       "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 130446,
+      "name": "INTERE$$EIRA",
+      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 167122,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+        "name": "Olhos Castanhos",
+        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
       },
       "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 174881,
-      "name": "Tenta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
+      "duration_ms": 205523,
+      "name": "Olhos Castanhos",
+      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
     },
     {
       "added_at": null,
@@ -835,18 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olhos Castanhos",
-        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
       "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 205523,
-      "name": "Olhos Castanhos",
-      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
+      "duration_ms": 174881,
+      "name": "Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
     },
     {
       "added_at": null,

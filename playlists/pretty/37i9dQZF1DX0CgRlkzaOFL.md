@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,550 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,606 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Jul 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Jul 03:04 UTC.",
   "num_followers": 96,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAATG6sVV8XhzltiDoLXrjLDlxeAPC4x",
+  "snapshot_id": "AAATH7W5picpHKv8IiPzrHmg8M9Tt0Mp",
   "tracks": [
+    {
+      "added_at": "2025-07-08 22:04:35",
+      "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
     {
       "added_at": "2025-07-07 13:04:27",
       "album": {
@@ -151,6 +167,26 @@
       "duration_ms": 132120,
       "name": "BABYRINO",
       "url": "https://open.spotify.com/track/59ROR8sJpSxM16hqXtFUGU"
+    },
+    {
+      "added_at": "2025-07-09 03:04:27",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/13o7UWbtqb2uWuiruK4cva"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 142772,
+      "name": "LAST BREATH",
+      "url": "https://open.spotify.com/track/1N0xbRqkKMwyJMeVwtOQiV"
     },
     {
       "added_at": "2025-07-03 08:04:24",
@@ -530,6 +566,10 @@
         {
           "name": "Don Toliver",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8"
         }
       ],
       "duration_ms": 171000,
@@ -803,38 +843,6 @@
       "duration_ms": 152888,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/33JNU1PMIMcUJtPGcVaoBa"
-    },
-    {
-      "added_at": "2025-07-01 22:04:39",
-      "album": {
-        "name": "Begin The Sacrifice",
-        "url": "https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 238636,
-      "name": "Begin The Sacrifice",
-      "url": "https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx"
-    },
-    {
-      "added_at": "2025-07-01 18:04:58",
-      "album": {
-        "name": "WENT WEST",
-        "url": "https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx"
-      },
-      "artists": [
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "WENT WEST",
-      "url": "https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj"
     }
   ],
   "unique_name": "New Singles Now",

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 89177,
+  "num_followers": 89183,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 142500,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Lover Boy",
-        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 236727,
-      "name": "Lover Boy",
-      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Lemon Glow",
+      "url": "https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Sit Next to Me (Stereotypes Remix)",
         "url": "https://open.spotify.com/album/0SBjLqgv3wzOb5LtvYz0zf"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 190720,
       "name": "Sit Next to Me - Stereotypes Remix",
       "url": "https://open.spotify.com/track/4v0CuFW0bEMBQ1gRn2mB3X"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Lemon Glow",
-      "url": "https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Chris",
-        "url": "https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/3dWRcazAn4jN75zh3VKyI6"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Souls",
         "url": "https://open.spotify.com/album/4byzvWM79mkf6sd4vwXXJ9"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 215445,
       "name": "Lie",
       "url": "https://open.spotify.com/track/2s1AhFYnZAtSU5rk4lvwB7"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Chris",
+        "url": "https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/3dWRcazAn4jN75zh3VKyI6"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "we just need some time together",
-        "url": "https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 235225,
-      "name": "affection",
-      "url": "https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 239010,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "we just need some time together",
+        "url": "https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 235225,
+      "name": "affection",
+      "url": "https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Cheetah Tongue",
+      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Solarize",
         "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
       },
@@ -1519,6 +1535,22 @@
       "duration_ms": 184760,
       "name": "Vowels",
       "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/4OmCAIrckfZx2vVM9pIHZH"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY"
+        "name": "Say, Can You Hear",
+        "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
       },
       "artists": [
         {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 184693,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
+      "duration_ms": 189246,
+      "name": "Say, Can You Hear",
+      "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1603,6 +1619,22 @@
       "duration_ms": 217284,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "All I Want To Hear You Say",
+        "url": "https://open.spotify.com/album/3iJnbOet5ZH5zNxlAXeuG6"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 189774,
+      "name": "All I Want To Hear You Say",
+      "url": "https://open.spotify.com/track/3X5PSHyFEfkkbIncpslasP"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1627,22 +1659,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "All I Want To Hear You Say",
-        "url": "https://open.spotify.com/album/3iJnbOet5ZH5zNxlAXeuG6"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 189774,
-      "name": "All I Want To Hear You Say",
-      "url": "https://open.spotify.com/track/3X5PSHyFEfkkbIncpslasP"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 213666,
       "name": "Rose Petals",
       "url": "https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Say, Can You Hear",
-        "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 189246,
-      "name": "Say, Can You Hear",
-      "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
     }
   ],
   "unique_name": "Best of Indie 2018",

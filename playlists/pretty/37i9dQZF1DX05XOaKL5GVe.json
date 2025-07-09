@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 929167,
+  "num_followers": 929352,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
     },
     {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Camilo",
-        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
-    },
-    {
       "added_at": "2022-07-14 15:59:59",
       "album": {
         "name": "Myriam Hernandez",
@@ -343,6 +327,22 @@
       "duration_ms": 216093,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Camilo",
+        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
     },
     {
       "added_at": "2025-01-03 04:07:41",
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "El Sonido Vol. 2",
+        "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 261982,
+      "name": "Castillos",
+      "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Jose Jose (1)",
         "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 195840,
       "name": "Eres",
       "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "El Sonido Vol. 2",
-        "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 261982,
-      "name": "Castillos",
-      "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Amarte Es Un Placer",
-        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "O Tu O Ninguna",
-      "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168306,
       "name": "D\u00e9jenme Si Estoy Llorando",
       "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "O Tu O Ninguna",
+      "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 252426,
       "name": "A Que No Le Cuentas",
       "url": "https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Si Quieres Verme Llorar",
-        "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lopez",
-          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
-        }
-      ],
-      "duration_ms": 190807,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "La Magia de Sandro",
         "url": "https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 196560,
       "name": "Penas",
       "url": "https://open.spotify.com/track/3xef9cUovCAdblrNkP1CRF"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Si Quieres Verme Llorar",
+        "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lopez",
+          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
+        }
+      ],
+      "duration_ms": 190807,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
     },
     {
       "added_at": "2021-04-22 14:20:49",

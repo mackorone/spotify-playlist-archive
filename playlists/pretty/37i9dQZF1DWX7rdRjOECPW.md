@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Seewetter! ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,836 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,749 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 53 | [Jiggy](https://open.spotify.com/track/6xLoWndBgNvlylHAWxiqxw) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Jiggy](https://open.spotify.com/album/3z2D8SA7g9trHTh3pawZFl) | 2:11 |
 | 54 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 |
 | 55 | [vorsatz](https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [vorsatz](https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr) | 2:37 |
-| 56 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 |
-| 57 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
+| 56 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
+| 57 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 |
 | 58 | [Helele](https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU) | [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Helele](https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de) | 2:10 |
 | 59 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |
 | 60 | [Beautiful Reason](https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Beautiful Reason](https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl) | 3:03 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 66 | [Flowers](https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Flowers](https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ) | 2:33 |
 | 67 | [Summer Nights](https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Summer Nights](https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql) | 2:42 |
 | 68 | [Anthem](https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Anthem](https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW) | 3:05 |
-| 69 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
-| 70 | [Te Imaginaba](https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Te Imaginaba](https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU) | 2:38 |
+| 69 | [Te Imaginaba](https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Te Imaginaba](https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU) | 2:38 |
+| 70 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
 
 Snapshot ID: `aFJjZAAAAAD++E8iZ4T3U/MYDy5hb0d6`

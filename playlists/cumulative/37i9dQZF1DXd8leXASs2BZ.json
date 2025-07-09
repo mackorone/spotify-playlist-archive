@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: \u30b7\u30e9\u30d5",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: E.V.P",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -898,6 +898,28 @@
       "duration_ms": 134000,
       "name": "After Noon",
       "url": "https://open.spotify.com/track/0MJWFLyFkIwROVd8uRzbh6"
+    },
+    {
+      "album": {
+        "name": "After the Rain",
+        "url": "https://open.spotify.com/album/1IvpUsRk3riRtfJA3ADFjx"
+      },
+      "artists": [
+        {
+          "name": "JINJI",
+          "url": "https://open.spotify.com/artist/6YhoQYTlRcp1IwOexIPG5Z"
+        },
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "After the Rain",
+      "url": "https://open.spotify.com/track/2AkSZpZuUrFngA5S9rowa2"
     },
     {
       "album": {
@@ -5916,7 +5938,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 123344,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/6wCapug34hPOOUSSJMVOiP"
@@ -6950,7 +6972,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 135428,
       "name": "GIFT",
       "url": "https://open.spotify.com/track/6Jb4VRznZxTZPDtKowN7Gv"
@@ -9961,6 +9983,28 @@
     },
     {
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1GNnIwrXrZGzwwkTK0ZKJW"
+      },
+      "artists": [
+        {
+          "name": "Keep in Touch",
+          "url": "https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd"
+        },
+        {
+          "name": "64DX",
+          "url": "https://open.spotify.com/artist/68BRPNjNCEp6Ku8YMnAp2F"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175164,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/6R4rXF5OqEF2K8XvWspWvN"
+    },
+    {
+      "album": {
         "name": "Windiw",
         "url": "https://open.spotify.com/album/3phd081w8UMfQLNLFDYLZN"
       },
@@ -11190,7 +11234,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 157279,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4DizRCNUqgS9GS6gOUDglp"

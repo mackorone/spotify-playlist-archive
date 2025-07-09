@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,162 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,205 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 37 | [July](https://open.spotify.com/track/4IhgoxogHyRpf6hyXbA4pE) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [24 Star Hotel](https://open.spotify.com/album/3Rbtdo1N8vQxETfCsfW2iF) | 5:00 |
 | 38 | [Summer in Dublin](https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO) | [Bagatelle](https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq) | 4:54 |
 | 39 | [After All](https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT) | [The Frank And Walters](https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC) | [Trains, Boats and Planes](https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd) | 3:09 |
-| 40 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
-| 41 | [Rocky Took A Lover](https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Flock](https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD) | 4:10 |
+| 40 | [Rocky Took A Lover](https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Flock](https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD) | 4:10 |
+| 41 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
 | 42 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
 | 43 | [King's Call](https://open.spotify.com/track/3x3oEFoQzTwqrMLj6Zufgf) | [Phil Lynott](https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7) | [Solo In Soho](https://open.spotify.com/album/2rDqLB2SCj6lgiVkdYnA7c) | 3:38 |
 | 44 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |

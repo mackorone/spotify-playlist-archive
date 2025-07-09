@@ -4,7 +4,7 @@
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 9 min
+65 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [FEELIN' GOOD](https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:49 | 2022-12-23 |  |
 | [FEVER](https://open.spotify.com/track/2EmBdXIg3R7pWTTaA0g2RH) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:11 | 2023-08-19 |  |
 | [FIGHT DUB CLUB](https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [J\-Rexxx](https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx), [RUEED](https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:01 | 2022-12-23 |  |
+| [FLASHBACK SYNDROME](https://open.spotify.com/track/0Vy313Gy9c3HdDwlQrrqqx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [FLASHBACK SYNDROME](https://open.spotify.com/album/3EqjUi6XXqIXcsuIlpL7Mv) | 3:37 | 2025-07-09 |  |
 | [FOUND BLUE](https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:49 | 2022-12-23 |  |
 | [Funky Nassau](https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 5:16 | 2023-08-19 |  |
 | [GABBA GABBA HEY HEY](https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:14 | 2023-08-19 |  |

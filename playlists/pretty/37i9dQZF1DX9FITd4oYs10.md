@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,180 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,181 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 24 | [Mandona \- Acústico](https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Mandona \(Acústico\)](https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4) | 3:59 |
 | 25 | [Muleque De Vila](https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 4:34 |
 | 26 | [Miss](https://open.spotify.com/track/3CxiFRL9ehmQCGGpORlPAg) | [Cacife Gold](https://open.spotify.com/artist/456O7OAKFJzzVDKOcUMlHk), [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Cacife Gold, Vol\. 1](https://open.spotify.com/album/1bhmo9qkQv9WrNVmby54Sp) | 4:43 |
-| 27 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
-| 28 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
+| 27 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
+| 28 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
 | 29 | [Raplord](https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Jonas Bento](https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN) | [Teto Baixo](https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q) | 4:23 |
 | 30 | [Fuga](https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Fuga](https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost) | 3:52 |
 | 31 | [Irmão DQbrada!](https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Irmão Dqbrada!](https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc) | 6:00 |

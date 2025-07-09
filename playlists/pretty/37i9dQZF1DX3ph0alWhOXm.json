@@ -1,6 +1,6 @@
 {
   "description": "Let these country songs get your tailgate going!",
-  "num_followers": 188113,
+  "num_followers": 188260,
   "original_name": "Country Tailgate",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-01-27 05:00:31",
       "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
+    },
+    {
+      "added_at": "2025-01-27 05:00:31",
+      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 209733,
       "name": "Beer Can\u2019t Fix",
       "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
-    },
-    {
-      "added_at": "2025-01-27 05:00:31",
-      "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
     },
     {
       "added_at": "2025-01-27 05:00:31",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-01-27 05:00:31",
       "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+    },
+    {
+      "added_at": "2025-01-27 05:00:31",
+      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 182666,
       "name": "Singles You Up",
       "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
-    },
-    {
-      "added_at": "2025-01-27 05:00:31",
-      "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2025-01-27 05:00:31",

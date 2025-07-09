@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,026 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,042 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 20 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |
 | 21 | [ViBRATiON](https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [LOVE is WAR, Volume 6](https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq) | 3:50 |
 | 22 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
-| 23 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 |
-| 24 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
+| 23 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
+| 24 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 |
 | 25 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
 | 26 | [Dollar $hort](https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Dollar $hort](https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG) | 3:15 |
 | 27 | [Finding Peace](https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:03 |
@@ -65,18 +65,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 55 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
 | 56 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 |
 | 57 | [Love's For Fools](https://open.spotify.com/track/4GMPhvJowPmhwOGXCVd1JD) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Love's For Fools](https://open.spotify.com/album/3XMftUyGqfMztGHnxftUl6) | 4:50 |
-| 58 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |
-| 59 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
+| 58 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
+| 59 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |
 | 60 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
 | 61 | [Figure Out \(feat\. JAIE\)](https://open.spotify.com/track/0VRbh9c002tLmNm4G1nhWN) | [JAWN](https://open.spotify.com/artist/2yRfs4MG77gLXamZ5RsVRE), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Figure Out \(feat\. JAIE\)](https://open.spotify.com/album/00lQadmdVTecUp147ww5NN) | 3:54 |
 | 62 | [Sway \- Remix](https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [Rex Atirai](https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW) | [Sway \(Remix\)](https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH) | 3:56 |
 | 63 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 64 | [Perfect Day](https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Glenn Lumanta](https://open.spotify.com/artist/1ZrIkUK72f4v7tYetjxxme) | [Perfect Day](https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL) | 3:48 |
-| 65 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
-| 66 | [Love in the Open](https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Love in the Open](https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE) | 2:02 |
-| 67 | [Autumn Girl](https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO) | [Will Clift](https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H) | [Autumn Girl](https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE) | 2:34 |
-| 68 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 |
-| 69 | [Ur Vibe](https://open.spotify.com/track/6jaw8lQgSySyHrCyyAjzU9) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU) | [Ur Vibe](https://open.spotify.com/album/7ee9VcwNFgcatDWmp0gE4g) | 3:11 |
-| 70 | [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 |
+| 65 | [Autumn Girl](https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO) | [Will Clift](https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H) | [Autumn Girl](https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE) | 2:34 |
+| 66 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
+| 67 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 |
+| 68 | [Love in the Open](https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Love in the Open](https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE) | 2:02 |
+| 69 | [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 |
+| 70 | [Ur Vibe](https://open.spotify.com/track/6jaw8lQgSySyHrCyyAjzU9) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU) | [Ur Vibe](https://open.spotify.com/album/7ee9VcwNFgcatDWmp0gE4g) | 3:11 |
 
 Snapshot ID: `Zp9nagAAAAAJTk5UBFVgx8zAQWtViF2a`

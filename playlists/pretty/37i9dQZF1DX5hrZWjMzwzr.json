@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10876,
+  "num_followers": 10875,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "ZBUNTOWANI",
-        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
-      },
-      "artists": [
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "ZBUNTOWANI",
-      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "RYK",
         "url": "https://open.spotify.com/album/3HBYk01U0ewV3afzMm8zGH"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 127293,
       "name": "HUTA (gasn\u0105 \u015bwiat\u0142a)",
       "url": "https://open.spotify.com/track/0LvnOg56hsjISUvWuq1xMa"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "ZBUNTOWANI",
+        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "ZBUNTOWANI",
+      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
     },
     {
       "added_at": "2025-04-24 21:35:46",

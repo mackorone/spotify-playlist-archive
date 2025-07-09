@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1J1pGfTqp5ReVIX8Z1Wzsg">BabyChiefDoIt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,800,543 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,800,342 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 7 | [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ) | [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/album/37uyi12r4K8M8rNZKS6JWj) | 1:41 |
 | 8 | [WTHELLY \(with G Herbo\) \- Remix](https://open.spotify.com/track/3agFWjopIFGnZx7WTNj4Wa) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [WTHELLY \(with G Herbo\) \[Remix\]](https://open.spotify.com/album/0U0fU3UenstnWf7CLdr5Cf) | 2:56 |
 | 9 | [No Free Sauce](https://open.spotify.com/track/4TMNofYa2J5bLwHFEtU2Rs) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [No Guest List](https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx) | 3:01 |
-| 10 | [Cant Go Broke Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke Remix](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
+| 10 | [Cant Go Broke \- Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke \(Remix\)](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
 | 11 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 |
 | 12 | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/album/52xvSVWdjkBlJbctNBiH5q) | 1:40 |
 | 13 | [don’t panic](https://open.spotify.com/track/5mWlHXCzDzMd1plGzBqPVT) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [no service](https://open.spotify.com/album/1UKK69dkl1m29OhETYyfcv) | 2:26 |

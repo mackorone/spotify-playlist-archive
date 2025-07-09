@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: Sophie and the Giants",
+  "description": "Songs from LGBTQIA+ artists. Cover: Irm\u00e3s de Pau",
   "name": "GLOW",
   "tracks": [
     {
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 201000,
       "name": "a\u017c zrozumiesz",
       "url": "https://open.spotify.com/track/2xP5xhtfisju7OIMygfNNL"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 215040,
       "name": "BAILE NO RXOTA",
       "url": "https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod"
@@ -2755,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Benvingudes a l'Afterparty",
+        "url": "https://open.spotify.com/album/0h1OlyCmYC7jsQqfwxhyvs"
+      },
+      "artists": [
+        {
+          "name": "FADES",
+          "url": "https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155209,
+      "name": "Benvingudes a l'Afterparty",
+      "url": "https://open.spotify.com/track/6u3xgsdehIjOKCwjxedezF"
+    },
+    {
+      "album": {
         "name": "A Rare Collection Of My Fantasies",
         "url": "https://open.spotify.com/album/4Fbe1j52WikTsZzccSKNtE"
       },
@@ -2792,6 +2810,24 @@
       "duration_ms": 215021,
       "name": "Berlin Nightmare (feat. Evita Manji)",
       "url": "https://open.spotify.com/track/4hvXHcUxwYGccmMOW1dhPy"
+    },
+    {
+      "album": {
+        "name": "it's hard to be a fish",
+        "url": "https://open.spotify.com/album/7Ld81qBy0TNl13Rxgoq07N"
+      },
+      "artists": [
+        {
+          "name": "Montaigne",
+          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "best case scenario",
+      "url": "https://open.spotify.com/track/21AOXDUXhfx1RwIDVSgAnD"
     },
     {
       "album": {
@@ -6714,7 +6750,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 172000,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/7aU1C9a1aPhuQbiytcVQ9y"
@@ -6962,6 +6998,24 @@
       "duration_ms": 213214,
       "name": "Effetto Domino (feat. Evra & Blue Phelix)",
       "url": "https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8"
+    },
+    {
+      "album": {
+        "name": "PARA QUIEN TRABAJAS Vol. I",
+        "url": "https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216857,
+      "name": "EL GORDO",
+      "url": "https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie"
     },
     {
       "album": {
@@ -9320,7 +9374,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 179166,
       "name": "Give Me A Sign (feat. Caroline Kingsbury)",
       "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
@@ -9862,7 +9916,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 181184,
       "name": "Grito 2.0",
       "url": "https://open.spotify.com/track/1gg8m3ZBNPUhbtMMoBc8kU"
@@ -12037,6 +12091,24 @@
     },
     {
       "album": {
+        "name": "I Need a Minute",
+        "url": "https://open.spotify.com/album/5Nw5cq1vgZMA19XV62PUBK"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153305,
+      "name": "I Need A Minute",
+      "url": "https://open.spotify.com/track/7wMmSsa9dJIAIP6Ml59vh2"
+    },
+    {
+      "album": {
         "name": "I Really F**ked It Up",
         "url": "https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ"
       },
@@ -12846,7 +12918,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 140108,
       "name": "IMAGINE",
       "url": "https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey"
@@ -13328,7 +13400,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 212320,
       "name": "It's a Mirror",
       "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
@@ -14090,6 +14162,32 @@
       "duration_ms": 238016,
       "name": "KoOkOo",
       "url": "https://open.spotify.com/track/6K4wSJbaRk7sGWs2dfgHeX"
+    },
+    {
+      "album": {
+        "name": "Krasnoludki",
+        "url": "https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3"
+      },
+      "artists": [
+        {
+          "name": "vgtbl.pl",
+          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
+        },
+        {
+          "name": "Franek Warzywa",
+          "url": "https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9"
+        },
+        {
+          "name": "M\u0142ody Budda",
+          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147391,
+      "name": "Krasnoludki",
+      "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
     },
     {
       "album": {
@@ -15886,7 +15984,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 171509,
       "name": "MAKE IT OUT ALIVE",
       "url": "https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B"
@@ -18581,6 +18679,32 @@
     },
     {
       "album": {
+        "name": "Oko Boma Nga",
+        "url": "https://open.spotify.com/album/5z3GoDjxQ2UgubeHUh5Otp"
+      },
+      "artists": [
+        {
+          "name": "Titica",
+          "url": "https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s"
+        },
+        {
+          "name": "Rebo",
+          "url": "https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb"
+        },
+        {
+          "name": "Kyaku Kyadaff",
+          "url": "https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253173,
+      "name": "Oko Boma Nga",
+      "url": "https://open.spotify.com/track/3gzcjxH87nTFtSCR9IC1Pj"
+    },
+    {
+      "album": {
         "name": "On A Sunday",
         "url": "https://open.spotify.com/album/6KmgFInosSY8ZVVOOWiF49"
       },
@@ -19524,7 +19648,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 195486,
       "name": "Peripheral Lover",
       "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
@@ -19702,6 +19826,28 @@
       "duration_ms": 140903,
       "name": "pink socks",
       "url": "https://open.spotify.com/track/5IN43BAneT10FMf3jBoAgY"
+    },
+    {
+      "album": {
+        "name": "pink.",
+        "url": "https://open.spotify.com/album/3ccH8mJ5GS99H0Sc46hSEy"
+      },
+      "artists": [
+        {
+          "name": "SILVY",
+          "url": "https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA"
+        },
+        {
+          "name": "BADMIXY",
+          "url": "https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "pink.",
+      "url": "https://open.spotify.com/track/4c2fsny0e3RBe4hM8lOguV"
     },
     {
       "album": {
@@ -20649,6 +20795,32 @@
     },
     {
       "album": {
+        "name": "Gambiarra Chic, Pt. 2",
+        "url": "https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Brunoso",
+          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "QUEIMANDO ICE",
+      "url": "https://open.spotify.com/track/2RfHXxlkGUXSs1m9UJQZXz"
+    },
+    {
+      "album": {
         "name": "Quero te ver gozar",
         "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
       },
@@ -20664,6 +20836,24 @@
       "duration_ms": 181951,
       "name": "Quero te ver gozar",
       "url": "https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW"
+    },
+    {
+      "album": {
+        "name": "Canciones del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2cgTOtTT4pJARi9rpRQpcq"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4L1GtckTxah0GmJfTBuq76"
     },
     {
       "album": {
@@ -21175,6 +21365,24 @@
     },
     {
       "album": {
+        "name": "Inmersi\u00f3n",
+        "url": "https://open.spotify.com/album/7GzlsTZ6h5tURFxCZ2DFc0"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201277,
+      "name": "Reina de la Selva",
+      "url": "https://open.spotify.com/track/4F4lnH2wzZB2LLRHBcRsri"
+    },
+    {
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -21266,7 +21474,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 220036,
       "name": "Replay",
       "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
@@ -23451,6 +23659,24 @@
     },
     {
       "album": {
+        "name": "Sommarland",
+        "url": "https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163064,
+      "name": "Sommarland",
+      "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"
+    },
+    {
+      "album": {
         "name": "Songs About It",
         "url": "https://open.spotify.com/album/3rYf5r2ZZzOuHzRlIXvuaW"
       },
@@ -24555,6 +24781,24 @@
     },
     {
       "album": {
+        "name": "Take A Sexy Picture Of Me",
+        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229933,
+      "name": "Take A Sexy Picture Of Me",
+      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
+    },
+    {
+      "album": {
         "name": "Take It Slow",
         "url": "https://open.spotify.com/album/0inDI68EUkhmQjo90QcVqh"
       },
@@ -25600,7 +25844,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 165893,
       "name": "Times Like SIS",
       "url": "https://open.spotify.com/track/4RIzISlyULa7Y6x3NEGlu2"
@@ -27298,7 +27542,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 168157,
       "name": "Weed e Wine",
       "url": "https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp"
@@ -28050,7 +28294,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 167603,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2lNIproRC2jygMe2ECDFBR"
@@ -28526,6 +28770,24 @@
       "duration_ms": 203670,
       "name": "Your Side of It",
       "url": "https://open.spotify.com/track/63M3e3sKF6Zp5u6Vmg0iv7"
+    },
+    {
+      "album": {
+        "name": "Zagara",
+        "url": "https://open.spotify.com/album/5N9H0fJEfi0WPpZtr0NKq2"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221078,
+      "name": "Zagara",
+      "url": "https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7"
     },
     {
       "album": {

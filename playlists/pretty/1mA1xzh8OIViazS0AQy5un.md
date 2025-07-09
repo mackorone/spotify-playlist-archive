@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 247 likes - 704 songs - 1 day 15 hr 59 min
+[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 248 likes - 704 songs - 1 day 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

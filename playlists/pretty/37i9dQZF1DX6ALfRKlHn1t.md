@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,145,930 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,767 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 29 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 |
 | 30 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
 | 31 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
-| 32 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
+| 32 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
 | 33 | [Say It Ain't So \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5yNwnJeSPgDGSdvuCf44g0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 4:17 |
-| 34 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
+| 34 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
 | 35 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |
 | 36 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 37 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 68 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
 | 69 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 |
 | 70 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
-| 71 | [Kinky](https://open.spotify.com/track/2kIDECuRDbagrRqLOY3Mnm) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:14 |
-| 72 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
-| 73 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
-| 74 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
+| 71 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
+| 72 | [Kinky](https://open.spotify.com/track/2kIDECuRDbagrRqLOY3Mnm) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:14 |
+| 73 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
+| 74 | [Rescue Me](https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Rescue Me](https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8) | 2:52 |
 | 75 | [Where I'm Going](https://open.spotify.com/track/38r2iSNTTK1hsBdrLXAY8I) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc) | [Where I'm Going](https://open.spotify.com/album/6lRVMQtYKpkMIeitaxqFQS) | 3:48 |
 
 Snapshot ID: `aEHoHwAAAAAxE6bJkg3OF4PLIrPpcsZT`

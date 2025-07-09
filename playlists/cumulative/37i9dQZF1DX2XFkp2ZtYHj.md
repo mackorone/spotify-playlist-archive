@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-289 songs - 12 hr 14 min
+291 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 | 2024-04-17 |  |
 | [Certain Days](https://open.spotify.com/track/3YKPxRJDUHhnFJUyjV57JQ) | [Viljar Iversen](https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl) | [Certain Days](https://open.spotify.com/album/2u2aoV0YFFubHvzgkaN244) | 2:18 | 2023-10-18 |  |
 | [Changes](https://open.spotify.com/track/0siCo4tyMFCgKJaa3i7wvK) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Changes](https://open.spotify.com/album/3zdjBv8NJkDQmgRdMtpCYJ) | 2:10 | 2025-03-18 |  |
+| [chanson de bateau](https://open.spotify.com/track/2SwptMOjnExmwFIrx1prEw) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [chanson de bateau](https://open.spotify.com/album/1iW2MkGnizDSj6pfy9zzeZ) | 2:34 | 2025-07-08 |  |
 | [Chaque seconde](https://open.spotify.com/track/7zE6q0FE26UZxgVt6HfZTK) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Chaque seconde](https://open.spotify.com/album/28jXOYo12w7BRvB9lA2q3V) | 2:06 | 2023-10-18 |  |
 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2023-10-18 | 2024-10-16 |
 | [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-10-18 | 2024-10-02 |
@@ -86,7 +87,7 @@
 | [Emanate](https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Emanate](https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS) | 2:59 | 2024-12-13 | 2025-05-21 |
 | [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-21 |  |
 | [Enchanted](https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Enchanted](https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS) | 2:16 | 2023-10-18 | 2025-04-09 |
-| [Enigma](https://open.spotify.com/track/5Tp8RmoHqTihaZyFMBZ5jG) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Enigma](https://open.spotify.com/album/5FmIguu1Cg8ACToBY2Klfj) | 3:01 | 2025-06-10 |  |
+| [Enigma](https://open.spotify.com/track/5Tp8RmoHqTihaZyFMBZ5jG) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Enigma](https://open.spotify.com/album/5FmIguu1Cg8ACToBY2Klfj) | 3:01 | 2025-06-10 | 2025-07-09 |
 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 | 2024-03-25 |  |
 | [Erzählung](https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Erzählung](https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb) | 2:51 | 2023-10-18 |  |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
@@ -125,7 +126,7 @@
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-10-18 | 2024-10-02 |
 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 | 2023-10-18 | 2024-10-02 |
 | [Hjemme](https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Hjemme](https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD) | 2:29 | 2024-12-17 | 2025-01-15 |
-| [Hope Reborn](https://open.spotify.com/track/1m0QXCui2cddXERsmwOEjG) | [Nia Amara](https://open.spotify.com/artist/66zVxJqnaCuSkUimaB2WZS) | [Hope Reborn](https://open.spotify.com/album/3Nlkiki77PqTuE4oGi5vYD) | 2:19 | 2025-03-25 |  |
+| [Hope Reborn](https://open.spotify.com/track/1m0QXCui2cddXERsmwOEjG) | [Nia Amara](https://open.spotify.com/artist/66zVxJqnaCuSkUimaB2WZS) | [Hope Reborn](https://open.spotify.com/album/3Nlkiki77PqTuE4oGi5vYD) | 2:19 | 2025-03-25 | 2025-07-09 |
 | [Husk](https://open.spotify.com/track/31wi1LOTXtipf1NXgJv50H) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Husk](https://open.spotify.com/album/0MgDHH3pv3BuTUNWH1NExE) | 3:10 | 2023-10-18 | 2024-10-02 |
 | [Hymns of Light](https://open.spotify.com/track/6oVF5IoQy0cGfNWl7wuXaz) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Hymns of Light](https://open.spotify.com/album/0m3KSiP0ndC41yuBv7lch4) | 2:37 | 2024-11-19 |  |
 | [Idyllic garden](https://open.spotify.com/track/0uPRRKhenDTl56bWKDcilK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Idyllic garden](https://open.spotify.com/album/7B53xiF08Ma86VBlkcQcuF) | 2:04 | 2023-10-18 |  |
@@ -147,9 +148,10 @@
 | [Jasmine Dreams](https://open.spotify.com/track/4d9V3dfJOVRH047TtWVIEJ) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Jasmine Dreams](https://open.spotify.com/album/3qPOAKwH6qbvtE1TfJZPUj) | 3:10 | 2025-02-19 |  |
 | [Jeg længes](https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK) | [Paul Todnem](https://open.spotify.com/artist/6I2OAiM7l26aVxPJGJ5V0Q) | [Jeg længes](https://open.spotify.com/album/5QlKsBtLVfT2LkyRvEz2Lp) | 2:14 | 2023-10-18 | 2024-09-11 |
 | [Juniper Dreams](https://open.spotify.com/track/2ny13L1veunc7p6SCnvQ8K) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:06 | 2023-10-18 | 2024-09-11 |
+| [Just a Dream](https://open.spotify.com/track/5XlTJPnxj55pv32QcwM6B9) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Just a Dream](https://open.spotify.com/album/2gyrFBL9A81TZJv0Mgilym) | 2:19 | 2025-07-08 |  |
 | [Just One More Time](https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Just One More Time](https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0) | 3:16 | 2023-10-18 | 2024-10-02 |
 | [Just Passing By](https://open.spotify.com/track/51zL0hF9UCIToxItCojCRP) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Just Passing By](https://open.spotify.com/album/4naAhJ8qPaCcNd99DVrixB) | 2:02 | 2023-10-18 | 2025-04-09 |
-| [Just This Moment](https://open.spotify.com/track/37Tr5q6ySaPvAt6zrRo7qG) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Just This Moment](https://open.spotify.com/album/0Fh6shU6TT9Mb855NhUuGB) | 2:33 | 2025-05-20 |  |
+| [Just This Moment](https://open.spotify.com/track/37Tr5q6ySaPvAt6zrRo7qG) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Just This Moment](https://open.spotify.com/album/0Fh6shU6TT9Mb855NhUuGB) | 2:33 | 2025-05-20 | 2025-07-09 |
 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 | 2023-10-18 |  |
 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-10-18 | 2025-02-27 |
 | [Keys of the mountains](https://open.spotify.com/track/1w3FLtV4CGE1gZCXP2NtWC) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Keys of the mountains](https://open.spotify.com/album/236fA8DlkFs1wmaA7mJEnl) | 2:08 | 2023-10-18 | 2024-10-16 |
@@ -158,7 +160,7 @@
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-10-18 |  |
 | [Landet](https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Landet](https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9) | 2:06 | 2023-10-18 |  |
 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-10-18 |  |
-| [Lifestyle](https://open.spotify.com/track/0yh3jz4zWk3N9nliAqFqEn) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Lifestyle](https://open.spotify.com/album/2Wg959wMUN5HG8N5WH17RY) | 3:13 | 2025-01-07 |  |
+| [Lifestyle](https://open.spotify.com/track/0yh3jz4zWk3N9nliAqFqEn) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Lifestyle](https://open.spotify.com/album/2Wg959wMUN5HG8N5WH17RY) | 3:13 | 2025-01-07 | 2025-07-09 |
 | [Lift Me Up](https://open.spotify.com/track/0IBr2Sdv4JbwkEM8hEghn4) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Lift Me Up](https://open.spotify.com/album/08gbtfj8eeJjEXFehorp3m) | 2:12 | 2023-10-18 |  |
 | [Lightly](https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Lightly](https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2) | 2:07 | 2024-10-21 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-02-05 |  |
@@ -290,7 +292,7 @@
 | [Wieder Zusammen](https://open.spotify.com/track/7AqrZZG9hEeOJs9i6wzxFb) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Wieder Zusammen](https://open.spotify.com/album/7HI3M3BnOgeumeF5sfwo6j) | 3:11 | 2023-10-18 |  |
 | [Wind In My Hair](https://open.spotify.com/track/4N82ErjM4xuWYsRfPBqACk) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Wind In My Hair](https://open.spotify.com/album/2voHslwBPDj7eM3WJmy9pJ) | 2:05 | 2024-05-01 |  |
 | [Winona](https://open.spotify.com/track/3E8FaarMpFzi6HiSRUWSrV) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Winona](https://open.spotify.com/album/79UbHE7JTha6egAQMu4aiy) | 2:51 | 2023-10-18 |  |
-| [Within Reach](https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Within Reach](https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog) | 2:33 | 2025-04-02 |  |
+| [Within Reach](https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Within Reach](https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog) | 2:33 | 2025-04-02 | 2025-07-09 |
 | [Without You](https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Without You](https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR) | 2:37 | 2023-10-18 | 2025-04-09 |
 | [Woman traveling alone](https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Woman traveling alone](https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1) | 2:06 | 2023-10-18 | 2024-10-16 |
 | [Words Unspoken](https://open.spotify.com/track/6SDXe5YGDRwYncOl7pAEcu) | [Tomas Wilhelm](https://open.spotify.com/artist/6qibUXoNUClS6TmVSMHQ29) | [Words Unspoken](https://open.spotify.com/album/22IKWQ82aEqdzZWNF4MgD8) | 2:56 | 2023-10-18 |  |

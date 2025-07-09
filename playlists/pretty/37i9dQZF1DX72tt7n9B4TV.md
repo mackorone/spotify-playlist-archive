@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,725 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,733 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 33 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 |
 | 34 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 |
 | 35 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
-| 36 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 |
-| 37 | [Neon Pill](https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:21 |
+| 36 | [Neon Pill](https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:21 |
+| 37 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 |
 | 38 | [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Would You?](https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP) | 2:30 |
 | 39 | [Down to be wrong](https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg) | 4:09 |
 | 40 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 65 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
 | 66 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
 | 67 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
-| 68 | [sundays](https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [sundays](https://open.spotify.com/album/5oIO3BuotbdFVpulc9NUDi) | 3:51 |
-| 69 | [The Milkman](https://open.spotify.com/track/6N5s2LdgDrUNH0y7jfNXg7) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Milkman](https://open.spotify.com/album/5Jh1Rvb07bacdYGlDzqVgh) | 2:57 |
+| 68 | [The Milkman](https://open.spotify.com/track/6N5s2LdgDrUNH0y7jfNXg7) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Milkman](https://open.spotify.com/album/5Jh1Rvb07bacdYGlDzqVgh) | 2:57 |
+| 69 | [sundays](https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [sundays](https://open.spotify.com/album/5oIO3BuotbdFVpulc9NUDi) | 3:51 |
 | 70 | [Gruesome](https://open.spotify.com/track/0LQrHLDyxR9KDWYJZ6tOY3) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Gruesome](https://open.spotify.com/album/00m0oujS3jxWijICkCY2au) | 2:14 |
 | 71 | [Freak](https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 1:47 |
 | 72 | [Numb To What Is Real](https://open.spotify.com/track/3XxQGzWtSiawfLLsDqEH25) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Superheaven](https://open.spotify.com/album/3PAgZaonECR1PGhRg3YBVX) | 2:49 |

@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Sefo x Demet Akalın
 
-170 songs - 8 hr 36 min
+171 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,10 @@
 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-02-03 | 2025-07-01 |
 | [Açık Adres \- SAYGI1](https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Açık Adres \(SAYGI1\)](https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL) | 4:37 | 2024-12-16 | 2025-04-30 |
 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-04-29 |  |
+| [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 | 2025-07-08 |  |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 | 2025-05-13 |  |
 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-07-02 | 2024-11-26 |
-| [BALMAIN](https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BALMAIN](https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM) | 2:03 | 2025-05-13 |  |
+| [BALMAIN](https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BALMAIN](https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM) | 2:03 | 2025-05-13 | 2025-07-09 |
 | [Batık Gemi](https://open.spotify.com/track/3Gpffv3gaD1UxQPeElIjCp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 4:20 | 2024-07-02 | 2024-09-04 |
 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2024-07-02 | 2024-08-07 |
 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 | 2024-07-09 | 2024-11-07 |

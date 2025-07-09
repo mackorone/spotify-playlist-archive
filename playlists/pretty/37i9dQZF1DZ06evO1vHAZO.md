@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,569 likes - 38 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,574 likes - 37 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,19 +32,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 22 | [Go Let It Out](https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:38 |
 | 23 | [Married With Children \- Remastered](https://open.spotify.com/track/57bbMdaWpthoPTfuU9TFvQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 3:15 |
 | 24 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 |
-| 25 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
-| 26 | [Sad Song \- Mauldeth Road West Demo, Nov '92](https://open.spotify.com/track/52T65lyjsgArtoojwttcvU) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \(Mauldeth Road West Demo, Nov '92\)](https://open.spotify.com/album/089WE1Vmilp2odEqlfvpdl) | 4:34 |
+| 25 | [Sad Song \- Mauldeth Road West Demo, Nov '92](https://open.spotify.com/track/52T65lyjsgArtoojwttcvU) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \(Mauldeth Road West Demo, Nov '92\)](https://open.spotify.com/album/089WE1Vmilp2odEqlfvpdl) | 4:34 |
+| 26 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
 | 27 | [Let There Be Love](https://open.spotify.com/track/570oJcBwoLGZz95xTNa0JB) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:31 |
 | 28 | [I'm Outta Time](https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:10 |
 | 29 | [Rockin' Chair](https://open.spotify.com/track/0cinxoejsLL50k5BN8AQlK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:35 |
 | 30 | [I Hope, I Think, I Know \- Remastered](https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 4:22 |
-| 31 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
+| 31 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 |
 | 32 | [The Shock Of The Lightning](https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:59 |
 | 33 | [She Is Love](https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:09 |
 | 34 | [Stay Young \- Remastered](https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:07 |
-| 35 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 |
+| 35 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
 | 36 | [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 |
-| 37 | [Keep The Dream Alive](https://open.spotify.com/track/2F8rL049y0MZu9Fy5O7seA) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:45 |
-| 38 | [Where Did It All Go Wrong?](https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:26 |
+| 37 | [Where Did It All Go Wrong?](https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:26 |
 
-Snapshot ID: `aGm8gAAAAAAbQ/mVEJS+prkr4UXLtMu6`
+Snapshot ID: `aGsOAAAAAABfU8HXDkJZVCJGugUhEk7K`

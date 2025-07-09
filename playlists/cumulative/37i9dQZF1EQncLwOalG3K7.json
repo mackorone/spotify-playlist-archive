@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXOFNZmdXbvU>Aqeela Calista</a>, <a href=spotify:playlist:37i9dQZF1EIY684COnjuPO>Backstreet Boys</a>, <a href=spotify:playlist:37i9dQZF1EIYCwEpjSusKH>The Cardigans</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVBaqIGMARUo>Hande Yener</a>, <a href=spotify:playlist:37i9dQZF1EIY0Ub8VMIHL5>Marta Santos</a>, <a href=spotify:playlist:37i9dQZF1EIXD5kdhx3EIf>King Princess</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 267866,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 225360,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
@@ -1215,6 +1215,42 @@
     },
     {
       "album": {
+        "name": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor",
+        "url": "https://open.spotify.com/album/0co4E8uXbdpyFIBnId7Naa"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "K\u0131rm\u0131z\u0131",
+      "url": "https://open.spotify.com/track/1O8WpKURk9MawnBVJTjfxN"
+    },
+    {
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/3VYpfuijhWldwl2qnhBdBg"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134736,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/46dmazd1o2QIs1DfjyyTx5"
+    },
+    {
+      "album": {
         "name": "Withering",
         "url": "https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG"
       },
@@ -1360,7 +1396,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
@@ -1480,7 +1516,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 209776,
       "name": "Menunggu Cinta",
       "url": "https://open.spotify.com/track/0ZSt7rN9ILFOL23axrgfAJ"
@@ -1781,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "RIP KP",
+        "url": "https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138914,
+      "name": "RIP KP",
+      "url": "https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer"
+    },
+    {
+      "album": {
         "name": "Dream Your Life Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
       },
@@ -1904,7 +1958,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"

@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-811 songs - 1 day 11 hr 8 min
+813 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2021-12-07 | 2024-11-07 |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2021-12-07 | 2022-12-06 |
 | [Friedliebend](https://open.spotify.com/track/1DhBkcETHP709aHSpJozE7) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Friedliebend](https://open.spotify.com/album/0ErzD4yq39nTwzDwAIIfhy) | 2:12 | 2023-03-29 | 2025-04-10 |
+| [Frozen Flower](https://open.spotify.com/track/4WfY4hp9fBxqw4pVbiYoYb) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Frozen Flower](https://open.spotify.com/album/3gSPyAbHzv4UkOFHdkgKH9) | 3:21 | 2025-07-08 |  |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-07 | 2024-03-05 |
 | [Fugazy](https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Fugazy](https://open.spotify.com/album/7MVVUbmETVZkVsve5NOBM2) | 2:32 | 2021-12-07 | 2022-04-21 |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-02-15 | 2022-10-25 |
@@ -694,6 +695,7 @@
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2021-12-07 | 2022-08-10 |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 | 2022-09-13 |
 | [The Old Windmill](https://open.spotify.com/track/5YINZsov3qBPWjCEsWDDWX) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [The Old Windmill](https://open.spotify.com/album/441C9NGHHXjvEre4uFxUfn) | 2:02 | 2022-02-01 | 2022-10-25 |
+| [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/6SfRPNpx53bVHzG8dNvROF) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 | 2025-07-08 |  |
 | [The Remedy](https://open.spotify.com/track/3LYU4JAT6xnEufa2BBwe89) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [The Remedy](https://open.spotify.com/album/6SNyV83OijPvIMf7BKxySb) | 2:54 | 2021-12-07 | 2022-10-05 |
 | [The right direction](https://open.spotify.com/track/1FSjVUQVSg4SDlQBEHohVI) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [The right direction](https://open.spotify.com/album/4rjamANRGSZLJ7JVLF8ujO) | 2:08 | 2025-02-28 |  |
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-12-07 | 2022-07-20 |

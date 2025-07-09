@@ -4,7 +4,7 @@
 
 > 
 
-7,422 songs - 19 day 6 hr 35 min
+7,423 songs - 19 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1695,7 +1695,7 @@
 | [Eternal Love](https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [White](https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi) | 4:09 | 2025-01-03 |  |
 | [Ether](https://open.spotify.com/track/06UPCXzhIsXnceSXmKLMEY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Stillmatic](https://open.spotify.com/album/0cLzuJG2UDa0axMQkF7JR6) | 4:37 | 2025-01-04 |  |
 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 | 2025-01-03 |  |
-| [Eucalyptus](https://open.spotify.com/track/0pcg2zZQOw0G0ZYbjS6smW) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Metal Fingers Presents: Special Herbs, Vol\. 1 & 2](https://open.spotify.com/album/6Lb2W6WHB61chKy3HK3dMX) | 2:43 | 2025-01-04 |  |
+| [Eucalyptus](https://open.spotify.com/track/0pcg2zZQOw0G0ZYbjS6smW) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Metal Fingers Presents: Special Herbs Vol\. 1 & 2](https://open.spotify.com/album/6Lb2W6WHB61chKy3HK3dMX) | 2:43 | 2025-01-04 |  |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2025-01-03 |  |
 | [Euphoria \(feat\. Travis Scott & Kaash Paige\)](https://open.spotify.com/track/13QU8HBEBaSTZGq1HzQe9S) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:36 | 2025-01-03 |  |
 | [Eurachacha](https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Have A Nice Dream](https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47) | 4:16 | 2025-01-15 |  |
@@ -3770,6 +3770,7 @@
 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 | 2025-04-24 |  |
 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2025-01-03 |  |
 | [MOONLIGHT](https://open.spotify.com/track/40GcnuIqbV9ynA0rPDbxT4) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 3:11 | 2024-12-15 |  |
+| [MOONLIGHT](https://open.spotify.com/track/14k4ALBLN2FjtELYDcQUoi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:39 | 2025-07-08 |  |
 | [Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:15 | 2025-01-15 |  |
 | [moonlight boy](https://open.spotify.com/track/3QLaYOmG5rEvIgIJ90nhXd) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Third Eye](https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz) | 4:00 | 2024-12-14 |  |
 | [Moonlight in Mondstadt](https://open.spotify.com/track/0ZHraW0fHE8br6Hw1ekRXy) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 0:49 | 2025-03-23 |  |

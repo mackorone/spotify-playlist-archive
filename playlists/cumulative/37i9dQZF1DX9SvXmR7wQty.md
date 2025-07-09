@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Olivier Dion
 
-3,394 songs - 7 day 11 hr 30 min
+3,395 songs - 7 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1594,7 +1594,7 @@
 | [La Masia](https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [La Masia](https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS) | 2:22 | 2023-03-24 | 2023-04-22 |
 | [La mauvaise question](https://open.spotify.com/track/6KYNFAa4z1GJYnAkDf9Gyw) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Si l'essentiel c'est d'être aimé / La mauvaise question](https://open.spotify.com/album/7vaSzxNrZe41hcNtz472qu) | 3:49 | 2025-01-17 | 2025-01-25 |
 | [La Maxance](https://open.spotify.com/track/6yP8ZNACztmI2UfAfw9sQO) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La Maxance](https://open.spotify.com/album/3EdRFF6vufkL9fjyoZWqFu) | 2:31 | 2022-05-20 | 2022-06-04 |
-| [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 | 2025-05-23 |  |
+| [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 | 2025-05-23 | 2025-07-09 |
 | [La Meilleure](https://open.spotify.com/track/5fEC4YAZALInwKuqwHytir) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [La Meilleure](https://open.spotify.com/album/3J0wjJ5gzCsWdCtWXm9xUK) | 2:45 | 2022-03-25 | 2022-04-09 |
 | [La mer rose](https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Fantaisie](https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG) | 2:27 | 2025-02-07 | 2025-02-22 |
 | [La missive](https://open.spotify.com/track/1gyz0BM3BISwLNfyviZGpz) | [Paradox](https://open.spotify.com/artist/6A3k4n3B2NbltmxGZ1SW4y), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [La missive](https://open.spotify.com/album/2E6aVszzBEf0ewHrcmgEAy) | 3:23 | 2023-03-24 | 2023-04-16 |
@@ -3021,6 +3021,7 @@
 | [Tipatshimushtunan](https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Allan Nabinacaboo](https://open.spotify.com/artist/18oZ6SjjkZ57N1kZZ6u2hT) | [Tipatshimushtunan](https://open.spotify.com/album/6N3926ij2Mfo7hZF41Rlca) | 3:40 | 2022-07-01 | 2022-07-23 |
 | [Tise & Ken](https://open.spotify.com/track/254mSu5mvfeomdx79F1rdB) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [En Attendant Paphos](https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me) | 3:08 | 2025-02-21 | 2025-04-26 |
 | [Tit'souite](https://open.spotify.com/track/7ApiyLZOAueIeptD8rebbW) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [Tit'souite](https://open.spotify.com/album/775aLAglg7wbZxaGCYP7wb) | 3:09 | 2023-07-14 | 2023-07-22 |
+| [Tkt Pas](https://open.spotify.com/track/6gSSir2CTJjYEt0wrp54rf) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Tkt Pas](https://open.spotify.com/album/6sal5rV4BnYkvAk9HZkzQL) | 2:50 | 2025-07-04 |  |
 | [Toi](https://open.spotify.com/track/1g2NGyu1fL7B5RipZgmFNY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Toi](https://open.spotify.com/album/5JQodTDUxGraUtOXeYwIpV) | 3:11 | 2022-08-26 | 2022-09-10 |
 | [Toi & Moi](https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Toi & Moi](https://open.spotify.com/album/1ZOY0RIkEEp9KPasfdQTvU) | 2:42 | 2024-05-24 | 2024-06-02 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-18 | 2022-04-02 |

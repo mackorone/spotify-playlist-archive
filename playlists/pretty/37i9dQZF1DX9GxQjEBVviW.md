@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,350 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,403 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 46 | [My True Story \- Digitally Remastered](https://open.spotify.com/track/3V3FNxI4qfqtJUN6NYfE81) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Collectors Gold Series](https://open.spotify.com/album/1fP6tO7l2L2z68myCVAaE4) | 2:35 |
 | 47 | [Earth Angel](https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Original Hit Recording \- Earth Angel](https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ) | 2:58 |
 | 48 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
-| 49 | [Crying In The Chapel](https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [The Orioles 1947\-1955](https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa) | 3:08 |
-| 50 | [Love Potion No\. 9](https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 1:52 |
+| 49 | [16 Candles](https://open.spotify.com/track/4FgGZFdLekTIjocfAu9Mxd) | [The Crests](https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U) | [Jukebox One Hit Wonders](https://open.spotify.com/album/7DtncHfVoKT9zAuP5s6FHE) | 2:52 |
+| 50 | [Crying In The Chapel](https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [The Orioles 1947\-1955](https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa) | 3:08 |
 
 Snapshot ID: `ZpO4VAAAAADBtQEepEBDHXPnrbkYtK1x`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Jane Handcock
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,193 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,271 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 43 | [Apollo](https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:43 |
 | 44 | [Golden](https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/2w9BYQcL8keWGjEHSJRwa9) | 3:51 |
 | 45 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 |
-| 46 | [Hold Me](https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 3:07 |
-| 47 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
+| 46 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
+| 47 | [Hold Me](https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 3:07 |
 | 48 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 |
 | 49 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 |
 | 50 | [Lifetime \- 2021 Remaster](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 56 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
 | 57 | [MoveOn](https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 2:47 |
 | 58 | [Find A Way](https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 4:09 |
-| 59 | [Sweet Little Rainbows](https://open.spotify.com/track/3gOSDkunPRtxksTi0Gxq81) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/7f0UvHSC6XjlmO1HMR5iId) | 3:43 |
-| 60 | [Man Of The Universe](https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:09 |
+| 59 | [Man Of The Universe](https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:09 |
+| 60 | [Sweet Little Rainbows](https://open.spotify.com/track/3gOSDkunPRtxksTi0Gxq81) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/7f0UvHSC6XjlmO1HMR5iId) | 3:43 |
 | 61 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 |
 | 62 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 63 | [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 |

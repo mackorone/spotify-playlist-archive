@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,409,188 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,408,780 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 54 | [October \(October Version\)](https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [October \(October Version\)](https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse) | 4:37 |
 | 55 | [Heavy](https://open.spotify.com/track/1jzo5QmpKa8eLSF3NOJzPe) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 4:24 |
 | 56 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 |
-| 57 | [Caesar Knows](https://open.spotify.com/track/7IkZ5KtGsJ95M5rrpdmscs) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Caesar Knows](https://open.spotify.com/album/0AAfuLbM9duV4zcHWaDNKG) | 2:36 |
-| 58 | [Come Find Me](https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Eric Straube](https://open.spotify.com/artist/1JqWg1y0s3ZAqHYbfuAAJZ), [Chris Qualls](https://open.spotify.com/artist/1Q0uAs7926hdflLJ58XUvZ) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
+| 57 | [Come Find Me](https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Eric Straube](https://open.spotify.com/artist/1JqWg1y0s3ZAqHYbfuAAJZ), [Chris Qualls](https://open.spotify.com/artist/1Q0uAs7926hdflLJ58XUvZ) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
+| 58 | [Caesar Knows](https://open.spotify.com/track/7IkZ5KtGsJ95M5rrpdmscs) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Caesar Knows](https://open.spotify.com/album/0AAfuLbM9duV4zcHWaDNKG) | 2:36 |
 | 59 | [Banshee Moan](https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Black Irish](https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl) | 4:01 |
 | 60 | [Borderline](https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Borderline](https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ) | 3:14 |
 | 61 | [People Talking](https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ) | [Robert John Ardiff](https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7) | [Between the Bed and Room](https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6) | 3:56 |
 | 62 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
-| 63 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
-| 64 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
+| 63 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
+| 64 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 65 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 66 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 |
 | 67 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 82 | [Daniel](https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Daniel](https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb) | 3:40 |
 | 83 | [Born at the Right Time](https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Born at the Right Time](https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x) | 3:44 |
 | 84 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
-| 85 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |
-| 86 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
+| 85 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
+| 86 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |
 | 87 | [Disposable](https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Disposable](https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH) | 3:37 |
 | 88 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 89 | [Not Like It Was](https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Not Like It Was](https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT) | 2:55 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 94 | [Lovely](https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey) | [Lauren Jones](https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va) | [Lovely](https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R) | 3:45 |
 | 95 | [Fields of Gold](https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:31 |
 | 96 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 |
-| 97 | [Waste Your Time](https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 3:36 |
-| 98 | [Green Eyes](https://open.spotify.com/track/0OITYpks3EGmXNRkDuN8kd) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Trio Sessions \(Vol\. 2\)](https://open.spotify.com/album/1tfYtFAuSgcFAyzDqKfCxx) | 3:55 |
+| 97 | [Green Eyes](https://open.spotify.com/track/0OITYpks3EGmXNRkDuN8kd) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Trio Sessions \(Vol\. 2\)](https://open.spotify.com/album/1tfYtFAuSgcFAyzDqKfCxx) | 3:55 |
+| 98 | [Waste Your Time](https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 3:36 |
 | 99 | [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 |
 | 100 | [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 |
 

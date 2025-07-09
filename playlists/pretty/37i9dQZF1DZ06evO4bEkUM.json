@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 938456,
+  "num_followers": 938627,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABZqhUY89GPwG30z74v/HtJ",
+  "snapshot_id": "aGsOAAAAAAAFbMwvObYTr4f70VrQeIk1",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 206700,
-      "name": "This Is Why",
-      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+      "duration_ms": 240040,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
+      "duration_ms": 206700,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Caught in the Middle",
-      "url": "https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 52600,
       "name": "Interlude: I'm Not Angry Anymore",
       "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Caught in the Middle",
+      "url": "https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 239173,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Down the House",
-        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 223280,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 234448,
       "name": "You First (Re: Remi Wolf)",
       "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn"
     },
     {
       "added_at": null,

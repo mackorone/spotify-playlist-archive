@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,013 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,016 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 49 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 |
 | 50 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
 
-Snapshot ID: `aGm8gAAAAACgvZl8f9z7HSv6fuJMqbay`
+Snapshot ID: `aGsOAAAAAABUZi75y27G3+5FCyiEurWf`

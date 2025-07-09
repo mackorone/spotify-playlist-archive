@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1070832,
+  "num_followers": 1070444,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -353,38 +353,6 @@
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
-    },
-    {
       "added_at": "2025-07-07 07:45:11",
       "album": {
         "name": "On My Mind",
@@ -403,6 +371,22 @@
       "duration_ms": 189557,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -431,6 +415,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
-    },
-    {
-      "added_at": "2025-07-07 07:45:11",
-      "album": {
-        "name": "Virgin",
-        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 257065,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -507,6 +491,22 @@
       "duration_ms": 225211,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "added_at": "2025-07-07 07:45:11",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 257065,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
+      "added_at": "2025-07-07 07:45:11",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 176829,
+      "name": "If She Could See Me Now",
+      "url": "https://open.spotify.com/track/75GHF6q3DHtjNDVISy62rk"
+    },
+    {
       "added_at": "2025-05-29 22:00:25",
       "album": {
         "name": "southbound / test drive",
@@ -639,22 +655,6 @@
       "duration_ms": 137923,
       "name": "southbound",
       "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Momma Song",
-        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Momma Song",
-      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -705,20 +705,20 @@
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
     },
     {
-      "added_at": "2025-07-07 07:45:11",
+      "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Virgin",
-        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 176829,
-      "name": "If She Could See Me Now",
-      "url": "https://open.spotify.com/track/75GHF6q3DHtjNDVISy62rk"
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -801,24 +801,20 @@
       "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
     },
     {
-      "added_at": "2025-05-29 22:00:25",
+      "added_at": "2025-07-07 07:45:11",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+      "duration_ms": 190124,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -845,20 +841,24 @@
       "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
     },
     {
-      "added_at": "2025-07-07 07:45:11",
+      "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "I've Tried Everything But Therapy (Complete Edition)",
-        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 190124,
-      "name": "Need You More",
-      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-07-07 07:45:11",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "CUNTISSIMO",
-        "url": "https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 240963,
-      "name": "CUNTISSIMO",
-      "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "SMOKE THE PAIN AWAY",
         "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 162772,
       "name": "SMOKE THE PAIN AWAY",
       "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "CUNTISSIMO",
+        "url": "https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 240963,
+      "name": "CUNTISSIMO",
+      "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Relationships",
-        "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
+        "name": "If That Makes Sense",
+        "url": "https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
+      "duration_ms": 178304,
+      "name": "Whateverrrr",
+      "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "Mind Reader (with Meghan Trainor)",
         "url": "https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 151810,
       "name": "Mind Reader (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "If That Makes Sense",
-        "url": "https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 178304,
-      "name": "Whateverrrr",
-      "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1613,20 +1613,20 @@
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
-      "added_at": "2025-05-29 22:00:25",
+      "added_at": "2025-07-07 07:45:11",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK"
+        "name": "new friends",
+        "url": "https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 187009,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F"
+      "duration_ms": 165668,
+      "name": "new friends",
+      "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1645,20 +1645,36 @@
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     },
     {
-      "added_at": "2025-07-07 07:45:11",
+      "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "new friends",
-        "url": "https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt"
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 165668,
-      "name": "new friends",
-      "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
+      "duration_ms": 187009,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "The Reaper",
+        "url": "https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "The Reaper",
+      "url": "https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1679,22 +1695,6 @@
       "duration_ms": 191162,
       "name": "Fire and Gasoline - A COLORS ENCORE",
       "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "The Reaper",
-        "url": "https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "The Reaper",
-      "url": "https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC"
     }
   ],
   "unique_name": "Pop Right Now",

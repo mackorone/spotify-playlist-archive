@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 363860,
+  "num_followers": 363868,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAYF3Qg2Ns3CORqi+CHcsnA",
+  "snapshot_id": "aGsOAAAAAACBmrgv+TPYPF0FFTZ5Zr7X",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En 4",
-        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "En 4",
-      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AyMami",
         "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 164131,
       "name": "AyMami",
       "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En 4",
+        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "En 4",
+      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 170318,
-      "name": "Shillin'",
-      "url": "https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL"
+      "duration_ms": 165090,
+      "name": "Morir de Amor",
+      "url": "https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 165090,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs"
+      "duration_ms": 170318,
+      "name": "Shillin'",
+      "url": "https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL"
     },
     {
       "added_at": null,

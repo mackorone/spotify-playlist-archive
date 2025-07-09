@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:4uqHgaeBynLBQgfhMEIm1G">PLUTO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,987 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,025 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 7 | [Play This At My Funeral \(feat\. Polo G\)](https://open.spotify.com/track/18DirfOJqccIkUhpM7xGei) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Play This At My Funeral \(feat\. Polo G\)](https://open.spotify.com/album/1fQPG4pKNciAdSXZUeMqFA) | 3:06 |
 | 8 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 | 9 | [TRIPPIN](https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [TRIPPIN](https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q) | 2:05 |
-| 10 | [Cant Go Broke Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke Remix](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
+| 10 | [Cant Go Broke \- Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke \(Remix\)](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
 | 11 | [Take Her Down](https://open.spotify.com/track/6VKn4n4FoI0Ktx7M6eIh99) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Take Her Down](https://open.spotify.com/album/2W0MQtufPFPzM3m4GuRyzz) | 3:15 |
 | 12 | [Pookie Lean](https://open.spotify.com/track/2kIU0TblZjK5HtCaqjxD6d) | [42kbrook/Pookielean](https://open.spotify.com/artist/55nDUxayNpbLPLiQB1d0vO) | [Pookie Lean](https://open.spotify.com/album/3T9lKq6yYz5FH8HqBiPVzb) | 4:29 |
 | 13 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |

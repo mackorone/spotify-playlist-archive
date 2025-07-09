@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 120734,
       "name": "Aegean",
       "url": "https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 137035,
       "name": "Algo Lento",
       "url": "https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 148323,
       "name": "Cidade Velha",
       "url": "https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 154228,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2"
@@ -4540,6 +4540,24 @@
     {
       "album": {
         "name": "Finally Home",
+        "url": "https://open.spotify.com/album/0SV6oxYQCM2AnaAWrPhjpn"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kahnberg",
+          "url": "https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144217,
+      "name": "Finally Home",
+      "url": "https://open.spotify.com/track/1Qy7Uz4avfS6W295hIV5pH"
+    },
+    {
+      "album": {
+        "name": "Finally Home",
         "url": "https://open.spotify.com/album/7p32mbdnUWUY50DzktIjzw"
       },
       "artists": [
@@ -4968,7 +4986,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 129595,
       "name": "Gambrels of the Sky",
       "url": "https://open.spotify.com/track/6AYKnVV6OEgnOreURn48Kt"
@@ -5184,7 +5202,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 134143,
       "name": "Grounded Feeling",
       "url": "https://open.spotify.com/track/5qJQQ68wNZLzDWn0KRlj1h"
@@ -8818,7 +8836,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 128791,
       "name": "Noir",
       "url": "https://open.spotify.com/track/2rhczOkABR6IuzCFTt3FGc"
@@ -8872,7 +8890,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 135499,
       "name": "Northampton",
       "url": "https://open.spotify.com/track/641ejBDOuSGp3V8ewDRCoZ"
@@ -12692,7 +12710,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 142306,
       "name": "The King Of Time",
       "url": "https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg"

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,290 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,391 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
-| 2 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
+| 1 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
+| 2 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 3 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 |
 | 4 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
 | 5 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 70 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 |
 | 71 | [san blaS](https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 2:28 |
 | 72 | [Te Imaginaba](https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Te Imaginaba](https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU) | 2:38 |
-| 73 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
-| 74 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 |
+| 73 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 |
+| 74 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
 | 75 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 |
 | 76 | [Brinca \(Acuario\)](https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl) | 3:39 |
 | 77 | [Tokome](https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tokome](https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo) | 2:37 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 91 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 92 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 |
 | 93 | [PLIS](https://open.spotify.com/track/1regh1ryWna3MRTKu401uD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:42 |
-| 94 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
-| 95 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 94 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 95 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
 | 96 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 |
 | 97 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 |
 | 98 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |

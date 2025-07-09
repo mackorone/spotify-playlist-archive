@@ -1,6 +1,6 @@
 {
   "description": "My name is pink ",
-  "num_followers": 759421,
+  "num_followers": 760274,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Choose Your Fighter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 232933,
       "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
       "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Choose Your Fighter (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 137514,
-      "name": "Choose Your Fighter (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
     },
     {
       "added_at": "2024-08-03 15:31:45",

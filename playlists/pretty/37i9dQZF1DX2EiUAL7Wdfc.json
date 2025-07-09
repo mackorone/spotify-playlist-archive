@@ -1,6 +1,6 @@
 {
   "description": "Los temas que se convertir\u00e1n en himnos.",
-  "num_followers": 520244,
+  "num_followers": 520714,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2025-04-14 16:17:37",
-      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 246000,
       "name": "Hasta Que Dios Diga",
       "url": "https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"
+    },
+    {
+      "added_at": "2025-04-14 16:17:37",
+      "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2025-04-14 16:17:37",
@@ -555,30 +555,6 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
-    },
-    {
-      "added_at": "2025-04-14 16:17:37",
-      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -611,18 +587,26 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "added_at": "2025-04-14 16:17:37",
@@ -639,6 +623,22 @@
       "duration_ms": 186133,
       "name": "Hecha Pa' Mi",
       "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2025-04-14 16:17:37",
+      "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2025-04-14 16:17:37",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "added_at": "2025-04-14 16:17:37",
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
-    },
-    {
-      "added_at": "2025-04-14 16:17:37",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "added_at": "2025-04-14 16:17:37",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2025-04-14 16:17:37",
@@ -839,22 +855,6 @@
       "duration_ms": 215600,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2025-04-14 16:17:37",
-      "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2025-04-14 16:17:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
-    },
-    {
-      "added_at": "2025-04-14 16:17:37",
-      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -1107,22 +1091,18 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
       },
       "artists": [
         {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
     },
     {
       "added_at": "2025-04-14 16:17:37",
@@ -1139,6 +1119,26 @@
       "duration_ms": 222560,
       "name": "Reggaet\u00f3n Lento (Bailemos)",
       "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
+    },
+    {
+      "added_at": "2025-04-14 16:17:37",
+      "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2025-04-14 16:17:37",
@@ -1835,22 +1835,18 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+        "name": "Slow Wine Mixtape",
+        "url": "https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+      "duration_ms": 247500,
+      "name": "Fiebre - Prod. King DouDou",
+      "url": "https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o"
     },
     {
       "added_at": "2025-04-14 16:17:37",
@@ -1879,18 +1875,22 @@
     {
       "added_at": "2025-04-14 16:17:37",
       "album": {
-        "name": "Slow Wine Mixtape",
-        "url": "https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas"
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Fiebre - Prod. King DouDou",
-      "url": "https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o"
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2025-04-14 16:17:37",

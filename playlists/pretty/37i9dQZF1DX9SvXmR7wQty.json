@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Olivier Dion",
-  "num_followers": 45402,
+  "num_followers": 45404,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2025-07-04 13:16:59",
       "album": {
-        "name": "PAY!",
-        "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 130699,
-      "name": "PAY!",
-      "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
-    },
-    {
-      "added_at": "2025-07-04 13:16:59",
-      "album": {
         "name": "R.A.T",
         "url": "https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 230813,
       "name": "Crime ensoleill\u00e9",
       "url": "https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc"
+    },
+    {
+      "added_at": "2025-07-04 13:16:59",
+      "album": {
+        "name": "PAY!",
+        "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 130699,
+      "name": "PAY!",
+      "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
     },
     {
       "added_at": "2025-07-04 13:16:59",
@@ -683,18 +683,22 @@
     {
       "added_at": "2025-07-04 13:16:59",
       "album": {
-        "name": "Assimile",
-        "url": "https://open.spotify.com/album/3Acy5qBjhvSz5AvZorkPwM"
+        "name": "HAYATI (Episode 1 : Du sable et du sang)",
+        "url": "https://open.spotify.com/album/5DSAu517doRjS2AxNPfDSd"
       },
       "artists": [
         {
           "name": "Niro",
           "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 203797,
-      "name": "Assimile",
-      "url": "https://open.spotify.com/track/7702drWPEIEBFoFbEenCLx"
+      "duration_ms": 178200,
+      "name": "Plus pareil (feat. Gazo)",
+      "url": "https://open.spotify.com/track/51OxkEhk8CwEhBl6xxJn2L"
     },
     {
       "added_at": "2025-07-04 13:16:59",
@@ -771,22 +775,34 @@
     {
       "added_at": "2025-07-04 13:16:59",
       "album": {
-        "name": "HAYATI (Episode 1 : Du sable et du sang)",
-        "url": "https://open.spotify.com/album/5DSAu517doRjS2AxNPfDSd"
+        "name": "Assimile",
+        "url": "https://open.spotify.com/album/3Acy5qBjhvSz5AvZorkPwM"
       },
       "artists": [
         {
           "name": "Niro",
           "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Plus pareil (feat. Gazo)",
-      "url": "https://open.spotify.com/track/51OxkEhk8CwEhBl6xxJn2L"
+      "duration_ms": 203797,
+      "name": "Assimile",
+      "url": "https://open.spotify.com/track/7702drWPEIEBFoFbEenCLx"
+    },
+    {
+      "added_at": "2025-07-04 13:16:59",
+      "album": {
+        "name": "BANGER",
+        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "BANGER",
+      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
     },
     {
       "added_at": "2025-07-04 13:16:59",
@@ -827,6 +843,22 @@
     {
       "added_at": "2025-07-04 13:16:59",
       "album": {
+        "name": "Tant qu'on est toi et moi",
+        "url": "https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "Tant qu'on est toi et moi",
+      "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"
+    },
+    {
+      "added_at": "2025-07-04 13:16:59",
+      "album": {
         "name": "Piments",
         "url": "https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX"
       },
@@ -847,22 +879,6 @@
     {
       "added_at": "2025-07-04 13:16:59",
       "album": {
-        "name": "Tant qu'on est toi et moi",
-        "url": "https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "Tant qu'on est toi et moi",
-      "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"
-    },
-    {
-      "added_at": "2025-07-04 13:16:59",
-      "album": {
         "name": "\u00c9B\u0112M",
         "url": "https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s"
       },
@@ -875,58 +891,6 @@
       "duration_ms": 211306,
       "name": "Dans 10 ans",
       "url": "https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS"
-    },
-    {
-      "added_at": "2025-07-04 13:16:59",
-      "album": {
-        "name": "BANGER",
-        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "BANGER",
-      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
-    },
-    {
-      "added_at": "2025-07-04 13:16:59",
-      "album": {
-        "name": "Nouveau jour",
-        "url": "https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 126146,
-      "name": "Nouveau jour",
-      "url": "https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi"
-    },
-    {
-      "added_at": "2025-07-04 13:16:59",
-      "album": {
-        "name": "LA MEILLEURE",
-        "url": "https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 129130,
-      "name": "LA MEILLEURE",
-      "url": "https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0"
     },
     {
       "added_at": "2025-07-04 13:16:59",
@@ -947,6 +911,38 @@
       "duration_ms": 160891,
       "name": "Kappa",
       "url": "https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr"
+    },
+    {
+      "added_at": "2025-07-04 13:16:59",
+      "album": {
+        "name": "Tkt Pas",
+        "url": "https://open.spotify.com/album/6sal5rV4BnYkvAk9HZkzQL"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 170499,
+      "name": "Tkt Pas",
+      "url": "https://open.spotify.com/track/6gSSir2CTJjYEt0wrp54rf"
+    },
+    {
+      "added_at": "2025-07-04 13:16:59",
+      "album": {
+        "name": "Nouveau jour",
+        "url": "https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 126146,
+      "name": "Nouveau jour",
+      "url": "https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

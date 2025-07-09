@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,237 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,301 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 29 | [Nightfall](https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:32 |
 | 30 | [Last Look](https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 4:36 |
 | 31 | [Sunshine](https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF) | [Gordon James](https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz) | [In Joy](https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43) | 5:05 |
-| 32 | [Nice And Easy](https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:23 |
-| 33 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
+| 32 | [Brazilia](https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Face To Face \(US Version\)](https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8) | 3:58 |
+| 33 | [Nice And Easy](https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:23 |
 | 34 | [Love's Serenade](https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS) | [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Dance Of The Soul](https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh) | 4:31 |
-| 35 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
-| 36 | [Brazilia](https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Face To Face \(US Version\)](https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8) | 3:58 |
+| 35 | [Sweet Love](https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Najee's Theme](https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a) | 4:44 |
+| 36 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
 | 37 | [Fields of Gold](https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:40 |
 | 38 | [The Ride](https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Someone To Love You](https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B) | 4:50 |
 | 39 | [I Wanna Be Where You Are](https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Dennis Johnson](https://open.spotify.com/artist/4u2zMyt9wCVY1OipyXEB4y), [Armando Marçal](https://open.spotify.com/artist/4TjS37y1cLMvQbEumiAZ7C) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:46 |
-| 40 | [Sweet Love](https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Najee's Theme](https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a) | 4:44 |
+| 40 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
 | 41 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
 | 42 | [Angel In Paris](https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Flipside](https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd) | 5:12 |
 | 43 | [Anything and Everything](https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 4:54 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 47 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
 | 48 | [Puerto Banus](https://open.spotify.com/track/5aWFVn8VxQcoV5QtjFrZ28) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 4](https://open.spotify.com/album/59EZIGuewk99mkPphgvBRS) | 3:46 |
 | 49 | [Without Your Love](https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 4:48 |
-| 50 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
-| 51 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
-| 52 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
+| 50 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
+| 51 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
+| 52 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
 | 53 | [I Just Can't Let Go](https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [For The Love](https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp) | 4:40 |
 | 54 | [Dreamwalk](https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Excusez\-Moi](https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA) | 5:56 |
 | 55 | [Soul Express](https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:38 |

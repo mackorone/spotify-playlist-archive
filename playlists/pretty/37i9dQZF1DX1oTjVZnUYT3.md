@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,122 likes - 57 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,138 likes - 57 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 11 | [Mistério do Planeta](https://open.spotify.com/track/3TAMiM8XFmU9vFd333pgRh) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:37 |
 | 12 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 13 | [Água de Beber](https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 2:36 |
-| 14 | [Malandragem dá um Tempo](https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no) | [Bezerra Da Silva](https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt) | [Alô Malandragem Maloca o Flagrante](https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO) | 3:52 |
-| 15 | [Sou Teu Fã](https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Sou Teu Fã](https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd) | 2:50 |
+| 14 | [Sou Teu Fã](https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Sou Teu Fã](https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd) | 2:50 |
+| 15 | [Malandragem dá um Tempo](https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no) | [Bezerra Da Silva](https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt) | [Alô Malandragem Maloca o Flagrante](https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO) | 3:52 |
 | 16 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
 | 17 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 |
 | 18 | [Tropicana \(Morena Tropicana\)](https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 3:51 |
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 54 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
 | 55 | [Eu Vou Fazer Você Voar](https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Eu Vou Fazer Você Voar](https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF) | 3:36 |
 | 56 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
-| 57 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 57 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
 
 Snapshot ID: `ZIxVtQAAAACDu1KRbOtvJgJDIqy62VzE`

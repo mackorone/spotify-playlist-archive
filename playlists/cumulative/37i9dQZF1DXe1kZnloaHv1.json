@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "The 1st full album [BLISS]",
+        "url": "https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Nobody Knows It",
+      "url": "https://open.spotify.com/track/0vuoatM8LzFAacNflEPb98"
+    },
+    {
+      "album": {
         "name": "NOTHIN'",
         "url": "https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1"
       },
@@ -1554,6 +1572,28 @@
       "duration_ms": 170680,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/4znMAwSb5JrHcxLyXukcu9"
+    },
+    {
+      "album": {
+        "name": "The Lament of a Ghost Who Dreamed of Wealth (feat. Kim Myungjun)",
+        "url": "https://open.spotify.com/album/7EomTHaYJJlNp1CKzwDCYW"
+      },
+      "artists": [
+        {
+          "name": "The Shinbi House",
+          "url": "https://open.spotify.com/artist/4TFCOk1S65SgCVHL5mrsQn"
+        },
+        {
+          "name": "Kim Myungjun",
+          "url": "https://open.spotify.com/artist/0rxiCyKtPqXEvijEh1VIOR"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "The Lament of a Ghost Who Dreamed of Wealth (feat. Kim Myungjun)",
+      "url": "https://open.spotify.com/track/4FqnKA4lAAwXXIiBKjcRVs"
     },
     {
       "album": {

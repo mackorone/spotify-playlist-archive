@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-599 songs - 1 day 8 hr 59 min
+600 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [Mama](https://open.spotify.com/track/016mggZAtUrDvsrEV6rMYj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:08 | 2024-02-27 |  |
 | [MANGO LOVE \(feat\. Satica\)](https://open.spotify.com/track/6NDZdloxCVCDpbOuqKlCOm) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [MANGOTALE](https://open.spotify.com/album/2Xk4f4SBqao4quex0MFLy3) | 3:03 | 2024-02-27 |  |
 | [MARBLE TEA](https://open.spotify.com/track/71rhKCdkNgUgHCMMiMeuKJ) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY) | [MANGOTALE](https://open.spotify.com/album/2Xk4f4SBqao4quex0MFLy3) | 2:25 | 2024-02-27 |  |
-| [Matches](https://open.spotify.com/track/2ZUJj80Mfmj13MKJXf9pnP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Glory \(Deluxe\)](https://open.spotify.com/album/0HNwkSSzXvc50qL1sM99oJ) | 2:52 | 2024-02-27 |  |
+| [Matches](https://open.spotify.com/track/2ZUJj80Mfmj13MKJXf9pnP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Glory \(Deluxe\)](https://open.spotify.com/album/0HNwkSSzXvc50qL1sM99oJ) | 2:52 | 2024-02-27 | 2025-07-09 |
+| [Matches](https://open.spotify.com/track/5x0ON9RTinvk06U7SwLXjW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 2:52 | 2025-07-08 |  |
 | [Me & The Rhythm](https://open.spotify.com/track/4a32Q7bRtWDGSEMbyWKIlj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:33 | 2024-02-27 |  |
 | [Me Without You](https://open.spotify.com/track/02XUnEfZexXh9bj66FeK4Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:33 | 2024-02-27 |  |
 | [Mean Girls](https://open.spotify.com/track/5u9BcWGR5e1VlXPU0SY8OT) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:36 | 2025-06-30 |  |

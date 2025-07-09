@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 132239,
+  "num_followers": 132248,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABWaKzT5TM6AnqjzDx5L7cl",
+  "snapshot_id": "aGsOAAAAAAAHQQtzgFeR9ZMURoransij",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "Thirty Days",
-      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 142440,
       "name": "Let's Do Our Thing Together",
       "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "Thirty Days",
+      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
     },
     {
       "added_at": null,

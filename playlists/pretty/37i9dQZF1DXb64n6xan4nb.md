@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,996 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,010 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 37 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
 | 38 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 |
 | 39 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
-| 40 | [sweet little kitty](https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Made In Korea?](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) | 3:50 |
-| 41 | [당신은...나는 바보 입니다 \- Acoustic Version](https://open.spotify.com/track/01lS0GX5TV41xmUN2uGRP5) | [Stay](https://open.spotify.com/artist/2MENR0a1rBKNl7bWPPEth1) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:18 |
+| 40 | [당신은...나는 바보 입니다 \- Acoustic Version](https://open.spotify.com/track/01lS0GX5TV41xmUN2uGRP5) | [Stay](https://open.spotify.com/artist/2MENR0a1rBKNl7bWPPEth1) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:18 |
+| 41 | [sweet little kitty](https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Made In Korea?](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) | 3:50 |
 | 42 | [It's love](https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg) | [Mose](https://open.spotify.com/artist/33E9Bj65ASz6dOPF4uZYc0) | [Love, deep longing](https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX) | 4:16 |
 | 43 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
 | 44 | [Bk Love](https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t) | [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74) | [So Sniper](https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk) | 4:23 |
-| 45 | [flying duck](https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Third Eye](https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz) | 4:05 |
-| 46 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 |
+| 45 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 |
+| 46 | [flying duck](https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Third Eye](https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz) | 4:05 |
 | 47 | [The man and the woman](https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI), [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:32 |
 | 48 | [너의 곁으로](https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Lovers in Paris \(Original Television Soundtrack\)](https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii) | 4:09 |
 | 49 | [I Love You](https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [I Love You](https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq) | 4:06 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 84 | [해바라기도가끔목이아프죠](https://open.spotify.com/track/5wuAv1WFV6mL8dm0UXSzEv) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 4:44 |
 | 85 | [잠시 길을 잃다](https://open.spotify.com/track/3GyOvpjHY0fm3nQJcLPDbD) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [신보경](https://open.spotify.com/artist/48INQ7U2sSQmgbfa9r5bU9) | [Lucky 7](https://open.spotify.com/album/3RrKHh0VKEzefkMOekGJn9) | 4:25 |
 | 86 | [인형의 꿈](https://open.spotify.com/track/3oP1wIigVlJsWMVXXZNisL) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [For Everlasting](https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW) | 4:15 |
-| 87 | [Promise U \(Original Ver.\)](https://open.spotify.com/track/0xal1TDjG4hQRt6poGvoml) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:03 |
-| 88 | [흩어진 나날들](https://open.spotify.com/track/59LCK6UpQY1qhGPEp66AZp) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/26KTR4BV6sZ7jh0BxO3zIj) | 3:51 |
-| 89 | [My Tipsy Confession](https://open.spotify.com/track/62ElSn0docGvjnA7k30swo) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 6:06 |
-| 90 | [그녀에게](https://open.spotify.com/track/4mqg37DS6OofRxxXTBmWPC) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [그녀에게](https://open.spotify.com/album/3NH17WsgFpPm10ZKT9ngxg) | 4:02 |
+| 87 | [흩어진 나날들](https://open.spotify.com/track/59LCK6UpQY1qhGPEp66AZp) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/26KTR4BV6sZ7jh0BxO3zIj) | 3:51 |
+| 88 | [Promise U \(Original Ver.\)](https://open.spotify.com/track/0xal1TDjG4hQRt6poGvoml) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:03 |
+| 89 | [그녀에게](https://open.spotify.com/track/4mqg37DS6OofRxxXTBmWPC) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [그녀에게](https://open.spotify.com/album/3NH17WsgFpPm10ZKT9ngxg) | 4:02 |
+| 90 | [My Tipsy Confession](https://open.spotify.com/track/62ElSn0docGvjnA7k30swo) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 6:06 |
 | 91 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
 | 92 | [내 입술 따뜻한 커피처럼](https://open.spotify.com/track/3Jy7rkhHWuPGPZYVyMYwSp) | [Lee Ji Hye](https://open.spotify.com/artist/4fjnGkj0w54KWyIk2VTW7B) | [그대 없이 난](https://open.spotify.com/album/776V3gt9aWQottoKzYT55S) | 4:27 |
 | 93 | [gazing blankly](https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:36 |

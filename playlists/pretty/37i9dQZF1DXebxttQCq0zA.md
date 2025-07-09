@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,762 likes - 169 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,075 likes - 169 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

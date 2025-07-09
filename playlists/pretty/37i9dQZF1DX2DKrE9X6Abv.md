@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,793 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,929 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 55 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
 | 56 | [Out of My League](https://open.spotify.com/track/0i5spxZKedPA2TgGuvJ3AL) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/4JkiXUUfINCrEtgN71JtkD) | 3:29 |
 | 57 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 |
-| 58 | [Dear Reader](https://open.spotify.com/track/3QF5RsWzK1lCvf2o2cY65P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:45 |
+| 58 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
 | 59 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
-| 60 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
+| 60 | [Dear Reader](https://open.spotify.com/track/3QF5RsWzK1lCvf2o2cY65P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:45 |
 | 61 | [Snow Angel](https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:35 |
 | 62 | [Jigsaw](https://open.spotify.com/track/6bOd4UM7FaQOZXR2MBzSPi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:28 |
 | 63 | [Agnes](https://open.spotify.com/track/6prvUr8l3t7x5GY7heQb5w) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:31 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 71 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
 | 72 | [Beautiful Boy](https://open.spotify.com/track/4YGpUNc3cScpjliOZojJ89) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:47 |
 | 73 | [Mum](https://open.spotify.com/track/3dSkr1cDkKdSZDYCTrnFKf) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:50 |
-| 74 | [My Blood](https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
-| 75 | [Me](https://open.spotify.com/track/4GjRDgb77p27GQnbZpv1OJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:35 |
+| 74 | [Me](https://open.spotify.com/track/4GjRDgb77p27GQnbZpv1OJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:35 |
+| 75 | [My Blood](https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
 | 76 | [Crush](https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB) | 4:26 |
 | 77 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
 | 78 | [Cutting Thru The Country](https://open.spotify.com/track/01g05Ii7fj7F8V1UlYFf1q) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:24 |

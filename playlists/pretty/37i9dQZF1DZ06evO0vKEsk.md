@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,115 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,106 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 36 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 |
 | 37 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 |
 | 38 | [Deus Está Cuidando de Você](https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Cuidando de Você](https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz) | 4:28 |
-| 39 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 |
-| 40 | [Se Deus É Por Mim \- Ao Vivo](https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Se Deus É Por Mim \(Ao Vivo\)](https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f) | 7:47 |
+| 39 | [Se Deus É Por Mim \- Ao Vivo](https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Se Deus É Por Mim \(Ao Vivo\)](https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f) | 7:47 |
+| 40 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 |
 | 41 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 |
 | 42 | [Cante Aleluia](https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 3:34 |
-| 43 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
-| 44 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
+| 43 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
+| 44 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
 | 45 | [Com Muito Louvor](https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com Muito Louvor](https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v) | 5:21 |
 | 46 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 |
 | 47 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 49 | [Pensou em Mim](https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Pensou em Mim](https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu) | 7:09 |
 | 50 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
 
-Snapshot ID: `aGm8gAAAAAB/tboTCAnncBuvclhAdDcl`
+Snapshot ID: `aGsOAAAAAACXbjuXq4dH3gjov6NDN9K3`

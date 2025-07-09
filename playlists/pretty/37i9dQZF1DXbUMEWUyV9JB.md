@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,463 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,485 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 77 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
 | 78 | [Cariñito](https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cariñito](https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q) | 3:03 |
 | 79 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 |
-| 80 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
-| 81 | [Cokita De Vidrio](https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Cokita De Vidrio](https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU) | 2:57 |
+| 80 | [Cokita De Vidrio](https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Cokita De Vidrio](https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU) | 2:57 |
+| 81 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
 | 82 | [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 |
 | 83 | [Como si no nos amáramos](https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Como si no nos amáramos](https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW) | 3:11 |
 | 84 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 95 | [Matame De A Poquito](https://open.spotify.com/track/3Gmjg057K7kXdvfIZeppRU) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Matame De A Poquito](https://open.spotify.com/album/3hhmrguTHDtmMhnM9HcTwV) | 3:49 |
 | 96 | [Si Alguien Me Ve](https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Si Alguien Me Ve](https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF) | 2:56 |
 | 97 | [Gritaría \- Remix](https://open.spotify.com/track/4r3gyRGbwgL5gdQT4AIwuz) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Gritaría \(Remix\)](https://open.spotify.com/album/4Irm6WebB7Z2OT8Z4tnPQJ) | 3:29 |
-| 98 | [El Fantasma del Amor](https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [El Fantasma del Amor](https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ) | 4:13 |
-| 99 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |
+| 98 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |
+| 99 | [El Fantasma del Amor](https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [El Fantasma del Amor](https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ) | 4:13 |
 | 100 | [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 |
 
 Snapshot ID: `aEKQ7QAAAACOEBrBydJ2FuEzlKUc9FUM`

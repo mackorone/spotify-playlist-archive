@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,168 likes - 90 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,188 likes - 90 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 31 | [Nuestro Juramento](https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [La Historia](https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb) | 3:17 |
 | 32 | [A una Rosa](https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:32 |
 | 33 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
-| 34 | [Para Los Ojos Más Bellos](https://open.spotify.com/track/669cJlmstiDWCFDyef4pil) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Andando](https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10) | 3:04 |
-| 35 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
+| 34 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
+| 35 | [Para Los Ojos Más Bellos](https://open.spotify.com/track/669cJlmstiDWCFDyef4pil) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Andando](https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10) | 3:04 |
 | 36 | [Tal Como Siento](https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tal Como Siento](https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn) | 4:00 |
 | 37 | [Mucho Más Que Piel](https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven Por Mi](https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8) | 5:01 |
 | 38 | [Quisiera](https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 4:09 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 72 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
 | 73 | [Bien o Mal](https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Bien o Mal](https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg) | 3:30 |
 | 74 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
-| 75 | [Vidala del Amor Sincero \(feat\. Fernando Barrientos\)](https://open.spotify.com/track/4Y6BTOTNAA0rcjmyHsotnZ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Fernando Barrientos](https://open.spotify.com/artist/6cQZ4elRhcBlcxWuw1Ypus) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 3:11 |
-| 76 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
+| 75 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
+| 76 | [Vidala del Amor Sincero \(feat\. Fernando Barrientos\)](https://open.spotify.com/track/4Y6BTOTNAA0rcjmyHsotnZ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Fernando Barrientos](https://open.spotify.com/artist/6cQZ4elRhcBlcxWuw1Ypus) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 3:11 |
 | 77 | [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 |
 | 78 | [Que Tiene de Malo Eso](https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Que Tiene de Malo Eso](https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw) | 2:46 |
 | 79 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |

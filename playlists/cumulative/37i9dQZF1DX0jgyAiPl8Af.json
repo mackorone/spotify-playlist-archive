@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Cose Belle",
+        "url": "https://open.spotify.com/album/5FeZ6ETGaQIIAlTnVY4cEz"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147005,
+      "name": "Cose Belle",
+      "url": "https://open.spotify.com/track/4AJ5gsFxs1d3Eiqtcvx6zB"
+    },
+    {
+      "album": {
         "name": "Tree Runner",
         "url": "https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo"
       },
@@ -4666,6 +4684,24 @@
       "duration_ms": 111000,
       "name": "figurati",
       "url": "https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4"
+    },
+    {
+      "album": {
+        "name": "Finally Home",
+        "url": "https://open.spotify.com/album/0SV6oxYQCM2AnaAWrPhjpn"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kahnberg",
+          "url": "https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144217,
+      "name": "Finally Home",
+      "url": "https://open.spotify.com/track/1Qy7Uz4avfS6W295hIV5pH"
     },
     {
       "album": {
@@ -13760,7 +13796,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 146458,
       "name": "The Game Changer",
       "url": "https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS"
@@ -14988,7 +15024,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 165546,
       "name": "Vitral",
       "url": "https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf"

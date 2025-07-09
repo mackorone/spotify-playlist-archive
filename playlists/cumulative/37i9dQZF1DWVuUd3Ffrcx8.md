@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: <br/>DJ Snake & J Balvin\)
 
-558 songs - 1 day 6 hr 14 min
+559 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [SAYLESS](https://open.spotify.com/track/3kStjutv4aWQEIhEEF95mu) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [SAYLESS](https://open.spotify.com/album/50R43wzjwKFFVtzIzTEVVF) | 3:01 | 2024-07-25 | 2024-09-27 |
 | [Scared In Love](https://open.spotify.com/track/6Iyjx3tDmwtaOgiriLLI6A) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Scared In Love](https://open.spotify.com/album/7nlpcYop3Ce4e6fuKydyzv) | 3:04 | 2025-04-17 | 2025-05-30 |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-14 | 2025-04-04 |
+| [Shake It Fast \(Prod\. THE HUB\)](https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Shake It Fast \(WSWF Original Vol.3\)](https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh) | 2:11 | 2025-07-08 |  |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-26 |  |
 | [Show Me](https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Show Me](https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8) | 3:37 | 2024-12-13 | 2025-02-12 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-18 | 2024-09-06 |
@@ -522,7 +523,7 @@
 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 | 2024-08-01 | 2024-10-04 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-28 | 2024-08-13 |
 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 | 2024-10-03 | 2024-12-06 |
-| [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 | 2025-05-22 |  |
+| [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 | 2025-05-22 | 2025-07-09 |
 | [Ways To Go \(feat\. Khalid\)](https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [12 Notes](https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj) | 2:34 | 2024-06-28 | 2024-07-19 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-28 | 2024-07-19 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-06-28 | 2024-08-16 |

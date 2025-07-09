@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,886 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,917 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 57 | [i was cruel \- demo take](https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [i was cruel \- demo take](https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k) | 3:04 |
 | 58 | [White Flag](https://open.spotify.com/track/28U855g6cGv2O3s5KzUcdr) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:03 |
 | 59 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
-| 60 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
+| 60 | [Out of the Darkness](https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED) | [Sleep Thieves](https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY) | [Islands](https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB) | 2:03 |
 | 61 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
-| 62 | [Out of the Darkness](https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED) | [Sleep Thieves](https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY) | [Islands](https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB) | 2:03 |
+| 62 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
 | 63 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 64 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 |
 | 65 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 92 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
 | 93 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
 | 94 | [My Love Took Me Down To The River To Silence Me](https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 5:00 |
-| 95 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/5t8OscU60DLybml2sjwhri) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The System Only Dreams in Total Darkness](https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9) | 3:56 |
+| 95 | [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 |
 | 96 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 97 | [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 |
+| 97 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/5t8OscU60DLybml2sjwhri) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The System Only Dreams in Total Darkness](https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9) | 3:56 |
 | 98 | [Recite Remorse](https://open.spotify.com/track/1lcHu7OTXCRQrlBV4XJiOW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Out in the Storm](https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli) | 4:38 |
 | 99 | [Inferno](https://open.spotify.com/track/18wHQR3ZfXgVqMNGM8Cf1T) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [Inferno](https://open.spotify.com/album/4tfJjqfWP4Gh7vQO0kTOH0) | 3:41 |
 | 100 | [Sirens](https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Sirens](https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4) | 4:26 |

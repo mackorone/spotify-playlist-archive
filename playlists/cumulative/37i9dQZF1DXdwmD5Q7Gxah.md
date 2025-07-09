@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/which\-\_\_\_\_\_\_\-summer\-are\-you\-having">Check out our June newsletter!</a> Cover: Shelly
 
-3,426 songs - 7 day 18 hr 52 min
+3,427 songs - 7 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2940,6 +2940,7 @@
 | [Tangled](https://open.spotify.com/track/46OjonQHLe574lcL12MdKp) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Tangled](https://open.spotify.com/album/2dvVPyydVAF1fDykQ9jsKw) | 3:40 | 2022-02-25 | 2022-03-26 |
 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 | 2023-01-19 |
 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 | 2023-03-03 | 2023-04-15 |
+| [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 | 2025-07-08 |  |
 | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923) | 2:53 | 2024-11-22 | 2025-02-12 |
 | [Team](https://open.spotify.com/track/15jRg8Ejs7X3JEHw38TSN3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 3:13 | 2021-06-11 | 2021-06-18 |
 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-03-01 | 2024-12-18 |

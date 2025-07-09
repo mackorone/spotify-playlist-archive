@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 73138,
+  "num_followers": 73151,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "iluv",
+        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 257798,
+      "name": "iluv",
+      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "How You Feel (Ft. Leven Kali)",
         "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "iluv",
-        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 257798,
-      "name": "iluv",
-      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Ice Cream Dream Boy",
-        "url": "https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ"
-      },
-      "artists": [
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Ice Cream Dream Boy",
-      "url": "https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Over & Over",
         "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 214466,
       "name": "In The Shadow",
       "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Ice Cream Dream Boy",
+        "url": "https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Ice Cream Dream Boy",
+      "url": "https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j"
     },
     {
       "added_at": "2024-12-04 12:15:00",

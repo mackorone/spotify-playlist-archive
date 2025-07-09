@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,106 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,164 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 35 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 36 | [Azul Oscuro](https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Gran Salto 1997\-2014](https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy) | 4:20 |
 | 37 | [Amor Sin Fin](https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:13 |
-| 38 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
-| 39 | [Mi Castillo de Blanca Arena](https://open.spotify.com/track/2WFKRQJeQMCUatF7ufzfCs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 2:29 |
+| 38 | [Mi Castillo de Blanca Arena](https://open.spotify.com/track/2WFKRQJeQMCUatF7ufzfCs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 2:29 |
+| 39 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
 | 40 | [Muchacha](https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Muchacha](https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH) | 3:00 |
 | 41 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 |
 | 42 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 |
 | 43 | [Miente](https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 3:07 |
-| 44 | [I Count the Ways](https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Bulevar 2000 \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH) | 3:49 |
-| 45 | [Sastre Del Diablo](https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo) | [Nortec Collective](https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK) | [Border Revolver](https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN) | 2:50 |
+| 44 | [Sastre Del Diablo](https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo) | [Nortec Collective](https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK) | [Border Revolver](https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN) | 2:50 |
+| 45 | [I Count the Ways](https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Bulevar 2000 \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH) | 3:49 |
 | 46 | [Aló](https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 4:04 |
 | 47 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
 | 48 | [Kiosko](https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Kiosko](https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY) | 4:13 |

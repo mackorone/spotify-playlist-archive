@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-221 songs - 9 hr 20 min
+222 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Intuitive](https://open.spotify.com/track/31VWZJtZ5ba8GCVhllyOiQ) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Intuitive](https://open.spotify.com/album/6Xa4sstww69EZKAPiwnPRs) | 2:07 | 2025-01-28 |  |
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2023-05-09 | 2024-02-14 |
 | [It Feels Right](https://open.spotify.com/track/0gICIHDApco8NkbEYfEJWo) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [It Feels Right](https://open.spotify.com/album/0UhwkYah2W8UKLO1YzV6hi) | 2:50 | 2024-03-05 | 2025-03-13 |
-| [It Takes Time](https://open.spotify.com/track/3dQa7fCfGgoRM5FW5Liawc) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [It Takes Time](https://open.spotify.com/album/0lCUipFZcKcXYukQ0Wk9QT) | 2:50 | 2024-09-10 |  |
+| [It Takes Time](https://open.spotify.com/track/3dQa7fCfGgoRM5FW5Liawc) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [It Takes Time](https://open.spotify.com/album/0lCUipFZcKcXYukQ0Wk9QT) | 2:50 | 2024-09-10 | 2025-07-09 |
 | [Juliet Rose](https://open.spotify.com/track/5eiXYdSRFd48jBqnQrw83h) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Juliet Rose](https://open.spotify.com/album/1z8NJlHqLWNVCkh3jbpL6T) | 2:02 | 2024-05-01 |  |
 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-09-05 | 2025-03-13 |
 | [Largo](https://open.spotify.com/track/5rRK6mamdef3a6eWz14vzU) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Afterglow](https://open.spotify.com/album/6Xc8TRCE8M96FBYcPp34YT) | 3:13 | 2023-05-09 | 2025-03-13 |
@@ -196,6 +196,7 @@
 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-12 | 2025-03-13 |
 | [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 | 2024-12-17 |  |
 | [The Path](https://open.spotify.com/track/7eH0X2RvMtR963S3oSJiRN) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [The Path](https://open.spotify.com/album/0TM5zSd3hB5whlxfSbTnrG) | 2:07 | 2024-03-19 |  |
+| [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/6SfRPNpx53bVHzG8dNvROF) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 | 2025-07-08 |  |
 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 | 2023-05-09 | 2025-03-13 |
 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 | 2024-07-16 |  |
 | [The Way Home](https://open.spotify.com/track/3EviaQw7x1Wn6wxVbjvNRs) | [Matthew Adam](https://open.spotify.com/artist/1JShgWc7ZWXxlqGENVf4qb) | [The Way Home](https://open.spotify.com/album/0MgiFWUWfLEJjBgFz4mH3b) | 2:46 | 2023-05-09 | 2024-06-01 |

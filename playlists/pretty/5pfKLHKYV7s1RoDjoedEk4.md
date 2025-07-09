@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 
 > 
 
-[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 289 songs - 16 hr 12 min
+[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 293 songs - 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,5 +297,9 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 | 287 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 288 | [Motels](https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Motels](https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO) | 3:23 |
 | 289 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 |
+| 290 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
+| 291 | [Symphonia IX](https://open.spotify.com/track/1rluwEqsWp5tz0lgyOT9rE) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/6vQngf6iEG8xC6ArsIurXq) | 3:01 |
+| 292 | [Dream Girl](https://open.spotify.com/track/3Z6cltU0OfbUdSZtZlzKPL) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Dream Girl](https://open.spotify.com/album/2BVQCnH3Sj7lcBGAP9wPh1) | 2:59 |
+| 293 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 |
 
-Snapshot ID: `AAABSlLeWfkXOYjoGUx8pVQoV0BENwG/`
+Snapshot ID: `AAABTsGobupssWvDcXoknxUftYRvYG7L`

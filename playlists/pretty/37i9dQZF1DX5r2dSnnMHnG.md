@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,528 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,526 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 49 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 50 | [I Love U](https://open.spotify.com/track/65g3VCPXMmHPBWucrNR8oO) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Sung Si Kyung 8th Album \[ㅅ\(Siot\)\]](https://open.spotify.com/album/5fsoVsbW2EvwhCqpEHDvdi) | 3:15 |
 | 51 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
-| 52 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [HyeJu](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 |
-| 53 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
+| 52 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
+| 53 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [HyeJu](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 |
 | 54 | [Lovestruck](https://open.spotify.com/track/6XDITtqHGbwGabvBRoVDIV) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB) | [Lovestruck](https://open.spotify.com/album/333YGW1Uy6WEOe79iQi1Yn) | 3:12 |
 | 55 | [Spring Bloom](https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 2:43 |
 | 56 | [I Say Ya! You Say Yeah! \(feat\. Kyoung Seo\)](https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt), [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [I Say Ya! You Say Yeah!](https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN) | 3:50 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 64 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 |
 | 65 | [Spring illusion](https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Spring illusion](https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68) | 3:03 |
 | 66 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
-| 67 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 |
-| 68 | [Whenever](https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Whenever](https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V) | 3:20 |
+| 67 | [Whenever](https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Whenever](https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V) | 3:20 |
+| 68 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 |
 | 69 | [Love is You](https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Love is You](https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E) | 2:41 |
 | 70 | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb) | [BOOKKU DDOONG](https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw), [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/album/31T5angQfNXokneuSdQq56) | 2:47 |
 | 71 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 |

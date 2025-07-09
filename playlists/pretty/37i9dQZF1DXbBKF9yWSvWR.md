@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,177 likes - 94 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,178 likes - 94 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 |
-| 2 | [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 |
-| 3 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
-| 4 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
-| 5 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 |
-| 6 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
-| 7 | [I Think I Feel Something](https://open.spotify.com/track/3FHEN0BCClagOpIxV2jaDY) | [Silver Lake](https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb) | [I Think I Feel Something](https://open.spotify.com/album/2H85S87SVAeSEDk7g38qED) | 3:16 |
-| 8 | [The Fall](https://open.spotify.com/track/54uQ1AZVrgEi7QzHCslpYw) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [The Fall](https://open.spotify.com/album/531pb8X8dzEiJiR29Ql9GI) | 2:34 |
-| 9 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
-| 10 | [ten years time](https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [ten years time](https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj) | 2:59 |
+| 2 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
+| 3 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
+| 4 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 |
+| 5 | [ten years time](https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [ten years time](https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj) | 2:59 |
+| 6 | [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 |
+| 7 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
+| 8 | [I Think I Feel Something](https://open.spotify.com/track/3FHEN0BCClagOpIxV2jaDY) | [Silver Lake](https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb) | [I Think I Feel Something](https://open.spotify.com/album/2H85S87SVAeSEDk7g38qED) | 3:16 |
+| 9 | [The Fall](https://open.spotify.com/track/54uQ1AZVrgEi7QzHCslpYw) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [The Fall](https://open.spotify.com/album/531pb8X8dzEiJiR29Ql9GI) | 2:34 |
+| 10 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
 | 11 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 12 | [Kneel](https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Dancing Shoes](https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt) | 3:44 |
 | 13 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 93 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
 | 94 | [Lost](https://open.spotify.com/track/6Yw1uTYCVpbMag0Djw6z7d) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [Lost](https://open.spotify.com/album/2U3QalgJYkL8r8BHJ0Qxzu) | 3:58 |
 
-Snapshot ID: `aGeWWwAAAACXDIKEdNcnCAvfJ+wSTOvs`
+Snapshot ID: `aGzp+wAAAAAJiaejDbbKmOQ6Al0mtWQ5`

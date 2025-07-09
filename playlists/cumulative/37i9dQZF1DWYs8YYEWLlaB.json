@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "A\u015fiyan",
+        "url": "https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        },
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163888,
+      "name": "A\u015fiyan",
+      "url": "https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG"
+    },
+    {
+      "album": {
         "name": "A\u015fkperest",
         "url": "https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp"
       },
@@ -700,7 +722,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 193621,
       "name": "Can\u0131n Beni \u00c7ekti",
       "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
@@ -1090,7 +1112,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 190000,
       "name": "Extrovert",
       "url": "https://open.spotify.com/track/3eiLwTPzJTFd0GowvO7H2g"
@@ -1835,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Kendine D\u00fcnya",
+        "url": "https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201032,
+      "name": "Kendine D\u00fcnya",
+      "url": "https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr"
+    },
+    {
+      "album": {
         "name": "Kervan",
         "url": "https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P"
       },
@@ -2416,7 +2456,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 205224,
       "name": "Ortak",
       "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
@@ -2809,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Perdeler",
+        "url": "https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y"
+      },
+      "artists": [
+        {
+          "name": "\u015eebnem Ferah",
+          "url": "https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294846,
+      "name": "Sigara",
+      "url": "https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv"
+    },
+    {
+      "album": {
         "name": "Gazla Gitsin",
         "url": "https://open.spotify.com/album/0tvnLtAh5B0INwHi14UoW5"
       },
@@ -2856,7 +2914,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 236888,
       "name": "Son Bir Rica",
       "url": "https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr"
@@ -3452,7 +3510,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 277166,
       "name": "\u00c7\u00f6zemezsin",
       "url": "https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P"

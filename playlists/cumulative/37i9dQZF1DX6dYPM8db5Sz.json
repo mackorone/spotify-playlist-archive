@@ -8165,6 +8165,24 @@
     },
     {
       "album": {
+        "name": "Hate Goodbyes",
+        "url": "https://open.spotify.com/album/07w74aZOr10AawZOJND2BY"
+      },
+      "artists": [
+        {
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Hate Goodbyes",
+      "url": "https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl"
+    },
+    {
+      "album": {
         "name": "love me i'm burning",
         "url": "https://open.spotify.com/album/3Hu6LYnFe8okEM8hmkQTXH"
       },
@@ -10806,7 +10824,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 208026,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/4b02GNdHU9C7bwOfAYDorE"

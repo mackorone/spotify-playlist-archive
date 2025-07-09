@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,735 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,747 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 44 | [The Checkered Demon](https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 2:08 |
 | 45 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
 | 46 | [Too Shy To Scream](https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:56 |
-| 47 | [Begging For Trouble](https://open.spotify.com/track/19elq0F6glRZAResdR1XTR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 |
-| 48 | [Cult Status](https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:57 |
-| 49 | [Three Reasons](https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 1:33 |
-| 50 | [Your Name Here](https://open.spotify.com/track/03clzUiJrTQDkckYgEznfO) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 2:27 |
+| 47 | [Cult Status](https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:57 |
+| 48 | [Begging For Trouble](https://open.spotify.com/track/19elq0F6glRZAResdR1XTR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 |
+| 49 | [Your Name Here](https://open.spotify.com/track/03clzUiJrTQDkckYgEznfO) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 2:27 |
+| 50 | [Three Reasons](https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 1:33 |
 
-Snapshot ID: `aGm8gAAAAADvAUB57bWl3rIrSLikODZp`
+Snapshot ID: `aGsOAAAAAADXn/CYFMDVG1G1ew3ZBMyz`

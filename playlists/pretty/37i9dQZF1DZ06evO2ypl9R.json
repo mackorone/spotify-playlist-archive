@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3492,
+  "num_followers": 3493,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADd69qlbg8iizWjQO5uuNGf",
+  "snapshot_id": "aGsOAAAAAADPrFFdDQ1652Y2iiiojRob",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dionne / What Gets You High?",
+        "url": "https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 239495,
+      "name": "What Gets You High?",
+      "url": "https://open.spotify.com/track/1fiXqAJ376nJ5rRfjDNW6c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebirth 10 Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/1bfVFEQMolOYkQhPj5uaNE"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 480967,
       "name": "Deep Musique - Rampa Remix",
       "url": "https://open.spotify.com/track/2TPymcTIlvJKpPWnqAiqxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dionne / What Gets You High?",
-        "url": "https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 239495,
-      "name": "What Gets You High?",
-      "url": "https://open.spotify.com/track/1fiXqAJ376nJ5rRfjDNW6c"
     },
     {
       "added_at": null,
@@ -575,54 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
-        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
+        "name": "Human Beings (Remixes)",
+        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
       },
       "artists": [
         {
-          "name": "Casbah 73",
-          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         },
         {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         }
       ],
-      "duration_ms": 382274,
-      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 346296,
-      "name": "Bag Of Filters",
-      "url": "https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
+      "duration_ms": 414247,
+      "name": "Human Beings - Atjazz Remix",
+      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
     },
     {
       "added_at": null,
@@ -647,42 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Beings (Remixes)",
-        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        }
-      ],
-      "duration_ms": 414247,
-      "name": "Human Beings - Atjazz Remix",
-      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
@@ -692,15 +624,15 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 182071,
-      "name": "MOSS",
-      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
       "artists": [
         {
@@ -708,33 +640,29 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 217756,
-      "name": "A Day Without U",
-      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
+      "duration_ms": 346296,
+      "name": "Bag Of Filters",
+      "url": "https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
+        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
       },
       "artists": [
         {
+          "name": "Casbah 73",
+          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
+        },
+        {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Han Litz",
-          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
-        },
-        {
-          "name": "Myles Bigelow",
-          "url": "https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5"
         }
       ],
-      "duration_ms": 258019,
-      "name": "Reign",
-      "url": "https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf"
+      "duration_ms": 382274,
+      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
     },
     {
       "added_at": null,
@@ -767,26 +695,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Osunlade vs Papa",
-        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
       "artists": [
-        {
-          "name": "Black Widow",
-          "url": "https://open.spotify.com/artist/7JVf9FTDK6N8wrVKBmutmv"
-        },
-        {
-          "name": "Emmaculate",
-          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
-        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 416060,
-      "name": "Love Manifesto - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/5mseZAEgouOaiY0JY3SmnX"
+      "duration_ms": 182071,
+      "name": "MOSS",
+      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
     },
     {
       "added_at": null,
@@ -814,11 +750,43 @@
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Han Litz",
+          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
+        },
+        {
+          "name": "Myles Bigelow",
+          "url": "https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5"
         }
       ],
-      "duration_ms": 275419,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
+      "duration_ms": 258019,
+      "name": "Reign",
+      "url": "https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Osunlade vs Papa",
+        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+      },
+      "artists": [
+        {
+          "name": "Black Widow",
+          "url": "https://open.spotify.com/artist/7JVf9FTDK6N8wrVKBmutmv"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 416060,
+      "name": "Love Manifesto - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/5mseZAEgouOaiY0JY3SmnX"
     },
     {
       "added_at": null,
@@ -835,6 +803,38 @@
       "duration_ms": 222321,
       "name": "Syrundipetty",
       "url": "https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "A Day Without U",
+      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 275419,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
     },
     {
       "added_at": null,

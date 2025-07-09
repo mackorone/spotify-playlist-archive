@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > sad girl summer 2025 in full swing\. Curated by néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,036 likes - 92 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,041 likes - 91 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 87 | [Mountain](https://open.spotify.com/track/6dDZOjyHUpooTLKYeZksas) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/372GFvg9xYliuPmggkajaG) | 3:59 |
 | 88 | [Stranger in Your Living Room \- Demo](https://open.spotify.com/track/6yhBWyePnLIb2TsUKKoDXr) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 3:31 |
 | 89 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
-| 90 | [What Was That](https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:29 |
-| 91 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
-| 92 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
+| 90 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
+| 91 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 
-Snapshot ID: `aGb9dgAAAABpyD9QPQf2eMXOANyS6Mgu`
+Snapshot ID: `aGzouwAAAAAPiSO8py674BDbDF7zeI0F`

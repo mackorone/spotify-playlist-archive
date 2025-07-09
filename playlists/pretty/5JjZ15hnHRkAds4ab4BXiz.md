@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 478 songs - 1 day 6 hr 15 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 477 songs - 1 day 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -476,15 +476,14 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 466 | [Compliments](https://open.spotify.com/track/4RJoZWtDSxv6mBNFVLV3RU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:38 |
 | 467 | [Happy Ending](https://open.spotify.com/track/1OXGJ7jRok4c3KBnIYkuwH) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 2:52 |
 | 468 | [I Want the One I Can't Have \- 2011 Remaster](https://open.spotify.com/track/4Bs7pbzxezGyNQO6DjqmC8) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Meat Is Murder](https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca) | 3:13 |
-| 469 | [Heaven](https://open.spotify.com/track/3WUetIYOqcHBqRIQqyUTCN) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:53 |
-| 470 | [Love Explosion](https://open.spotify.com/track/1nrStYl6bxZHP8nVXy4IlO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:34 |
-| 471 | [Johan Von Bronx](https://open.spotify.com/track/3dWaDHwsvudH9vywNjVUVf) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:01 |
-| 472 | [Father Electricity](https://open.spotify.com/track/1VeHgjA3KTfiMYM4pL1nXX) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 7:23 |
-| 473 | [Business Dog](https://open.spotify.com/track/6hyDONyubATZ5eimv7ll62) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 2:35 |
-| 474 | [Dare I Care](https://open.spotify.com/track/3QFwqMCEkE5ZItQhMksIbB) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:25 |
-| 475 | [Big Time](https://open.spotify.com/track/27Bn2trsGicmJlZe3qFMHg) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Big Time](https://open.spotify.com/album/6fGZ262oL8OhT96uhuoZc4) | 3:48 |
-| 476 | [Kill The Lights](https://open.spotify.com/track/6pA4E9f4mVhntg5vyrP3Vf) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/75gyYuqyhDdUluEQccVVFw) | 2:43 |
-| 477 | [Reach](https://open.spotify.com/track/1xUwUFgcNIN5PjroCkkOol) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/07YRYrOVpy3S6kTnd3A2zO) | 2:55 |
-| 478 | [Here Come The Bitter Tears](https://open.spotify.com/track/3sx96rFWBPAqIV3GktURnX) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/07YRYrOVpy3S6kTnd3A2zO) | 3:58 |
+| 469 | [Love Explosion](https://open.spotify.com/track/1nrStYl6bxZHP8nVXy4IlO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:34 |
+| 470 | [Johan Von Bronx](https://open.spotify.com/track/3dWaDHwsvudH9vywNjVUVf) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:01 |
+| 471 | [Father Electricity](https://open.spotify.com/track/1VeHgjA3KTfiMYM4pL1nXX) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 7:23 |
+| 472 | [Business Dog](https://open.spotify.com/track/6hyDONyubATZ5eimv7ll62) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 2:35 |
+| 473 | [Dare I Care](https://open.spotify.com/track/3QFwqMCEkE5ZItQhMksIbB) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:25 |
+| 474 | [Big Time](https://open.spotify.com/track/27Bn2trsGicmJlZe3qFMHg) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Big Time](https://open.spotify.com/album/6fGZ262oL8OhT96uhuoZc4) | 3:48 |
+| 475 | [Kill The Lights](https://open.spotify.com/track/6pA4E9f4mVhntg5vyrP3Vf) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/75gyYuqyhDdUluEQccVVFw) | 2:43 |
+| 476 | [Reach](https://open.spotify.com/track/1xUwUFgcNIN5PjroCkkOol) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/07YRYrOVpy3S6kTnd3A2zO) | 2:55 |
+| 477 | [Here Come The Bitter Tears](https://open.spotify.com/track/3sx96rFWBPAqIV3GktURnX) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/07YRYrOVpy3S6kTnd3A2zO) | 3:58 |
 
-Snapshot ID: `AAAPruBwDd5QTRy5rOsOVXFMc5AvMICX`
+Snapshot ID: `AAAPr2gZG02tYayIzgrnw6Og0iJ7SUJn`

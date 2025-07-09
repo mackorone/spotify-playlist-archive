@@ -4,7 +4,7 @@
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-110 songs - 7 hr 3 min
+111 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,12 +80,13 @@
 | [Não Me Entrego Pros Caretas](https://open.spotify.com/track/6pok4kgIWSBFIoPZeKrv7L) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Não Me Entrego Pros Caretas](https://open.spotify.com/album/560jeL82N1TmKINoprN8P2) | 3:16 | 2022-09-22 | 2024-04-19 |
 | [Não Quero Dinheiro \(Só Quero Amar\)](https://open.spotify.com/track/0SfcG65T1KKCj5NQffpzQR) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1971](https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A) | 2:33 | 2022-09-22 | 2024-04-19 |
 | [Não Vou Ficar](https://open.spotify.com/track/1hMZDDqL6ThRyJQ5rsLiB5) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1971](https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A) | 2:52 | 2022-09-22 | 2024-04-19 |
+| [O Amigo De Nova York](https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Mais Que Um Momento](https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq) | 4:12 | 2022-09-22 |  |
 | [O Mar Serenou](https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 2:58 | 2022-09-22 |  |
 | [O Mar Serenou](https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 2:59 | 2022-09-22 | 2024-04-19 |
 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 | 2022-09-22 |  |
 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 | 2022-09-22 | 2024-04-19 |
 | [Palco](https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Luar](https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L) | 4:26 | 2022-09-22 |  |
-| [Paraquedas](https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Paraíso da Miragem](https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy) | 3:48 | 2022-09-22 |  |
+| [Paraquedas](https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Paraíso da Miragem](https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy) | 3:48 | 2022-09-22 | 2025-07-09 |
 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 | 2022-09-22 |  |
 | [Pequim](https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Pequim](https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz) | 3:18 | 2022-09-22 |  |
 | [Pintura íntima \- Compacto](https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [2 é Demais](https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG) | 4:27 | 2022-09-22 |  |
@@ -101,7 +102,7 @@
 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 | 2022-09-22 |  |
 | [Rito de Passá](https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Rito de Passá](https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm) | 3:21 | 2022-09-22 | 2024-04-22 |
 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 | 2022-09-22 |  |
-| [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 | 2022-09-22 |  |
+| [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 | 2022-09-22 |  |
 | [Sangue latino](https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [A volta de Secos & Molhados](https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi) | 2:08 | 2022-09-22 |  |
 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 | 2022-09-22 |  |
 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 | 2022-09-22 |  |

@@ -4,7 +4,7 @@
 
 > Motion & good vibes met Dylisa \(<a href="spotify:playlist:37i9dQZF1DXaXn0hGbmLLg">EQUAL</a>\-ambassador\) & Robin Roxette ✨
 
-1,425 songs - 2 day 15 hr 38 min
+1,426 songs - 2 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [DON'T JUDGE](https://open.spotify.com/track/2KS8L6MXwDzkUoTLDdqA4p) | [Joy Heart](https://open.spotify.com/artist/0TCbqqdF3etTxFxbXaF256), [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH), [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [DON'T JUDGE](https://open.spotify.com/album/2JfGEA24Czo61kSyveTXgI) | 2:48 | 2025-05-01 | 2025-06-13 |
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-26 | 2023-11-10 |
 | [Don't Let Me Drown](https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:05 | 2025-06-26 |  |
-| [Don't Worry](https://open.spotify.com/track/6qUVkZFlXp84j9T6f20lcj) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Desef](https://open.spotify.com/artist/31KTPEY8IYzYGSrXKySQGl) | [Don't Worry](https://open.spotify.com/album/16xJrCo0Fc7zRKSLgBvPsg) | 2:51 | 2025-05-08 |  |
+| [Don't Worry](https://open.spotify.com/track/6qUVkZFlXp84j9T6f20lcj) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Desef](https://open.spotify.com/artist/31KTPEY8IYzYGSrXKySQGl) | [Don't Worry](https://open.spotify.com/album/16xJrCo0Fc7zRKSLgBvPsg) | 2:51 | 2025-05-08 | 2025-07-09 |
 | [Done With Me](https://open.spotify.com/track/1oTWwkoxxqAqdMSCRwuStJ) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Done With Me](https://open.spotify.com/album/3O0i0NCY5Cm1r3gJJPWc8a) | 3:17 | 2024-05-02 | 2024-07-23 |
 | [Door](https://open.spotify.com/track/22RGKs800NET5TzIAkWOg6) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC) | [Door](https://open.spotify.com/album/3BMyRwkGZR4tLm11vCMSLr) | 2:24 | 2024-10-03 | 2024-10-25 |
 | [Doorrijden](https://open.spotify.com/track/4eyaXW5N3NUEIPy79c3BRN) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Doorrijden](https://open.spotify.com/album/7bgs8a5F48AEW6YwVrDXoe) | 2:26 | 2024-05-09 | 2024-08-30 |
@@ -472,6 +472,7 @@
 | [Gafas Negras](https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Gafas Negras](https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn) | 3:06 | 2024-01-25 | 2024-02-09 |
 | [Gallis](https://open.spotify.com/track/3wAL94e4Bnw7w9WhxjB2Uu) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 2:34 | 2022-08-11 | 2022-08-26 |
 | [Gallis](https://open.spotify.com/track/7q8Tp091I66Nv4Vki6u2ru) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Doe Het Nou Gewoon](https://open.spotify.com/album/3ltzF8mEkuEygpncv6S9Ut) | 2:34 | 2022-07-27 | 2022-08-12 |
+| [Gangsterchick](https://open.spotify.com/track/1f19LvUSBYHlu2VhviCIfj) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7) | [Gangsterchick](https://open.spotify.com/album/6ToblYPKlpdygmbYe1Gxjs) | 2:52 | 2025-07-08 |  |
 | [Gaslighter](https://open.spotify.com/track/2Vmu8QN7hO0XlKVzu8WhZ0) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Gaslighter](https://open.spotify.com/album/5MVWiGRQJ0RFWSShgVBqcM) | 2:06 | 2025-04-17 | 2025-06-13 |
 | [Gasolina](https://open.spotify.com/track/5sg4Ah65gbAtZGlR2ScD3c) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Gasolina](https://open.spotify.com/album/37AjaShy45tMwdQf3Jq3mo) | 2:36 | 2024-02-08 | 2024-03-22 |
 | [Gass](https://open.spotify.com/track/5uYGN9BbTXC6QYJHJthCMS) | [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Gass](https://open.spotify.com/album/1fRVC8TAAoTZDHdOfhg3DN) | 2:46 | 2023-05-18 | 2023-07-07 |

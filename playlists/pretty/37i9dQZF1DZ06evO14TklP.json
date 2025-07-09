@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 13604,
+  "num_followers": 13640,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAoEbIlgFbHWwzfJbA0F3r5",
+  "snapshot_id": "aGsOAAAAAADjaTr/AyJdZ5U+GMvTgJaY",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tanto Faz",
-        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
-      },
-      "artists": [
-        {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 164941,
       "name": "P\u00f3dio",
       "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tanto Faz",
+        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
     },
     {
       "added_at": null,
@@ -731,46 +731,6 @@
       "duration_ms": 147119,
       "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
       "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fresh Stars 2020 Pnpl",
-        "url": "https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE"
-      },
-      "artists": [
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Meno Tody",
-          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Beat Jogzz",
-          "url": "https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Fresh Stars 2020 Pnpl",
-      "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
     },
     {
       "added_at": null,
@@ -819,46 +779,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetisas No Topo 2",
-        "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
+        "name": "Fresh Stars 2020 Pnpl",
+        "url": "https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
         },
         {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         },
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
         },
         {
-          "name": "WinniT",
-          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "Beat Jogzz",
+          "url": "https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z"
         },
         {
-          "name": "Kmila Cdd",
-          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
-        },
-        {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 556662,
-      "name": "Poetisas No Topo 2",
-      "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
+      "duration_ms": 280000,
+      "name": "Fresh Stars 2020 Pnpl",
+      "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
     },
     {
       "added_at": null,
@@ -907,6 +863,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poetisas No Topo 2",
+        "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
+      "duration_ms": 556662,
+      "name": "Poetisas No Topo 2",
+      "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Facetime",
         "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
       },
@@ -919,34 +919,6 @@
       "duration_ms": 163970,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
-        "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Xaga",
-          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "CRIVO",
-          "url": "https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
-      "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
     },
     {
       "added_at": null,
@@ -995,6 +967,34 @@
       "duration_ms": 188581,
       "name": "Caneta",
       "url": "https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+        "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "CRIVO",
+          "url": "https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+      "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
     },
     {
       "added_at": null,

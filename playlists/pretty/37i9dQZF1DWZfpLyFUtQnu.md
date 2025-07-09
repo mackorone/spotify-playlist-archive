@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,014 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,043 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 32 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
 | 33 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
 | 34 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
-| 35 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
-| 36 | [Je ne veux qu'elle](https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Claire Keim](https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5) | [Marc Lavoine](https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI) | 3:58 |
+| 35 | [Je ne veux qu'elle](https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Claire Keim](https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5) | [Marc Lavoine](https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI) | 3:58 |
+| 36 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
 | 37 | [Aimer à perdre la raison](https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat chante Aragon, l'intégrale](https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA) | 2:21 |
 | 38 | [Voilà c'est fini](https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [Bleu Blanc Vert](https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE) | 5:08 |
 | 39 | [La tendresse](https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [La Tendresse](https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd) | 2:17 |

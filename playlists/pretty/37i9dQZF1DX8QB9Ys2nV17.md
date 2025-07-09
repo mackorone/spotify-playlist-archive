@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,615 likes - 70 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,656 likes - 70 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 3 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 4 | [Blues Is My Best Friend](https://open.spotify.com/track/7mojGTeQExwHDVLPAecQVJ) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 3:39 |
 | 5 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 |
-| 6 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
-| 7 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
+| 6 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
+| 7 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 8 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 9 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
 | 10 | [Faster](https://open.spotify.com/track/2s3x313mhoMD0Twgg9unRx) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Faster](https://open.spotify.com/album/5UPzWIvVARqfzRn964aiah) | 2:55 |
 | 11 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
 | 12 | [Fish Outta Water](https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y) | [Karen Lovely](https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5) | [Fish Outta Water](https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg) | 3:50 |
 | 13 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
-| 14 | [I'm A Woman](https://open.spotify.com/track/0HPazJXESVCimRyMggplg5) | [Deborah Coleman](https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny) | [Soft Place To Fall](https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN) | 4:51 |
-| 15 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
+| 14 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
+| 15 | [I'm A Woman](https://open.spotify.com/track/0HPazJXESVCimRyMggplg5) | [Deborah Coleman](https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny) | [Soft Place To Fall](https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN) | 4:51 |
 | 16 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 |
 | 17 | [Please Come On Inside](https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Please Come On Inside](https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu) | 4:52 |
 | 18 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 36 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
 | 37 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
 | 38 | [Let The Tears Roll Down](https://open.spotify.com/track/5jGTsMUMWHXrgcTHyJrLho) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 5:43 |
-| 39 | [Ghost](https://open.spotify.com/track/4P8pay7zYJUbVhtbWFaxEW) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Ghost](https://open.spotify.com/album/7z5F3gDwpJ74b4lHSrJ9FX) | 3:30 |
-| 40 | [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 |
+| 39 | [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 |
+| 40 | [Ghost](https://open.spotify.com/track/4P8pay7zYJUbVhtbWFaxEW) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Ghost](https://open.spotify.com/album/7z5F3gDwpJ74b4lHSrJ9FX) | 3:30 |
 | 41 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
 | 42 | [She Just Wants To Dance](https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Bitter Sweet Blues](https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY) | 4:52 |
 | 43 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:56 |

@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata ✨
 
-445 songs - 22 hr 46 min
+446 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-07-05 | 2023-05-17 |
 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 | 2023-12-01 | 2024-04-06 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-02 |  |
-| [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 | 2024-02-27 |  |
+| [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 | 2024-02-27 | 2025-07-09 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-05-06 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2022-07-22 | 2024-04-19 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Dancing In The Moonlight: The Best Of Toploader](https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9) | 3:53 | 2024-04-12 | 2025-05-10 |
@@ -187,6 +187,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-19 |  |
 | [I Believe](https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [I Believe](https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv) | 2:27 | 2022-06-27 | 2022-09-24 |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-15 | 2024-01-27 |
+| [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:43 | 2025-05-09 |  |
 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 | 2023-07-14 | 2023-10-27 |
 | [I Don't Know Why](https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [I Don't Know Why](https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj) | 3:27 | 2022-09-23 | 2022-11-13 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-22 |  |

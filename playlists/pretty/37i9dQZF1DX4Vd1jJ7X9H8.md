@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,647 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,706 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 26 | [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 |
 | 27 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 |
 | 28 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 |
-| 29 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
+| 29 | [Lonely Nights](https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:20 |
 | 30 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
-| 31 | [Lonely Nights](https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:20 |
+| 31 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
 | 32 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 |
 | 33 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 |
 | 34 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 46 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 |
 | 47 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 |
 | 48 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 |
-| 49 | [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 |
-| 50 | [Gypsy Woman](https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG), [ADLR](https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [Gypsy Woman](https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u) | 3:20 |
+| 49 | [Gypsy Woman](https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG), [ADLR](https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [Gypsy Woman](https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u) | 3:20 |
+| 50 | [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 |
 
 Snapshot ID: `aEuidAAAAAADV5nZMBPm3syHijGheqwz`

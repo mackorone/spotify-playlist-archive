@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,471 likes - 35 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,469 likes - 35 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 26 | [Duaa 02](https://open.spotify.com/track/7eB8WROspSKY1nfhKxHWIw) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 02](https://open.spotify.com/album/6h36haaIPA4sHxrt6viYag) | 2:01 |
 | 27 | [سورة النجم](https://open.spotify.com/track/1XUTm7niP4gDEaymlQCIe7) | [Sheikh Raad Al Kurdi](https://open.spotify.com/artist/7AflKiIRBursuADYrUWbvL) | [تلاوات رمضانية](https://open.spotify.com/album/3lasvalpXz3Q2sifkROjxk) | 3:16 |
 | 28 | [\( Live \) اللهم أعنا على ذكرك وشكرك](https://open.spotify.com/track/45E5YuOCi5euPZKrnDmH1w) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
-| 29 | [الحمد لله الذي فضلنا على كثير من عباده](https://open.spotify.com/track/6UGM6qnYm0z3AI61YFPNT9) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:24 |
-| 30 | [الحمد لله رب العالمين ..\. اللهم انت ربي](https://open.spotify.com/track/7iji8hIa2jkYy0UxbSZP2N) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:37 |
+| 29 | [الحمد لله رب العالمين ..\. اللهم انت ربي](https://open.spotify.com/track/7iji8hIa2jkYy0UxbSZP2N) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:37 |
+| 30 | [الحمد لله الذي فضلنا على كثير من عباده](https://open.spotify.com/track/6UGM6qnYm0z3AI61YFPNT9) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:24 |
 | 31 | [Duaa 07](https://open.spotify.com/track/1crJtPUs6JClhwiUhuUr7e) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 07](https://open.spotify.com/album/38Dfhk8B62t8Pt9P9HzCvU) | 2:06 |
 | 32 | [Duaa 03](https://open.spotify.com/track/1kvFQLIRqdjC7mLlGeSxTL) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 03](https://open.spotify.com/album/5opMjcbsUJaBWcfplJt7pt) | 2:33 |
 | 33 | [\( Live \) اللهم إنا نسألك خير ما نأتي](https://open.spotify.com/track/0rWxaewxRQ2NXCJbiv8I49) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |

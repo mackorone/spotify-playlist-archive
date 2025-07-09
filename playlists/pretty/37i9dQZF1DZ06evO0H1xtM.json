@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 347439,
+  "num_followers": 347561,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAlsQceeryH3N4s+8oJMz5G",
+  "snapshot_id": "aGsOAAAAAADCqQ0pMFixlI8jyn/KyRB2",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado (En Vivo)",
-      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anda Bien el Nene",
         "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156597,
+      "name": "Pasado Pisado (En Vivo)",
+      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 208491,
-      "name": "Nada Es F\u00e1cil",
-      "url": "https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L"
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
+      "duration_ms": 208491,
+      "name": "Nada Es F\u00e1cil",
+      "url": "https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Soft piano music to accompany your reading
 
-201 songs - 8 hr 36 min
+204 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2022-04-28 | 2025-05-21 |
 | [Certain](https://open.spotify.com/track/0NOLY8oi9pVOHNrpMiVOC6) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Unfolded](https://open.spotify.com/album/0bqH14Y1fJFoqkGHlp9Us0) | 2:48 | 2022-04-28 | 2025-06-11 |
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-04-28 |  |
+| [chanson de bateau](https://open.spotify.com/track/2SwptMOjnExmwFIrx1prEw) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [chanson de bateau](https://open.spotify.com/album/1iW2MkGnizDSj6pfy9zzeZ) | 2:34 | 2025-07-08 |  |
 | [Close](https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Close](https://open.spotify.com/album/1xEqzwfnOa644zQG71fg1n) | 2:36 | 2022-04-28 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-04-28 | 2025-04-17 |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2022-04-28 | 2025-04-17 |
@@ -87,6 +88,7 @@
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2022-04-28 |  |
 | [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2022-04-28 | 2025-05-15 |
 | [Journey in Place](https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc) | [Walter Groenig](https://open.spotify.com/artist/5wS8vfWhht4IzuXzQisbim) | [Journey in Place](https://open.spotify.com/album/0SkWn5AmuyrZyDMBvCvj8q) | 2:52 | 2022-04-28 | 2022-07-21 |
+| [Just a Dream](https://open.spotify.com/track/5XlTJPnxj55pv32QcwM6B9) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Just a Dream](https://open.spotify.com/album/2gyrFBL9A81TZJv0Mgilym) | 2:19 | 2025-07-08 |  |
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-28 | 2025-04-17 |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-04-28 | 2025-05-21 |
 | [Just Like Glass](https://open.spotify.com/track/77RVnHDxwWHltl9ZubyvOY) | [Aline Forma](https://open.spotify.com/artist/77gqTd54FTF2uKWV0RI7FU) | [Just Like Glass](https://open.spotify.com/album/0nSLtWGCUuX7Or7SoMHlEN) | 2:56 | 2022-04-28 | 2022-07-21 |
@@ -162,6 +164,7 @@
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-20 | 2024-04-19 |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-28 | 2025-06-11 |
 | [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-04-28 | 2025-05-03 |
+| [Still Night](https://open.spotify.com/track/2ZanS7xDIkjePVDKPiysrh) | [Ezequiel Aragón](https://open.spotify.com/artist/683KE92SAUqlhIstBnBBXd) | [Still Night](https://open.spotify.com/album/2GKswMgbtwDcung9bBcT4u) | 2:30 | 2025-07-08 |  |
 | [Strangers](https://open.spotify.com/track/1oGdujU6RNUEl0R9DAFG9Q) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Strangers](https://open.spotify.com/album/3o5yEzrxV3RBMo5n2WoMJh) | 4:05 | 2022-04-28 | 2025-05-03 |
 | [Summer In Stockholm](https://open.spotify.com/track/0VKpxGnMPVkTRjoZ3Hes1w) | [Myron Andersen](https://open.spotify.com/artist/3sZcw1QKEb35aR9fur7WNo) | [Summer In Stockholm](https://open.spotify.com/album/7eKxpy5xvlt2iMtbAuD6Gn) | 2:58 | 2023-07-04 |  |
 | [Sun Breaks Through](https://open.spotify.com/track/6Ad239Df39VssAdSMTkc02) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Sun Breaks Through](https://open.spotify.com/album/66FNyAjg9kupMwNvaJiqO6) | 1:58 | 2022-04-28 |  |

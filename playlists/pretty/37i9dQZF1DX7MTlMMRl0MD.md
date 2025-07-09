@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Anhony Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,886 likes - 61 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,885,544 likes - 61 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

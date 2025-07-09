@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,313 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,321 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 26 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 |
 | 27 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
 | 28 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
-| 29 | [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 |
-| 30 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
-| 31 | [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 |
-| 32 | [Tør ikkje leva](https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Tør ikkje leva](https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D) | 3:41 |
+| 29 | [Tør ikkje leva](https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Tør ikkje leva](https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D) | 3:41 |
+| 30 | [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 |
+| 31 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
+| 32 | [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 |
 | 33 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
-| 34 | [Annen som du](https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4) | [Trang Fødsel](https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l) | [Annen som du](https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS) | 3:37 |
-| 35 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 |
-| 36 | [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 |
-| 37 | [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 |
+| 34 | [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 |
+| 35 | [Annen som du](https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4) | [Trang Fødsel](https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l) | [Annen som du](https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS) | 3:37 |
+| 36 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 |
+| 37 | [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 |
 | 38 | [Til alle tider](https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Bauta \- En hyllest til Bjørn Eidsvåg](https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF) | 3:33 |
 | 39 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 |
 | 40 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 |

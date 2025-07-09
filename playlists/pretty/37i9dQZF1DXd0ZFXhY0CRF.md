@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,282 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,297 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 39 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
 | 40 | [U Should Not Be Doing That](https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 3:24 |
 | 41 | [Drain the Blood](https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 3:09 |
-| 42 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
-| 43 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
+| 42 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
+| 43 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 44 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
 | 45 | [I Want You \(Fever\)](https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 3:37 |
 | 46 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 67 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
 | 68 | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF) | 3:54 |
 | 69 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
-| 70 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 |
-| 71 | [Boom Boom Back](https://open.spotify.com/track/06xvZS1bsWS421A1Jz88vU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/4XQwD29zcKWF5TUKjYACaN) | 3:24 |
+| 70 | [Boom Boom Back](https://open.spotify.com/track/06xvZS1bsWS421A1Jz88vU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/4XQwD29zcKWF5TUKjYACaN) | 3:24 |
+| 71 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 |
 | 72 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
 | 73 | [My House \- feat\. Courtney LaPlante](https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [My House \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/542T5OevZIJxjdzZs5eBUC) | 4:03 |
 | 74 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |

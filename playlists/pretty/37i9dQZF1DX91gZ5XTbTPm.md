@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Mello Buckzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,277 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,312 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

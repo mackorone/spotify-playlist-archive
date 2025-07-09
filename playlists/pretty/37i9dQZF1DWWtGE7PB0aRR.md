@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,595 likes - 65 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,679 likes - 65 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 6 | [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 |
 | 7 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
 | 8 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 |
-| 9 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
-| 10 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:23 |
+| 9 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:23 |
+| 10 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
 | 11 | [Little Red Rooster \- Mono Version](https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones, Now!](https://open.spotify.com/album/592dKHbXtiglWyt8AEet23) | 3:05 |
 | 12 | [I Shall Be Released](https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:35 |
 | 13 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 60 | [So Tired of Living](https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn) | [Malone Sibun](https://open.spotify.com/artist/0m2ru7d9GvCPhRMV9Pf1yH), [Innes Sibun](https://open.spotify.com/artist/0mn36s1sBsCtzNXvxwZ7qj), [Marcus Malone](https://open.spotify.com/artist/1N3tM9SkDC5lYIDRVBBuiR) | [Come Together](https://open.spotify.com/album/5J9IEJ8AfBEuFKzNHaV7aF) | 6:29 |
 | 61 | [12 Gauge](https://open.spotify.com/track/60oxeLK5l66VXKfruuj6zX) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [12 Gauge](https://open.spotify.com/album/0tM7YbnVjiIa2ACqeZB3hg) | 2:20 |
 | 62 | [I'm Alright](https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [I'm Alright](https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv) | 3:09 |
-| 63 | [Fine and Dandy](https://open.spotify.com/track/0au1f8q2WN1gsvdrD0D1LN) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [Fine and Dandy](https://open.spotify.com/album/2zHeG6LZJiz8SNHqrG2qse) | 2:53 |
-| 64 | [God Loves A Loser](https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO) | [Todd Sharpville](https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE) | [Medication Time](https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns) | 5:47 |
+| 63 | [God Loves A Loser](https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO) | [Todd Sharpville](https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE) | [Medication Time](https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns) | 5:47 |
+| 64 | [Fine and Dandy](https://open.spotify.com/track/0au1f8q2WN1gsvdrD0D1LN) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [Fine and Dandy](https://open.spotify.com/album/2zHeG6LZJiz8SNHqrG2qse) | 2:53 |
 | 65 | [Can't Keep from Loving You](https://open.spotify.com/track/1lM4AreOWHdLZV5YmPs3G4) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Can't Keep From Loving You](https://open.spotify.com/album/6tIe49swz5w7eBuCAFCOWQ) | 3:05 |
 
 Snapshot ID: `aDktUgAAAACWEp+J/a/xF7YgSamIkuo8`

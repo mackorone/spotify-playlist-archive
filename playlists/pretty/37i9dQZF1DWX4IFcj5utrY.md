@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: <a href="https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz?si=tansqxb\_SYaJNWkPWDfOPw">Jazzworx</a>,  <a href="https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n?si=5B\_MgZYzT1G\-rlsCSFaw2w">Thukuthela</a>,  <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=9klxTDLAQhuK2vinMGDBog">MaWhoo</a> & <a href="https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh?si=NEIkT1JWRnGHjrRMCaff0Q">GL\_Ceejay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,895 likes - 55 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,054 likes - 55 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

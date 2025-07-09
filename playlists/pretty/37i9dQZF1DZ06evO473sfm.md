@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,888 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,071 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 37 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
 | 38 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 |
 | 39 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
-| 40 | [0 SENTIMIENTOS](https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:37 |
-| 41 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
-| 42 | [¿Qué Haces Por Acá?](https://open.spotify.com/track/2hMsGqC4z5czLGacKK93Ap) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:08 |
+| 40 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
+| 41 | [¿Qué Haces Por Acá?](https://open.spotify.com/track/2hMsGqC4z5czLGacKK93Ap) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:08 |
+| 42 | [0 SENTIMIENTOS](https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:37 |
 | 43 | [Ya No](https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya No](https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv) | 2:48 |
 | 44 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 |
 | 45 | [La Pareja Ideal \- En Vivo](https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 |
 | 50 | [No Te Arrepentiras](https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Te Arrepentiras](https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl) | 2:47 |
 
-Snapshot ID: `aGm8gAAAAABDXCcsqzZjdvQwUGYDuLvW`
+Snapshot ID: `aGsOAAAAAADHnKxkr4UpjenS8V2UAiSZ`

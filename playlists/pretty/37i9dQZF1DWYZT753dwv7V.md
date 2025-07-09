@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,033 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,036 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 4 | [Sarà perché ti amo](https://open.spotify.com/track/6FofVmsYAs2FNeOdzQJnnW) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Ricchi e Poveri](https://open.spotify.com/album/3TXm8kNuyEvljyDEpWAxGq) | 3:03 |
 | 5 | [Maledetta primavera](https://open.spotify.com/track/7sWeCEoU28blxdUXZIBhjj) | [Loretta Goggi](https://open.spotify.com/artist/0r310cYIlI5aMcuDTChNlO) | [Collection: Loretta Goggi](https://open.spotify.com/album/5IhXUt1LpLLEH6D9r7oWnN) | 4:13 |
 | 6 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 |
-| 7 | [Grande amore](https://open.spotify.com/track/4hWQaCHO3k3bTYi8AozKTE) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Sanremo grande amore](https://open.spotify.com/album/3Ugt1E8Ft5I0Ry1cLUdMIi) | 3:44 |
+| 7 | [Due Vite](https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Due Vite](https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj) | 3:45 |
 | 8 | [Perdere l'amore](https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Perdere l'amore](https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX) | 4:11 |
-| 9 | [Due Vite](https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Due Vite](https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj) | 3:45 |
+| 9 | [Grande amore](https://open.spotify.com/track/4hWQaCHO3k3bTYi8AozKTE) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Sanremo grande amore](https://open.spotify.com/album/3Ugt1E8Ft5I0Ry1cLUdMIi) | 3:44 |
 | 10 | [La solitudine](https://open.spotify.com/track/5bxQHscWvyaQbm37igKP4K) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini](https://open.spotify.com/album/2lWrXcNp4XAKostNAtRDW2) | 4:00 |
 | 11 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
 | 12 | [Luce \(Tramonti a Nord Est\)](https://open.spotify.com/track/0BY0AXOpFzEDLdm6OF7tEf) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Lotus](https://open.spotify.com/album/6jroAf3KrGmv3v9M1CDav3) | 4:28 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 38 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 |
 | 39 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
-| 41 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
-| 42 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
+| 41 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
+| 42 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
 | 43 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
 | 44 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
 | 45 | [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 64 | [Per tutta la vita](https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Sulla Mia Pelle](https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3) | 3:12 |
 | 65 | [Cuore matto](https://open.spotify.com/track/4VgZNaG1PQL2DJ2Y09Kd46) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:50 |
 | 66 | [Non mi avete fatto niente](https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Non mi avete fatto niente](https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8) | 3:28 |
-| 67 | [VOCE](https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [VOCE](https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ) | 3:31 |
-| 68 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
+| 67 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
+| 68 | [VOCE](https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [VOCE](https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ) | 3:31 |
 | 69 | [Dieci](https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Dieci](https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7) | 3:18 |
 | 70 | [Se stiamo insieme](https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Tutti I Miei Sogni](https://open.spotify.com/album/0tkQys6CWErjTUroTILFsA) | 4:39 |
 | 71 | [L'ADDIO](https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [L'ADDIO](https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ) | 3:27 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 97 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
 | 98 | [Dio come ti amo!](https://open.spotify.com/track/0QceOqQ2vmiRfCjJwgHwqA) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:31 |
 | 99 | [Il mondo prima di te](https://open.spotify.com/track/6dNtIe63iTj60GXprm8H4j) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Il mondo prima di te](https://open.spotify.com/album/4FuHwClY6AO9CEyCigVoXJ) | 3:40 |
-| 100 | [Cosa ti aspetti da me](https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Cosa ti aspetti da me](https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC) | 3:44 |
+| 100 | [Il ballo delle incertezze](https://open.spotify.com/track/35JwSMQXtHyTKPTcpXF07P) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Il ballo delle incertezze](https://open.spotify.com/album/3AGmokaneh8qA9rA5HshFM) | 3:25 |
 
 Snapshot ID: `Z74/WQAAAAACDgRYbfQLP9N2QwAoBCNi`

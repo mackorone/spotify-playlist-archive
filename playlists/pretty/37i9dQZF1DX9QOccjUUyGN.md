@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Arthurzim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,007 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,008 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 9 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 | 10 | [Tenho que Me Decidir](https://open.spotify.com/track/6BWWgcNJWXQ4qRuzY5LzBP) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Tenho que Me Decidir](https://open.spotify.com/album/4fZFrnlxfL8N5DMWqyFY9K) | 3:03 |
 | 11 | [Rainha da Finesse](https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 2:46 |
-| 12 | [Eu Vou na Sua Casa](https://open.spotify.com/track/62yC4Y5JyMKwh2AKcYCSeB) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Eu Vou na Sua Casa](https://open.spotify.com/album/5mVPPYAk9SekxpMMq2XPWu) | 2:59 |
+| 12 | [Eu Vou na Sua Casa](https://open.spotify.com/track/62yC4Y5JyMKwh2AKcYCSeB) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Eu Vou na Sua Casa](https://open.spotify.com/album/5mVPPYAk9SekxpMMq2XPWu) | 2:59 |
 | 13 | [Cupido Gari](https://open.spotify.com/track/6oJiV9qZimATgxLfCFFXcG) | [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [BOLA + 1 BECK \(DELUXE\)](https://open.spotify.com/album/1igloqPc3QZzGlugijWVga) | 2:07 |
 | 14 | [Ponto Fraco](https://open.spotify.com/track/2X4XiYdjD0vpUPfSRmi2ne) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Ponto Fraco](https://open.spotify.com/album/1xtFxYovoAPq0EjFr59Uvh) | 3:20 |
 | 15 | [Melhor Só](https://open.spotify.com/track/3qJuxOCsYPaMUMIAutqmHb) | [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM) | [Seresta do HC 2.0](https://open.spotify.com/album/7G3JVcWX1G4SHHAdTY5evM) | 2:30 |

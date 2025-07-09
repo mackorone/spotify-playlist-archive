@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-410 songs - 1 day 0 hr 4 min
+411 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [卡布基諾 \- 插曲](https://open.spotify.com/track/0zgbX4fmrymCJ4UdbFt8w5) | [周瑋賢](https://open.spotify.com/artist/1HHa5uaw0udJy9Am2tFqCx) | [《謝謝你出現在我的行程裡》電視劇原聲帶](https://open.spotify.com/album/6tUHh5wnkGfvv92jV9TpOw) | 3:41 | 2022-07-18 | 2022-07-22 |
 | [原來真的愛上了](https://open.spotify.com/track/021RtAtctOzhRhctErmiWZ) | [羅啟聰](https://open.spotify.com/artist/4UbI3GzO9gvf3HfzDSPFXw), [秋和政](https://open.spotify.com/artist/4ONvl9dIUCXvlfooTFJfND) | [原來真的愛上了](https://open.spotify.com/album/3HmVUS1UJ77yF6tZRGOfeH) | 2:51 | 2022-07-25 | 2022-07-28 |
 | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2), [Alfred Sim](https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS) | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk) | 3:46 | 2023-07-31 | 2023-11-02 |
+| [口袋的溫度](https://open.spotify.com/track/3hOmv0Gx3765ag0utRymDO) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 4:27 | 2025-07-03 |  |
 | [只對你有感覺](https://open.spotify.com/track/6WdMREn0gO76tvckO16SQu) | [飛輪海](https://open.spotify.com/artist/37Ge9MTQaJqJknImNwYhWF), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [飛輪海首張同名專輯](https://open.spotify.com/album/0gFZClQ1u36BTMamo4kX2F) | 3:59 | 2022-06-20 |  |
 | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [赵露思 Rosy](https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv) | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX) | 3:14 | 2023-08-14 |  |
 | [只要有你和我](https://open.spotify.com/track/3A6Famc5gdexD6jS9urHUR) | [陳緗妮](https://open.spotify.com/artist/6vv6vBtAsN2RRq1VylRupl), [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ) | [只要有你和我](https://open.spotify.com/album/4nFJUo8MEQ8E1tAPRClxve) | 3:19 | 2024-03-18 | 2024-04-20 |
@@ -371,7 +372,7 @@
 | [膽小鬼](https://open.spotify.com/track/5w4HRtuuF0pj70GGlePSET) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [梁詠琪gigi](https://open.spotify.com/album/3DJ9oBFFrxUiDgkgjSlpc7) | 4:18 | 2022-06-20 | 2022-07-22 |
 | [若你幸福](https://open.spotify.com/track/2v9CVwSRN0mOtIGVLBBE6a) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [若你幸福](https://open.spotify.com/album/3z1d8AuAoGXrqXqyrhvAOG) | 3:57 | 2022-06-13 | 2022-07-27 |
 | [莫名的想你](https://open.spotify.com/track/11nQNM8Dz2Hw6aD59Sn3SR) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0) | [BLUE\-HOO! \(Deluxe\)](https://open.spotify.com/album/7IyzEmX7Wpibs1WrudybFJ) | 3:17 | 2024-01-15 | 2024-01-29 |
-| [蓝色恋人](https://open.spotify.com/track/5zUlkfX7SP0kAm7z407ike) | [陈默之](https://open.spotify.com/artist/64nI5pSqRJfBxDaJ5GRoy3) | [蓝色恋人](https://open.spotify.com/album/01ganC9hjzAFwXxc7EcD0w) | 2:50 | 2025-02-13 |  |
+| [蓝色恋人](https://open.spotify.com/track/5zUlkfX7SP0kAm7z407ike) | [陈默之](https://open.spotify.com/artist/64nI5pSqRJfBxDaJ5GRoy3) | [蓝色恋人](https://open.spotify.com/album/01ganC9hjzAFwXxc7EcD0w) | 2:50 | 2025-02-13 | 2025-07-09 |
 | [藏不住的心跳\(《我只喜歡你》影視劇片頭曲\)](https://open.spotify.com/track/06lCOHWNcChv8OD1Eu3uu9) | [朱主愛](https://open.spotify.com/artist/2vL4i9Q9XBUFesjcAXKfKU) | [《我只喜歡你》影視原聲帶](https://open.spotify.com/album/3LDw6erSD3E4mzulS6wqWM) | 3:59 | 2022-06-06 | 2022-07-24 |
 | [蜂蜜月亮](https://open.spotify.com/track/4pEeMrkuigOI6ZRIpfL0v4) | [Valen Hsu](https://open.spotify.com/artist/0iW8EYj3iP2gpO5eU2Pvta) | [綻放的綻放的綻放](https://open.spotify.com/album/6LTJORKZE2w6k5b7mC5wbL) | 3:49 | 2022-07-04 | 2022-07-08 |
 | [行星戀](https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [行星戀](https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf) | 5:06 | 2022-06-06 | 2023-04-16 |

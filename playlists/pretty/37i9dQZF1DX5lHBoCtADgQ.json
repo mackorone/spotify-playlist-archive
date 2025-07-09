@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 41458,
+  "num_followers": 41486,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-07-03 08:30:54",
       "album": {
+        "name": "Sehreyan Wala",
+        "url": "https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ"
+      },
+      "artists": [
+        {
+          "name": "Pallavi Ishpuniyani",
+          "url": "https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf"
+        },
+        {
+          "name": "Avijeet Satapathy",
+          "url": "https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv"
+        }
+      ],
+      "duration_ms": 267241,
+      "name": "Sehreyan Wala",
+      "url": "https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P"
+    },
+    {
+      "added_at": "2025-07-03 08:30:54",
+      "album": {
         "name": "Sohni Mahiwal",
         "url": "https://open.spotify.com/album/2HpGttLBxp1R7Hvy0mmGZz"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 285714,
       "name": "Sohni Mahiwal",
       "url": "https://open.spotify.com/track/6sqD6HhnJacKXQQfziyTWB"
-    },
-    {
-      "added_at": "2025-07-03 08:30:54",
-      "album": {
-        "name": "Sehreyan Wala",
-        "url": "https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ"
-      },
-      "artists": [
-        {
-          "name": "Pallavi Ishpuniyani",
-          "url": "https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf"
-        },
-        {
-          "name": "Avijeet Satapathy",
-          "url": "https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv"
-        }
-      ],
-      "duration_ms": 267241,
-      "name": "Sehreyan Wala",
-      "url": "https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P"
     },
     {
       "added_at": "2025-07-03 08:30:54",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-07-03 08:30:54",
       "album": {
-        "name": "Tere Jeya Hor Disda",
-        "url": "https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc"
-      },
-      "artists": [
-        {
-          "name": "Siddharth Slathia",
-          "url": "https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7"
-        }
-      ],
-      "duration_ms": 275368,
-      "name": "Tere Jeya Hor Disda",
-      "url": "https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj"
-    },
-    {
-      "added_at": "2025-07-03 08:30:54",
-      "album": {
         "name": "Haani",
         "url": "https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2025-07-03 08:30:54",
       "album": {
-        "name": "The King (Greatest Hits)",
-        "url": "https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH"
+        "name": "Tere Jeya Hor Disda",
+        "url": "https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc"
       },
       "artists": [
         {
-          "name": "Surjit Bindrakhia",
-          "url": "https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX"
+          "name": "Siddharth Slathia",
+          "url": "https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7"
         }
       ],
-      "duration_ms": 298251,
-      "name": "(Boliyan) Geetan Da Guldasta",
-      "url": "https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2"
+      "duration_ms": 275368,
+      "name": "Tere Jeya Hor Disda",
+      "url": "https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj"
     },
     {
       "added_at": "2025-07-03 08:30:54",
@@ -899,6 +883,22 @@
       "duration_ms": 506831,
       "name": "Pher Auna Hai",
       "url": "https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR"
+    },
+    {
+      "added_at": "2025-07-03 08:30:54",
+      "album": {
+        "name": "The King (Greatest Hits)",
+        "url": "https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH"
+      },
+      "artists": [
+        {
+          "name": "Surjit Bindrakhia",
+          "url": "https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX"
+        }
+      ],
+      "duration_ms": 298251,
+      "name": "(Boliyan) Geetan Da Guldasta",
+      "url": "https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2"
     },
     {
       "added_at": "2025-07-03 08:30:54",

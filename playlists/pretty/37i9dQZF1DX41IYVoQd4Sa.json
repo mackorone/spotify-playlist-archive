@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05d1\u05d9\u05d3\u05df",
-  "num_followers": 32130,
+  "num_followers": 32141,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-07-03 21:00:14",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
+      },
+      "artists": [
+        {
+          "name": "Yael Deckelbaum",
+          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Only Love is Real",
+      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
+    },
+    {
+      "added_at": "2025-07-03 21:00:14",
+      "album": {
         "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
         "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 204423,
       "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
       "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
-    },
-    {
-      "added_at": "2025-07-03 21:00:14",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
-      },
-      "artists": [
-        {
-          "name": "Yael Deckelbaum",
-          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Only Love is Real",
-      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     },
     {
       "added_at": "2025-07-03 21:00:14",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-07-03 21:00:14",
       "album": {
-        "name": "It\u2019ll Probably Be Fine",
-        "url": "https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP"
-      },
-      "artists": [
-        {
-          "name": "flatmate sessions",
-          "url": "https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW"
-        },
-        {
-          "name": "Heart Sauce",
-          "url": "https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "It\u2019ll Probably Be Fine",
-      "url": "https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl"
-    },
-    {
-      "added_at": "2025-07-03 21:00:14",
-      "album": {
         "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
         "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 206276,
       "name": "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d2\u05dc",
       "url": "https://open.spotify.com/track/6l3iux77GY6VC4rBW4bmij"
+    },
+    {
+      "added_at": "2025-07-03 21:00:14",
+      "album": {
+        "name": "It\u2019ll Probably Be Fine",
+        "url": "https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP"
+      },
+      "artists": [
+        {
+          "name": "flatmate sessions",
+          "url": "https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW"
+        },
+        {
+          "name": "Heart Sauce",
+          "url": "https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "It\u2019ll Probably Be Fine",
+      "url": "https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl"
     },
     {
       "added_at": "2025-07-03 21:00:14",
@@ -863,18 +863,22 @@
     {
       "added_at": "2025-07-03 21:00:14",
       "album": {
-        "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt"
+        "name": "Running Out of Time",
+        "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
       },
       "artists": [
         {
-          "name": "Aviv Guedj",
-          "url": "https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT"
+          "name": "PA'AM",
+          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
+        },
+        {
+          "name": "Danny Kuttner",
+          "url": "https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH"
         }
       ],
-      "duration_ms": 263853,
-      "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy"
+      "duration_ms": 180661,
+      "name": "Running Out of Time",
+      "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

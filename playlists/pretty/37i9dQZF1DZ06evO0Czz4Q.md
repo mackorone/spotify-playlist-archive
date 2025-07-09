@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 
 > This is Luther Vandross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,853 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,866 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 24 | [Any Love](https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 5:02 |
 | 25 | [Can't Let You Go \(The Sha La Song\)](https://open.spotify.com/track/2WB9kG4tMNNtri6xvddDEG) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Dance](https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb) | 4:17 |
 | 26 | [Better Love](https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:24 |
-| 27 | [I Know](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:22 |
-| 28 | [Superstar](https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Essential Luther Vandross](https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN) | 5:38 |
-| 29 | [The Closer I Get to You \(feat\. Beyoncé Knowles\)](https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 6:25 |
+| 27 | [Superstar](https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Essential Luther Vandross](https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN) | 5:38 |
+| 28 | [The Closer I Get to You \(feat\. Beyoncé Knowles\)](https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 6:25 |
+| 29 | [I Know](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:22 |
 | 30 | [Promise Me](https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 4:42 |
 | 31 | [Anyone Who Had a Heart](https://open.spotify.com/track/45iQcSIJBgJkD2YI4XhXV2) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 5:46 |
 | 32 | [Love Won't Let Me Wait](https://open.spotify.com/track/0j8bk2BNaEj0PYcNFCGwLb) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 7:18 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 38 | [Creepin'](https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 4:05 |
 | 39 | [All The Woman I Need](https://open.spotify.com/track/2VcUWg5UIQo0H5AqeA38zc) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:54 |
 | 40 | [For You to Love](https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 5:37 |
-| 41 | [Because It's Really Love](https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 6:13 |
-| 42 | [Sugar and Spice \(I Found Me a Girl\)](https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 4:57 |
+| 41 | [Sugar and Spice \(I Found Me a Girl\)](https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 4:57 |
+| 42 | [Because It's Really Love](https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 6:13 |
 | 43 | [Bring Your Heart To Mine](https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 4:21 |
 | 44 | [Forever, for Always, for Love](https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:22 |
 | 45 | [The Impossible Dream](https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 5:15 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 47 | [Hearts Get Broken All The Time \(But The Problem Is, This Time It's Mine\)](https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:19 |
 | 48 | [I Can Make It Better](https://open.spotify.com/track/70NmePXQxL3b688VuLSFae) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 5:35 |
 | 49 | [It's All About You](https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 5:27 |
-| 50 | [Going In Circles](https://open.spotify.com/track/2wiLzbvgtRr6DPoA83kRKV) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 5:10 |
+| 50 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:52 |
 
-Snapshot ID: `aGm8gAAAAAA+3xYudBiBRP4nBpD8mdv8`
+Snapshot ID: `aGsOAAAAAAD3VbYK3RPMfDuBzmmzdrVE`

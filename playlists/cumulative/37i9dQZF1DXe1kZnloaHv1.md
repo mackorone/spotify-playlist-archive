@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-103 songs - 5 hr 31 min
+105 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [New Reels \(Feat\. pH\-1\)](https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:03 | 2024-11-26 |  |
 | [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 |  |
 | [No worries, I'm good](https://open.spotify.com/track/0m4QIgom2N3cN0sQflx9aS) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [NOW NOW](https://open.spotify.com/album/7zvJRzVY3xALSzV4NOENp9) | 2:49 | 2025-04-08 |  |
+| [Nobody Knows It](https://open.spotify.com/track/0vuoatM8LzFAacNflEPb98) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [The 1st full album \[BLISS\]](https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d) | 2:51 | 2025-07-09 |  |
 | [NOTHIN′](https://open.spotify.com/track/7KDtW0MJb331Hjez4iBVu0) | [SuperSu](https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6) | [NOTHIN'](https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1) | 2:20 | 2023-11-09 |  |
 | [OMG, It's pointless](https://open.spotify.com/track/0PROctJxUWzqpBfuECVkvH) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [OMG, It's pointless](https://open.spotify.com/album/4Zi4DXDNL4LydfWS5vxPeN) | 3:22 | 2023-11-09 |  |
 | [ONE DAY \(Feat\. Chan\)](https://open.spotify.com/track/3SHnqFpmmpUewHcxiM8is8) | [1DAY](https://open.spotify.com/artist/62bupmhlc6QqEDiYkXfQ9l), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [ONE DAY \(Feat\. Chan\)](https://open.spotify.com/album/5wxGKKvTwGBgL87IJa00PR) | 3:19 | 2023-11-09 |  |
@@ -90,6 +91,7 @@
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2023-11-09 | 2025-05-08 |
 | [Take It Slow](https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/6cmHhqsTvRJfWzCmowRGuY) | 2:50 | 2023-11-09 | 2024-04-19 |
 | [Take It Slow](https://open.spotify.com/track/4znMAwSb5JrHcxLyXukcu9) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/0yvYev6X53DfOZ5zWfLTDN) | 2:50 | 2023-11-09 |  |
+| [The Lament of a Ghost Who Dreamed of Wealth \(feat\. Kim Myungjun\)](https://open.spotify.com/track/4FqnKA4lAAwXXIiBKjcRVs) | [The Shinbi House](https://open.spotify.com/artist/4TFCOk1S65SgCVHL5mrsQn), [Kim Myungjun](https://open.spotify.com/artist/0rxiCyKtPqXEvijEh1VIOR) | [The Lament of a Ghost Who Dreamed of Wealth \(feat\. Kim Myungjun\)](https://open.spotify.com/album/7EomTHaYJJlNp1CKzwDCYW) | 3:36 | 2025-07-09 |  |
 | [things happen](https://open.spotify.com/track/601WGVoiTsZLB9qcc4Ae0F) | [gyomunapchick](https://open.spotify.com/artist/4vqiBnhsibr88FzJEGhlEg) | [mindset](https://open.spotify.com/album/2OlnR72oOhgAvPmZRj8BAW) | 3:12 | 2023-11-09 |  |
 | [Thursday Taco Man](https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Thursday Taco Man](https://open.spotify.com/album/5jMXKuGYikxGM8wpFARRL2) | 3:02 | 2024-10-08 |  |
 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 | 2023-11-09 |  |

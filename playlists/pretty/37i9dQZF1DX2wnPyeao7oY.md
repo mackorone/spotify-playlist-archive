@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Chained Saint
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,924 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,940 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 23 | [Only We Know](https://open.spotify.com/track/1p1XCeiPjsfTjb2eRnbuph) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Only We Know](https://open.spotify.com/album/0EUhJXMwZL5WMI9Sit4ZeT) | 3:42 |
 | 24 | [Arch Enemy](https://open.spotify.com/track/2M0RLsytPuk2oGvfiSV27b) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN), [VS / U](https://open.spotify.com/artist/1j2GLY97RB975mOth1nnvC) | [Arch Enemy](https://open.spotify.com/album/2ytGgsJOI7bxg8Gax5TrcV) | 3:21 |
 | 25 | [SUFFER IN THE DARK](https://open.spotify.com/track/72tbts7CGQ7PWmnfCGvrPp) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [HIDE FROM THE LIGHT](https://open.spotify.com/album/2AeR1fwv8q6ocY1FAjShdB) | 3:05 |
-| 26 | [Little Death](https://open.spotify.com/track/5CcdP6Gq2mH78hdAXxIVHC) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [Little Death](https://open.spotify.com/album/3Ew9Jg8AaIqSkMONOAPhKF) | 4:01 |
+| 26 | [Little Death](https://open.spotify.com/track/5CcdP6Gq2mH78hdAXxIVHC) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [Little Death](https://open.spotify.com/album/3Ew9Jg8AaIqSkMONOAPhKF) | 3:57 |
 | 27 | [Sleight of Hand \- Candyland Sessions](https://open.spotify.com/track/37gAUddvRyRBZscwdDkR7k) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Sleight of Hand \(Candyland Sessions\)](https://open.spotify.com/album/6kyyVnK3iaP4zuuXdS19Fk) | 3:59 |
 | 28 | [Burn My Creation](https://open.spotify.com/track/7zmggUnNu4v6uJEYNAFBNH) | [ASHEN SKY](https://open.spotify.com/artist/0fl9PLsc86HWFAwcnbVDfg) | [Burn My Creation](https://open.spotify.com/album/605YH992EXr2YsOFLWhaKg) | 4:02 |
 | 29 | [554th](https://open.spotify.com/track/5DjARdbR6b4tJZFkWUI70m) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [554th](https://open.spotify.com/album/6vliE8WzMTVFFgDd575shV) | 2:48 |

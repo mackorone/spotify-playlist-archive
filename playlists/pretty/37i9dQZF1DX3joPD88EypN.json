@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 54195,
+  "num_followers": 54223,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 307356,
       "name": "Winx",
       "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "The Land That Is Not",
-        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
-      },
-      "artists": [
-        {
-          "name": "Sinikka Langeland",
-          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
-        }
-      ],
-      "duration_ms": 375653,
-      "name": "Triumph Of Being",
-      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "First Song",
         "url": "https://open.spotify.com/album/3QQclg7ryOGX2BjlxeTAnu"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 292936,
       "name": "Elegy for an Angel",
       "url": "https://open.spotify.com/track/0AyVDuy1RxHq8ZNJpWxeAa"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "The Land That Is Not",
+        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Langeland",
+          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
+        }
+      ],
+      "duration_ms": 375653,
+      "name": "Triumph Of Being",
+      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "As If The Ghost \u2026 Was Me!?",
+        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "As If The Ghost \u2026 Was Me!?",
+      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Vega",
         "url": "https://open.spotify.com/album/2sjkGK7007cwsQ20KSNZJi"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 279152,
       "name": "Vega",
       "url": "https://open.spotify.com/track/1LM1En88tXoKliliJdiS8l"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "As If The Ghost \u2026 Was Me!?",
-        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "As If The Ghost \u2026 Was Me!?",
-      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1315,6 +1315,30 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
+      },
+      "artists": [
+        {
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+        }
+      ],
+      "duration_ms": 487053,
+      "name": "Cinematic",
+      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Scandinavian Standards",
         "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
       },
@@ -1327,6 +1351,34 @@
       "duration_ms": 306826,
       "name": "The Lilly Flower - Liljankukka",
       "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "The Height of the Reeds",
+        "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        },
+        {
+          "name": "Jez Riley French",
+          "url": "https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc"
+        }
+      ],
+      "duration_ms": 263137,
+      "name": "Height of the Reeds in the Wetlands",
+      "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1363,58 +1415,6 @@
       "duration_ms": 498112,
       "name": "Adam",
       "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
-      },
-      "artists": [
-        {
-          "name": "Arne Torvik Trio",
-          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
-        },
-        {
-          "name": "Bj\u00f8rnar Kaldefoss Tveite",
-          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
-        },
-        {
-          "name": "\u00d8ystein Aarnes Vik",
-          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
-        }
-      ],
-      "duration_ms": 487053,
-      "name": "Cinematic",
-      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "The Height of the Reeds",
-        "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        },
-        {
-          "name": "Jez Riley French",
-          "url": "https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc"
-        }
-      ],
-      "duration_ms": 263137,
-      "name": "Height of the Reeds in the Wetlands",
-      "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Touch of Time",
         "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 526520,
       "name": "Redream",
       "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
-      },
-      "artists": [
-        {
-          "name": "Agnes Darelid",
-          "url": "https://open.spotify.com/artist/7btMzx5phlm78f1z2irPQ1"
-        },
-        {
-          "name": "Liliana Zavala",
-          "url": "https://open.spotify.com/artist/318joJnkZbXBwp9t8DGqyx"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "Anten",
-      "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Asthma Breath",
         "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
       },
@@ -1739,22 +1719,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "P\u00e5 havets bunn",
-        "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
       },
       "artists": [
         {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+          "name": "Agnes Darelid",
+          "url": "https://open.spotify.com/artist/7btMzx5phlm78f1z2irPQ1"
         },
         {
-          "name": "Erland Dahlen",
-          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+          "name": "Liliana Zavala",
+          "url": "https://open.spotify.com/artist/318joJnkZbXBwp9t8DGqyx"
         }
       ],
-      "duration_ms": 212600,
-      "name": "P\u00e5 havets bunn",
-      "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
+      "duration_ms": 350720,
+      "name": "Anten",
+      "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1779,6 +1759,26 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "P\u00e5 havets bunn",
+        "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        },
+        {
+          "name": "Erland Dahlen",
+          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "P\u00e5 havets bunn",
+      "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Innr\u00f8nt",
-        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        },
-        {
-          "name": "Erland Dahlen",
-          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Innr\u00f8nt",
-      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 269258,
       "name": "I Kirken",
       "url": "https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Innr\u00f8nt",
+        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        },
+        {
+          "name": "Erland Dahlen",
+          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Innr\u00f8nt",
+      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
     },
     {
       "added_at": "2025-03-07 09:20:11",

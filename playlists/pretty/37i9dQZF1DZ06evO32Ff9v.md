@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,507 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,543 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 22 | [El Mariguapo](https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [El Mariguapo](https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5) | 2:50 |
 | 23 | [Don Mayo](https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Don Mayo](https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5) | 3:11 |
 | 24 | [El Morro](https://open.spotify.com/track/5Gn6rBQBSRB2m4lj79XxLW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [El Morro](https://open.spotify.com/album/6SXwiwWjSaCn0KXCgjwk4v) | 3:43 |
-| 25 | [La Mera Marca \(Frostix\)](https://open.spotify.com/track/6gBklUstYsMXwIshzFuokW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Mera Marca \(Frostix\)](https://open.spotify.com/album/6Mqd5nHyiabPoQtKodtKAr) | 3:07 |
+| 25 | [Los Sierra](https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Los Sierra](https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk) | 2:48 |
 | 26 | [Señor Miedo](https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Señor Miedo](https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb) | 3:52 |
-| 27 | [Los Sierra](https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Los Sierra](https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk) | 2:48 |
+| 27 | [La Mera Marca \(Frostix\)](https://open.spotify.com/track/6gBklUstYsMXwIshzFuokW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Mera Marca \(Frostix\)](https://open.spotify.com/album/6Mqd5nHyiabPoQtKodtKAr) | 3:07 |
 | 28 | [El Halcon](https://open.spotify.com/track/6XlkDOzPNCvBhrBRMEgpK9) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Halcon](https://open.spotify.com/album/1qgHPNs3Yz5aTKZXTc6Ycy) | 3:44 |
 | 29 | [El Buenazo](https://open.spotify.com/track/09n6isQIxzROWYMFgkKz10) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:59 |
 | 30 | [La Torre De Oro](https://open.spotify.com/track/0UuHledJeNZ99QsL1C3VWo) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Torre De Oro](https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
 | 50 | [A La Orden](https://open.spotify.com/track/3lysUQykedOafocejhc0lc) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [A La Orden](https://open.spotify.com/album/2xu7N2abDu6BgByx6gfFn4) | 2:57 |
 
-Snapshot ID: `aGm8gAAAAAArsh6iwAxeYU7WsjIeUpvU`
+Snapshot ID: `aGsOAAAAAABVtewkfQjWoc2OHGgd7i2o`

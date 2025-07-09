@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 134294,
+  "num_followers": 134311,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-06-27 05:18:13",
       "album": {
+        "name": "Peda\u00e7o",
+        "url": "https://open.spotify.com/album/7tylAudKUycYHIbKX4MVJf"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Peda\u00e7o",
+      "url": "https://open.spotify.com/track/5U5ZcyWOxsNcojmK3e3Ivs"
+    },
+    {
+      "added_at": "2025-06-27 05:18:13",
+      "album": {
         "name": "Baile \u00e0 la Baiana",
         "url": "https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 205315,
       "name": "Gente Boa se Atrai",
       "url": "https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX"
-    },
-    {
-      "added_at": "2025-06-27 05:18:13",
-      "album": {
-        "name": "Peda\u00e7o",
-        "url": "https://open.spotify.com/album/7tylAudKUycYHIbKX4MVJf"
-      },
-      "artists": [
-        {
-          "name": "Tom Ribeira",
-          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Peda\u00e7o",
-      "url": "https://open.spotify.com/track/5U5ZcyWOxsNcojmK3e3Ivs"
     },
     {
       "added_at": "2025-06-27 05:18:13",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-06-27 05:18:13",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+        "name": "segredo",
+        "url": "https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+      "duration_ms": 192555,
+      "name": "segredo",
+      "url": "https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ"
     },
     {
       "added_at": "2025-06-27 05:18:13",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-06-27 05:18:13",
       "album": {
-        "name": "segredo",
-        "url": "https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s"
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
         }
       ],
-      "duration_ms": 192555,
-      "name": "segredo",
-      "url": "https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ"
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2025-06-27 05:18:13",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-06-27 05:18:13",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
-    },
-    {
-      "added_at": "2025-06-27 05:18:13",
-      "album": {
         "name": "Carinhoso",
         "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
       },
@@ -843,22 +827,18 @@
     {
       "added_at": "2025-06-27 05:18:13",
       "album": {
-        "name": "Trevo, Figuinha e Suor na Camisa",
-        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Trevo, Figuinha e Suor na Camisa",
-      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2025-06-27 05:18:13",
@@ -875,6 +855,26 @@
       "duration_ms": 271293,
       "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
       "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
+    },
+    {
+      "added_at": "2025-06-27 05:18:13",
+      "album": {
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
     },
     {
       "added_at": "2025-06-27 05:18:13",
@@ -919,18 +919,34 @@
     {
       "added_at": "2025-06-27 05:18:13",
       "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+        "name": "Parafuso",
+        "url": "https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Qinhones",
+          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
         }
       ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
+      "duration_ms": 279003,
+      "name": "Parafuso",
+      "url": "https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX"
+    },
+    {
+      "added_at": "2025-06-27 05:18:13",
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 304780,
+      "name": "Enquanto Durmo",
+      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
     },
     {
       "added_at": "2025-06-27 05:18:13",
@@ -963,34 +979,18 @@
     {
       "added_at": "2025-06-27 05:18:13",
       "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 304780,
-      "name": "Enquanto Durmo",
-      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
-    },
-    {
-      "added_at": "2025-06-27 05:18:13",
-      "album": {
-        "name": "Parafuso",
-        "url": "https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F"
-      },
-      "artists": [
-        {
-          "name": "Qinhones",
-          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
-        }
-      ],
-      "duration_ms": 279003,
-      "name": "Parafuso",
-      "url": "https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX"
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2025-06-27 05:18:13",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-06-27 05:18:13",
       "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Choror\u00f4",
+      "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
+    },
+    {
+      "added_at": "2025-06-27 05:18:13",
+      "album": {
         "name": "Faz Uma Loucura Por Mim",
         "url": "https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 215889,
       "name": "Faz Uma Loucura Por Mim",
       "url": "https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL"
-    },
-    {
-      "added_at": "2025-06-27 05:18:13",
-      "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Choror\u00f4",
-      "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
     },
     {
       "added_at": "2025-06-27 05:18:13",

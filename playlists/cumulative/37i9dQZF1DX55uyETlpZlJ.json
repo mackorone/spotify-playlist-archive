@@ -3631,6 +3631,28 @@
     },
     {
       "album": {
+        "name": "Hrudaya Rogi",
+        "url": "https://open.spotify.com/album/1Ra1UFUGlwyMz8PFnKms14"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhat",
+          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
+        },
+        {
+          "name": "Rutvij Joshi",
+          "url": "https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189912,
+      "name": "Hrudaya Rogi",
+      "url": "https://open.spotify.com/track/4js3DpGwRybcniskdJG7H3"
+    },
+    {
+      "album": {
         "name": "Hrudhaya",
         "url": "https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0"
       },
@@ -5502,7 +5524,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 171827,
       "name": "Manase Relax",
       "url": "https://open.spotify.com/track/39jpvgTkYZkH8bNeaIDFP2"

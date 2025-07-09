@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 
 > This is Kenia Os\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,860 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,868 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 4 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 |
 | 5 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
 | 6 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 |
-| 7 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
-| 8 | [AyMami](https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [AyMami](https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7) | 2:44 |
+| 7 | [AyMami](https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [AyMami](https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7) | 2:44 |
+| 8 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
 | 9 | [Mi Salida Contigo](https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 2:55 |
 | 10 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
 | 11 | [La Invitación](https://open.spotify.com/track/5i2u1LN3LOhhKyd5nBKBK0) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:29 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 30 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
 | 31 | [Un Bezito](https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Un Bezito](https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b) | 2:36 |
 | 32 | [OMG](https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:02 |
-| 33 | [Shillin'](https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:50 |
+| 33 | [Morir de Amor](https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:45 |
 | 34 | [Bad Boy! \- feat\. Kenia OS](https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bad Boy! \(feat\. Kenia OS\)](https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ) | 2:45 |
 | 35 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 |
 | 36 | [SAN TURRONA REMIX](https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [SAN TURRONA REMIX](https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY) | 3:02 |
-| 37 | [Morir de Amor](https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:45 |
+| 37 | [Shillin'](https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:50 |
 | 38 | [Cocteles](https://open.spotify.com/track/5rb0LAGWkFdWjn46LyidC5) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cocteles](https://open.spotify.com/album/5QNceY1SDl0pwAQ9fRMm0I) | 2:17 |
 | 39 | [Replay](https://open.spotify.com/track/5cAKmfCaqnYUnXqvTK8RxU) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Replay](https://open.spotify.com/album/014sL3c9p52nmazlOZYInd) | 2:50 |
 | 40 | [Toketeo](https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Toketeo](https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 49 | [Diamantes](https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Diamantes](https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA) | 2:58 |
 | 50 | [Para No Verte Más](https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Para No Verte Más](https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG) | 3:17 |
 
-Snapshot ID: `aGm8gAAAAAAYF3Qg2Ns3CORqi+CHcsnA`
+Snapshot ID: `aGsOAAAAAACBmrgv+TPYPF0FFTZ5Zr7X`

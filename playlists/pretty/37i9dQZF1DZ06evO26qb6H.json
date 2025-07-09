@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABnsi8szklZm6InajThgh6+",
+  "snapshot_id": "aGsOAAAAAADjOBEH+UhGrR8kCRqiGkT0",
   "tracks": [
     {
       "added_at": null,
@@ -187,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 210489,
-      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
-      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUCY",
         "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
       },
@@ -235,6 +211,30 @@
       "duration_ms": 251128,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 210489,
+      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
+      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
     },
     {
       "added_at": null,

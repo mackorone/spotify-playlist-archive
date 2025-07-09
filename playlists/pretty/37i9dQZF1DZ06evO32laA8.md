@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 
 > This is Isabel LaRosa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,057 likes - 30 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,077 likes - 30 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 | 12 | [eyes don't lie sped up](https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:09 |
 | 13 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 |
 | 14 | [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 |
-| 15 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 |
-| 16 | [Favorite Sped Up](https://open.spotify.com/track/0H2hzCPL66lueCl5n9qpob) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:02 |
+| 15 | [Favorite Sped Up](https://open.spotify.com/track/0H2hzCPL66lueCl5n9qpob) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:02 |
+| 16 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 |
 | 17 | [butterflies](https://open.spotify.com/track/5I9Syg73cBY7r4POeccPzy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:24 |
 | 18 | [Famous](https://open.spotify.com/track/4OVK8oaLIhx9Xu0P8D3SA7) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:58 |
 | 19 | [HELP](https://open.spotify.com/track/27UPUoSlHZUo11BTf5dKeJ) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HELP](https://open.spotify.com/album/6CydFdcFJFwqV5yXUR8LRb) | 2:16 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 | 29 | [praying](https://open.spotify.com/track/2nPOaOSY7HAitNxGGhM0cR) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:46 |
 | 30 | [Destroy Myself For You](https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
 
-Snapshot ID: `aGm8gAAAAAC0dtsQYVGC+ghyy/IcKgpx`
+Snapshot ID: `aGsOAAAAAAC2wwVHBqVtRH41mwaOGfgT`

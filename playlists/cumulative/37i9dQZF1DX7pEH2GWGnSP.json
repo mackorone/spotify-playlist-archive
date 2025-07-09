@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/7EsVt6j6nJ6U9JRbJD8OlM"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143797,
+      "name": "HOT (Japanese ver.)",
+      "url": "https://open.spotify.com/track/3KrVjZq7pd3nvAmXAVy2lX"
+    },
+    {
+      "album": {
         "name": "HOT (LE SSERAFIM Package)",
         "url": "https://open.spotify.com/album/1f5xm4vrWYjq6SXgWj9Dm5"
       },
@@ -1176,6 +1194,24 @@
       "duration_ms": 157168,
       "name": "jellyfish",
       "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
+    },
+    {
+      "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/7EsVt6j6nJ6U9JRbJD8OlM"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200897,
+      "name": "Kawaii (Prod. Gen Hoshino)",
+      "url": "https://open.spotify.com/track/0LR3NuYLVcr8pqmxHzLkHT"
     },
     {
       "album": {

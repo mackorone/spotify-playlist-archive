@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 176000,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/2c02JeGzAP0p3CvCGcL9hN"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 172894,
       "name": "BLUSH",
       "url": "https://open.spotify.com/track/5NUhNHjkyThQGAjm2M6gni"
@@ -6888,7 +6888,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 210666,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/2uxmaOqUv8HGSWyZNMJIA0"
@@ -8676,7 +8676,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 199034,
       "name": "Hyperstrike",
       "url": "https://open.spotify.com/track/0UKAhAIlMCi61n7Q8Q0hmR"
@@ -16367,6 +16367,24 @@
     },
     {
       "album": {
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/53ECP7lpXO3iCOwPREqy4U"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Should've Known Better",
+      "url": "https://open.spotify.com/track/0lZmRfdj1CpstyZzFIGGxQ"
+    },
+    {
+      "album": {
         "name": "Show Me!",
         "url": "https://open.spotify.com/album/5JuSjDOYp2huFAToRSDTYi"
       },
@@ -20292,7 +20310,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 200853,
       "name": "WATCH OUT!",
       "url": "https://open.spotify.com/track/5JZTxaNJMHNVZ6vR41UTkM"

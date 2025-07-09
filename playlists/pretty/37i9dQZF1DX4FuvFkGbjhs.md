@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Sudan Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,677 likes - 105 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,662 likes - 105 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

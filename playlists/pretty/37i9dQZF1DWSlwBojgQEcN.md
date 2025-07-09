@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,724 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,157 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 8 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 |
 | 9 | [All Again](https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 3:48 |
 | 10 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 |
-| 11 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
-| 12 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
+| 11 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
+| 12 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
 | 13 | [a thousand years](https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc) | 4:45 |
 | 14 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 15 | [August \(Acoustic\)](https://open.spotify.com/track/2JXiyD1zucGdFmnTeYb5Ry) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [August \(Acoustic\)](https://open.spotify.com/album/6uGsmECvPd2VoQI5OfnSPL) | 5:02 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 27 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
 | 28 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 29 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
-| 30 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
-| 31 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
+| 30 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
+| 31 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
 | 32 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
 | 33 | [Big Love Ahead](https://open.spotify.com/track/3RGfmaB407YxayMDaV2jlO) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Big Love Ahead](https://open.spotify.com/album/0XT6wyN9L8cv0On0rOKNIb) | 1:48 |
 | 34 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 83 | [I Can't Keep from Loving You](https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2) | [Andrew James](https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU) | [Shoreline](https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz) | 4:12 |
 | 84 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 | 85 | [Wondrous Love](https://open.spotify.com/track/1XxBNS8YE8bSpzXjXYpQCY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 2:35 |
-| 86 | [Wedding Song](https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:04 |
-| 87 | [The Girl I Haven't Met](https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm) | [Nate Richert](https://open.spotify.com/artist/6ldgbkFgkKxOTa5caCyUDl) | [Halogen Moon](https://open.spotify.com/album/5PkIwmxoxW1qDDw18qjrS2) | 2:59 |
+| 86 | [The Girl I Haven't Met](https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm) | [Nate Richert](https://open.spotify.com/artist/6ldgbkFgkKxOTa5caCyUDl) | [Halogen Moon](https://open.spotify.com/album/5PkIwmxoxW1qDDw18qjrS2) | 2:59 |
+| 87 | [Wedding Song](https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:04 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
 | 89 | [I Do](https://open.spotify.com/track/0x2kJ54nT96frJQ27700jS) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Euphorics](https://open.spotify.com/album/1WPoh6fbUUAapxP6xfeY9D) | 3:39 |
 | 90 | [Chandelier Love](https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:23 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 93 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
 | 94 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 |
 | 95 | [Everything's Fine](https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Everything's Fine](https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ) | 3:29 |
-| 96 | [Upon These Stones](https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu) | [Tom Francis](https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH) | [One Step Away](https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ) | 4:18 |
+| 96 | [Monte Carlo](https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Monte Carlo](https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak) | 3:47 |
 | 97 | [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 |
-| 98 | [Monte Carlo](https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Monte Carlo](https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak) | 3:47 |
-| 99 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
+| 98 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
+| 99 | [Upon These Stones](https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu) | [Tom Francis](https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH) | [One Step Away](https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ) | 4:18 |
 | 100 | [Whatever You Do](https://open.spotify.com/track/4K37GcwIOuIiN9LxLw98Us) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Whatever You Do](https://open.spotify.com/album/01MktWtflLn2FrKjMYNtVM) | 4:07 |
 
 Snapshot ID: `aF1tFgAAAADL9oMhmXssmPPhqFP99FbY`

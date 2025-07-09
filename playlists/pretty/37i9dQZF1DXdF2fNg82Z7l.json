@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...cover:",
-  "num_followers": 127549,
+  "num_followers": 127607,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 206400,
       "name": "Sex With Me",
       "url": "https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Change & Remain",
-        "url": "https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
+        "name": "Change & Remain",
+        "url": "https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Quantum Baby",
-        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
+        "name": "Quantum Baby",
+        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
     },
     {
       "added_at": "2025-06-20 02:19:32",

@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Pulp",
-  "num_followers": 558138,
+  "num_followers": 558423,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-06-30 11:37:54",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "added_at": "2025-06-30 11:37:54",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2025-06-30 11:37:54",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2025-06-30 11:37:54",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-06-30 11:37:54",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
-    },
-    {
-      "added_at": "2025-06-30 11:37:54",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 215160,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
+    },
+    {
+      "added_at": "2025-06-30 11:37:54",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
     },
     {
       "added_at": "2025-06-30 11:37:54",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-06-30 11:37:54",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
-    },
-    {
-      "added_at": "2025-06-30 11:37:54",
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "added_at": "2025-06-30 11:37:54",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2025-06-30 11:37:54",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-06-30 11:37:54",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
-    },
-    {
-      "added_at": "2025-06-30 11:37:54",
-      "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 212013,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"
+    },
+    {
+      "added_at": "2025-06-30 11:37:54",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2025-06-30 11:37:54",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-06-30 11:37:54",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2025-06-30 11:37:54",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 289560,
       "name": "Don't Look Back In Anger - Remastered",
       "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+    },
+    {
+      "added_at": "2025-06-30 11:37:54",
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2025-06-30 11:37:54",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-06-30 11:37:54",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
-    },
-    {
-      "added_at": "2025-06-30 11:37:54",
-      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 193320,
       "name": "Bigmouth Strikes Again - 2011 Remaster",
       "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+    },
+    {
+      "added_at": "2025-06-30 11:37:54",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2025-07-04 00:30:32",

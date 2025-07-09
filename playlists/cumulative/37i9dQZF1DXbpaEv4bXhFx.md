@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-240 songs - 14 hr 38 min
+242 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [babyblue](https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX) | 3:48 | 2023-09-20 | 2023-11-02 |
 | [Back](https://open.spotify.com/track/7Fh5m2ZoYoRcs8aNvDetIi) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:25 | 2022-06-20 | 2022-07-06 |
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2022-06-20 | 2022-06-28 |
+| [Because It's Raining](https://open.spotify.com/track/45wtKqTsplQDFyBd7lNgpu) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Because It's Raining](https://open.spotify.com/album/6XUJibvHZxh8N9YlAgK5YO) | 4:25 | 2025-07-08 |  |
 | [Because it's you](https://open.spotify.com/track/4R6vtch9Mb2a1xkZheaDZU) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [You Are My Spring OST Part 2](https://open.spotify.com/album/0hDpePbI4nFXfX5VAgBO3J) | 3:46 | 2022-06-20 | 2022-07-23 |
-| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 |  |
+| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 | 2025-07-09 |
 | [bird](https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [wave 0.01](https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld) | 3:36 | 2023-02-14 | 2024-04-19 |
 | [bird](https://open.spotify.com/track/4My7LoAyoRjvqHWWM2i1R4) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [wave 0.01](https://open.spotify.com/album/2yXHoZzQiKV8WZZhG9V3pb) | 3:36 | 2022-06-20 | 2022-06-26 |
 | [bittersweet](https://open.spotify.com/track/3JqgRqxVfoZXfDWYosS9ef) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [STOP OVER](https://open.spotify.com/album/6uDov9hyYO6A3IKH1bALL7) | 3:28 | 2022-06-20 | 2022-07-29 |
@@ -127,6 +128,7 @@
 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 | 2022-07-22 | 2024-04-19 |
 | [MISSING U](https://open.spotify.com/track/3ga39Pl8BtmEQOFLHHnSnb) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 4:08 | 2022-07-13 | 2022-07-19 |
 | [MONOLOGUE](https://open.spotify.com/track/3voGBHMWnfdodTDRtScUIp) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Refresh project](https://open.spotify.com/album/3ikVmbEKal0oTteXvYuOz0) | 4:16 | 2022-06-20 | 2022-07-29 |
+| [Monsoon](https://open.spotify.com/track/67RoLSljoeaLzbSaucyZNe) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Monsoon](https://open.spotify.com/album/1x7Q2hrQbSlYzqQ27WBdLG) | 2:50 | 2025-07-08 |  |
 | [Monsoon](https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Monsoon](https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY) | 3:49 | 2025-07-03 |  |
 | [My Ceiling Disappeared](https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:35 | 2022-06-20 | 2025-01-10 |
 | [My Day Is Full Of You](https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-06-20 | 2022-07-06 |
@@ -186,7 +188,7 @@
 | [Second Lover](https://open.spotify.com/track/0fag5Srel9h2sq6E5UySK7) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d), [Sane](https://open.spotify.com/artist/4TemJ3x72090Sbqw1X9Hbq) | [Voice](https://open.spotify.com/album/0thbcQxGSCIx16pfNSNpVG) | 3:51 | 2022-06-20 | 2022-07-25 |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-05-05 | 2024-04-19 |
 | [Seed](https://open.spotify.com/track/5PinFdI9r167ql5cVNYtFR) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 4:15 | 2024-04-09 |  |
-| [Shadow Love](https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 | 2023-02-25 |  |
+| [Shadow Love](https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 | 2023-02-25 | 2025-07-09 |
 | [sigh](https://open.spotify.com/track/2fJ38mbJNnRtHwfQ1cgyjy) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 3:44 | 2022-06-20 | 2022-07-28 |
 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/0ifztmwdgzbJe8RU9tXBFk) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:05 | 2022-06-20 | 2022-07-27 |
 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:05 | 2022-07-22 | 2022-08-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4792390,
+  "num_followers": 4792183,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,18 @@
     {
       "added_at": "2025-01-03 20:42:39",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2025-01-03 20:42:39",
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-01-03 20:42:39",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "added_at": "2025-03-21 04:00:45",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-01-03 20:42:39",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2025-01-03 20:42:39",
-      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2025-01-03 20:42:39",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2025-06-20 04:00:49",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
+      "added_at": "2025-06-20 04:00:49",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
       "added_at": "2025-01-03 20:42:39",
       "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
@@ -1123,22 +1139,6 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2025-06-20 04:00:49",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2025-01-03 20:42:39",
@@ -1593,6 +1593,22 @@
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
+      "added_at": "2025-07-04 04:00:27",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 214755,
+      "name": "RED FLAG.",
+      "url": "https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8"
+    },
+    {
       "added_at": "2025-01-03 20:42:39",
       "album": {
         "name": "Espresso (Working Late Remixes)",
@@ -1683,22 +1699,6 @@
       "duration_ms": 154504,
       "name": "Criminals",
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
-    },
-    {
-      "added_at": "2025-07-04 04:00:27",
-      "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 214755,
-      "name": "RED FLAG.",
-      "url": "https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8"
     },
     {
       "added_at": "2025-01-03 20:42:39",

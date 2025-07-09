@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,238 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,240 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 85 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 |
 | 86 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 | 87 | [Empatia](https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:52 |
-| 88 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
-| 89 | [Amelie](https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Amelie](https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q) | 3:18 |
-| 90 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 |
-| 91 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
+| 88 | [Amelie](https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Amelie](https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q) | 3:18 |
+| 89 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
+| 90 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
+| 91 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 |
 | 92 | [Febbre a Febbraio \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Febbre a febbraio](https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd) | 3:06 |
 | 93 | [ME & YOU](https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [ME & YOU](https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H) | 2:17 |
 | 94 | [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 |
-| 95 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 |
-| 96 | [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 |
+| 95 | [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 |
+| 96 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 |
 | 97 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
-| 98 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
-| 99 | [LOVE YOU](https://open.spotify.com/track/1lzsDp83GACPRDsLt5roce) | [Bori](https://open.spotify.com/artist/6tBad4O8C3Id2gde3eWanf) | [LOVE YOU](https://open.spotify.com/album/5kqUFU5j1sHbrasBtAptbR) | 2:19 |
+| 98 | [LOVE YOU](https://open.spotify.com/track/1lzsDp83GACPRDsLt5roce) | [Bori](https://open.spotify.com/artist/6tBad4O8C3Id2gde3eWanf) | [LOVE YOU](https://open.spotify.com/album/5kqUFU5j1sHbrasBtAptbR) | 2:19 |
+| 99 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
 | 100 | [X4](https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [X4](https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl) | 2:34 |
 
 Snapshot ID: `aGvidQAAAABT2xYkyOtao8A5/w8DtAKy`

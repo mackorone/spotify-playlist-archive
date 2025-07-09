@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Still Caravan
 
-139 songs - 10 hr 36 min
+141 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blue Bird](https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Synesthesia](https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8) | 5:09 | 2024-02-27 |  |
 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 | 2023-03-14 |  |
 | [Brand\-New Summer](https://open.spotify.com/track/0YMORVTChp1F09nDnH9lbx) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Brand\-New Summer](https://open.spotify.com/album/67jBE2BWiCsGfBfe2qtcEE) | 3:53 | 2024-08-14 | 2024-11-04 |
+| [Break it Out](https://open.spotify.com/track/2Alpcm2uOw20QAxBmExDFf) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Break it Out](https://open.spotify.com/album/43EXZ6q0GFtLJDX6HyqSRm) | 4:10 | 2025-07-08 |  |
 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 | 2023-03-14 | 2024-02-11 |
 | [Bright Life](https://open.spotify.com/track/25zdJ8RT8SNYECanlVfIxS) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Bright Life](https://open.spotify.com/album/0MuMPY3X9rYDzK7CxBE3NU) | 4:15 | 2023-09-26 | 2023-10-28 |
 | [Bright Life](https://open.spotify.com/track/3tFdPeGlTKhsNr5B0U22sg) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Bright Life](https://open.spotify.com/album/6JCA7ZjG2Xj4YEaumqFN86) | 4:15 | 2024-02-27 | 2024-08-14 |
@@ -72,7 +73,7 @@
 | [Mystic Island](https://open.spotify.com/track/6vqjr1gx5FRzVzrODlbxix) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 6:02 | 2024-02-27 | 2024-04-04 |
 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 | 2023-03-14 |  |
 | [neguse](https://open.spotify.com/track/4nYY6rV75YL7XLsi7zuOPe) | [グッドラックヘイワ](https://open.spotify.com/artist/6tWuPXLJhkk9IjzbKI6hYa) | [Lm](https://open.spotify.com/album/7FYRKp0czfUFQk9IjWTx1m) | 3:30 | 2024-01-09 | 2024-04-19 |
-| [Never Let Go \- Instrumental](https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Elastic Afterwords \(Instrumental\)](https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm) | 4:28 | 2024-02-27 |  |
+| [Never Let Go \- Instrumental](https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Elastic Afterwords \(Instrumental\)](https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm) | 4:28 | 2024-02-27 | 2025-07-09 |
 | [Nica's Dream](https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Re:Tokage](https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c) | 4:25 | 2024-02-27 |  |
 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 | 2023-03-14 | 2024-04-19 |
 | [Night flight](https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Night Flight](https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J) | 3:50 | 2024-10-09 | 2025-02-25 |
@@ -136,12 +137,13 @@
 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 | 2024-02-27 |  |
 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 | 2024-09-18 |  |
 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 | 2024-09-18 |  |
+| [夏のGravity](https://open.spotify.com/track/6enQtdIj33IpAt8Z0baDpA) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [夏のGravity](https://open.spotify.com/album/7rS1CRSWX9zdmlALxZ8m3d) | 2:23 | 2025-07-08 |  |
 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 | 2023-03-14 | 2024-04-19 |
 | [夜間航路 \- Album Mix](https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Discovery](https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg) | 3:56 | 2023-03-14 |  |
 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 | 2023-03-14 |  |
 | [朝焼け \- Live at Chuo Kaikan Hall, Tokyo, Feb\. 1982](https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MINT JAMS\(Live\)](https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9) | 4:58 | 2023-03-14 |  |
 | [枯葉 ～Autumn Leaves～ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 | 2023-04-04 |  |
-| [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 | 2025-06-24 |  |
+| [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 | 2025-06-24 | 2025-07-09 |
 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 | 2023-10-17 |  |
 | [華火夜景](https://open.spotify.com/track/1RO9fAT9UQWSB8mVaxcvOI) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [華火夜景](https://open.spotify.com/album/57hUpIDR3di336V6dO6U8v) | 4:35 | 2023-07-22 | 2024-09-12 |
 | [街の報せ Rework 黒田卓也](https://open.spotify.com/track/1bBDwauDhzcOxV0pqHgBey) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [街の報せ Rework 黒田卓也](https://open.spotify.com/album/0DpwMSu8p7W6uoua8j7ffC) | 4:46 | 2023-03-14 | 2023-09-16 |

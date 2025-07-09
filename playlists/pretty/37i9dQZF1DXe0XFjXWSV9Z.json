@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 47687,
+  "num_followers": 47704,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Je pense \u00e0 toi",
+        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 272590,
+      "name": "Je Pense \u00e0 Toi",
+      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Je pense \u00e0 toi",
-        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 272590,
-      "name": "Je Pense \u00e0 Toi",
-      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
-      },
-      "artists": [
-        {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Echo en Mexico",
         "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 257462,
       "name": "Echo en Mexico",
       "url": "https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Yellow Laces - Another Life",
-        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 197645,
-      "name": "Yellow Laces",
-      "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Yo Bailo Sola",
         "url": "https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 317375,
       "name": "Yo Bailo Sola",
       "url": "https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Yellow Laces - Another Life",
+        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 197645,
+      "name": "Yellow Laces",
+      "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Yellow Laces - Another Life",
-        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Pa\u00f1uelo De Seda",
         "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 183103,
       "name": "Pa\u00f1uelo De Seda",
       "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Yellow Laces - Another Life",
+        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moriarty",
+          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Noche triler",
         "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 243114,
       "name": "Caminito de mi Pueblo",
       "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Savage Love",
-        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Moriarty",
-          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1195,6 +1195,34 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Invasi\u00f3n",
+        "url": "https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI"
+      },
+      "artists": [
+        {
+          "name": "EsaMiPau!",
+          "url": "https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei"
+        },
+        {
+          "name": "Jacinto y La Cumbia",
+          "url": "https://open.spotify.com/artist/23IL1fbbI60l5k6fWuPk5W"
+        },
+        {
+          "name": "Yawarana Orquesta",
+          "url": "https://open.spotify.com/artist/21QWbz8AInxH5PPteJwmDf"
+        },
+        {
+          "name": "H\u00e9ctor Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2RMGPGcbneXvxE2fweAXja"
+        }
+      ],
+      "duration_ms": 248610,
+      "name": "Invasi\u00f3n",
+      "url": "https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Churro Vs. Crow",
         "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
       },
@@ -1223,34 +1251,6 @@
       "duration_ms": 209371,
       "name": "Republica Federal de Malphino",
       "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Invasi\u00f3n",
-        "url": "https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI"
-      },
-      "artists": [
-        {
-          "name": "EsaMiPau!",
-          "url": "https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei"
-        },
-        {
-          "name": "Jacinto y La Cumbia",
-          "url": "https://open.spotify.com/artist/23IL1fbbI60l5k6fWuPk5W"
-        },
-        {
-          "name": "Yawarana Orquesta",
-          "url": "https://open.spotify.com/artist/21QWbz8AInxH5PPteJwmDf"
-        },
-        {
-          "name": "H\u00e9ctor Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2RMGPGcbneXvxE2fweAXja"
-        }
-      ],
-      "duration_ms": 248610,
-      "name": "Invasi\u00f3n",
-      "url": "https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Para Poderte Olvidar",
-        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
-      },
-      "artists": [
-        {
-          "name": "Qiensave",
-          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
-        }
-      ],
-      "duration_ms": 240823,
-      "name": "Para Poderte Olvidar",
-      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Solo Yo",
         "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 492786,
       "name": "Solo Yo",
       "url": "https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Para Poderte Olvidar",
+        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
+      },
+      "artists": [
+        {
+          "name": "Qiensave",
+          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
+        }
+      ],
+      "duration_ms": 240823,
+      "name": "Para Poderte Olvidar",
+      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
-      },
-      "artists": [
-        {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "El Vacile Del T\u00edo",
         "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 146496,
       "name": "El Vacile Del T\u00edo",
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+      },
+      "artists": [
+        {
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2025-05-19 17:05:09",

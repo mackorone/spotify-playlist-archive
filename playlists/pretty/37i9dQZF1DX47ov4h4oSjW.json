@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 100584,
+  "num_followers": 100579,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Home full of solipsism",
+        "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "Home full of solipsism",
+      "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Night Stories",
         "url": "https://open.spotify.com/album/5VceAbw8LKXRl7SOzQBj72"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 235906,
       "name": "Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
       "url": "https://open.spotify.com/track/1EjJMQDn4nAscPOZGTzhlI"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Home full of solipsism",
-        "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
-      },
-      "artists": [
-        {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "Home full of solipsism",
-      "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -563,42 +563,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Slowdance",
-        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
-      },
-      "artists": [
-        {
-          "name": "Luca Mazzillo",
-          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
-        },
-        {
-          "name": "Jacopo Croci",
-          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
-        }
-      ],
-      "duration_ms": 122883,
-      "name": "Slowdance",
-      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
-      },
-      "artists": [
-        {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
-        }
-      ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Mozart: 6 Sonatas for Piano Duet & Sonata for 2 Pianos, K. 488",
         "url": "https://open.spotify.com/album/7EMQ9izwD1Fnf48NdAxerw"
       },
@@ -623,6 +587,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "In a Bar in Buenos Aires",
         "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 166900,
       "name": "In a Bar in Buenos Aires",
       "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Slowdance",
+        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
+      },
+      "artists": [
+        {
+          "name": "Luca Mazzillo",
+          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
+        },
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+        }
+      ],
+      "duration_ms": 122883,
+      "name": "Slowdance",
+      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Blue Hour",
-        "url": "https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx"
-      },
-      "artists": [
-        {
-          "name": "Federico Albanese",
-          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
-        }
-      ],
-      "duration_ms": 285309,
-      "name": "My Piano Night",
-      "url": "https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Center of Gravity",
         "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 198739,
       "name": "Mantra for Piano",
       "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Blue Hour",
+        "url": "https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 285309,
+      "name": "My Piano Night",
+      "url": "https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Selected Works",
-        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
-      },
-      "artists": [
-        {
-          "name": "Bruno Bavota",
-          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "La Luce Nel Cuore",
-      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Isonzo",
         "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J"
+        "name": "Selected Works",
+        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
       },
       "artists": [
         {
-          "name": "Elfrieda",
-          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
+          "name": "Bruno Bavota",
+          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/43z2LSP0180NFwr720P3xk"
+      "duration_ms": 177000,
+      "name": "La Luce Nel Cuore",
+      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -843,6 +827,22 @@
       "duration_ms": 147000,
       "name": "Adesso",
       "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J"
+      },
+      "artists": [
+        {
+          "name": "Elfrieda",
+          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/43z2LSP0180NFwr720P3xk"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Kj\u00e6reste",
-        "url": "https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm"
-      },
-      "artists": [
-        {
-          "name": "Alida S\u00f8rby",
-          "url": "https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9"
-        }
-      ],
-      "duration_ms": 143812,
-      "name": "Kj\u00e6reste",
-      "url": "https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Fallboard",
         "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Kj\u00e6reste",
+        "url": "https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm"
+      },
+      "artists": [
+        {
+          "name": "Alida S\u00f8rby",
+          "url": "https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9"
+        }
+      ],
+      "duration_ms": 143812,
+      "name": "Kj\u00e6reste",
+      "url": "https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Ocean And 17th",
         "url": "https://open.spotify.com/album/4YEDcRREGpiZpyziVG4jIh"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 216023,
       "name": "Amorzinho - Piano Version",
       "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Donde Nadas",
-        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
       },
       "artists": [
         {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+          "name": "Alexander Motovilov",
+          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
         }
       ],
-      "duration_ms": 141941,
-      "name": "Donde Nadas",
-      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
+      "duration_ms": 165902,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
+        "name": "Donde Nadas",
+        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
       },
       "artists": [
         {
-          "name": "Alexander Motovilov",
-          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
         }
       ],
-      "duration_ms": 165902,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+      "duration_ms": 141941,
+      "name": "Donde Nadas",
+      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1359,6 +1359,38 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
+      },
+      "artists": [
+        {
+          "name": "Dunham Froebel",
+          "url": "https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
+      },
+      "artists": [
+        {
+          "name": "Denise Santoz",
+          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Palette",
+      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Szymanowski: Piano Works, Vol. 2",
         "url": "https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO"
       },
@@ -1379,22 +1411,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
-      },
-      "artists": [
-        {
-          "name": "Dunham Froebel",
-          "url": "https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dolce",
         "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 143011,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
-      },
-      "artists": [
-        {
-          "name": "Denise Santoz",
-          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Palette",
-      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Midnight Musette",
+        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
+      },
+      "artists": [
+        {
+          "name": "De Maynes",
+          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
+        }
+      ],
+      "duration_ms": 197084,
+      "name": "Midnight Musette",
+      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Time Curve: Music for Piano by Philip Glass and William Duckworth",
         "url": "https://open.spotify.com/album/1kGhTPdqFxysr6qHRv32MR"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Midnight Musette",
-        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
+        "name": "The Piano Inside",
+        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
       },
       "artists": [
         {
-          "name": "De Maynes",
-          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
         }
       ],
-      "duration_ms": 197084,
-      "name": "Midnight Musette",
-      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
+      "duration_ms": 216333,
+      "name": "Spirit of the Hill",
+      "url": "https://open.spotify.com/track/3Py9uoEHphIm11nxj3oC22"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1507,22 +1523,6 @@
       "duration_ms": 123500,
       "name": "Farvel til sommeren",
       "url": "https://open.spotify.com/track/2xgBsQS1gpI57AJB5aQg2y"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "The Piano Inside",
-        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
-      },
-      "artists": [
-        {
-          "name": "Milo Edale",
-          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Spirit of the Hill",
-      "url": "https://open.spotify.com/track/3Py9uoEHphIm11nxj3oC22"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amuse Bouche",
-        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
-      },
-      "artists": [
-        {
-          "name": "Yao Chen",
-          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Is it Over",
-      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Sintra",
         "url": "https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Amuse Bouche",
+        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
+      },
+      "artists": [
+        {
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Is it Over",
+      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Synchronicity",
         "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
       },
@@ -1603,26 +1603,6 @@
       "duration_ms": 189250,
       "name": "Synchronicity",
       "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Azure (Piano Version)",
-        "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        },
-        {
-          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
-        }
-      ],
-      "duration_ms": 222129,
-      "name": "Azure - Piano Version",
-      "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1647,18 +1627,38 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Paragon",
-        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
+        "name": "Azure (Piano Version)",
+        "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
       },
       "artists": [
         {
-          "name": "Alvaro Pascoal",
-          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Paragon",
-      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
+      "duration_ms": 222129,
+      "name": "Azure - Piano Version",
+      "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Piano Inside",
+        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
+      },
+      "artists": [
+        {
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+        }
+      ],
+      "duration_ms": 191370,
+      "name": "The Piano Inside",
+      "url": "https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB"
     }
   ],
   "unique_name": "Piano Study",

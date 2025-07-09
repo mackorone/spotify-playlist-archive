@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12803,
+  "num_followers": 12812,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADPTkQm+YilfjLGa/uHeDXe",
+  "snapshot_id": "aGsOAAAAAAAhNdyWiPTm0GPP3UgE7Dcm",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "TRAUMA",
-      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 201750,
       "name": "Glory",
       "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
-        }
-      ],
-      "duration_ms": 267660,
-      "name": "Lucky (feat. Rudeboy)",
-      "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
       },
@@ -611,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "duration_ms": 267660,
+      "name": "Lucky (feat. Rudeboy)",
+      "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO SIR",
-        "url": "https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "NO SIR",
-      "url": "https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO SIR",
+        "url": "https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "NO SIR",
+      "url": "https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sarkology",
         "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
       },
@@ -679,26 +679,6 @@
       "duration_ms": 247462,
       "name": "Original",
       "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 287261,
-      "name": "Always on My Mind (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
       "duration_ms": 202346,
       "name": "Tonga",
       "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 287261,
+      "name": "Always on My Mind (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3ry6ANZkcZXquT987YlIQr"
-      },
-      "artists": [
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 171154,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5lGt6rkHVoQbqnUUjsDEM4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 225349,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+        }
+      ],
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -823,22 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3ry6ANZkcZXquT987YlIQr"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
         },
         {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+      "duration_ms": 171154,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5lGt6rkHVoQbqnUUjsDEM4"
     },
     {
       "added_at": null,
@@ -935,18 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
         }
       ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
       "added_at": null,
@@ -971,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
         }
       ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": null,

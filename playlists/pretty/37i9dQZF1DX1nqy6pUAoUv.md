@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,280 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,194 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 42 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
 | 43 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
 | 44 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 |
-| 45 | [Wildflowers in the Graveyard](https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Wildflowers in the Graveyard](https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS) | 3:00 |
+| 45 | [If I Could Only Fly](https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [If I Could Only Fly / True Love's Flame](https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di) | 4:29 |
 | 46 | [Under the Concrete](https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 3:25 |
-| 47 | [If I Could Only Fly](https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [If I Could Only Fly / True Love's Flame](https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di) | 4:29 |
-| 48 | [Money Is King](https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 2:54 |
-| 49 | [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 |
+| 47 | [Wildflowers in the Graveyard](https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Wildflowers in the Graveyard](https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS) | 3:00 |
+| 48 | [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 |
+| 49 | [Money Is King](https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 2:54 |
 | 50 | [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 |
 | 51 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 | 52 | [Sammi's Song](https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 1:59 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 86 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 |
 | 87 | [Spinning Plates](https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8) | [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN) | [Spinning Plates](https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0) | 2:46 |
 | 88 | [Chain Reaction](https://open.spotify.com/track/2G7bNWJygXprmbBD3IQidL) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [Chain Reaction](https://open.spotify.com/album/0EFV8dTelIT79qbvzRtGuP) | 3:20 |
-| 89 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
-| 90 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
+| 89 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
+| 90 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
 | 91 | [Unmistakable Love](https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Songs Of](https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY) | 3:55 |
 | 92 | [Lorraine](https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Lorraine](https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA) | 4:33 |
 | 93 | [Lawrence of Arcadia](https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 4:45 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 95 | [You Wreck Me](https://open.spotify.com/track/3I3BTriXuJL5cimiPfvFXU) | [Kamara Thomas & the Ghost Gamblers](https://open.spotify.com/artist/7c4SDBbtEW9iX2MPBGhn4q) | [Earth Hero](https://open.spotify.com/album/6u5saPFGrin6Q16nQ5CvV3) | 4:53 |
 | 96 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
 | 97 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
-| 98 | [Avalon \(with Francesco Turrisi\)](https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:54 |
-| 99 | [Pacific Northwest Bound](https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN) | [Mike McKenna Jr.](https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0) | [Pacific Northwest Bound](https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ) | 2:53 |
+| 98 | [Pacific Northwest Bound](https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN) | [Mike McKenna Jr.](https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0) | [Pacific Northwest Bound](https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ) | 2:53 |
+| 99 | [Avalon \(with Francesco Turrisi\)](https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:54 |
 | 100 | [Time to Give](https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [From Where I Started](https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M) | 2:34 |
 
 Snapshot ID: `ZzbVUAAAAAB0Zs0kn0D59WICxRwh7vt5`

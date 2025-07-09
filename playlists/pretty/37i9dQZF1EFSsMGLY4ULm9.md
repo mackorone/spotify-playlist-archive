@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 20 | [Grande Coral](https://open.spotify.com/track/6u5xTXWKh77OuNTxZ0ATkO) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 6:11 |
 | 21 | [Você Não Está Só](https://open.spotify.com/track/6o5PZUrU1plGs7wuWr6ljl) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 5:04 |
 | 22 | [Anjos a Serviço de Deus](https://open.spotify.com/track/2yOhXgTRXzszHDbSvzRh6r) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 5:22 |
-| 23 | [Chame por Ele](https://open.spotify.com/track/6W1oAmtKdamqGcwvFczyZa) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 6:43 |
-| 24 | [Exaltação](https://open.spotify.com/track/4x3WVeMvlHWcpPs7VX5ksf) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 7:04 |
+| 23 | [Exaltação](https://open.spotify.com/track/4x3WVeMvlHWcpPs7VX5ksf) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 7:04 |
+| 24 | [Chame por Ele](https://open.spotify.com/track/6W1oAmtKdamqGcwvFczyZa) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 6:43 |
 | 25 | [Te Encher Pra Não Parar](https://open.spotify.com/track/2te9iYdXW8RvT7f5g1TjQt) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Te Encher Pra Não Parar](https://open.spotify.com/album/2ZCPGQh3ysOIpzGiYliV0v) | 4:24 |
 | 26 | [Chuva Serôdia](https://open.spotify.com/track/6UBJg3GEL8xLZ4QrxRz3hY) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:51 |
 | 27 | [Não Pare de Adorar](https://open.spotify.com/track/3ErJFFq3o2CfrwRgXhomJj) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:12 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Cristo É a Esperança](https://open.spotify.com/track/0gKuqhPZCKoEEZdcBgJF4W) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:38 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `Ab2K3gAAAAAw1gAi8zfoB7p0s1/c6hIr`
+Snapshot ID: `Ab2QfgAAAABWaNH1JHpLU6ZnpC+ZK1LJ`

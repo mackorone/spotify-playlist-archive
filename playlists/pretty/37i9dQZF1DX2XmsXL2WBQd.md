@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,005 likes - 70 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,066 likes - 70 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 38 | [Al\-Naafyish \(The Soul\)](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
 | 39 | [I Ain't No Joke](https://open.spotify.com/track/3IxqPuIsNbuudNO3cT9n8P) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:52 |
 | 40 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 |
-| 41 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
-| 42 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
+| 41 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
+| 42 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
 | 43 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
 | 44 | [I Know You Got Soul](https://open.spotify.com/track/53eSPiEnq4XkQSxczX7iKA) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 4:44 |
 | 45 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |

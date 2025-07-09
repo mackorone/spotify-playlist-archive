@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABNhtlAl9ggByHv1JEXyTZ3",
+  "snapshot_id": "aGsOAAAAAAAGqZJwuIqrcHOteR3X6YUM",
   "tracks": [
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
       },
@@ -903,46 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marry",
-        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 209841,
-      "name": "Marry",
-      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -967,26 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sekkle & Bop",
-        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
       },
       "artists": [
         {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 156327,
-      "name": "Sekkle & Bop (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
+      "duration_ms": 209841,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     },
     {
       "added_at": null,
@@ -1007,6 +983,30 @@
       "duration_ms": 213812,
       "name": "Sample You - Remix",
       "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sekkle & Bop",
+        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 156327,
+      "name": "Sekkle & Bop (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
     },
     {
       "added_at": null,

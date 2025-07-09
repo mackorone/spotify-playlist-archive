@@ -2,7 +2,7 @@
 
 ### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
-> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
+> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
 560 songs - 1 day 7 hr 56 min
 

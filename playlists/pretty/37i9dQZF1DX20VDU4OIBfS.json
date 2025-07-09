@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3059407,
+  "num_followers": 3059322,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Y... sigo mi camino",
-        "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Como yo te amo",
-      "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
+        "name": "Y... sigo mi camino",
+        "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
         }
       ],
-      "duration_ms": 316840,
-      "name": "Due\u00f1o de Nada",
-      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
+      "duration_ms": 279160,
+      "name": "Como yo te amo",
+      "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -835,6 +819,22 @@
       "duration_ms": 257773,
       "name": "La Cima del Cielo",
       "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Due\u00f1o de Nada",
+      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 312120,
-      "name": "Guajira guantanamera",
-      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 234546,
       "name": "Amandote",
       "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 312120,
+      "name": "Guajira guantanamera",
+      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Digan lo que digan",
-      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 253173,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/6MVNYTim9yCQMQgnpx517N"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Digan lo que digan",
+      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "My Spanish Album",
-        "url": "https://open.spotify.com/album/3w9JGqLaRXdzH6QW6ETKAu"
-      },
-      "artists": [
-        {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Echame A Mi La Culpa",
-      "url": "https://open.spotify.com/track/01LHmbTALqwnoGWT3gZPYH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "My Life: The Greatest Hits",
         "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 263906,
       "name": "My Way (with Paul Anka)",
       "url": "https://open.spotify.com/track/2komT9UQNsUDo7qvTDAZKn"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "My Spanish Album",
+        "url": "https://open.spotify.com/album/3w9JGqLaRXdzH6QW6ETKAu"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Echame A Mi La Culpa",
+      "url": "https://open.spotify.com/track/01LHmbTALqwnoGWT3gZPYH"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
+      },
+      "artists": [
+        {
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+        }
+      ],
+      "duration_ms": 261813,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/7JqCob0wCNfmvPYx9sd5ba"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 180600,
       "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
       "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
-      },
-      "artists": [
-        {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
-        }
-      ],
-      "duration_ms": 261813,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "20 Secretos de Amor - Manolo Galv\u00e1n",
-        "url": "https://open.spotify.com/album/4MCG1gzqoCpGhXSEueSwZR"
-      },
-      "artists": [
-        {
-          "name": "Manolo Galvan",
-          "url": "https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 226333,
       "name": "Yo Te Pido Amor",
       "url": "https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "20 Secretos de Amor - Manolo Galv\u00e1n",
+        "url": "https://open.spotify.com/album/4MCG1gzqoCpGhXSEueSwZR"
+      },
+      "artists": [
+        {
+          "name": "Manolo Galvan",
+          "url": "https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Denise De Kalafe 10 Exitos",
-        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
-      },
-      "artists": [
-        {
-          "name": "Denise De Kalafe",
-          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
-      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Emociones Sin L\u00edmite Volumen 4",
         "url": "https://open.spotify.com/album/0sE65hOz6lEjRTGHyNWN9y"
       },
@@ -2219,38 +2203,6 @@
       "duration_ms": 229920,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/2tVKoMAQ4uf1xgMOzztCtl"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Esencial Miguel Bose",
-        "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 248800,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/2gnqQL64mbsTnrxYXjjCsK"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb"
-      },
-      "artists": [
-        {
-          "name": "Sab\u00fa",
-          "url": "https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Vuelvo A vivir, Vuelvo A Cantar",
-      "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2271,6 +2223,54 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Esencial Miguel Bose",
+        "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 248800,
+      "name": "Morir de Amor",
+      "url": "https://open.spotify.com/track/2gnqQL64mbsTnrxYXjjCsK"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Denise De Kalafe 10 Exitos",
+        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
+      },
+      "artists": [
+        {
+          "name": "Denise De Kalafe",
+          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb"
+      },
+      "artists": [
+        {
+          "name": "Sab\u00fa",
+          "url": "https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Vuelvo A vivir, Vuelvo A Cantar",
+      "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Las Ma\u00f1anitas con Pedro Infante",
         "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
       },
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 179984,
-      "name": "Mamma Maria",
-      "url": "https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/1X9PPhhcScin4MlR8DrmRv"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 231666,
       "name": "Te Quiero Tanto",
       "url": "https://open.spotify.com/track/0mdbrGj4IrGwZeAUwUJLPl"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 179984,
+      "name": "Mamma Maria",
+      "url": "https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc"
     },
     {
       "added_at": "2024-06-04 19:16:04",

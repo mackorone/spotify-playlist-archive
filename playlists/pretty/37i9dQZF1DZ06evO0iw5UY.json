@@ -1,29 +1,13 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27931,
+  "num_followers": 27934,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACUIUtxx7/hgLLV0mvJHX7W",
+  "snapshot_id": "aGsOAAAAAADnrdSVjjuBbV4QCtOU7B5Z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crying On The Dancefloor",
-        "url": "https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "Crying On The Dancefloor",
-      "url": "https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu"
-    },
     {
       "added_at": null,
       "album": {
@@ -51,6 +35,22 @@
       "duration_ms": 237685,
       "name": "No Regrets (feat. Krewella) [YUSSI Remix]",
       "url": "https://open.spotify.com/track/6EH33BG9UhIYrezYC7v2Mx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crying On The Dancefloor",
+        "url": "https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "Crying On The Dancefloor",
+      "url": "https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "One Minute",
+      "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 236806,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3MIDI56fBQenFrMMz2cO7i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "One Minute",
-      "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Town Called Paradise",
+        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Set Yourself Free",
+      "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 208000,
       "name": "dead af",
       "url": "https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Town Called Paradise",
-        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Set Yourself Free",
-      "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
     },
     {
       "added_at": null,
@@ -912,17 +912,13 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         },
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Alaya",
-          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
         }
       ],
-      "duration_ms": 192697,
-      "name": "Like We",
-      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
+      "duration_ms": 214992,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6O4dKR2qDrowPXV7lwUNA8"
     },
     {
       "added_at": null,
@@ -992,13 +988,17 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         },
         {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Alaya",
+          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
         }
       ],
-      "duration_ms": 214992,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6O4dKR2qDrowPXV7lwUNA8"
+      "duration_ms": 192697,
+      "name": "Like We",
+      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
     }
   ],
   "unique_name": "This Is Krewella",

@@ -3339,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Deeper Than I Thought",
+        "url": "https://open.spotify.com/album/5WX2sfPA2KqqpSJymxxmnq"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Deeper Than I Thought",
+      "url": "https://open.spotify.com/track/3MTSqosDP6EjfRCuxutzHV"
+    },
+    {
+      "album": {
         "name": "Default",
         "url": "https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u"
       },
@@ -6204,7 +6222,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 194845,
       "name": "Hard to Say",
       "url": "https://open.spotify.com/track/3d66TxP7B3pPzEC9vSWKuX"
@@ -8562,6 +8580,24 @@
       "duration_ms": 336813,
       "name": "Last Day",
       "url": "https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav"
+    },
+    {
+      "album": {
+        "name": "Last Scene",
+        "url": "https://open.spotify.com/album/1FMpS9DvBEDsGVkYKDSTBa"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Last Scene",
+      "url": "https://open.spotify.com/track/0tJU0IwpKmUSg2uFOZ7RC6"
     },
     {
       "album": {
@@ -15104,7 +15140,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 263962,
       "name": "Syringe",
       "url": "https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB"

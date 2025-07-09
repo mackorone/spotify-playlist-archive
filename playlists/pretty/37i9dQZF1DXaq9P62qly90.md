@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,202 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,237 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 43 | [What's the Secret?](https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Por Favor](https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN) | 2:49 |
 | 44 | [Fly Away](https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR) | [Starling Arrow](https://open.spotify.com/artist/67EFNAHiiYqTew9dzK2QhC), [Marya Stark](https://open.spotify.com/artist/2lntMaVHOro0wJYMYHco9d), [Ayla Nereo](https://open.spotify.com/artist/4gJMOPjz1OUnD6TysFPUr1), [Tina Malia](https://open.spotify.com/artist/1c0uQiM5LLHE4juxlFn1Q2), [Chloe Smith](https://open.spotify.com/artist/7lLK9mKP9CJuRhIR5URoFg), [Leah Song](https://open.spotify.com/artist/2aYGkbB8xdACbyp7BYR8Gv), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Fly Away](https://open.spotify.com/album/01I7NXp9kAgyrpvxrrVfzm) | 4:34 |
 | 45 | [Fast And Slow](https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Double Vision](https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj) | 4:40 |
-| 46 | [No Regrets](https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [Love Overflowing](https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu) | 5:22 |
-| 47 | [The Great Unknown](https://open.spotify.com/track/21AgHZ2EyROGUEq6lPqu8E) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [The Great Unknown](https://open.spotify.com/album/7KPEITgznag0cVjUDY8KET) | 4:10 |
+| 46 | [The Great Unknown](https://open.spotify.com/track/21AgHZ2EyROGUEq6lPqu8E) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [The Great Unknown](https://open.spotify.com/album/7KPEITgznag0cVjUDY8KET) | 4:10 |
+| 47 | [No Regrets](https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [Love Overflowing](https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu) | 5:22 |
 | 48 | [Family Tree](https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 3:11 |
 | 49 | [Red Road Soul](https://open.spotify.com/track/066Dx92oWS0hI10RzJEItj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG) | [Red Road Soul](https://open.spotify.com/album/1KEbOLz0XhCP7l0GFjeA3Y) | 5:15 |
 | 50 | [We Got This](https://open.spotify.com/track/3s7bAcCETTy7vHLxQYVQDq) | [Delhi 2 Dublin](https://open.spotify.com/artist/3UI94nr1hPvSXtvXRZ97JV) | [We Got This](https://open.spotify.com/album/1cFksYhPgmdlsrF1RLCSBN) | 3:33 |

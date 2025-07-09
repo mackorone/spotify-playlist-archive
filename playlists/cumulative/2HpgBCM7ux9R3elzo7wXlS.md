@@ -4,7 +4,7 @@
 
 > All of it
 
-878 songs - 2 day 6 hr 48 min
+879 songs - 2 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [HOUDIN1!](https://open.spotify.com/track/7I9znDxeOrz9tWo5q0ZHdx) | [yan\*](https://open.spotify.com/artist/31lF7GsSeoLKXA8FEjI5ht) | [HOUDIN1!](https://open.spotify.com/album/0pJJSf2FkwlTrjbdduTu3Y) | 2:03 | 2025-06-02 |  |
 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 | 2025-06-02 |  |
 | [HOUSTONFORNICATION](https://open.spotify.com/track/58TaFP5j5i9swOf584yon2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:37 | 2025-06-11 |  |
+| [How It’s Done](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:56 | 2025-07-08 |  |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2025-06-02 |  |
 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 | 2025-06-02 |  |
 | [How to Disappear into Strings](https://open.spotify.com/track/2ek0NaoFFgdpKjs7beIuTE) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [KID A MNESIA](https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y) | 5:32 | 2025-06-02 |  |

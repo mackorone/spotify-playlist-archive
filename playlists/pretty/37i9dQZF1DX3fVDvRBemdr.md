@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,135 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,167 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 2 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 |
 | 3 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
 | 4 | [Alleen Van Jou Zijn](https://open.spotify.com/track/6w2m2ZXCdeVSOsPI3nLzkF) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Alleen Van Jou Zijn](https://open.spotify.com/album/30Kg91OPsyTwKnucYXzrCU) | 2:58 |
-| 5 | [Corry Konings](https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry Konings](https://open.spotify.com/album/11SGzQT6L3M1fsZ7aT1xF4) | 2:38 |
-| 6 | [Diamant](https://open.spotify.com/track/2IeytsvuYh5NWRJLaLTbJg) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Diamant](https://open.spotify.com/album/1MdxlV8Y6QHS3erPnE3ze8) | 2:35 |
-| 7 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 |
-| 8 | [Paracetamol \(Naar de Klote\)](https://open.spotify.com/track/2IM0ZzZy0zM9hjF2vvfhCS) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Paracetamol \(Naar de Klote\)](https://open.spotify.com/album/5PztETpJ7kv6OEeOnAgfhH) | 2:25 |
+| 5 | [Diamant](https://open.spotify.com/track/2IeytsvuYh5NWRJLaLTbJg) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Diamant](https://open.spotify.com/album/1MdxlV8Y6QHS3erPnE3ze8) | 2:35 |
+| 6 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 |
+| 7 | [Paracetamol \(Naar de Klote\)](https://open.spotify.com/track/2IM0ZzZy0zM9hjF2vvfhCS) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Paracetamol \(Naar de Klote\)](https://open.spotify.com/album/5PztETpJ7kv6OEeOnAgfhH) | 2:25 |
+| 8 | [Corry Konings](https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry Konings](https://open.spotify.com/album/11SGzQT6L3M1fsZ7aT1xF4) | 2:38 |
 | 9 | [Esmeralda 2.0](https://open.spotify.com/track/2EzvRuicGrXl3oqnJ31Wqf) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Esmeralda 2.0](https://open.spotify.com/album/2872EPy52W10CTQJAKuWjG) | 2:31 |
 | 10 | [Aan het strand van Porto Rico](https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Aan het strand van Porto Rico](https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr) | 3:15 |
 | 11 | [Kijk Om Je Heen](https://open.spotify.com/track/3U5KWLt1lWCIQIlpoxEGiU) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Kijk Om Je Heen](https://open.spotify.com/album/3SKNynZrP8QFY4jL6NJELH) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Ruud & Mieke](https://open.spotify.com/track/0oen0qWr9cBEbkytniF5gF) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Ruud & Mieke](https://open.spotify.com/album/5ACmcbFkvQUNmthG07qRBw) | 2:45 |
 | 80 | [Ik leef m'n eigen leven](https://open.spotify.com/track/3yqLmwAPu7wJRC6vItlTru) | [Franz Joostink](https://open.spotify.com/artist/0qBINgFpeUdkvhBIKmD3O0) | [Ik leef m'n eigen leven](https://open.spotify.com/album/7bJBCxlV2dGs2e5d1LsAzN) | 3:25 |
 
-Snapshot ID: `aGdrVgAAAADwcAsOeuzPCDwjBIoFxPrv`
+Snapshot ID: `aGzpYAAAAADZ41lvO0NXAcbYXXmtHsMQ`

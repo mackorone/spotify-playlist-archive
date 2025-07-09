@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Dremo",
-  "num_followers": 66382,
+  "num_followers": 66424,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "LEGOLAS",
-      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
-    },
-    {
-      "added_at": "2025-07-04 11:10:04",
-      "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 150000,
       "name": "Na Scra",
       "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2025-07-04 11:10:04",
+      "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "LEGOLAS",
+      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
     },
     {
       "added_at": "2025-07-04 11:10:04",
@@ -287,6 +287,26 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
+        "name": "PITY THIS BOY",
+        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "PITY THIS BOY (with Victony)",
+      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2025-07-04 11:10:04",
+      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -351,26 +371,6 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
-        "name": "PITY THIS BOY",
-        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PITY THIS BOY (with Victony)",
-      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
-    },
-    {
-      "added_at": "2025-07-04 11:10:04",
-      "album": {
         "name": "Automoto (feat. ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/2dzMKs3gXrSCd1HNoRA92n"
       },
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 168138,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ"
-    },
-    {
-      "added_at": "2025-07-04 11:10:04",
-      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN"
       },
@@ -467,6 +447,50 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168138,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ"
+    },
+    {
+      "added_at": "2025-07-04 11:10:04",
+      "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "TOY GIRL (with Juno & Valentino Rose)",
+      "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
+    },
+    {
+      "added_at": "2025-07-04 11:10:04",
+      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -479,34 +503,6 @@
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
-    },
-    {
-      "added_at": "2025-07-04 11:10:04",
-      "album": {
-        "name": "Anytime (feat. Ayo Maff)",
-        "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
-      },
-      "artists": [
-        {
-          "name": "Id Cabasa",
-          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 192028,
-      "name": "Anytime (feat. Ayo Maff)",
-      "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
     },
     {
       "added_at": "2025-07-04 11:10:04",
@@ -547,26 +543,30 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+        "name": "Anytime (feat. Ayo Maff)",
+        "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Id Cabasa",
+          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
         },
         {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         },
         {
-          "name": "Valentino Rose",
-          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 172800,
-      "name": "TOY GIRL (with Juno & Valentino Rose)",
-      "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
+      "duration_ms": 192028,
+      "name": "Anytime (feat. Ayo Maff)",
+      "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
     },
     {
       "added_at": "2025-07-04 11:10:04",
@@ -859,26 +859,6 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
-        "name": "Zaza (feat. ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU"
-      },
-      "artists": [
-        {
-          "name": "KOHDEE",
-          "url": "https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Zaza (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ"
-    },
-    {
-      "added_at": "2025-07-04 11:10:04",
-      "album": {
         "name": "OPP (S)",
         "url": "https://open.spotify.com/album/2H9Q3foXr7wwUdtFE0XOoh"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 189090,
       "name": "OPP (S)",
       "url": "https://open.spotify.com/track/753fMTMFUw8l2Ym9LZAA6x"
+    },
+    {
+      "added_at": "2025-07-04 11:10:04",
+      "album": {
+        "name": "Zaza (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU"
+      },
+      "artists": [
+        {
+          "name": "KOHDEE",
+          "url": "https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Zaza (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ"
     },
     {
       "added_at": "2025-07-04 11:10:04",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
+        "name": "ESCAPE PLAN",
+        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 169018,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
+      "duration_ms": 148571,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
     },
     {
       "added_at": "2025-07-04 11:10:04",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
-        "name": "ESCAPE PLAN",
-        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 148571,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
+      "duration_ms": 169018,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
     },
     {
       "added_at": "2025-07-04 11:10:04",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-07-04 11:10:04",
       "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+    },
+    {
+      "added_at": "2025-07-04 11:10:04",
+      "album": {
         "name": "MEL\u00d6VIA",
         "url": "https://open.spotify.com/album/43l2ygGjBGaT1sN7uZBJ74"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 149968,
       "name": "LET ME BE",
       "url": "https://open.spotify.com/track/3tL4lxj4zfhbJTCCVOT6Lr"
-    },
-    {
-      "added_at": "2025-07-04 11:10:04",
-      "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "added_at": "2025-07-04 11:10:04",

@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4281,
+  "num_followers": 4282,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADWUO01RuPJaGtm7s/oDy4u",
+  "snapshot_id": "aGsOAAAAAABpfPQdzI/Pt0OwwuqdRzDe",
   "tracks": [
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
-      },
-      "artists": [
-        {
-          "name": "Mc Vittin PV",
-          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 238075,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 206197,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
+      },
+      "artists": [
+        {
+          "name": "Mc Vittin PV",
+          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 238075,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
     },
     {
       "added_at": null,
@@ -1223,8 +1223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lambo",
-        "url": "https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj"
+        "name": "Tipo Trem Bala",
+        "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
       },
       "artists": [
         {
@@ -1232,17 +1232,13 @@
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "MISAEL",
-          "url": "https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR"
-        },
-        {
-          "name": "\u00c9aBest",
-          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         }
       ],
-      "duration_ms": 212302,
-      "name": "Lambo",
-      "url": "https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4"
+      "duration_ms": 181313,
+      "name": "Tipo Trem Bala",
+      "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
     },
     {
       "added_at": null,
@@ -1295,8 +1291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tipo Trem Bala",
-        "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
+        "name": "Lambo",
+        "url": "https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj"
       },
       "artists": [
         {
@@ -1304,13 +1300,17 @@
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+          "name": "MISAEL",
+          "url": "https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
         }
       ],
-      "duration_ms": 181313,
-      "name": "Tipo Trem Bala",
-      "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
+      "duration_ms": 212302,
+      "name": "Lambo",
+      "url": "https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-383 songs - 18 hr 28 min
+386 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Burnin' \- Edit](https://open.spotify.com/track/18PZJGU3y50qFwcvLgxhzN) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Burnin' \- Edit](https://open.spotify.com/album/55xcEkFt681QTDwpMIAcvC) | 2:20 | 2025-01-24 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2022-04-15 | 2023-07-29 |
 | [C'mon Weekend](https://open.spotify.com/track/7cf6li4brJt4xLVcIqsxz7) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [C'mon Weekend](https://open.spotify.com/album/7diBvC1aQ1GYLfXOOsehHQ) | 2:46 | 2024-01-19 | 2025-07-02 |
+| [Cabana Dreams](https://open.spotify.com/track/59KwNpw8DmnRibrxG0C33m) | [Aicnelav](https://open.spotify.com/artist/11YvJIJglT5UQVFmo5w1CR) | [Cabana Dreams](https://open.spotify.com/album/7CmsVgMLFYMhJvq5bmhSUF) | 2:31 | 2025-07-08 |  |
 | [Caribbean Sunset](https://open.spotify.com/track/3ThZpJ81wK2zLDxzmVlyoH) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Caribbean](https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY) | 3:30 | 2022-11-25 | 2023-05-23 |
 | [Casablanca](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Casablanca](https://open.spotify.com/album/3QB0w4wTtbJaRk3aS3qqFD) | 3:41 | 2022-12-09 |  |
 | [Cat Street Fight](https://open.spotify.com/track/1xrwba40SrADws8j0nDkgd) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Cat Street Fight](https://open.spotify.com/album/2NgRFkMxlbO0Hifee0yDvF) | 2:58 | 2022-07-29 | 2022-08-19 |
@@ -87,6 +88,7 @@
 | [Daily Affirmations](https://open.spotify.com/track/0R5ZGlaHhl7bRdGHK3wy0E) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Feet On The Ground](https://open.spotify.com/album/36irUhsNlmOTWa4A752d8q) | 2:43 | 2023-09-22 |  |
 | [Darling](https://open.spotify.com/track/5LJEye2tZ0fW693oTumBnW) | [Pello Esso](https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6) | [Darling](https://open.spotify.com/album/03fSsNx7MHMmjNELccETjR) | 2:41 | 2024-12-06 |  |
 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-01-06 |  |
+| [Daylight](https://open.spotify.com/track/5qTcAB03j0iQ9EdetKkWq7) | [Azra Peak](https://open.spotify.com/artist/2PbtEKiQ3YnlZisllEixZa) | [Daylight](https://open.spotify.com/album/6gPxIJxaol8RfbFZqDebY0) | 2:18 | 2025-07-08 |  |
 | [days of darkness](https://open.spotify.com/track/6jxQtWleRsvLsomeSX7GEN) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [days of darkness](https://open.spotify.com/album/5kTOeCjQTdTiOxfPXLIbQh) | 2:51 | 2022-06-17 | 2023-02-18 |
 | [deep feelings](https://open.spotify.com/track/4uaWcSrz1nadAGAMxBMBwv) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [deep feelings](https://open.spotify.com/album/5eGM2jEILgGaljRHaJzFcN) | 5:43 | 2024-05-11 |  |
 | [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 | 2023-06-20 |
@@ -105,6 +107,7 @@
 | [Domino Effect](https://open.spotify.com/track/0kKr3CifT3nG6QNWiDdCU4) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Domino Effect](https://open.spotify.com/album/1d9YULzRYcwFAk8pInWOxS) | 3:08 | 2024-11-07 |  |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2022-04-15 | 2024-12-07 |
 | [Downplaying](https://open.spotify.com/track/2C73PFGoUiSn7qZnGTXVg1) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Downplaying](https://open.spotify.com/album/0xhSu8Jp9yAjbvZUDqqlHn) | 3:02 | 2024-12-06 |  |
+| [Drawn To You](https://open.spotify.com/track/6VOwkuXfk2p2ni4D6k1p6z) | [Whisper & Hush](https://open.spotify.com/artist/21wk6rgAlXcZHvTwAGv6pw) | [Drawn To You](https://open.spotify.com/album/6jv4AkQlBXrPArhixe6xBo) | 2:24 | 2025-07-08 |  |
 | [Dream](https://open.spotify.com/track/4PRpkjyClXZRRbErTzpxrm) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Higher Ground](https://open.spotify.com/album/1zrOeJ3VQK13SVFMdkt4Vr) | 4:40 | 2024-08-26 | 2024-11-08 |
 | [Dress Code](https://open.spotify.com/track/4FAplJVLA4DZ021mNlQooP) | [Gridlocks](https://open.spotify.com/artist/0UdtexVQoBH5XHUwGEkCZO) | [Dress Code](https://open.spotify.com/album/7tIzQ9i65nq4YsQCZznkHg) | 2:18 | 2022-10-14 | 2023-05-27 |
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2022-04-15 | 2022-05-11 |

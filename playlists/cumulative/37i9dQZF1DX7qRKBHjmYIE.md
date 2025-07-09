@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Martox.
 
-895 songs - 2 day 0 hr 16 min
+896 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Alive](https://open.spotify.com/track/1d6F9NOmP6lyRa9fCpsHh5) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [BEMUSED + CONFUSED](https://open.spotify.com/album/5oTxUsWEyiiQilexXrkr95) | 3:50 | 2021-12-02 | 2022-02-10 |
 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 | 2022-02-09 | 2023-02-17 |
 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:20 | 2023-09-29 | 2023-10-14 |
-| [Alma Bendita](https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Alma Bendita](https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE) | 2:24 | 2025-03-14 |  |
+| [Alma Bendita](https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Alma Bendita](https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE) | 2:24 | 2025-03-14 | 2025-07-09 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-18 |  |
 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 | 2023-08-25 | 2023-09-16 |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-12-02 | 2022-01-25 |
@@ -498,6 +498,7 @@
 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 | 2022-01-24 | 2022-06-04 |
 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 | 2023-02-17 | 2023-07-22 |
 | [Me Pongo Loca](https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:57 | 2024-01-12 | 2024-01-27 |
+| [ME QUEDO AKÍ](https://open.spotify.com/track/1Kgq3SDw0J2h7Njyb7R9I7) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [ALL I DREAM](https://open.spotify.com/album/0GzGVVSRJdbkPQYQqjvH25) | 3:46 | 2025-07-04 |  |
 | [Me Quieres Mal](https://open.spotify.com/track/6FgjyWp67Z4p3VMtR18cod) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Me Quieres Mal](https://open.spotify.com/album/0QDjsCyrCA0Imvb1HziKd9) | 3:13 | 2023-12-08 | 2024-04-13 |
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-08-11 | 2024-02-03 |
 | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL) | 2:06 | 2024-09-20 | 2025-01-05 |

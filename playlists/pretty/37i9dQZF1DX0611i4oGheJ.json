@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 489297,
+  "num_followers": 489320,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "martingale",
-        "url": "https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 257851,
-      "name": "martingale",
-      "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "martingale",
+        "url": "https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 257851,
+      "name": "martingale",
+      "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 153850,
-      "name": "Buffalo Replaced - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 153850,
+      "name": "Buffalo Replaced - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Snowpath",
         "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 133000,
       "name": "Snowpath",
       "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 229432,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
       },
       "artists": [
         {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
         }
       ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
+      "duration_ms": 229432,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1415,6 +1399,22 @@
       "duration_ms": 193793,
       "name": "i leave early",
       "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Blind and Brave",
         "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
+        "name": "The Trek",
+        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
         }
       ],
-      "duration_ms": 247253,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
+      "duration_ms": 282253,
+      "name": "The Trek",
+      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "The Trek",
-        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
       "artists": [
         {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 282253,
-      "name": "The Trek",
-      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1531,22 +1547,6 @@
       "duration_ms": 175293,
       "name": "No Place Like You",
       "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Sun",
-        "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
-      },
-      "artists": [
-        {
-          "name": "The National Forest",
-          "url": "https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "A Running Start",
         "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
+      },
+      "artists": [
+        {
+          "name": "The National Forest",
+          "url": "https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 323591,
-      "name": "River",
-      "url": "https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "is there still a light on?",
         "url": "https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 251322,
       "name": "is there still a light on?",
       "url": "https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 323591,
+      "name": "River",
+      "url": "https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "This Heart",
-        "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
-      },
-      "artists": [
-        {
-          "name": "Loah",
-          "url": "https://open.spotify.com/artist/3smkUIA0gfguE46oluw954"
-        }
-      ],
-      "duration_ms": 252580,
-      "name": "Unveiled",
-      "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Collateral",
         "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 178417,
       "name": "Sunwarmed",
       "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "This Heart",
+        "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
+      },
+      "artists": [
+        {
+          "name": "Loah",
+          "url": "https://open.spotify.com/artist/3smkUIA0gfguE46oluw954"
+        }
+      ],
+      "duration_ms": 252580,
+      "name": "Unveiled",
+      "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Another Lover",
+        "url": "https://open.spotify.com/album/3LIcHKcJvRF61TWPkvFABh"
+      },
+      "artists": [
+        {
+          "name": "mary rose",
+          "url": "https://open.spotify.com/artist/2xm9vvaxfhOaVQtDZP1z5d"
+        }
+      ],
+      "duration_ms": 253314,
+      "name": "Another Lover",
+      "url": "https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "multiverse",
         "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 179224,
       "name": "multiverse",
       "url": "https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Another Lover",
-        "url": "https://open.spotify.com/album/3LIcHKcJvRF61TWPkvFABh"
-      },
-      "artists": [
-        {
-          "name": "mary rose",
-          "url": "https://open.spotify.com/artist/2xm9vvaxfhOaVQtDZP1z5d"
-        }
-      ],
-      "duration_ms": 253314,
-      "name": "Another Lover",
-      "url": "https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je"
     }
   ],
   "unique_name": "Soft & Slow",

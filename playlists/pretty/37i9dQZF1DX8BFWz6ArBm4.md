@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Stan
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,517 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,527 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 29 | [Ypervoles](https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp) | [Droulias Brothers](https://open.spotify.com/artist/4FMwxdwvIlkoArdXv2ddpL), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ypervoles](https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr) | 2:47 |
 | 30 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 |
 | 31 | [Ekptotos Aggelos](https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Ekptotos Aggelos](https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM) | 4:23 |
-| 32 | [Perifanos Aetos](https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Perifanos Aetos](https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1) | 3:48 |
-| 33 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
-| 34 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
+| 32 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
+| 33 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
+| 34 | [Perifanos Aetos](https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Perifanos Aetos](https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1) | 3:48 |
 | 35 | [Bam](https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Bam](https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H) | 2:46 |
 | 36 | [To Pairno Pano Mou](https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [To Pairno Pano Mou](https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD) | 3:10 |
 | 37 | [Etsi Koitazes Emena](https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Etsi Koitazes Emena](https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM) | 3:48 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 39 | [To Vale](https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Vale](https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk) | 3:27 |
 | 40 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 |
 | 41 | [Monaxia](https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Monaxia](https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP) | 3:24 |
-| 42 | [Auta Ta Matia Ta Glika](https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 3:13 |
-| 43 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 |
+| 42 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 |
+| 43 | [Auta Ta Matia Ta Glika](https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 3:13 |
 | 44 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |
 | 45 | [Na Giriseis Pou](https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Na Giriseis Pou](https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo) | 2:46 |
 | 46 | [Ti Na Sas Po](https://open.spotify.com/track/5rlPTd5apJPPcrX6P2OJov) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Ti Na Sas Po](https://open.spotify.com/album/0hRZTC2c59AyqLRAtiZX6x) | 3:19 |

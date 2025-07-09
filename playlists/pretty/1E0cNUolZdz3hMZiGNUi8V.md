@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,290 likes - 107 songs - 5 hr 1 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,288 likes - 107 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |
 | 2 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
-| 3 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 3 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 4 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 |
 | 5 | [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 |
 | 6 | [YITTY ON YO TITTYS \(FREESTYLE\)](https://open.spotify.com/track/6mzJqQzYatigPwoJrvKlJM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,903 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,936 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 13 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 14 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 15 | [Chega Mais](https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 3:54 |
-| 16 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
-| 17 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
-| 18 | [Com Certeza](https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Esse É O Remédio](https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4) | 3:55 |
+| 16 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
+| 17 | [Com Certeza](https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Esse É O Remédio](https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4) | 3:55 |
+| 18 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
 | 19 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
 | 20 | [Lilás](https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Lilás](https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX) | 4:43 |
 | 21 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 67 | [Nem um Dia \- JAH\-VAN](https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Nem um Dia \(JAH\-VAN\)](https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut) | 5:35 |
 | 68 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 |
 | 69 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
-| 70 | [Paraquedas](https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Paraíso da Miragem](https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy) | 3:48 |
+| 70 | [O Amigo De Nova York](https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Mais Que Um Momento](https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq) | 4:12 |
 
 Snapshot ID: `ZIsRngAAAAA6/Pu/zSyUSsOo177YOSB0`

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Jul 03:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Jul 03:04 UTC.
 
-5,074 songs - 11 day 18 hr 25 min
+5,076 songs - 11 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Before It's Too Late](https://open.spotify.com/track/3KZyt06EPdbV8mv5hAbGJj) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Before It's Too Late](https://open.spotify.com/album/5kdwRsVhgbmWsxDBx74U4o) | 4:00 | 2025-04-17 | 2025-04-25 |
 | [BEFORE THE MORNING](https://open.spotify.com/track/4WBeX7hmIBZgrCtQfUSjNR) | [CThruRio](https://open.spotify.com/artist/0zQSlXfHpiKFcQNf9izlvA) | [BEFORE THE MORNING](https://open.spotify.com/album/1cduyzJT2jxn3IlTlvjvdu) | 2:12 | 2024-08-30 | 2024-09-01 |
 | [Before You Fade Away](https://open.spotify.com/track/3sKHrXNMAX46FFFi0xxv29) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [Before You Fade Away](https://open.spotify.com/album/4t10VleAuvcw0JnScDe3HG) | 3:18 | 2024-09-19 | 2024-09-21 |
-| [Begin The Sacrifice](https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Begin The Sacrifice](https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR) | 3:58 | 2025-07-01 |  |
+| [Begin The Sacrifice](https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Begin The Sacrifice](https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR) | 3:58 | 2025-07-01 | 2025-07-09 |
 | [Behelit](https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Behelit](https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu) | 4:08 | 2024-10-15 | 2024-10-18 |
 | [Believe](https://open.spotify.com/track/11kpeMIYPxxa7KwPtXqqpB) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Believe](https://open.spotify.com/album/7JDOLtvLcfMd1vZy6IoxnQ) | 3:44 | 2024-05-10 | 2024-05-14 |
 | [Believe In The BOOM!](https://open.spotify.com/track/0ZWHNgNgtPMfOPwJMxz66J) | [A.J\. & Big Justice](https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp) | [Believe In The BOOM!](https://open.spotify.com/album/08HXlt5V6JNmpuhBFDx02r) | 3:08 | 2025-06-15 | 2025-06-22 |
@@ -1672,7 +1672,7 @@
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-19 | 2024-09-21 |
 | [FVKVRVND](https://open.spotify.com/track/2YVizOAT1yNq7Say1AhrJR) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [FVKVRVND](https://open.spotify.com/album/3iihqMrOyJ3qC5XMBJQ4MT) | 4:28 | 2024-07-26 | 2024-07-30 |
 | [FWG](https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [FWG](https://open.spotify.com/album/0maPmRE6UjqadOPD06CfWZ) | 2:58 | 2024-10-03 | 2024-10-05 |
-| [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 | 2025-06-27 |  |
+| [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 | 2025-06-27 |  |
 | [fxlling in love \(feat\. whatsaheart\)](https://open.spotify.com/track/7wzSukJHjwNXiJ0TmXHFzn) | [Snave](https://open.spotify.com/artist/0gIAj2ujqkBmJHIxZmD2Oi), [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [fxlling in love \(feat\. whatsaheart\)](https://open.spotify.com/album/6DGkssVP7Hfw3HL3idVO1H) | 3:16 | 2024-10-04 | 2024-10-06 |
 | [FXX OFF](https://open.spotify.com/track/3Mx5JKcm5zjlWaLjGtquV7) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [PARADOXX](https://open.spotify.com/album/6DcXPlr2xHV0isO5YNcGfy) | 3:23 | 2024-06-07 | 2024-06-11 |
 | [Für Elise \- Batiste](https://open.spotify.com/track/53zEryaU5hYSdxk2hsrJeu) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Für Elise \- Batiste](https://open.spotify.com/album/5QICnreyAmyuoITY89NwT4) | 4:04 | 2024-10-09 | 2024-10-12 |
@@ -2480,6 +2480,7 @@
 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2024-09-03 | 2024-09-06 |
 | [Las Noches](https://open.spotify.com/track/2hZZRnUbwioGVIfpbP1DlF) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Las Noches](https://open.spotify.com/album/2MaWOrftZwCMldVSV9bCRe) | 3:29 | 2024-09-26 | 2024-09-28 |
 | [Las Nubes](https://open.spotify.com/track/1oefK7hQQ8aG0BiRv4mPxc) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Las Nubes](https://open.spotify.com/album/3iDSEX9OcDkh1uaCFdnbZr) | 3:37 | 2024-10-24 | 2024-10-26 |
+| [LAST BREATH](https://open.spotify.com/track/1N0xbRqkKMwyJMeVwtOQiV) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [BULLY](https://open.spotify.com/album/13o7UWbtqb2uWuiruK4cva) | 2:22 | 2025-07-09 |  |
 | [Last Dance](https://open.spotify.com/track/70deUYDOouO8E0me5JWMGp) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Last Dance](https://open.spotify.com/album/30KypTEo8oYOQ1y7HbZy2M) | 3:41 | 2024-06-27 | 2024-06-29 |
 | [LAST DANCE](https://open.spotify.com/track/6LvDy33aNgecB11B57iC3S) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [LAST DANCE](https://open.spotify.com/album/6zAYcCNI9sAftjuiMSXaKY) | 3:33 | 2024-10-10 | 2024-10-12 |
 | [Last Fall](https://open.spotify.com/track/2X0bMKZ64y5gqVRuCo6KoP) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi), [Horse Head](https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA) | [Last Fall](https://open.spotify.com/album/4cwJYGJchKlw7CpiMD3QRa) | 2:28 | 2025-02-03 | 2025-02-07 |
@@ -4234,6 +4235,7 @@
 | [Taste Like Hell](https://open.spotify.com/track/3NL1q6qTLTvEHs74DL7XKT) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Taste Like Hell](https://open.spotify.com/album/5jxheKcwzt8oJtktWB6BTG) | 2:50 | 2024-10-30 | 2024-11-02 |
 | [Tasty](https://open.spotify.com/track/7CRxtUYdaNwgUICPi2iScL) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Tasty](https://open.spotify.com/album/2vM9UGFDKGVtBujM4i280d) | 2:11 | 2024-05-20 | 2024-05-23 |
 | [Tax Evasion](https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Tax Evasion](https://open.spotify.com/album/2ri6axMCVTYBXSH7DFWv33) | 3:34 | 2024-07-17 | 2024-07-19 |
+| [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 | 2025-07-08 |  |
 | [Te escribo en el cielo](https://open.spotify.com/track/02E2qDuC6KHMXcA3GvBhOb) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [Te escribo en el cielo](https://open.spotify.com/album/6XSTsOMXWOWhNNooS6Xzy2) | 3:00 | 2024-12-20 | 2024-12-22 |
 | [TE VAS](https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TE VAS](https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6) | 2:47 | 2024-12-05 | 2024-12-07 |
 | [Teach Me To Be Bad](https://open.spotify.com/track/7qstwlAVvc8l9e0dcMneKn) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Teach Me To Be Bad](https://open.spotify.com/album/41fqFHNrl6RXeCTSuKEo73) | 2:48 | 2024-08-29 | 2024-08-31 |
@@ -4785,7 +4787,7 @@
 | [Well Made Play](https://open.spotify.com/track/2k1D1kmI8G7OvahKjyrP0V) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Well Made Play](https://open.spotify.com/album/2J2JF6blayfBEEbvUjPE5T) | 2:13 | 2025-05-23 | 2025-05-31 |
 | [Went Hollywood For A Year](https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Went Hollywood For A Year](https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K) | 2:07 | 2024-06-28 | 2024-07-02 |
 | [Went to a Party](https://open.spotify.com/track/74J56b0iuvVHwQtqiANQpG) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7), [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Went to a Party](https://open.spotify.com/album/2QX23dMU67xFKfKXblwsZa) | 2:57 | 2024-06-12 | 2024-06-14 |
-| [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 | 2025-07-01 |  |
+| [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 | 2025-07-01 | 2025-07-09 |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-04 | 2024-10-09 |
 | [WESTE WEISS](https://open.spotify.com/track/5ES30yO770SMD6QSyPxIio) | [TANO77](https://open.spotify.com/artist/6Gp1AegbZ89bXSSkWUV0UA) | [WESTE WEISS](https://open.spotify.com/album/47p8Kis5vZ5Nt3PKcI9CmV) | 2:25 | 2024-08-09 | 2024-08-11 |
 | [Wet & Wild](https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Wet & Wild](https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH) | 3:02 | 2024-11-07 | 2024-11-09 |

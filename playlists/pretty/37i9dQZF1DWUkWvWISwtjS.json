@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 446822,
+  "num_followers": 446814,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Eu Era",
+        "url": "https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        }
+      ],
+      "duration_ms": 211324,
+      "name": "Eu Era",
+      "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Ele N\u00e3o Tem",
         "url": "https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 212192,
       "name": "Ele N\u00e3o Tem",
       "url": "https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Eu Era",
-        "url": "https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K"
-      },
-      "artists": [
-        {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Eu Era",
-      "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
     },
     {
       "added_at": "2025-05-30 18:43:30",

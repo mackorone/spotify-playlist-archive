@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-560 songs - 1 day 8 hr 1 min
+561 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Need You Now](https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28) | 3:56 | 2024-04-11 | 2025-06-03 |
 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 | 2024-03-21 | 2024-04-19 |
 | [NEVER ALONE](https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF) | [NEVER ALONE](https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm) | 3:15 | 2025-05-09 |  |
-| [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n) | 3:41 | 2024-03-21 |  |
+| [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n) | 3:41 | 2024-03-21 | 2025-07-09 |
 | [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 | 2025-02-21 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 | 2023-02-23 | 2023-09-08 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2023-02-23 | 2023-04-26 |
@@ -368,7 +368,7 @@
 | [Put A Little Hurt On Me](https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Deluxe\)](https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM) | 2:47 | 2025-01-09 |  |
 | [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 | 2023-04-25 | 2024-02-27 |
 | [Queen Of Elba](https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT) | 3:57 | 2024-04-11 |  |
-| [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2024-03-19 |  |
+| [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2024-03-19 | 2025-07-09 |
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Remixes\)](https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8) | 2:49 | 2023-02-23 | 2023-12-30 |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-05-27 |  |
 | [Resolution](https://open.spotify.com/track/6C2PcJaxG7OXRU86zZiQOz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution](https://open.spotify.com/album/0V49RmdI91QvHAayrLPyS0) | 4:16 | 2023-02-23 | 2024-04-19 |
@@ -445,7 +445,7 @@
 | [Stick Season](https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:02 | 2025-02-03 |  |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-05-22 |  |
 | [Still Love](https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love](https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ) | 2:57 | 2024-04-04 |  |
-| [Stranger I Once Knew](https://open.spotify.com/track/3qyL58GhGGIEOYfBUGeit9) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/1LSZphyIjbXDJ2nTUECsSg) | 3:27 | 2024-12-20 | 2025-06-27 |
+| [Stranger I Once Knew](https://open.spotify.com/track/3qyL58GhGGIEOYfBUGeit9) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/1LSZphyIjbXDJ2nTUECsSg) | 3:27 | 2024-12-20 |  |
 | [Summer Haze](https://open.spotify.com/track/2wL5gUdq6fweMjaFVMWmc2) | [Close to Fire](https://open.spotify.com/artist/659oLAkAQQTvYQR9zr98jA) | [This Is What It Feels Like](https://open.spotify.com/album/64CFi1tG0UmknPzxMZCZWD) | 3:38 | 2023-02-23 | 2024-04-19 |
 | [Summer of My Life](https://open.spotify.com/track/5e1qJDCinxx2XGGEAnffMb) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:06 | 2023-02-23 |  |
 | [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 | 2025-03-07 |  |
@@ -472,6 +472,7 @@
 | [Tell Me](https://open.spotify.com/track/004ahAHS641tMDChzRvJPj) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Tell Me](https://open.spotify.com/album/0ASbLMBmRueltuW4UX2j3A) | 3:32 | 2023-02-23 | 2024-07-24 |
 | [Tell Me That You Love Me](https://open.spotify.com/track/0n3pKT2HiMJGxoAYgyezBV) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/6O0z01p8PGCUr7QQQLk1g9) | 3:14 | 2023-06-06 | 2024-03-27 |
 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2023-02-23 | 2023-07-02 |
+| [ten years time](https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [ten years time](https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj) | 2:59 | 2025-07-08 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/7qKBw3VBU6dVqK6F8WBIOJ) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Tennessee Whiskey](https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM) | 4:22 | 2023-02-23 |  |
 | [the devil's advocate](https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the devil's advocate](https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P) | 2:59 | 2025-03-06 |  |
 | [The Hardest Part](https://open.spotify.com/track/4Tw9JYF9HOuPRyccNWMgwf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:22 | 2023-04-06 |  |

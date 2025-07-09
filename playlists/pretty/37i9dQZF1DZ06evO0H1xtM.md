@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,439 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,561 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 20 | [El Destino Nos Separa](https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El Destino Nos Separa](https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f) | 2:15 |
 | 21 | [Princesa](https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Princesa](https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR) | 2:31 |
 | 22 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 |
-| 23 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw) | 2:36 |
-| 24 | [Anda Bien el Nene](https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Anda Bien el Nene](https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU) | 2:57 |
+| 23 | [Anda Bien el Nene](https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Anda Bien el Nene](https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU) | 2:57 |
+| 24 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw) | 2:36 |
 | 25 | [A ti](https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [On fire](https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8) | 2:47 |
 | 26 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
 | 27 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 40 | [El Primo](https://open.spotify.com/track/13kE65qNSOfOCek24303WY) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:56 |
 | 41 | [Zutano](https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Mismo De La Vida Ruina](https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J) | 3:20 |
 | 42 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw) | 1:50 |
-| 43 | [Nada Es Fácil](https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:28 |
+| 43 | [Así Nací](https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:47 |
 | 44 | [Torai](https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:35 |
-| 45 | [Así Nací](https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:47 |
+| 45 | [Nada Es Fácil](https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:28 |
 | 46 | [Clausurado](https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:06 |
 | 47 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan) | 3:46 |
 | 48 | [La Sandía](https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 3:15 |
 | 49 | [No Me Vuelvo a Emborrachar](https://open.spotify.com/track/1QNJmgXbCGiksbQPYk6bjg) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Me Vuelvo a Emborrachar](https://open.spotify.com/album/1BvadvC7V1a3lAsy7qXu2n) | 3:03 |
 | 50 | [Emprendedor](https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:26 |
 
-Snapshot ID: `aGm8gAAAAAAlsQceeryH3N4s+8oJMz5G`
+Snapshot ID: `aGsOAAAAAADCqQ0pMFixlI8jyn/KyRB2`

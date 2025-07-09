@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Kekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,979 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,977 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 15 | [Google da Minha Vida](https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Google da Minha Vida](https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa) | 2:17 |
 | 16 | [Amor e Amor](https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Amor e Amor](https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe) | 4:21 |
 | 17 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 |
-| 18 | [Morena](https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Morena](https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0) | 3:17 |
-| 19 | [Respeitada](https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Respeitada](https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz) | 2:20 |
+| 18 | [Respeitada](https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Respeitada](https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz) | 2:20 |
+| 19 | [Morena](https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Morena](https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0) | 3:17 |
 | 20 | [Trinta Minutos](https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Hat\-Trick do Tubarão](https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu) | 3:25 |
 | 21 | [Tudo No Privê](https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tudo No Privê](https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn) | 3:31 |
 | 22 | [Lud Session: Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Lud Session: Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7) | 5:53 |

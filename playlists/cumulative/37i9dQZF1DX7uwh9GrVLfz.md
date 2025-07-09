@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: TOTALFAT
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: WANIMA
 
-837 songs - 1 day 20 hr 20 min
+838 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [BeachBoys](https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BeachBoys](https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg) | 2:18 | 2023-02-14 | 2023-04-26 |
 | [Because of you](https://open.spotify.com/track/7G3RvOhP27HkLS7hToiGgz) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Reach](https://open.spotify.com/album/5yDfDCZvjtqjmfRJvi9QhM) | 2:57 | 2022-05-12 | 2022-08-19 |
 | [Before The Lights Go Out](https://open.spotify.com/track/3AsMIqAS33h6r2QW8WH9Fz) | [SIGHTS](https://open.spotify.com/artist/05pWxZtEoTKgwNOseyR8kB) | [EP2](https://open.spotify.com/album/6UVkUV4888FP5l2lmZEVXU) | 3:44 | 2022-05-24 | 2022-07-10 |
-| [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 | 2022-05-24 | 2025-07-03 |
+| [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 | 2022-05-24 |  |
 | [Believe](https://open.spotify.com/track/4C13xDSsYbqoFyYJUu0ZQh) | [ALIVES](https://open.spotify.com/artist/18JTlzpST0PKdG2IpJZ8QK) | [Code of Alives](https://open.spotify.com/album/1MpsMC6rUebOZXt0ZNdzve) | 2:35 | 2022-05-19 | 2022-07-14 |
 | [Believer](https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2rd6vOxRnBTXJP1qizJs7C) | 2:49 | 2023-12-07 | 2024-03-08 |
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
@@ -187,7 +187,7 @@
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |
 | [Go For It](https://open.spotify.com/track/6WEC4dCGAuMfrUMoF55BD4) | [ANGER FLARES](https://open.spotify.com/artist/1KT2rYCKxq9UQ6tqnXLhSP) | [Punk Rock Compilation, Vol​​.1](https://open.spotify.com/album/5L0WzRvc31A7qaHd3yDdHK) | 1:53 | 2023-01-24 | 2023-04-19 |
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
-| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 | 2025-07-02 |
+| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 |  |
 | [Good Feelin'](https://open.spotify.com/track/14s2uCKAX0LpFABOTRtkux) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Good Feelin'](https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU) | 4:56 | 2022-05-17 | 2022-07-28 |
 | [Goodbye Tears](https://open.spotify.com/track/3V27KAsj2RJ9b3SqXlI6JX) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [Gift from God E.P.](https://open.spotify.com/album/1MQCFv8QcQI6p8A68KA7tp) | 2:31 | 2023-12-05 | 2023-12-20 |
 | [Gotta Fight](https://open.spotify.com/track/4GlygmoLSxhHNXC23DRWeA) | [LEXT](https://open.spotify.com/artist/2jxq5Mq4Ulrm5WNSJVEauT) | [FLASHBACK](https://open.spotify.com/album/36ZIvfOxwtyKMtAvK7MB21) | 2:49 | 2025-01-21 | 2025-05-14 |
@@ -304,6 +304,7 @@
 | [MANIAC IV](https://open.spotify.com/track/03qtuCCNq1Yl4GfdcDAHW6) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [MANIAC IV](https://open.spotify.com/album/0CXFdhWYq4JiJ72lAnrtOH) | 3:34 | 2022-05-12 | 2022-07-29 |
 | [Manifest for a New Average](https://open.spotify.com/track/0R3B5VMV8tEAjw3UrgEfCj) | [LOBSTER](https://open.spotify.com/artist/09LIsBVBw0w9ALpqyQTRZQ) | [Manifest for a New Average](https://open.spotify.com/album/4miHktZHb5pite8cVELcDW) | 4:51 | 2023-02-14 | 2023-04-19 |
 | [MARIGOLD](https://open.spotify.com/track/2lPzFCH7YezNtVekqfKUU6) | [WATER CLOSET](https://open.spotify.com/artist/2TsHZGAX5xMjZTcy37QzGi) | [WATERCLOSET MUSIC](https://open.spotify.com/album/2NkjtvZKEum2sKqUOLC7CG) | 2:37 | 2022-05-31 | 2022-07-09 |
+| [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 | 2025-07-08 |  |
 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 | 2023-12-19 | 2024-04-26 |
 | [medicine](https://open.spotify.com/track/6mddG5wTM56n3P6UKVdUrb) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [FLAKES](https://open.spotify.com/album/59Bqe2aDWUFBTBVDpOl4TM) | 2:45 | 2022-05-12 | 2022-07-28 |
 | [MEMENTO MORI](https://open.spotify.com/track/00SROMpQqY9J5tsZyEVrR3) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [LUCKY CHARMS](https://open.spotify.com/album/2QdmuLUR6anfHrH7kX5xt2) | 2:25 | 2022-05-12 | 2022-07-29 |
@@ -328,7 +329,7 @@
 | [MY FIRST KISS](https://open.spotify.com/track/2sZkMsfevQczFFXNBzr6al) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/2xpMvwe3ftugumuaJR3flV) | 3:11 | 2023-12-12 | 2024-04-19 |
 | [MY FIRST KISS](https://open.spotify.com/track/3giExKWjsn2GSeXR5AQIMc) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/3UW4q3FZ3YCCzyXe8zTYFa) | 3:11 | 2022-07-21 | 2023-12-09 |
 | [MY FIRST KISS](https://open.spotify.com/track/5KwK5Ojq91gC2gBEWuopOS) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/1QwhR7nfWScyyDaa6Rwj5y) | 3:11 | 2022-05-19 | 2022-07-28 |
-| [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/album/158mQFq64E1JBkbiU1tTyp) | 1:11 | 2025-04-15 |  |
+| [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/album/158mQFq64E1JBkbiU1tTyp) | 1:11 | 2025-04-15 | 2025-07-09 |
 | [My One Wish](https://open.spotify.com/track/7vWQhVaKXNGVpN9IhCFn9p) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:50 | 2024-02-27 | 2025-01-09 |
 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 | 2023-10-17 | 2024-02-29 |
 | [My Secret Summer](https://open.spotify.com/track/3FwwlkM5aps7yKctEwKLuS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [WILL KEEP MARCHING](https://open.spotify.com/album/2olIfuO9oEQ0DBQPeBjb5A) | 2:57 | 2022-05-12 | 2022-07-23 |
@@ -383,7 +384,7 @@
 | [OUT老GUYS](https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 5:27 | 2023-03-21 | 2023-04-19 |
 | [OVERRIDE GENERATION](https://open.spotify.com/track/5fmZ7p8oubZ1DaJHw7j0T5) | [SOBUT](https://open.spotify.com/artist/7wiOTXhsRROAbAm7GDETD4) | [KICKIN' YOUR HEAD](https://open.spotify.com/album/1p07aehQpgQVndO8pnqRwK) | 2:45 | 2022-05-31 | 2022-07-28 |
 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 | 2024-01-09 | 2024-02-29 |
-| [Parasites](https://open.spotify.com/track/7CJWvOBiVULjCGdElIkmNp) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:10 | 2024-02-27 | 2025-05-23 |
+| [Parasites](https://open.spotify.com/track/7CJWvOBiVULjCGdElIkmNp) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:10 | 2024-02-27 |  |
 | [PARDON?](https://open.spotify.com/track/1OiEyOhzqSVy88ZO6Gzqxf) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/4r851ZakCghaOeuJCuUpkU) | 1:45 | 2022-05-12 | 2022-06-29 |
 | [PARDON?](https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:45 | 2022-07-21 | 2023-12-06 |
 | [PARISLOTTE](https://open.spotify.com/track/6Arzk3sY8HYwE5XNhAoBGA) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [SHIMA ADDICTION](https://open.spotify.com/album/4jBv1PnE0biTqQl6H7KqVJ) | 2:29 | 2022-05-12 | 2022-07-29 |
@@ -441,7 +442,7 @@
 | [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 |  |
 | [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 | 2024-04-17 |
 | [Seahorse](https://open.spotify.com/track/26NdFMwJkFi2L4EWSxcPnV) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [Seahorse](https://open.spotify.com/album/7jb4aq0bopsiuW1k8i6lDA) | 3:28 | 2023-11-28 | 2023-12-06 |
-| [SEASON](https://open.spotify.com/track/1r1Ft25nw0PaQs2fI5fymJ) | [HERO COMPLEX](https://open.spotify.com/artist/2w3zotiYKfS7ZQLqqu3vkV) | [SEASON](https://open.spotify.com/album/4un5E7EVg5RvLev9xTsoQR) | 3:05 | 2025-04-01 |  |
+| [SEASON](https://open.spotify.com/track/1r1Ft25nw0PaQs2fI5fymJ) | [HERO COMPLEX](https://open.spotify.com/artist/2w3zotiYKfS7ZQLqqu3vkV) | [SEASON](https://open.spotify.com/album/4un5E7EVg5RvLev9xTsoQR) | 3:05 | 2025-04-01 | 2025-07-09 |
 | [Second March](https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe) | [Danablu](https://open.spotify.com/artist/7rOm14pDj1CaXtrbFfIjRt) | [Second March](https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0) | 2:45 | 2023-08-01 | 2023-08-23 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
 | [see you walking](https://open.spotify.com/track/2S77Zkxf7eckj4gaq3zn1O) | [ALiVE](https://open.spotify.com/artist/5pSPKQkHGRGaTyY3vMG8Hz) | [Olive branch](https://open.spotify.com/album/0piB3BJMmZ82AFte4dy7XL) | 0:35 | 2023-07-11 | 2023-08-16 |
@@ -475,7 +476,7 @@
 | [So tough & So tough](https://open.spotify.com/track/36SZggM1TD3tlZuUa6relW) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [So tough & So tough](https://open.spotify.com/album/5kT1YYk3YMGdzJbtmXOsGy) | 2:07 | 2023-02-10 | 2023-04-12 |
 | [Solar Kids](https://open.spotify.com/track/7vXdLVD0HARmB959nS0zuP) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [Treasure](https://open.spotify.com/album/3vhZFWyTLK9RGZD5ieQxR6) | 3:54 | 2022-07-19 | 2022-08-19 |
 | [SOLIDARITY](https://open.spotify.com/track/7zVYKpL0lfJ5I4og1vC00S) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [SOLIDARITY](https://open.spotify.com/album/7qg0TONqiLBSqLHkmJnIoS) | 2:54 | 2022-05-12 | 2022-07-24 |
-| [Sorry Not Sorry](https://open.spotify.com/track/1OACi7kjZbYeMzHBrVGKcB) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Sorry Not Sorry](https://open.spotify.com/album/0KzLQCUmZ0wLFtMDj6O5Mq) | 3:09 | 2024-12-17 |  |
+| [Sorry Not Sorry](https://open.spotify.com/track/1OACi7kjZbYeMzHBrVGKcB) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Sorry Not Sorry](https://open.spotify.com/album/0KzLQCUmZ0wLFtMDj6O5Mq) | 3:09 | 2024-12-17 | 2025-07-09 |
 | [Soundtrack](https://open.spotify.com/track/5JAVgsqh3TQDFWdPOgy3qe) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Life In The Sun World Edition](https://open.spotify.com/album/639Xs8APvvha9KM1BlrnrF) | 2:39 | 2022-05-19 | 2022-07-25 |
 | [SPANKY ALIEN](https://open.spotify.com/track/6mVkWvOcJbXAAWxM7mfCBS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [SPANKY ALIEN](https://open.spotify.com/album/4GmCJFE6FVDsPzt56f6hzG) | 3:35 | 2023-06-06 | 2023-12-06 |
 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 | 2022-05-12 | 2023-08-09 |
@@ -737,7 +738,7 @@
 | [兼愛非攻](https://open.spotify.com/track/70FWTfKhfkLe6Rai1Uoml6) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5), [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [兼愛非攻](https://open.spotify.com/album/1XrwoXSVlVBrHzwr92xser) | 3:02 | 2022-05-19 | 2022-07-26 |
 | [分岐点](https://open.spotify.com/track/1tB2Lz6LWAaQ4EJMDnlXyQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [分岐点](https://open.spotify.com/album/5b08OcgRSens2yg0lXwYPF) | 2:56 | 2025-07-01 |  |
 | [名犬ニッパー・ドッグンロール](https://open.spotify.com/track/79FUYK0aRJVN0rOtmXuN9z) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [名犬ニッパー・ドッグンロール](https://open.spotify.com/album/1Pfe2R00Gm8btOSEQrU8Qs) | 4:27 | 2022-05-12 | 2022-07-27 |
-| [嘔吐く！！！](https://open.spotify.com/track/3QecP5LKr4AEW2dtS5id75) | [清 竜人TOWN](https://open.spotify.com/artist/6jnNnpti0hsYXCgVYnwvXB) | [嘔吐く！！！](https://open.spotify.com/album/4dQmWJOzfnQcp0kJ3Crfj6) | 1:16 | 2025-06-05 |  |
+| [嘔吐く！！！](https://open.spotify.com/track/3QecP5LKr4AEW2dtS5id75) | [清 竜人TOWN](https://open.spotify.com/artist/6jnNnpti0hsYXCgVYnwvXB) | [嘔吐く！！！](https://open.spotify.com/album/4dQmWJOzfnQcp0kJ3Crfj6) | 1:16 | 2025-06-05 | 2025-07-09 |
 | [国家の不正を暴きたい](https://open.spotify.com/track/2tuNtDVgN5cYnFHcOMNB9l) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [セカンドe.p](https://open.spotify.com/album/5IWfQmOJPgOkhYCMJ8vDaL) | 2:57 | 2022-05-12 | 2022-07-25 |
 | [地獄と地獄](https://open.spotify.com/track/4aOQx8r3qqmGXkIT5pbjR3) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [鄙、天国](https://open.spotify.com/album/5qrUsfI8Hre2TH3DYtWUhe) | 1:31 | 2022-11-16 | 2023-03-22 |
 | [地球防衛軍](https://open.spotify.com/track/1LoZELNpLb5AsX5vuCWxq1) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [地球防衛軍](https://open.spotify.com/album/18P2oW59emDr19Fk7zuyZe) | 2:02 | 2024-10-08 | 2025-03-12 |

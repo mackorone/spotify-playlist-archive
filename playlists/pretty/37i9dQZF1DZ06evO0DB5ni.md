@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 857,538 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 857,735 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 17 | [Y Así Fue](https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:46 |
 | 18 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
 | 19 | [Corazón Malo](https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [¿Quién?](https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy) | 2:08 |
-| 20 | [Cuando Te Ame](https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Este Soy Yo](https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn) | 3:30 |
-| 21 | [Ni Diablo Ni Santo](https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:35 |
+| 20 | [Ni Diablo Ni Santo](https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:35 |
+| 21 | [Cuando Te Ame](https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Este Soy Yo](https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn) | 3:30 |
 | 22 | [Fuentes De Ortiz](https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 3:33 |
 | 23 | [Dime](https://open.spotify.com/track/2MsHqegaJQIiulNQi9fZ3p) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:43 |
 | 24 | [Corazón Mágico](https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 49 | [No Se Ocupa Más](https://open.spotify.com/track/52joCc2An6laDcTOLc852J) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:25 |
 | 50 | [Algo Bien](https://open.spotify.com/track/2M79FMrWRz5AlqbMXyRGP6) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Incomparable](https://open.spotify.com/album/1FFEWzkpUGWt0aC6rzQC8D) | 3:06 |
 
-Snapshot ID: `aGm8gAAAAACQ0SIMS1ABJxjD60Oxi9vb`
+Snapshot ID: `aGsOAAAAAACPGYsTcpzPP5SskMm+AfnR`

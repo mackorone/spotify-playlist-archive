@@ -4,7 +4,7 @@
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 30 min
+44 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Only When I'm Drunk](https://open.spotify.com/track/7DfixNv2EXmgksXmse0BXs) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 | 2024-12-11 | 2025-01-06 |
 | [Revolving Door](https://open.spotify.com/track/29BNwy4DiJbLSf796C337g) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:40 | 2024-09-17 |  |
 | [Skulls and Stars \- Original Demo](https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:48 | 2024-09-17 |  |
-| [Starry Eyed Surprise](https://open.spotify.com/track/2VdNMzJRe7xwD2xPpjmdhW) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Starry Eyed Surprise](https://open.spotify.com/album/4z5wOC6kklR2XKEBmv5orT) | 3:11 | 2024-09-17 |  |
+| [Starry Eyed Surprise](https://open.spotify.com/track/2VdNMzJRe7xwD2xPpjmdhW) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Starry Eyed Surprise](https://open.spotify.com/album/4z5wOC6kklR2XKEBmv5orT) | 3:11 | 2024-09-17 | 2025-07-09 |
+| [Starry Eyed Surprise](https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Starry Eyed Surprise](https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl) | 3:11 | 2025-07-09 |  |
 | [Starry Eyed Surprise](https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 3:48 | 2024-09-17 |  |
 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 | 2024-09-17 |  |
 | [Tattoo Dreams](https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Harvest](https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH) | 3:31 | 2024-09-17 |  |

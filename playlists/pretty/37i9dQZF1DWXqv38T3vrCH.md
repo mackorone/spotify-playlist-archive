@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,848 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,822 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 54 | [Undead Ahead 2: The Tale of the Midnight Ride](https://open.spotify.com/track/4DQPKxM9mp70Nxz0FH051A) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 4:33 |
 | 55 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 |
 | 56 | [Whiskey Fever](https://open.spotify.com/track/5c4X3PrLDtzAqXOWDtfX2t) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:37 |
-| 57 | [Hunter’s Moon](https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Hunter's Moon](https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1) | 3:16 |
-| 58 | [superdeadfriends](https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:20 |
+| 57 | [superdeadfriends](https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:20 |
+| 58 | [Hunter’s Moon](https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Hunter's Moon](https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1) | 3:16 |
 | 59 | [All Hallows Eve](https://open.spotify.com/track/6jTpj6yGuX2Bp8L21GD4pf) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [World Coming Down](https://open.spotify.com/album/19GlIEIJqujc5U5B7PETZW) | 8:35 |
 | 60 | [She's Creeping](https://open.spotify.com/track/01VXGDL8Ox3SWmvM8ZyvSB) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:23 |
 | 61 | [What's Coming To Me](https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [What's Coming To Me](https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs) | 3:34 |

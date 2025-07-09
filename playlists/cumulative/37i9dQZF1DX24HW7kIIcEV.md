@@ -4,7 +4,7 @@
 
 > this is what dreams are made of!
 
-121 songs - 6 hr 36 min
+122 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Can I Have This Dance \- Original Version](https://open.spotify.com/track/6ZuxpFXpmIzy1cuzUmmibT) | [High School Musical Cast](https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 3: Senior Year](https://open.spotify.com/album/3bG3LDbQ56Q6eFKYGCtP0W) | 4:03 | 2022-09-10 | 2022-11-13 |
 | [Can't Back Down \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/51NrdlQOSTeq0d6U7xRKsz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Alyson Stoner](https://open.spotify.com/artist/5ZuWrQzWBgJXbAfcLx2WTL), [Anna Maria Perez de Taglé](https://open.spotify.com/artist/4Sq9ZAY2paQJhzhuBSRoKf), [Char Ligera](https://open.spotify.com/artist/2h9CHSuQGKaM74UFj8MYDt) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:19 | 2022-03-25 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6zLXWVAskybBaM2L5rCxiG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:07 | 2022-03-25 |  |
+| [Can't Stop Singing \- From "Teen Beach Movie"/Soundtrack Version](https://open.spotify.com/track/2adTfABiJJQpZWlujYO3Qo) | [Brady](https://open.spotify.com/artist/4j6UbCmWa3sZAq8zmy1ZXd), [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 2:25 | 2025-07-08 |  |
 | [Come Clean](https://open.spotify.com/track/2TZ1apxMDlubCGMsOxcTbT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Metamorphosis](https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs) | 3:34 | 2022-03-25 |  |
 | [Crazier](https://open.spotify.com/track/3De1LyIjNUrzsBt4cTu0iv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Hannah Montana The Movie](https://open.spotify.com/album/2vBF31kBRYg7sGXyrdPdz1) | 3:11 | 2022-03-25 |  |
 | [Crazier](https://open.spotify.com/track/5vyxXfD5gLlyPxGZMEjtmd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:11 | 2022-04-21 | 2024-04-19 |
@@ -56,7 +57,7 @@
 | [Hoedown Throwdown](https://open.spotify.com/track/6ntkwU1MhehTKgx4BWxX3f) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:01 | 2022-03-25 |  |
 | [Hurricane](https://open.spotify.com/track/7gQ5c5HY6zMsIck6QLY9dJ) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 4:03 | 2022-03-25 |  |
 | [I Wanna Know You](https://open.spotify.com/track/6ftcAmQPmGbk7Gkr5MJe4T) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 2:46 | 2022-04-21 | 2024-04-19 |
-| [I Wanna Know You](https://open.spotify.com/track/7FEwZ6YpzrzB3tYr9jtfL7) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 2:47 | 2022-03-25 |  |
+| [I Wanna Know You](https://open.spotify.com/track/7FEwZ6YpzrzB3tYr9jtfL7) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 2:47 | 2022-03-25 | 2025-07-09 |
 | [If We Were A Movie](https://open.spotify.com/track/6XqpH9bHj7ODY1z4xI9n7E) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [Corbin Bleu](https://open.spotify.com/artist/5GuEFqVXxQsqJtjGqoFWvf) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:04 | 2022-03-25 |  |
 | [Introducing Me \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/74tQaH4CxM5Rs9BzerEbHr) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:06 | 2022-03-25 |  |
 | [It's Alright, It's OK](https://open.spotify.com/track/1bYtKF2sY2wLU6xdVaqIqD) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Guilty Pleasure](https://open.spotify.com/album/4iKfmBKXuzPROAXBuZKAVM) | 2:59 | 2022-03-25 |  |

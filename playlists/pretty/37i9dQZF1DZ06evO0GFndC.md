@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,373 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,385 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 7 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 8 | [Seguimos Más Fuertes](https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:20 |
 | 9 | [French Inhale](https://open.spotify.com/track/4fMuM5gdpDeXmd7oDPqPct) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:57 |
-| 10 | [Por Extrañarte](https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:45 |
+| 10 | [Sacando Cuentas](https://open.spotify.com/track/77YlSpnsy6SoUABVTGcghD) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:51 |
 | 11 | [La Oveja Negra](https://open.spotify.com/track/7ss0vnlNgbpUSYd5f5UyhD) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:39 |
 | 12 | [Area 81](https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:45 |
 | 13 | [Fuga Pa' Cali \- En Vivo](https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:23 |
-| 14 | [Sacando Cuentas](https://open.spotify.com/track/77YlSpnsy6SoUABVTGcghD) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:51 |
+| 14 | [Por Extrañarte](https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:45 |
 | 15 | [La Clase](https://open.spotify.com/track/3cGl8okeUmtDzp0yvgUDpY) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:27 |
 | 16 | [La Lealtad](https://open.spotify.com/track/163KLwvYqUElKJA27ygSoa) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:55 |
 | 17 | [Criminales de Verdad \- En Vivo](https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 49 | [Señor de la A \- En Vivo](https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:14 |
 | 50 | [Miran Mi Brillo](https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Kilos De Oro](https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY) | 3:40 |
 
-Snapshot ID: `aGm8gAAAAAA45QZdeehTMQg8H8sEtS0o`
+Snapshot ID: `aGsOAAAAAABmd2Fy5Ze+J9Od5jaSdUrl`

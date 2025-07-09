@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,996 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,047 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 42 | [Tua Vontade \- Ao Vivo](https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7) | [PV Dantas](https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Tua Vontade \(Ao Vivo\)](https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz) | 3:27 |
 | 43 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 |
 | 44 | [Glória](https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Multiforme](https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT) | 4:48 |
-| 45 | [Pista do Céu \(Quase 30\)](https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9), [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Pista do Céu \(Quase 30\)](https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT) | 7:12 |
-| 46 | [A Voz](https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4) | [Hiago Klayton](https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m) | [A Voz](https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX) | 4:20 |
+| 45 | [A Voz](https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4) | [Hiago Klayton](https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m) | [A Voz](https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX) | 4:20 |
+| 46 | [Pista do Céu \(Quase 30\)](https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9), [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Pista do Céu \(Quase 30\)](https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT) | 7:12 |
 | 47 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
 | 48 | [Mais Que Vencedor](https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL) | [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Redenção](https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA) | 4:07 |
 | 49 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
 | 50 | [Quero Te Levar Comigo](https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB) | [Bruno Cerqueira](https://open.spotify.com/artist/2YKr7WRb3XjesJU0P7oC3D) | [Quero Te Levar Comigo](https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6) | 4:39 |
-| 51 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |
-| 52 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 |
+| 51 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 |
+| 52 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |
 | 53 | [Estado De Graça \- Ao Vivo](https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:45 |
 | 54 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |
 | 55 | [Betel](https://open.spotify.com/track/4NH7oWDU6wzIFV51AQZmKz) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Betel](https://open.spotify.com/album/1jhLRHULJvXJnjsVINAnaQ) | 4:24 |

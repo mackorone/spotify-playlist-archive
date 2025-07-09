@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 204810,
+  "num_followers": 204823,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADkHzrSsZlbOgWd8nALs9ys",
+  "snapshot_id": "aGsOAAAAAAC5znRqlqZy4bZtHdsdEjm3",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 344880,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/1odJaKOxq4jK5MkbyMuWEG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After All These Years",
         "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
       },
@@ -615,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tend (Live)",
+        "url": "https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX"
+      },
+      "artists": [
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 409414,
+      "name": "Tend - Live",
+      "url": "https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -635,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tend (Live)",
-        "url": "https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX"
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
       },
       "artists": [
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        },
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         }
       ],
-      "duration_ms": 409414,
-      "name": "Tend - Live",
-      "url": "https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge"
+      "duration_ms": 344880,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/1odJaKOxq4jK5MkbyMuWEG"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 339041,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 366160,
       "name": "You Make Me Brave (Live)",
       "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 339041,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 301090,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Touch of Heaven / Alabaster Heart (Live)",
         "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 630228,
       "name": "Touch of Heaven / Alabaster Heart (Live)",
       "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 301090,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 317789,
-      "name": "By the Grace of God",
-      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 339870,
       "name": "Pieces (Live)",
       "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 317789,
+      "name": "By the Grace of God",
+      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Promises Never Fail (Live)",
-      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 485396,
       "name": "Be Enthroned (Live)",
       "url": "https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Promises Never Fail (Live)",
+      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
     },
     {
       "added_at": null,
@@ -1015,8 +1015,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
       "artists": [
         {
@@ -1024,13 +1024,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 453588,
-      "name": "Graves into Gardens",
-      "url": "https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj"
+      "duration_ms": 479771,
+      "name": "Son Of Suffering (Live)",
+      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
     }
   ],
   "unique_name": "This Is Bethel Music",

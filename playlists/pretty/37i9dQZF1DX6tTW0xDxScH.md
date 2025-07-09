@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,952 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,869 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 82 | [Shit I'm Dreaming](https://open.spotify.com/track/1gNPP8TazAPuvq6R8oxxnU) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 6:22 |
 | 83 | [Curse The Man](https://open.spotify.com/track/5rLh6WWpAbDcJrT9qwmSM3) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD) | 3:34 |
 | 84 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 |
-| 85 | [Sunsetz](https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 3:35 |
-| 86 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
-| 87 | [Love Child](https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 2:43 |
+| 85 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
+| 86 | [Love Child](https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 2:43 |
+| 87 | [Sunsetz](https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 3:35 |
 | 88 | [All In My Head](https://open.spotify.com/track/3Bu9F59w6ubEnnLIcbJgfD) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [All In My Head](https://open.spotify.com/album/4xNvPi6XSLvxkNaeOJhfxF) | 5:07 |
 | 89 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 90 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |

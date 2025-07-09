@@ -7957,6 +7957,24 @@
     },
     {
       "album": {
+        "name": "SONS",
+        "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154835,
+      "name": "It\u2019s Alright",
+      "url": "https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC"
+    },
+    {
+      "album": {
         "name": "J CHRIST",
         "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
       },
@@ -15048,7 +15066,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"

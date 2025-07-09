@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Clara Lima, VIETNÃ
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,034 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,035 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 11 | [Promessa](https://open.spotify.com/track/6PDNMJ0X2e35RJqEsHbycF) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 2:47 |
 | 12 | [Meia Noite](https://open.spotify.com/track/0YbQXYJ13OrJRJ6csTYVEz) | [Erridablio](https://open.spotify.com/artist/5MfiNK0zMxqkHGH0WHOeju) | [Meia Noite](https://open.spotify.com/album/0zQ9RFcwtIHo0aCyuH2bzO) | 2:01 |
 | 13 | [Visões](https://open.spotify.com/track/298ionVvjnAHlD0IqYVYfC) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:43 |
-| 14 | [Quem Ta De Olho Sabe](https://open.spotify.com/track/1xE80pgXzTylPRgq2ZIzWx) | [DJ Ajamu](https://open.spotify.com/artist/1E00YVO37Se7cWzAlkLTI9), [Thig](https://open.spotify.com/artist/2GI2PtmyEPvAhrv4rFnA3b) | [Quem tá de olho sabe](https://open.spotify.com/album/3VbFyEaAQGVthA6zBBdng7) | 4:16 |
+| 14 | [Quem Ta De Olho Sabe](https://open.spotify.com/track/1xE80pgXzTylPRgq2ZIzWx) | [DJ Ajamu](https://open.spotify.com/artist/1E00YVO37Se7cWzAlkLTI9), [Thig](https://open.spotify.com/artist/6msGmU4veiDoaZ8sR4r9b3) | [Quem tá de olho sabe](https://open.spotify.com/album/3VbFyEaAQGVthA6zBBdng7) | 4:16 |
 | 15 | [PHD](https://open.spotify.com/track/1DKv50EYnNL35ishbxdG08) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [As Ruas Sabem](https://open.spotify.com/album/5G8ynaMWlmRXq9cqwYVGZ4) | 2:56 |
 | 16 | [Perfil \#115 \- Antagonista](https://open.spotify.com/track/4J5ImUBRBJvhKpWRjNPmfP) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [VCR Slim](https://open.spotify.com/artist/17yxCujICJdjk64A1J7NAd) | [Perfil \#115 \- Antagonista](https://open.spotify.com/album/4yjusPpFPyzJ0lqCyCBIj0) | 1:41 |
 | 17 | [Leandro Roque](https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Até A Última Rima](https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E) | 4:35 |

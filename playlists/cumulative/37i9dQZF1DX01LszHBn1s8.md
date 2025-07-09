@@ -4,7 +4,7 @@
 
 > gonna be, gonna be 💛⭐️👑⚜️ golden ⚜️👑⭐️💛
 
-1,627 songs - 3 day 13 hr 46 min
+1,629 songs - 3 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1022,6 +1022,7 @@
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2022-11-16 | 2025-01-08 |
 | [No Bad Days \- Sped Up](https://open.spotify.com/track/1BExkm4zpE6wMY5bUCXCrU) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(Sped Up\)](https://open.spotify.com/album/4tumxs8Xs4cRzfnyR7DL5g) | 1:56 | 2023-02-23 | 2025-01-08 |
 | [No Bad Days \- Sped Up](https://open.spotify.com/track/7IEURcfIRcCYVIIqvI5xN7) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(Sped Up\)](https://open.spotify.com/album/430nIGWWPGy535RgLM7kOK) | 1:56 | 2024-01-11 | 2024-04-19 |
+| [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-08 |  |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2022-05-19 | 2025-01-08 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-21 |  |
 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 | 2022-09-05 | 2025-01-08 |
@@ -1061,6 +1062,7 @@
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-13 | 2025-01-08 |
 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 | 2022-11-03 | 2025-01-08 |
 | [ohfuckimnotok](https://open.spotify.com/track/6w0t6KnnmifuC5N6O231Dk) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I'm A Disappointment](https://open.spotify.com/album/4TeUmayh0oTlUaMHkQPTXE) | 2:24 | 2022-05-19 | 2025-01-08 |
+| [Okay](https://open.spotify.com/track/0PZqKacVnXfPTvEfiMzOue) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Okay](https://open.spotify.com/album/2vUbpXF7UY8dWL6d3Y3CpY) | 2:45 | 2025-07-08 |  |
 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 | 2022-09-15 | 2025-01-08 |
 | [Om](https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3) | [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu) | [Om](https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM) | 4:08 | 2025-05-05 |  |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-05-30 | 2025-01-08 |

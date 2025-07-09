@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74738,
+  "num_followers": 74743,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Water & The Rough",
         "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 216476,
       "name": "8 Hour Drive",
       "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ"
-      },
-      "artists": [
-        {
-          "name": "Bailey Kauri",
-          "url": "https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Jackson (Cover)",
         "url": "https://open.spotify.com/album/28REKiqomkBstRutFWUkom"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 205615,
       "name": "Jackson - Cover",
       "url": "https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Kauri",
+          "url": "https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8"
     },
     {
       "added_at": "2023-11-30 13:00:00",

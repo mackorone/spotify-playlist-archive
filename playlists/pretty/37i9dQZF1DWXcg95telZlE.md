@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,652 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,772 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 13 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:42 |
 | 14 | [Blueberry Hill](https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:27 |
 | 15 | [My Funny Valentine](https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Young Lovers](https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur) | 2:30 |
-| 16 | [Love Me Tender](https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:42 |
-| 17 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
+| 16 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
+| 17 | [Love Me Tender](https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:42 |
 | 18 | [Stardust](https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:15 |
 | 19 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 |
 | 20 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 72 | [Goodnite, It's Time to Go \(Goodnight Sweetheart, Goodnight\)](https://open.spotify.com/track/50meIWPMuhYgQSXfSsUvtI) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [The Very Best of the Spaniels](https://open.spotify.com/album/1EmuK9fr4cSt3hys4l1Uha) | 2:40 |
 | 73 | [Down In The Willow Garden](https://open.spotify.com/track/7F4z7VV5aVWX72YK4bM9HB) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Songs Our Daddy Taught Us](https://open.spotify.com/album/6TChmXsRtOQXNZQPrI2yGy) | 3:04 |
 | 74 | [Pretend](https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 2:45 |
-| 75 | [True Love Ways](https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Gold](https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2) | 2:48 |
-| 76 | [Since I Don't Have You](https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You](https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL) | 2:40 |
+| 75 | [Since I Don't Have You](https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You](https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL) | 2:40 |
+| 76 | [True Love Ways](https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Gold](https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2) | 2:48 |
 | 77 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [50's Love Songs](https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q) | 3:04 |
 | 78 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/307XEC1IUwUs9ojlEFwH7f) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Best Of The Platters](https://open.spotify.com/album/48VpGQRP9z2Nhw2iq1uyaN) | 2:37 |
 | 79 | [Mona Lisa](https://open.spotify.com/track/3KC5yrPGuw8NFjtCBt5qOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:27 |

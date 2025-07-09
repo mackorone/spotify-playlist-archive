@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-243 songs - 15 hr 52 min
+244 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [GRABE O](https://open.spotify.com/track/4vYSdjlNxqJyWuSv5Qob1p) | [Jong](https://open.spotify.com/artist/37QxeXh95HRV1aRwS1hFMY), [Pxrple](https://open.spotify.com/artist/35WpSHD4EHopGXyikn0rGR), [Prince Ben](https://open.spotify.com/artist/2Y4IVOJhnHwra7TZOcNw3Y) | [GRABE O](https://open.spotify.com/album/5r3suqOsyzCyrfXgN3jB3c) | 3:26 | 2025-05-09 | 2025-05-22 |
 | [Gulong\-gulo](https://open.spotify.com/track/14phQAoWo0yZy4EcseAHof) | [Imago](https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh) | [Gulong\-gulo](https://open.spotify.com/album/5klNgdvsmWVycPYjPaINrp) | 4:18 | 2025-02-05 | 2025-02-13 |
 | [Gunita](https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Gunita](https://open.spotify.com/album/2njjzX0FQpIS3W8COYGpBR) | 4:13 | 2024-05-08 | 2024-06-06 |
-| [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-18 |  |
+| [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-18 | 2025-07-09 |
 | [Handa Na Ako](https://open.spotify.com/track/1p2PssCXSdRKQHzNeIT781) | [Atasha Muhlach](https://open.spotify.com/artist/4ES6et0LYZjJzQSEciWaEu) | [Handa Na Ako](https://open.spotify.com/album/6rdPLemoUQ4WklfB5CR3hT) | 3:11 | 2025-02-19 | 2025-03-19 |
 | [Hanggang Sa Buwan](https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Hanggang Sa Buwan](https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48) | 3:54 | 2023-11-10 | 2023-11-21 |
 | [Hayaan](https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Hayaan](https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS) | 5:49 | 2024-09-04 | 2024-10-25 |
@@ -113,6 +113,7 @@
 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 | 2023-10-18 | 2024-01-06 |
 | [Kwarto](https://open.spotify.com/track/10WZ0sAK3gQl09ptxfZYK7) | [Anna Aquino](https://open.spotify.com/artist/6nrxik1s5QPX6CfiqeOoNd) | [Kwarto](https://open.spotify.com/album/5HFkyPrla5fKhZZtHSiLqA) | 4:57 | 2024-04-03 | 2024-04-19 |
 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-09-25 |  |
+| [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2025-07-08 |  |
 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 | 2023-10-18 |  |
 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 | 2023-10-18 | 2024-09-02 |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2023-10-18 |  |

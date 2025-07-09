@@ -4,7 +4,7 @@
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-105 songs - 5 hr 57 min
+106 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2024-06-20 |  |
 | [Friends](https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Friends](https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU) | 3:50 | 2025-06-05 |  |
 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 | 2025-03-13 | 2025-06-06 |
+| [Glide](https://open.spotify.com/track/7e2polOF7Yjrs3eGiexCVW) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [Glide](https://open.spotify.com/album/1exJ4zN191WcU3Ok2OeOOT) | 2:38 | 2025-07-08 |  |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-06-20 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-20 |  |
 | [Guilty Running](https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:03 | 2025-06-05 |  |
@@ -87,7 +88,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-06-20 |  |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-06-20 | 2025-07-02 |
 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 | 2025-05-22 |  |
-| [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2024-06-20 |  |
+| [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2024-06-20 | 2025-07-09 |
 | [Zarigani](https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Zarigani](https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc) | 4:33 | 2025-04-04 |  |
 | [คิดดีไม่ได้เลย \(RIPE\) \- Japanese Version](https://open.spotify.com/track/4rG2gNvos9eFfnGpNyP8Kr) | [Benzkhaokhwan](https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy) | [คิดดีไม่ได้เลย \(RIPE\) \[Japanese Version\]](https://open.spotify.com/album/4UVVn8UTFPnTSYXV7NF7w4) | 3:05 | 2025-05-22 |  |
 | [あの子とダンス \(feat\. chelmico\)](https://open.spotify.com/track/0gVOzW7v3JyWzcLlbz3T2G) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [あの子とダンス \(feat\. chelmico\)](https://open.spotify.com/album/1Cqv6zjMexgzqw91Q9WGJK) | 4:25 | 2024-09-02 | 2024-10-03 |

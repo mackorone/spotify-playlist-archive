@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,380 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,583 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 18 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 19 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 20 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
-| 21 | [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 |
-| 22 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Hnygrl](https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 |
+| 21 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Hnygrl](https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 |
+| 22 | [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 |
 | 23 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 |
 | 24 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
 | 25 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 35 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 36 | [Karibu](https://open.spotify.com/track/4oBXxS2vGRFQkAJCtDOhFI) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/0q7npq36aBv8f5C2SZzhbJ) | 4:02 |
 | 37 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
-| 38 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
-| 39 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
-| 40 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
+| 38 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
+| 39 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
+| 40 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 41 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |
 | 42 | [Wish I Didn't Miss You](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB) | [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu) | [Wish I Didn't Miss You](https://open.spotify.com/album/0wZkE50QdGCprRvzaP8Oam) | 3:12 |
 | 43 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 46 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
 | 47 | [Pasarla](https://open.spotify.com/track/1iPlvNB8uJyKrUfTDaeku4) | [Jamy Nox](https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3) | [Pasarla](https://open.spotify.com/album/0wHgRHuGgrowONsvu0gERk) | 2:56 |
 | 48 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 |
-| 49 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 |
-| 50 | [Naarm's Sunset](https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Naarm's Sunset](https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv) | 4:12 |
+| 49 | [Naarm's Sunset](https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Naarm's Sunset](https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv) | 4:12 |
+| 50 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 |
 
 Snapshot ID: `aGbGJQAAAAB3RoZRMi2JpKM1SvU7BAoS`

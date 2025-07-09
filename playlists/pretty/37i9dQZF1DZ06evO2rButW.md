@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,289 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,444 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 25 | [Bonita \- Bonus Track](https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 3:39 |
 | 26 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 4:50 |
 | 27 | [Que Sí](https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:23 |
-| 28 | [Hoy No](https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 4:02 |
-| 29 | [Vuelve por Favor](https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tornasol](https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H) | 4:16 |
+| 28 | [Vuelve por Favor](https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tornasol](https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H) | 4:16 |
+| 29 | [Hoy No](https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 4:02 |
 | 30 | [El Beso](https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 2:58 |
 | 31 | [El Cristal](https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:01 |
 | 32 | [Tu Falta De Querer \- En Vivo](https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [Tiempos Violentos \(feat\. Mon Laferte\)](https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tiempos Violentos \(feat\. Mon Laferte\)](https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw) | 3:57 |
 | 50 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 |
 
-Snapshot ID: `aGm8gAAAAAAvIBRdF02YC8wb/3dzS6L/`
+Snapshot ID: `aGsOAAAAAAD2PeB/wkOkOz5DWb98iy89`

@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 349746,
+  "num_followers": 349881,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Kanji Title",
+        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
+      },
+      "artists": [
+        {
+          "name": "TANUKI",
+          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Ganbare",
+      "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
         "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 238760,
       "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Kanji Title",
-        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
-      },
-      "artists": [
-        {
-          "name": "TANUKI",
-          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Ganbare",
-      "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Why Future Funk ROCKED in '17",
-      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Glimmer / Change",
         "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 173374,
+      "name": "Why Future Funk ROCKED in '17",
+      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Chose Wrong",
-        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "I Chose Wrong",
-      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Orca Adventure DX",
         "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 171135,
       "name": "Orca Adventure DX",
       "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "I Chose Wrong",
+        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "I Chose Wrong",
+      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORWAVE III",
-        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
-      },
-      "artists": [
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sailor Saturn",
-      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 141145,
       "name": "Shiny Shiny",
       "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SAILORWAVE III",
+        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sailor Saturn",
+      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Slowed Midnight",
-        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
-      },
-      "artists": [
-        {
-          "name": "Cape Coral",
-          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Querelle",
-      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "VTEC",
         "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Slowed Midnight",
+        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
+      },
+      "artists": [
+        {
+          "name": "Cape Coral",
+          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Querelle",
+      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "TIMERIDER 1983",
         "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 260625,
       "name": "\u541bKimi (You Came Along)",
       "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Notilde Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
+      },
+      "artists": [
+        {
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+        }
+      ],
+      "duration_ms": 230655,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1483,22 +1499,6 @@
       "duration_ms": 223129,
       "name": "I Must Be Dreamin'",
       "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Notilde Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
-      },
-      "artists": [
-        {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
-        }
-      ],
-      "duration_ms": 230655,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "TIMERIDER 1983",
-        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
-      },
-      "artists": [
-        {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
-        }
-      ],
-      "duration_ms": 188642,
-      "name": "TIMERIDER 1983",
-      "url": "https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Enigma",
         "url": "https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 197760,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/4vPvragqcYmYWwMELVmi17"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "TIMERIDER 1983",
+        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
+      },
+      "artists": [
+        {
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
+        }
+      ],
+      "duration_ms": 188642,
+      "name": "TIMERIDER 1983",
+      "url": "https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU"
     },
     {
       "added_at": "2023-07-18 02:21:29",

@@ -78,6 +78,24 @@
     {
       "album": {
         "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/06opIfTLfPW24ridRJE3Fn"
+    },
+    {
+      "album": {
+        "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
       "artists": [
@@ -106,7 +124,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 280574,
       "name": "Caracoles",
       "url": "https://open.spotify.com/track/67w1H4Wb3IX5yX7cIAs6DQ"
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 321131,
       "name": "Ten Valor",
       "url": "https://open.spotify.com/track/2WzAnFamItmOMGWgIvHzul"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Michael Cera Palin
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,743 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,809 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 28 | [Fireplace](https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:12 |
 | 29 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 |
 | 30 | [Serotonin](https://open.spotify.com/track/0PkriCeqOJvh9QNvfMka7w) | [Covey](https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe) | [Serotonin](https://open.spotify.com/album/1OISFeE5Pfq40hyzuqtT8H) | 3:17 |
-| 31 | [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 |
+| 31 | [Really Big Shrimp](https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Really Big Shrimp](https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei) | 4:07 |
 | 32 | [ain't it sweet](https://open.spotify.com/track/2TF8s1A5ncPQIREic3gwXn) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [with you in spirit](https://open.spotify.com/album/1tBLn0Ekhfx6WGaH4zRjdp) | 2:57 |
 | 33 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
 | 34 | [Because I Am My Own Dog](https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3) | [Lullabies for Dogs](https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk) | 3:43 |
 | 35 | [Gratitude](https://open.spotify.com/track/7DqzvnJveG59t2lrbBOqHc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:13 |
 | 36 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
-| 37 | [Really Big Shrimp](https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Really Big Shrimp](https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei) | 4:07 |
+| 37 | [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 |
 | 38 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
 | 39 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
 | 40 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 52 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 | 53 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
 | 54 | [You Will Never Be the Best at Anything You Try \(Surely Not\)](https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 4:09 |
-| 55 | [When I Come East](https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [When I Come East](https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p) | 2:51 |
-| 56 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
+| 55 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
+| 56 | [When I Come East](https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [When I Come East](https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p) | 2:51 |
 | 57 | [KO](https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Better Luck Next Time](https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb) | 3:22 |
 | 58 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 | 59 | [Numb](https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [NUMB](https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR) | 4:00 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 62 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
 | 63 | [My Fault](https://open.spotify.com/track/50FpCfseTjaMAWQ9q1Krfl) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Ferried Away](https://open.spotify.com/album/2GAlwex2k6grIDP3ieQf6c) | 2:27 |
 | 64 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
-| 65 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
+| 65 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 |
 | 66 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
-| 67 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 |
+| 67 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
 | 68 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
 | 69 | [Don't Quit, Get Fired](https://open.spotify.com/track/4ZMHevld8W1ARvrx4xcVNd) | [Ogbert the Nerd](https://open.spotify.com/artist/610dMJUjtyxC9ZrS30iZrX) | [What You Want](https://open.spotify.com/album/63ZefO2eZWT6IgsS10UHXA) | 2:12 |
 | 70 | [C.A.S.E.Y](https://open.spotify.com/track/4ntOjUIBQDpFURoAv7FSPR) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [A Second Chance At Forever: The Brilliant Lies From Casey Diamond](https://open.spotify.com/album/1MIEzJjXjy2drjNZSU48Nc) | 3:11 |

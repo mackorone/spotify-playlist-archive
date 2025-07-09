@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,224 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,236 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 37 | [Parte & Choke](https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Parte & Choke](https://open.spotify.com/album/2rzk1ZW9Lpj3SilWEL31pg) | 3:25 |
 | 38 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
 | 39 | [FUE CULPA TUYA](https://open.spotify.com/track/71N3UjxfXEWljGkjBDcnNY) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:10 |
-| 40 | [More](https://open.spotify.com/track/0Imc5xRXd0eV9Ln55M1kz6) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/4TFYUZbcQWhBHPK1aZikSO) | 4:00 |
+| 40 | [More](https://open.spotify.com/track/0rKqFkLnkcZByHMjN60KAn) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Pina Records Presenta : La Fórmula , the Company](https://open.spotify.com/album/7E8t3ndNuKlNoV0nYA8QWM) | 4:00 |
 | 41 | [UWAIE \- versión cumbia](https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [UWAIE \(versión cumbia\)](https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7) | 2:42 |
 | 42 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 43 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 47 | [Nunca Lo Olvides](https://open.spotify.com/track/4581iSIX0QZNNzAQRysF3k) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf) | 4:59 |
 | 48 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 |
 | 49 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 |
-| 50 | [Puesto](https://open.spotify.com/track/14Hv9tOOjiuSKYPgArmAQG) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 3:26 |
+| 50 | [Puesto](https://open.spotify.com/track/5zpZUFF7YyPG90nkR88RYd) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/15eHesyZJpvolTrSUJgoDX) | 3:26 |
 
-Snapshot ID: `L/86eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MACOUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

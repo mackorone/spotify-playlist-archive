@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 369243,
+  "num_followers": 369308,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
-      },
-      "artists": [
-        {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
-        }
-      ],
-      "duration_ms": 115041,
-      "name": "AOT",
-      "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "U Lyk My Style",
         "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 172500,
       "name": "U Lyk My Style",
       "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 115041,
+      "name": "AOT",
+      "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 134714,
       "name": "Still (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 174562,
-      "name": "More Than A Little Bit (feat. Tinashe)",
-      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Been A Minute...",
         "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 189947,
       "name": "Been A Minute...",
       "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "More Than A Little Bit (feat. Tinashe)",
+      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Soon We Will Reminisce",
-        "url": "https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 127235,
-      "name": "Soon We Will Reminisce",
-      "url": "https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Soon We Will Reminisce",
+        "url": "https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 127235,
+      "name": "Soon We Will Reminisce",
+      "url": "https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "IDKW",
-        "url": "https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "IDKW",
-      "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Everything\u2019s Beautiful",
         "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 170479,
       "name": "Everything\u2019s Beautiful",
       "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "IDKW",
+        "url": "https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "IDKW",
+      "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 174225,
-      "name": "Digital girl - funk remix",
-      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 174225,
+      "name": "Digital girl - funk remix",
+      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/4zFb62qreYJmVmlWoIp3jm"
-      },
-      "artists": [
-        {
-          "name": "Max Sin\u00e0l",
-          "url": "https://open.spotify.com/artist/73AmQVzqgasqThOhwesMOb"
-        },
-        {
-          "name": "KingCrowney",
-          "url": "https://open.spotify.com/artist/3IcwVSp1QaAwTkcmJMt1CE"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 235538,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/523CzjsdLOkOnS0DftgxVt"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "High Notes",
         "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 180000,
       "name": "The Water",
       "url": "https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/4zFb62qreYJmVmlWoIp3jm"
+      },
+      "artists": [
+        {
+          "name": "Max Sin\u00e0l",
+          "url": "https://open.spotify.com/artist/73AmQVzqgasqThOhwesMOb"
+        },
+        {
+          "name": "KingCrowney",
+          "url": "https://open.spotify.com/artist/3IcwVSp1QaAwTkcmJMt1CE"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 235538,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/523CzjsdLOkOnS0DftgxVt"
     },
     {
       "added_at": "2025-07-03 16:15:48",

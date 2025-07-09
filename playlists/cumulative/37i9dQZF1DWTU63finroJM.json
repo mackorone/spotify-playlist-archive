@@ -6317,6 +6317,28 @@
     },
     {
       "album": {
+        "name": "NICO",
+        "url": "https://open.spotify.com/album/6NN4esIGfBVsI1rc39nm9Q"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        },
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219718,
+      "name": "Close my eyes (feat. Salasa)",
+      "url": "https://open.spotify.com/track/03RNyN9nEwJRg69fDyyCRw"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189"
       },
@@ -24912,7 +24934,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 184138,
       "name": "possibility",
       "url": "https://open.spotify.com/track/2HPnrdLvjRv1hkkz3earvt"

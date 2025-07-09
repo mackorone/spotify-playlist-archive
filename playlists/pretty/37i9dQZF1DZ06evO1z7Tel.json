@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 36100,
+  "num_followers": 36104,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAA5GHtNQutsSPja8Mbo/hKR",
+  "snapshot_id": "aGsOAAAAAAAJ2l/L/AATV1vKJJ9wqTR/",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "El Tepozan",
-      "url": "https://open.spotify.com/track/4f7my76fKN0CzPYMg7mrXY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 227306,
       "name": "Dos Cruces En La Curva",
       "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "El Tepozan",
+      "url": "https://open.spotify.com/track/4f7my76fKN0CzPYMg7mrXY"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros 15 Exitos",
-        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 191791,
-      "name": "La Noria Escondida",
-      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174573,
       "name": "La Emboscada Del Gallo",
       "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestros 15 Exitos",
+        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 191791,
+      "name": "La Noria Escondida",
+      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
     },
     {
       "added_at": null,

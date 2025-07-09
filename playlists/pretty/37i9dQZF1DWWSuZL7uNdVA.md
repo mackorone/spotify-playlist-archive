@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Muse au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,406 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,357 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

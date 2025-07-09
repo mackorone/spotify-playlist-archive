@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,133 songs - 2 day 2 hr 5 min
+1,134 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Die Inside](https://open.spotify.com/track/3uLW18cOj25BNpBeADMIIp) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [Die Inside](https://open.spotify.com/album/3NTbCJNuIJSTu2FHVrBhNh) | 2:36 | 2024-06-14 | 2025-03-08 |
 | [Die With a Smile](https://open.spotify.com/track/2e2SDVuGUutD5EtkwPNvpX) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Die With a Smile](https://open.spotify.com/album/6nQ8hFNloXwQKhp5EVvDep) | 3:44 | 2024-11-15 | 2025-01-11 |
 | [Dilemma](https://open.spotify.com/track/4c1oOTNskhWflOg9NHMxFL) | [Affective Sound](https://open.spotify.com/artist/4USMfRih7XRwvmhuG96nPo), [Giulia Jewlz](https://open.spotify.com/artist/3AZPiBKYmFjEKDMZa6DKiz), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Dilemma](https://open.spotify.com/album/21FpLydb4N1fMe8mrIfjp7) | 2:30 | 2024-04-27 | 2024-06-15 |
+| [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 | 2025-07-08 |  |
 | [Distant Paradise](https://open.spotify.com/track/2pLucKV19INlCKaCXGFFPE) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Distant Paradise](https://open.spotify.com/album/09xGBhYIX97nVam6N6hfQc) | 2:21 | 2024-06-21 | 2024-07-20 |
 | [Do I Want You?](https://open.spotify.com/track/0K9bajZz2zXDzCpMfvTr6b) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Moving Castles](https://open.spotify.com/artist/0me4iIJvYbOevaJMMtUPC8), [Tyron Dixon](https://open.spotify.com/artist/37QVcCngKZe0gZxD8b7zgJ) | [Do I Want You?](https://open.spotify.com/album/2UaovLUmH12qkCJTzMNHDU) | 2:22 | 2024-08-23 | 2025-03-08 |
 | [Do It Again](https://open.spotify.com/track/6Zabg025sA0Bi2n2nQyZjB) | [MISERO](https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX), [deep dispatch](https://open.spotify.com/artist/7t8Bpn9yllm4qqOH8qcupk) | [Do It Again](https://open.spotify.com/album/5idBE096uZFzrLTOOwYALP) | 2:45 | 2024-07-05 | 2024-08-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0y9CwEpdGpz.md) - [plain]
 
 > Known as the Nation's Little Sister in South Korea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,765 likes - 95 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,800 likes - 95 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536350,
+  "num_followers": 536343,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Yves Montand Gold",
+        "url": "https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "\u00c0 bicyclette",
+      "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Yves Montand Gold",
-        "url": "https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 163040,
-      "name": "\u00c0 bicyclette",
-      "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5"
-      },
-      "artists": [
-        {
-          "name": "Claude Nougaro",
-          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Armstrong",
-      "url": "https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Yves Montand",
         "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 176200,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5"
+      },
+      "artists": [
+        {
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Armstrong",
+      "url": "https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Frou-Frou et 29 succ\u00e8s de Berthe Sylva (Chanson fran\u00e7aise)",
-        "url": "https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW"
-      },
-      "artists": [
-        {
-          "name": "Berthe Sylva",
-          "url": "https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Frou-Frou",
-      "url": "https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Ferrat Chante Aragon: L'int\u00e9grale",
         "url": "https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 143026,
       "name": "Aimer \u00e0 perdre la raison",
       "url": "https://open.spotify.com/track/5okI57GiUG0innS360o2bH"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Frou-Frou et 29 succ\u00e8s de Berthe Sylva (Chanson fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW"
+      },
+      "artists": [
+        {
+          "name": "Berthe Sylva",
+          "url": "https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Frou-Frou",
+      "url": "https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0"
     },
     {
       "added_at": "2024-07-25 13:22:22",

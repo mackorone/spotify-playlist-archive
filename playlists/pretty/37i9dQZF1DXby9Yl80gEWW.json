@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 57454,
+  "num_followers": 57474,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -143,46 +143,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Elk River Blues",
-        "url": "https://open.spotify.com/album/1yEJvnWp10d2Z8ye8mjH9c"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        },
-        {
-          "name": "Chris Coole",
-          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
-        },
-        {
-          "name": "John Showman",
-          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
-        }
-      ],
-      "duration_ms": 147043,
-      "name": "Elk River Blues",
-      "url": "https://open.spotify.com/track/53iYmlE5YmVOtmU5l5b11c"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Addie Levy",
-        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
-      },
-      "artists": [
-        {
-          "name": "Addie Levy",
-          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "Flight Pattern",
-      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "The Harmonic Tone Revealers",
         "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
       },
@@ -203,6 +163,46 @@
       "duration_ms": 311693,
       "name": "Midnight on the Water",
       "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Addie Levy",
+        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
+      },
+      "artists": [
+        {
+          "name": "Addie Levy",
+          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Flight Pattern",
+      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Elk River Blues",
+        "url": "https://open.spotify.com/album/1yEJvnWp10d2Z8ye8mjH9c"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        }
+      ],
+      "duration_ms": 147043,
+      "name": "Elk River Blues",
+      "url": "https://open.spotify.com/track/53iYmlE5YmVOtmU5l5b11c"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
-      },
-      "artists": [
-        {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 132794,
       "name": "Winds Forever Blow",
       "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+      },
+      "artists": [
+        {
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Bop Your Head",
+        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "Bop Your Head",
+      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Bop Your Head",
-        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
       },
       "artists": [
         {
-          "name": "Allen & Bright",
-          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
         }
       ],
-      "duration_ms": 166132,
-      "name": "Bop Your Head",
-      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
       "artists": [
         {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
         }
       ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1183,18 +1199,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
       "artists": [
         {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
         }
       ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+      "duration_ms": 242431,
+      "name": "Two Rivers Waltz",
+      "url": "https://open.spotify.com/track/5KL3TNSegGUYRDxtiwiYmj"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1219,26 +1239,6 @@
       "duration_ms": 154285,
       "name": "Crowe River",
       "url": "https://open.spotify.com/track/6NBmpYvczviLnDzLlluZo0"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
-        }
-      ],
-      "duration_ms": 242431,
-      "name": "Two Rivers Waltz",
-      "url": "https://open.spotify.com/track/5KL3TNSegGUYRDxtiwiYmj"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Team Hoover",
-        "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 341546,
-      "name": "Team Hoover",
-      "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "EMD",
         "url": "https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 229480,
       "name": "EMD",
       "url": "https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Team Hoover",
+        "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 341546,
+      "name": "Team Hoover",
+      "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
     },
     {
       "added_at": "2025-02-21 05:00:42",

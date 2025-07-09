@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,586 likes - 57 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,604 likes - 57 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 37 | [Cuando Estés Con Él](https://open.spotify.com/track/6tBIGZ5EZzulhDdNeV5DyW) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vida, Canción y Suerte](https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u) | 3:40 |
 | 38 | [Te Compro Tu Novia](https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm) | 4:27 |
 | 39 | [Mi Tonto Amor](https://open.spotify.com/track/59v5xM3ExyPEMx62PDAlNm) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb) | 4:17 |
-| 40 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |
-| 41 | [La Asesina](https://open.spotify.com/track/5Id9qsENY9T2d71zXuzLD8) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:49 |
+| 40 | [La Asesina](https://open.spotify.com/track/5Id9qsENY9T2d71zXuzLD8) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:49 |
+| 41 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |
 | 42 | [Si Algún Día la Ves](https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7) | 4:44 |
 | 43 | [Que Levante la Mano](https://open.spotify.com/track/4mPgxlYJlHWiy5BrzKxBe1) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Escúchame](https://open.spotify.com/album/09bJwJxoqry4AZzHQLlGiH) | 3:57 |
 | 44 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |

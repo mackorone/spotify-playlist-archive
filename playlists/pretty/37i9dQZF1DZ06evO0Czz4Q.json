@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 133853,
+  "num_followers": 133866,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAA+3xYudBiBRP4nBpD8mdv8",
+  "snapshot_id": "aGsOAAAAAAD3VbYK3RPMfDuBzmmzdrVE",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 322226,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Luther Vandross",
         "url": "https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 385506,
       "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
       "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 322226,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 373800,
-      "name": "Because It's Really Love",
-      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 297880,
       "name": "Sugar and Spice (I Found Me a Girl)",
       "url": "https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 373800,
+      "name": "Because It's Really Love",
+      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 310973,
-      "name": "Going In Circles",
-      "url": "https://open.spotify.com/track/2wiLzbvgtRr6DPoA83kRKV"
+      "duration_ms": 292533,
+      "name": "Ain't No Stoppin' Us Now",
+      "url": "https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp"
     }
   ],
   "unique_name": "This Is Luther Vandross",

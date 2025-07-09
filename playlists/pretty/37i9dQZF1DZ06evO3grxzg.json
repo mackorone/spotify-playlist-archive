@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234667,
+  "num_followers": 234678,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAC0w7tEkzfk5vq6h5jE32rn",
+  "snapshot_id": "aGsOAAAAAADFReN7DbGQHeSdov+vZVEG",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hope Club",
-        "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
-      },
-      "artists": [
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Know Me Too Well (with Danna Paola)",
-      "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Doble",
         "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 198766,
       "name": "El Doble",
       "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hope Club",
+        "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "Know Me Too Well (with Danna Paola)",
+      "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kaprichosa",
+        "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Kaprichosa",
+      "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaprichosa",
-        "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Kaprichosa",
-      "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb"
-      },
-      "artists": [
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 167495,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Tu Vuelas (Hadal Ahbek [Alok Remix])",
         "url": "https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 197550,
       "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
       "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb"
+      },
+      "artists": [
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 167495,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
     },
     {
       "added_at": null,

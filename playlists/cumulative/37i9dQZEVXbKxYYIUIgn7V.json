@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "\"Bad B\"",
+        "url": "https://open.spotify.com/album/3bgtsPyjdflZj0GwVsNOWN"
+      },
+      "artists": [
+        {
+          "name": "RUSKY",
+          "url": "https://open.spotify.com/artist/4TN6tRzt6kKPAiw9NOA7V4"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "\"Bad B\"",
+      "url": "https://open.spotify.com/track/4gwcCod5EcmaxFIrjs5SFa"
+    },
+    {
+      "album": {
         "name": "#eurodab",
         "url": "https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA"
       },
@@ -1713,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Alles oder Nix",
+        "url": "https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252417,
+      "name": "Alles oder Nix",
+      "url": "https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6"
+    },
+    {
+      "album": {
         "name": "Alptraum",
         "url": "https://open.spotify.com/album/3oNHMaHiXS2a7fm1W6v5t8"
       },
@@ -1746,7 +1782,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 239019,
       "name": "Als du gingst - edit",
       "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
@@ -4198,7 +4234,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 163548,
       "name": "Benden Sonra",
       "url": "https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS"
@@ -5784,7 +5820,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 147492,
       "name": "Bunna Summa",
       "url": "https://open.spotify.com/track/43FkWr8JNh12rKfXNBFR1H"
@@ -6258,7 +6294,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 192312,
       "name": "Camilla",
       "url": "https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5"
@@ -6306,7 +6342,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
@@ -7696,7 +7732,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 131812,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/41s30bhCewNKaShnyF4nc1"
@@ -8012,6 +8048,28 @@
       "duration_ms": 166009,
       "name": "daf\u00fcr bin ich frei (feat. Bausa)",
       "url": "https://open.spotify.com/track/40sRMHcdSscmLVWqCiFdML"
+    },
+    {
+      "album": {
+        "name": "Dame Un Grrr",
+        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
+      },
+      "artists": [
+        {
+          "name": "Fantomel",
+          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
+        },
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133220,
+      "name": "Dame Un Grrr",
+      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
     },
     {
       "album": {
@@ -10044,10 +10102,28 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 173501,
       "name": "Dust on the Wind",
       "url": "https://open.spotify.com/track/68g7z6HNpIW23g1Bt8NhkI"
+    },
+    {
+      "album": {
+        "name": "Floating on Echoes",
+        "url": "https://open.spotify.com/album/13nYHa9R4ql7jOOEb9a4aX"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Sundown",
+          "url": "https://open.spotify.com/artist/2GRtyAXWUiisGYub5SGMrb"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173509,
+      "name": "Dust on the Wind",
+      "url": "https://open.spotify.com/track/6XSXBSAQk226KmzZi5WCsR"
     },
     {
       "album": {
@@ -10896,7 +10972,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 189559,
       "name": "EU TAVA AQUI PENSADO - Bossa nova",
       "url": "https://open.spotify.com/track/3iIrsQt3hhyWKLU0M9y4oS"
@@ -11734,7 +11810,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 178734,
       "name": "Felonies and Melodies",
       "url": "https://open.spotify.com/track/6WqGI0Hntz8jW41ZrZcs1F"
@@ -12965,6 +13041,24 @@
     },
     {
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "album": {
         "name": "GAJA (Eurovision Edit)",
         "url": "https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N"
       },
@@ -13800,6 +13894,40 @@
       "duration_ms": 239280,
       "name": "Godino vrela",
       "url": "https://open.spotify.com/track/3Uhquwv6ekqvVHITXX3NFW"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
       "album": {
@@ -15615,6 +15743,24 @@
     },
     {
       "album": {
+        "name": "Herr Dokter",
+        "url": "https://open.spotify.com/album/7iRGwyKgzMV692LrjFpWCn"
+      },
+      "artists": [
+        {
+          "name": "The Butcher Sisters",
+          "url": "https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178709,
+      "name": "Herr Dokter",
+      "url": "https://open.spotify.com/track/7C8io1hg5fVo2TmT7FOuAS"
+    },
+    {
+      "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
       },
@@ -15980,7 +16126,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 174285,
       "name": "Hmm lecker",
       "url": "https://open.spotify.com/track/3J2E78UsP1IGTPNdKpZzWs"
@@ -16223,6 +16369,58 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176059,
+      "name": "How It\u2019s Done",
+      "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
+    },
+    {
+      "album": {
+        "name": "How to Love",
+        "url": "https://open.spotify.com/album/6MmuBNWo9jgW9q67FOhajD"
+      },
+      "artists": [
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166990,
+      "name": "How to Love",
+      "url": "https://open.spotify.com/track/74u4UGskQXFkj50uAdYO1t"
+    },
+    {
+      "album": {
         "name": "HUQQA",
         "url": "https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU"
       },
@@ -16256,6 +16454,62 @@
       "duration_ms": 154493,
       "name": "HURENSOHN",
       "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
+    },
+    {
+      "album": {
+        "name": "HURENSOHN (HARDSTYLE REMIX)",
+        "url": "https://open.spotify.com/album/5rieX0UuzlIU50mcUhOPeh"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "NOISETIME",
+          "url": "https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173980,
+      "name": "HURENSOHN - HARDSTYLE REMIX",
+      "url": "https://open.spotify.com/track/7pKVuT8zvGIcRw2qdZQeej"
+    },
+    {
+      "album": {
+        "name": "Hurra die Schule brennt",
+        "url": "https://open.spotify.com/album/0kMSKksdUsWwM1aAIvf5P3"
+      },
+      "artists": [
+        {
+          "name": "Die Creators",
+          "url": "https://open.spotify.com/artist/40J4OQaq3e2AiHnZXo12Du"
+        },
+        {
+          "name": "Simon Will",
+          "url": "https://open.spotify.com/artist/4mcNxOvVrDyhKUJHGMnl9B"
+        },
+        {
+          "name": "Noel Dederichs",
+          "url": "https://open.spotify.com/artist/7IIp2dppofo9R2XQWPEVeA"
+        },
+        {
+          "name": "Adrian Amaru",
+          "url": "https://open.spotify.com/artist/6eAjh8gkiEL0L4WmyYiUTr"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127575,
+      "name": "Hurra die Schule brennt",
+      "url": "https://open.spotify.com/track/2ByiXMYfsosYSKoCnms70b"
     },
     {
       "album": {
@@ -18242,7 +18496,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 180546,
       "name": "Jiggos",
       "url": "https://open.spotify.com/track/1g2wgaN6majvZYbkWMNZwG"
@@ -18458,7 +18712,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -18962,7 +19216,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -19487,6 +19741,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/3wogsSWyEEu5eVgLqUqySF"
+    },
+    {
+      "album": {
         "name": "la noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
       },
@@ -19792,7 +20064,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 129860,
       "name": "Lasso",
       "url": "https://open.spotify.com/track/7vLreMnsAOaGEYIu9t2O2B"
@@ -22203,6 +22475,24 @@
     },
     {
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -23968,7 +24258,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 86953,
       "name": "Montagem Bandido",
       "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
@@ -26841,6 +27131,28 @@
     },
     {
       "album": {
+        "name": "PARFUM",
+        "url": "https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160863,
+      "name": "PARFUM",
+      "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
+    },
+    {
+      "album": {
         "name": "It's Not You, It's Me",
         "url": "https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4"
       },
@@ -27244,7 +27556,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 197130,
       "name": "PENDIENTE A MI",
       "url": "https://open.spotify.com/track/1NvYIU2vb3Wi1j0B7S8LtG"
@@ -27652,6 +27964,28 @@
     {
       "album": {
         "name": "Play K381",
+        "url": "https://open.spotify.com/album/0HwQWzXubeIeGGr0xvtURq"
+      },
+      "artists": [
+        {
+          "name": "currywurst",
+          "url": "https://open.spotify.com/artist/3sfBkg82oNDXpDE1VaBCr5"
+        },
+        {
+          "name": "suzanna Marie Fosse",
+          "url": "https://open.spotify.com/artist/6rdnZHTXjDqvkcnG8ekcTP"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237714,
+      "name": "Play K381",
+      "url": "https://open.spotify.com/track/5YD8Kv08HKGEt8QgFBDAbu"
+    },
+    {
+      "album": {
+        "name": "Play K381",
         "url": "https://open.spotify.com/album/4LXL5GLEBW6bAqSWKLYMHc"
       },
       "artists": [
@@ -27662,7 +27996,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 237666,
       "name": "Play K381",
       "url": "https://open.spotify.com/track/0ZywMqm3iGqV1xqlq4I4Bf"
@@ -28290,7 +28624,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 188187,
       "name": "Rakete - Party Edit",
       "url": "https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY"
@@ -31771,6 +32105,48 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150686,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -33650,6 +34026,40 @@
       "duration_ms": 190586,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182016,
+      "name": "Takedown",
+      "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
       "album": {
@@ -36205,6 +36615,24 @@
     },
     {
       "album": {
+        "name": "Unravelling",
+        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238002,
+      "name": "Unravelling",
+      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "album": {
         "name": "Unsicher",
         "url": "https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S"
       },
@@ -36720,6 +37148,32 @@
       "duration_ms": 165661,
       "name": "Verwandtschaftstreffen",
       "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
+    },
+    {
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
     },
     {
       "album": {
@@ -38029,6 +38483,40 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+    },
+    {
+      "album": {
         "name": "What The Hell Just Happened?",
         "url": "https://open.spotify.com/album/1xJikgsecBOKSNpyjk8i2W"
       },
@@ -38286,6 +38774,24 @@
       "duration_ms": 142878,
       "name": "Who You Share It With",
       "url": "https://open.spotify.com/track/0e6Ls4yZlXeapXDEWDWnRL"
+    },
+    {
+      "album": {
+        "name": "WHO'S THAT",
+        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140009,
+      "name": "WHO'S THAT",
+      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
     },
     {
       "album": {
@@ -39050,7 +39556,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 166425,
       "name": "Ya\u015fanacaksa",
       "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"
@@ -39308,7 +39814,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 160000,
       "name": "You Make Me Feel Loved",
       "url": "https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2"
@@ -39348,6 +39854,48 @@
       "duration_ms": 228099,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191537,
+      "name": "Your Idol",
+      "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
       "album": {
@@ -40046,7 +40594,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
@@ -40068,7 +40616,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 211677,
       "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
       "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"

@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-230 songs - 12 hr 55 min
+231 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 | 2025-01-13 | 2025-02-10 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-04 | 2025-01-03 |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-25 | 2024-11-09 |
+| [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-06-27 |  |
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-10-12 | 2024-07-05 |
 | [Chances](https://open.spotify.com/track/7imOAndfZs5cg5vJjhUa0u) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Chances](https://open.spotify.com/album/6scf0xwufpbqCrcJN0owBp) | 3:11 | 2024-02-22 | 2024-03-01 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-10-12 |  |
@@ -134,7 +135,7 @@
 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-13 |  |
 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-08 | 2024-12-01 |
 | [Rehab](https://open.spotify.com/track/3b1WgrrZodxXASonmXLqTS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 4:11 | 2023-10-12 | 2024-01-11 |
-| [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2024-09-13 |  |
+| [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2024-09-13 | 2025-07-09 |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-10-12 | 2024-07-03 |
 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 | 2023-10-12 | 2023-10-27 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-03-06 | 2025-03-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 62 | [Spaces](https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:16 |
 | 63 | [Little Black Dress](https://open.spotify.com/track/4lxaurdMyGkt1tOrdwRoVO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:37 |
 | 64 | [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 |
-| 65 | [Does He Know?](https://open.spotify.com/track/3aGJClg6klBoSa0UZnXeMM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:59 |
-| 66 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 |
+| 65 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 |
+| 66 | [Does He Know?](https://open.spotify.com/track/3aGJClg6klBoSa0UZnXeMM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:59 |
 | 67 | [Once in a Lifetime](https://open.spotify.com/track/1dD1aarWotVIiFo5gGdMc2) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 2:38 |
 | 68 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 69 | [Breathing](https://open.spotify.com/track/12HgZnRqGPwIZJD0gPsUor) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:54 |
@@ -222,8 +222,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 212 | [All Out](https://open.spotify.com/track/6DcLRmx2GiBJq5kuK8J9XY) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [All Out](https://open.spotify.com/album/37YlmIvYa3QbBShPifmp2h) | 4:22 |
 | 213 | [Loving](https://open.spotify.com/track/1b5e4l5gydR0LCX099FaIP) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:54 |
 | 214 | [It Works](https://open.spotify.com/track/6qLhYplpKpC3AyylF9YAx5) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:48 |
-| 215 | [Guilty Pleasure](https://open.spotify.com/track/4Jc5qr6GZgbKU5GZPrlyJA) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 3:28 |
-| 216 | [Nothing](https://open.spotify.com/track/3V97CljOzjfQEf00yoSVXg) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 2:45 |
+| 215 | [Nothing](https://open.spotify.com/track/3V97CljOzjfQEf00yoSVXg) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 2:45 |
+| 216 | [Guilty Pleasure](https://open.spotify.com/track/4Jc5qr6GZgbKU5GZPrlyJA) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 3:28 |
 | 217 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
 | 218 | [Blue Jeans](https://open.spotify.com/track/6tnMSQvPJVJvyCsgOIYpr9) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Jessie James](https://open.spotify.com/album/30xG0AwSqAlBjlx8vPFzkX) | 3:54 |
 | 219 | [h2s \- Bonus track](https://open.spotify.com/track/7KFF8MzCpu1s8zTrHMt3Of) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [my neighbours don't know.](https://open.spotify.com/album/6ou5jov81dSypk2KJOLnCQ) | 4:22 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab2K/AAAAACinpCfsE2pLFwZYOU6ftNg`
+Snapshot ID: `Ab2QdAAAAAA0LXFGiJWkd0EkIe7B9BFV`

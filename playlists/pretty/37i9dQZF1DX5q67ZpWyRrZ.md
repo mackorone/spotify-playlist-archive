@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Faheem Abdullah
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,687 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,866 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 17 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
 | 18 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
 | 19 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
-| 20 | [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy), [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 |
+| 20 | [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 |
 | 21 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
 | 22 | [Kaise Ab Kahein \- From "Gutar Gu"](https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Hrishi Giridhar](https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc), [Pratik Gangavane](https://open.spotify.com/artist/6eBkw5IL6oFehkMupSVa0S) | [Kaise Ab Kahein \(From "Gutar Gu"\)](https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy) | 2:00 |
 | 23 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |

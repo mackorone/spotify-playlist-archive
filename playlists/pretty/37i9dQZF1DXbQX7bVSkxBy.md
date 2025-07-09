@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,831 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,865 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 34 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
 | 35 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 36 | [This Is The Gospel](https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [This Is The Gospel](https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn) | 5:05 |
-| 37 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |
-| 38 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
+| 37 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
+| 38 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |
 | 39 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
 | 40 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
 | 41 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |

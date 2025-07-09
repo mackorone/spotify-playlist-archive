@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833,569 likes - 125 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,833,988 likes - 125 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 24 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
 | 25 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
 | 26 | [Sweetness](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:40 |
-| 27 | [The Downfall Of Us All](https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:29 |
+| 27 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
 | 28 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
 | 29 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
 | 30 | [Catalina Fight Song](https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 1:05 |
 | 31 | [Famous Last Words](https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:59 |
-| 32 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
+| 32 | [The Downfall Of Us All](https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:29 |
 | 33 | [Swing, Swing](https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 3:53 |
 | 34 | [Death Cup](https://open.spotify.com/track/19aUuDd6udp1ACNo9t3IuZ) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Best Buds](https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ) | 4:36 |
 | 35 | [Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off](https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:20 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 83 | [Emily](https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 2:39 |
 | 84 | [The Medic](https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [The Albatross](https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f) | 3:22 |
 | 85 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
-| 86 | [Medicine](https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo) | 3:11 |
-| 87 | [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 |
+| 86 | [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 |
+| 87 | [Medicine](https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo) | 3:11 |
 | 88 | [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 |
 | 89 | [My Favorite Accident](https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [I Am The Movie](https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i) | 3:20 |
 | 90 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
@@ -108,9 +108,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 98 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
 | 99 | [You're So Last Summer](https://open.spotify.com/track/22opp9Depbmn43q5gSERwH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 2:59 |
 | 100 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 |
-| 101 | [Polygraph, Right Now!](https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [One Fell Swoop](https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL) | 3:03 |
-| 102 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
-| 103 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
+| 101 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
+| 102 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
+| 103 | [Polygraph, Right Now!](https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [One Fell Swoop](https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL) | 3:03 |
 | 104 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
 | 105 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
 | 106 | [Shake It Out](https://open.spotify.com/track/4oS1UEAjl1Fs2nCpOAbp9Q) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Mean Everything To Nothing](https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s) | 5:11 |

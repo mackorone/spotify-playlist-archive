@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 85,759 likes - 161 songs - 8 hr 32 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 85,756 likes - 161 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 3 | [WTHELLY \(with G Herbo\) \- Remix](https://open.spotify.com/track/3agFWjopIFGnZx7WTNj4Wa) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [WTHELLY \(with G Herbo\) \[Remix\]](https://open.spotify.com/album/0U0fU3UenstnWf7CLdr5Cf) | 2:56 |
 | 4 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
 | 5 | [GEESKI SHAKE July 13](https://open.spotify.com/track/1CPSTNpmnXJyLd2TviHkYM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:54 |
-| 6 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 6 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 7 | [ROCKIN](https://open.spotify.com/track/406Vq9o3C7GeZjCL68bUDT) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [ROCKIN](https://open.spotify.com/album/1nx7sficpAGLmwVzxudFBs) | 2:09 |
 | 8 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 9 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 |

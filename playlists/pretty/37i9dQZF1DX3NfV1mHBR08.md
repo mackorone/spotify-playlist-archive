@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,552 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,547 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 25 | [Good Night](https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:02 |
 | 26 | [Knees](https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 4:42 |
 | 27 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
-| 28 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
-| 29 | [Slow](https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Slow](https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r) | 4:01 |
+| 28 | [Slow](https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Slow](https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r) | 4:01 |
+| 29 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 | 30 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
 | 31 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 |
 | 32 | [I will listen never alone](https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee) | [Mirae Yoon](https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra) | [Who Are You : School 2015 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG) | 3:14 |

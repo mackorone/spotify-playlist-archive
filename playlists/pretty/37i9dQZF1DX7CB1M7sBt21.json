@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 21880,
+  "num_followers": 21898,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167855,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "All We Got (feat. KIDDO)",
         "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 190218,
       "name": "All We Got (feat. KIDDO)",
       "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167855,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
     },
     {
       "added_at": "2024-08-29 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Ezhel ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,177 likes - 95 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,215 likes - 95 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 72 | [EL İNSAF](https://open.spotify.com/track/7nexgKlwOvLkQCKmHN8676) | [Yung Şimşek](https://open.spotify.com/artist/4ReTB5nAVuJFlTRkA0aakm) | [EL İNSAF](https://open.spotify.com/album/5iyORxDjifNaKeBm8GlqYX) | 2:48 |
 | 73 | [Tek Başımayım](https://open.spotify.com/track/1akRBuk9CjMQVDtIqm4svQ) | [Serin Karataş](https://open.spotify.com/artist/1DnJe8ZCd6ERC8M0Fy0PvE), [Göz](https://open.spotify.com/artist/20w6isb5mVP600OgN2NGyb), [Prod\. By\_MCD](https://open.spotify.com/artist/4vxKSjddco6SXKrBsnc6Vt) | [Tek Başımayım](https://open.spotify.com/album/4aWRQljwhOSREVlU0CWIY6) | 2:09 |
 | 74 | [ERKEN ÖLEMEM](https://open.spotify.com/track/45pUlfCHiVVBaUOCEbQ1mp) | [Merve Demirci](https://open.spotify.com/artist/1Ky2PiE9IMwMQ9pfs5SbFp) | [ERKEN ÖLEMEM](https://open.spotify.com/album/0U8v9PTl2eRIGSKi00kzNi) | 2:57 |
-| 75 | [Derdini Bul](https://open.spotify.com/track/0MTZ0XcJjpVHzR8QFbsn0Y) | [Beliz](https://open.spotify.com/artist/12QL4EXEXsPTOVjXBc8BD4) | [Derdini Bul](https://open.spotify.com/album/6wh33sEXT5HKxaDgP2k8Px) | 4:54 |
+| 75 | [Derdini Bul \- Live at Akustikhane](https://open.spotify.com/track/0MTZ0XcJjpVHzR8QFbsn0Y) | [Beliz](https://open.spotify.com/artist/12QL4EXEXsPTOVjXBc8BD4) | [Derdini Bul \(Live at Akustikhane\)](https://open.spotify.com/album/6wh33sEXT5HKxaDgP2k8Px) | 4:54 |
 | 76 | [siyah](https://open.spotify.com/track/0Crl1yrkoBcdF9WVgjqF1N) | [Özeren](https://open.spotify.com/artist/4xKQyuqhyyDy6yTQdGk8qz), [Yeed](https://open.spotify.com/artist/18AQ2FrKXAghzNZVjOcBuJ) | [siyah](https://open.spotify.com/album/3FumXW2o0Gciwohh4BDLH6) | 2:09 |
 | 77 | [TOXIC LOVE](https://open.spotify.com/track/5XZliaZ94YSWDV9e2HrI9l) | [ÖzgürCan](https://open.spotify.com/artist/6m1bPVZMf5Hsi8cgmEs1yy) | [TOXIC LOVE](https://open.spotify.com/album/4lGqr0lgWMP6wti7HQo4Xi) | 1:58 |
 | 78 | [İstisna Yürek](https://open.spotify.com/track/3bsfiJB60H6ZbGvsOLva7I) | [Dilsad](https://open.spotify.com/artist/3Sw6CgRtui6UyK77aotV30) | [İstisna Yürek](https://open.spotify.com/album/2m5l165AFlSWj39wTFXEIY) | 2:35 |

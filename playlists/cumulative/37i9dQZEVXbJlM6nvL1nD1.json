@@ -1258,6 +1258,28 @@
     {
       "album": {
         "name": "TRINIDAD BENDITA",
+        "url": "https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "AMISTA",
+      "url": "https://open.spotify.com/track/1kJyDcBrZ7rSKnFtKc82vm"
+    },
+    {
+      "album": {
+        "name": "TRINIDAD BENDITA",
         "url": "https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP"
       },
       "artists": [
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 177882,
       "name": "AMISTA",
       "url": "https://open.spotify.com/track/72veJ1UABNtqddwZKCIGMo"
@@ -5208,7 +5230,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 187508,
       "name": "Dile Luna",
       "url": "https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo"
@@ -6950,7 +6972,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -7022,7 +7044,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -16498,7 +16520,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"

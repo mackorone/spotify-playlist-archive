@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: PinkPantheress
 
-857 songs - 1 day 21 hr 24 min
+858 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-17 | 2025-01-17 |
 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-19 | 2024-01-26 |
 | [It's Up \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 4:38 | 2024-08-15 | 2024-09-25 |
+| [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-07-08 |  |
 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 | 2024-01-11 | 2024-02-09 |
 | [Jerkin'](https://open.spotify.com/track/3rZwj7e7m61R5e9Tn3YTFa) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 2:08 | 2024-11-14 | 2025-01-31 |
 | [JOLENE](https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:09 | 2024-04-04 | 2024-04-26 |
@@ -764,7 +765,7 @@
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-05-29 |  |
 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-06-27 | 2024-08-02 |
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-25 | 2023-10-20 |
-| [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-13 |  |
+| [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-13 | 2025-07-09 |
 | [The Greatest](https://open.spotify.com/track/0p4aS6c0Yva2WYrKNQQCnK) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Greatest](https://open.spotify.com/album/4ZrTFJ486SKULQTaWAGfLm) | 5:16 | 2023-08-03 | 2023-09-15 |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-14 | 2023-10-27 |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-06-15 | 2023-07-21 |

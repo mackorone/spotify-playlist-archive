@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,362 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,393 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 40 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 41 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
 | 42 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 |
-| 43 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
+| 43 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
 | 44 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 45 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
+| 45 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
 | 46 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
 | 47 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 48 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
 | 49 | [Fuck The Pain Away \(Lost Tapes 2022\)](https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Fuck The Pain Away \(Lost Tapes 2022\)](https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB) | 2:17 |
 | 50 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
-| 51 | [Chameleon](https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Change & Remain](https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln) | 2:55 |
-| 52 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
-| 53 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 51 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
+| 52 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 53 | [Chameleon](https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Change & Remain](https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln) | 2:55 |
 | 54 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 |
 | 55 | [Crushed Velvet](https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [On The Lips](https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY) | 3:15 |
 | 56 | [Prettier](https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sorry I'm Late](https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U) | 2:57 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 71 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
 | 72 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
 | 73 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 |
-| 74 | [Traingazing](https://open.spotify.com/track/49QEJdbU9mf4VUXReOpZ9u) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Breathe](https://open.spotify.com/album/1QSDqlZT7YrFe38IEaR67A) | 3:34 |
+| 74 | [Be Mine](https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:42 |
 | 75 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 
 Snapshot ID: `aFF1MgAAAABx75hTfDHptTKIQnTwAVcW`

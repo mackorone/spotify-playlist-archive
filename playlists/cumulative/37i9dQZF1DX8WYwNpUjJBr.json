@@ -273,6 +273,46 @@
     },
     {
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160111,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "album": {
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
+    },
+    {
+      "album": {
         "name": "blue (with MINNIE)",
         "url": "https://open.spotify.com/album/2nikWz2AcwtWjdNMKCs6sG"
       },
@@ -547,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/76CqLU04318qHpjS8bCsxy"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186766,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2SUUnItpyZN8ZQRXyHdRiV"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -750,6 +808,24 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
+        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205270,
+      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
+      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
     },
     {
       "album": {
@@ -989,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "High As You",
+        "url": "https://open.spotify.com/album/20wR6ZaGJNysR8vG0IYQiP"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171481,
+      "name": "High As You",
+      "url": "https://open.spotify.com/track/2OzmmSS0rI5o9eLeBKyVI3"
+    },
+    {
+      "album": {
         "name": "hotline (edit)",
         "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
       },
@@ -1141,6 +1235,28 @@
     },
     {
       "album": {
+        "name": "Jumpy (feat. Ski Mask The Slump God)",
+        "url": "https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156121,
+      "name": "Jumpy (feat. Ski Mask The Slump God)",
+      "url": "https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
       },
@@ -1214,7 +1330,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 141738,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
@@ -1254,7 +1370,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 208739,
       "name": "Let You Fade",
       "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
@@ -1276,7 +1392,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 173217,
       "name": "Let's Ride Away",
       "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
@@ -1520,7 +1636,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 275780,
       "name": "More to Lose",
       "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
@@ -1599,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -1636,7 +1770,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -1706,7 +1840,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 163352,
       "name": "Priceless (feat. LISA)",
       "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
@@ -1934,7 +2068,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -2184,7 +2318,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
@@ -2351,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Watch me!",
+        "url": "https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186193,
+      "name": "Watch me!",
+      "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -2452,7 +2604,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
@@ -2470,7 +2622,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 194920,
       "name": "Who Knew Dancing Was A Sin",
       "url": "https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA"

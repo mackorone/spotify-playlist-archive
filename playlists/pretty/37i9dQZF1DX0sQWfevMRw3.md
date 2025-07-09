@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Det Löser Sej🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,779 likes - 106 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,770 likes - 106 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2 Blå](https://open.spotify.com/track/68SXARy5L9fGZT0WOwfyx6) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [2 Blå](https://open.spotify.com/album/57M44RJizK2hyRYTH7Hrn7) | 2:45 |
-| 2 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
+| 1 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
+| 2 | [2 Blå](https://open.spotify.com/track/68SXARy5L9fGZT0WOwfyx6) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [2 Blå](https://open.spotify.com/album/57M44RJizK2hyRYTH7Hrn7) | 2:45 |
 | 3 | [Fiesta Forever](https://open.spotify.com/track/3miozYykPluP5NPCxljs7U) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Fiesta Forever](https://open.spotify.com/album/53iqJS134CUpUbdJnDUecQ) | 2:36 |
 | 4 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 |
 | 5 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 105 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 |
 | 106 | [Sunnanvind – Spotify Singles](https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Sunnanvind – Spotify Singles](https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE) | 2:49 |
 
-Snapshot ID: `aGb9hwAAAAAWaUPdOUeaV6QnNRJN4zsG`
+Snapshot ID: `aG0vlgAAAAC1FWdb6Eo7h+YnfFeCKP2x`

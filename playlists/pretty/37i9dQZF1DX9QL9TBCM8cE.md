@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,895 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,903 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 22 | [Dye the sky\. \- 2023 Version](https://open.spotify.com/track/69R99kEwLEW6g7Yk2Hmp9t) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 01 \(2023 Version\)](https://open.spotify.com/album/3AhxC1o8vYrnpyLFp313q6) | 4:22 |
 | 23 | [今しかない瞬間を](https://open.spotify.com/track/2LPfClXLGNlyRuXt2Mew89) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS L@YERED WING 07](https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ) | 3:52 |
 | 24 | [Fashionable](https://open.spotify.com/track/79XqCpFNN065CQUDv32c7T) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 08](https://open.spotify.com/album/4fifEAU2mSmSaEXKccsjRF) | 4:03 |
-| 25 | [Transcending The World](https://open.spotify.com/track/7ki8aelo1r9mLmJx5ClQlT) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 06](https://open.spotify.com/album/3AIhLQH8VCwfWRNY8CrwnL) | 4:11 |
+| 25 | [平行線の美学](https://open.spotify.com/track/7JMVCpnVVjNsxGHgQKco4j) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:35 |
 | 26 | [相合学舎](https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz), [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 02](https://open.spotify.com/album/7rg9RfJGUbH8aLeqHLGBst) | 4:25 |
-| 27 | [平行線の美学](https://open.spotify.com/track/7JMVCpnVVjNsxGHgQKco4j) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:35 |
+| 27 | [Transcending The World](https://open.spotify.com/track/7ki8aelo1r9mLmJx5ClQlT) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 06](https://open.spotify.com/album/3AIhLQH8VCwfWRNY8CrwnL) | 4:11 |
 | 28 | [あの花のように](https://open.spotify.com/track/24r7FW9pYDC8c8mJlVB7lT) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 07](https://open.spotify.com/album/4PBmuHKNjEUcBU3WyIJbYh) | 4:07 |
 | 29 | [Bouncy Girl](https://open.spotify.com/track/01q3ySvKVH3reucZ9Fgzp9) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 08](https://open.spotify.com/album/4fifEAU2mSmSaEXKccsjRF) | 3:13 |
 | 30 | [異次元★♥BIGBANG](https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr) | [島村卯月 \(CV: 大橋彩香\)](https://open.spotify.com/artist/6RQ5VjHW97K397QfPd0aXt), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH), [月岡恋鐘 \(CV.礒部花凜\)](https://open.spotify.com/artist/2Nascsj90mN48cZBUS4CPA), [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ), [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [日野下花帆 \(CV.楡井希実\)](https://open.spotify.com/artist/3K0kUxY4moTB2FF7nYLgzs) | [異次元★♥BIGBANG](https://open.spotify.com/album/5hS6PiorOQmALMSbjh0nHx) | 5:16 |

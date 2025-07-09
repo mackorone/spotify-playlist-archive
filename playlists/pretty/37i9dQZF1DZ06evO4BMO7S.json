@@ -1,29 +1,13 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 22065,
+  "num_followers": 22072,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAB2WVWe11HGibL5nzxoeQbn",
+  "snapshot_id": "aGsOAAAAAAAmJyxiBLsZHIPP4Y1xo8zs",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
     },
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 218744,
+      "name": "Kokomo, IN",
+      "url": "https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Too Real (Remixes)",
         "url": "https://open.spotify.com/album/5jOMCJMBZIaAah4JOssJb7"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 234970,
       "name": "Maybes - RAC Mix",
       "url": "https://open.spotify.com/track/2QbTsEUF97LixvDbyKUdCj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 218744,
-      "name": "Kokomo, IN",
-      "url": "https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Everybody Wants to Love You",
-      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 219782,
       "name": "Slide Tackle",
       "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Everybody Wants to Love You",
+      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
-      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -243,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Melancholy Brunettes (& sad women)",
-        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
       "artists": [
         {
@@ -252,57 +236,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Here is Someone",
-      "url": "https://open.spotify.com/track/6VfeVmzckgv3N0qYutzJOg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "The Body Is a Blade",
-      "url": "https://open.spotify.com/track/6TBgnQqDXmGECYuZYgj6DI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "The Woman That Loves You",
-      "url": "https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 244691,
-      "name": "Posing In Bondage",
-      "url": "https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ"
+      "duration_ms": 171000,
+      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
+      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
     },
     {
       "added_at": null,
@@ -332,15 +268,15 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Soft Sounds from Another Planet",
-      "url": "https://open.spotify.com/track/17UaCbdhkzTaCj4DbKTrPW"
+      "duration_ms": 220386,
+      "name": "The Body Is a Blade",
+      "url": "https://open.spotify.com/track/6TBgnQqDXmGECYuZYgj6DI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Head Over Heels b/w Essentially",
-        "url": "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
       "artists": [
         {
@@ -348,9 +284,57 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 196214,
-      "name": "Essentially",
-      "url": "https://open.spotify.com/track/3fIwfLKOf7bVMPMxPSITtE"
+      "duration_ms": 244691,
+      "name": "Posing In Bondage",
+      "url": "https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "The Woman That Loves You",
+      "url": "https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Melancholy Brunettes (& sad women)",
+        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Here is Someone",
+      "url": "https://open.spotify.com/track/6VfeVmzckgv3N0qYutzJOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Soft Sounds from Another Planet",
+      "url": "https://open.spotify.com/track/17UaCbdhkzTaCj4DbKTrPW"
     },
     {
       "added_at": null,
@@ -367,6 +351,22 @@
       "duration_ms": 146184,
       "name": "Savage Good Boy",
       "url": "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head Over Heels b/w Essentially",
+        "url": "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 196214,
+      "name": "Essentially",
+      "url": "https://open.spotify.com/track/3fIwfLKOf7bVMPMxPSITtE"
     },
     {
       "added_at": null,

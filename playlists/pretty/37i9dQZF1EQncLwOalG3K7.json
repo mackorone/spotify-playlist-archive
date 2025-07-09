@@ -1,60 +1,60 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXOFNZmdXbvU>Aqeela Calista</a>, <a href=spotify:playlist:37i9dQZF1EIY684COnjuPO>Backstreet Boys</a>, <a href=spotify:playlist:37i9dQZF1EIYCwEpjSusKH>The Cardigans</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVBaqIGMARUo>Hande Yener</a>, <a href=spotify:playlist:37i9dQZF1EIY0Ub8VMIHL5>Marta Santos</a>, <a href=spotify:playlist:37i9dQZF1EIXD5kdhx3EIf>King Princess</a> and more",
   "num_followers": 0,
   "original_name": "Pop Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC+bY9q1XRP4OuyttrvsDhB",
+  "snapshot_id": "AAAAAAAAAADr9Eljn8rL0rMxCKMmSGfN",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Menunggu Cinta",
-        "url": "https://open.spotify.com/album/4ecnKnN2cmEjuFaRrJKEx0"
+        "name": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor",
+        "url": "https://open.spotify.com/album/0co4E8uXbdpyFIBnId7Naa"
       },
       "artists": [
         {
-          "name": "Aqeela Calista",
-          "url": "https://open.spotify.com/artist/5viTsV4BwI62jNF7ERhK4r"
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
         }
       ],
-      "duration_ms": 209776,
-      "name": "Menunggu Cinta",
-      "url": "https://open.spotify.com/track/0ZSt7rN9ILFOL23axrgfAJ"
+      "duration_ms": 212560,
+      "name": "K\u0131rm\u0131z\u0131",
+      "url": "https://open.spotify.com/track/1O8WpKURk9MawnBVJTjfxN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Backstreet's Back",
-        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/3VYpfuijhWldwl2qnhBdBg"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+      "duration_ms": 134736,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/46dmazd1o2QIs1DfjyyTx5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "First Band On The Moon (Remastered)",
-        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
+        "name": "RIP KP",
+        "url": "https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl"
       },
       "artists": [
         {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 193953,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+      "duration_ms": 138914,
+      "name": "RIP KP",
+      "url": "https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer"
     },
     {
       "added_at": null,
@@ -179,6 +179,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -203,34 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": null,
@@ -255,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -283,6 +283,22 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": null,
@@ -343,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
       "added_at": null,
@@ -375,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 232186,
-      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
       "added_at": null,
@@ -635,6 +635,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1"
+        },
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 258431,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -671,30 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heist",
-        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1"
-        },
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 258431,
-      "name": "Can't Hold Us (feat. Ray Dalton)",
-      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": null,
@@ -731,18 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": null,
@@ -763,50 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": null,
@@ -859,18 +843,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 267866,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
     }
   ],
   "unique_name": "Pop Mix",

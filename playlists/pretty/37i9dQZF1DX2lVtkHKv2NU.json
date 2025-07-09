@@ -1,6 +1,6 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 323876,
+  "num_followers": 323884,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-06-27 06:00:29",
       "album": {
-        "name": "Solcito",
-        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Solcito",
-      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
-    },
-    {
-      "added_at": "2025-06-27 06:00:29",
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "added_at": "2025-06-27 06:00:29",
+      "album": {
+        "name": "Solcito",
+        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Solcito",
+      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
     },
     {
       "added_at": "2025-06-27 06:00:29",

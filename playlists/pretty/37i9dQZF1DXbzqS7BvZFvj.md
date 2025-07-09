@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,063 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,067 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 7 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
 | 8 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 9 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
-| 10 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 10 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 11 | [OWA OWA](https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [OWA OWA](https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7) | 2:12 |
 | 12 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59) | 3:16 |
 | 13 | [OMG! \(From F1® The Movie\)](https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [OMG! \(From F1® The Movie\)](https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP) | 2:32 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 436062,
+  "num_followers": 436079,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACy5xTzmbtfSqnE36B+JYBf",
+  "snapshot_id": "aGsOAAAAAAAfCWnu0oJK39pdbi//muyX",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Girls Like Trap Music",
-        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Blue Cheese",
-      "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Decided.",
         "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 287320,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Girls Like Trap Music",
+        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Blue Cheese",
+      "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
     },
     {
       "added_at": null,
@@ -959,6 +959,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 144337,
+      "name": "Menace 2 (Migos, Lil Yachty)",
+      "url": "https://open.spotify.com/track/4XRABck4iyZrh5yJ7nOWOi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loco (feat. Migos) [Remix]",
         "url": "https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q"
       },
@@ -983,30 +1007,6 @@
       "duration_ms": 157648,
       "name": "Loco (feat. Migos) - Remix",
       "url": "https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 2",
-        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 144337,
-      "name": "Menace 2 (Migos, Lil Yachty)",
-      "url": "https://open.spotify.com/track/4XRABck4iyZrh5yJ7nOWOi"
     }
   ],
   "unique_name": "This Is Migos",

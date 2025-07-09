@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,424 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,491 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 86 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 |
 | 87 | [Yo me Enamoré](https://open.spotify.com/track/6wWLC6V7TJ7NEygWHc1CFh) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:12 |
 | 88 | [Hoy Te Vi](https://open.spotify.com/track/5AGrNSSyacwJQXp62xYOh0) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Gracia Divina](https://open.spotify.com/album/2WJPmMdGAvoXwP0PVueIQN) | 3:37 |
-| 89 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
-| 90 | [Vamos A Bailar](https://open.spotify.com/track/53hzmIPjhWhFaxewzpgG1O) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:27 |
-| 91 | [Yo Soy Tu Maestro](https://open.spotify.com/track/6iUzbEwZnm9NuXdWvuoNem) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [El Bombazo](https://open.spotify.com/album/6g4bKWae6itYgu4gysKLH2) | 4:29 |
-| 92 | [Sabrosón](https://open.spotify.com/track/4LY1GUwkUJD8PotaMUrqtE) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:54 |
-| 93 | [Una Wacha Piola](https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/5Jq2IHMwbqtHPkvTD7iSHF) | 2:35 |
-| 94 | [La Jarra Loca](https://open.spotify.com/track/32bLxXrec8cj3Y7U3SHwGV) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros Que Nunca](https://open.spotify.com/album/2TWHx7wSbzKYlygApoBK8C) | 3:58 |
-| 95 | [Muero por Tí](https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [En la Ciudad de los Vivos](https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz) | 3:56 |
-| 96 | [Noche de Estrellas](https://open.spotify.com/track/5wMQvQ2DAzyQpMAID2ccGB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:35 |
-| 97 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 |
-| 98 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 |
-| 99 | [Hasta Que Salga El Sol](https://open.spotify.com/track/7Hbg7BL2h2To2jVJwSnFVD) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2uJigYIPQFe3xg5btbHhRn) | 2:59 |
-| 100 | [Ella Me Pide Sexo](https://open.spotify.com/track/1ROGweOPdTZsUzJyGk4oT2) | [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM), [Atento](https://open.spotify.com/artist/5X1IIhfsA4afdpwfbZmkL3) | [¡El Que No Hace Palmas Tiene Culo de Pato, Cuak!](https://open.spotify.com/album/2X0Nr8WYHk4rzgs3M1cinZ) | 3:13 |
+| 89 | [Yo Soy Tu Maestro](https://open.spotify.com/track/6iUzbEwZnm9NuXdWvuoNem) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [El Bombazo](https://open.spotify.com/album/6g4bKWae6itYgu4gysKLH2) | 4:29 |
+| 90 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
+| 91 | [Vamos A Bailar](https://open.spotify.com/track/53hzmIPjhWhFaxewzpgG1O) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:27 |
+| 92 | [Ella Me Pide Sexo](https://open.spotify.com/track/1ROGweOPdTZsUzJyGk4oT2) | [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM), [Atento](https://open.spotify.com/artist/5X1IIhfsA4afdpwfbZmkL3) | [¡El Que No Hace Palmas Tiene Culo de Pato, Cuak!](https://open.spotify.com/album/2X0Nr8WYHk4rzgs3M1cinZ) | 3:13 |
+| 93 | [Sabrosón](https://open.spotify.com/track/4LY1GUwkUJD8PotaMUrqtE) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:54 |
+| 94 | [Me Olvide de Ti](https://open.spotify.com/track/09yg5xVkRIxRFWCSfAgbjx) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Con Brillo Propio](https://open.spotify.com/album/6UvXGJGA6ynxSbNc7kif1K) | 2:54 |
+| 95 | [Una Wacha Piola](https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/5Jq2IHMwbqtHPkvTD7iSHF) | 2:35 |
+| 96 | [La Jarra Loca](https://open.spotify.com/track/32bLxXrec8cj3Y7U3SHwGV) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros Que Nunca](https://open.spotify.com/album/2TWHx7wSbzKYlygApoBK8C) | 3:58 |
+| 97 | [Muero por Tí](https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [En la Ciudad de los Vivos](https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz) | 3:56 |
+| 98 | [Noche de Estrellas](https://open.spotify.com/track/5wMQvQ2DAzyQpMAID2ccGB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:35 |
+| 99 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 |
+| 100 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 |
 
 Snapshot ID: `aGfBaAAAAADMvvlyPcVRCbz6539r2+Fg`

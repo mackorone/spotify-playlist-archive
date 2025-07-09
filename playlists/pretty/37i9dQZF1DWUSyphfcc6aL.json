@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 1305075,
+  "num_followers": 1305098,
   "original_name": "Workout Beats",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-07-06 14:00:29",
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        }
+      ],
+      "duration_ms": 153904,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
+    },
+    {
+      "added_at": "2025-07-06 14:00:29",
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2025-07-06 14:00:29",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
-        }
-      ],
-      "duration_ms": 153904,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
     },
     {
       "added_at": "2025-07-06 14:00:29",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-07-06 14:00:29",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2025-07-06 14:00:29",
-      "album": {
         "name": "Love Tonight (David Guetta Remix)",
         "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 158095,
       "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
+    },
+    {
+      "added_at": "2025-07-06 14:00:29",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "added_at": "2025-07-06 14:00:29",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-07-06 14:00:29",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2025-07-06 14:00:29",
-      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
+    },
+    {
+      "added_at": "2025-07-06 14:00:29",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2025-07-06 14:00:29",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-07-06 14:00:29",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
+    },
+    {
+      "added_at": "2025-07-06 14:00:29",
+      "album": {
         "name": "Lioness",
         "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
-    },
-    {
-      "added_at": "2025-07-06 14:00:29",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
       "added_at": "2025-07-06 14:00:29",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-07-06 14:00:29",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 215459,
-      "name": "ALIEN SUPERSTAR",
-      "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
-    },
-    {
-      "added_at": "2025-07-06 14:00:29",
-      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "added_at": "2025-07-06 14:00:29",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 215459,
+      "name": "ALIEN SUPERSTAR",
+      "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
     },
     {
       "added_at": "2025-07-06 14:00:29",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2025-07-06 14:00:29",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
-    },
-    {
-      "added_at": "2025-07-06 14:00:29",
-      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+    },
+    {
+      "added_at": "2025-07-06 14:00:29",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
     },
     {
       "added_at": "2025-07-06 14:00:29",

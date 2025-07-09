@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,125 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,136 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 28 | [Base' Body](https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6) | [51 June](https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ) | [Preaching from the Projects](https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49) | 2:30 |
 | 29 | [Flawed \(feat\. Gunna\)](https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Flawed \(feat\. Gunna\)](https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI) | 3:24 |
 | 30 | [RPS & Codeine \(feat\. Gunna\)](https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 3:02 |
-| 31 | [The Marathon Continues \(Nipsey Tribute\) \- Bonus Track](https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:45 |
-| 32 | [Fly Away](https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh) | [Fly Away](https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa) | 2:28 |
+| 31 | [Fly Away](https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh) | [Fly Away](https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa) | 2:28 |
+| 32 | [The Marathon Continues \(Nipsey Tribute\) \- Bonus Track](https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:45 |
 | 33 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 |
 | 34 | [Rich Off Grass \(Remix\) \[feat\. Young Dolph\]](https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Big Bank](https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9) | 2:58 |
 | 35 | [Love Is..\. \(feat\. J.I the Prince of N.Y\)](https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [missunderstood…still](https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO) | 3:55 |

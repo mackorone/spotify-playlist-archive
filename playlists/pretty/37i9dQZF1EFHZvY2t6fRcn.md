@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494 likes - 139 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 493 likes - 139 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 78 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
 | 79 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 |
 | 80 | [Necklace](https://open.spotify.com/track/1rlCBDWf8IOv4Yzq7QQNUD) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 3:32 |
-| 81 | [Chasers](https://open.spotify.com/track/0nwAgXvY8LlVaImad8XCdF) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/3oz8jw6YLEOSf032rck2GY) | 3:00 |
-| 82 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 |
+| 81 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 |
+| 82 | [Chasers](https://open.spotify.com/track/0nwAgXvY8LlVaImad8XCdF) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/3oz8jw6YLEOSf032rck2GY) | 3:00 |
 | 83 | [flicker start](https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:40 |
 | 84 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 |
 | 85 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 107 | [BOYS](https://open.spotify.com/track/3eOIjdurn3lxeOMn90L8Fn) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [BOYS](https://open.spotify.com/album/3VtKNel48q9NVpK6vJ66qB) | 2:55 |
 | 108 | [Pace Yourself](https://open.spotify.com/track/0MvqfZ64k279BTGvIxuLm0) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:54 |
 | 109 | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p) | 3:36 |
-| 110 | [Old You](https://open.spotify.com/track/7fsRcbZrbqOJ3yZTYHpJLy) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Another\. Not Me\. I'm Done.](https://open.spotify.com/album/3ogWyHgX9kpiL03Vpdp0k7) | 3:11 |
-| 111 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
+| 110 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
+| 111 | [Old You](https://open.spotify.com/track/7fsRcbZrbqOJ3yZTYHpJLy) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Another\. Not Me\. I'm Done.](https://open.spotify.com/album/3ogWyHgX9kpiL03Vpdp0k7) | 3:11 |
 | 112 | [Girls Don’t Cheat](https://open.spotify.com/track/3YH35thx08eWvn6u6rWnvN) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Girls Don't Cheat](https://open.spotify.com/album/0gYqVCe2CIZ7S6IqBNU1MH) | 2:38 |
 | 113 | [Stretch](https://open.spotify.com/track/5bnOO8GMfgoErXsomIOJ8f) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 3:07 |
 | 114 | [Whatever You Say](https://open.spotify.com/track/3HJAwbCG7vMR6xA7qK2Mg6) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don’t look at the moon \(Deluxe\)](https://open.spotify.com/album/0pg20nefkrcmXHQRIEkTkI) | 3:16 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 138 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 139 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Ab2K3gAAAABhQoSOXNZuQ3+GlqC4DkTO`
+Snapshot ID: `Ab2QfgAAAACJ3ry/9AT6VdU9/oB1bd4t`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Chance The Rapper, JID, DDG and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,552 likes - 54 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,596 likes - 54 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
 | 2 | [Kickboxer](https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Kickboxer](https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn) | 3:50 |
 | 3 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 |
-| 4 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 4 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 5 | [Tree](https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Tree](https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH) | 4:27 |
 | 6 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 |
 | 7 | [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 |

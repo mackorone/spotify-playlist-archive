@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,010,272 likes - 150 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009,525 likes - 150 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

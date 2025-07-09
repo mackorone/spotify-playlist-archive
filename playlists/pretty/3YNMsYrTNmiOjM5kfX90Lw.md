@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 439,385 likes - 50 songs - 2 hr 48 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 439,353 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 40 | [No Mo](https://open.spotify.com/track/6PjU3fk35C41MZLHhjrE0c) | [Johnny Mixxxx](https://open.spotify.com/artist/6uqQ4avISOSh5LaVnSjU6x) | [No Mo](https://open.spotify.com/album/1YX9z8jA48M3rrFrLe8Xbc) | 1:59 |
 | 41 | [On them](https://open.spotify.com/track/11v4njemAXDVcqBIMdPJld) | [Peanut the Villian](https://open.spotify.com/artist/54DAKTEGmRi5b13avjRKXA), [Yunggifted202](https://open.spotify.com/artist/0iNqQjdczMYAZJGQXjxChf) | [3424](https://open.spotify.com/album/3AmxMlkuZyRC1NQjwNmJsb) | 3:29 |
 | 42 | [Trump](https://open.spotify.com/track/0LmSBxjCw9VyZr91uaDdfb) | [Connecticut People Records](https://open.spotify.com/artist/0vDV8LM8kXUmdSB6N0LwoX), [Yung D CPR](https://open.spotify.com/artist/2ARABkIAz7ASwpIew23hvf) | [The Formula EP](https://open.spotify.com/album/3j3TJenBC2ZeWjaQnwgHrs) | 3:07 |
-| 43 | [eisgekühlter Bommerlunder](https://open.spotify.com/track/0wWSNoPALTwBa4AsIVZJHP) | [nobel](https://open.spotify.com/artist/19rZzcsdSa7koNxe2ARfxz), [Losti](https://open.spotify.com/artist/14di0Ag3s8r4oaNzrM62eO) | [eisgekühlter Bommerlunder](https://open.spotify.com/album/4iVF2MRPRzPG5laRU4cUuC) | 2:54 |
+| 43 | [eisgekühlter Bommerlunder](https://open.spotify.com/track/0wWSNoPALTwBa4AsIVZJHP) | [nobel](https://open.spotify.com/artist/19rZzcsdSa7koNxe2ARfxz), [losti](https://open.spotify.com/artist/0AahR1v9r9XvdIDKR6SNZt) | [eisgekühlter Bommerlunder](https://open.spotify.com/album/4iVF2MRPRzPG5laRU4cUuC) | 2:54 |
 | 44 | [Black Magic](https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL) | [John Que](https://open.spotify.com/artist/07yyEjbf7tgftypHhHefUn), [Honey Brown](https://open.spotify.com/artist/66ghGWBb08kAmzL0XlB1HH) | [Black Money](https://open.spotify.com/album/3C8ASMXXlXjeekJPGOJ5YO) | 5:08 |
 | 45 | [..\. an Interlude](https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU) | [Thani](https://open.spotify.com/artist/2RgfBo65pqPZr2DGvIoLU7), [Ufo Funk Band](https://open.spotify.com/artist/3kdOJSaifGuoBuGX8RRFnp) | [Response](https://open.spotify.com/album/2InMJQxasP3ARf22lNWH8j) | 0:39 |
 | 46 | [Big Shit](https://open.spotify.com/track/33ABawsXB7kQr5pNr6TJkl) | [Mr\. Davis](https://open.spotify.com/artist/7CzMapdq2QGQe9rjHDkv6q) | [Alcohol & Deep Thoughts EP](https://open.spotify.com/album/5LIgrV1nSOdX63AncRtogj) | 3:34 |

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 46756,
+  "num_followers": 46765,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 154306,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Blues Caravan",
@@ -543,6 +527,22 @@
       "duration_ms": 580573,
       "name": "Caravan",
       "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 154306,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Motion",
@@ -791,6 +775,22 @@
       "duration_ms": 457186,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Lionel Hampton Quintet",
+        "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton Quintet",
+          "url": "https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd"
+        }
+      ],
+      "duration_ms": 382773,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Samba Para Dos",
@@ -897,22 +913,6 @@
       "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Lionel Hampton Quintet",
-        "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
-      },
-      "artists": [
-        {
-          "name": "Lionel Hampton Quintet",
-          "url": "https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd"
-        }
-      ],
-      "duration_ms": 382773,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Nocturne",
@@ -927,6 +927,22 @@
       "duration_ms": 333800,
       "name": "Moonlight (Claro de Luna)",
       "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Individualism Of Gil Evans",
+        "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 599333,
+      "name": "The Barbara Song",
+      "url": "https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -967,22 +983,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Individualism Of Gil Evans",
-        "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
-      },
-      "artists": [
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 599333,
-      "name": "The Barbara Song",
-      "url": "https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Quiet",
         "url": "https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Movin' Wes",
-        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Movin' Wes - Pt. 1",
-      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Gettin' To It",
         "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 330760,
       "name": "Gettin' To It",
       "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Movin' Wes",
+        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Movin' Wes - Pt. 1",
+      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
     },
     {
       "added_at": "2019-10-04 16:01:14",

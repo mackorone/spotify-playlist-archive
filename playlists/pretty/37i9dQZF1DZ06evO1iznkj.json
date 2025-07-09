@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 176464,
+  "num_followers": 176542,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADILzryqg3s8XIkzc1Ypztg",
+  "snapshot_id": "aGsOAAAAAACnlDp+LZAXoQZpvJWAm4a7",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip or Drown",
-        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 126168,
-      "name": "Drip or Drown",
-      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -379,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Gossip",
-        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+        "name": "Drip or Drown",
+        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
       },
       "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 213287,
-      "name": "Ready (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh"
+      "duration_ms": 126168,
+      "name": "Drip or Drown",
+      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
     },
     {
       "added_at": null,
@@ -419,6 +399,26 @@
       "duration_ms": 174743,
       "name": "Happiness (feat. Asake & Gunna)",
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street Gossip",
+        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 213287,
+      "name": "Ready (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh"
     },
     {
       "added_at": null,
@@ -859,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Certified Hitmaker",
-        "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
       "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 123560,
-      "name": "Stuck In A Dream (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
+      "duration_ms": 158240,
+      "name": "WUNNA",
+      "url": "https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF"
     },
     {
       "added_at": null,
@@ -899,18 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+        "name": "Certified Hitmaker",
+        "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
       },
       "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 158240,
-      "name": "WUNNA",
-      "url": "https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF"
+      "duration_ms": 123560,
+      "name": "Stuck In A Dream (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
     },
     {
       "added_at": null,

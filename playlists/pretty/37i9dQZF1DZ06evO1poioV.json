@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 116895,
+  "num_followers": 116913,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACyCfIMpZFJlwDRGACxRASo",
+  "snapshot_id": "aGsOAAAAAADkSuZQ8oFQk5GuYc+9WruF",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
       "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 313167,
-      "name": "Who Believes In Angels?",
-      "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
+      "duration_ms": 231693,
+      "name": "Most of All",
+      "url": "https://open.spotify.com/track/0E0aHF7AnmeMNIAb7GJSQa"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
       },
       "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 231693,
-      "name": "Most of All",
-      "url": "https://open.spotify.com/track/0E0aHF7AnmeMNIAb7GJSQa"
+      "duration_ms": 313167,
+      "name": "Who Believes In Angels?",
+      "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 275838,
-      "name": "You Without Me",
-      "url": "https://open.spotify.com/track/6qJTqldDSDiI4m0TpL4ORX"
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onward (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 213732,
-      "name": "Carried Me With You",
-      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
+      "duration_ms": 275838,
+      "name": "You Without Me",
+      "url": "https://open.spotify.com/track/6qJTqldDSDiI4m0TpL4ORX"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 174933,
       "name": "Redesigning Women",
       "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Water Witch",
-      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're Not Alone [Feat. Brandi Carlile]",
         "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 309746,
       "name": "You're Not Alone [Feat. Brandi Carlile]",
       "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Whatever You Do",
-      "url": "https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Letter To The Past",
+      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 209051,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Letter To The Past",
-      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
     },
     {
       "added_at": null,

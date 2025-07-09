@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 244237,
+  "num_followers": 244250,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAD6DToMZSiCOX90eMDFnSxw",
+  "snapshot_id": "aGsOAAAAAACqD37HEPQpqDHHVkPrG4l4",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+        "name": "THOUSAND MILES",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 146640,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+      "duration_ms": 164781,
+      "name": "THOUSAND MILES",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THOUSAND MILES",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 164781,
-      "name": "THOUSAND MILES",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+      "duration_ms": 146640,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": null,
@@ -699,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4 The Storm (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
+        "name": "I GUESS IT'S LOVE?",
+        "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
       },
       "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 122278,
-      "name": "Speak",
-      "url": "https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo"
+      "duration_ms": 137725,
+      "name": "I GUESS IT'S LOVE?",
+      "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
     },
     {
       "added_at": null,
@@ -755,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I GUESS IT'S LOVE?",
-        "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
+        "name": "B4 The Storm (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
       "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 137725,
-      "name": "I GUESS IT'S LOVE?",
-      "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
+      "duration_ms": 122278,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo"
     },
     {
       "added_at": null,

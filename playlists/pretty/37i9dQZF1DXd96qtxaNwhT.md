@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,793 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,806 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 54 | [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 |
 | 55 | [When I Loved You](https://open.spotify.com/track/6uOT7G2JvftdMvPxeSJCW5) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [When I Loved You](https://open.spotify.com/album/2MQmCk9CWJRhSfnnbF0OxM) | 3:28 |
 | 56 | [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 |
-| 57 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
-| 58 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
+| 57 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
+| 58 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
 | 59 | [SAFE](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SAFE](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 |
 | 60 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
 | 61 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 70 | [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 |
 | 71 | [Smoking Lessons](https://open.spotify.com/track/52zlr5j372qsgHhmvrni4w) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:59 |
 | 72 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 |
-| 73 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |
-| 74 | [Monster Brain](https://open.spotify.com/track/2Y2aBQoIfcmHdZUZjZPqxG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/4lGm0rVF9UELk6nTTIikmS) | 3:37 |
+| 73 | [Monster Brain](https://open.spotify.com/track/2Y2aBQoIfcmHdZUZjZPqxG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/4lGm0rVF9UELk6nTTIikmS) | 3:37 |
+| 74 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |
 | 75 | [Maria \(with Lola Amour\)](https://open.spotify.com/track/3fRiLrU5dPkZK56HmSKeo1) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Maria \(with Lola Amour\)](https://open.spotify.com/album/4HMeGZ8PYu5TBbRilS2AJJ) | 3:11 |
 
 Snapshot ID: `aFF08AAAAADj+dovc9rfgy9plDzvsrGv`

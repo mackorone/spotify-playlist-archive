@@ -4,7 +4,7 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 52 min
+80 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [BRING IT ON 〜Battle of Rap〜](https://open.spotify.com/track/5l507Aa1hpzuGbivmeLYYl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:15 | 2022-06-11 | 2022-10-13 |
 | [Buddy](https://open.spotify.com/track/4REC1ugNoqID6npg121UVv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Buddy](https://open.spotify.com/album/0GVbdxlqXpgq9fLFZ6CRIm) | 3:25 | 2025-01-18 |  |
 | [C!RCUS](https://open.spotify.com/track/0VddZ2uaNkB0hF3uP4F2K4) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:47 | 2022-08-26 | 2022-08-28 |
+| [Chase the Shine](https://open.spotify.com/track/30EfnWyFnPO7UOXa9x4HYp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Chase the Shine](https://open.spotify.com/album/13dG83G4Lgqw5fgLiCdJ2D) | 3:00 | 2025-07-09 |  |
 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 | 2022-06-09 |  |
 | [Come on](https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 3:36 | 2022-06-09 |  |
 | [Don't Look Back](https://open.spotify.com/track/2EYq8MSKm0q2SoYksSyy2R) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:25 | 2022-08-29 | 2022-10-09 |
@@ -64,7 +65,7 @@
 | [THE WORLD IS MINE](https://open.spotify.com/track/6zWHWe63mEaiqwb1BeMsAw) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 4:06 | 2022-06-09 | 2022-10-11 |
 | [THIS IS HOW WE ROCK](https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 | 2022-06-09 |  |
 | [To](https://open.spotify.com/track/5ZB7Y0zNKrJCg5Mq3qXW3x) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 4:03 | 2022-06-09 | 2024-03-21 |
-| [Trust your anthem](https://open.spotify.com/track/3DpDfPEqWG3KIz6iaGPaIA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション](https://open.spotify.com/album/7agIWNYo87cjSudbijhzVu) | 2:54 | 2022-06-09 |  |
+| [Trust your anthem](https://open.spotify.com/track/3DpDfPEqWG3KIz6iaGPaIA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション](https://open.spotify.com/album/7agIWNYo87cjSudbijhzVu) | 2:54 | 2022-06-09 | 2025-07-09 |
 | [Turning Point](https://open.spotify.com/track/7tBqFwuUYa2t6b8i3B5FYV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:11 | 2022-07-07 | 2025-02-16 |
 | [We'll Never Die](https://open.spotify.com/track/4zV6q9JaYJsh2S2MiCPQdP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 4:03 | 2022-08-19 | 2022-10-13 |
 | [WENDY ～It's You～](https://open.spotify.com/track/5oxpHI7qENIVkUhCDxak9j) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:09 | 2022-06-09 |  |

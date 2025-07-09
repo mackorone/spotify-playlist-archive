@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,880 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,938 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 17 | [Top Of The World](https://open.spotify.com/track/7FXxI7DL2BDc2VgE9gRoUA) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ガラガラ GO！！](https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh) | 3:00 |
 | 18 | [SOBER](https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:57 |
 | 19 | [声をきかせて](https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [声をきかせて](https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr) | 4:13 |
-| 20 | [Stupid Liar](https://open.spotify.com/track/0ZHfjGYU26P7B0j1MmHeG8) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:54 |
-| 21 | [This Love \(G\-Dragon Solo\)](https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:32 |
+| 20 | [This Love \(G\-Dragon Solo\)](https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:32 |
+| 21 | [Stupid Liar](https://open.spotify.com/track/0ZHfjGYU26P7B0j1MmHeG8) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:54 |
 | 22 | [BAE BAE](https://open.spotify.com/track/3miMeSGd7rzJEtuhQnzm0f) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 2:49 |
 | 23 | [ガラガラ GO！！](https://open.spotify.com/track/5brqQm02a7xLvdStXioywi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ガラガラ GO！！](https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh) | 3:18 |
-| 24 | [My Heaven](https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:52 |
-| 25 | [La La La](https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 2:59 |
+| 24 | [La La La](https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 2:59 |
+| 25 | [My Heaven](https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:52 |
 | 26 | [Gara Gara Go!!](https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [KPOP \- JPOP Made In Korea Vol\. 2](https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl) | 3:18 |
 | 27 | [Tell Me Goodbye](https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tell Me Goodbye](https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX) | 4:05 |
 | 28 | [Lollipop](https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp), [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 49 | [Always \- Japanese Version](https://open.spotify.com/track/06NMu4JoNGm61R4y2k53hR) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [THE BEST OF BIGBANG 2006\-2014](https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp) | 3:55 |
 | 50 | [Big Boy \(T.O.P Solo\)](https://open.spotify.com/track/0MTvnT0Hn4UUnqY6Z8PieG) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:18 |
 
-Snapshot ID: `aGm8gAAAAAC/7yQGMrXBl/XbckY3fucr`
+Snapshot ID: `aGsOAAAAAADPGpFamkq0JAFtapudCb1V`

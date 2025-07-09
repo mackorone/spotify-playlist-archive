@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,757 likes - 47 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,818 likes - 47 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,20 +15,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 5 | [Te Equivocaste](https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
 | 6 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/3gHn8eZRKss5cD4r3k3jCA) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
 | 7 | [Lo Que Son las Cosas](https://open.spotify.com/track/7GprMlRqZpBd6LYqar2hBv) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:54 |
-| 8 | [Llévate](https://open.spotify.com/track/2AHzaIprICahqw378HVUoO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:10 |
-| 9 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
+| 8 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
+| 9 | [Llévate](https://open.spotify.com/track/2AHzaIprICahqw378HVUoO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:10 |
 | 10 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
 | 11 | [¿Qué Nos Pasó? \(with Yuridia\)](https://open.spotify.com/track/4eE8rU7ymogVA74C8j2b2f) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Armando Ávila](https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl) | [Bien Acompañado](https://open.spotify.com/album/0rU8BvCez2ostHJ1KY8gVX) | 3:52 |
-| 12 | [Un Bendito Día](https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:31 |
-| 13 | [Ya Es Muy Tarde](https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:01 |
+| 12 | [Ya Es Muy Tarde](https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:01 |
+| 13 | [Un Bendito Día](https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:31 |
 | 14 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/2eSTnoRpEK2VXIccMbzXrE) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:48 |
 | 15 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
-| 16 | [La Duda \(Primera fila\) \- En Vivo](https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:23 |
-| 17 | [Cobarde](https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
+| 16 | [Cobarde](https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
+| 17 | [La Duda \(Primera fila\) \- En Vivo](https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:23 |
 | 18 | [Yo Tuve un Amor](https://open.spotify.com/track/0aURWMQhHqx8LdnLYvhn9G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:34 |
 | 19 | [Felicítalo](https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Felicítalo](https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7) | 3:06 |
-| 20 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 |
-| 21 | [No la Beses \- Sesión de Estudio](https://open.spotify.com/track/4ulIv3JXcoNnHJplhMKb6C) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:15 |
+| 20 | [No la Beses \- Sesión de Estudio](https://open.spotify.com/track/4ulIv3JXcoNnHJplhMKb6C) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:15 |
+| 21 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 |
 | 22 | [Malamente](https://open.spotify.com/track/531zn1AxlkHj0aidD75L1w) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 2:56 |
 | 23 | [Te Dejo](https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
 | 24 | [Señora](https://open.spotify.com/track/7DpuFVTvhJyTTRBm7DzKRX) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:42 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 46 | [Quererte a Ti](https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:45 |
 | 47 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
 
-Snapshot ID: `aGm8gAAAAABHNjLlQZpqVa6OzobKYul4`
+Snapshot ID: `aGsOAAAAAADh2v7YR8Qp1ZI7u2H24WzE`

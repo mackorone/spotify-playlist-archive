@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,150 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,174 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 34 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
 | 35 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 |
 | 36 | [SUPERSTAR](https://open.spotify.com/track/0PQff1DRs2QDmAP9oIc1nN) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6wpNNU4kpjNllbd501Jipd) | 1:57 |
-| 37 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
-| 38 | [Floating On A Moment](https://open.spotify.com/track/0WH39BFVGotzXe3torfzvK) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 5:26 |
+| 37 | [Floating On A Moment](https://open.spotify.com/track/0WH39BFVGotzXe3torfzvK) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 5:26 |
+| 38 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
 | 39 | [For God and Country](https://open.spotify.com/track/5JmjXrRYZyJYmXz72IstSS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [May It Never Falter](https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P) | 2:43 |
 | 40 | [Snoopy](https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:00 |
 | 41 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 |
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 51 | [wish u well](https://open.spotify.com/track/4TZOVk3IPsfYQTiCGyRauf) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:33 |
 | 52 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 53 | [Starburned and Unkissed](https://open.spotify.com/track/3ha9yXEYY9lBZEVXD3sYzG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [I Saw The TV Glow \(Original Soundtrack\)](https://open.spotify.com/album/4QtWb6EEnq9EvtI9FVocUY) | 3:40 |
-| 54 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
-| 55 | [Birdseye](https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:31 |
+| 54 | [Birdseye](https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:31 |
+| 55 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
 | 56 | [So Long](https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [So Long](https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y) | 3:31 |
 | 57 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
 | 58 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 |
 | 59 | [Lejos De Más](https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Lejos De Más](https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf) | 4:06 |
 | 60 | [Confusion Song](https://open.spotify.com/track/3xYyoN7FZQlDUBoK8y3F3M) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 2:41 |
-| 61 | [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 |
-| 62 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
+| 61 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
+| 62 | [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 |
 | 63 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 |
 | 64 | [Some Kind of Angel](https://open.spotify.com/track/20gvvUCHiGRbYmZMEE80Jb) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Split Lip](https://open.spotify.com/album/40B9Xk2WmXKJY9kNWH1yBk) | 4:34 |
 | 65 | [Flowers](https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd) | 2:48 |

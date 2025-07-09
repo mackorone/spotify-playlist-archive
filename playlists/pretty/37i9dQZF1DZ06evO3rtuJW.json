@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34262,
+  "num_followers": 34279,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACB9uLlv1Ti1sAyBfWZzNLg",
+  "snapshot_id": "aGsOAAAAAAAzX6/VORWVWD+RjC8L1ZMz",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 196433,
       "name": "Party in Heaven",
       "url": "https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sessions",
-      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "High Speed",
-      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLICK ALMIGHTY",
         "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 204750,
       "name": "Drench Gang (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "High Speed",
+      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -687,6 +707,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 153329,
+      "name": "Still Dangerous",
+      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 124617,
+      "name": "Roc Block",
+      "url": "https://open.spotify.com/track/7yY6dPn2XVioN68U4hPDij"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -694,15 +746,27 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
     },
     {
       "added_at": null,
@@ -736,89 +800,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 124617,
-      "name": "Roc Block",
-      "url": "https://open.spotify.com/track/7yY6dPn2XVioN68U4hPDij"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 153329,
-      "name": "Still Dangerous",
-      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
       "duration_ms": 154195,
       "name": "Best Rapper Alive",
       "url": "https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Ridin Wit It",
-      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 179946,
       "name": "Dark Knight",
       "url": "https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Ridin Wit It",
+      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDERWORLD",
-        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
-      },
-      "artists": [
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Swerve (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Cause Y'all Waited 2",
         "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 174266,
       "name": "Chiraq Demons (feat. G Herbo)",
       "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNDERWORLD",
+        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Swerve (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
     },
     {
       "added_at": null,

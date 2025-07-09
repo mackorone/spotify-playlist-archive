@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,049 songs - 4 day 14 hr 39 min
+2,050 songs - 4 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [citrus](https://open.spotify.com/track/3mfOVetD3j0ktS34Kk7enH) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [citrus](https://open.spotify.com/album/0dx5H6SFArLI4tiIRmbHMK) | 3:10 | 2022-02-03 | 2022-04-01 |
 | [City Life](https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [City Life \- Single](https://open.spotify.com/album/2q1dmnBWQqQAYxcXybUNAr) | 2:40 | 2022-03-24 | 2022-12-15 |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-08-04 | 2022-08-27 |
+| [Close my eyes \(feat\. Salasa\)](https://open.spotify.com/track/03RNyN9nEwJRg69fDyyCRw) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [NICO](https://open.spotify.com/album/6NN4esIGfBVsI1rc39nm9Q) | 3:39 | 2025-07-04 |  |
 | [Close To You](https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Close To You](https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189) | 5:41 | 2024-03-08 | 2024-05-19 |
 | [Closer to God](https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [WOOF.](https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744) | 3:46 | 2024-09-06 | 2025-03-15 |
 | [Closure](https://open.spotify.com/track/5H5j512kqhfK9dJT3Ko8an) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Closure](https://open.spotify.com/album/4D4QFUj6FNIkC9LVko4iwB) | 2:44 | 2024-10-04 | 2025-02-23 |
@@ -1324,7 +1325,7 @@
 | [POPULAR](https://open.spotify.com/track/6kiKyswGZg3caBjYnAIJRs) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [POPULAR](https://open.spotify.com/album/5dsE4gHv9VesW59zKe9h2I) | 3:35 | 2022-02-10 | 2022-04-20 |
 | [Por Encima Del Dinero](https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Por Encima Del Dinero](https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf) | 2:14 | 2022-09-08 | 2023-05-31 |
 | [Porta Pia](https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Porta Pia](https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d) | 2:55 | 2024-03-15 | 2024-03-18 |
-| [possibility](https://open.spotify.com/track/2HPnrdLvjRv1hkkz3earvt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots and wishing i was one \(deluxe\)](https://open.spotify.com/album/5O3mmUwy8gsPhiczhpUd16) | 3:04 | 2025-02-07 |  |
+| [possibility](https://open.spotify.com/track/2HPnrdLvjRv1hkkz3earvt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots and wishing i was one \(deluxe\)](https://open.spotify.com/album/5O3mmUwy8gsPhiczhpUd16) | 3:04 | 2025-02-07 | 2025-07-09 |
 | [Potent](https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Memory Springs](https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN) | 2:07 | 2023-04-17 | 2023-11-11 |
 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 | 2023-10-13 | 2024-04-19 |
 | [PPT \(Patita Pa Tra\)](https://open.spotify.com/track/4LLPvnckbEITdIaF2hc28W) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [PPT \(Patita Pa Tra\)](https://open.spotify.com/album/7cjIuMyS3K0HwvdWSzOWZg) | 2:45 | 2022-03-24 | 2022-04-20 |

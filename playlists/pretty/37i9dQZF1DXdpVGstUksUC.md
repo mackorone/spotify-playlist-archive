@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,369 likes - 100 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,379 likes - 100 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 17 | [Demon Cleaner](https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:11 |
 | 18 | [Song For The Dead](https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:52 |
 | 19 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 |
-| 20 | [Last Living Dinosaur](https://open.spotify.com/track/5JWT9cWwbLttKe7zrfNnn7) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Berlin](https://open.spotify.com/album/433VO5ZmCPluaLEAgRmwXu) | 4:05 |
-| 21 | [Wires](https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn) | [Red Fang](https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S) | [Murder the Mountains \(Deluxe Version\)](https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9) | 5:43 |
-| 22 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 |
+| 20 | [Wires](https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn) | [Red Fang](https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S) | [Murder the Mountains \(Deluxe Version\)](https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9) | 5:43 |
+| 21 | [Last Living Dinosaur](https://open.spotify.com/track/5JWT9cWwbLttKe7zrfNnn7) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Berlin](https://open.spotify.com/album/433VO5ZmCPluaLEAgRmwXu) | 4:05 |
+| 22 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
 | 23 | [God Is In The Radio](https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 6:04 |
 | 24 | [Eatin' Dust](https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Godzilla's / Eatin' Dust](https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF) | 3:10 |
-| 25 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
+| 25 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 |
 | 26 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
 | 27 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 |
 | 28 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 39 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
 | 40 | [Death's Door](https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 7:15 |
 | 41 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
-| 42 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
-| 43 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
-| 44 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
+| 42 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
+| 43 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
+| 44 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
 | 45 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 |
 | 46 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 |
 | 47 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 58 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
 | 59 | [Are You Dead](https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq) | [Rainbows Are Free](https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN) | [Rainbows Are Free](https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn) | 4:11 |
 | 60 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
-| 61 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
-| 62 | [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 |
-| 63 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
+| 61 | [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 |
+| 62 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
+| 63 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
 | 64 | [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 |
 | 65 | [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 |
 | 66 | [Cosmic Ride Of The Crystal Skull](https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [Superskull](https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1) | 3:49 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,195 songs - 4 day 21 hr 49 min
+2,198 songs - 4 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [A Fool Moon Night](https://open.spotify.com/track/0NIZWVJdeGizq0SkwTLwfT) | [THE KOXX](https://open.spotify.com/artist/0o7EzfVASiH8ws8bwYEqqv) | [ENTER](https://open.spotify.com/album/2BGvfWitMmZpO3ZjJx7ftH) | 4:36 | 2021-08-05 |  |
 | [A Girl Named Drool and a Pack of Kools](https://open.spotify.com/track/4ITKXtvVKlf8yrzGvaFa3r) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Grey Sheep II](https://open.spotify.com/album/1aVnxqszPG45yn2nFsVQRS) | 2:54 | 2021-08-05 |  |
 | [A Good Song Never Dies](https://open.spotify.com/track/5K43AHQPTJTqlyRZ3uBGKz) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 3:21 | 2022-11-24 |  |
+| [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2025-07-08 |  |
 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 | 2024-04-01 |  |
 | [A Loving Feeling](https://open.spotify.com/track/5usQET86kxSpLdk7iCP1pw) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 1:32 | 2022-10-17 |  |
 | [A Match Into Water](https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:32 | 2021-08-05 |  |
@@ -643,6 +644,7 @@
 | [Evil Fantasy](https://open.spotify.com/track/3A4TIpLeMng0Nn0N7yre4g) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Evil Fantasy](https://open.spotify.com/album/4MRari8at6iAQFEpBl1YMS) | 1:54 | 2021-08-05 |  |
 | [Execute](https://open.spotify.com/track/3ibmBtsJoIDbiNY0ibsS4O) | [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Execute](https://open.spotify.com/album/2jioYBhDvVDq6m9uKwUDbI) | 2:26 | 2023-05-31 |  |
 | [Experiment: E u p h o r i a](https://open.spotify.com/track/0lo5UOFLTvaPnNCxqpzKF3) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Welcome To The Wired!](https://open.spotify.com/album/3DxmNyhNtQ8wV1ey8CWrLY) | 2:13 | 2022-02-04 |  |
+| [Extended Mix](https://open.spotify.com/track/25EMKP5O8gkyegeZYRu9DW) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:26 | 2025-07-08 |  |
 | [eXXXcaliborg.Error](https://open.spotify.com/track/7cAeWk3bMmazQ5raDO4NOB) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [My Love Feels All Wrong\. Digipak](https://open.spotify.com/album/2NekMZ3pdknQ0VdEuhSVwb) | 1:45 | 2022-02-04 |  |
 | [Eyeless](https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 3:56 | 2024-03-30 |  |
 | [Eyes\. Lips\. Face\. \(e.l.f.\)](https://open.spotify.com/track/0UcTXmzMNrnS2rOLp94LlJ) | [iLL Wayno](https://open.spotify.com/artist/0JBoAOvXNu0zco9DPeg9KD), [Holla FyeSixWun](https://open.spotify.com/artist/2SGs0NLDtDQaHhNiSeriwc) | [Eyes\. Lips\. Face\. \(e.l.f.\)](https://open.spotify.com/album/33n6Vm4ILYIE6yQ5hetNdg) | 2:19 | 2021-08-05 |  |
@@ -807,6 +809,7 @@
 | [GRRRLS](https://open.spotify.com/track/1DkX0AcEDzuFeh4TEAl143) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [GRRRLS](https://open.spotify.com/album/6gek9qiNXrYxqEUHXL4fLZ) | 3:48 | 2021-08-05 |  |
 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 | 2021-08-05 |  |
 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 | 2021-11-14 |  |
+| [Guatauba](https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Guatauba XXX](https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO) | 2:42 | 2025-07-08 |  |
 | [Gucci Flip Flops \(feat\. Snoop Dogg & Plies\) \- Remix](https://open.spotify.com/track/4GeGOnrbE57XjvzaPI2lY9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gucci Flip Flops \(feat\. Snoop Dogg & Plies\) \[Remix\]](https://open.spotify.com/album/2OZTExHXRadMDX8untNfEA) | 3:12 | 2021-08-05 |  |
 | [Gucci Store](https://open.spotify.com/track/2YdEDvhcsHoH1bmJjUyVoK) | [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Gucci Store](https://open.spotify.com/album/0W27HLxEy9TV3xH7E8amr5) | 3:38 | 2021-08-05 |  |
 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-21 |  |

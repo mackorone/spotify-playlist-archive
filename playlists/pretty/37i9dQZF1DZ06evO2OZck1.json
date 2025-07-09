@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54538,
+  "num_followers": 54542,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAC6390+yAI78ojff2dSF2V+",
+  "snapshot_id": "aGsOAAAAAADcPjNpKCx7fI5Hn/52Z03/",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Yourself feat. ATARASHII GAKKO!",
-        "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
-      },
-      "artists": [
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        },
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Free Yourself feat. ATARASHII GAKKO!",
-      "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AG! Calling",
         "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },
@@ -415,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+        "name": "Free Yourself feat. ATARASHII GAKKO!",
+        "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
       },
       "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 256306,
-      "name": "OTOME NO BIGAKU",
-      "url": "https://open.spotify.com/track/2EFaT09Ufx9xOKxt6nc5Q8"
+      "duration_ms": 213500,
+      "name": "Free Yourself feat. ATARASHII GAKKO!",
+      "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 159306,
       "name": "Drama (feat. MILLI)",
       "url": "https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "OTOME NO BIGAKU",
+      "url": "https://open.spotify.com/track/2EFaT09Ufx9xOKxt6nc5Q8"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOIBUMI",
-        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 240285,
-      "name": "KOIBUMI",
-      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6771\u4eacSNG",
         "url": "https://open.spotify.com/album/4ycnJWLJHmGBnMo1HDEq9g"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 199143,
       "name": "\u6771\u4eac\u30bf\u30ef\u30fc (feat. \u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba)",
       "url": "https://open.spotify.com/track/7xonsALuZYHHgBwMAq0XM7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOIBUMI",
+        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "KOIBUMI",
+      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD12822XSbBCJLCXp2Zh3zA",
+  "snapshot_id": "AAAAAAAAAACCJlU0e6qlFBNCojH70x+x",
   "tracks": [
     {
       "added_at": null,
@@ -27,8 +27,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son Of The Morning",
-        "url": "https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ"
+        "name": "Children Of Fire",
+        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
         }
       ],
-      "duration_ms": 205426,
-      "name": "Son Of The Morning",
-      "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
+      "duration_ms": 186000,
+      "name": "Endseekers",
+      "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I Am God",
-        "url": "https://open.spotify.com/album/5e88yfR4rUCg4YbNI1xR41"
+        "name": "Son Of The Morning",
+        "url": "https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Vices Like Vipers",
-      "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
+      "duration_ms": 205426,
+      "name": "Son Of The Morning",
+      "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
     },
     {
       "added_at": null,
@@ -119,38 +119,6 @@
       "duration_ms": 269386,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/4GWGWr9Uh895hvHJKaoiXd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children Of Fire",
-        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
-      },
-      "artists": [
-        {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Endseekers",
-      "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "Thoughts In Reverse",
-      "url": "https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN"
     },
     {
       "added_at": null,
@@ -199,6 +167,38 @@
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "Thoughts In Reverse",
+      "url": "https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I Am God",
+        "url": "https://open.spotify.com/album/5e88yfR4rUCg4YbNI1xR41"
+      },
+      "artists": [
+        {
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Vices Like Vipers",
+      "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
     },
     {
       "added_at": null,
@@ -283,18 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children Of Fire",
-        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy"
       },
       "artists": [
         {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+          "name": "It Dies Today",
+          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
         }
       ],
-      "duration_ms": 189560,
-      "name": "In The Wake Of Pigs",
-      "url": "https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz"
+      "duration_ms": 194066,
+      "name": "A Port In Any Storm",
+      "url": "https://open.spotify.com/track/46Zdq2HrcAtolMCkXUwsEu"
     },
     {
       "added_at": null,
@@ -311,6 +311,262 @@
       "duration_ms": 224853,
       "name": "Isabella's",
       "url": "https://open.spotify.com/track/779b8UjspJSKZXLWBtnQpR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadows Are Security",
+        "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Meaning in Tragedy",
+      "url": "https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Mr. And Mrs. Cuckoldom",
+      "url": "https://open.spotify.com/track/7D8tKBeAkBqkFRV27VJpzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children Of Fire",
+        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
+      },
+      "artists": [
+        {
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "In The Wake Of Pigs",
+      "url": "https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 255306,
+      "name": "Pallbearer",
+      "url": "https://open.spotify.com/track/38o6tLdT4SbO9Gwo4RxDTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Everything Falls",
+        "url": "https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp"
+      },
+      "artists": [
+        {
+          "name": "Haste The Day",
+          "url": "https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w"
+        }
+      ],
+      "duration_ms": 251320,
+      "name": "When Everything Falls",
+      "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "There Can Be No Hesitation",
+      "url": "https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Caitiff Choir",
+        "url": "https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb"
+      },
+      "artists": [
+        {
+          "name": "It Dies Today",
+          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "A Threnody For Modern Romance",
+      "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "Sound Of Reason",
+      "url": "https://open.spotify.com/track/3ZSuICKIvTVftPjPRYJWI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy"
+      },
+      "artists": [
+        {
+          "name": "It Dies Today",
+          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "A Constant Reminder",
+      "url": "https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "It's Always Cold In Paris",
+      "url": "https://open.spotify.com/track/3khOEnCw1YujWr6wnpGa8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Define The Great Line",
+        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "There Could Be Nothing After This",
+      "url": "https://open.spotify.com/track/0mNq7RNDBjoTqd2XT36qUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "A Bag Of Marbles",
+      "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Death-Grip On Yesterday",
+        "url": "https://open.spotify.com/album/2S7Gg4uwg8Xh7WC4abXpAK"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/2kH4Tyy2DUT9aa55SWgjkI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 191657,
+      "name": "Separate",
+      "url": "https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apologies Are For The Weak",
+        "url": "https://open.spotify.com/album/4gWkQbpz5yz9hwOxwlgUhn"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "A Dance With Aera Cura",
+      "url": "https://open.spotify.com/track/0cUIcfGHuMJ12wfEDJdWes"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "A Pathetic Psalm",
+      "url": "https://open.spotify.com/track/2tkXYoeNoONdzfrnpAwvHS"
     },
     {
       "added_at": null,
@@ -340,41 +596,9 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 232400,
-      "name": "Mr. And Mrs. Cuckoldom",
-      "url": "https://open.spotify.com/track/7D8tKBeAkBqkFRV27VJpzH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy"
-      },
-      "artists": [
-        {
-          "name": "It Dies Today",
-          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "A Port In Any Storm",
-      "url": "https://open.spotify.com/track/46Zdq2HrcAtolMCkXUwsEu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 255306,
-      "name": "Pallbearer",
-      "url": "https://open.spotify.com/track/38o6tLdT4SbO9Gwo4RxDTd"
+      "duration_ms": 225573,
+      "name": "On Falling Leaf",
+      "url": "https://open.spotify.com/track/62KMuaXbunEcJzy7hCUthZ"
     },
     {
       "added_at": null,
@@ -395,102 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 77973,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Son Of The Morning",
-        "url": "https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ"
-      },
-      "artists": [
-        {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "World Without A Sun",
-      "url": "https://open.spotify.com/track/6lXmSzGnZelDfUR7euqv2C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "There Can Be No Hesitation",
-      "url": "https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Messengers",
-        "url": "https://open.spotify.com/album/126EKQMA14uV6nfRBbRYNB"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "Truth of a Liar",
-      "url": "https://open.spotify.com/track/6dFnYSNPNIq5l0zXf229dT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "Sound Of Reason",
-      "url": "https://open.spotify.com/track/3ZSuICKIvTVftPjPRYJWI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "These Are My Sins",
-        "url": "https://open.spotify.com/album/167ImjiVFURccdm0bTO2n4"
-      },
-      "artists": [
-        {
-          "name": "I The Breather",
-          "url": "https://open.spotify.com/artist/6OpFzG0Srh37pwJUdwsETa"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "Forgiven",
-      "url": "https://open.spotify.com/track/4nbeXuTY1V2snvucs5AZaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I, Lucifer",
         "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
       },
@@ -500,25 +628,25 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 156706,
-      "name": "It's Always Cold In Paris",
-      "url": "https://open.spotify.com/track/3khOEnCw1YujWr6wnpGa8p"
+      "duration_ms": 200063,
+      "name": "Luxuria",
+      "url": "https://open.spotify.com/track/0YE7IaIa9D2U0PVBG2R7nE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/7cBh2zJkvF9koovCMKxGUh"
+        "name": "Beloved (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28B5fkCs91LYxB61sBHCHV"
       },
       "artists": [
         {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+          "name": "I Killed The Prom Queen",
+          "url": "https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei"
         }
       ],
-      "duration_ms": 191625,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/3hBP0Uuu2b1gq5H8RzdO5S"
+      "duration_ms": 205006,
+      "name": "Thirty One & Sevens",
+      "url": "https://open.spotify.com/track/36AheSgFmpF0Chue69lh7J"
     },
     {
       "added_at": null,
@@ -539,40 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son Of The Morning",
-        "url": "https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ"
-      },
-      "artists": [
-        {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "The New Breed",
-      "url": "https://open.spotify.com/track/6XduH1ZBD6sQUB9inVjulh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "A Bag Of Marbles",
-      "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy"
+        "name": "The Caitiff Choir",
+        "url": "https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb"
       },
       "artists": [
         {
@@ -580,105 +676,9 @@
           "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
         }
       ],
-      "duration_ms": 211146,
-      "name": "A Constant Reminder",
-      "url": "https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "Separate",
-      "url": "https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost In The Sound Of Separation",
-        "url": "https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Desperate Times, Desperate Measures",
-      "url": "https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "A Pathetic Psalm",
-      "url": "https://open.spotify.com/track/2tkXYoeNoONdzfrnpAwvHS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haunt What's Left",
-        "url": "https://open.spotify.com/album/6U7EVwixbRMZ6CVu4B10S2"
-      },
-      "artists": [
-        {
-          "name": "This Or The Apocalypse",
-          "url": "https://open.spotify.com/artist/3V5HSi5V8ivCbmIkQUW5nO"
-        }
-      ],
-      "duration_ms": 270026,
-      "name": "Subverse",
-      "url": "https://open.spotify.com/track/0TCO8TeKZIwNE5RVxO44BH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "On Falling Leaf",
-      "url": "https://open.spotify.com/track/62KMuaXbunEcJzy7hCUthZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA"
-      },
-      "artists": [
-        {
-          "name": "Adestria",
-          "url": "https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Compromised",
-      "url": "https://open.spotify.com/track/62bn0wrhmzWQzsBLQNGlwp"
+      "duration_ms": 182080,
+      "name": "Severed Ties Yield Severed Heads",
+      "url": "https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m"
     },
     {
       "added_at": null,
@@ -699,50 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hymn of a Broken Man",
-        "url": "https://open.spotify.com/album/0Fgm0GE1K43soqeminCy4R"
+        "name": "Son Of The Morning",
+        "url": "https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ"
       },
       "artists": [
         {
-          "name": "Times Of Grace",
-          "url": "https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC"
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
         }
       ],
-      "duration_ms": 273186,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/1ziXjK2iZD3C4KShIJtQVF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 200063,
-      "name": "Luxuria",
-      "url": "https://open.spotify.com/track/0YE7IaIa9D2U0PVBG2R7nE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Messengers",
-        "url": "https://open.spotify.com/album/126EKQMA14uV6nfRBbRYNB"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 245840,
-      "name": "The Eleventh Hour",
-      "url": "https://open.spotify.com/track/0yXbZrzBQYi5jygezSvXAe"
+      "duration_ms": 145813,
+      "name": "World Without A Sun",
+      "url": "https://open.spotify.com/track/6lXmSzGnZelDfUR7euqv2C"
     },
     {
       "added_at": null,
@@ -763,18 +731,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Via",
-        "url": "https://open.spotify.com/album/03h5LC9uqi1XMpKgWYl6Hy"
+        "name": "Matriarch",
+        "url": "https://open.spotify.com/album/7Jmux2NJCZLt2vRv3KztiT"
       },
       "artists": [
         {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+          "name": "Veil Of Maya",
+          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
         }
       ],
-      "duration_ms": 323271,
-      "name": "Intake",
-      "url": "https://open.spotify.com/track/0eRh3xlZzB7m4fWZ8e1dDq"
+      "duration_ms": 183818,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/2AhorjdW10KzoqUTGEWeck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 77973,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond the Gates",
+        "url": "https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP"
+      },
+      "artists": [
+        {
+          "name": "For All Eternity",
+          "url": "https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Vacant Room",
+      "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
     },
     {
       "added_at": null,
@@ -795,18 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Caitiff Choir",
-        "url": "https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb"
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/7cBh2zJkvF9koovCMKxGUh"
       },
       "artists": [
         {
-          "name": "It Dies Today",
-          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
         }
       ],
-      "duration_ms": 210893,
-      "name": "A Threnody For Modern Romance",
-      "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
+      "duration_ms": 191625,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/3hBP0Uuu2b1gq5H8RzdO5S"
     }
   ],
   "unique_name": "Destroy The Runner Mix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,073 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,081 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 43 | [Red Dirt Romeo](https://open.spotify.com/track/3XqmFDMszpOQ6fh2YssOEo) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Red Dirt Romeo](https://open.spotify.com/album/4efAnZiWIGbf6sklc5JQ2R) | 3:45 |
 | 44 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 |
 | 45 | [How Will I Know](https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [How Will I Know](https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0) | 3:17 |
-| 46 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
-| 47 | [Above Me](https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf) | 3:34 |
+| 46 | [Above Me](https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf) | 3:34 |
+| 47 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
 | 48 | [Best Behaviour](https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Best Behaviour](https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ) | 3:16 |
 | 49 | [Bashville on the Sugar](https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bashville on the Sugar](https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz) | 4:05 |
 | 50 | [Moonglade](https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Moonglade](https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB) | 4:34 |
@@ -70,17 +70,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 60 | [One More Chance \(feat\. Savage\)](https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [One More Chance \(feat\. Savage\)](https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS) | 3:16 |
 | 61 | [Hold Up](https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [KT Souljah](https://open.spotify.com/artist/3gVTOFVt8i5LxsSYOqtpRG) | [Hold Up](https://open.spotify.com/album/0L14Tbk7Bb6W8KFCfXUq4h) | 2:56 |
 | 62 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 |
-| 63 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 |
-| 64 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
+| 63 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
+| 64 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 |
 | 65 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 66 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 |
 | 67 | [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 |
 | 68 | [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 |
-| 69 | [lose her](https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [kissing under an \(almost\) full moon](https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ) | 4:10 |
-| 70 | [Tief Im Wald](https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Tief Im Wald](https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy) | 3:38 |
+| 69 | [Tief Im Wald](https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Tief Im Wald](https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy) | 3:38 |
+| 70 | [lose her](https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [kissing under an \(almost\) full moon](https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ) | 4:10 |
 | 71 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 |
-| 72 | [FEEL GOOD AURA](https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Romi Wrights](https://open.spotify.com/artist/0NW11rIYIi5R9bTax6kv9J) | [FEEL GOOD AURA](https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz) | 3:28 |
-| 73 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
+| 72 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
+| 73 | [FEEL GOOD AURA](https://open.spotify.com/track/2i43SUgkp5g1W5rze9awuF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Romi Wrights](https://open.spotify.com/artist/0NW11rIYIi5R9bTax6kv9J) | [FEEL GOOD AURA](https://open.spotify.com/album/3T6oSRejjNgNcuoq4vd0nz) | 3:28 |
 | 74 | [Cookie](https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Skeletons](https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV) | 3:57 |
 | 75 | [The Eyes](https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [The Eyes](https://open.spotify.com/album/5vs2sQgZRYm2QPWO7NWs27) | 3:17 |
 

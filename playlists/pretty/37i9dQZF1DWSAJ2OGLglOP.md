@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,115 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,125 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 3 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 |
 | 4 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
 | 5 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 |
-| 6 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
+| 6 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
 | 7 | [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 |
-| 8 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
+| 8 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 9 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
 | 10 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 11 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 47 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 48 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 49 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 |
-| 50 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 |
+| 50 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 
 Snapshot ID: `aF5NOwAAAACJAtk30IIdCa2YzkEv6rNU`

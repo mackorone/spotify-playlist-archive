@@ -8923,6 +8923,36 @@
     },
     {
       "album": {
+        "name": "Franchement !",
+        "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155189,
+      "name": "Charger",
+      "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
+    },
+    {
+      "album": {
         "name": "Carr\u00e9",
         "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
       },
@@ -15342,7 +15372,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH"
@@ -15360,7 +15390,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -33354,7 +33384,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 130699,
       "name": "PAY!",
       "url": "https://open.spotify.com/track/4w1If4bKokGKGMGxfxRE8j"
@@ -43088,7 +43118,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 173445,
       "name": "TOUCH\u00c9",
       "url": "https://open.spotify.com/track/35M3SV65wTPKwFbgVKFfyE"
@@ -45520,7 +45550,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 183013,
       "name": "Vrais",
       "url": "https://open.spotify.com/track/6WfnzeciIa1Ta661GY9hue"

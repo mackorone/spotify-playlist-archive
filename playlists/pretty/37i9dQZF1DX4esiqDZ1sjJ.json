@@ -1,6 +1,6 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 385571,
+  "num_followers": 385581,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "Hands On The Wheel",
+        "url": "https://open.spotify.com/album/1C1mvUxPYGzTqVpXu6vOLf"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Hands On The Wheel",
+      "url": "https://open.spotify.com/track/2kfpH2OAAdpk5J3JaraAIh"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Narco",
         "url": "https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK"
       },
@@ -1267,22 +1287,18 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Hands On The Wheel",
-        "url": "https://open.spotify.com/album/1C1mvUxPYGzTqVpXu6vOLf"
+        "name": "The Sickness (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
       },
       "artists": [
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Hands On The Wheel",
-      "url": "https://open.spotify.com/track/2kfpH2OAAdpk5J3JaraAIh"
+      "duration_ms": 278706,
+      "name": "Down with the Sickness",
+      "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -1303,22 +1319,6 @@
       "duration_ms": 205120,
       "name": "Knuck If You Buck (feat. Lil' Scrappy)",
       "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "The Sickness (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "Down with the Sickness",
-      "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
     }
   ],
   "unique_name": "Jock Jams",

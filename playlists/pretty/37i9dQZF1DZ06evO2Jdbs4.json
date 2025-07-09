@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29753,
+  "num_followers": 29760,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACoOzX/0/8d1roNiieRQZxR",
+  "snapshot_id": "aGsOAAAAAAD4Ibbzqfj+jLmbiw45DsGs",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 237826,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Sergio El Bailador - En Vivo",
-      "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Sergio El Bailador - En Vivo",
+      "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 189933,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
     },
     {
       "added_at": null,
@@ -943,18 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contra El Tiempo (En Vivo)",
-        "url": "https://open.spotify.com/album/0wpA6OJp9b0PycfxfSqcBQ"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Luis Padilla",
+          "url": "https://open.spotify.com/artist/02lRteeUjXQmfEppmNO7pV"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Contra El Tiempo - En Vivo",
-      "url": "https://open.spotify.com/track/4ngBpSBbgLDopT16rgOvOY"
+      "duration_ms": 230722,
+      "name": "Cosas Del Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2qI8I5XpG5sjhjzlxsp06j"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

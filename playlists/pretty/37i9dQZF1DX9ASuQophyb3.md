@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: EDIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,516,293 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516,649 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
-| 2 | [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 |
+| 2 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
 | 3 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 |
-| 4 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
+| 4 | [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 |
 | 5 | [Nazar](https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Nazar](https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS) | 2:35 |
 | 6 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
 | 7 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 |
 | 50 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 |
 
-Snapshot ID: `aGbvXQAAAABMvgWerqIZ5OfDoO/skNKg`
+Snapshot ID: `aGzUSAAAAAA7RzDILR0bW4Tx8fZWCO/L`

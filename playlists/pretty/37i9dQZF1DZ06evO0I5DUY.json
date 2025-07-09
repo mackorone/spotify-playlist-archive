@@ -1,29 +1,13 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 227209,
+  "num_followers": 227270,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAxdNgdxOnJNKzDZ5Z4oPWq",
+  "snapshot_id": "aGsOAAAAAACnI2LYX2XkhNfqdW5nIE+v",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 198200,
       "name": "El Palomito",
       "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Las Tres Tumbas",
-      "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 169373,
       "name": "El Asesino",
       "url": "https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una L\u00e1grima y Un Recuerdo",
-        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 143573,
-      "name": "Tu Vida No Me Importa",
-      "url": "https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Coronas a Mi Madre",
         "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 193773,
       "name": "El Muchacho y el Potro",
       "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una L\u00e1grima y Un Recuerdo",
+        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 143573,
+      "name": "Tu Vida No Me Importa",
+      "url": "https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Mandato Divino",
-      "url": "https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspiraci\u00f3n Norte\u00f1a",
         "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Recuerdos Adios Amigo Del Alma",
-        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 140640,
-      "name": "Por Ser Tan Pobre",
-      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
+      "duration_ms": 181840,
+      "name": "Mandato Divino",
+      "url": "https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "Mis Recuerdos Adios Amigo Del Alma",
+        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 149626,
-      "name": "Que Seas Dichosa",
-      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
+      "duration_ms": 140640,
+      "name": "Por Ser Tan Pobre",
+      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 172788,
       "name": "Mi Unico Camino",
       "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Que Seas Dichosa",
+      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Tumba de Mi Madre",
+      "url": "https://open.spotify.com/track/0iEUxWcEaVZaWXh5wDo3bH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 146040,
       "name": "Llor\u00e9 a Mi Madre",
       "url": "https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Dos Amigos",
-        "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Tumba de Mi Madre",
-      "url": "https://open.spotify.com/track/0iEUxWcEaVZaWXh5wDo3bH"
     },
     {
       "added_at": null,

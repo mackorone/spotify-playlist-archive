@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1044068,
+  "num_followers": 1044817,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-07-07 07:40:58",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Jay Trak",
-          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt"
-    },
-    {
-      "added_at": "2025-07-07 07:40:58",
-      "album": {
         "name": "Sajni (From \"Laapataa Ladies\")",
         "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 170044,
       "name": "Sajni (From \"Laapataa Ladies\")",
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
+    },
+    {
+      "added_at": "2025-07-07 07:40:58",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt"
     },
     {
       "added_at": "2025-07-07 07:40:58",
@@ -959,26 +959,30 @@
     {
       "added_at": "2025-07-07 07:40:58",
       "album": {
-        "name": "Happy Bhag Jayegi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms"
+        "name": "Saiyaara (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
       },
       "artists": [
         {
-          "name": "Sohail Sen",
-          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         },
         {
-          "name": "Mudassar Aziz",
-          "url": "https://open.spotify.com/artist/4iWWK7e1vOl68fqH2FDAuc"
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
         },
         {
-          "name": "Altamash Faridi",
-          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 294751,
-      "name": "Aashiq Tera",
-      "url": "https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG"
+      "duration_ms": 370875,
+      "name": "Saiyaara (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
     },
     {
       "added_at": "2025-07-07 07:40:58",
@@ -1007,30 +1011,26 @@
     {
       "added_at": "2025-07-07 07:40:58",
       "album": {
-        "name": "Saiyaara (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
+        "name": "Happy Bhag Jayegi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms"
       },
       "artists": [
         {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
         },
         {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+          "name": "Mudassar Aziz",
+          "url": "https://open.spotify.com/artist/4iWWK7e1vOl68fqH2FDAuc"
         },
         {
-          "name": "Arslan Nizami",
-          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
         }
       ],
-      "duration_ms": 370875,
-      "name": "Saiyaara (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
+      "duration_ms": 294751,
+      "name": "Aashiq Tera",
+      "url": "https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG"
     },
     {
       "added_at": "2025-07-07 07:40:58",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2025-07-07 07:40:58",
       "album": {
+        "name": "Laila Majnu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        }
+      ],
+      "duration_ms": 281856,
+      "name": "O Meri Laila",
+      "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
+    },
+    {
+      "added_at": "2025-07-07 07:40:58",
+      "album": {
         "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
       },
@@ -1559,26 +1579,6 @@
     {
       "added_at": "2025-07-07 07:40:58",
       "album": {
-        "name": "Laila Majnu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        },
-        {
-          "name": "Jyotica Tangri",
-          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
-        }
-      ],
-      "duration_ms": 281856,
-      "name": "O Meri Laila",
-      "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
-    },
-    {
-      "added_at": "2025-07-07 07:40:58",
-      "album": {
         "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
         "url": "https://open.spotify.com/album/7FiRTB1EBLdaarSWkxjvqC"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-07-07 07:40:58",
       "album": {
-        "name": "MVP",
-        "url": "https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF"
+        "name": "Tere Bina Na Guzara E",
+        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
       },
       "artists": [
         {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
         }
       ],
-      "duration_ms": 196897,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk"
+      "duration_ms": 220800,
+      "name": "Tere Bina Na Guzara E",
+      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
     }
   ],
   "unique_name": "Trending Now India",

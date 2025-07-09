@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,813 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,951 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 49 | [De un Rancho a Otro](https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Un Rancho A Otro](https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb) | 2:20 |
 | 50 | [El Moro de Cumpas](https://open.spotify.com/track/7y9mmxLvi8HnZVMdVgs1CS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 3:33 |
 
-Snapshot ID: `aGm8gAAAAABjY356r4dGoiaoqegtSO89`
+Snapshot ID: `aGsOAAAAAACDL6YicSXC+YgLMnAM0Qz9`

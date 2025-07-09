@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,808 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,811 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 29 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
 | 30 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
 | 31 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
-| 32 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
-| 33 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
+| 32 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
+| 33 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
 | 34 | [Aguije](https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4) | [Aguije](https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh) | 3:11 |
 | 35 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
 | 36 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 |

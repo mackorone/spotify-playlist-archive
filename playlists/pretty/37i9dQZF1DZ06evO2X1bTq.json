@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1248938,
+  "num_followers": 1249038,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAKDmuZyIMnrs7toxvyU/Hm",
+  "snapshot_id": "aGsOAAAAAAB8MLs5Pof9ahFxKFI7H+z5",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 330506,
+      "name": "Ultra Violet (Light My Way)",
+      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stories Of Surrender EP",
         "url": "https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 232758,
       "name": "Sunday Bloody Sunday - Stories Of Surrender Version",
       "url": "https://open.spotify.com/track/3galkS27ZZpCSG4TvVYotg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 330506,
-      "name": "Ultra Violet (Light My Way)",
-      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 264333,
       "name": "Kite",
       "url": "https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "You\u2019re The Best Thing About Me",
-      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zooropa",
         "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 259200,
       "name": "Numb",
       "url": "https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "You\u2019re The Best Thing About Me",
+      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
     },
     {
       "added_at": null,

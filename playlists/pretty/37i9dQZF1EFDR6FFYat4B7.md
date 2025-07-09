@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 157 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 157 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 15 | [She Loves Control](https://open.spotify.com/track/5HwnezK198pJCEj1l2Adjy) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:57 |
 | 16 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 |
 | 17 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
-| 18 | [Talking to Myself](https://open.spotify.com/track/7nAfXgeHfDO50upcOjJOaq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:51 |
-| 19 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 |
+| 18 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 |
+| 19 | [Talking to Myself](https://open.spotify.com/track/7nAfXgeHfDO50upcOjJOaq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:51 |
 | 20 | [Edge of Midnight \(Midnight Sky Remix\) \(feat\. Stevie Nicks\)](https://open.spotify.com/track/1Tip6R4swhC7E6hgILBjrE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:40 |
 | 21 | [Guys My Age](https://open.spotify.com/track/0Xm8tw6qikotb8FAOZ2ks7) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:33 |
 | 22 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 143 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
 | 144 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
 | 145 | [Reminders](https://open.spotify.com/track/1Q8JztW596FWMzoBf2V3Sj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Bouquet](https://open.spotify.com/album/50F6vOQBQF2qo1jwVTfv9J) | 3:18 |
-| 146 | [Show Me](https://open.spotify.com/track/7eBhckEcFgofknv0lR3lK7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:21 |
-| 147 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 146 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 147 | [Show Me](https://open.spotify.com/track/7eBhckEcFgofknv0lR3lK7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:21 |
 | 148 | [Yellow Roses](https://open.spotify.com/track/2yt43ADauCZ5pvjFEMWcC3) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:46 |
 | 149 | [Rattle My Heart](https://open.spotify.com/track/0MBMOIdZsqvQympkY88f2w) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:23 |
 | 150 | [Down That Road \- The Voice Performance](https://open.spotify.com/track/3sS03NvxbrVgFNZgvnR26k) | [Alisan Porter](https://open.spotify.com/artist/3Yw2flLUwQIZgpA2qSNj30) | [The Complete Season 10 Collection \(The Voice Performance\)](https://open.spotify.com/album/0zhezrgO3ZFtDAbRj0wkG2) | 3:52 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 156 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 157 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `Ab2K6AAAAAD9jtqfdtrMCGdl/T2+5yh0`
+Snapshot ID: `Ab2QfgAAAADfZAzTjS+JJr5f4vP/SCfv`

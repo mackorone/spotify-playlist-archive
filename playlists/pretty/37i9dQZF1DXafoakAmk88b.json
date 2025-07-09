@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: John Glacier",
-  "num_followers": 56622,
+  "num_followers": 56629,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-06-13 18:04:13",
       "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+    },
+    {
+      "added_at": "2025-06-13 18:04:13",
+      "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 151373,
       "name": "Even (with Cat Burns)",
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
-    },
-    {
-      "added_at": "2025-06-13 18:04:13",
-      "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2025-06-13 18:04:13",

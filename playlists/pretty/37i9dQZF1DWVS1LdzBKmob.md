@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,852 likes - 105 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,131 likes - 105 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Bossikan, RICTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,031 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,170 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

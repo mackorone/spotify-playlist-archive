@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,332 likes - 46 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,348 likes - 46 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 45 | [We Are Going to Be Friends \- Live](https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 2:24 |
 | 46 | [Jimmy the Exploder](https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:29 |
 
-Snapshot ID: `aGm8gAAAAAB3XSEQk8EK/+3pG/KVJwHd`
+Snapshot ID: `aGsOAAAAAADTWf86vVvDROF6k8Nt+6zw`

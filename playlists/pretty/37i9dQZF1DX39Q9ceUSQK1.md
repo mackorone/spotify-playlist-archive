@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Queen's Pleasure
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,214 likes - 88 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,219 likes - 88 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eva](https://open.spotify.com/track/4I1mXqJeAcCreAEP0tAKHG) | [Queen's Pleasure](https://open.spotify.com/artist/6S0O3eQiVrw78LG1z2EE4h) | [Eva](https://open.spotify.com/album/2f0rzCRR4HFFetoLsPQl0y) | 3:34 |
 | 2 | [Backseat](https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/6gz8kYsgYsH46YpWsZtGTa) | 6:23 |
-| 3 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
-| 4 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
-| 5 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |
-| 6 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
-| 7 | [Acquiesce \- Unplugged](https://open.spotify.com/track/1jL1XaOJ2MiP1TsSH4jqmO) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Acquiesce \(Unplugged\)](https://open.spotify.com/album/38AJhHFWQgALQ4ejeqfNDH) | 4:01 |
+| 3 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |
+| 4 | [Acquiesce \- Unplugged](https://open.spotify.com/track/1jL1XaOJ2MiP1TsSH4jqmO) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Acquiesce \(Unplugged\)](https://open.spotify.com/album/38AJhHFWQgALQ4ejeqfNDH) | 4:01 |
+| 5 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
+| 6 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
+| 7 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
 | 8 | [she came for a sweet time](https://open.spotify.com/track/2385kaeJicfgBSN3q7mpPR) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [she came for a sweet time](https://open.spotify.com/album/1vanujSCrZTGKwCEUOo1zY) | 4:19 |
 | 9 | [Tangled Wiring](https://open.spotify.com/track/2k3bnwFnaXgMTsltf0u60d) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [Tangled Wiring](https://open.spotify.com/album/0Kz2j63vSKI3AiNaUHh11T) | 2:40 |
 | 10 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 87 | [That Ass!](https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [That Ass!](https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B) | 2:17 |
 | 88 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
 
-Snapshot ID: `aGeeyQAAAACCueOYGHExh/3mA8Swxnow`
+Snapshot ID: `aGzquwAAAABbePdHoTlXPUEWj3xaoymc`

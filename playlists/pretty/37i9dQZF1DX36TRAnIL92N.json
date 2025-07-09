@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 425787,
+  "num_followers": 426011,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Chaos - Rave Mix",
+      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
+    },
+    {
+      "added_at": "2025-06-06 04:00:05",
+      "album": {
         "name": "YKSI",
         "url": "https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 233059,
       "name": "YKSI",
       "url": "https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg"
-    },
-    {
-      "added_at": "2025-06-06 04:00:05",
-      "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
-      },
-      "artists": [
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Chaos - Rave Mix",
-      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
     },
     {
       "added_at": "2025-06-06 04:00:05",

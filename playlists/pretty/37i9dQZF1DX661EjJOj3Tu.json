@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Chucho Vald\u00e9s",
-  "num_followers": 518613,
+  "num_followers": 518593,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "El Manisero",
-        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Orquesta Sabor De Cuba",
-          "url": "https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "El Manisero - Mambo Son",
-      "url": "https://open.spotify.com/track/00MvNfAAC4O5pSvAZPDnGc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Tocororo",
         "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 194706,
       "name": "Ay, Mam\u00e1 In\u00e9s",
       "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "El Manisero",
+        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Orquesta Sabor De Cuba",
+          "url": "https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "El Manisero - Mambo Son",
+      "url": "https://open.spotify.com/track/00MvNfAAC4O5pSvAZPDnGc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -987,46 +987,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 321420,
-      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        },
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 251445,
-      "name": "Kachucha",
-      "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Caetano Veloso & Ivan Sacerdote",
         "url": "https://open.spotify.com/album/4B4iz6pBrcnxVBZRdEx4QP"
       },
@@ -1051,6 +1011,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 321420,
+      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 477496,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Yesun",
+        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        },
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 251445,
+      "name": "Kachucha",
+      "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
         "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 353320,
       "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
       "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Pedrito Martinez Group",
-        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        }
-      ],
-      "duration_ms": 352779,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
@@ -1263,18 +1243,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+        "name": "The Pedrito Martinez Group",
+        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
       },
       "artists": [
         {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
         }
       ],
-      "duration_ms": 432026,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
+      "duration_ms": 352779,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1299,8 +1283,24 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "cuarto de colores",
-        "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 432026,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Sonrisas",
-      "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
+      "duration_ms": 263515,
+      "name": "Agua Fresca",
+      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1427,8 +1427,8 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+        "name": "cuarto de colores",
+        "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
       },
       "artists": [
         {
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
         }
       ],
-      "duration_ms": 263515,
-      "name": "Agua Fresca",
-      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
+      "duration_ms": 199026,
+      "name": "Sonrisas",
+      "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 293020,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 407832,
       "name": "Don't Like Goodbyes - Bonus Track",
       "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 293020,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 344606,
-      "name": "Guarajazz",
-      "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "El Grito - Suite para Orquesta de Jazz",
         "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 198783,
       "name": "JazzT\u00f3n",
       "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 344606,
+      "name": "Guarajazz",
+      "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/00oidtJOyyPgGHrw0CI034"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Big Band Urban Folktales",
         "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 355668,
       "name": "Madiba",
       "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/00oidtJOyyPgGHrw0CI034"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
-      },
-      "artists": [
-        {
-          "name": "Ray Mantilla",
-          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Martinez",
-      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Te Escucho",
         "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 230550,
       "name": "Te Escucho",
       "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
+      },
+      "artists": [
+        {
+          "name": "Ray Mantilla",
+          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Martinez",
+      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
     }
   ],
   "unique_name": "Latin Jazz",

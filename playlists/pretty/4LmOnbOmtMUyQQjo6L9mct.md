@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LmOnbOmtMUyQQjo6L9mct.md) - [plain]
 
 > Enjoy the sweet rhythms of bossa nova \- the perfect marriage of samba and jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,108 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,104 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/4LmOnbOmtMUyQQjo6L9mct.md) - [plain]
 | 22 | [Tim\-Tim\-Por\-Tim\-Tim](https://open.spotify.com/track/4KDhYE59IceF0kklPXyVQI) | [Os Cariocas](https://open.spotify.com/artist/1FbL4RGqW5gvZ2kZNGdfpA) | [Pure Bossa Nova](https://open.spotify.com/album/5AsuWDxKPYXmLOIm5KeOqX) | 2:23 |
 | 23 | [The Boy From Ipanema](https://open.spotify.com/track/0Ug9LJTND5pegxb70A0rb0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 4:52 |
 | 24 | [Slightly Out Of Tune \(Desafinado\)](https://open.spotify.com/track/04c0qM2oSmfGYEufFBytj1) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Very Best Of Julie London](https://open.spotify.com/album/2KpxHciuO5Zwd31c4cpKqk) | 2:04 |
-| 25 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
+| 25 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
 | 26 | [Chega De Saudade](https://open.spotify.com/track/73UE3tGwdKdU0bEnyuJJ2l) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Vinicius de Moraes Songbook Vol\. 1](https://open.spotify.com/album/0Ntbl2C9lkRx0IVqR2e3sn) | 4:02 |
 | 27 | [Lá Vem a Baiana](https://open.spotify.com/track/2OcfnaS3z0la3C05B2f1GL) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/7Bb308nsxWjgOyY18ghys7) | 4:02 |
 | 28 | [Águas De Março](https://open.spotify.com/track/4P9HLmNcE6dUUvsPUvl3gs) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Antonio Carlos Jobim \- Brasileiro](https://open.spotify.com/album/76LXqyk5qDEXyeT2uzagX7) | 3:32 |

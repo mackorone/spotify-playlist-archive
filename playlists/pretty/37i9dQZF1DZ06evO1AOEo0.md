@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,792 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,798 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 42 | [Psalm 90 \(Satisfy Us with Your Love\)](https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:15 |
 | 43 | [Come Unto Jesus](https://open.spotify.com/track/12tLwuXI2xjAwBbN2DwOQg) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Modern Hymns](https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1) | 4:00 |
 | 44 | [Come As You Are](https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:35 |
-| 45 | [Be Thou My Vision \(Lord You Are\) \[Acoustic\]](https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:13 |
+| 45 | [O Come to the Altar](https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:40 |
 | 46 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 |
 | 47 | [God of Every Grace](https://open.spotify.com/track/6qcLnUhXzgGqSY9cCJrgbs) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc) | [Modern Hymns](https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1) | 5:17 |
-| 48 | [O Come to the Altar](https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:40 |
+| 48 | [Be Thou My Vision \(Lord You Are\) \[Acoustic\]](https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:13 |
 | 49 | [Great I Am](https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:21 |
 | 50 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 |
 
-Snapshot ID: `aGm8gAAAAAAfWK9wsHWgMaL35ZceXisZ`
+Snapshot ID: `aGsOAAAAAAAqo1YYtDDp6bO7bdlheJzm`

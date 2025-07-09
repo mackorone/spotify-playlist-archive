@@ -1,6 +1,6 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Travis Scott",
-  "num_followers": 500159,
+  "num_followers": 500174,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,26 @@
     {
       "added_at": "2025-07-02 21:15:51",
       "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "added_at": "2025-07-02 21:15:51",
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 264334,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
-    },
-    {
-      "added_at": "2025-07-02 21:15:51",
-      "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
     },
     {
       "added_at": "2025-07-02 21:15:51",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-07-02 21:15:51",
       "album": {
-        "name": "Fall Back / Selfish Game",
-        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
-    },
-    {
-      "added_at": "2025-07-02 21:15:51",
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "added_at": "2025-07-02 21:15:51",
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
       "added_at": "2025-07-02 21:15:51",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2025-07-02 21:15:51",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2025-07-02 21:15:51",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2025-07-02 21:15:51",
       "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "added_at": "2025-07-02 21:15:51",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2025-07-02 21:15:51",
       "album": {
+        "name": "Motley Crew",
+        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Motley Crew",
+      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2025-07-02 21:15:51",
+      "album": {
         "name": "Plain Jane REMIX (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 202636,
       "name": "Plain Jane REMIX (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
-    },
-    {
-      "added_at": "2025-07-02 21:15:51",
-      "album": {
-        "name": "Motley Crew",
-        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Motley Crew",
-      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
     },
     {
       "added_at": "2025-07-02 21:15:51",

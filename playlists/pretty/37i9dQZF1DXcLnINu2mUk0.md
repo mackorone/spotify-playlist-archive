@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Plutonio
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,155 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,185 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 68 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 69 | [Volta à Cabeça](https://open.spotify.com/track/2NEBYP6Vu29Ry96OuxOhs4) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino da Mamã](https://open.spotify.com/album/1nL4jNVtHWn1XAIxqqWKVN) | 3:06 |
 | 70 | [Beijo Teu](https://open.spotify.com/track/5zHX2uGzE8lPOPvkpcrF5D) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beijo Teu](https://open.spotify.com/album/6Jc4gFjWVwjtDxFKH5vhOT) | 3:41 |
-| 71 | [Abraço Mudo](https://open.spotify.com/track/6s0ygOgYNkTFjYxbb6tA6n) | [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Abraço Mudo](https://open.spotify.com/album/6N7nGVIuzgLBgtQfL4F7nF) | 2:23 |
-| 72 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
+| 71 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
+| 72 | [Abraço Mudo](https://open.spotify.com/track/6s0ygOgYNkTFjYxbb6tA6n) | [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Abraço Mudo](https://open.spotify.com/album/6N7nGVIuzgLBgtQfL4F7nF) | 2:23 |
 | 73 | [Rico](https://open.spotify.com/track/2v8HWzaIKCOlKuctXLZY7T) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Rico](https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu) | 2:33 |
 | 74 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 75 | [Só Pra Mim](https://open.spotify.com/track/086BFApQhJolDewBka9jit) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Só Pra Mim](https://open.spotify.com/album/4dc0uwZofhKRr0zfVHWXl4) | 3:06 |

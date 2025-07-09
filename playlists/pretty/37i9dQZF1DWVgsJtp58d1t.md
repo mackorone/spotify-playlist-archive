@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Click into the feed to learn about what's going on in the world of Afro House\. Cover: <a href="spotify:artist:0WHbjg8hVel1R9kq5794HX">Shimza</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,202 likes - 130 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,139 likes - 130 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 16 | [ain’t the one](https://open.spotify.com/track/5kYdNOcO3M0gVQ3MNCq2zh) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [no service](https://open.spotify.com/album/1UKK69dkl1m29OhETYyfcv) | 2:14 |
 | 17 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 |
 | 18 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
-| 19 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 19 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 20 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 |
 | 21 | [Get To It](https://open.spotify.com/track/3oVaB0zGYE4caqSm3X9rKq) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [Get To It](https://open.spotify.com/album/0VJrt8JBZWfvBgVRP8Jedn) | 2:28 |
 | 22 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |

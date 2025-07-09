@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Airhead",
+        "url": "https://open.spotify.com/album/4gqp7YLAsnBCcnLoEjYx6e"
+      },
+      "artists": [
+        {
+          "name": "Mad Circuit",
+          "url": "https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198636,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/38TKtVZBGq2ayVSGPk94a9"
+    },
+    {
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -6327,6 +6345,24 @@
     },
     {
       "album": {
+        "name": "Hey There Baby!",
+        "url": "https://open.spotify.com/album/3ZmPviYlELkxVqUKM22JFW"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179933,
+      "name": "Hey There Baby!",
+      "url": "https://open.spotify.com/track/0E4cjsECPfCOJVBSsovrEl"
+    },
+    {
+      "album": {
         "name": "hideaway",
         "url": "https://open.spotify.com/album/12uNWdcJzPp11fIv4ZpTIw"
       },
@@ -7968,7 +8004,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 178469,
       "name": "It Must Have Been Love - Acoustic",
       "url": "https://open.spotify.com/track/0LHH8yZ1MrTFvXDfVIAXps"
@@ -15604,7 +15640,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 204586,
       "name": "Unsteady - Erich Lee Gravity Remix",
       "url": "https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN"

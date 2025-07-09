@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Yan Block, Rainao, Slow Jamz
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,497 likes - 61 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,314 likes - 61 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

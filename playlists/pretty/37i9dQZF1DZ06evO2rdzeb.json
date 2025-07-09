@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 16154,
+  "num_followers": 16175,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABtypvaZDzqT3aHW/H+Tj+n",
+  "snapshot_id": "aGsOAAAAAABDHxvnen9Y3MKKzeNUM/Gs",
   "tracks": [
     {
       "added_at": null,
@@ -331,18 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 229133,
-      "name": "symbol",
-      "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
+      "duration_ms": 188666,
+      "name": "A Better Time to Meet",
+      "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
     },
     {
       "added_at": null,
@@ -363,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 188666,
-      "name": "A Better Time to Meet",
-      "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
+      "duration_ms": 229133,
+      "name": "symbol",
+      "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
     },
     {
       "added_at": null,

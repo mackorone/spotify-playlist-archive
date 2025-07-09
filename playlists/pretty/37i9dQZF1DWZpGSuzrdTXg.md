@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,400 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,398 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY) | 3:40 |
-| 2 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
-| 3 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 |
+| 1 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
+| 2 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 |
+| 3 | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY) | 3:40 |
 | 4 | [One Day \- Piano Version](https://open.spotify.com/track/49rZnIxw8WcMy8NGv99M71) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day \(Piano Version\)](https://open.spotify.com/album/5Y16vhEmM5BLd7GDaMT4iV) | 4:02 |
 | 5 | [Just As I Remember](https://open.spotify.com/track/3s6R5jk43ny98ruPcs8CFk) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 2:18 |
 | 6 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
 | 100 | [Heavy](https://open.spotify.com/track/3D84aC9RWEI1S6SgnKMUBe) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Heavy](https://open.spotify.com/album/4BTcDzYMWrRP5V4LPffX9d) | 3:48 |
 
-Snapshot ID: `aEIThAAAAABxgedaNUth76uaw9Jkm2h6`
+Snapshot ID: `aGz5lwAAAACwenLTJ7XChQDxA3StbWFk`

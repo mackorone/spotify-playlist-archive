@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 53400,
+  "num_followers": 53401,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
         "name": "no one else",
         "url": "https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 138000,
       "name": "no one else",
       "url": "https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -199,8 +199,8 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
-        "name": "Somnolent Nova",
-        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
+        "name": "Chroma Velocity",
+        "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Somnolent Nova",
-      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
+      "duration_ms": 158117,
+      "name": "Human Related Accident",
+      "url": "https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 132274,
+      "name": "The Perks of Being a Wallflower",
+      "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
         "name": "re: Sound Of Light",
         "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
       },
@@ -267,24 +283,8 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 132274,
-      "name": "The Perks of Being a Wallflower",
-      "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
-        "name": "Chroma Velocity",
-        "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
+        "name": "Somnolent Nova",
+        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
       },
       "artists": [
         {
@@ -292,29 +292,9 @@
           "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Human Related Accident",
-      "url": "https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
-        "name": "Greens",
-        "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
-      },
-      "artists": [
-        {
-          "name": "Shopan",
-          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
-        },
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 250212,
-      "name": "Greens",
-      "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
+      "duration_ms": 183157,
+      "name": "Somnolent Nova",
+      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -335,6 +315,26 @@
       "duration_ms": 154520,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
+        "name": "Greens",
+        "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
+      },
+      "artists": [
+        {
+          "name": "Shopan",
+          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
+        },
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 250212,
+      "name": "Greens",
+      "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
-      },
-      "artists": [
-        {
-          "name": "\u6cd5\u658eBeats",
-          "url": "https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia"
-        }
-      ],
-      "duration_ms": 172833,
-      "name": "Reminisce",
-      "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
         "name": "qutie",
         "url": "https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 149333,
       "name": "qutie",
       "url": "https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
+      },
+      "artists": [
+        {
+          "name": "\u6cd5\u658eBeats",
+          "url": "https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia"
+        }
+      ],
+      "duration_ms": 172833,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -907,6 +907,26 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
-      },
-      "artists": [
-        {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -987,8 +987,8 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+        "name": "Higashi no Sora",
+        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
       },
       "artists": [
         {
@@ -996,9 +996,25 @@
           "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+      "duration_ms": 175774,
+      "name": "Higashi no Sora",
+      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
+        "name": "rias",
+        "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 283170,
+      "name": "rias",
+      "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
-        "name": "rias",
-        "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 283170,
-      "name": "rias",
-      "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
         "name": "Husigina Ki",
         "url": "https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl"
       },
@@ -1055,6 +1055,38 @@
       "duration_ms": 160800,
       "name": "Husigina Ki",
       "url": "https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
+        "name": "Sushi In Tokyo",
+        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
+      },
+      "artists": [
+        {
+          "name": "DVNA",
+          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Sushi In Tokyo",
+      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -1079,34 +1111,18 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
-        "name": "Higashi no Sora",
-        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 175774,
-      "name": "Higashi no Sora",
-      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
-        "name": "Sushi In Tokyo",
-        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
-      },
-      "artists": [
-        {
-          "name": "DVNA",
-          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Sushi In Tokyo",
-      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -1123,22 +1139,6 @@
       "duration_ms": 274131,
       "name": "Nights in Ikebukuro",
       "url": "https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
-        "name": "Blue Notes",
-        "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
-      },
-      "artists": [
-        {
-          "name": "Sol Rising",
-          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
-        },
-        {
-          "name": "Max Ribner",
-          "url": "https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY"
-        }
-      ],
-      "duration_ms": 198369,
-      "name": "Blue Notes",
-      "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 231500,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
+        "name": "Blue Notes",
+        "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        },
+        {
+          "name": "Max Ribner",
+          "url": "https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY"
+        }
+      ],
+      "duration_ms": 198369,
+      "name": "Blue Notes",
+      "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
     },
     {
       "added_at": "2025-06-25 02:45:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-06-25 02:45:40",
       "album": {
-        "name": "Dragon Collection",
-        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
-      },
-      "artists": [
-        {
-          "name": "Four Face",
-          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Dragon Collection",
-      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
-    },
-    {
-      "added_at": "2025-06-25 02:45:40",
-      "album": {
         "name": "Snow Magic",
         "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 182684,
       "name": "Snow Magic",
       "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
+    },
+    {
+      "added_at": "2025-06-25 02:45:40",
+      "album": {
+        "name": "Dragon Collection",
+        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
+      },
+      "artists": [
+        {
+          "name": "Four Face",
+          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Dragon Collection",
+      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
     },
     {
       "added_at": "2025-06-25 02:45:40",

@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 160000,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/4AyYtj639eTCj84hyaee28"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 197252,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 203250,
       "name": "breath V - f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/6UpMdnOJG0xOgzwwKhlhzU"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 160783,
       "name": "Circuits",
       "url": "https://open.spotify.com/track/5BdEWN641x678b5G91K2MM"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 135617,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/2qIW959qt0als3uu3gtjwB"
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 163847,
       "name": "Journey with Me",
       "url": "https://open.spotify.com/track/217fUTKhzHfevNxcCoAXti"
@@ -3492,7 +3492,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 231000,
       "name": "Majestic",
       "url": "https://open.spotify.com/track/12ooNhX345euVylX3PLe8f"
@@ -4576,7 +4576,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 120636,
       "name": "Pragmatique",
       "url": "https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M"
@@ -4742,7 +4742,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 194000,
       "name": "Rearview Mirror",
       "url": "https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7"
@@ -6305,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "Terra Rising",
+        "url": "https://open.spotify.com/album/5TLR2kYeCbKcJDQ69xxrIb"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral Odyssey",
+          "url": "https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Terra Rising",
+      "url": "https://open.spotify.com/track/0o7sCb9knktXCpVDRsEWv3"
+    },
+    {
+      "album": {
         "name": "Thaka",
         "url": "https://open.spotify.com/album/3szjMZXhGRW2MS4jVZ0ORx"
       },
@@ -6316,7 +6334,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 200956,
       "name": "Thaka",
       "url": "https://open.spotify.com/track/6pJ0Pp4wUKqtxU1E5Ssf5j"
@@ -6334,7 +6352,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 175500,
       "name": "The Butterfly Effect",
       "url": "https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q"

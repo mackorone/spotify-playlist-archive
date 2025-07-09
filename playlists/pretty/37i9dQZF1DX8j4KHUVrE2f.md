@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 
 > Take a trip down memory lane with these noughties classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,338 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,380 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 72 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 73 | [LDN](https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:10 |
 | 74 | [If You're Not The One](https://open.spotify.com/track/7HhKuJbtiNbZsEDLNQvOnH) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Gotta Get Thru This](https://open.spotify.com/album/6d5bzbzrZzXrB6BP6MMSeL) | 4:17 |
-| 75 | [One Love](https://open.spotify.com/track/2W5acFzXf5FrktecuD30Or) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [One Love](https://open.spotify.com/album/7hleBoZbfZyL2umi4JzxCL) | 3:27 |
+| 75 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 |
 | 76 | [Supreme](https://open.spotify.com/track/7rQiW2mJDbP77h2RLlASTw) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 4:18 |
-| 77 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 |
+| 77 | [One Love](https://open.spotify.com/track/2W5acFzXf5FrktecuD30Or) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [One Love](https://open.spotify.com/album/7hleBoZbfZyL2umi4JzxCL) | 3:27 |
 | 78 | [Fight For This Love](https://open.spotify.com/track/33IQnmtJYjCcrvUUMQgi80) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [3 Words](https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG) | 3:43 |
 | 79 | [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 |
 | 80 | [Irreplaceable](https://open.spotify.com/track/3qim3nNFg4aSTLZDLAFXhx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp) | 3:47 |

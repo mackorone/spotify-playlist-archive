@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 
 > Songs to skate to, curated by Jagger Eaton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,490 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,534 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

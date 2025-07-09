@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: BABYMONSTER\)
 
-681 songs - 1 day 11 hr 30 min
+682 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Fact Check](https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 | 2023-10-06 | 2024-01-06 |
 | [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 | 2023-12-08 | 2024-04-02 |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 | 2023-03-03 |
+| [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 | 2025-07-08 |  |
 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 | 2024-03-15 | 2024-05-14 |
 | [Fast Forward](https://open.spotify.com/track/4EsqgOzLn45dCHIDIhtg6W) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7BAwtfjDEyG6l2nFlNkkLy) | 2:40 | 2023-08-07 | 2023-08-11 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-07 | 2024-02-20 |
@@ -617,7 +618,7 @@
 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 | 2022-01-05 | 2022-01-28 |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-11-28 | 2024-06-15 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-15 | 2022-12-14 |
-| [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-25 |  |
+| [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-25 | 2025-07-09 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 | 2023-11-28 |
 | [Touch](https://open.spotify.com/track/0QUDmGJaoWf97QIMTG8Lnn) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 8th Mini Album 'DRIFT'](https://open.spotify.com/album/20n7NJgj2ZOi1YJ85KEkhq) | 3:06 | 2025-07-03 |  |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-09 | 2025-03-22 |

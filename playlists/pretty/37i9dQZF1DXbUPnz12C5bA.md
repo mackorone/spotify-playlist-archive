@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,837 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,901 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 34 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
 | 35 | [Nunca Niegues Que Te Amo \- Sinfónica Version](https://open.spotify.com/track/17AkBvet5coEgtfnTYcMgF) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Bendito Vallenato](https://open.spotify.com/album/1N2jQb3iusmjsdoCLSazoZ) | 4:41 |
 | 36 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
-| 37 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 |
-| 38 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 |
+| 37 | [Sirena Encantadora](https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 5:10 |
+| 38 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 |
 | 39 | [Los Caminos De La Vida](https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:35 |
 | 40 | [Ajena \- En Vivo Version](https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Los 3 Amigos](https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof) | 4:56 |
 | 41 | [Quiero Saber de Ti](https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk) | 4:57 |
-| 42 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
-| 43 | [Sirena Encantadora](https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 5:10 |
+| 42 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 |
+| 43 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 | 44 | [Tú Vas a Volar](https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:13 |
 | 45 | [Me Vas A Extrañar](https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:47 |
 | 46 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
-| 47 | [La Creciente](https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv) | 3:02 |
-| 48 | [Muero por Verla](https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6) | [Luis Mateus, David Rendon Y La Nueva Generacion](https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN) | [Historia Musical de Luis Mateus y la Nueva Generación](https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP) | 4:38 |
-| 49 | [Que pena](https://open.spotify.com/track/6tDS7EVt0Jxo5P3MfoIXOF) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:33 |
+| 47 | [Mi Diosa Humana](https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 |
+| 48 | [La Creciente](https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv) | 3:02 |
+| 49 | [Muero por Verla](https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6) | [Luis Mateus, David Rendon Y La Nueva Generacion](https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN) | [Historia Musical de Luis Mateus y la Nueva Generación](https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP) | 4:38 |
 | 50 | [Me Ilusione](https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb) | 5:00 |
 
 Snapshot ID: `ZlYukAAAAADPp1MT52quV7is+LikeFFU`

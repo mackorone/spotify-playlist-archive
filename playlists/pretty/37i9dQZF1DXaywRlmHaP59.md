@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > The sweet sounds of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,258 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,275 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 8 | [Ya Hayat El Roh](https://open.spotify.com/track/3gxwUwOXIccG8PvxTtjkse) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Saharni El Shok](https://open.spotify.com/album/7q9gZCc4dh5gGOJQgxiid1) | 5:01 |
 | 9 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 |
 | 10 | [nachez](https://open.spotify.com/track/6EmFx7VxhLhyFMDVsUI8hw) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [nachez](https://open.spotify.com/album/2hFIgkwr7fyX9SJWCVwo77) | 3:42 |
-| 11 | [⁠Hazzi Dehekli](https://open.spotify.com/track/3VJ14M8j85bAYBupPOdZu2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:12 |
+| 11 | [â Hazzi Dehekli](https://open.spotify.com/track/3VJ14M8j85bAYBupPOdZu2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:12 |
 | 12 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 |
 | 13 | [Sa Ahlomu](https://open.spotify.com/track/1HSnooSIVUi7P2x9qWIQm0) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Golden Album](https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D) | 3:16 |
 | 14 | [Ana Lebnani](https://open.spotify.com/track/05yK0D4WzPDYffxjVf6FKU) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ana Lebnani](https://open.spotify.com/album/5kYUHXEtD6A1GimOcpsq9l) | 3:15 |

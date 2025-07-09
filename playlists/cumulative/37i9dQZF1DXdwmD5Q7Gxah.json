@@ -54757,6 +54757,24 @@
     },
     {
       "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "album": {
         "name": "Te Maldigo (From \"Queer\")",
         "url": "https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923"
       },

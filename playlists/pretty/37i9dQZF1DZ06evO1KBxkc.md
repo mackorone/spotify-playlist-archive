@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,858 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,874 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 26 | [Winter's Over](https://open.spotify.com/track/1zKTAM10B7Z5ES2A0SsQ3W) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Winter's Over](https://open.spotify.com/album/5FiAdqj0b6uDckZ1vU8Xcq) | 2:30 |
 | 27 | [Friend Zone](https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 3:55 |
 | 28 | [Just Like Me \(feat\. Young Thug\)](https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:40 |
-| 29 | [24 Hours \(feat\. Lil Durk\) \[Bonus\]](https://open.spotify.com/track/4O7FYAjDATiyylfIIAuRNE) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:25 |
-| 30 | [KEKE](https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Fetty Wap](https://open.spotify.com/artist/4sUASeYbHY6bwgMMTPJwdz), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Day69: Graduation Day](https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6) | 2:31 |
+| 29 | [KEKE](https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Fetty Wap](https://open.spotify.com/artist/4sUASeYbHY6bwgMMTPJwdz), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Day69: Graduation Day](https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6) | 2:31 |
+| 30 | [24 Hours \(feat\. Lil Durk\) \[Bonus\]](https://open.spotify.com/track/4O7FYAjDATiyylfIIAuRNE) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:25 |
 | 31 | [Young Grizzley World \(feat\. A Boogie Wit Da Hoodie & YNW Melly\)](https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Scriptures](https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3) | 5:32 |
 | 32 | [It's Crazy \(feat\. Melody\)](https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Melody](https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:15 |
 | 33 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 49 | [Tip Toe \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:05 |
 | 50 | [Foreigner \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:41 |
 
-Snapshot ID: `aGm8gAAAAAAQcINlTQ9l+t1y3rkYxcwY`
+Snapshot ID: `aGsOAAAAAAAvp28jcmMOgomcuqzFXtG9`

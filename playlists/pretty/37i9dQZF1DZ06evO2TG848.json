@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23064,
+  "num_followers": 23065,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAAzYT7Z8TYMq6BBLOh4PDll",
+  "snapshot_id": "aGsOAAAAAAAKQ2h+9mpgPJhrqade+TCl",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 187853,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB"
+      "duration_ms": 67640,
+      "name": "Forgotten Memories",
+      "url": "https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 67640,
-      "name": "Forgotten Memories",
-      "url": "https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh"
+      "duration_ms": 187853,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babel - Music From And Inspired By The Motion Picture",
+        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "Deportation/Iguazu",
+      "url": "https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 91893,
       "name": "Chichina",
       "url": "https://open.spotify.com/track/2LvMK31iQVKDoRZ9QeHHvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel - Music From And Inspired By The Motion Picture",
-        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "Deportation/Iguazu",
-      "url": "https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Brokeback Mountain 1",
+      "url": "https://open.spotify.com/track/3xJLmXbWr5u2XXhZuuNtd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 168560,
       "name": "Apertura",
       "url": "https://open.spotify.com/track/2pUfIeF044S7DQNdaOEAoR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Brokeback Mountain 1",
-      "url": "https://open.spotify.com/track/3xJLmXbWr5u2XXhZuuNtd9"
     },
     {
       "added_at": null,
@@ -779,6 +779,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
+      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -811,46 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
         }
       ],
-      "duration_ms": 218213,
-      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
-      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/27WRlhWtK9YHfJ7CZg7bcr"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Berta Rojas",
-          "url": "https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY"
-        }
-      ],
-      "duration_ms": 212714,
-      "name": "The Last of Us",
-      "url": "https://open.spotify.com/track/7goBSpxmpMHxQQaAvbBDhl"
+      "duration_ms": 170919,
+      "name": "Yarar\u00e1",
+      "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
     },
     {
       "added_at": null,
@@ -871,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/27WRlhWtK9YHfJ7CZg7bcr"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Berta Rojas",
+          "url": "https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY"
         }
       ],
-      "duration_ms": 170919,
-      "name": "Yarar\u00e1",
-      "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
+      "duration_ms": 212714,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/7goBSpxmpMHxQQaAvbBDhl"
     },
     {
       "added_at": null,

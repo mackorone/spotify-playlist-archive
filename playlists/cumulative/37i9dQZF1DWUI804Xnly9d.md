@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-565 songs - 1 day 7 hr 41 min
+566 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Ghum Hain Kahin](https://open.spotify.com/track/4zF6DxTDIaCvR8Md5i4chG) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg), [Aman Pant](https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE), [Akhil Tiwari](https://open.spotify.com/artist/4O30tTE8kFbZmHBwXnlCYS) | [Citadel Honey Bunny](https://open.spotify.com/album/2mEB90FcpwBnF4NVya4wvh) | 3:58 | 2024-11-05 | 2025-05-31 |
 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 | 2023-05-17 | 2023-07-29 |
 | [Gudiya \- From "Joon"](https://open.spotify.com/track/25YSG6rbuHZC6k6yurUnNq) | [Akshay Sharma](https://open.spotify.com/artist/4ybDoPH6SjHh6Ln6LkHJsK) | [Gudiya \(From "Joon"\)](https://open.spotify.com/album/2tIeB8y2UfF5F0bEVXiP4X) | 2:53 | 2023-11-07 | 2024-01-19 |
-| [Gulaab Tum](https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Gulaab Tum](https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf) | 4:22 | 2024-03-13 |  |
+| [Gulaab Tum](https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Gulaab Tum](https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf) | 4:22 | 2024-03-13 | 2025-07-09 |
 | [Gungunata Hun](https://open.spotify.com/track/6i1fue7mLghCZ5DhrqSkIe) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Gungunata Hun](https://open.spotify.com/album/0aWwvDpUI7QDg522KChgu1) | 2:41 | 2024-08-08 | 2024-09-13 |
 | [Ha Bas Tu](https://open.spotify.com/track/2xissAdak6viTlc3dUxKVS) | [Naman Goswami](https://open.spotify.com/artist/07HSVaNPl7nncH7T2yjKNi) | [Ha Bas Tu](https://open.spotify.com/album/7dAis6NusWiJzXuRWUviXS) | 4:22 | 2023-10-09 | 2023-11-30 |
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |
@@ -442,6 +442,7 @@
 | [Sapno Mein](https://open.spotify.com/track/1kdcrxXB0QuPBmaOakxwwk) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Sapno Mein](https://open.spotify.com/album/3SxMEnLGUUg75HrpR31pQW) | 2:58 | 2023-10-26 | 2023-11-25 |
 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-06-14 | 2025-06-14 |
 | [Secrets](https://open.spotify.com/track/5HENJVFTpwo7n8RvXhex2g) | [Andrew KZ](https://open.spotify.com/artist/2mqU4ypOkvjz5TWWtWsOtR) | [Secrets](https://open.spotify.com/album/0Edq37EUIlXNqtfniAWYOa) | 1:58 | 2024-08-01 | 2024-08-31 |
+| [Sehar](https://open.spotify.com/track/1IWXDizuyzuBz7nXI6Wgdn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sehar](https://open.spotify.com/album/6VUXsat2DolMlpzhSmncd6) | 3:36 | 2025-07-08 |  |
 | [September](https://open.spotify.com/track/2fDy9nSilEVvD2AoWL2es7) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [September](https://open.spotify.com/album/6zVilVx3Xo9yP5xMsoZZ8o) | 2:16 | 2025-04-16 |  |
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 | 2024-06-01 |
 | [Shaayad](https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO) | [C&A Kalatva](https://open.spotify.com/artist/6vRAO1pNeHHfXC4cHW9sp6) | [Shaayad](https://open.spotify.com/album/4IdxkUdlEQuQ06brPbXaiZ) | 3:29 | 2024-08-29 | 2025-07-05 |

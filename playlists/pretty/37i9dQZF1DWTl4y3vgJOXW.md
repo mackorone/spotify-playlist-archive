@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Fourth quarter, two minutes left .\. get locked in\. Cover: Chris Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,772,693 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,773,057 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mo Chicken \(feat\. French Montana\)](https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:00 |
 | 2 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 |
-| 3 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 3 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 4 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 5 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |
 | 6 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |

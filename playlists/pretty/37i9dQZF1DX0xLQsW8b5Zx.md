@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,477 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,503 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 51 | [Forever](https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:41 |
 | 52 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
 | 53 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
-| 54 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
-| 55 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
-| 56 | [Rock 'n' Roll Ruby](https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry](https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn) | 2:50 |
-| 57 | [Lip Lickin' Lou](https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u) | [Wild Wax Combo](https://open.spotify.com/artist/4q2TGE7vO4v3sOcJB8mJYb) | [Lip Lickin' Lou](https://open.spotify.com/album/2vJyPunjsJLeTCV2WNDcn5) | 2:05 |
-| 58 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
-| 59 | [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 |
-| 60 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
+| 54 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
+| 55 | [Rock 'n' Roll Ruby](https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry](https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn) | 2:50 |
+| 56 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 57 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
+| 58 | [Lip Lickin' Lou](https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u) | [Wild Wax Combo](https://open.spotify.com/artist/4q2TGE7vO4v3sOcJB8mJYb) | [Lip Lickin' Lou](https://open.spotify.com/album/2vJyPunjsJLeTCV2WNDcn5) | 2:05 |
+| 59 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
+| 60 | [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 |
 
 Snapshot ID: `aF0dRgAAAADgAseeUJQL2+/JeQHVYzhZ`

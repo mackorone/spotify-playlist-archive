@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 463130,
+  "num_followers": 463208,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADk/yro0sOdx3LyBvRIAHu9",
+  "snapshot_id": "aGsOAAAAAAAxyz/Ne4cS5cV7UBFI1oH4",
   "tracks": [
     {
       "added_at": null,
@@ -35,6 +35,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 273133,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -59,26 +79,6 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Street Love",
-        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 273133,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 215425,
-      "name": "Welcome to Tha Carter",
-      "url": "https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 215425,
+      "name": "Welcome to Tha Carter",
+      "url": "https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 233000,
       "name": "Scared of the Dark (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/5IBaJDzPGl6e2hOfhjymMb"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/5IBaJDzPGl6e2hOfhjymMb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Flex Up",
-      "url": "https://open.spotify.com/track/1Izzf3GSHQ3rAthq5uLR7X"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Flex Up",
+      "url": "https://open.spotify.com/track/1Izzf3GSHQ3rAthq5uLR7X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -655,26 +655,6 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Cotton Candy (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/2ILSAavE0FTWeZ8pAZY5bS"
     },
     {
       "added_at": null,
@@ -723,6 +703,26 @@
       "duration_ms": 224971,
       "name": "Me U & Hennessy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Cotton Candy (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/2ILSAavE0FTWeZ8pAZY5bS"
     },
     {
       "added_at": null,

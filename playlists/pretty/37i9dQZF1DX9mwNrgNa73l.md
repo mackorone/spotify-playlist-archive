@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,841 likes - 77 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,902 likes - 77 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dost](https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:35 |
-| 2 | [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy), [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 |
+| 2 | [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 |
 | 3 | [Tere Bina](https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 5:09 |
 | 4 | [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 6:04 |
 | 5 | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId) | 6:40 |

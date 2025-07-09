@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Hey!Calling",
+        "url": "https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Hey!Calling",
+      "url": "https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg"
+    },
+    {
+      "album": {
         "name": "HONEY BOY",
         "url": "https://open.spotify.com/album/5YHxyTKE3DGpuLzCDXOQQo"
       },
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 282680,
       "name": "I LOVE...",
       "url": "https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 185751,
       "name": "Kanpaku Sengen",
       "url": "https://open.spotify.com/track/0uuaYmRMQkmqXywMCanpBz"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 197905,
       "name": "Snipe the Heart",
       "url": "https://open.spotify.com/track/3AkkSI6l7UWyiGxhxkiAjB"
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 204736,
       "name": "Your Nobel",
       "url": "https://open.spotify.com/track/19BdjRwbIdz28WmvlARkcD"
@@ -3548,7 +3566,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 196266,
       "name": "\u3044\u305f\u3044",
       "url": "https://open.spotify.com/track/6MSosUtVQ7O4uZBF9EPAZg"
@@ -4436,7 +4454,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 193301,
       "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
       "url": "https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u"
@@ -4771,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
+        "url": "https://open.spotify.com/album/3aaRYkHau7tGCBcVMAlTWY"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277289,
+      "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
+      "url": "https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30fc\u30c8\u306a\u80f8\u306e\u5185\u2661",
         "url": "https://open.spotify.com/album/5t9vZeBCxsnVVQsn8G7zel"
       },
@@ -4782,7 +4818,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 223833,
       "name": "\u30cf\u30fc\u30c8\u306a\u80f8\u306e\u5185\u2661",
       "url": "https://open.spotify.com/track/46s10YbbYvvCHib0aE5Vk5"
@@ -5154,7 +5190,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 207147,
       "name": "\u30e9\u30d6\u3068\u30d4\u30fc\u30b9",
       "url": "https://open.spotify.com/track/7McrUOr41CllamAuxWUsbt"
@@ -5190,7 +5226,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 286689,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306b\u3057\u3066",
       "url": "https://open.spotify.com/track/5WoE5XLxLdr8TWdHRNuQZZ"
@@ -5820,7 +5856,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 313877,
       "name": "\u541b\u306e\u70ba\u306e\u30ad\u30df\u30ce\u30a6\u30bf",
       "url": "https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU"
@@ -6054,7 +6090,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 266560,
       "name": "\u5927\u962aLOVER",
       "url": "https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF"
@@ -7044,7 +7080,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 201973,
       "name": "\u672c\u5f53\u306f\u306d\u3001",
       "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"
@@ -7476,7 +7512,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 264840,
       "name": "\u7d50",
       "url": "https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd"
@@ -7718,6 +7754,24 @@
       "duration_ms": 239162,
       "name": "\u82b1\u8a00\u8449\u306f\u8abf\u3079\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/5VIfNgHFcJGmszvKMi2qFY"
+    },
+    {
+      "album": {
+        "name": "\u83eb",
+        "url": "https://open.spotify.com/album/216vfpaQDaZ4CbHMs7WRRG"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176965,
+      "name": "\u83eb",
+      "url": "https://open.spotify.com/track/4vVIlJbofRcrzIfNkgdFDK"
     },
     {
       "album": {

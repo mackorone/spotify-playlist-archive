@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2050,
+  "num_followers": 2052,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAA01BdJAoL2RlEI4BHG/sx0",
+  "snapshot_id": "aGsOAAAAAACPXOpef5g2qdecZZD+tOem",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cartier en Mano",
+        "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Cartier en Mano",
+      "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Licuado",
         "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 134583,
       "name": "Licuado",
       "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cartier en Mano",
-        "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Cartier en Mano",
-      "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
     },
     {
       "added_at": null,
@@ -691,30 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Adiamantado",
-      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
         "url": "https://open.spotify.com/album/1O3ptaojQeRH0YrSZm6R14"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 259333,
       "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
       "url": "https://open.spotify.com/track/5DpXwDeOTcMyGE5GZBW9SG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Adiamantado",
+      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,

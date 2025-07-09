@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 878 songs - 2 day 6 hr 48 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 879 songs - 2 day 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -886,5 +886,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 876 | [Chasing Paper](https://open.spotify.com/track/6B5nQ7VXNyyE3fIKPfpmWh) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 3:16 |
 | 877 | [BIRDBRAIN](https://open.spotify.com/track/2DAZakhs7RRCoM6pvLpUEz) | [Jamie Paige](https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf), [OK Glass](https://open.spotify.com/artist/5QDqD7M7ktRDfzXJWbYolF) | [BIRDBRAIN](https://open.spotify.com/album/2bulp48ZEhzuUk9d4wkZgD) | 4:16 |
 | 878 | [Wishing on a Star](https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [In Full Bloom](https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk) | 4:51 |
+| 879 | [How It’s Done](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:56 |
 
-Snapshot ID: `AAAHEwBK+X1ADi8ACKUPes5E2EA4ws+g`
+Snapshot ID: `AAAHFMk32hnuaeoYtC9ZsMzzI5yJs8E4`

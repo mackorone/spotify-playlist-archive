@@ -4,7 +4,7 @@
 
 > Get ready for the upcoming concert by listening to the best songs from the concert lineup! The interview is coming soon! \(미팅룸 참가 라인업의 베스트 곡들을 들으며 다가오는 공연을 준비해보세요!\)
 
-30 songs - 1 hr 53 min
+33 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,9 @@
 | [It Happens](https://open.spotify.com/track/4V1Gzo4WtlYaF3ZhMehJm6) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [Bad Joke](https://open.spotify.com/album/5sXDtLl1cpADgPAYwLrmAW) | 3:53 | 2025-05-29 |  |
 | [Kid Blue](https://open.spotify.com/track/57vIAKd39ZR9My3ow9Jwud) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [D.](https://open.spotify.com/album/5DNgFlwjC6lYq7bJIyaa52) | 3:48 | 2025-05-29 |  |
 | [Life Without Headache](https://open.spotify.com/track/5VPx7w6VpNVx4LoxPOOA6q) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [Life Without Headache](https://open.spotify.com/album/32uGIobbcCSPyMqoipURxK) | 3:34 | 2025-05-29 |  |
+| [Meeting Room Interview – Spotify Editor’s View on chiyoonhae](https://open.spotify.com/episode/6qJDtWCNtOgeNZUhf1vSms) | [MEETING ROOM 미팅룸](https://open.spotify.com/show/1g7nNXYtkVvqW4BpZPiGxg) | [MEETING ROOM 미팅룸](https://open.spotify.com/album/1g7nNXYtkVvqW4BpZPiGxg) | 19:01 | 2025-07-08 |  |
+| [Meeting Room Interview – Spotify Editor’s View on Enfants](https://open.spotify.com/episode/15hBzRE7XQFLphNWG2ntW2) | [MEETING ROOM 미팅룸](https://open.spotify.com/show/1g7nNXYtkVvqW4BpZPiGxg) | [MEETING ROOM 미팅룸](https://open.spotify.com/album/1g7nNXYtkVvqW4BpZPiGxg) | 11:55 | 2025-07-08 |  |
+| [Meeting Room Interview – Spotify Editor’s View on Samui](https://open.spotify.com/episode/2KivG8AU316z9oTXIF8wyz) | [MEETING ROOM 미팅룸](https://open.spotify.com/show/1g7nNXYtkVvqW4BpZPiGxg) | [MEETING ROOM 미팅룸](https://open.spotify.com/album/1g7nNXYtkVvqW4BpZPiGxg) | 26:23 | 2025-07-08 |  |
 | [Open Your Eyes \(feat\. Choi WonBin\)](https://open.spotify.com/track/2KPe823XmG3zHJdOuCFco1) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb), [Choi WonBin](https://open.spotify.com/artist/49RzBCUXH451Ij2k5Qe2LV) | [Yin](https://open.spotify.com/album/4JFRakX5a8UEqnFa2FfLGP) | 2:51 | 2025-05-29 |  |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2025-05-29 |  |
 | [R.I.P.](https://open.spotify.com/track/78mAdRXmL6GINa6WMSZKZ8) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [E.](https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR) | 4:51 | 2025-05-29 |  |

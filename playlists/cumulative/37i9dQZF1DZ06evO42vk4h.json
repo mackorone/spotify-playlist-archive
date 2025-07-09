@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 437419,
       "name": "Fofa",
       "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 383301,
       "name": "Khotha (feat. Lily Faith & X-wise)",
       "url": "https://open.spotify.com/track/74msI7k3HKE56VmM5STkt0"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 206202,
       "name": "Rababa",
       "url": "https://open.spotify.com/track/6x8LhiuIikuuPZDdcPs29y"
@@ -1318,6 +1318,32 @@
       "duration_ms": 440506,
       "name": "Thandolwethu - Remix",
       "url": "https://open.spotify.com/track/41nYrZjMX3h5nC5Hc5UbrB"
+    },
+    {
+      "album": {
+        "name": "University Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Picat",
+          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321026,
+      "name": "Toyi Toyi",
+      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
     },
     {
       "album": {

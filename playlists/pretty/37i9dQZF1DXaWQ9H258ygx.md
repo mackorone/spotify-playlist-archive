@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,386 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,426 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 21 | [Lights Up](https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:52 |
 | 22 | [Dirty Diana](https://open.spotify.com/track/6JZYMxvcoeLD4IifJPvDux) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 4:40 |
 | 23 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
-| 24 | [Club Paradise](https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:43 |
-| 25 | [Wasted Times](https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:40 |
-| 26 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
+| 24 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
+| 25 | [Club Paradise](https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:43 |
+| 26 | [Wasted Times](https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:40 |
 | 27 | [Let Me](https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh) | 3:05 |
 | 28 | [Savior](https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:44 |
 | 29 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |

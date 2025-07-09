@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-380 songs - 18 hr 23 min
+381 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 | 2022-02-18 | 2022-07-29 |
 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 | 2022-07-19 | 2023-02-04 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-08-15 |  |
-| [Abbraccio](https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Abbraccio](https://open.spotify.com/album/1Hbd2yi3L0DXPIyULBMhNi) | 2:37 | 2025-02-14 |  |
+| [Abbraccio](https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Abbraccio](https://open.spotify.com/album/1Hbd2yi3L0DXPIyULBMhNi) | 2:37 | 2025-02-14 | 2025-07-09 |
 | [Aberaeron](https://open.spotify.com/track/2jweXNn6DMD7w58CPssXwZ) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Aberaeron](https://open.spotify.com/album/0421N3byRD3RgcdaOvRgtj) | 2:56 | 2022-09-13 | 2025-06-26 |
 | [Acacia](https://open.spotify.com/track/2sNM2lnVgJmPJVQcxtktia) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Acacia](https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy) | 3:30 | 2022-03-21 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2022-02-18 | 2023-02-04 |
@@ -64,7 +64,7 @@
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2022-02-18 | 2023-01-28 |
 | [Boundaries](https://open.spotify.com/track/42yvO8wRPOE5STErplCfEV) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Boundaries](https://open.spotify.com/album/4nUZ0gFFsQHp6HMu0kNOG4) | 2:27 | 2025-01-29 |  |
 | [Branches](https://open.spotify.com/track/3QbKOB6CpRAl7EwL1ByG95) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Branches](https://open.spotify.com/album/2NG0EzJ9ziC20p61LNYvpa) | 2:41 | 2022-02-18 | 2023-08-05 |
-| [Breath in the wild](https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Breath in the wild](https://open.spotify.com/album/5yuWZILlLQTDhgseEyR6uS) | 2:00 | 2022-02-18 |  |
+| [Breath in the wild](https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Breath in the wild](https://open.spotify.com/album/5yuWZILlLQTDhgseEyR6uS) | 2:00 | 2022-02-18 | 2025-07-09 |
 | [Breathing Star](https://open.spotify.com/track/2TcvA5WlWyZdLMdQrX05LG) | [Allana Johnson](https://open.spotify.com/artist/3hmAY9MInLEYjfgedjLmlL) | [Breathing Star](https://open.spotify.com/album/5K3RC3cxE2mfKHrg1Wf9iM) | 2:56 | 2022-02-18 | 2023-07-01 |
 | [Breathless](https://open.spotify.com/track/4vwpjrRemuLveDgtNqy5LP) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 2:39 | 2022-11-22 | 2024-11-29 |
 | [Brilliance](https://open.spotify.com/track/5YPIHz8UW4svRQXWQLOEca) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Brilliance](https://open.spotify.com/album/2B8IiSDoWZO1j4hRyAa8fF) | 2:48 | 2025-01-07 |  |
@@ -72,7 +72,7 @@
 | [Calling](https://open.spotify.com/track/682LbPTgwSkwOQGS16OsW5) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 3:11 | 2022-02-18 | 2023-03-18 |
 | [Calm](https://open.spotify.com/track/05wMNPFJQHvjSy2lqfaEBs) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [Calm](https://open.spotify.com/album/5GWMDujpDXBVnw3RIOJ3LF) | 2:56 | 2025-06-04 |  |
 | [Calm Breathing](https://open.spotify.com/track/2EaD0kOj17xfjIjukrta9x) | [Gabriel Carter](https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr) | [Calm Breathing](https://open.spotify.com/album/0iGVeaLw7UupfCTzeXvul9) | 2:41 | 2024-05-10 |  |
-| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
+| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 | 2025-07-09 |
 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 | 2022-02-18 | 2025-06-26 |
 | [Cherished](https://open.spotify.com/track/0FlUS5nOWAuv1X4pEOG4kw) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Cherished](https://open.spotify.com/album/3C1vQcBUMpohPkGIjWTlZ4) | 2:37 | 2025-04-29 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-18 |  |
@@ -229,7 +229,7 @@
 | [Nebula Night Song](https://open.spotify.com/track/5JsueUtGsB12ka2b4TAh3b) | [Lucas Trezor](https://open.spotify.com/artist/5wjjQqJzhqF9uElwQ7R6UT) | [Nebula Night Song](https://open.spotify.com/album/3obUpMWVoZHAhoSonWn89J) | 3:22 | 2025-04-09 |  |
 | [Nebulae](https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Nebulae](https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz) | 2:42 | 2023-08-04 | 2025-01-08 |
 | [Nejma](https://open.spotify.com/track/2G60IUm1SMnoLHN6kgaZNo) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Nejma](https://open.spotify.com/album/2DoF7f47YEB0u1X4S8nU5a) | 2:39 | 2024-11-28 |  |
-| [Nepenthe](https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Nepenthe](https://open.spotify.com/album/7ARp3k61xr4HZrXTQVboW7) | 2:31 | 2022-02-18 |  |
+| [Nepenthe](https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Nepenthe](https://open.spotify.com/album/7ARp3k61xr4HZrXTQVboW7) | 2:31 | 2022-02-18 | 2025-07-09 |
 | [New Born](https://open.spotify.com/track/7GI3K8TBDzQQ9CjmHIchU5) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [New Born](https://open.spotify.com/album/5CvFam25RwrfV2Hw7xdonP) | 2:53 | 2024-06-10 |  |
 | [New Life \(Ambient Sleep\)](https://open.spotify.com/track/2li5sVtJJ622EiOFjGryYj) | [Gløwlight](https://open.spotify.com/artist/2yDoxETP17TJozaloeq5kW) | [New Life \(Ambient Sleep\)](https://open.spotify.com/album/6fPdLT3jrZT2n2xyotAM4x) | 2:30 | 2025-06-04 |  |
 | [New Stars](https://open.spotify.com/track/00VGEglw1DyTGaoWiULmXW) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [New Stars](https://open.spotify.com/album/5n6azA3gbMLKU8st8jznpS) | 2:43 | 2025-01-29 |  |
@@ -239,11 +239,11 @@
 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 | 2022-02-18 | 2022-04-22 |
 | [Noctu](https://open.spotify.com/track/4tPLkMhxU4a62HmkA95iwC) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Noctu](https://open.spotify.com/album/0ddzc5odnJ9sgAEaQAKiKP) | 3:21 | 2022-02-18 | 2023-07-15 |
 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 | 2022-02-18 | 2024-12-03 |
-| [Nourish](https://open.spotify.com/track/0t4SxD4RI2sZYu7ehNF0Dt) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Delicate](https://open.spotify.com/album/14NlEEottXO4wgKV8dHLkT) | 3:40 | 2022-02-18 |  |
+| [Nourish](https://open.spotify.com/track/0t4SxD4RI2sZYu7ehNF0Dt) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Delicate](https://open.spotify.com/album/14NlEEottXO4wgKV8dHLkT) | 3:40 | 2022-02-18 | 2025-07-09 |
 | [Nova Transit](https://open.spotify.com/track/7FxP1GBPMMmvPSpTWZ9YOv) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Nova Transit](https://open.spotify.com/album/4i1YgFF2n2NzLI2514wsHq) | 2:32 | 2024-04-29 |  |
 | [Numinous](https://open.spotify.com/track/6som0XayxBrwmVHOksh3Uo) | [Jinada Shane](https://open.spotify.com/artist/68NrWmdXRB6u5Fq28KmbcA) | [Numinous](https://open.spotify.com/album/17xpfnXnvEVzwErYEpVYsa) | 2:48 | 2025-01-29 |  |
 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 | 2022-02-18 | 2023-02-04 |
-| [Oceanwide](https://open.spotify.com/track/7Mr3SK5zRJ0mrdNraurM5Z) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Oceanwide](https://open.spotify.com/album/0zrCCtHKET7BZkwwuo7Mhu) | 2:32 | 2022-03-08 |  |
+| [Oceanwide](https://open.spotify.com/track/7Mr3SK5zRJ0mrdNraurM5Z) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Oceanwide](https://open.spotify.com/album/0zrCCtHKET7BZkwwuo7Mhu) | 2:32 | 2022-03-08 | 2025-07-09 |
 | [Odmor](https://open.spotify.com/track/1wzC22A0BTQ68u6GoMGP6E) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Odmor](https://open.spotify.com/album/6WeD2HTw15YD5yPSEqEcKO) | 2:34 | 2022-02-18 | 2025-06-24 |
 | [Omsluten](https://open.spotify.com/track/7mmhIxGPMPFCBzfN6M9QXp) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Omsluten](https://open.spotify.com/album/5ATPZF3T6j6YMrC7sMl8Wv) | 3:21 | 2022-02-18 |  |
 | [Onehundredfive](https://open.spotify.com/track/6WvrWe1fnO2ntO1hjL8m8b) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Elba](https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp) | 2:55 | 2022-02-18 | 2022-09-15 |
@@ -263,6 +263,7 @@
 | [Peaceful Memory](https://open.spotify.com/track/3F8pwlF36S14zSKLfWH6LZ) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Peaceful Memory](https://open.spotify.com/album/0ynJFurIoUTJidkBgSGy1t) | 2:53 | 2022-02-18 | 2023-09-16 |
 | [Peaceful Mind](https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Trust](https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk) | 3:20 | 2022-02-18 | 2023-03-18 |
 | [Phenomena](https://open.spotify.com/track/6iP5Gok0mu3BExvKsVvZ46) | [South To Somewhere](https://open.spotify.com/artist/7KFsW7U7h7SSoMRdxFJmL2) | [Phenomena](https://open.spotify.com/album/7D9oHv8kKSnR2KZ7ZxXKZK) | 2:35 | 2025-02-05 |  |
+| [Pine and Vapor](https://open.spotify.com/track/2JnyDitOwl54NldaeqmnkH) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Pine and Vapor](https://open.spotify.com/album/3h0CVvaxvAHqqufVpiO83m) | 2:36 | 2025-07-08 |  |
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2022-02-18 | 2023-07-15 |
 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-22 | 2025-02-15 |
 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-02-24 |  |

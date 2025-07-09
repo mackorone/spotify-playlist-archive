@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,982 likes - 145 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,002 likes - 145 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 4 | [Across A Meadow](https://open.spotify.com/track/3RpkQpRRqEXeMGjrEUcBtd) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Across A Meadow](https://open.spotify.com/album/6PI4DxEtl5CokXt2ytYrHv) | 2:32 |
 | 5 | [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 |
 | 6 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 |
-| 7 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 |
+| 7 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 |
 | 8 | [Incensus](https://open.spotify.com/track/51y4pJlBEv74r3Yi6p7Hc4) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Incensus](https://open.spotify.com/album/1OygAES8T7LGyfO8RW1sxU) | 2:29 |
-| 9 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 |
+| 9 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 |
 | 10 | [Labyrinth](https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Labyrinth](https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX) | 2:12 |
-| 11 | [A While Ago](https://open.spotify.com/track/13K4xmriBBK1oYv7CpSZF1) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [A While Ago](https://open.spotify.com/album/14ZJ6P0xP8RQYZS48y3qyj) | 2:55 |
-| 12 | [Albufeira](https://open.spotify.com/track/2QImm2wZ3TqJIeIbVep6sr) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Albufeira](https://open.spotify.com/album/0XhNEzxemDBZfzRIvsFYU6) | 2:24 |
-| 13 | [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 |
-| 14 | [Renascer](https://open.spotify.com/track/52G5BtKvxEZ7DdfgiOdQTz) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Renascer](https://open.spotify.com/album/7k5IGzWriBule5D6Guze1h) | 3:33 |
-| 15 | [Auburn to Green](https://open.spotify.com/track/5UN9mQlx5fr9SirISSSuVJ) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Auburn to Green](https://open.spotify.com/album/6bHo8s2CSu4tzCnTTPLE3n) | 2:40 |
-| 16 | [Stonehaven](https://open.spotify.com/track/3vt0Y1KJwaEzaDOF4shO2i) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Stonehaven](https://open.spotify.com/album/0yasqdzEzBoL89mK1NnyVw) | 2:27 |
-| 17 | [Highway](https://open.spotify.com/track/7md0GcPGQmZscsglwm7GIA) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Highway](https://open.spotify.com/album/5IPedTrS1EwAWrOXh26WYO) | 2:19 |
+| 11 | [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 |
+| 12 | [Auburn to Green](https://open.spotify.com/track/5UN9mQlx5fr9SirISSSuVJ) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Auburn to Green](https://open.spotify.com/album/6bHo8s2CSu4tzCnTTPLE3n) | 2:40 |
+| 13 | [A While Ago](https://open.spotify.com/track/13K4xmriBBK1oYv7CpSZF1) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [A While Ago](https://open.spotify.com/album/14ZJ6P0xP8RQYZS48y3qyj) | 2:55 |
+| 14 | [Albufeira](https://open.spotify.com/track/2QImm2wZ3TqJIeIbVep6sr) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Albufeira](https://open.spotify.com/album/0XhNEzxemDBZfzRIvsFYU6) | 2:24 |
+| 15 | [Highway](https://open.spotify.com/track/7md0GcPGQmZscsglwm7GIA) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Highway](https://open.spotify.com/album/5IPedTrS1EwAWrOXh26WYO) | 2:19 |
+| 16 | [Renascer](https://open.spotify.com/track/52G5BtKvxEZ7DdfgiOdQTz) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Renascer](https://open.spotify.com/album/7k5IGzWriBule5D6Guze1h) | 3:33 |
+| 17 | [Stonehaven](https://open.spotify.com/track/3vt0Y1KJwaEzaDOF4shO2i) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Stonehaven](https://open.spotify.com/album/0yasqdzEzBoL89mK1NnyVw) | 2:27 |
 | 18 | [South Side](https://open.spotify.com/track/0SajjB6LU6j4sLCFc4dGgP) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [South Side](https://open.spotify.com/album/0WOlYMDfxVZrV4tnjnwCIb) | 2:51 |
 | 19 | [Between Us](https://open.spotify.com/track/0JGz1xrm1yj88x4Y6qdG0U) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Between Us](https://open.spotify.com/album/0SPgzK9Kg76KbZvzQyQX0T) | 2:40 |
 | 20 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 23 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 |
 | 24 | [The Lightkeeper](https://open.spotify.com/track/38XWOlV96eIYhww3A1f7I8) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Lightkeeper](https://open.spotify.com/album/3DZemnOhS2gzVyogZmGD15) | 2:17 |
 | 25 | [Featherlight](https://open.spotify.com/track/4eJEvXq4j6qgeemUhRR70e) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Featherlight](https://open.spotify.com/album/2tmuHRatWRGuHi0GQEee8u) | 1:51 |
-| 26 | [Moment Held](https://open.spotify.com/track/2QHs7x6qPQnhC2p1JILpuy) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [Moment Held](https://open.spotify.com/album/7eSyVcWIf46avGw5FfLk2f) | 2:22 |
-| 27 | [Sunlight Through Leaves](https://open.spotify.com/track/4WE694pRoPuL5HonQ11NEI) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Sunlight Through Leaves](https://open.spotify.com/album/58GXSbSBoi5himWr5hj6he) | 2:41 |
-| 28 | [Song For The Unspoken](https://open.spotify.com/track/4nh3IgTCBMCYXs5A1uIjEX) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Song For The Unspoken](https://open.spotify.com/album/5dLZ9DE1EwAi9rqWgcn60t) | 1:59 |
+| 26 | [Song For The Unspoken](https://open.spotify.com/track/4nh3IgTCBMCYXs5A1uIjEX) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Song For The Unspoken](https://open.spotify.com/album/5dLZ9DE1EwAi9rqWgcn60t) | 1:59 |
+| 27 | [Moment Held](https://open.spotify.com/track/2QHs7x6qPQnhC2p1JILpuy) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [Moment Held](https://open.spotify.com/album/7eSyVcWIf46avGw5FfLk2f) | 2:22 |
+| 28 | [Sunlight Through Leaves](https://open.spotify.com/track/4WE694pRoPuL5HonQ11NEI) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Sunlight Through Leaves](https://open.spotify.com/album/58GXSbSBoi5himWr5hj6he) | 2:41 |
 | 29 | [At a Glance](https://open.spotify.com/track/0ohcThy8ktuaj2QoGfiROC) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [At a Glance](https://open.spotify.com/album/10T5DllHUZDAkwudvT9QUV) | 2:28 |
 | 30 | [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 |
 | 31 | [The Crecent Moon](https://open.spotify.com/track/6EsVWU7R5B2yTYP5neMm3V) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [The Crecent Moon](https://open.spotify.com/album/4EMWf1lpi3CjvBad2CNuMh) | 2:34 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 144 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
 | 145 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
 
-Snapshot ID: `aE/0XQAAAADj8W13rnLA3Z6DnaiBv8LL`
+Snapshot ID: `aG04RgAAAACjLwt7GYgDrqNX2pLPxX8p`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > It's an indie girl summer, gals\. Featuring CMAT, Wolf Alice, Wet Leg, Nilüfer Yanya, Rachel Chinouriri and HAIM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,786 likes - 85 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,787 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

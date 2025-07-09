@@ -4,7 +4,7 @@
 
 > Listen to the soundtrack and selections from WORLD OF STREET WOMAN FIGHTER.
 
-77 songs - 3 hr 49 min
+78 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [SASS \(Prod\. THE HUB\)](https://open.spotify.com/track/3i4uRxBpIrI6xb6CHLvh9p) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 2:51 | 2025-05-28 |  |
 | [Scandalous \- StarGate Radio Mix](https://open.spotify.com/track/3fptXQbkawHJNXANV2y0t5) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Stargate](https://open.spotify.com/artist/4yA7QuT08bPTnwJXKQSubo) | [Eye Candy](https://open.spotify.com/album/45LQ2l2NEo2gPD40rE5qVK) | 3:58 | 2025-05-14 |  |
 | [Shabba REMIX \(feat\. Shabba Ranks, Busta Rhymes & Migos\)](https://open.spotify.com/track/6dEwByRwJTnycFUlSz4ufp) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Shabba REMIX \(feat\. Shabba Ranks, Busta Rhymes & Migos\)](https://open.spotify.com/album/0Ero9eJjEmN5R3t99yfzoj) | 4:56 | 2025-05-14 |  |
+| [Shake It Fast \(Prod\. THE HUB\)](https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Shake It Fast \(WSWF Original Vol.3\)](https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh) | 2:11 | 2025-07-09 |  |
 | [She's a Bitch](https://open.spotify.com/track/6xbMd2P2B9Iey7iVyqsgtX) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Da Real World](https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i) | 4:00 | 2025-05-14 |  |
 | [Sinner](https://open.spotify.com/track/7m57eGe3haQgQgbsuSufwJ) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:59 | 2025-05-14 |  |
 | [Snap Yo Fingers](https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Sean Paul](https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte) | [Snap Yo Fingers \- Single](https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf) | 4:34 | 2025-05-14 |  |

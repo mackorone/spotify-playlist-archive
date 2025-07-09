@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: HAIM
 
-2,148 songs - 4 day 17 hr 43 min
+2,149 songs - 4 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1910,6 +1910,7 @@
 | [the fractal song](https://open.spotify.com/track/7LTJ2alkzEumlU6bPEMm9e) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [the fractal song](https://open.spotify.com/album/3oNbVcy0gsNGvnnJRPL5z6) | 2:40 | 2022-01-21 | 2022-04-04 |
 | [THE FRIEND SPACE](https://open.spotify.com/track/1c8UIIdsxiLmdaru4aAbey) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [THE FRIEND SPACE](https://open.spotify.com/album/4fR2rJTfI7yrFvrW4XPN9A) | 2:56 | 2021-03-27 | 2021-10-16 |
 | [The Internet](https://open.spotify.com/track/3SONA2HtyUilUPckrSOiln) | [Hearts <3](https://open.spotify.com/artist/32gTQwEODaNCVu6SdNko3z) | [Devyn’s Song / The Internet](https://open.spotify.com/album/0P9MeBy3gauKZIruLK7ryv) | 3:02 | 2021-03-07 | 2021-03-21 |
+| [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 | 2025-07-04 |  |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 |  |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-06-07 | 2022-07-23 |
 | [the lifeboat's empty!](https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [the lifeboat's empty!](https://open.spotify.com/album/1hiHsgIreI5njj9HRJndWF) | 2:54 | 2022-01-28 | 2022-08-06 |
@@ -1921,7 +1922,7 @@
 | [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 | 2022-12-07 | 2023-07-29 |
 | [the party](https://open.spotify.com/track/2refb65AS7jf0ILJnlXX5y) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [crash landing](https://open.spotify.com/album/6GP7ELTsVdcALvRbD8Qm1X) | 3:49 | 2023-02-24 | 2023-03-04 |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 | 2023-07-08 |
-| [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-21 |  |
+| [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-21 | 2025-07-09 |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-22 | 2021-05-30 |
 | [The Things We Do](https://open.spotify.com/track/4nYb6EZpeRI3ZM1O0UquQ5) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [The Things We Do](https://open.spotify.com/album/6nhQR2WHOS9DWYgcbVSYYy) | 4:12 | 2021-02-22 | 2021-05-24 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 | 2021-06-02 | 2022-06-15 |

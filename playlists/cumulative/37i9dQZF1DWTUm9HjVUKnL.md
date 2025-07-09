@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,336 songs - 3 day 8 hr 23 min
+1,337 songs - 3 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2022-01-19 |  |
 | [My Wave \- Spotify Singles](https://open.spotify.com/track/0lIMzHgepiowXBAsGtkcpt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:30 | 2022-10-12 |  |
 | [Måndagsbarn \- Spotify Singles](https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Måndagsbarn \(Spotify Singles\)](https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC) | 3:00 | 2025-02-13 |  |
+| [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/track/2OWyDDiLOC6PACqh7Xac8y) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Grupo Restaurado](https://open.spotify.com/artist/47ryVplCCIIsbwcBFcg8Oc) | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/album/2gzPNct7gehdFkAgPn9n2y) | 2:23 | 2025-07-08 |  |
 | [Name For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0WA6hODnSyMCRmRZKGKocc) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Singles](https://open.spotify.com/album/0wl4Ftg1DK1nzUAh8ueTDP) | 3:11 | 2022-01-19 |  |
 | [Name For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1sJFz30QFvmSCIoHyKjw1k) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Singles](https://open.spotify.com/album/02QIMJcNZO5aEqgQSr4DHR) | 3:11 | 2022-07-05 | 2024-04-19 |
 | [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/7jq87Xa2gFuhmqVtgvqygM) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 | 2022-05-03 |  |

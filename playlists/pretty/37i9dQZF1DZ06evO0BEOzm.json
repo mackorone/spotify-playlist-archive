@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 302265,
+  "num_followers": 302301,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABDefWxjcl24sVTbwW46H+p",
+  "snapshot_id": "aGsOAAAAAABOJwKBcOHMGQB5vV8rbqdT",
   "tracks": [
     {
       "added_at": null,
@@ -767,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 155090,
-      "name": "What\u2019s New",
-      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
+      "duration_ms": 187794,
+      "name": "Spin (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY"
     },
     {
       "added_at": null,
@@ -815,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
       "artists": [
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 187794,
-      "name": "Spin (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY"
+      "duration_ms": 155090,
+      "name": "What\u2019s New",
+      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
     },
     {
       "added_at": null,

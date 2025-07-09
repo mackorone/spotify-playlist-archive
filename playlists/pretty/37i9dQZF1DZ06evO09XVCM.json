@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34410,
+  "num_followers": 34416,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABntw7EwS3yBBwUaqL0TEpP",
+  "snapshot_id": "aGsOAAAAAACQxUT2ZjyM7gaTedFoLjFM",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 188668,
       "name": "Sunshine (feat. RUSL) - RUSL Remix",
       "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lucky One",
         "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lift Our Spirits Raise Our Voice",
-        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Lift Our Spirits Raise Our Voice",
-      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 260113,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lift Our Spirits Raise Our Voice",
+        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Lift Our Spirits Raise Our Voice",
+      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
     },
     {
       "added_at": null,

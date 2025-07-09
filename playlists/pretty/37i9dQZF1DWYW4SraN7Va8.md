@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,243 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,448 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 35 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 36 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 |
 | 37 | [Black Magic Woman](https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 3:15 |
-| 38 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
-| 39 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
+| 38 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
+| 39 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 40 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 |
 | 41 | [Here I Go Again](https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 3:52 |
 | 42 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 50 | [Rainbow In The Dark](https://open.spotify.com/track/4ggy61YkrNendRHDi8fmNF) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2wkqGL9LivRgE9K523kizA) | 4:14 |
 | 51 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
 | 52 | [Automatic Sun](https://open.spotify.com/track/3p8SLhMdp3M5cusqAp6H3L) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Automatic Sun](https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ) | 3:10 |
-| 53 | [Run to the Hills \- 1998 Remaster](https://open.spotify.com/track/4Z4ZLBzCXSlHSCaxZ3WS7p) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/0SmIkzc7YgxqBV0V5RcbPt) | 3:53 |
-| 54 | [The Gallows](https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Gallows](https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH) | 3:50 |
+| 53 | [The Gallows](https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Gallows](https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH) | 3:50 |
+| 54 | [Run to the Hills \- 1998 Remaster](https://open.spotify.com/track/4Z4ZLBzCXSlHSCaxZ3WS7p) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/0SmIkzc7YgxqBV0V5RcbPt) | 3:53 |
 | 55 | [Make Up Your Mind](https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Make Up Your Mind](https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U) | 3:38 |
 | 56 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 57 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 |
-| 58 | [You Drive Me Wild](https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:21 |
-| 59 | [Lord Humungus](https://open.spotify.com/track/6vvwN7NgsNGVfXLmkVeftX) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Lord Humungus](https://open.spotify.com/album/6WAm49g3DPOA81i4feU5IP) | 3:34 |
+| 58 | [Lord Humungus](https://open.spotify.com/track/6vvwN7NgsNGVfXLmkVeftX) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Lord Humungus](https://open.spotify.com/album/6WAm49g3DPOA81i4feU5IP) | 3:34 |
+| 59 | [You Drive Me Wild](https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:21 |
 | 60 | [What's Love Got To Do With It](https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [What's Love Got To Do With It](https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ) | 3:19 |
-| 61 | [Girl Money](https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Hot Wire](https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi) | 4:00 |
-| 62 | [Ain't Talkin' 'Bout Love \- 2004 Remaster](https://open.spotify.com/track/1tZdrScspGPI4cdkSChrcX) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 3:47 |
+| 61 | [Ain't Talkin' 'Bout Love \- 2004 Remaster](https://open.spotify.com/track/1tZdrScspGPI4cdkSChrcX) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 3:47 |
+| 62 | [Girl Money](https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Hot Wire](https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi) | 4:00 |
 | 63 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 |
 | 64 | [I Should Have Known It](https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I Should Have Known It](https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO) | 3:56 |
 | 65 | [Regierung](https://open.spotify.com/track/0GKswYJLUzxxR3eHtOxYBj) | [Die Ärzte](https://open.spotify.com/artist/0cbL6CYnRqpAxf1evwUVQD) | [Ein Song namens Schunder](https://open.spotify.com/album/6xi6GXWv4DPrIWxAFFw00t) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,428,198 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,428,148 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 13 | [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 |
 | 14 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
 | 15 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 |
-| 16 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
-| 17 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 |
+| 16 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 |
+| 17 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
 | 18 | [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 |
 | 19 | [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 |
 | 20 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 25 | [Issues \- Acoustic Version](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
 | 26 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
 | 27 | [Closer](https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH) | [Eric Serenade](https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda) | [Closer](https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih) | 3:08 |
-| 28 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
-| 29 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
+| 28 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
+| 29 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
 | 30 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 |
 | 31 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 |
 | 32 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 34 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 | 35 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 36 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
-| 37 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 |
-| 38 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
+| 37 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
+| 38 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 |
 | 39 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
 | 40 | [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 |
-| 41 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 |
-| 42 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 |
-| 43 | [Taste](https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ) | [Robin T.](https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq) | [Taste](https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt) | 3:09 |
-| 44 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
+| 41 | [Taste](https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ) | [Robin T.](https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq) | [Taste](https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt) | 3:09 |
+| 42 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
+| 43 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 |
+| 44 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 |
 | 45 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
 | 46 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 |
 | 47 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |

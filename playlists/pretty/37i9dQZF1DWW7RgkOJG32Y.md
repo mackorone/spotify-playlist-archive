@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: BigXthaPlug and Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,697 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,899 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

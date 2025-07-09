@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1309571,
+  "num_followers": 1309559,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADJIih0BbPFNca6EgDltb3G",
+  "snapshot_id": "aGsOAAAAAAAEb93Snfaf0l1WmtlbPUBi",
   "tracks": [
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 158497,
-      "name": "MI VERSI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
+      "duration_ms": 182317,
+      "name": "PVSL",
+      "url": "https://open.spotify.com/track/4Ej0vjqpzA8Glz5A00qGyZ"
     },
     {
       "added_at": null,
@@ -704,25 +704,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 182317,
-      "name": "PVSL",
-      "url": "https://open.spotify.com/track/4Ej0vjqpzA8Glz5A00qGyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
+      "duration_ms": 158497,
+      "name": "MI VERSI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 211208,
       "name": "Noche Complicada",
       "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
     },
     {
       "added_at": null,

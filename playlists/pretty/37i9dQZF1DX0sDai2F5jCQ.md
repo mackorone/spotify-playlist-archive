@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Nemzzz, Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,508 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,513 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 3 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
 | 4 | [West Life](https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Don't Die Before You're Dead](https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn) | 3:49 |
 | 5 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 |
-| 6 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
+| 6 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 7 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 |
 | 8 | [HBK \(feat\. 21 Savage\)](https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WICK](https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4) | 3:49 |
 | 9 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |

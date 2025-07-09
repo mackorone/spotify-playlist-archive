@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 202246,
       "name": "Bruno is Orange",
       "url": "https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v"
@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -7029,6 +7029,32 @@
     },
     {
       "album": {
+        "name": "Mean Girls (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Louderman",
+          "url": "https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0"
+        },
+        {
+          "name": "Kyle Selig",
+          "url": "https://open.spotify.com/artist/0qiFtC52T37zXjHl0DDMAr"
+        },
+        {
+          "name": "Original Broadway Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187106,
+      "name": "Someone Gets Hurt",
+      "url": "https://open.spotify.com/track/1zyrjK69LRZCvEmUtJUbsT"
+    },
+    {
+      "album": {
         "name": "Someone On The Internet",
         "url": "https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX"
       },
@@ -7584,7 +7610,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 183687,
       "name": "The Great Magician",
       "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"

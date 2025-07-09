@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 52046,
+  "num_followers": 52049,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADCKQ0BY5AOE3DHahayl7NL",
+  "snapshot_id": "aGsOAAAAAACOL7KKh9zwOwO2VabuLgeF",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Louise - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' My Time",
         "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 223133,
       "name": "You've Been in Love Too Long - 2008 Remaster",
       "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From The Motion Picture Michael",
-        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 264786,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonnie Raitt And Friends",
         "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 300400,
       "name": "I Don't Want Anything To Change - Live",
       "url": "https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music From The Motion Picture Michael",
+        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        },
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Good Man, Good Woman",
-      "url": "https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -651,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souls Alike",
-        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
       "artists": [
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
         }
       ],
-      "duration_ms": 218960,
-      "name": "I Will Not Be Broken",
-      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
+      "duration_ms": 213666,
+      "name": "Good Man, Good Woman",
+      "url": "https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+        "name": "Souls Alike",
+        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 163266,
-      "name": "Papa Come Quick (Jody And Chico)",
-      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
+      "duration_ms": 218960,
+      "name": "I Will Not Be Broken",
+      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 216093,
       "name": "I Ain't Blue - 2008 Remaster",
       "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Papa Come Quick (Jody And Chico)",
+      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
     },
     {
       "added_at": null,
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Bonnie Raitt On Capitol 1989-2003",
-        "url": "https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
       "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 217933,
-      "name": "Silver Lining - Radio Edit",
-      "url": "https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER"
+      "duration_ms": 240666,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
     },
     {
       "added_at": null,
@@ -823,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
+        "name": "The Best Of Bonnie Raitt On Capitol 1989-2003",
+        "url": "https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4"
       },
       "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
+      "duration_ms": 217933,
+      "name": "Silver Lining - Radio Edit",
+      "url": "https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER"
     },
     {
       "added_at": null,

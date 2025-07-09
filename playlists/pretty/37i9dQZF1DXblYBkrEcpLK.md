@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: ASCA
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,884 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,908 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 37 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 |
 | 38 | [大丈夫](https://open.spotify.com/track/0OaPd2X0KFIn8iOxEtZZQG) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大丈夫](https://open.spotify.com/album/4tPpQo2WZed5nCjl1oIaia) | 4:08 |
 | 39 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
-| 40 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 |
-| 41 | [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 |
+| 40 | [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 |
+| 41 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 |
 | 42 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 43 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
 | 44 | [RISE UP](https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM) | 3:00 |
 | 45 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
 | 46 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
-| 47 | [Shitsumon Koitte nandeshoka?](https://open.spotify.com/track/1326FQlUVBka5CAXiQFO1J) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [Shitsumon Koitte nandeshoka?](https://open.spotify.com/album/3M1bxF7NfXS2cWqTgJadkp) | 3:03 |
-| 48 | [POP IN 2](https://open.spotify.com/track/6WGrtUmFwTaP5G8AeegajH) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.4\)](https://open.spotify.com/album/5Uuyj9BXLVhjiz0z033fpp) | 4:27 |
-| 49 | [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 |
+| 47 | [Feel](https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Feel / mild days](https://open.spotify.com/album/48KQ7NOwA31fMBBhtmrMrr) | 4:05 |
+| 48 | [Shitsumon Koitte nandeshoka?](https://open.spotify.com/track/1326FQlUVBka5CAXiQFO1J) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [Shitsumon Koitte nandeshoka?](https://open.spotify.com/album/3M1bxF7NfXS2cWqTgJadkp) | 3:03 |
+| 49 | [POP IN 2](https://open.spotify.com/track/6WGrtUmFwTaP5G8AeegajH) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.4\)](https://open.spotify.com/album/5Uuyj9BXLVhjiz0z033fpp) | 4:27 |
 | 50 | [TC: Weight of the World \- English Version](https://open.spotify.com/track/17XFNf783Yi942wEADQbFr) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi), [MONACA](https://open.spotify.com/artist/51YzpymjYYIUZ6WYMyiAbQ) | [TC: Weight of the World \(English Version\)](https://open.spotify.com/album/3ETClfIiLTcHPOXkiYym6I) | 5:06 |
 
 Snapshot ID: `aGdL0gAAAADd/CsiDBFeFPbinUgfwFFN`

@@ -5021,6 +5021,24 @@
     },
     {
       "album": {
+        "name": "Pages Still Turning",
+        "url": "https://open.spotify.com/album/4HIyKUXFCEMWQOQ5pA7H4F"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166564,
+      "name": "Pages Still Turning",
+      "url": "https://open.spotify.com/track/6dVyeiIS3sJySILJbzrP26"
+    },
+    {
+      "album": {
         "name": "Past & Present",
         "url": "https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs"
       },
@@ -6188,6 +6206,24 @@
       "duration_ms": 172250,
       "name": "Sunbeam",
       "url": "https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/3sksXcvPgQKyuJZFVW23AW"
+      },
+      "artists": [
+        {
+          "name": "Jonah Heather",
+          "url": "https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/0wbiU3krz8dP0YBz2zGSY3"
     },
     {
       "album": {
@@ -7768,7 +7804,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 128181,
       "name": "Woven Hearts",
       "url": "https://open.spotify.com/track/1XDYWnuk1185YInxxzXdl4"

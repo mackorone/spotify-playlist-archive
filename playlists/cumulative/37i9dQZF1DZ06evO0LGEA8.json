@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Danzando Con Demonios",
+        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205007,
+      "name": "Cuchillo en la Yugular",
+      "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
+    },
+    {
+      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 214210,
       "name": "No te puedo olvidar",
       "url": "https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6"

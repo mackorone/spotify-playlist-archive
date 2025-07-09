@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36310,
+  "num_followers": 36320,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAAA4AsgpyCJkvf+rn7Uandyj",
+  "snapshot_id": "aGsOAAAAAAAUpw2M/YTu3pmdfm8Nyj7A",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Already Good (Tasha Slide)",
-        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/71LAwwrE9j6BamiEqWT4B2"
       },
       "artists": [
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 222082,
-      "name": "Already Good (Tasha Slide)",
-      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
+      "duration_ms": 513542,
+      "name": "Fear is Not My Future (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/2zUFgBx6OWmz4JfRcrDvTd"
     },
     {
       "added_at": null,
@@ -291,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/71LAwwrE9j6BamiEqWT4B2"
+        "name": "Already Good (Tasha Slide)",
+        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
       },
       "artists": [
-        {
-          "name": "Todd Galberth",
-          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
-        },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 513542,
-      "name": "Fear is Not My Future (feat. Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/2zUFgBx6OWmz4JfRcrDvTd"
+      "duration_ms": 222082,
+      "name": "Already Good (Tasha Slide)",
+      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 326346,
-      "name": "Jesus Saves - Live",
-      "url": "https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Water (Church Sessions)",
         "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 464809,
       "name": "Holy Water - Church Sessions",
       "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 326346,
+      "name": "Jesus Saves - Live",
+      "url": "https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1 Mic 1 Take",
+        "url": "https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 307140,
+      "name": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit.",
         "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 383973,
       "name": "Forever At Your Feet",
       "url": "https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1 Mic 1 Take",
-        "url": "https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 307140,
-      "name": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 369840,
       "name": "Grace - Live",
       "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 366360,
+      "name": "Love You Forever - Live",
+      "url": "https://open.spotify.com/track/60D2WPkJJy2bl9FIscd5vb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 214872,
       "name": "Blessings (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 366360,
-      "name": "Love You Forever - Live",
-      "url": "https://open.spotify.com/track/60D2WPkJJy2bl9FIscd5vb"
     },
     {
       "added_at": null,

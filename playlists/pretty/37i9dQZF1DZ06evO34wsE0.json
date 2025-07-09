@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 249877,
+  "num_followers": 249901,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADIf2mEJHFb3YlFTH1+Eczl",
+  "snapshot_id": "aGsOAAAAAADQYN79kx6iI8mY2zhym383",
   "tracks": [
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
+        "name": "Encontros Pelo Caminho",
+        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
       "artists": [
+        {
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 159382,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
+      "duration_ms": 214440,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
     },
     {
       "added_at": null,
@@ -835,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontros Pelo Caminho",
-        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
       },
       "artists": [
-        {
-          "name": "Paula Fernandes",
-          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 214440,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
+      "duration_ms": 159382,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
     }
   ],
   "unique_name": "This Is Shania Twain",

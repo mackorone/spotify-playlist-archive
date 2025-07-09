@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: BABYMONSTER
 
-1,508 songs - 3 day 8 hr 12 min
+1,509 songs - 3 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Knock On My Door](https://open.spotify.com/track/0hAvf6Lzo1rYcq7aOtdohj) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Knock On My Door](https://open.spotify.com/album/1cNekjNeCf2CaHdiJk0S44) | 2:25 | 2023-03-21 | 2023-05-10 |
 | [KNOW ABOUT ME](https://open.spotify.com/track/719MkAinn7QVNoibvtkSHW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/3ypVkFQVBorVyk2hdaYs4w) | 2:45 | 2025-03-17 |  |
 | [L.O.V.E \(Romantic\)](https://open.spotify.com/track/444IU436DVhrz6HJlPv4C4) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [L.O.V.E \(Romantic\)\) \(Villain With A Crush X SAY MY NAME\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/2EQVBowFogB13LDXv5UdlU) | 2:44 | 2025-07-07 |  |
+| [La La Love Me](https://open.spotify.com/track/6l0bVqiuv0HE7FxUG1TOkA) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Album 'A Montage of \( \)'](https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq) | 3:05 | 2025-07-07 |  |
 | [La Vida Loca](https://open.spotify.com/track/5YazeJ15q1Mypr9ZYLJaT9) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [La Vida Loca](https://open.spotify.com/album/7v5WJg3N0QQYC9BIlDnB0Z) | 3:07 | 2022-08-09 | 2022-10-12 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-09 | 2024-04-03 |
 | [Last Breath](https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Last Breath](https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj) | 2:41 | 2021-12-23 | 2022-02-22 |

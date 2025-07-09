@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Cam'ron
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,141 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,674 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 78 | [Selfish](https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 3:45 |
 | 79 | [Stuntin' Like My Daddy \- Street](https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Like Father Like Son](https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp) | 4:27 |
 | 80 | [Slow Jamz \(feat\. Kanye West & Jamie Foxx\)](https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Kamikaze](https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N) | 3:32 |
-| 81 | [Westside Story](https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:43 |
-| 82 | [What These Bitches Want](https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:13 |
+| 81 | [What These Bitches Want](https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:13 |
+| 82 | [Westside Story](https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:43 |
 | 83 | [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 |
 | 84 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
 | 85 | [Sittin' Sidewayz \(feat\. Big Pokey\)](https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Mika Heggemann, DJ Cringey, KYANU
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,532 likes - 101 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,584 likes - 101 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

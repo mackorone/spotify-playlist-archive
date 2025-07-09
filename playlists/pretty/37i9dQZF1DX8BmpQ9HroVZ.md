@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,381 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,517 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 10 | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/album/47HV1rQNbrAPcv15zgbTHy) | 3:28 |
 | 11 | [Ishq](https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 3:44 |
 | 12 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
-| 13 | [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy), [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 |
+| 13 | [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 |
 | 14 | [Qatal](https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:51 |
 | 15 | [Main Rahun \(From "Parwarish"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/track/0REdqbK0A99eKrYF66zSDO) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Main Rahun \(From "Parwarish"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/25gVPoJgNIlNPGxOOij21C) | 3:25 |
 | 16 | [Heer](https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC) | [Heer](https://open.spotify.com/album/27XIdXAZ9IJ9UGqVjJzOcm) | 4:10 |

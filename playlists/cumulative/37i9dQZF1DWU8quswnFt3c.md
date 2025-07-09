@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: Regina Song
 
-2,503 songs - 5 day 18 hr 22 min
+2,504 songs - 5 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,7 +691,7 @@
 | [Febrero](https://open.spotify.com/track/4LIVoYHPiHaxQZAnsEe4sI) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Febrero](https://open.spotify.com/album/4mmcM1ZG1UvRcpqnlX22M3) | 2:44 | 2025-05-07 | 2025-06-05 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2024-03-06 | 2024-04-04 |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-08-02 | 2023-09-07 |
-| [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 | 2025-07-02 |  |
+| [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 | 2025-07-02 | 2025-07-09 |
 | [Feet Up](https://open.spotify.com/track/0Zyt2jTbyRv1QNb3Yahk1m) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR) | 2:59 | 2023-11-29 | 2024-01-11 |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-07 | 2023-07-06 |
 | [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 | 2024-08-07 | 2024-09-05 |
@@ -1178,6 +1178,7 @@
 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 | 2025-06-04 |  |
 | [lavender salt](https://open.spotify.com/track/2zK2DTRbhHUYc7YpOlTZbk) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.1](https://open.spotify.com/album/1MiGKANNh5p67l9C8dRMh9) | 4:01 | 2024-03-06 | 2024-04-04 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-08-03 | 2022-09-09 |
+| [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 | 2025-07-08 |  |
 | [Lazemni Break](https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Lazemni Break](https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT) | 2:22 | 2022-09-07 | 2022-09-15 |
 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 | 2022-01-05 | 2022-02-03 |
 | [Le Lac](https://open.spotify.com/track/4qtOfkfpxGBkWpwRnIvqdT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Le Lac](https://open.spotify.com/album/1WHCEWR98RfnMs6nu393uF) | 3:09 | 2022-02-02 | 2022-03-09 |

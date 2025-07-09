@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover: Ayo Maff
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,353 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,457 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 20 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 |
 | 21 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
 | 22 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 |
-| 23 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 |
-| 24 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
+| 23 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
+| 24 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 |
 | 25 | [Karma](https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:34 |
 | 26 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 |
 | 27 | [Blessing](https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:27 |
@@ -50,19 +50,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 40 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
 | 41 | [Baba God](https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:44 |
 | 42 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 |
-| 43 | [Shkran Lak](https://open.spotify.com/track/1LI2n5x6htKLCAzc6lCN8k) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:04 |
-| 44 | [Sorry](https://open.spotify.com/track/3a9mvqQDZxhahR05qaBlmJ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Light](https://open.spotify.com/album/6iHR6cIn5tlLFVIGOB3pH2) | 2:24 |
+| 43 | [Sorry](https://open.spotify.com/track/3a9mvqQDZxhahR05qaBlmJ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Light](https://open.spotify.com/album/6iHR6cIn5tlLFVIGOB3pH2) | 2:24 |
+| 44 | [Shkran Lak](https://open.spotify.com/track/1LI2n5x6htKLCAzc6lCN8k) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:04 |
 | 45 | [Blessed](https://open.spotify.com/track/11FkAWh7OlvM4hFkSipQSw) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Blessed](https://open.spotify.com/album/3Pmjc2jXyrcN8TfzvkGddQ) | 3:49 |
 | 46 | [Introduction](https://open.spotify.com/track/18Dqu7gVORIPeijXiugQnk) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Introduction](https://open.spotify.com/album/3rhPZe2525Jd9SO1A4FIFR) | 2:25 |
 | 47 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
 | 48 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 |
 | 49 | [Casablanca](https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca](https://open.spotify.com/album/1PrAQba9MMtVlUGtjxnf1b) | 2:43 |
-| 50 | [7AM in Lekki](https://open.spotify.com/track/6iaJo4mAS7qmob0xtJ17sQ) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:30 |
+| 50 | [Humble Cry](https://open.spotify.com/track/2Dky8Pzz33z7ymQ7CZFLgs) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Last Son of a Widow](https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr) | 2:41 |
 | 51 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 | 52 | [1000 Thoughts](https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:26 |
-| 53 | [Humble Cry](https://open.spotify.com/track/2Dky8Pzz33z7ymQ7CZFLgs) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Last Son of a Widow](https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr) | 2:41 |
-| 54 | [Amdallah](https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 3:00 |
-| 55 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 |
+| 53 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 |
+| 54 | [7AM in Lekki](https://open.spotify.com/track/6iaJo4mAS7qmob0xtJ17sQ) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:30 |
+| 55 | [Amdallah](https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 3:00 |
 | 56 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 |
 | 57 | [Fire](https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fire](https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O) | 3:58 |
 | 58 | [Forgive Me](https://open.spotify.com/track/53Wj8F6qKRewS5IbPklcyj) | [Lordeyang](https://open.spotify.com/artist/6v8leGUQLRwqN1MKGzcJow), [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO) | [Forgive Me](https://open.spotify.com/album/2GO4s6LXqPZJyvMzAzK0r0) | 2:36 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 75 | [Beamer](https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Beamer](https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q) | 2:46 |
 | 76 | [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 |
 | 77 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
-| 78 | [365 Days](https://open.spotify.com/track/1fFixJPR0ZXgpm1b8DeL7g) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Timileyin](https://open.spotify.com/album/5gaDu1D7WaAQeZcb5Nqvvx) | 2:56 |
-| 79 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
+| 78 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
+| 79 | [365 Days](https://open.spotify.com/track/1fFixJPR0ZXgpm1b8DeL7g) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Timileyin](https://open.spotify.com/album/5gaDu1D7WaAQeZcb5Nqvvx) | 2:56 |
 | 80 | [Trench Anthem](https://open.spotify.com/track/3pg3n0XBIUJkUeUEZjQmQV) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Freshout Jimma, Vol\. 1](https://open.spotify.com/album/4vEbQcyYikY4qCKGxAgfeT) | 2:43 |
 
 Snapshot ID: `aGeIKQAAAAAkr3xkv0Kn296TFyKgaMLN`

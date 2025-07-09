@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,990 songs - 1 day 16 hr 17 min
+1,991 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1492,6 +1492,7 @@
 | [September Shadows](https://open.spotify.com/track/6Dsk3lg7nuNpxf22d3oqFE) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
 | [Serene](https://open.spotify.com/track/7HVDOkkwld3WSn2sJg8Ert) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Serene](https://open.spotify.com/album/0CeS1bFOgD60GVqhZjKDle) | 1:00 | 2024-03-08 |  |
 | [Serene \- Cello Version](https://open.spotify.com/track/5rBgsbVvDcPAyuhYFWkSft) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Again](https://open.spotify.com/album/4ocM7Lg4DZPKwlJV7pFXyU) | 1:00 | 2024-03-08 |  |
+| [Serene Night \- Alternate Piano Version](https://open.spotify.com/track/4ZiorYEsI3arYxupt48p3O) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Serene Night \(Alternate Piano Version\)](https://open.spotify.com/album/3g6AidAeHQRrGyI7GWBdnk) | 1:00 | 2025-07-08 |  |
 | [Serene Night Arr\. For Piano](https://open.spotify.com/track/7M45BtePQXBdng1jcjylIC) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Serene Night Arr\. For Piano](https://open.spotify.com/album/2tHLQMAOdinK2cjM2vIcuz) | 1:00 | 2025-07-06 |  |
 | [Serene Sun](https://open.spotify.com/track/487hoXAuoV9CCu6HI9wVph) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:03 | 2024-01-29 |  |
 | [Serenity In Spring](https://open.spotify.com/track/0a00KnbzsE9kGcgzvmtRsP) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Serenity In Spring](https://open.spotify.com/album/3RZMHBvNL4Fdbb42zVhEi6) | 1:00 | 2023-02-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,081 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,243 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 19 | [Volver a Ser](https://open.spotify.com/track/3Fac6wn77bH534pIv3YAoU) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Volver a Ser](https://open.spotify.com/album/1YAjbNfxw6lhZ0X2I2I4AQ) | 5:51 |
 | 20 | [El Diablo Anda Suelto](https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 6:20 |
 | 21 | [La Luna Sabe](https://open.spotify.com/track/09qJ4Mg46EmCp3P7w7YFEz) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 5:53 |
-| 22 | [Mal Ejemplo](https://open.spotify.com/track/0HSBllfhckt9BhJAvNGLCN) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM) | 5:02 |
-| 23 | [Dejate Querer](https://open.spotify.com/track/0ZGklobMQKBTtfwcuYEGWE) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 2:54 |
+| 22 | [Dejate Querer](https://open.spotify.com/track/0ZGklobMQKBTtfwcuYEGWE) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 2:54 |
+| 23 | [Mal Ejemplo](https://open.spotify.com/track/0HSBllfhckt9BhJAvNGLCN) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM) | 5:02 |
 | 24 | [De Mexico Song](https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Mexico Song](https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy) | 3:33 |
 | 25 | [Aun Te Pienso](https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Aun Te Pienso](https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg) | 3:04 |
 | 26 | [Estamos al Aire](https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 4](https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM) | 3:06 |
-| 27 | [Como Borrar Tus Besos](https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Seguimos Fumando](https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO) | 3:43 |
-| 28 | [Biscochologo](https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C) | 5:20 |
-| 29 | [Y la Verdad](https://open.spotify.com/track/4QXfUoHXNWTDMtNsxoak42) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 1:58 |
+| 27 | [Y la Verdad](https://open.spotify.com/track/4QXfUoHXNWTDMtNsxoak42) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 1:58 |
+| 28 | [Como Borrar Tus Besos](https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Seguimos Fumando](https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO) | 3:43 |
+| 29 | [Biscochologo](https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C) | 5:20 |
 | 30 | [Si Tuviera Una Fortuna](https://open.spotify.com/track/4WYsUSOCVNPloM1hZ8bcwg) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF) | 5:10 |
 | 31 | [Mirada Triste](https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:10 |
 | 32 | [Compatible Contigo](https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 45 | [El Borracho Y La Ruca](https://open.spotify.com/track/7aEhagyhf38ZE6PiLKbya3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:24 |
 | 46 | [Nos Fuimos por Ahí](https://open.spotify.com/track/4slqlyEAIve2ZfeJS6iHDk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM) | 4:18 |
 | 47 | [En el Espacio](https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [En el Espacio](https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj) | 4:55 |
-| 48 | [Nunca Imaginé](https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf) | 2:48 |
-| 49 | [Alcoholizados](https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:51 |
-| 50 | [No te puedo olvidar](https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No te puedo olvidar](https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8) | 3:34 |
+| 48 | [Alcoholizados](https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:51 |
+| 49 | [Nunca Imaginé](https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf) | 2:48 |
+| 50 | [Cuchillo en la Yugular](https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 3:25 |
 
-Snapshot ID: `aGm8gAAAAADBpVvvK7PN34X8KdkD9x2h`
+Snapshot ID: `aGsOAAAAAABE4eVjjz5+QbPxAohAmn4h`

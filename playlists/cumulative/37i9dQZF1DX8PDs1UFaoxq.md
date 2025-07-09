@@ -4,7 +4,7 @@
 
 > Welcome to Beechwood Island\. Listen to the music from We Were Liars, a new original series now streaming on Prime Video.
 
-83 songs - 4 hr 37 min
+84 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [More Than Meets the Eye](https://open.spotify.com/track/3boTzsAuTgfUxv1aSLPEXI) | [Rebel Hearts Club](https://open.spotify.com/artist/0bPyTjtEph4SHduJYYsM1p) | [Rebel Hearts Club \- EP](https://open.spotify.com/album/1H5zcdweeSHvhgrsbSwgOz) | 2:55 | 2025-06-18 |  |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2025-06-18 |  |
 | [No](https://open.spotify.com/track/0BSGLUlxKkUmBQqUlAYTQp) | [ORION](https://open.spotify.com/artist/4IT4Zh0mA4LSUK8IBZr0wJ) | [No](https://open.spotify.com/album/2H7VmfFZt60OqtSqka839z) | 2:31 | 2025-06-18 |  |
+| [No Us](https://open.spotify.com/track/0U5v65NjAtaeW6wbig6ZzY) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [No Us](https://open.spotify.com/album/63ETk6kfvGwrTfErHVQjk0) | 3:18 | 2025-07-08 |  |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2025-06-18 |  |
 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2025-06-18 |  |
 | [On My Own](https://open.spotify.com/track/1LOw0AFihhTnUG8CqKvVWj) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [On My Own](https://open.spotify.com/album/2PAi41NtJQCVZ6RYpaM0Vn) | 3:57 | 2025-06-18 |  |

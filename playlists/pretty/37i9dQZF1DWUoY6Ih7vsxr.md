@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,536 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,664 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 32 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
 | 33 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
 | 34 | [SHAKE IT](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SHAKE IT](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) | 3:28 |
-| 35 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
-| 36 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |
+| 35 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |
+| 36 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
 | 37 | [Fire](https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:42 |
 | 38 | [난리나](https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Welcome to the BLOCK](https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om) | 3:24 |
 | 39 | [Alone](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [ALONE](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) | 3:26 |
@@ -73,30 +73,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 63 | [Beautiful Night](https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Midnight Sun](https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu) | 3:38 |
 | 64 | [Can't Stop](https://open.spotify.com/track/2sdf2x4YLaHb1k9HtE9cBs) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Can't Stop](https://open.spotify.com/album/1FezVdVT78L4wviMeDX7tn) | 3:57 |
 | 65 | [Lucky](https://open.spotify.com/track/546Y4NAdcGBeOpMWOvuJdw) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:23 |
-| 66 | [Man In Love](https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [New Challenge](https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA) | 3:17 |
-| 67 | [bang](https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Afterschool 3rd Single BANG](https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h) | 3:18 |
+| 66 | [bang](https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Afterschool 3rd Single BANG](https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h) | 3:18 |
+| 67 | [Man In Love](https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [New Challenge](https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA) | 3:17 |
 | 68 | [Shock](https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Shock Of The New Era](https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg) | 3:45 |
 | 69 | [WOW](https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Press Play](https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm) | 3:37 |
 | 70 | [Gone not around any longer](https://open.spotify.com/track/4TAENzBN2lYuXBF9ZNauwJ) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Gone not around any longer](https://open.spotify.com/album/7Jxv3EPhYBh6zevT4eUZQo) | 3:31 |
 | 71 | [I LOVE YOU](https://open.spotify.com/track/193m2rJhVvkjr9c8acLoxZ) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Love You](https://open.spotify.com/album/5O97HxWI6WoqMqVYbXe9qg) | 3:57 |
-| 72 | [Love](https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluelove](https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU) | 3:47 |
-| 73 | [NU ABO](https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [NU ABO](https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO) | 3:44 |
+| 72 | [Red Light](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:31 |
+| 73 | [Love](https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluelove](https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU) | 3:47 |
 | 74 | [Mamma Mia](https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [카라\(KARA\) 6th Mini Album \[Day&Night\]](https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr) | 3:32 |
 | 75 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
 | 76 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
 | 77 | [U R Man](https://open.spotify.com/track/4EKS4BdlS8yL7iMbE8G35Z) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 스페셜 앨범](https://open.spotify.com/album/3XoemveVVhEFXWbWgyzKem) | 3:23 |
 | 78 | [12:30](https://open.spotify.com/track/0uvl4TuFhdWZshHX9Hd6kI) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Time](https://open.spotify.com/album/2bYQizcDT7UdexHetsvQNa) | 3:53 |
 | 79 | [Kiss \(Dara\)](https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:33 |
-| 80 | [Rising Sun](https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Rising Sun \- 2nd Album](https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR) | 4:42 |
-| 81 | [Volume Up](https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Volume Up](https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT) | 3:50 |
+| 80 | [Volume Up](https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Volume Up](https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT) | 3:50 |
+| 81 | [Rising Sun](https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Rising Sun \- 2nd Album](https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR) | 4:42 |
 | 82 | [Love Like This](https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 / Rebirth](https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s) | 2:48 |
-| 83 | [My My](https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:54 |
-| 84 | [Miss Right](https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [No.1](https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb) | 3:17 |
+| 83 | [Miss Right](https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [No.1](https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb) | 3:17 |
+| 84 | [My My](https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:54 |
 | 85 | [Every night](https://open.spotify.com/track/4Ux83SOG5vqnbohuijD2Zv) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Every night](https://open.spotify.com/album/0opK7fhDf6UWIVb4AKEeRo) | 3:51 |
 | 86 | [내 귀에 캔디 \(FEAT\. 택연 Of 2PM\)](https://open.spotify.com/track/6bkovwrdDRK4NRaEH0ryar) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [TAECYEON](https://open.spotify.com/artist/3bk5TbtyJDRrJ8lMQIzSPh) | [Timeless : The Best](https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2) | 3:46 |
-| 87 | [U & I](https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [A's Doll House](https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC) | 3:14 |
-| 88 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |
-| 89 | [Love Ya](https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Destination](https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC) | 3:25 |
+| 87 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |
+| 88 | [Love Ya](https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Destination](https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC) | 3:25 |
+| 89 | [U & I](https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [A's Doll House](https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC) | 3:14 |
 | 90 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
 | 91 | [I don't Know](https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Seven Springs Of Apink](https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R) | 3:44 |
 | 92 | [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 |

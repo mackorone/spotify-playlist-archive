@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-434 songs - 18 hr 40 min
+436 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2022-03-04 | 2024-06-08 |
 | [Owl & the Moon](https://open.spotify.com/track/3SXdjP2Bguxi8zGp48erWj) | [Alan Gogoll](https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3) | [Owl & the Moon](https://open.spotify.com/album/5fuDpP53oiSHp0IqXHflYw) | 2:43 | 2022-07-22 | 2022-12-10 |
 | [Pacific Northwest](https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v) | [Roy Edwin Williams](https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW) | [Pride of Pennsylvania](https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO) | 3:22 | 2022-07-01 | 2022-07-22 |
+| [Pages Still Turning](https://open.spotify.com/track/6dVyeiIS3sJySILJbzrP26) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Pages Still Turning](https://open.spotify.com/album/4HIyKUXFCEMWQOQ5pA7H4F) | 2:46 | 2025-07-08 |  |
 | [Past & Present](https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Past & Present](https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs) | 3:01 | 2022-03-04 | 2022-07-22 |
 | [Patience](https://open.spotify.com/track/64YCCiONF91sIVJu3oJuIx) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Patience](https://open.spotify.com/album/2owUUKY5tTrAfOuu1OG5V1) | 2:25 | 2025-05-28 |  |
 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2022-03-04 | 2023-01-20 |
@@ -351,6 +352,7 @@
 | [Summer Rain](https://open.spotify.com/track/3Q3cJemxjTRoQmtyn6EXA8) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Summer Rain](https://open.spotify.com/album/24TN7V6RyqjbrrAshiq5hr) | 2:39 | 2024-08-07 | 2025-06-12 |
 | [Sun Waves](https://open.spotify.com/track/2DTFW9FNwqG8yFaq1g6lzd) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Sun Waves](https://open.spotify.com/album/186RycBnLS6vwy9Io1fsFY) | 2:57 | 2024-11-20 | 2025-03-12 |
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-09 |  |
+| [Sunlight](https://open.spotify.com/track/0wbiU3krz8dP0YBz2zGSY3) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [Sunlight](https://open.spotify.com/album/3sksXcvPgQKyuJZFVW23AW) | 2:54 | 2025-07-08 |  |
 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 | 2022-03-04 | 2022-11-18 |
 | [Sunshine avenue](https://open.spotify.com/track/1K53kXlMNqLpdeMh1PqOum) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Sunshine avenue](https://open.spotify.com/album/3nqZymslQr1U9HgNfiYPwL) | 2:29 | 2024-07-19 |  |
 | [Sweet Child](https://open.spotify.com/track/7HlqWaNYkzl7uFPoqi6MHu) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:25 | 2024-02-02 | 2025-06-12 |
@@ -438,7 +440,7 @@
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 | 2025-03-12 |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 | 2023-12-15 |
 | [Wordless](https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg) | [Mell Woods](https://open.spotify.com/artist/4JapX3Eh1ncrfxZBaNvc6I) | [Wordless](https://open.spotify.com/album/7rfTvJgJZhlG5e5zeUrZtI) | 4:33 | 2022-10-07 | 2023-03-25 |
-| [Woven Hearts](https://open.spotify.com/track/1XDYWnuk1185YInxxzXdl4) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Woven Hearts](https://open.spotify.com/album/7DoR6X9GavSVmJ0G7aQPvw) | 2:08 | 2025-06-11 |  |
+| [Woven Hearts](https://open.spotify.com/track/1XDYWnuk1185YInxxzXdl4) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Woven Hearts](https://open.spotify.com/album/7DoR6X9GavSVmJ0G7aQPvw) | 2:08 | 2025-06-11 | 2025-07-09 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-24 | 2023-09-01 |
 | [Zenith](https://open.spotify.com/track/1kinFdrDDnmBhrGyCIGrM3) | [Maxime La Pierre](https://open.spotify.com/artist/2cEK29tjbvZltwtXcXhq8w) | [Caleidoscope](https://open.spotify.com/album/1X5bu0XoGfIZGOlWhkbxam) | 2:55 | 2022-03-04 | 2022-07-22 |
 | [Zumala](https://open.spotify.com/track/5Vl1Hua7EURdz34EnfwrKl) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Zumala](https://open.spotify.com/album/6AQTp4aTLOS1Z4XfAKxfVd) | 2:51 | 2025-06-11 |  |

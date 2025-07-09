@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,020 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,068 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [Por Tu Maldito Amor](https://open.spotify.com/track/6L6TzXnjMEsMMbBdQJAha1) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 4:00 |
 | 50 | [Retropopurrí \(Calles Enlodadas, Pase Y Pase, Dos Pajaritos\) \(En Vivo\)](https://open.spotify.com/track/08NvjgDsn0n0gIFbT3W436) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 5:35 |
 
-Snapshot ID: `aGm8gAAAAABJlCdfcrQf+6P4iOyB+t7s`
+Snapshot ID: `aGsOAAAAAAAmASbIGr7yLNj8+vQ8XLDl`

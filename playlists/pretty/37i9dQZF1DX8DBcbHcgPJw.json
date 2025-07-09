@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Max Carra & Lira.",
-  "num_followers": 1161676,
+  "num_followers": 1161527,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-07-04 13:17:50",
       "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
+    },
+    {
+      "added_at": "2025-07-04 13:17:50",
+      "album": {
         "name": "BORRACHO Y LOCO",
         "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 232781,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
-    },
-    {
-      "added_at": "2025-07-04 13:17:50",
-      "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2025-07-04 13:17:50",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-07-04 13:17:50",
       "album": {
-        "name": "Entre Beso y Beso",
-        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "Entre Beso y Beso",
-      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
-    },
-    {
-      "added_at": "2025-07-04 13:17:50",
-      "album": {
         "name": "Todo Comenz\u00f3 Bailando",
         "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 178291,
       "name": "Noche Loca",
       "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
+    },
+    {
+      "added_at": "2025-07-04 13:17:50",
+      "album": {
+        "name": "Entre Beso y Beso",
+        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Entre Beso y Beso",
+      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
     },
     {
       "added_at": "2025-07-04 13:17:50",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-07-04 13:17:50",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 131947,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19"
-    },
-    {
-      "added_at": "2025-07-04 13:17:50",
-      "album": {
         "name": "Sin Querer",
         "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 141071,
       "name": "Sin Querer",
       "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
+    },
+    {
+      "added_at": "2025-07-04 13:17:50",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 131947,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19"
     },
     {
       "added_at": "2025-07-04 13:17:50",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-07-04 13:17:50",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2025-07-04 13:17:50",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2025-07-04 13:17:50",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2025-07-04 13:17:50",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-07-04 13:17:50",
       "album": {
-        "name": "Piel a Piel",
-        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        }
-      ],
-      "duration_ms": 155350,
-      "name": "Piel a Piel",
-      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
-    },
-    {
-      "added_at": "2025-07-04 13:17:50",
-      "album": {
         "name": "Me toc\u00f3 perder",
         "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 126477,
       "name": "Me toc\u00f3 perder",
       "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
+    },
+    {
+      "added_at": "2025-07-04 13:17:50",
+      "album": {
+        "name": "Piel a Piel",
+        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Piel a Piel",
+      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
     },
     {
       "added_at": "2025-07-04 13:17:50",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2025-07-04 13:17:50",
       "album": {
-        "name": "A Puros Likes",
-        "url": "https://open.spotify.com/album/5fbvqG99ukVwuhPhTB0guE"
-      },
-      "artists": [
-        {
-          "name": "Diel Paris",
-          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
-        },
-        {
-          "name": "KINGTO",
-          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
-        }
-      ],
-      "duration_ms": 155562,
-      "name": "A Puros Likes",
-      "url": "https://open.spotify.com/track/5hoL8J4IVIKyKwjkQXhKy4"
-    },
-    {
-      "added_at": "2025-07-04 13:17:50",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 190449,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/58Bus8hzPubXFBYelGrVMZ"
+    },
+    {
+      "added_at": "2025-07-04 13:17:50",
+      "album": {
+        "name": "A Puros Likes",
+        "url": "https://open.spotify.com/album/5fbvqG99ukVwuhPhTB0guE"
+      },
+      "artists": [
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        },
+        {
+          "name": "KINGTO",
+          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+        }
+      ],
+      "duration_ms": 155562,
+      "name": "A Puros Likes",
+      "url": "https://open.spotify.com/track/5hoL8J4IVIKyKwjkQXhKy4"
     },
     {
       "added_at": "2025-07-04 13:17:50",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-07-04 13:17:50",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 193347,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
-    },
-    {
-      "added_at": "2025-07-04 13:17:50",
-      "album": {
         "name": "Maravillosa Esta Noche",
         "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2025-07-04 13:17:50",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 193347,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
     },
     {
       "added_at": "2025-07-04 13:17:50",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2025-07-04 13:17:50",
       "album": {
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
+    },
+    {
+      "added_at": "2025-07-04 13:17:50",
+      "album": {
         "name": "Amigo Remix",
         "url": "https://open.spotify.com/album/14t7REZzfSQYODT3If4Ti3"
       },
@@ -2031,30 +2047,6 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
-    },
-    {
-      "added_at": "2025-07-04 13:17:50",
-      "album": {
-        "name": "No Te Vayas (Remix)",
-        "url": "https://open.spotify.com/album/78XsJ5qvHNxyvXGUm18FPm"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "No Te Vayas - Remix",
-      "url": "https://open.spotify.com/track/1owmQGMgruRHTIQLGFCoEz"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,636 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,601 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 57 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
 | 58 | [My Love](https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [My Love](https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ) | 4:01 |
 | 59 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |
-| 60 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
-| 61 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
-| 62 | [Three Drinks Behind](https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Three Drinks Behind](https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W) | 3:39 |
+| 60 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
+| 61 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
+| 62 | [The Little Things](https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [The Little Things](https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO) | 3:38 |
 | 63 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
 | 64 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
 | 65 | [Hell of a Life](https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Hell of a Life](https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT) | 3:15 |
 | 66 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 |
-| 67 | [The Little Things](https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [The Little Things](https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO) | 3:38 |
+| 67 | [Three Drinks Behind](https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Three Drinks Behind](https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W) | 3:39 |
 | 68 | [Hearts Don't](https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Hearts Don't](https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz) | 3:38 |
 | 69 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 |
 | 70 | [Outlaws and Mustangs](https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Outlaws and Mustangs](https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs) | 4:00 |

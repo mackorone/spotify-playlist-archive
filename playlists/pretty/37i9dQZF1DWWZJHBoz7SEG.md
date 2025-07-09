@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Después de la tormenta sale el sol ☀️\. Luis R Conriquez y Carín León en portada 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,666 likes - 57 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,831 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Music from the most memorable halftime shows. Cover: Kendrick Lamar",
-  "num_followers": 158906,
+  "num_followers": 158917,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -463,6 +463,26 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "SexyBack (feat. Timbaland)",
+      "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "SexyBack (feat. Timbaland)",
-      "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -719,6 +719,26 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 227893,
       "name": "Firework",
       "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
-    },
-    {
       "added_at": "2024-02-12 01:56:03",
       "album": {
         "name": "Confessions (Expanded Edition)",
@@ -1219,6 +1203,22 @@
       "duration_ms": 231933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2024-02-09 05:43:06",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-02-09 05:43:06",
       "album": {
-        "name": "The Blues Brothers Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
-      },
-      "artists": [
-        {
-          "name": "The Blues Brothers",
-          "url": "https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Everybody Needs Somebody to Love",
-      "url": "https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g"
-    },
-    {
-      "added_at": "2024-02-09 05:43:06",
-      "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 253066,
       "name": "Bad Boy for Life",
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
+    },
+    {
+      "added_at": "2024-02-09 05:43:06",
+      "album": {
+        "name": "The Blues Brothers Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
+      },
+      "artists": [
+        {
+          "name": "The Blues Brothers",
+          "url": "https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Everybody Needs Somebody to Love",
+      "url": "https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g"
     },
     {
       "added_at": "2024-02-09 05:43:06",

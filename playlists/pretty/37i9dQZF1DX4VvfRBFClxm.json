@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1481631,
+  "num_followers": 1481594,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Let It Go - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Let It Go - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Are You Happy Now?",
-        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "New Rules (Acoustic)",
         "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 213436,
       "name": "New Rules - Acoustic",
       "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Are You Happy Now?",
+        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Higher Power (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 214427,
-      "name": "Higher Power - Acoustic Version",
-      "url": "https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 140800,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Higher Power (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 214427,
+      "name": "Higher Power - Acoustic Version",
+      "url": "https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Better Now (Acoustic)",
-        "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
-      },
-      "artists": [
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 234551,
-      "name": "Better Now - Acoustic",
-      "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Lego House - Single",
         "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 211000,
       "name": "Lego House",
       "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Better Now (Acoustic)",
+        "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 234551,
+      "name": "Better Now - Acoustic",
+      "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
     },
     {
       "added_at": "2024-07-12 04:00:00",

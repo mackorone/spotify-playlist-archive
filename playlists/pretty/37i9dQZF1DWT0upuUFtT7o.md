@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > Celebrating 10 years of the best new indie music from independent artists\. Cover: Maiya Blaney
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,941 likes - 131 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,949 likes - 131 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

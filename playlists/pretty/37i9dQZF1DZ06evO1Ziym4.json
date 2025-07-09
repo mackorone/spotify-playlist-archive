@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1533156,
+  "num_followers": 1533398,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACydehXM39DfqNZmLVAZgfm",
+  "snapshot_id": "aGsOAAAAAAB3E0vNQB3qmAol/DnAxhwR",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Use Your Illusion (Super Deluxe)",
-        "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 698200,
-      "name": "Hotel California / Only Women Bleed / Knockin' On Heaven's Door - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
-      "url": "https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 214240,
       "name": "Move To The City - Live",
       "url": "https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Use Your Illusion (Super Deluxe)",
+        "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 698200,
+      "name": "Hotel California / Only Women Bleed / Knockin' On Heaven's Door - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
+      "url": "https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+        "name": "The General",
+        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Nice Boys - Live",
-      "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
+      "duration_ms": 262776,
+      "name": "The General",
+      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The General",
-        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 262776,
-      "name": "The General",
-      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
+      "duration_ms": 182586,
+      "name": "Nice Boys - Live",
+      "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
     },
     {
       "added_at": null,

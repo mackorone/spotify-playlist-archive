@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,231 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,257 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 26 | [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 |
 | 27 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
 | 28 | [Soft Rock Band](https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Soft Rock Band](https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m) | 8:12 |
-| 29 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
-| 30 | [Talking In My Sleep](https://open.spotify.com/track/3KCu4QHTMPAxkUFPnScNQl) | [The Slims](https://open.spotify.com/artist/4Wo6sLfNidDTAqjgkZlCtp) | [Talking In My Sleep](https://open.spotify.com/album/4SEbfKk3d8pmyWTvdmJWBS) | 3:20 |
+| 29 | [Talking In My Sleep](https://open.spotify.com/track/3KCu4QHTMPAxkUFPnScNQl) | [The Slims](https://open.spotify.com/artist/4Wo6sLfNidDTAqjgkZlCtp) | [Talking In My Sleep](https://open.spotify.com/album/4SEbfKk3d8pmyWTvdmJWBS) | 3:20 |
+| 30 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
 | 31 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
 | 32 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
 | 33 | [LONG LIVE THE WILDERNESS](https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [LONG LIVE THE WILDERNESS](https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE) | 4:46 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 41 | [Valley Girl](https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh) | [The Burkharts](https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp) | [Valley Girl](https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH) | 3:31 |
 | 42 | [Change The Film](https://open.spotify.com/track/6rHmQDbXRDUzVwI7t1o6pR) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [Change The Film](https://open.spotify.com/album/0OvMIMyoOE3T6S4GeOTXEF) | 2:47 |
 | 43 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
-| 44 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
-| 45 | [Natasha Lyonne](https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm) | [Fast Color](https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J) | [Freaks Feel Like Divas](https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn) | 2:30 |
+| 44 | [Natasha Lyonne](https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm) | [Fast Color](https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J) | [Freaks Feel Like Divas](https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn) | 2:30 |
+| 45 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
 | 46 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
 | 47 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
 | 48 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 62 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
 | 63 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
 | 64 | [Fair Warning](https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp) | [Mac Krol](https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs), [Mike Krol](https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR), [Mac McCaughan](https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4) | ["For Some Other Reason" b/w "Fair Warning" and "What Would You Say?"](https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk) | 2:27 |
-| 65 | [How Come?](https://open.spotify.com/track/2mPecc45POav5EW6zlFOD3) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [With You For Ever](https://open.spotify.com/album/0eLCZmyXLSBr1hYjMBtLq4) | 5:00 |
-| 66 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
-| 67 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
-| 68 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
+| 65 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
+| 66 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
+| 67 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
+| 68 | [How Come?](https://open.spotify.com/track/2mPecc45POav5EW6zlFOD3) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [With You For Ever](https://open.spotify.com/album/0eLCZmyXLSBr1hYjMBtLq4) | 5:00 |
 | 69 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 70 | [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 |
 | 71 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |
 | 72 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |
 | 73 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
-| 74 | [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 |
-| 75 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
+| 74 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
+| 75 | [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 |
 
 Snapshot ID: `aC8t7wAAAAChzcvrkK4nMW4/pXYi8X2A`

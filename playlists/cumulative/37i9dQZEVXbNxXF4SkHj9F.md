@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,828 songs - 4 day 4 hr 8 min
+1,829 songs - 4 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Baby I need you](https://open.spotify.com/track/4KU23Zay3Q1W0c0yJCNczH) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Pole Dance](https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7) | 3:21 | 2022-05-19 | 2022-06-08 |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-12 | 2024-02-15 |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-16 | 2025-03-18 |
-| [Background](https://open.spotify.com/track/1qmcc6IRvBdhmqhLhSaJoo) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:55 | 2025-05-17 | 2025-07-08 |
+| [Background](https://open.spotify.com/track/1qmcc6IRvBdhmqhLhSaJoo) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:55 | 2025-05-17 |  |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-05 | 2022-11-07 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-12-02 |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-06 | 2025-06-09 |
@@ -417,7 +417,7 @@
 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 | 2021-05-12 | 2021-05-29 |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 | 2022-04-10 |
 | [DO IT](https://open.spotify.com/track/4YSa8VQxjzsski1DOsvkHH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:45 | 2024-02-12 | 2024-02-14 |
-| [Do or Die](https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Do or Die](https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts) | 3:25 | 2023-10-10 |  |
+| [Do or Die](https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Do or Die](https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts) | 3:25 | 2023-10-10 | 2025-07-09 |
 | [Domino](https://open.spotify.com/track/1sjObenL1HryPaQOiMDVZ9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:34 | 2022-05-28 | 2022-05-30 |
 | [DON QUIXOTE](https://open.spotify.com/track/7BiEgR5r0yMmFoWC9kOTGf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 2:52 | 2022-05-28 | 2022-06-03 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2021-05-03 | 2021-05-07 |
@@ -719,6 +719,7 @@
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-15 | 2025-04-16 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-28 | 2022-09-24 |
 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 | 2025-07-05 | 2025-07-07 |
+| [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-08 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-05-12 | 2021-07-11 |
 | [How can I love the heartbreak, you're the one I love](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 4:50 | 2024-10-14 | 2024-11-19 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-17 |
@@ -1292,7 +1293,7 @@
 | [Red Sneakers](https://open.spotify.com/track/7bsNhzXyqkgr64SibwXbGD) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:26 | 2025-05-28 | 2025-06-02 |
 | [Red Sun!](https://open.spotify.com/track/5mxK8CuKCqxW7HlBjBtmRS) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:13 | 2022-05-28 | 2022-06-09 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-03 |
-| [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2025-07-02 |  |
+| [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2025-07-02 | 2025-07-09 |
 | [Replay](https://open.spotify.com/track/0eACCV3ys1LIIxMit2wLWn) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:34 | 2022-03-29 | 2022-04-02 |
 | [Reputation](https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:08 | 2022-06-04 | 2022-06-07 |
 | [Reset](https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:02 | 2022-10-19 | 2022-10-21 |

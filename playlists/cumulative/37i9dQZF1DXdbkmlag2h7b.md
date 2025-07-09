@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-286 songs - 14 hr 51 min
+287 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [My Halo Orbit](https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [My Halo Orbit](https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA) | 3:19 | 2022-05-26 | 2024-09-20 |
 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 | 2021-12-09 |  |
 | [Mysterium](https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:47 | 2021-12-09 | 2025-01-27 |
+| [Narqa](https://open.spotify.com/track/6aO7VDMBXWiWXOtQfZJvvs) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Narqa](https://open.spotify.com/album/22aPPf7sY9NiDdX4zkuFEL) | 2:30 | 2025-06-03 |  |
 | [Nautica](https://open.spotify.com/track/6gb5RfnfxPrGZeiBCDbJx2) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Nautica](https://open.spotify.com/album/1pnxdWJz8eTWoAgLsxZk1h) | 2:56 | 2025-04-01 | 2025-06-04 |
 | [Nebulae](https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Nebulae](https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz) | 2:42 | 2023-08-04 |  |
 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 | 2021-12-09 | 2024-12-15 |
@@ -213,7 +214,7 @@
 | [Red Oak Sapling](https://open.spotify.com/track/3kroc75PKIVClLdz8R6Ohu) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Oak Sapling](https://open.spotify.com/album/4LTtzYRMIzQ7u2bh5cvh22) | 3:14 | 2025-01-28 |  |
 | [Renewing](https://open.spotify.com/track/7qRlRHuoa9Rh1lgm5exmkZ) | [Healing Echoes](https://open.spotify.com/artist/5oIYBXnlagVfSVIg2690cu) | [Renewing](https://open.spotify.com/album/4Dq0JNOmlEOjJNjsCGhqRY) | 3:22 | 2021-12-09 | 2022-07-29 |
 | [Rivers of Rest](https://open.spotify.com/track/0cIs7K44EpBhTvbMWQTnVq) | [Allness](https://open.spotify.com/artist/0h9JfPVh6xd607lyKYlmPj), [Lightwerx Collective](https://open.spotify.com/artist/2VDnQUqVBg7BlAaNNdbOxp) | [Rivers of Rest](https://open.spotify.com/album/1kAHd7kSITqJmqNNHcj9cn) | 3:08 | 2025-04-01 |  |
-| [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 | 2023-01-20 |  |
+| [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 | 2023-01-20 | 2025-07-09 |
 | [Sampadan](https://open.spotify.com/track/1wUpOQbHQStS91migVQa8p) | [Slumber Harmony](https://open.spotify.com/artist/4tzF0JSYPIoWAUZo1zRQDn) | [Sampadan](https://open.spotify.com/album/5drJguDDuDK4AHHXCCRH5t) | 3:21 | 2024-05-11 |  |
 | [Sandscape](https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Sandscape](https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga) | 2:48 | 2023-12-01 | 2025-03-06 |
 | [Saraya](https://open.spotify.com/track/3iqVvsJ10ib4hbIQYgli9f) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Saraya](https://open.spotify.com/album/2KOxOL9j37zXGXbTIrIzaN) | 2:28 | 2021-12-09 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update met Hollands en volks. Cover: Samuel Welten (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artiest)",
-  "num_followers": 152135,
+  "num_followers": 152167,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdrVgAAAADwcAsOeuzPCDwjBIoFxPrv",
+  "snapshot_id": "aGzpYAAAAADZ41lvO0NXAcbYXXmtHsMQ",
   "tracks": [
     {
       "added_at": "2025-07-04 05:49:10",
@@ -79,26 +79,6 @@
     {
       "added_at": "2025-07-04 05:49:10",
       "album": {
-        "name": "Corry Konings",
-        "url": "https://open.spotify.com/album/11SGzQT6L3M1fsZ7aT1xF4"
-      },
-      "artists": [
-        {
-          "name": "Sven Versteeg",
-          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
-        },
-        {
-          "name": "Corry Konings",
-          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
-        }
-      ],
-      "duration_ms": 158932,
-      "name": "Corry Konings",
-      "url": "https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg"
-    },
-    {
-      "added_at": "2025-07-04 05:49:10",
-      "album": {
         "name": "Diamant",
         "url": "https://open.spotify.com/album/1MdxlV8Y6QHS3erPnE3ze8"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 145149,
       "name": "Paracetamol (Naar de Klote)",
       "url": "https://open.spotify.com/track/2IM0ZzZy0zM9hjF2vvfhCS"
+    },
+    {
+      "added_at": "2025-07-04 05:49:10",
+      "album": {
+        "name": "Corry Konings",
+        "url": "https://open.spotify.com/album/11SGzQT6L3M1fsZ7aT1xF4"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Corry Konings",
+          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
+        }
+      ],
+      "duration_ms": 158932,
+      "name": "Corry Konings",
+      "url": "https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg"
     },
     {
       "added_at": "2025-07-04 05:49:10",

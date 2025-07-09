@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,243 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,273 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 53 | [Ay Corazón](https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX) | 4:41 |
 | 54 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
 | 55 | [Tu recuerdo](https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N) | 4:24 |
-| 56 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 |
-| 57 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/6SFt64ANizj4v4ObRoD6Hw) | [Raúl García Zárate](https://open.spotify.com/artist/7E6mAOwao4FqBa10KSJWbq) | [Serie Mistura de Ritmos: Mistura Andina, Vol\. 1](https://open.spotify.com/album/3EOM9REL8cD4JP2GX162ra) | 2:51 |
+| 56 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/6SFt64ANizj4v4ObRoD6Hw) | [Raúl García Zárate](https://open.spotify.com/artist/7E6mAOwao4FqBa10KSJWbq) | [Serie Mistura de Ritmos: Mistura Andina, Vol\. 1](https://open.spotify.com/album/3EOM9REL8cD4JP2GX162ra) | 2:51 |
+| 57 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 |
 | 58 | [Juntito a Tí](https://open.spotify.com/track/1zL9sHcTeljBcBIMTp8KWi) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Y Su Perú Colores](https://open.spotify.com/album/6cjhSXx1Q0zzS2fuitwPqB) | 5:16 |
 | 59 | [Urpay Linda Cuculí](https://open.spotify.com/track/5RF8MoKhDHsNyRIyg1cmlo) | [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX) | [el Cofre del Recuerdo](https://open.spotify.com/album/6z0ILslVFO1nSjLijU2xhQ) | 2:45 |
 | 60 | [Mentiras](https://open.spotify.com/track/58nfDdDxlUH5Bz8UYn6Cso) | [Yarita Lizeth Yanarico](https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y) | [La Chinita del Amor](https://open.spotify.com/album/21RqAKaHcfB7LyBn1F3BeP) | 5:53 |

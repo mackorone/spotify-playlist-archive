@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Douaa Lahyaoui
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,370 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,379 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 29 | [Tawaak Galbek](https://open.spotify.com/track/7CvVm3ZVBm5JkjncF81qf5) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Tawaak Galbek](https://open.spotify.com/album/15b9P4HH0B7iEchlgr819B) | 3:40 |
 | 30 | [Edhak Ya Albi](https://open.spotify.com/track/6UcNHcewqOTpeGZwdnpa8Z) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Edhak Ya Albi](https://open.spotify.com/album/3xtsXuUHCmkoPGxmi09GzI) | 3:03 |
 | 31 | [Bali](https://open.spotify.com/track/0PcQZJInzPDH5CWKgylIyx) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Bali](https://open.spotify.com/album/42WSAmBf4CLuHHeaTFUZuD) | 3:32 |
-| 32 | [⁠Ana Sekketen](https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 4:57 |
+| 32 | [â Ana Sekketen](https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 4:57 |
 | 33 | [Bikafi Aghani Hazeeneh](https://open.spotify.com/track/1t5SMcg9taLIq8W7JdIE3z) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bikafi Aghani Hazeeneh](https://open.spotify.com/album/22W82ZRmyz9YmJDwMM6ViJ) | 2:58 |
 | 34 | [الليلة حلوة](https://open.spotify.com/track/5RyptsCWbpw2TbsinvklVv) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [الليلة حلوة](https://open.spotify.com/album/1FtkFVI2zD4mNnmuJ9wiRp) | 2:55 |
 | 35 | [Ya Oyoun](https://open.spotify.com/track/3cTF8M0llKbdX9ajd04cQ3) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Ya Oyoun](https://open.spotify.com/album/0VpRxOPyIEBPHxPyJSb5qr) | 3:06 |
 | 36 | [Kaddab](https://open.spotify.com/track/3DRUFimzVl5HqBmocY6cBy) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Kaddab](https://open.spotify.com/album/3zZWytljIJYMhLsoUBC2vO) | 2:40 |
 | 37 | [Ya Nahla](https://open.spotify.com/track/0er5CBzYS2GlYoNU3V4D9X) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ya Nahla](https://open.spotify.com/album/4PN02EomiBAsQLVKuivtst) | 3:18 |
-| 38 | [أيام](https://open.spotify.com/track/5274F6rwUOrHb7OUs5l3K3) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [أيام](https://open.spotify.com/album/0P4aDQhzHXIfiofCbdTd1t) | 3:37 |
+| 38 | [Ø£ÙŠØ§Ù…](https://open.spotify.com/track/5274F6rwUOrHb7OUs5l3K3) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Ø£ÙŠØ§Ù…](https://open.spotify.com/album/0P4aDQhzHXIfiofCbdTd1t) | 3:37 |
 | 39 | [Lazem Tekhtar](https://open.spotify.com/track/75QkLngxmCSHw5j9tGhtgC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Lazem Tekhtar](https://open.spotify.com/album/6keu9VoYXQBagCiqWniJie) | 3:02 |
 | 40 | [Habet Zekraiat](https://open.spotify.com/track/2w4Js4gM2W559oPh68SDaI) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Habet Zekraiat](https://open.spotify.com/album/6C407LUwJknjEg0sKQSeS3) | 4:41 |
 | 41 | [تعرف احساس](https://open.spotify.com/track/1qzj2e4mUYpTDXtyCqczet) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [تعرف احساس](https://open.spotify.com/album/6qxBeW6FV4ysiVT3QyyvDW) | 3:07 |

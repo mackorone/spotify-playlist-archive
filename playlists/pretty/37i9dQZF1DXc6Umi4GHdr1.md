@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,339 likes - 189 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,345 likes - 189 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 4 | [Present in Time](https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Present in Time](https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW) | 2:29 |
 | 5 | [Desencontros](https://open.spotify.com/track/6vbpxDK5U8xRv73qgGOnj4) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Desencontros](https://open.spotify.com/album/5Ysc8jx2jpcgbuB5U5Azp9) | 2:41 |
 | 6 | [County Clare](https://open.spotify.com/track/0NetSB2EidrnN9AxQUuj8s) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [County Clare](https://open.spotify.com/album/7KYYW1IeQvD3SjcDgEbMBA) | 3:04 |
-| 7 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 |
-| 8 | [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 |
-| 9 | [Lost Intentions](https://open.spotify.com/track/7f7sBSR4G1LySZ1hhpc1ux) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Lost Intentions](https://open.spotify.com/album/4o0RSC1qJQLGorvbBnMHrO) | 2:49 |
+| 7 | [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 |
+| 8 | [Lost Intentions](https://open.spotify.com/track/7f7sBSR4G1LySZ1hhpc1ux) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Lost Intentions](https://open.spotify.com/album/4o0RSC1qJQLGorvbBnMHrO) | 2:49 |
+| 9 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 |
 | 10 | [Vitral](https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Vitral](https://open.spotify.com/album/04JXDkUvyzG0vSCXf5BK6k) | 2:45 |
 | 11 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 |
 | 12 | [Nordic Glow](https://open.spotify.com/track/58yhvahn8dxalqdlfUjOjR) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Nordic Glow](https://open.spotify.com/album/28BWSUfI8JyxRF1ekYu1rX) | 2:17 |
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 18 | [In Time's Wake](https://open.spotify.com/track/6RV00RZtUQGMrJfIV44aH3) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [In Time's Wake](https://open.spotify.com/album/53WgH7jOcfo0TKrX0iE8XZ) | 2:30 |
 | 19 | [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 |
 | 20 | [Imperfect surface](https://open.spotify.com/track/1IwZ0a1rx9WhSRw2fsxVBy) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Imperfect surface](https://open.spotify.com/album/4jzA8qFhsy53HbwTziuZFg) | 2:34 |
-| 21 | [Spring](https://open.spotify.com/track/7LmY3dnBHdydQy0tm8jmXh) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Spring](https://open.spotify.com/album/6REvjQF5DLaAgITKUq4HCd) | 2:31 |
-| 22 | [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 |
-| 23 | [Colourful Sky](https://open.spotify.com/track/5SWJzfELScwQIwKzg1ho1j) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Colourful Sky](https://open.spotify.com/album/2AAhhCkSzV5pIgERXmBN4C) | 3:08 |
-| 24 | [Drifting Into Dusk](https://open.spotify.com/track/22fbNUersaC8uZBUaHSwv8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Drifting Into Dusk](https://open.spotify.com/album/6mfgd9Sehm6Xm2WWAx1lIv) | 2:54 |
-| 25 | [Highway](https://open.spotify.com/track/7md0GcPGQmZscsglwm7GIA) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Highway](https://open.spotify.com/album/5IPedTrS1EwAWrOXh26WYO) | 2:19 |
-| 26 | [Artemis](https://open.spotify.com/track/5CcTsoh77A0ClwHfAl80cK) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Artemis](https://open.spotify.com/album/7GSzGWVULgIwKJLPUuvicr) | 1:54 |
-| 27 | [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 |
-| 28 | [Lost in the Moment](https://open.spotify.com/track/2KOlLqz63AA8AMuH5lwIyX) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lost in the Moment](https://open.spotify.com/album/5YSiRGp7ninOfNhNM5osJl) | 2:20 |
+| 21 | [Drifting Into Dusk](https://open.spotify.com/track/22fbNUersaC8uZBUaHSwv8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Drifting Into Dusk](https://open.spotify.com/album/6mfgd9Sehm6Xm2WWAx1lIv) | 2:54 |
+| 22 | [Spring](https://open.spotify.com/track/7LmY3dnBHdydQy0tm8jmXh) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Spring](https://open.spotify.com/album/6REvjQF5DLaAgITKUq4HCd) | 2:31 |
+| 23 | [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 |
+| 24 | [Colourful Sky](https://open.spotify.com/track/5SWJzfELScwQIwKzg1ho1j) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Colourful Sky](https://open.spotify.com/album/2AAhhCkSzV5pIgERXmBN4C) | 3:08 |
+| 25 | [The Waning Sun](https://open.spotify.com/track/1Z6vzs8lWmbHe7LX852C1l) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [The Waning Sun](https://open.spotify.com/album/6rcucFTcfkGgaLvjYevaLF) | 2:06 |
+| 26 | [Highway](https://open.spotify.com/track/7md0GcPGQmZscsglwm7GIA) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Highway](https://open.spotify.com/album/5IPedTrS1EwAWrOXh26WYO) | 2:19 |
+| 27 | [Artemis](https://open.spotify.com/track/5CcTsoh77A0ClwHfAl80cK) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Artemis](https://open.spotify.com/album/7GSzGWVULgIwKJLPUuvicr) | 1:54 |
+| 28 | [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 |
 | 29 | [Yesterday’s Horizon](https://open.spotify.com/track/6aRIyvjb1r0ckDtWTAnawQ) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Yesterday’s Horizon](https://open.spotify.com/album/19Qh83lPIJvJmZwmin92d7) | 2:48 |
 | 30 | [Whatever Comes](https://open.spotify.com/track/2PVulAOz6AddZ9k93eF3fY) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [Whatever Comes](https://open.spotify.com/album/2jzvGE2CAl74SSMgFCvc9d) | 2:41 |
 | 31 | [Inclination](https://open.spotify.com/track/7AWVuXbcpfTY67jTH4WrWZ) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Inclination](https://open.spotify.com/album/7exmV8B5jrOXPyn9eFrgpN) | 2:43 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 188 | [Is It Worth The Sacrifice](https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Is It Worth The Sacrifice](https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ) | 3:46 |
 | 189 | [Flowers](https://open.spotify.com/track/7bRZz44ODWdcv9OnPDTmpe) | [Dena Audley](https://open.spotify.com/artist/0PMxfySITWLIxBnSJAvUK1) | [Flowers](https://open.spotify.com/album/53PivFOhCq2M9aoVOWDRCj) | 2:08 |
 
-Snapshot ID: `aE/zNQAAAADyOCDg62z382ICGKEZyA/0`
+Snapshot ID: `aG0S8AAAAACMvxbjxm8Ymz4um+SCqzwY`

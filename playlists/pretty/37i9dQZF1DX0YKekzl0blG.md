@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,933 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,122 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 19 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
 | 20 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 |
 | 21 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
-| 22 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
-| 23 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 22 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 23 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
 | 24 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 |
 | 25 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 |
 | 26 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 47 | [Not Nineteen Forever](https://open.spotify.com/track/19CIsQ1HElu4XHdLCMlSqu) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [St\. Jude](https://open.spotify.com/album/3fKNYg9Ti0jyxtYBTtlRL4) | 4:03 |
 | 48 | [Never Miss A Beat](https://open.spotify.com/track/0bXhjlgUddDlJzHOeVM4Tq) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Off With Their Heads](https://open.spotify.com/album/1cMowxUDW6TPg6NXnOdM3n) | 3:06 |
 | 49 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
-| 50 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
-| 51 | [She Wants To Move](https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 3:33 |
-| 52 | [Heavy Cross](https://open.spotify.com/track/4N6R6yqkFUTyF3AYOdR0T7) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Heavy Cross](https://open.spotify.com/album/6iKQraIqR247eFKjdTMoDR) | 4:02 |
+| 50 | [Heavy Cross](https://open.spotify.com/track/4N6R6yqkFUTyF3AYOdR0T7) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Heavy Cross](https://open.spotify.com/album/6iKQraIqR247eFKjdTMoDR) | 4:02 |
+| 51 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
+| 52 | [She Wants To Move](https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 3:33 |
 | 53 | [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 |
 | 54 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 |
 | 55 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |

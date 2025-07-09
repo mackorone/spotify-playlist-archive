@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,407 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,408 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 6 | [ride or die](https://open.spotify.com/track/4Uop9OK9pmbZWtWjXHPFhC) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [ride or die](https://open.spotify.com/album/5SQWaq4oEnrFIH8trJcgwk) | 1:55 |
 | 7 | [La Familia](https://open.spotify.com/track/3TBFqIc6UwpWIL8i0qADMF) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [La Familia](https://open.spotify.com/album/1FiyTkOhZOZYF742GIhHbv) | 2:07 |
 | 8 | [Pole Dance](https://open.spotify.com/track/67gESpBbdx0duQfJrR2S5D) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Pole Dance](https://open.spotify.com/album/0yRJlNI1sT5b58S1ItIGv8) | 2:15 |
-| 9 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 |
-| 10 | [vitamin](https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [vitamin](https://open.spotify.com/album/0nP3FfwgJAXHSMgRTQzlkd) | 2:52 |
-| 11 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
-| 12 | [seele berührst](https://open.spotify.com/track/5AIDqFb0rSQ57uEjvLXoYM) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [seele berührst](https://open.spotify.com/album/36WF7ZWbfoYQFMuJp4IVQ5) | 2:31 |
+| 9 | [vitamin](https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [vitamin](https://open.spotify.com/album/0nP3FfwgJAXHSMgRTQzlkd) | 2:52 |
+| 10 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 |
+| 11 | [seele berührst](https://open.spotify.com/track/5AIDqFb0rSQ57uEjvLXoYM) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [seele berührst](https://open.spotify.com/album/36WF7ZWbfoYQFMuJp4IVQ5) | 2:31 |
+| 12 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
 | 13 | [Juni](https://open.spotify.com/track/2CN0oT18drL0GQE37L3L3L) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Juni](https://open.spotify.com/album/6kl1JA5GLEHeQI23ZBPPBP) | 2:45 |
 | 14 | [Mittelfinger an die Welt](https://open.spotify.com/track/45tBd0y6RzCjxsvvhXtu36) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Mittelfinger an die Welt](https://open.spotify.com/album/3byCUpqK0ejOy6F31HUG5P) | 3:05 |
 | 15 | [Warmes Bier](https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Warmes Bier](https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS) | 3:30 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
 | 36 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
 | 37 | [Cherry Blossom](https://open.spotify.com/track/1WzuSv5vdHtvA3hQNv0RJg) | [animat](https://open.spotify.com/artist/5LcZJ5jDHXAKIrnz4CuVhb) | [Cherry Blossom](https://open.spotify.com/album/3FzKM5OSyhtpI1EkVGr4O8) | 3:12 |
-| 38 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
-| 39 | [Bla Bla Bla](https://open.spotify.com/track/5zsxFwHUQoGxxyR2nUB4oS) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Bla Bla Bla](https://open.spotify.com/album/3JtobBe3m80QzFgji9WuJc) | 2:05 |
+| 38 | [Bla Bla Bla](https://open.spotify.com/track/5zsxFwHUQoGxxyR2nUB4oS) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Bla Bla Bla](https://open.spotify.com/album/3JtobBe3m80QzFgji9WuJc) | 2:05 |
+| 39 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
 | 40 | [es tut weh](https://open.spotify.com/track/5Id40ks3QNsSn3Pffw10vZ) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [es tut weh](https://open.spotify.com/album/2DgX7i7f6OGPjPhGDNGUKz) | 3:05 |
 | 41 | [Times We Will Remember](https://open.spotify.com/track/7bcPwgIrVMXxGYipvmOrie) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Times We Will Remember](https://open.spotify.com/album/34OBEZqZc7i8CzRS3edGeZ) | 3:11 |
 | 42 | [glow up](https://open.spotify.com/track/4g2xUjGBedq9hlWeT7oS87) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [glow up](https://open.spotify.com/album/2vpzwXCgLvkWEsPGpxzUTi) | 1:59 |

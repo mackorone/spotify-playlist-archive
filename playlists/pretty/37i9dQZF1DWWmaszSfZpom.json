@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 946646,
+  "num_followers": 946634,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "MODO TURBO",
+        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "MODO TURBO",
-        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 150259,
-      "name": "MODO TURBO",
-      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "ATEN\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "ATEN\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
+      },
+      "artists": [
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Senta braba",
         "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 146602,
       "name": "Envolvimento",
       "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
-      },
-      "artists": [
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Sapequinha",
+        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        }
+      ],
+      "duration_ms": 134106,
+      "name": "Sapequinha",
+      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Separei",
         "url": "https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 162406,
       "name": "Separei",
       "url": "https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Sapequinha",
-        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-        }
-      ],
-      "duration_ms": 134106,
-      "name": "Sapequinha",
-      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "LEXA",
+        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Para n\u00e3o",
         "url": "https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 164800,
       "name": "Para n\u00e3o",
       "url": "https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "LEXA",
-        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
-      "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Kikadinha",
+        "url": "https://open.spotify.com/album/2AVx2BladAr16bQMbP0Qbm"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Kikadinha",
+      "url": "https://open.spotify.com/track/5TUYLsiIi3tuvR2fCJjZUy"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Abusadamente",
         "url": "https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 215937,
       "name": "Abusadamente",
       "url": "https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Kikadinha",
-        "url": "https://open.spotify.com/album/2AVx2BladAr16bQMbP0Qbm"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Kikadinha",
-      "url": "https://open.spotify.com/track/5TUYLsiIi3tuvR2fCJjZUy"
     },
     {
       "added_at": "2023-06-26 14:06:50",

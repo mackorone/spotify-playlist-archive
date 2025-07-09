@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: \uc6d0\uc5b4\uc2a4 (ONEUS)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: SUPER JUNIOR (\uc288\ud37c\uc8fc\ub2c8\uc5b4)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "tracks": [
     {
@@ -3442,6 +3442,24 @@
       "duration_ms": 190426,
       "name": "EXIT",
       "url": "https://open.spotify.com/track/5pTMVpOuFCM1GYjI2Lm2r3"
+    },
+    {
+      "album": {
+        "name": "Super Junior25 - The 12th Album",
+        "url": "https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188026,
+      "name": "Express Mode",
+      "url": "https://open.spotify.com/track/1fDGN1BOe1eMgofgO6qxm0"
     },
     {
       "album": {
@@ -12798,7 +12816,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 261176,
       "name": "\uc5b4\uca4c\uba74",
       "url": "https://open.spotify.com/track/18CMsYZK40q75KKo6prq4Y"

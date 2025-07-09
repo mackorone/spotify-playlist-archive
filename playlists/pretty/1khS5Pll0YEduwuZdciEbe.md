@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Matt Berninger
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 8,557 likes - 81 songs - 5 hr 2 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 8,556 likes - 81 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

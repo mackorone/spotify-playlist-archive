@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,130 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,171 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 36 | [Mavane \(From "Pattas"\)](https://open.spotify.com/track/6ffEHNJBFnr68xNVoRwPf2) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Mavane \(From "Pattas"\)](https://open.spotify.com/album/1GYOC0lb0qiE8iyXyJHzrs) | 3:51 |
 | 37 | [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander,Vignesh Shivan](https://open.spotify.com/artist/51JNE3tEZCBbwogHG5FSgQ) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 |
 | 38 | [Kadhal Yaanai](https://open.spotify.com/track/2EmoaXUqkNFzIj6L9Oy0uy) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Harini](https://open.spotify.com/artist/1pnRoXjrOiEtxcTxJPBJKH) | [Anniyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jVAsnneh2gwlQRfbJ5M13) | 5:48 |
-| 39 | [Aaluma Doluma](https://open.spotify.com/track/1Do2hDE0etMakAEQbyOd4L) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 4:18 |
+| 39 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 |
 | 40 | [Kaththi Theme… The Sword of Destiny](https://open.spotify.com/track/1m2PQa2vARopdOK8xGVkaX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 1:01 |
 | 41 | [VIP Title Song](https://open.spotify.com/track/76KBWPw8On2hdcDz4jXXKR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Z6F7t6MO4efpO8IIJsBvH) | 3:56 |
 | 42 | [Kadhal Psycho](https://open.spotify.com/track/5KAIBGTYKIYQ0OsSvUDQdU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Saaho](https://open.spotify.com/album/1TDSA7qN5LWly2PNSESuAK) | 2:46 |

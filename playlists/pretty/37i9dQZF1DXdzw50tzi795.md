@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,413 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,535 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

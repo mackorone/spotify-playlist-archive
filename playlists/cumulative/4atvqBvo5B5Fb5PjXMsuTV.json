@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Jul 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Jul 03:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -8640,7 +8640,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 238636,
       "name": "Begin The Sacrifice",
       "url": "https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx"
@@ -31904,6 +31904,10 @@
         {
           "name": "Don Toliver",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8"
         }
       ],
       "date_added": "2025-06-27",
@@ -47442,6 +47446,28 @@
       "duration_ms": 217008,
       "name": "Las Nubes",
       "url": "https://open.spotify.com/track/1oefK7hQQ8aG0BiRv4mPxc"
+    },
+    {
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/13o7UWbtqb2uWuiruK4cva"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142772,
+      "name": "LAST BREATH",
+      "url": "https://open.spotify.com/track/1N0xbRqkKMwyJMeVwtOQiV"
     },
     {
       "album": {
@@ -81077,6 +81103,24 @@
     },
     {
       "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "album": {
         "name": "Te escribo en el cielo",
         "url": "https://open.spotify.com/album/6XSTsOMXWOWhNNooS6Xzy2"
       },
@@ -91630,7 +91674,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-09",
       "duration_ms": 156083,
       "name": "WENT WEST",
       "url": "https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj"

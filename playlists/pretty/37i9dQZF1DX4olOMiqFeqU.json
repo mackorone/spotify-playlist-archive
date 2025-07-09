@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2462242,
+  "num_followers": 2462527,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
-        "name": "Dito Sa'kin",
-        "url": "https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 330720,
-      "name": "Dito Sa'kin",
-      "url": "https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i"
-    },
-    {
-      "added_at": "2025-06-25 07:33:29",
-      "album": {
         "name": "Ikaw Lang Patutunguhan",
         "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 326896,
       "name": "Ikaw Lang Patutunguhan",
       "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+    },
+    {
+      "added_at": "2025-06-25 07:33:29",
+      "album": {
+        "name": "Dito Sa'kin",
+        "url": "https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 330720,
+      "name": "Dito Sa'kin",
+      "url": "https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i"
     },
     {
       "added_at": "2025-06-25 07:33:29",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 201806,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
-    },
-    {
-      "added_at": "2025-06-25 07:33:29",
-      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever",
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+    },
+    {
+      "added_at": "2025-06-25 07:33:29",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 201806,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
     },
     {
       "added_at": "2025-06-25 07:33:29",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
-        "name": "Palagi",
-        "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 218051,
-      "name": "Palagi",
-      "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
-    },
-    {
-      "added_at": "2025-06-25 07:33:29",
-      "album": {
         "name": "Love And Soul",
         "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 236705,
       "name": "Magkabilang Mundo",
       "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+    },
+    {
+      "added_at": "2025-06-25 07:33:29",
+      "album": {
+        "name": "Palagi",
+        "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 218051,
+      "name": "Palagi",
+      "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
     },
     {
       "added_at": "2025-06-25 07:33:29",

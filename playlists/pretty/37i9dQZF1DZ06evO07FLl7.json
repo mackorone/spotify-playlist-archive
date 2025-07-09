@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAABz3N5MGLMnifAArhFQnis0",
+  "snapshot_id": "aGsOAAAAAAD3khD3ou0q7ly6MSd9tGRv",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
+        "url": "https://open.spotify.com/album/5U1zfJbVLAGHq6DfYCCkUH"
+      },
+      "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 205515,
+      "name": "Os Pretinho Bem",
+      "url": "https://open.spotify.com/track/3zMrFioc8zQT7F5XPfyu4N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pr\u00f3spera D+",
         "url": "https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 248354,
       "name": "Shonda D+",
       "url": "https://open.spotify.com/track/4FhIuaRtSeUQg5O1emw7VZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
-        "url": "https://open.spotify.com/album/5U1zfJbVLAGHq6DfYCCkUH"
-      },
-      "artists": [
-        {
-          "name": "Thiago Elni\u00f1o",
-          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 205515,
-      "name": "Os Pretinho Bem",
-      "url": "https://open.spotify.com/track/3zMrFioc8zQT7F5XPfyu4N"
     },
     {
       "added_at": null,
@@ -650,11 +650,15 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Tiago Mac",
+          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
         }
       ],
-      "duration_ms": 198784,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK"
+      "duration_ms": 240213,
+      "name": "Good Trip",
+      "url": "https://open.spotify.com/track/34tLeAhdqvCTvkZEFwrDzO"
     },
     {
       "added_at": null,
@@ -726,15 +730,11 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Tiago Mac",
-          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
         }
       ],
-      "duration_ms": 240213,
-      "name": "Good Trip",
-      "url": "https://open.spotify.com/track/34tLeAhdqvCTvkZEFwrDzO"
+      "duration_ms": 198784,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Vida de Atriz",
+      "url": "https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00e1ssia Reis",
         "url": "https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN"
       },
@@ -899,6 +915,26 @@
       "duration_ms": 202069,
       "name": "Asas",
       "url": "https://open.spotify.com/track/33gruk3ZuMKP1t2gHwgmBa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 386440,
+      "name": "Da Lama / Afrontamento",
+      "url": "https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ"
     },
     {
       "added_at": null,
@@ -927,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
+        "name": "Pr\u00f3spera D+",
+        "url": "https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj"
       },
       "artists": [
         {
@@ -936,29 +972,13 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         },
         {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+          "name": "Jules Hiero",
+          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
         }
       ],
-      "duration_ms": 386440,
-      "name": "Da Lama / Afrontamento",
-      "url": "https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pandeiro \u00c9 Meu Nome (Da S\u00e9rie Original Prime Video Amar \u00c9 Para Os Fortes)",
-        "url": "https://open.spotify.com/album/2YUHNOYFpodTVzABOySL8U"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 237414,
-      "name": "Pandeiro \u00c9 Meu Nome (Da S\u00e9rie Original Prime Video Amar \u00c9 Para Os Fortes)",
-      "url": "https://open.spotify.com/track/3u6OOhrZrvw4PpaWx6zay7"
+      "duration_ms": 234576,
+      "name": "B\u00eabada de Feriado",
+      "url": "https://open.spotify.com/track/23C1cUsh8QcMZZfUXiXbeR"
     },
     {
       "added_at": null,
@@ -999,42 +1019,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pr\u00f3spera D+",
-        "url": "https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj"
+        "name": "Pandeiro \u00c9 Meu Nome (Da S\u00e9rie Original Prime Video Amar \u00c9 Para Os Fortes)",
+        "url": "https://open.spotify.com/album/2YUHNOYFpodTVzABOySL8U"
       },
       "artists": [
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Jules Hiero",
-          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
         }
       ],
-      "duration_ms": 234576,
-      "name": "B\u00eabada de Feriado",
-      "url": "https://open.spotify.com/track/23C1cUsh8QcMZZfUXiXbeR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3 Que N\u00e3o",
-        "url": "https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF"
-      },
-      "artists": [
-        {
-          "name": "Caio Nunez",
-          "url": "https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 187726,
-      "name": "S\u00f3 Que N\u00e3o",
-      "url": "https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9"
+      "duration_ms": 237414,
+      "name": "Pandeiro \u00c9 Meu Nome (Da S\u00e9rie Original Prime Video Amar \u00c9 Para Os Fortes)",
+      "url": "https://open.spotify.com/track/3u6OOhrZrvw4PpaWx6zay7"
     }
   ],
   "unique_name": "This Is Tassia Reis",

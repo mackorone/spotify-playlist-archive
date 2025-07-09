@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,444 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,328 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 48 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
 | 49 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
 | 50 | [Carnivore](https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x) | 3:11 |
-| 51 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
-| 52 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
+| 51 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
+| 52 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
 | 53 | [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 |
 | 54 | [Generais De Fralda](https://open.spotify.com/track/1Zyl4XBTV72Ip1d9Xocrk4) | [Mukeka di Rato](https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi) | [Generais de Fralda](https://open.spotify.com/album/7qykDoupr9TCpy0Yx46679) | 1:14 |
 | 55 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 58 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
 | 59 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 |
 | 60 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
-| 61 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
-| 62 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 |
+| 61 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 |
+| 62 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
 | 63 | [Soul On Fire](https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX) | 4:05 |
 | 64 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 |
 | 65 | [Slow Me](https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival](https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi) | 3:48 |

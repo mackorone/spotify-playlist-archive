@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V?si=uFFw4lUmR6CQkAL4St3cxg">tan sholto</a>
 
-1,265 songs - 3 day 0 hr 8 min
+1,266 songs - 3 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Hard to Breathe](https://open.spotify.com/track/5o4rsNhPl8CsrkUQeyB86o) | [Zwicky & Jono](https://open.spotify.com/artist/7hNwRAV7IDRDqI4q3Pcdgz) | [Hard to Breathe](https://open.spotify.com/album/4imQSF0mGYK1mjDJ2tdcfR) | 3:54 | 2024-02-15 | 2024-03-30 |
 | [Harder](https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU), [Mandi Lizamore](https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX) | [Harder](https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2) | 6:06 | 2022-12-01 | 2024-02-16 |
 | [hate fuck](https://open.spotify.com/track/51ilhFLrKNqaeFhnPun55d) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/4hP4rndRl1oltitn7y0zIv) | 3:20 | 2025-06-26 | 2025-07-06 |
+| [Hate Goodbyes](https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Hate Goodbyes](https://open.spotify.com/album/07w74aZOr10AawZOJND2BY) | 3:47 | 2025-07-03 |  |
 | [haunt me\~](https://open.spotify.com/track/4LPhSuFr2GKN11Mn0ssxYM) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [love me i'm burning](https://open.spotify.com/album/3Hu6LYnFe8okEM8hmkQTXH) | 2:06 | 2023-11-30 | 2023-12-03 |
 | [Head Start \- Fresh Start](https://open.spotify.com/track/62NHaoO0JcLD0EpD38HYgg) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Head Start \(Fresh Start\)](https://open.spotify.com/album/5HIe6iAa0joluCQmVuajkI) | 3:31 | 2022-12-01 | 2023-03-18 |
 | [Head Up High](https://open.spotify.com/track/6NSsAX4y7tBsRiOCvVNuR8) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Head Up High](https://open.spotify.com/album/0qj0dLCx210N6GWD1MfViI) | 4:12 | 2023-09-21 | 2023-12-22 |
@@ -593,7 +594,7 @@
 | [Keep On Calling](https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Heavyweight Champion](https://open.spotify.com/album/4lwGU1857xh1ukKDey2zJl) | 2:23 | 2024-10-17 | 2025-01-25 |
 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 | 2025-06-12 | 2025-07-07 |
 | [Keep On Rollin'](https://open.spotify.com/track/06IJd0vms8dzPpYqWEnB7Q) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Keep On Rollin'](https://open.spotify.com/album/5gVwKSOlH9LvdB9fPCUMEJ) | 2:46 | 2024-07-26 | 2024-08-24 |
-| [Keep Running](https://open.spotify.com/track/4b02GNdHU9C7bwOfAYDorE) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Keep Running](https://open.spotify.com/album/1gcgL4kcrkKmwGZ7vCM3s0) | 3:28 | 2025-06-05 |  |
+| [Keep Running](https://open.spotify.com/track/4b02GNdHU9C7bwOfAYDorE) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Keep Running](https://open.spotify.com/album/1gcgL4kcrkKmwGZ7vCM3s0) | 3:28 | 2025-06-05 | 2025-07-09 |
 | [Keep you here](https://open.spotify.com/track/05qFXEqMQcfktikZlWIqye) | [Phil Higgins](https://open.spotify.com/artist/1qStsFr93Vdc1UhLWhwXFq) | [Keep you here](https://open.spotify.com/album/35vJcTu8WqS3A4Uie8Vfsr) | 3:09 | 2025-04-03 | 2025-04-19 |
 | [Key to the Comet](https://open.spotify.com/track/1lv5oeIB7rGsiL52Q24VxI) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [Key to the Comet](https://open.spotify.com/album/7vcsdAmWX7eMYuiysE3IfB) | 4:31 | 2023-05-25 | 2023-07-07 |
 | [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 | 2025-02-06 | 2025-04-19 |

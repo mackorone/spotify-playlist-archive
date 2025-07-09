@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,502 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,501 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 20 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
 | 21 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
 | 22 | [Horseness Is The Whatness](https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:07 |
-| 23 | [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
-| 24 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
+| 23 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
+| 24 | [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
 | 25 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
 | 26 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
 | 27 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 45 | [Mastermind Specialism](https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 4:41 |
 | 46 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
 | 47 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
-| 48 | [Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 4:12 |
-| 49 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
+| 48 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
+| 49 | [Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 4:12 |
 | 50 | [Witches](https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM) | 3:15 |
 | 51 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
 | 52 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 63 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 |
 | 64 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
 | 65 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
-| 66 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
-| 67 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 |
+| 66 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 |
+| 67 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
 | 68 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 69 | [May I Comply](https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [May I Comply](https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c) | 4:00 |
 | 70 | [All the Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All the Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 |
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 81 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
 | 82 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
 | 83 | [Heavens The Other Way](https://open.spotify.com/track/5kXFXFlahYrwQAWSQSxogc) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Heavens The Other Way](https://open.spotify.com/album/7A6smI1b6a8vZopTJJHon4) | 3:02 |
-| 84 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
-| 85 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 84 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 85 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
 | 86 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
 | 87 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
 | 88 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
 | 89 | [anything at all](https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [...and she's still listening](https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr) | 3:09 |
-| 90 | [sunshine\~](https://open.spotify.com/track/5Jc4vDaFlqyCWUFINwjaTS) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [sunshine\~](https://open.spotify.com/album/68xXHDSi3oAj6OMzz2Ln5K) | 1:49 |
-| 91 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 |
-| 92 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
+| 90 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 |
+| 91 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
+| 92 | [sunshine\~](https://open.spotify.com/track/5Jc4vDaFlqyCWUFINwjaTS) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [sunshine\~](https://open.spotify.com/album/68xXHDSi3oAj6OMzz2Ln5K) | 1:49 |
 | 93 | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34) | 2:07 |
 | 94 | [Strange Comfort](https://open.spotify.com/track/5keFdzNhXXOzZ6pshLGJVY) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Strange Comfort](https://open.spotify.com/album/1sOKriGM1stwLtJ7xSJOQb) | 4:08 |
 | 95 | [zi oi 自爱](https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [a wonderful thing vomits](https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1) | 4:16 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 97 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
 | 98 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
 | 99 | [Almighty](https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Almighty](https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B) | 4:05 |
-| 100 | [Walking in a Vacuum](https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t) | [test plan](https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA) | [Walking in a Vacuum](https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93) | 4:27 |
+| 100 | [Wife Once](https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Wife Once](https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt) | 3:45 |
 
 Snapshot ID: `Z4BjFQAAAADdM4rLWVAoR/kY3VuoA4kb`

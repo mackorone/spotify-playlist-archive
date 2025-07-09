@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36820,
+  "num_followers": 36821,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAADvNd0R2ltwW1oP0gjcUta2",
+  "snapshot_id": "aGsOAAAAAAAwFEFd5IDgAIyt4FgbyYPo",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "Mpundulu",
-      "url": "https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 239800,
       "name": "Wedding Day",
       "url": "https://open.spotify.com/track/26e8Qw2ABeMtVbYxIYIkMr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "Mpundulu",
+      "url": "https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Myekeleni",
-        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Mama I'm Sorry",
-      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 374106,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Myekeleni",
+        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Mama I'm Sorry",
+      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 329973,
+      "name": "Ngizilalhlela Kuwe",
+      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 329973,
-      "name": "Ngizilalhlela Kuwe",
-      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "Nakupenda (I Love You)",
-      "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 300013,
       "name": "Ngwanona",
       "url": "https://open.spotify.com/track/1FSZuMu3FlBjVqyqtoDA3e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 277680,
+      "name": "Nakupenda (I Love You)",
+      "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 331373,
-      "name": "Mbulali Wami",
-      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
+      "duration_ms": 245249,
+      "name": "Sum' Bulala",
+      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 245249,
-      "name": "Sum' Bulala",
-      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
+      "duration_ms": 331373,
+      "name": "Mbulali Wami",
+      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
     },
     {
       "added_at": null,
@@ -675,6 +675,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maturo",
+        "url": "https://open.spotify.com/album/3QzA2IsFBMCjThvKDxvS7H"
+      },
+      "artists": [
+        {
+          "name": "Andy Keys",
+          "url": "https://open.spotify.com/artist/5DrHquZcRH9wEDNPCXmCt7"
+        },
+        {
+          "name": "KingTouch",
+          "url": "https://open.spotify.com/artist/19mB8PdWAm23SETJac3rOG"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 416288,
+      "name": "Indabi' Straight - Club Mix",
+      "url": "https://open.spotify.com/track/0jZjdVT0caV7BKX8290DdA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Too Late For Mama",
         "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
       },
@@ -703,30 +727,6 @@
       "duration_ms": 298906,
       "name": "Ngohlala Ngi Nje",
       "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maturo",
-        "url": "https://open.spotify.com/album/3QzA2IsFBMCjThvKDxvS7H"
-      },
-      "artists": [
-        {
-          "name": "Andy Keys",
-          "url": "https://open.spotify.com/artist/5DrHquZcRH9wEDNPCXmCt7"
-        },
-        {
-          "name": "KingTouch",
-          "url": "https://open.spotify.com/artist/19mB8PdWAm23SETJac3rOG"
-        },
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 416288,
-      "name": "Indabi' Straight - Club Mix",
-      "url": "https://open.spotify.com/track/0jZjdVT0caV7BKX8290DdA"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "Uyang'Embarasa",
-      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 236560,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Uyang'Embarasa",
+      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
     },
     {
       "added_at": null,

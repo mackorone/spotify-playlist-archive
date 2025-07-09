@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lourena, Rod Melim",
-  "num_followers": 437863,
+  "num_followers": 437861,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
+        "name": "Doce",
+        "url": "https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        }
+      ],
+      "duration_ms": 141702,
+      "name": "Beijo Doce",
+      "url": "https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
         "name": "S\u00f3 love",
         "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 161934,
       "name": "S\u00f3 love",
       "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
-        "name": "Doce",
-        "url": "https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        }
-      ],
-      "duration_ms": 141702,
-      "name": "Beijo Doce",
-      "url": "https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "ANEMOIA",
-        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
-      },
-      "artists": [
-        {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "ROSA",
-      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
         "name": "Caso eu Case",
         "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+        "name": "ANEMOIA",
+        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
       },
       "artists": [
         {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
         }
       ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
+      "duration_ms": 212234,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -523,6 +507,22 @@
       "duration_ms": 180620,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1J6cf7IaioJe6RA4uHsOH7"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -639,26 +639,6 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "Mar Manso",
-        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Mar Manso",
-      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
         "name": "Como D\u00f3i",
         "url": "https://open.spotify.com/album/5YlJGGxLqQ69CHJwEo8SkD"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 143658,
       "name": "Como D\u00f3i",
       "url": "https://open.spotify.com/track/3nNb9AXOB4sH2Q6z3ERMV1"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
+        "name": "Mar Manso",
+        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        },
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Mar Manso",
+      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
         "name": "Vamos de Viagem",
         "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
@@ -751,18 +735,34 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
       },
       "artists": [
         {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
+        "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
+        "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Yuki",
+          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
+        }
+      ],
+      "duration_ms": 240207,
+      "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
+      "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
-        "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
       },
       "artists": [
         {
-          "name": "Enzo Yuki",
-          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
         }
       ],
-      "duration_ms": 240207,
-      "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
-      "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 186465,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 160000,
       "name": "Me Deixa Ser S\u00f3 Teu",
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 186465,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "Todos os Futuros",
-        "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 152027,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
         "name": "Todas as Saudades",
         "url": "https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
+        "name": "Todos os Futuros",
+        "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 152027,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 174000,
       "name": "Sol de S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
+        "name": "Voltei",
+        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        }
+      ],
+      "duration_ms": 129270,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
-        "name": "Voltei",
-        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        }
-      ],
-      "duration_ms": 129270,
-      "name": "Voltei",
-      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
-      },
-      "artists": [
-        {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2025-07-03 16:33:05",
       "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
         "name": "G\u00e9rbera + Na Proa da Saudade",
         "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
       },
@@ -1067,6 +1067,26 @@
       "duration_ms": 216747,
       "name": "Na Proa da Saudade",
       "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
+    },
+    {
+      "added_at": "2025-07-03 16:33:05",
+      "album": {
+        "name": "sinto saudade",
+        "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
+        {
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+        }
+      ],
+      "duration_ms": 150978,
+      "name": "sinto saudade",
+      "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
     },
     {
       "added_at": "2025-07-03 16:33:05",
@@ -1107,26 +1127,6 @@
       "duration_ms": 115422,
       "name": "te quero sem final",
       "url": "https://open.spotify.com/track/3KhIaL5rfQFfl2t5K65jN6"
-    },
-    {
-      "added_at": "2025-07-03 16:33:05",
-      "album": {
-        "name": "sinto saudade",
-        "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        },
-        {
-          "name": "Kaike",
-          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
-        }
-      ],
-      "duration_ms": 150978,
-      "name": "sinto saudade",
-      "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
     },
     {
       "added_at": "2025-07-03 16:33:05",

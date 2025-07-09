@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 877100,
+  "num_followers": 877270,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGm8gAAAAACq5D/VIGgXEfsbzqOr3d4+",
+  "snapshot_id": "aGsOAAAAAABTydV3Z9wZj6RxX6loObmI",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHY (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
       },
       "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 177760,
-      "name": "WHY (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
+      "duration_ms": 260862,
+      "name": "Dive - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+        "name": "WHY (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
       },
       "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 260862,
-      "name": "Dive - Recorded At Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy"
+      "duration_ms": 177760,
+      "name": "WHY (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
     },
     {
       "added_at": null,

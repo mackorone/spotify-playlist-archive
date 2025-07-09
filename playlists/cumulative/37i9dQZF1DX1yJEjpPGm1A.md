@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-69 songs - 4 hr 33 min
+71 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 | 2024-12-19 |  |
 | [look at me](https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [look at me](https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06) | 4:11 | 2025-07-01 |  |
 | [Love Is All](https://open.spotify.com/track/1QoZ5G6pg7pZgEA7uFpgVh) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 2:44 | 2024-12-19 |  |
+| [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 | 2025-07-08 |  |
 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 | 2025-06-04 |  |
 | [Marry Me](https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [마크툽 프로젝트 Vol\. 03](https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj) | 4:21 | 2024-12-19 |  |
 | [Marry You](https://open.spotify.com/track/5o7B8smxbomqmWmCYQiCpv) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [유연정 \(우주소녀\)](https://open.spotify.com/artist/2Ma3wGxYt90MsYP3lioxkM) | [Marry Me Part.2](https://open.spotify.com/album/5t50FENPyOgMmFedLeVQFg) | 3:37 | 2024-12-19 |  |
@@ -49,6 +50,7 @@
 | [Propose Song](https://open.spotify.com/track/5bgwb5zurggKqjD3T5KUqS) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [The 5th Album Vol.2 \[Thank You\]](https://open.spotify.com/album/6vOCXDs4BlGMsSbbgFEgsI) | 4:11 | 2025-04-22 |  |
 | [Relieved](https://open.spotify.com/track/5u3r3vueI0mUATK5nsaTgw) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Songs Made of Wood](https://open.spotify.com/album/4aKVF4a4wkXMmS3HF4RVMx) | 3:32 | 2024-12-19 |  |
 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 | 2024-12-19 |  |
+| [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 | 2025-07-08 |  |
 | [Start of Forever](https://open.spotify.com/track/0JdokoPasRqRZFkhOIKkQb) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Start Of Forever](https://open.spotify.com/album/37EYZ2BkOugsdBBSPIcfbN) | 2:49 | 2025-05-20 |  |
 | [Stay Here](https://open.spotify.com/track/16WWIrC9dcqRlSgJznivG4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Stay Here](https://open.spotify.com/album/0cWt79wH1zZl7Qc5doi7sx) | 3:54 | 2024-12-19 |  |
 | [The Eternal Moment \- Acoustic Version](https://open.spotify.com/track/4MrYJK1f4beoDBAH3K3k9o) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Moment Becomes Forever](https://open.spotify.com/album/2Ujvr8rac4c8LPGMsqn0tI) | 4:03 | 2025-06-17 |  |

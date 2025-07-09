@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,860 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,857 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 21 | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5) | [任素汐](https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8) | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j) | 3:55 |
 | 22 | [未來的昨天](https://open.spotify.com/track/4jyTcsOeWdD6U0oKdtP2S3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [未來的昨天](https://open.spotify.com/album/038yDT1NquW3Cqg8X0Zllb) | 3:46 |
 | 23 | [在加納共和國離婚 \- Acoustic Version](https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚 \(Acoustic Version\)](https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH) | 3:56 |
-| 24 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 |
-| 25 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
+| 24 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
+| 25 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 |
 | 26 | [禱文 \- OT：言不由衷](https://open.spotify.com/track/1rmOhrRj8cFpb7KEDqtdVc) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我偷的故事](https://open.spotify.com/album/0OGS09WUGC1WubJhoSAUYJ) | 3:09 |
 | 27 | [決定不想你](https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D) | 4:01 |
 | 28 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 |
-| 29 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
-| 30 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
+| 29 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
+| 30 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
 | 31 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 32 | [莫忘初衷](https://open.spotify.com/track/0jZse1d0sIzWEDQI74f9KB) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [莫忘初衷](https://open.spotify.com/album/0YpUrt8Wo9SHdy3hF9BClV) | 3:57 |
 | 33 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 44 | [infinity 永遠永遠](https://open.spotify.com/track/7LAp8srCLbQdUOpP9w8T2Z) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [黃偉晉](https://open.spotify.com/artist/1LfGS4Ko1gqgvZ8f1hAG7D) | [infinity 永遠永遠](https://open.spotify.com/album/7Lhga1KzTYFXOwQ65wUHfP) | 3:18 |
 | 45 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 46 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
-| 47 | [如果我還剩一件事情可以做](https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 4:09 |
-| 48 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
+| 47 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
+| 48 | [如果我還剩一件事情可以做](https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 4:09 |
 | 49 | [藏在你的名字里](https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [《一闪一闪亮星星》电影原声带](https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm) | 3:16 |
 | 50 | [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 |
 
