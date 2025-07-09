@@ -1,4 +1,4 @@
-## Playlists \(8571\)
+## Playlists \(8572\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2474,6 +2474,7 @@
 - [Gacha Pop](/playlists/pretty/37i9dQZF1DX9ww9tisjowN.md)
 - [Gainsville Stockholm 2012](/playlists/pretty/6ClBNzH2PMh2jvkEuSFBFJ.md)
 - [Gamble & Huff](/playlists/pretty/37i9dQZF1DWXutrsZUdv7b.md)
+- [Game Zone](/playlists/pretty/37i9dQZF1DWUoAkqFHJmQZ.md)
 - [Game of Thrones: The Official Soundtrack](/playlists/pretty/37i9dQZF1DXdnZT5DhATDx.md)
 - [Gameday](/playlists/pretty/37i9dQZF1DXdxTsNp0Bzwq.md)
 - [Gaming Belicón](/playlists/pretty/37i9dQZF1DWTiKrF1Gb3Cp.md)
