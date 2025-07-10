@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "What\u2019s Going On?!",
+        "url": "https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243519,
+      "name": "What\u2019s Going On?!",
+      "url": "https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26"
+    },
+    {
+      "album": {
         "name": "Are We Having Fun?",
         "url": "https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g"
       },

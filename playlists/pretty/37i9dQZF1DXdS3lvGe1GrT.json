@@ -1,13 +1,29 @@
 {
   "description": "Celebrating 10 years of the best new folk music from independent artists. Cover: Tommy W\u00c1",
-  "num_followers": 92083,
+  "num_followers": 92157,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGSuxgAAAACtm5TLduNHA2drrPkHwUDa",
+  "snapshot_id": "aG3pRgAAAACfFvMYYyCbhGdMAIxlMgPo",
   "tracks": [
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "Farmhouse",
+        "url": "https://open.spotify.com/album/4B6oAdwuSKU0IW0z0YyYJD"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 227542,
+      "name": "Farmhouse",
+      "url": "https://open.spotify.com/track/2h8NGYVcmhtjdXmgYkpftE"
+    },
     {
       "added_at": "2025-07-02 04:00:06",
       "album": {
@@ -25,36 +41,20 @@
       "url": "https://open.spotify.com/track/1awcKCzrr91kebm4p9gjhz"
     },
     {
-      "added_at": "2025-07-02 04:00:06",
+      "added_at": "2025-07-09 04:00:06",
       "album": {
-        "name": "Sweet To Know Ya",
-        "url": "https://open.spotify.com/album/1YYXsRrMZZeOROrmAA27LR"
+        "name": "Hatchet Man",
+        "url": "https://open.spotify.com/album/7DxookX94qlypzrqeWbNfO"
       },
       "artists": [
         {
-          "name": "Andrew Montana",
-          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+          "name": "Marissa Nadler",
+          "url": "https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ"
         }
       ],
-      "duration_ms": 187600,
-      "name": "Sweet To Know Ya",
-      "url": "https://open.spotify.com/track/7aP8uKXvoSLeEzV8Vr1OQG"
-    },
-    {
-      "added_at": "2025-07-02 04:00:06",
-      "album": {
-        "name": "Sea",
-        "url": "https://open.spotify.com/album/45d1Bo9dyNq53zEfhrfMg4"
-      },
-      "artists": [
-        {
-          "name": "Laney Tripp",
-          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
-        }
-      ],
-      "duration_ms": 166983,
-      "name": "Sea",
-      "url": "https://open.spotify.com/track/1jlONRx2cKvut2oyWKDIMu"
+      "duration_ms": 269681,
+      "name": "Hatchet Man",
+      "url": "https://open.spotify.com/track/7bvpcZ2VY6s7Ypd5yGsrql"
     },
     {
       "added_at": "2025-06-18 04:00:16",
@@ -73,6 +73,70 @@
       "url": "https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu"
     },
     {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "I Wish You Would",
+        "url": "https://open.spotify.com/album/0tUj9JX8XpBUH7lHu6oWwW"
+      },
+      "artists": [
+        {
+          "name": "Jack Symes",
+          "url": "https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Wish You Would",
+      "url": "https://open.spotify.com/track/3ZNdIYJwq4eTNrsXSz3ooL"
+    },
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "how to love you",
+        "url": "https://open.spotify.com/album/3RnqpmRh0O8LyVH48ys2YK"
+      },
+      "artists": [
+        {
+          "name": "mor",
+          "url": "https://open.spotify.com/artist/0yvVfS792TJ08fVhNZzPQd"
+        }
+      ],
+      "duration_ms": 199388,
+      "name": "how to love you",
+      "url": "https://open.spotify.com/track/6VUjf6bc1XdfFoKFk7ZC66"
+    },
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "Home & Dry",
+        "url": "https://open.spotify.com/album/3RdNpmAM5woel4fSCaMnck"
+      },
+      "artists": [
+        {
+          "name": "Cartwright",
+          "url": "https://open.spotify.com/artist/3ZgEf1qY1T2Ik1MhUvCanM"
+        }
+      ],
+      "duration_ms": 181355,
+      "name": "Home & Dry",
+      "url": "https://open.spotify.com/track/3bPO9T593fAwF3XEdZUQP5"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Sweet To Know Ya",
+        "url": "https://open.spotify.com/album/1YYXsRrMZZeOROrmAA27LR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Sweet To Know Ya",
+      "url": "https://open.spotify.com/track/7aP8uKXvoSLeEzV8Vr1OQG"
+    },
+    {
       "added_at": "2025-06-25 16:00:25",
       "album": {
         "name": "Moth Song",
@@ -87,6 +151,70 @@
       "duration_ms": 303902,
       "name": "Moth Song",
       "url": "https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6"
+    },
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "ocean, moon & sun",
+        "url": "https://open.spotify.com/album/1Kjpzswfm4xg7wzJ1cm228"
+      },
+      "artists": [
+        {
+          "name": "Mt. Nadir",
+          "url": "https://open.spotify.com/artist/0337g0KcUDP76pFknW4lDP"
+        }
+      ],
+      "duration_ms": 295340,
+      "name": "ocean, moon & sun",
+      "url": "https://open.spotify.com/track/1gy31fFjvmkIG81NCjuZA5"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Sea",
+        "url": "https://open.spotify.com/album/45d1Bo9dyNq53zEfhrfMg4"
+      },
+      "artists": [
+        {
+          "name": "Laney Tripp",
+          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "Sea",
+      "url": "https://open.spotify.com/track/1jlONRx2cKvut2oyWKDIMu"
+    },
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "Love Me Too Well, I'll Retire Early",
+        "url": "https://open.spotify.com/album/1fISW2febvh6iEt2cTPB8N"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 126608,
+      "name": "Chess",
+      "url": "https://open.spotify.com/track/0vUjLQC4AjkjcwJnUhsHYv"
+    },
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "changing",
+        "url": "https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC"
+      },
+      "artists": [
+        {
+          "name": "tan sholto",
+          "url": "https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V"
+        }
+      ],
+      "duration_ms": 198953,
+      "name": "changing",
+      "url": "https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY"
     },
     {
       "added_at": "2025-06-25 16:00:25",
@@ -119,6 +247,38 @@
       "duration_ms": 216237,
       "name": "Fucking Games",
       "url": "https://open.spotify.com/track/2AeEdDUGn1iUilYGcsuLtk"
+    },
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "dreamer",
+        "url": "https://open.spotify.com/album/4KK4KUZMu03yMPFJ4wSchs"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "duration_ms": 213857,
+      "name": "dreamer",
+      "url": "https://open.spotify.com/track/73n6NRgI6V1B1isZ4eFta8"
+    },
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "The Villain",
+        "url": "https://open.spotify.com/album/13IXmE3Qic5XwkelctKXpK"
+      },
+      "artists": [
+        {
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
+        }
+      ],
+      "duration_ms": 218956,
+      "name": "The Villain",
+      "url": "https://open.spotify.com/track/5qhsFaMguGNTrf8f4wEJX6"
     },
     {
       "added_at": "2025-07-02 04:00:06",
@@ -207,6 +367,22 @@
       "duration_ms": 156961,
       "name": "Jump in the River",
       "url": "https://open.spotify.com/track/443yUzBexJe8ntrrzp4WXb"
+    },
+    {
+      "added_at": "2025-07-09 04:00:06",
+      "album": {
+        "name": "Freckles",
+        "url": "https://open.spotify.com/album/6l01dnJwf9udW0SqdlAFAM"
+      },
+      "artists": [
+        {
+          "name": "Hetta Falzon",
+          "url": "https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH"
+        }
+      ],
+      "duration_ms": 290875,
+      "name": "Freckles",
+      "url": "https://open.spotify.com/track/2qjFdx2prIhP2clsRFZc1M"
     },
     {
       "added_at": "2025-07-02 04:00:06",
@@ -1771,346 +1947,6 @@
       "duration_ms": 194200,
       "name": "Listening to You",
       "url": "https://open.spotify.com/track/5w7hJZLH5gtj352Kf1zT0q"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "mirage",
-        "url": "https://open.spotify.com/album/0GSUSjqkI0VFRE8bqEysC4"
-      },
-      "artists": [
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        }
-      ],
-      "duration_ms": 183212,
-      "name": "mirage",
-      "url": "https://open.spotify.com/track/4ATeJw3PCPQxw6KDMjZ9Bs"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
-      },
-      "artists": [
-        {
-          "name": "Esther Rose",
-          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Tardigrade Love",
-        "url": "https://open.spotify.com/album/2q92o3TPwD1GmZohxc7VZn"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 218069,
-      "name": "Tardigrade Love",
-      "url": "https://open.spotify.com/track/5ndmNZUeojUHvSPuBG6rDh"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Swilkie",
-        "url": "https://open.spotify.com/album/34xWh14Z0pYLfGGsIuQzTR"
-      },
-      "artists": [
-        {
-          "name": "Iona Lane",
-          "url": "https://open.spotify.com/artist/3wM9Cbca1XLW8w0uVhfkmT"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Big Skies",
-      "url": "https://open.spotify.com/track/2xgbzKdcwdavbtiTbG5LmH"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Silent Acknowledgement / There Ain't You",
-        "url": "https://open.spotify.com/album/6KXxaxXLuMQlstrF2oGhbE"
-      },
-      "artists": [
-        {
-          "name": "Darryl Rahn",
-          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
-        }
-      ],
-      "duration_ms": 194354,
-      "name": "Silent Acknowledgement",
-      "url": "https://open.spotify.com/track/3wFVKi2sXsM2s106hOKlnJ"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "We Will Run",
-        "url": "https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "We Will Run",
-      "url": "https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "recall,",
-        "url": "https://open.spotify.com/album/0VSCvK27N3QPQrDLl6gH4B"
-      },
-      "artists": [
-        {
-          "name": "Sandrayati",
-          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
-        }
-      ],
-      "duration_ms": 285854,
-      "name": "La Loba",
-      "url": "https://open.spotify.com/track/6PVGDYVAcIDkflpb3ZyHWC"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Valborg",
-        "url": "https://open.spotify.com/album/5erMvieWnP1HMuPDMiboNA"
-      },
-      "artists": [
-        {
-          "name": "My Dear Companion",
-          "url": "https://open.spotify.com/artist/4rCC8N3QkRNz9uoVVNdmnI"
-        }
-      ],
-      "duration_ms": 158669,
-      "name": "Valborg",
-      "url": "https://open.spotify.com/track/2r0KoFkARUj3f8EW62RvCo"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/3wHiVUNd5o031NpArPFgwd"
-      },
-      "artists": [
-        {
-          "name": "Emily Izen Row",
-          "url": "https://open.spotify.com/artist/6SV73vTipMWJYYDmHxQKK6"
-        }
-      ],
-      "duration_ms": 250996,
-      "name": "Vessel",
-      "url": "https://open.spotify.com/track/4gkTNUit67mZlRMadhbMX4"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "You Love You",
-        "url": "https://open.spotify.com/album/7gup7q8DB1d7Y8hS5SV0pZ"
-      },
-      "artists": [
-        {
-          "name": "Dominique Way",
-          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
-        }
-      ],
-      "duration_ms": 183748,
-      "name": "You Love You",
-      "url": "https://open.spotify.com/track/6nYzUeU2RKW4X5cbPvnclO"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "Be Honest",
-        "url": "https://open.spotify.com/album/19OwdlnSwIu5J2etcF8c6k"
-      },
-      "artists": [
-        {
-          "name": "Metaxas",
-          "url": "https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9"
-        }
-      ],
-      "duration_ms": 300287,
-      "name": "Be Honest",
-      "url": "https://open.spotify.com/track/3jT5quCcDFgdBD7Kg099VA"
-    },
-    {
-      "added_at": "2025-04-16 20:37:41",
-      "album": {
-        "name": "The Actor",
-        "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 170256,
-      "name": "The Actor",
-      "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
-    },
-    {
-      "added_at": "2025-05-01 20:20:39",
-      "album": {
-        "name": "aphrodite",
-        "url": "https://open.spotify.com/album/1LqOX264tv3WIVCJNqZWFo"
-      },
-      "artists": [
-        {
-          "name": "Eden J Howells",
-          "url": "https://open.spotify.com/artist/6y07TVZtZy3CGkeJts7cJL"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "aphrodite",
-      "url": "https://open.spotify.com/track/3WcsPLlO3IgQbgWn6OBVFi"
-    },
-    {
-      "added_at": "2025-04-24 17:40:57",
-      "album": {
-        "name": "give or take",
-        "url": "https://open.spotify.com/album/7AqIwlTBcRNL3AVbS1FdDp"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 238103,
-      "name": "give or take",
-      "url": "https://open.spotify.com/track/31GzBC7eCQ4bmfuYpt66xW"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "Space to Roam",
-        "url": "https://open.spotify.com/album/3ot1G1T7nTFQjVPn5BK7cG"
-      },
-      "artists": [
-        {
-          "name": "Olivia Reid",
-          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
-        }
-      ],
-      "duration_ms": 253970,
-      "name": "Space to Roam",
-      "url": "https://open.spotify.com/track/3DcWXhftARkb7FVbmAU78V"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "Gentler Breed",
-        "url": "https://open.spotify.com/album/2KsKezUt6SciUHnvf58Fun"
-      },
-      "artists": [
-        {
-          "name": "Christian Sparacio",
-          "url": "https://open.spotify.com/artist/5q5G8bzQnSGXVQx1SI35oO"
-        },
-        {
-          "name": "kind of isabella",
-          "url": "https://open.spotify.com/artist/2FVec3imtpaz406aXxw8x0"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Gentler Breed",
-      "url": "https://open.spotify.com/track/3L8KGPpxM0GWzke53YTJ31"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "Did the Mountain Change You?",
-        "url": "https://open.spotify.com/album/6ffBxY0Wn6lLN9hyiLV7ae"
-      },
-      "artists": [
-        {
-          "name": "Laura Lucas",
-          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
-        }
-      ],
-      "duration_ms": 240741,
-      "name": "Did the Mountain Change You?",
-      "url": "https://open.spotify.com/track/2nLlOEgISOg41Uwpy5dPUw"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "All of the Time in the World",
-        "url": "https://open.spotify.com/album/7BYyD1u8IAHuIhvozkAvHB"
-      },
-      "artists": [
-        {
-          "name": "Fairhazel",
-          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "All of the Time in the World",
-      "url": "https://open.spotify.com/track/30L0Qvs0KTwU1Ocje1Z3Xz"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "etc.",
-        "url": "https://open.spotify.com/album/5UpNhrcnkwwLrmPdhy5Xd5"
-      },
-      "artists": [
-        {
-          "name": "Strange Ranger",
-          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Tiny Hands/When Can I See You Again?",
-      "url": "https://open.spotify.com/track/4YVrJtPeTjuHIlTNC3AvGI"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "Never Rains in London",
-        "url": "https://open.spotify.com/album/5pNPyd0822zHgeSXCEQfaB"
-      },
-      "artists": [
-        {
-          "name": "Abigail Osborn",
-          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
-        }
-      ],
-      "duration_ms": 142594,
-      "name": "Never Rains in London",
-      "url": "https://open.spotify.com/track/79dary3nhptdWjD33KnHLg"
-    },
-    {
-      "added_at": "2025-04-24 17:40:57",
-      "album": {
-        "name": "Touchy/Outfield",
-        "url": "https://open.spotify.com/album/45qlBtRTZJlkGGZs9xdsRF"
-      },
-      "artists": [
-        {
-          "name": "William Wild",
-          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
-        }
-      ],
-      "duration_ms": 145947,
-      "name": "Outfield",
-      "url": "https://open.spotify.com/track/1UmQY448DqdhVoF0o9uQHL"
     },
     {
       "added_at": "2025-04-16 20:37:41",

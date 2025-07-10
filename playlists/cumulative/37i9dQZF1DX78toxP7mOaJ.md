@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: nabeel \-نبيل
 
-2,002 songs - 4 day 14 hr 33 min
+2,010 songs - 4 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [airplane](https://open.spotify.com/track/6CCi6b23HctIsVkdoIq7Is) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [podunk](https://open.spotify.com/album/24QlHZXQXEPXlszax5IOWW) | 3:15 | 2023-04-12 | 2023-06-15 |
 | [Alabaster Road](https://open.spotify.com/track/3WQiFE1A4qrSbgUR3UdNBV) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7) | [Alabaster Road](https://open.spotify.com/album/6tIxiLO7xdtL1AcEpomGHs) | 3:38 | 2025-06-25 |  |
 | [Alarm](https://open.spotify.com/track/5fkT52XT0Hh2byKCuNhHeS) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [Alarm](https://open.spotify.com/album/1gCCC9hHa0Dh0P5y29U0VF) | 3:14 | 2023-06-14 | 2024-01-11 |
+| [alarm bells in central plaza](https://open.spotify.com/track/7xXP4jcVrbtiWNyAgZ7P22) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [Shakedown](https://open.spotify.com/album/1VMd1Kp9pH34iI6sfgynBG) | 4:21 | 2025-07-09 |  |
 | [Alcoholic](https://open.spotify.com/track/50yrd6laLgnTqvvNeSq2Bf) | [Crispies](https://open.spotify.com/artist/3OhkcoyaG1TN9xDWzhmgZQ) | [Alcoholic](https://open.spotify.com/album/4MvdltPieYaQAAmECensZA) | 2:23 | 2024-04-03 | 2024-04-24 |
 | [Alibi](https://open.spotify.com/track/0g2p9dssyIrbWCAE3pETd4) | [Jasper Wilderness](https://open.spotify.com/artist/2dqhFwBKG2HSQY1NoFohiw) | [Coming Home to Silence](https://open.spotify.com/album/6CuEN2Gr3nnJXydEOuE3q3) | 2:57 | 2022-10-12 | 2022-10-21 |
 | [Alibi](https://open.spotify.com/track/7wK9sB7hjnUSoCnWRyVzlu) | [Jasper Wilderness](https://open.spotify.com/artist/2dqhFwBKG2HSQY1NoFohiw) | [Coming Home to Silence](https://open.spotify.com/album/5RAFq2PS8L0tiww2yeQzJj) | 2:57 | 2022-10-19 | 2022-12-01 |
@@ -508,7 +509,7 @@
 | [Dig Your Hips](https://open.spotify.com/track/5aroHA8g1TCzTcMKSPdmgJ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Dig Your Hips](https://open.spotify.com/album/7wpDIL0q82nUS58eOyOZrh) | 3:18 | 2022-05-18 | 2022-06-30 |
 | [Dime Baby](https://open.spotify.com/track/0rbi7S27vDYv3vIL2vIgGK) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ), [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [ME ACUERDO DE TODO](https://open.spotify.com/album/2jJZrb7rsyKOItsmWYw4tQ) | 2:56 | 2025-01-29 | 2025-04-24 |
 | [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 | 2024-05-29 | 2024-08-01 |
-| [dinner](https://open.spotify.com/track/4xgO4ARR5a4CK7J0Tie1cU) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [gush](https://open.spotify.com/album/3sQcQ17UvEW3mvRvQItvJB) | 2:29 | 2025-07-02 |  |
+| [dinner](https://open.spotify.com/track/4xgO4ARR5a4CK7J0Tie1cU) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [gush](https://open.spotify.com/album/3sQcQ17UvEW3mvRvQItvJB) | 2:29 | 2025-07-02 | 2025-07-10 |
 | [dinner always ends with a kiss](https://open.spotify.com/track/70jJJBBie11Bw935Z9TQ0Z) | [CORE MATO](https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC) | [dinner always ends with a kiss](https://open.spotify.com/album/6suAm9uxcJTNHgDTNdJj5H) | 2:12 | 2025-06-11 |  |
 | [Dinner For One](https://open.spotify.com/track/1otdfx71wVb8TXgdkbYa8v) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Dinner For One](https://open.spotify.com/album/5nemInefPKhUqRKMjfzV6R) | 2:23 | 2023-02-01 | 2023-03-02 |
 | [dissolve](https://open.spotify.com/track/1GJF9cxjx4tEeUgIHlqGlb) | [sunshy](https://open.spotify.com/artist/3N10oOH2Qf9uti4SA0Azav) | [dissolve](https://open.spotify.com/album/2oHvvxsZZ8lziRzIjIfUs9) | 2:25 | 2023-06-14 | 2024-01-11 |
@@ -656,6 +657,8 @@
 | [fix](https://open.spotify.com/track/4vOXwlSR8SzM3C0TDvkV4m) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [fix](https://open.spotify.com/album/50csy4OVo88eEGhERT6We1) | 3:12 | 2023-05-10 | 2023-07-27 |
 | [Flat Circle](https://open.spotify.com/track/3afhO4qhTkyE5fNJfFq9fe) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Flat Circle](https://open.spotify.com/album/4l8wmu1iLfrN7jdkYjKTnx) | 3:03 | 2025-06-25 |  |
 | [Flawed Guy](https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Flawed Guy](https://open.spotify.com/album/57KOzUqReaxjaZG6czVlzf) | 2:06 | 2022-09-28 | 2022-11-10 |
+| [Flesh Debt](https://open.spotify.com/track/5eudAL9QfMmlBSjIgCRkNe) | [Editrix](https://open.spotify.com/artist/114Z5iDTpNa5tbPNSUMCre), [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Flesh Debt](https://open.spotify.com/album/4P2oDa4qhbuvgkgVgeqDkB) | 4:19 | 2025-07-09 |  |
+| [fleur rouge](https://open.spotify.com/track/0aKGr2wDSqzeTDCHoihSGp) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [fleur rouge](https://open.spotify.com/album/1NqjRSRPIEzmWy4kQMJidB) | 2:57 | 2025-07-09 |  |
 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2022-01-19 | 2022-03-10 |
 | [Floods](https://open.spotify.com/track/3aNXgFBEd34MRhhwAVcC9l) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Floods](https://open.spotify.com/album/1RWyPGbYzkbAqI6MCkuJ63) | 4:55 | 2025-02-19 | 2025-05-01 |
 | [Floods](https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [7](https://open.spotify.com/album/60blq04fivxFDr2whVvM5r) | 4:03 | 2024-10-09 | 2025-02-20 |
@@ -964,6 +967,7 @@
 | [Indigo](https://open.spotify.com/track/745SWQcnr66ty7jdI0p7Io) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Indigo](https://open.spotify.com/album/29xNyq5cem5oPVurNSBYcp) | 4:05 | 2023-03-08 | 2023-05-04 |
 | [Infinity Peaking](https://open.spotify.com/track/54k6mnmbMRJ25Z2AY4C32F) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Infinity Peaking](https://open.spotify.com/album/1UZaE72xUgScFlEuBWKRWC) | 5:41 | 2025-01-15 | 2025-03-06 |
 | [Inhaler](https://open.spotify.com/track/6J8x8ZdWjbMYpi5YduVC2v) | [Wussy](https://open.spotify.com/artist/5F9t2eiVfkS6nfRwyH2WjS) | [Inhaler](https://open.spotify.com/album/07QeX9sCKXLj4D9fNJ9cL5) | 5:02 | 2024-11-20 | 2025-01-23 |
+| [Inspection](https://open.spotify.com/track/47iA8GU6dmKqOTLfhQ5hPF) | [Inch](https://open.spotify.com/artist/7zefCGpzVb5LfH3zQYEhHf) | [Inch Lifestyle](https://open.spotify.com/album/6qGUcMZW0XF7V0B64OyWUw) | 2:34 | 2025-07-09 |  |
 | [Intact](https://open.spotify.com/track/6Enuy83ccl5W8cWILxp2h4) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Intact](https://open.spotify.com/album/0aYP3uw0QEjxuEwGe4ec3o) | 3:09 | 2024-09-11 | 2024-10-03 |
 | [Intact](https://open.spotify.com/track/7sc2LNfJl9HaMJRUzDGjaR) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Doggerland](https://open.spotify.com/album/5ie4Kt29AN3Fc3lsQMrqFx) | 3:09 | 2024-10-02 | 2024-11-14 |
 | [Intermission](https://open.spotify.com/track/2kDZlHdW4bpfwDl3dGfVhE) | [Theo Moss](https://open.spotify.com/artist/0ETuekbiB4yJVpe2fAMiNP) | [Intermission](https://open.spotify.com/album/0btvxqyVwXuJdryIiy4LLO) | 2:52 | 2025-04-02 | 2025-05-29 |
@@ -1123,6 +1127,7 @@
 | [Mac and Steeze](https://open.spotify.com/track/3qZE5IUJ7qzYQC8Ko3F1Me) | [Picture Us Tiny](https://open.spotify.com/artist/1ZzI9ohe9Ekq5yZhK3U9pF) | [Mac and Steeze](https://open.spotify.com/album/1kiENWEGpg9rSQWGb8AhNA) | 2:54 | 2022-08-31 | 2022-09-29 |
 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2023-01-11 | 2023-02-23 |
 | [Madame Murder](https://open.spotify.com/track/1HmmDJEt7WGyoeH1klXECt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [Madame Murder](https://open.spotify.com/album/0BkUR07xOGWSjhIgslJdxZ) | 3:10 | 2022-08-31 | 2023-01-12 |
+| [Made Up My Mind](https://open.spotify.com/track/4plmxRZ8iteJa14MCdiokR) | [Coral Moons](https://open.spotify.com/artist/1e1BtFMq0maJJM8Hjk2Myu) | [Made Up My Mind](https://open.spotify.com/album/7f6qE7J0OPKOWV3yklDvrH) | 3:07 | 2025-07-09 |  |
 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 | 2023-02-15 | 2023-04-13 |
 | [Make You Mad](https://open.spotify.com/track/5rCAIpNJOv4Kw9QOuvHUPA) | [87 Nights](https://open.spotify.com/artist/5RTiISA2iq6ViQuLUi7HdB) | [Make You Mad](https://open.spotify.com/album/7tnYr62bQ7BJd67L8A69td) | 4:03 | 2022-09-14 | 2022-12-01 |
 | [Make Your Bed](https://open.spotify.com/track/1AJljHW6pDZanEe8iE4QKP) | [Prim](https://open.spotify.com/artist/2102wVVks8Z901vPMjXI3Q) | [Make Your Bed](https://open.spotify.com/album/2p4qWhERaC6CbqT14upXQ2) | 3:10 | 2024-08-28 | 2024-11-07 |
@@ -1320,6 +1325,7 @@
 | [Overrater](https://open.spotify.com/track/33TEgO3KXWg0YF2l4alGxW) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Overrater](https://open.spotify.com/album/431ylF1klJ09GIR8AHicoV) | 3:51 | 2023-03-08 | 2023-05-11 |
 | [Owner Operator](https://open.spotify.com/track/13PC7fpNWPPkMFJjTQeMh1) | [Sidewalk & the Wheely Bin](https://open.spotify.com/artist/3EZkOcE5IpJKOBQf1AKEAH) | [Wet bit beef bit no bit](https://open.spotify.com/album/785FkH4huvQH3rQyHvVwAU) | 2:32 | 2024-07-24 | 2024-10-17 |
 | [Pack It Up](https://open.spotify.com/track/1ep21tPRym5uPslwwVwNVV) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [The Burrow](https://open.spotify.com/album/0Da6mJ7GIXB91ybJn1b22k) | 3:17 | 2025-03-12 | 2025-05-22 |
+| [Pagan Poetry](https://open.spotify.com/track/6rdZOGjC0igWX9fgET5v0y) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [Pagan Poetry](https://open.spotify.com/album/7Ky7mt6Bna9IgMoiYIf7c6) | 5:46 | 2025-07-09 |  |
 | [Pagosa](https://open.spotify.com/track/01kWOdxUiWIO9gEeIjCQJd) | [Lady Denim](https://open.spotify.com/artist/4xd61eEIEE9eNnSXxSQl7B) | [Pagosa](https://open.spotify.com/album/0zT6qAcpEetk6dduclApXO) | 2:50 | 2023-08-23 | 2024-03-14 |
 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 | 2021-12-01 | 2022-03-10 |
 | [Pale Blue Dot](https://open.spotify.com/track/5MnwaOwJu9sYSd15Rokscw) | [Julia Why?](https://open.spotify.com/artist/7KRQv44ecmEYiqrP1UDiiD) | [Pale Blue Dot](https://open.spotify.com/album/4E0VmR3xhn07I4OaJyigll) | 4:14 | 2025-02-26 | 2025-05-15 |
@@ -1953,6 +1959,7 @@
 | [Wilmer](https://open.spotify.com/track/46jTnBN3qzAUBWNu7HcKdq) | [Tourneforte](https://open.spotify.com/artist/5C8nnsJYiL5AbRqzZEq2ES) | [Wilmer](https://open.spotify.com/album/3cDOZ7o5SNWZbtq6mSnB9G) | 3:29 | 2024-01-24 | 2024-03-14 |
 | [Wind Up Merchant](https://open.spotify.com/track/4Op4RqAgY4FE1GotwYLw4x) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Wind Up Merchant](https://open.spotify.com/album/0UHMSyyN0zZVcq7HBbXIsp) | 2:35 | 2023-10-18 | 2024-04-11 |
 | [Window](https://open.spotify.com/track/4mkSG5c6ardiiybPXUF5AQ) | [Cusp](https://open.spotify.com/artist/07nDyiBj44NtwrqJJ54Or8) | [Thanks So Much](https://open.spotify.com/album/2Wci0uRKwLR63NcvHg0vIU) | 4:56 | 2024-03-27 | 2024-08-08 |
+| [WINDOW SEAT](https://open.spotify.com/track/02HnPwqLIvYx7C97zGcvZl) | [Cruel Sister](https://open.spotify.com/artist/3SZEdCibGdV5nwK99zdvs2) | [WINDOW SEAT](https://open.spotify.com/album/5P70VjKmlO3HfnP7dW6wqq) | 3:59 | 2025-07-09 |  |
 | [winter storm of '21](https://open.spotify.com/track/69RFdwcsXBuNGlIuTnG0dt) | [Fuvk](https://open.spotify.com/artist/3QQcAoAbNAwQ3VCEfYpogc) | [split death](https://open.spotify.com/album/2ZCOtfUpCr3DA9bLtLx7NU) | 2:44 | 2022-03-23 | 2022-05-05 |
 | [Wire](https://open.spotify.com/track/6QENvtADv9BFPu9i8y1BLj) | [BERMUD](https://open.spotify.com/artist/11bu3VqvH6SseXWsovc64V) | [Chetter Hummin](https://open.spotify.com/album/0RcoPkoz89KvevyQ2sCSfr) | 3:38 | 2023-04-12 | 2023-05-18 |
 | [Wired/Weird](https://open.spotify.com/track/6HpelWP42NVal2WShBobNt) | [Beige Banquet](https://open.spotify.com/artist/1RD0sw23ETXTCQRmDHsmbW) | [Beta](https://open.spotify.com/album/6MzBXj52MbmhKrORPzWY9W) | 3:39 | 2021-12-01 | 2022-01-20 |
@@ -1963,6 +1970,7 @@
 | [Witches + Vampires](https://open.spotify.com/track/7bXY6a5iBUTky9r91ZjrjR) | [Hotel Decor](https://open.spotify.com/artist/3wPuwE1Bgnjnhn1re2KKU5) | [LOANSTAR](https://open.spotify.com/album/2dIgYLFnOjsgedvL7Bt51T) | 3:22 | 2023-11-08 | 2024-02-01 |
 | [With Love](https://open.spotify.com/track/71uqQ3hm1ilBnT8Z4NECkc) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [With Love,](https://open.spotify.com/album/3fqm4PDI57qVWEJBOGxyrN) | 3:21 | 2024-05-08 | 2025-01-16 |
 | [Wither](https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Wither](https://open.spotify.com/album/6LAFrVD7Nz2LUWl6nxXEQw) | 4:11 | 2024-07-24 | 2024-11-21 |
+| [Without A Leash](https://open.spotify.com/track/09ke253nvh377Jm3tATZVT) | [Seaside](https://open.spotify.com/artist/12A9HO7R8JCU46t4HiVQqH), [Baden Donegal](https://open.spotify.com/artist/01pVW0ud23Z7IbehPQzwGs) | [Without A Leash](https://open.spotify.com/album/1PoVxeILFRcHEiYOCqe7fm) | 3:27 | 2025-07-09 |  |
 | [Woah](https://open.spotify.com/track/4RDPvmwil6RoOWA3gI2AOs) | [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Woah](https://open.spotify.com/album/5PcDmSVUaqhWkxnaDPLira) | 1:58 | 2023-04-19 | 2023-05-24 |
 | [Won't Do](https://open.spotify.com/track/4yyUoMkAE67foZFeOZu7w4) | [matty co.](https://open.spotify.com/artist/7DrvAAweGnwvhRFRUsfjzH) | [Won't Do](https://open.spotify.com/album/0K8nrc7Qg9oScCi1ha804y) | 3:10 | 2022-06-08 | 2022-06-30 |
 | [Wonder How](https://open.spotify.com/track/7rhqGznU9Ej1BGn8Bcfwp9) | [Pleasure Pill](https://open.spotify.com/artist/4xCsBqQhsFzLIuuJNkoxB8) | [Wonder How](https://open.spotify.com/album/44YqBozjlU2RH2CWGMSRbL) | 3:08 | 2023-08-30 | 2023-11-30 |

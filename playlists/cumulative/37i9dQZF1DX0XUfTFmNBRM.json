@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music that India is listening to. Cover - Metro... In Dino",
+  "description": "Hottest Hindi music that India is listening to. Cover - Stree 2",
   "name": "Hot Hits Hindi",
   "tracks": [
     {
@@ -668,6 +668,32 @@
       "duration_ms": 224240,
       "name": "Asal Mein",
       "url": "https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS"
+    },
+    {
+      "album": {
+        "name": "Aur Mohabbat Kitni Karoon (From \"Metro ... In Dino\")",
+        "url": "https://open.spotify.com/album/0qw6c6SD4zDzm2l3Xx3cSH"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sandeep Shrivastava",
+          "url": "https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236101,
+      "name": "Aur Mohabbat Kitni Karoon (From \"Metro ... In Dino\")",
+      "url": "https://open.spotify.com/track/3EIMdrD4DstJVklUH9Ai7Y"
     },
     {
       "album": {
@@ -2084,6 +2110,28 @@
       "duration_ms": 227865,
       "name": "Dhoop Aane Do",
       "url": "https://open.spotify.com/track/26wSHzYyWwRUPIp6bTks2r"
+    },
+    {
+      "album": {
+        "name": "Dhun (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276643,
+      "name": "Dhun (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
     },
     {
       "album": {
@@ -3760,6 +3808,32 @@
       "duration_ms": 284721,
       "name": "Jaane Tu (From \"Chhaava\")",
       "url": "https://open.spotify.com/track/2xJljikiXXEymW80bqyG6u"
+    },
+    {
+      "album": {
+        "name": "Jab Tu Sajan (From \"Aap Jaisa Koi\")",
+        "url": "https://open.spotify.com/album/5gyC0Z4BwSxuVoFJGS2YqU"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251124,
+      "name": "Jab Tu Sajan (From \"Aap Jaisa Koi\")",
+      "url": "https://open.spotify.com/track/0v716URUxpcG1AhIZmulz7"
     },
     {
       "album": {
@@ -5520,7 +5594,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 242142,
       "name": "Mann Ye Mera (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/1iM0dkfgtTxBi7yQV16pjD"
@@ -5892,7 +5966,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 182369,
       "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/3yxUi5nDZSWcYKi1C2xmLd"
@@ -6102,7 +6176,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 171935,
       "name": "Morni",
       "url": "https://open.spotify.com/track/3jPLJbSL14oH6pcSLIaMGJ"

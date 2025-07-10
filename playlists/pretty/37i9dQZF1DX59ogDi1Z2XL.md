@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🧊
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,123 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,159 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 8 | [What I Might Say Next...](https://open.spotify.com/track/1ZET57CP96mEbJCt819OOb) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Patio Season](https://open.spotify.com/album/7MIBpn1fx9271xk70OtSRk) | 2:54 |
 | 9 | [Dan Marino](https://open.spotify.com/track/70in0KvBH30dxHG908Shqr) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Dan Marino](https://open.spotify.com/album/5Dd3Tgwn2xIYfevmNXYMyj) | 1:36 |
 | 10 | [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 |
-| 11 | [Riders](https://open.spotify.com/track/4sDBZEJmOSKcjFI3o61f1Z) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r), [Damien Cruise](https://open.spotify.com/artist/57yxsvhbdHwL21M5G8zId1), [Isaac](https://open.spotify.com/artist/0CsHXTwppha2FCaxOve4bR) | [Riders](https://open.spotify.com/album/7BPMyyBB1lVvwrCVMI0JNH) | 3:37 |
+| 11 | [Riders](https://open.spotify.com/track/4sDBZEJmOSKcjFI3o61f1Z) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r), [Damien Cruise](https://open.spotify.com/artist/57yxsvhbdHwL21M5G8zId1), [Isaac](https://open.spotify.com/artist/0ecR98huOAcwFeo9MqllTY) | [Riders](https://open.spotify.com/album/7BPMyyBB1lVvwrCVMI0JNH) | 3:37 |
 | 12 | [DUMB](https://open.spotify.com/track/2b5Q9myOad71NnxAH9dgRM) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [DUMB](https://open.spotify.com/album/54RVFmKqdHwAYlcvVIOcKF) | 3:15 |
 | 13 | [Spin \(feat\. Lil Tjay\)](https://open.spotify.com/track/3J8rODbpQOnHdUydtIrcqB) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Spin \(feat\. Lil Tjay\)](https://open.spotify.com/album/1akr1LrMEcbmmVTM56su9C) | 3:38 |
 | 14 | [DO WHAT I WANT](https://open.spotify.com/track/7tXP3CNkjA5ySUUswM7qqA) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [MARFA](https://open.spotify.com/album/0ZRSGdTXTiSBmvszTK5a0R) | 2:10 |

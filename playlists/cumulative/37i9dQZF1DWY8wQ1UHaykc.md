@@ -2,9 +2,9 @@
 
 ### [Ngetren di 2010an](https://open.spotify.com/playlist/37i9dQZF1DWY8wQ1UHaykc)
 
-> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
+> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Noah
 
-205 songs - 14 hr 3 min
+206 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Selow](https://open.spotify.com/track/1c5ZiOfMbDBHKRNuMfinOb) | [Wahyu Selow](https://open.spotify.com/artist/5fTrXgpGtbd2G1Xs30KiA7), [Coki](https://open.spotify.com/artist/7I0aZDVF624WWnFTBR2AyL) | [Selow](https://open.spotify.com/album/590x6JPNRYe0h92QZA4Fdy) | 3:36 | 2024-01-05 |  |
 | [Seluruh Nafas Ini](https://open.spotify.com/track/2vzpoecVhBE1pKtHzKONaN) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Gisel](https://open.spotify.com/artist/4L0t6db3fWWG07bh14TxUw) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:52 | 2024-01-05 |  |
 | [Sementara Sendiri](https://open.spotify.com/track/5BrcBvVIbhXvaaNOJIRrcj) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [OST\. Single](https://open.spotify.com/album/3CPlGLGR8gBsKcqcmn8N2z) | 3:37 | 2024-01-05 |  |
+| [Separuh Aku](https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4EneY8crCrt61L7siIXtkS) | 4:26 | 2025-07-09 |  |
 | [Separuh Aku](https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:26 | 2024-04-19 |  |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2024-01-05 | 2024-04-19 |
 | [Seperti Bintang \- From "Bima Satria Garuda"](https://open.spotify.com/track/4rSc4D3hA3ISpWXTX01zeb) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Seperti Bintang](https://open.spotify.com/album/4iE0MEONR8yC6AP54fgvHB) | 3:14 | 2024-01-05 |  |

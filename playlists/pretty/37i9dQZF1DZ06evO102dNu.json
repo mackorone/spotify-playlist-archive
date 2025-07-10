@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1212919,
+  "num_followers": 1212987,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGsOAAAAAAD/KP6iCuhpoQu6blVQ95k3",
+  "snapshot_id": "aGxfgAAAAAD5ekn0hWTsQmKgfxJtqsqP",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ol' Blue Eyes Is Back",
-        "url": "https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "Let Me Try Again (Laisse Moi le Temps)",
-      "url": "https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 140986,
       "name": "One Note Samba (Samba de Uma Nota So)",
       "url": "https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ol' Blue Eyes Is Back",
+        "url": "https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Let Me Try Again (Laisse Moi le Temps)",
+      "url": "https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY"
     },
     {
       "added_at": null,

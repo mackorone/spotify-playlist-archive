@@ -4,12 +4,15 @@
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-175 songs - 8 hr 16 min
+185 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Sky of Wild Roses](https://open.spotify.com/track/2YWjDyqD2ObFroySQHiynt) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [A Sky of Wild Roses](https://open.spotify.com/album/6swdHpmDPQnc7mV8z6cG5j) | 3:05 | 2025-07-09 |  |
+| [Above the Clouds](https://open.spotify.com/track/16ncuGpHs42QKasXW8JagA) | [tòna](https://open.spotify.com/artist/0KYrSXd1TGKtbF3Q2Xi2ib) | [Above the Clouds](https://open.spotify.com/album/5JjBBPiHPRO3sdTw4UpkAv) | 2:27 | 2025-07-09 |  |
 | [Above Us](https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Above Us](https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP) | 2:58 | 2025-05-13 |  |
 | [Aetheris](https://open.spotify.com/track/0j1qiClBRZdGFjJkkCqCLS) | [Eunephele](https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm) | [Aetheris](https://open.spotify.com/album/0Ed5HgEcEVO8FQXhtdEibT) | 3:13 | 2025-05-13 |  |
+| [Aethra](https://open.spotify.com/track/5TPQyPKE37FmTyomgoaViY) | [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [Aethra](https://open.spotify.com/album/01BIgmYazIaIcC8DwiHQ3a) | 2:32 | 2025-07-09 |  |
 | [Affections](https://open.spotify.com/track/1RN8RzzOQMgPuLbyUMYrj7) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Affections](https://open.spotify.com/album/6MMTdk9uojOlZgNZzrT8Fk) | 2:44 | 2025-05-13 |  |
 | [Alami Calma](https://open.spotify.com/track/38M52H0WHEnyySoxLObqGy) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Alami Calma](https://open.spotify.com/album/2epmnJevgjT3B70SISwT0t) | 2:45 | 2025-05-27 |  |
 | [Alice the Flower](https://open.spotify.com/track/30FZIAhj6ujNdp8rUyDrpK) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Alice the Flower](https://open.spotify.com/album/74RgcJ4hG1XLutWvM51Ssf) | 3:13 | 2025-05-13 |  |
@@ -50,6 +53,7 @@
 | [Cosmos](https://open.spotify.com/track/3GoGbgm3fi8JnnZqp4CrYs) | [Cumulus Sea](https://open.spotify.com/artist/0atHhR2rLh959TuWQBjgGf) | [Cosmos](https://open.spotify.com/album/1vHfF6ifSOPxCQX6v05mPa) | 2:42 | 2025-06-12 |  |
 | [Cosmos Estelar](https://open.spotify.com/track/1i0H50iTqumUIecrvZmYfY) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Cosmos Estelar](https://open.spotify.com/album/1wMcXb5Eyv2H9sIPwBNIvK) | 3:04 | 2025-05-13 |  |
 | [Cotton For Ears](https://open.spotify.com/track/2cDOGBsHJH3PU2NMFGKr7q) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Cotton For Ears](https://open.spotify.com/album/1gUh1zfbBUZx419i20VQue) | 2:42 | 2025-05-13 |  |
+| [Deep Heaven](https://open.spotify.com/track/4dl6exmrgJCqmsw4ZceFHz) | [Etherielle](https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK) | [Deep Heaven](https://open.spotify.com/album/4VvDzbDMIXcTxEx5fIM7aY) | 2:22 | 2025-07-09 |  |
 | [Deep rest](https://open.spotify.com/track/5TcqlIHwuNPh2Tcl6NgeJF) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Deep rest](https://open.spotify.com/album/2hYb3gWbv4ylpbYtlJpTkT) | 2:51 | 2025-05-13 |  |
 | [Deep Within](https://open.spotify.com/track/3r08NZ1RqRD7hIPrd19hRm) | [Morlya](https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R) | [Deep Within](https://open.spotify.com/album/3VmmhMpixZaxQ8bGhqYSZJ) | 2:49 | 2025-05-13 |  |
 | [Dematerialise](https://open.spotify.com/track/2fQcsr4q4tP5khVylHpk0y) | [Opal Skies](https://open.spotify.com/artist/7Bf5POar9ja7KFM4yeOeXu) | [Dematerialise](https://open.spotify.com/album/1VAkZgzQRifwhqcw3S9zM6) | 3:44 | 2025-05-13 |  |
@@ -94,6 +98,7 @@
 | [Jákvæð](https://open.spotify.com/track/1uqPoBuNXpJ6UsEf8bj4vL) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Jákvæð](https://open.spotify.com/album/0E8U4MXhURoj9gzmF0bd6N) | 3:16 | 2025-05-13 |  |
 | [Kora Dream](https://open.spotify.com/track/5jagNkJutrWubob9fWncdr) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Kora Dream](https://open.spotify.com/album/1ech2IPj79G5Jqi2DZCy9v) | 3:04 | 2025-05-13 |  |
 | [Lacquer](https://open.spotify.com/track/3GZGRv578sQ6ekJvZJV3V5) | [Holzer](https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy) | [Lacquer](https://open.spotify.com/album/7CmalDEdbq4rmzSh5Zvf3f) | 3:05 | 2025-05-13 |  |
+| [Laomedeia](https://open.spotify.com/track/7Cp2aso3JhhnKnPRvU9LdK) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Laomedeia](https://open.spotify.com/album/0PjxDGNRcecZ4P3S5XimqK) | 3:27 | 2025-07-09 |  |
 | [Lavandula](https://open.spotify.com/track/2k6BuTL3w4wCWb3pkNoFP7) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Lavandula](https://open.spotify.com/album/573Iu6Spe7C0jfZbiODwK2) | 3:14 | 2025-06-12 |  |
 | [Life Cycle](https://open.spotify.com/track/7gkmg3tdf2VrPyAUmTu13o) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [Life Cycle](https://open.spotify.com/album/7p3SjcLiPwz4n5kSQCQ6NE) | 3:04 | 2025-05-13 |  |
 | [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 | 2025-05-13 |  |
@@ -118,6 +123,7 @@
 | [Penumbral](https://open.spotify.com/track/2uKqjLDJLqjmKAL477zq3h) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Penumbral](https://open.spotify.com/album/1zEXfZdMFB220JZMlRKGjF) | 2:40 | 2025-05-13 |  |
 | [Places](https://open.spotify.com/track/1iRJz2iWf8HAlWbQ9BV4Fo) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [Places](https://open.spotify.com/album/2U19uunCKFVUeqDclfeZAb) | 2:47 | 2025-05-13 |  |
 | [Present Wonders](https://open.spotify.com/track/3hMjfnUYtmezvWKlb9FyjA) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Present Wonders](https://open.spotify.com/album/1mZ9zFlZkIzE9U5n8nkKyW) | 3:31 | 2025-05-13 |  |
+| [Presessions](https://open.spotify.com/track/284MOGxgzqPYXz2DdextBx) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Presessions](https://open.spotify.com/album/72KZsZogqfzeK8KSo1DCbN) | 2:31 | 2025-07-09 |  |
 | [Prologue](https://open.spotify.com/track/5ulPvND5829hCi0GDznWms) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Prologue](https://open.spotify.com/album/7uvt24faM4mdMp9obEUuiO) | 2:33 | 2025-05-13 |  |
 | [Quiet Reflections](https://open.spotify.com/track/2q1V9nN8Rwotk7fBBGVO2F) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Quiet Reflections](https://open.spotify.com/album/42jiuXWVWdsmMZnCWH6TeY) | 2:22 | 2025-05-13 |  |
 | [Radiance](https://open.spotify.com/track/0pUHdRvyYKfBuoZEjGE9MS) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Radiance](https://open.spotify.com/album/4ZLQEiOsBgcTSiPn9SFoll) | 2:35 | 2025-05-13 |  |
@@ -156,12 +162,15 @@
 | [Stellato](https://open.spotify.com/track/721zBWLOEm3JBH9NBzKYun) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Stellato](https://open.spotify.com/album/1mErN17rW1lahhfIZZNWHc) | 2:25 | 2025-05-13 |  |
 | [Stream](https://open.spotify.com/track/5M4gSbkmAJzpEJtnp3ttFs) | [Lonely Silence](https://open.spotify.com/artist/7gSagKJvBryze8PAs5jJuQ) | [Stream](https://open.spotify.com/album/73WjdZTUe79GLyw3ZtYekh) | 2:21 | 2025-05-13 |  |
 | [Subsequent](https://open.spotify.com/track/082rvB2mNegtlBpRwF2dc1) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Subsequent](https://open.spotify.com/album/0VZd7DplRRWqQ9yixMd8W2) | 3:07 | 2025-05-13 |  |
+| [Sunlight Through the Mist](https://open.spotify.com/track/2Asfv8kijTjDbE0gSdYhS4) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Sunlight Through the Mist](https://open.spotify.com/album/6BrMLVcG9OrLfMQBSoti4x) | 3:33 | 2025-07-09 |  |
 | [Sunlit Pathway](https://open.spotify.com/track/1LcvWhopXfaoZ7zEyp2tO5) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Sunlit Pathway](https://open.spotify.com/album/3wuR2L2DMZnKdT8rgy1LKG) | 2:31 | 2025-05-13 |  |
 | [Sunrise Chronicles](https://open.spotify.com/track/5Rp9OLMdEEdELv55XNxogR) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Sunrise Chronicles](https://open.spotify.com/album/0sbfJeo1aUyiUexdll7SQd) | 2:58 | 2025-05-13 |  |
 | [Sweet Dreaming](https://open.spotify.com/track/4NnKNQNbGQjNVdkqxGbHdX) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Sweet Dreaming](https://open.spotify.com/album/3JHGwaUiDJljF3ihcjWjD5) | 2:20 | 2025-05-13 |  |
 | [Synthetic Data Sphere](https://open.spotify.com/track/59ODuG8ttbkZ4coLIZIO55) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Synthetic Data Sphere](https://open.spotify.com/album/04usknpbJhQuIRoTPTl7IB) | 3:22 | 2025-05-13 |  |
 | [The Gaia Hypothesis](https://open.spotify.com/track/4sXpWMWLCH1sIXFR0AqKN3) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [The Gaia Hypothesis](https://open.spotify.com/album/725JJ9jdjATuDnE4cEDYuO) | 2:40 | 2025-06-12 |  |
 | [The Shape of Us](https://open.spotify.com/track/5ybpe4Bu6QJHgzUNbIzkPJ) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [The Shape of Us](https://open.spotify.com/album/3oU4a8IN6hvTScEWGiKMZp) | 2:57 | 2025-05-13 |  |
+| [The Time Machine](https://open.spotify.com/track/5G5aUxbQq5qFwOel0UFurW) | [Somnolentia](https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1) | [The Time Machine](https://open.spotify.com/album/6J42xZr6LiydUlGPI2TBoF) | 2:09 | 2025-07-09 |  |
+| [Time](https://open.spotify.com/track/1JTpYn8tvMVsYiBV3Fhcf9) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Time](https://open.spotify.com/album/473iUR9G5mZPwiXcvmfdIi) | 2:51 | 2025-07-09 |  |
 | [Timeless Silence](https://open.spotify.com/track/7wvsQR8myUGF2zJ97Sf0R8) | [Apaxx](https://open.spotify.com/artist/2myI6PZzbUdW5T4TXdmYU0) | [Timeless Silence](https://open.spotify.com/album/6Mvfx5sr24xzQuNNGmmBdg) | 2:49 | 2025-05-13 |  |
 | [Token survival](https://open.spotify.com/track/5XRHbrI3lQY7fMFMKSgapL) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Token survival](https://open.spotify.com/album/0B5RlIM7k7NtpHMIHXAbI5) | 2:37 | 2025-05-13 |  |
 | [Torpor](https://open.spotify.com/track/5DsPdRYBZaYfGrfcMTqY2U) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Torpor](https://open.spotify.com/album/3NmRg1L6abLde4208hZ0tG) | 2:15 | 2025-05-13 |  |
@@ -182,6 +191,7 @@
 | [When Dreams Come True](https://open.spotify.com/track/2eBbbpIhX9RUpadLxW6O0f) | [Aster alpinus](https://open.spotify.com/artist/5GncNXKJrJiIAEbkWtyTJC) | [When Dreams Come True](https://open.spotify.com/album/3K8dvzs8jd0qbmSgphmRa6) | 2:32 | 2025-05-13 |  |
 | [Whispering Sunrise](https://open.spotify.com/track/690o9EEmRjcpa4C1xGTZhK) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Whispering Sunrise](https://open.spotify.com/album/0AHouvD5huNwiK7xjj0sec) | 2:28 | 2025-05-27 |  |
 | [Wisdom vibrations](https://open.spotify.com/track/5878golZbd2AomVbWph91I) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Wisdom vibrations](https://open.spotify.com/album/3xTdVnPUkrKoYlzujWXwwO) | 2:30 | 2025-05-13 |  |
+| [Zephyraen](https://open.spotify.com/track/5hFnlGPPYgLDD7DDpFzBcw) | [Keegan Sutton](https://open.spotify.com/artist/2NGa8KQzw4SZTnJmson2WJ) | [Zephyraen](https://open.spotify.com/album/4N7lePd7rNOVhJrtWHVMrG) | 2:20 | 2025-07-09 |  |
 | [Zorite](https://open.spotify.com/track/60XnrwhCwVVa2qblI9swFF) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Zorite](https://open.spotify.com/album/3i4IS2Op65DF9jmLCwMDAv) | 2:53 | 2025-05-13 |  |
 
 \*This playlist was first scraped on 2025-05-25. Prior content cannot be recovered.

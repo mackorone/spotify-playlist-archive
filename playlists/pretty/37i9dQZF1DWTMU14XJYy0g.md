@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Santiago Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,921 likes - 103 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,906 likes - 103 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

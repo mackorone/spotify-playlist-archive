@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 96426,
+  "num_followers": 96444,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Unapologetically",
+        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+        }
+      ],
+      "duration_ms": 176643,
+      "name": "Beyonc\u00e9",
+      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Break Up Bye Bye (Frock Destroyers Version)",
         "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 151825,
       "name": "Break Up Bye Bye - Frock Destroyers Version",
       "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Unapologetically",
-        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
-        }
-      ],
-      "duration_ms": 176643,
-      "name": "Beyonc\u00e9",
-      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Loving Me Like That",
-        "url": "https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Loving Me Like That",
-      "url": "https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Zubi Zubi Zubi",
         "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 209603,
       "name": "Zubi Zubi Zubi",
       "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Loving Me Like That",
+        "url": "https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Loving Me Like That",
+      "url": "https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Outside In",
-        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 194361,
-      "name": "Outside In",
-      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "My Pussy Is Like a Peach",
         "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 232636,
       "name": "My Pussy Is Like a Peach",
       "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 194361,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Out of Office",
+        "url": "https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C"
+      },
+      "artists": [
+        {
+          "name": "Karen From Finance",
+          "url": "https://open.spotify.com/artist/3LMNZjSHkbGJ7jKKJhG94f"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Out of Office",
+      "url": "https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Part 1: The Damage",
         "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 173473,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Out of Office",
-        "url": "https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C"
-      },
-      "artists": [
-        {
-          "name": "Karen From Finance",
-          "url": "https://open.spotify.com/artist/3LMNZjSHkbGJ7jKKJhG94f"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Out of Office",
-      "url": "https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Part 2: The Antidote",
         "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc"
-      },
-      "artists": [
-        {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Beauty Marked",
+        "url": "https://open.spotify.com/album/6PakrR0zttvkuTtY30j33f"
+      },
+      "artists": [
+        {
+          "name": "Miss Fame",
+          "url": "https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r"
+        }
+      ],
+      "duration_ms": 200249,
+      "name": "Rubber Doll",
+      "url": "https://open.spotify.com/track/7Bpqv11PexJbK6f0LlDqsJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1403,30 +1419,6 @@
       "duration_ms": 201904,
       "name": "Low",
       "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Rye Rye vs. Filthy Fidgets",
-        "url": "https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc"
-      },
-      "artists": [
-        {
-          "name": "Rye Rye",
-          "url": "https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu"
-        },
-        {
-          "name": "Filthy Fidgets",
-          "url": "https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h"
-        },
-        {
-          "name": "Spank Rock",
-          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
-        }
-      ],
-      "duration_ms": 235530,
-      "name": "Work Mommi Work (feat. Spankrock)",
-      "url": "https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3"
     }
   ],
   "unique_name": "FIERCE",

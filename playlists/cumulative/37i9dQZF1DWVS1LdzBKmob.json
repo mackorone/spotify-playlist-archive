@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Ancient Echoes Meditation",
+        "url": "https://open.spotify.com/album/5VxD0aWoJp3rhaoPB3wc2y"
+      },
+      "artists": [
+        {
+          "name": "Celestial Tonesmith",
+          "url": "https://open.spotify.com/artist/6aXYgK2AV4cmtUZFTcE7kX"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Ancient Echoes Meditation",
+      "url": "https://open.spotify.com/track/44ww0jvLckbd7IdtUM1pyC"
+    },
+    {
+      "album": {
         "name": "Sounds Of Light - The Pure Tones Of Crystal Singing Bowls",
         "url": "https://open.spotify.com/album/0SNmay1Uzlo1mbp9OYUmj0"
       },
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 203842,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/7HyEK4QwfJriTk2Y6IL2tH"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 389853,
       "name": "Prayer for Protection",
       "url": "https://open.spotify.com/track/09o9vEpXDAzjABUNGWIxQj"
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 320052,
       "name": "Releasing",
       "url": "https://open.spotify.com/track/2jydV80zHw1umw5QbDnCLf"
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 413010,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t"

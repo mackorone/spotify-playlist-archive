@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-1,285 songs - 2 day 12 hr 40 min
+1,286 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Ach Du Liebe Zeit](https://open.spotify.com/track/6Knu3Uggcb1nTDPkKiXFaM) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Ach Du Liebe Zeit](https://open.spotify.com/album/166W07TT8Wb8twJnnA4HyP) | 2:24 | 2024-09-05 | 2024-11-08 |
 | [Achilles](https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Achilles](https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8) | 2:39 | 2023-03-30 | 2025-02-15 |
 | [Achterbahn](https://open.spotify.com/track/1lLUon8AY1A8zd95Qxb47L) | [Definitely Not Luke](https://open.spotify.com/artist/4Oxu8bs0EB64KkSBGOLlkt) | [Achterbahn](https://open.spotify.com/album/4buWxLZ020iTdmt7PDGLL9) | 3:10 | 2023-03-09 | 2023-03-31 |
-| [AIRPOD CASE](https://open.spotify.com/track/3KdROIrtb9AxJIv2sYYBNm) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [AIRPOD CASE](https://open.spotify.com/album/6qaHRoTR4ExNpgyUcVEZsX) | 2:16 | 2025-06-19 |  |
+| [AIRPOD CASE](https://open.spotify.com/track/3KdROIrtb9AxJIv2sYYBNm) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [AIRPOD CASE](https://open.spotify.com/album/6qaHRoTR4ExNpgyUcVEZsX) | 2:16 | 2025-06-19 | 2025-07-10 |
 | [Akademie der bildenden Künste](https://open.spotify.com/track/2Fdlm11Yt6g7Hk9CRKZGqq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/4czKDXmW22XoBTHqHQ6xha) | 2:46 | 2023-05-11 | 2023-06-07 |
 | [Akademie der bildenden Künste](https://open.spotify.com/track/6uQAZMFNPejBdiRnp6F03D) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/2PTfiTtj8qymWaeHFEFZWQ) | 2:46 | 2023-06-01 | 2023-06-30 |
 | [Akademie der Ängste](https://open.spotify.com/track/2W4YN0g8Mjg3zF40urodaT) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Akademie der Ängste](https://open.spotify.com/album/5H6b9koot7CyWTcGrGsaQ7) | 3:13 | 2024-09-05 | 2024-09-27 |
@@ -399,6 +399,7 @@
 | [Freispiel](https://open.spotify.com/track/1pBSWR9cfofvXT8ZJgGq65) | [Loco Candy](https://open.spotify.com/artist/1DFCsVPAp4ncza5L9H2GYd) | [Freispiel](https://open.spotify.com/album/0iaiGGpiQr4wz3HhBNHdgu) | 2:05 | 2024-12-05 | 2024-12-13 |
 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 | 2025-01-23 | 2025-02-21 |
 | [frida](https://open.spotify.com/track/2kZ0wV6it5vGEF545GGIJQ) | [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [DUNKLSCHWARZ](https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW) | 4:20 | 2024-02-13 | 2024-02-16 |
+| [frieden](https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [frieden](https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku) | 2:45 | 2025-07-09 |  |
 | [Frost an deinem Fenster](https://open.spotify.com/track/5wy79pCGzl95RFHyjgWxVs) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Frost an deinem Fenster](https://open.spotify.com/album/3DC5TFf1M5I2RvGlwKtcYc) | 2:33 | 2024-12-05 | 2025-02-07 |
 | [früher](https://open.spotify.com/track/4y6xoUAcVI5ouFgf4mu891) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [früher](https://open.spotify.com/album/4hducqbnJ6VqTefGiSdNpd) | 3:08 | 2025-04-24 | 2025-05-09 |
 | [Frühstück bei Tiffany](https://open.spotify.com/track/19AcOqKvhhgagNly6AcHQC) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Frühstück bei Tiffany](https://open.spotify.com/album/0oHrksXV8Ux6p9zKFTQrSO) | 2:45 | 2024-10-17 | 2024-11-15 |

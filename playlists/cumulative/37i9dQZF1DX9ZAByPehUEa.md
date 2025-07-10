@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-619 songs - 1 day 13 hr 33 min
+620 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Feelin It](https://open.spotify.com/track/0bcCYef1KBJyYDoMNF62Ph) | [Heritage Listed](https://open.spotify.com/artist/0am3r6ub8pQXuAD3uyRgpD) | [Feelin It](https://open.spotify.com/album/1HAiZ0i510bCEuKtoK5J2i) | 4:20 | 2025-05-12 |  |
 | [Fighting Love](https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Mark Dedross](https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ) | [Fighting Love](https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3) | 3:08 | 2025-02-14 |  |
 | [Fill Your Soul](https://open.spotify.com/track/3GSehBmdlLPsHovQkm47pJ) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Fill Your Soul](https://open.spotify.com/album/7fOwx609ecsPz8GWOEp7Ub) | 3:36 | 2024-07-09 | 2025-01-03 |
-| [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-10 |  |
+| [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-10 | 2025-07-10 |
 | [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA) | 3:56 | 2024-01-12 |  |
 | [Find the Joy](https://open.spotify.com/track/4EKRFGE1Y3vqGJufkPhF37) | [Stacie Fields](https://open.spotify.com/artist/2wZzhY59MJ0BDLnLko14gW), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Find the Joy](https://open.spotify.com/album/0ReCJmQfVlndSqvDAn2IYi) | 3:20 | 2022-01-14 | 2022-07-25 |
 | [Fine Line \(Oliver Nelson Remix\)](https://open.spotify.com/track/7Be7n2mZFKFwBo0VoFK0Cp) | [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Fine Line \(Oliver Nelson Remix\)](https://open.spotify.com/album/66FcRLlXihcSsjZBcA6dlF) | 3:24 | 2024-11-15 | 2024-11-17 |
@@ -442,6 +442,7 @@
 | [PALOMA](https://open.spotify.com/track/15Zt1IvSOneOx9S7pOpjQ6) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [PALOMA](https://open.spotify.com/album/1lpkmh9MejKDWjgg4gHeAh) | 3:41 | 2024-08-30 | 2024-11-23 |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-16 |  |
 | [Paradise \(feat\. Alexandra Prince\)](https://open.spotify.com/track/2UmTY86kcCDpSSuZ9dmnfw) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Paradise \(feat\. Alexandra Prince\)](https://open.spotify.com/album/5g9FbWxsQMSagvOxAd2Qmc) | 4:05 | 2024-04-26 | 2024-06-29 |
+| [Paris in the Sky](https://open.spotify.com/track/4dOQ37MvSKEcBZoWvOTJeZ) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Paris in the Sky EP](https://open.spotify.com/album/7tzpTJwj599XdqP2XOtmmq) | 4:08 | 2025-07-09 |  |
 | [Passion \(feat\. Nile Rodgers\) \- Fred Falke Remix](https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(feat\. Nile Rodgers\) \[Fred Falke Remix\]](https://open.spotify.com/album/26iBlyf3iKR7siw6HxJSJQ) | 3:53 | 2022-09-02 | 2022-10-29 |
 | [Passion \- Fred Falke Remix](https://open.spotify.com/track/4HAc0WfZuD55cCalXxcvdB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(Fred Falke Remix\)](https://open.spotify.com/album/0rjoJ1jxcuH9oj3VxKf0R9) | 3:53 | 2025-05-12 |  |
 | [Pearls](https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:03 | 2023-09-05 | 2025-06-28 |

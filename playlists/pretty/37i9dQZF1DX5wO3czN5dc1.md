@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86?si=DNt\-H4YdRWOHkgbSqPc8uA">Funky Qla</a>,  <a href="https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI?si=bvNpLIATTGGSlgigr3MNOg"> Sino Msolo</a>,  <a href="https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=jU\_yzU8fSVyCOQh8AmVAeA"> Sykes</a>, <a href="https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ?si=73zvFMQ5QRmRAxk0wCEhGw"> Khaya Mthethwa</a> & <a href="https://open.spotify.com/artist/7N0xnS6vDJ7pfrbui6A0P0?si=kll9Fp58SVuB6x6hIQ6utA">Angel Ndlela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,048 likes - 70 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,107 likes - 70 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ⋆.
 
-634 songs - 1 day 10 hr 40 min
+635 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2022-04-17 |  |
 | [The First Punch](https://open.spotify.com/track/5FyYyTIwKv4JWRPfLZ2TOS) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:25 | 2024-10-21 |  |
 | [The fo Five](https://open.spotify.com/track/0p2GWx4qFzfq9UWd0SrODU) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [THA PLAYA$ MANUAL](https://open.spotify.com/album/5n08iLe0rtrvQ3wg3UhWN3) | 3:21 | 2022-01-28 |  |
+| [The Ghost of You](https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:14 | 2025-07-09 |  |
 | [The Internet is Where We Met](https://open.spotify.com/track/22hh7XuHzMYw7u6uqS4xcE) | [Kempachii](https://open.spotify.com/artist/5UE3fPtMEts6UkMutPv2jx) | [The Internet is Where We Met](https://open.spotify.com/album/6Ubui4pNQJEhN6gCHYZ95z) | 2:38 | 2023-11-03 |  |
 | [The Law of Recognition](https://open.spotify.com/track/2C3iuuYK5x902AzEvDAeHN) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/5igbasqf8d2tj4EN2uE9jm) | 2:09 | 2022-04-28 |  |
 | [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2023-05-22 |  |

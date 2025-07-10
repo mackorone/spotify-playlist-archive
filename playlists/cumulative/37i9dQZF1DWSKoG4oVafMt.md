@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,093 songs - 2 day 10 hr 51 min
+1,094 songs - 2 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Chunni](https://open.spotify.com/track/2vZ7SA9jkaV3JqHiQKdoEA) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp) | [Chitti Chunni](https://open.spotify.com/album/4Kq3o0uXjaBiyMtFx2IX0L) | 3:50 | 2022-03-08 | 2022-04-06 |
 | [Close](https://open.spotify.com/track/0MpMnxzwiF4dfzDwrd21MI) | [Saheb](https://open.spotify.com/artist/2ShbFK8mw2wWXf0EkD36ch) | [Close](https://open.spotify.com/album/0O9YcekE4hqY003nZQ9W3b) | 3:21 | 2022-05-05 | 2022-05-11 |
 | [Closer](https://open.spotify.com/track/14kDPgrfj2jv6z4FmAZd4Q) | [Anirudh Sharma](https://open.spotify.com/artist/4lMtdJMEHNQok5YLbgUBEz) | [Closer](https://open.spotify.com/album/0b5hxi1Nqhy6Qq0EnlYqVJ) | 3:59 | 2022-08-17 | 2022-09-01 |
+| [Compliment](https://open.spotify.com/track/0n2XEbw2Aie9srJZy51QME) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Compliment](https://open.spotify.com/album/2O9XAe0dQhYoQof89amZH6) | 3:29 | 2025-07-09 |  |
 | [Connection](https://open.spotify.com/track/12iksVmCMQzkwNyoNwZkXj) | [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u), [Harinder Samra](https://open.spotify.com/artist/3DW8E00HNAKSAjy9uK3dAA) | [Connection, Vol.1](https://open.spotify.com/album/026NTTddiAuFbp2oynZnIN) | 2:19 | 2022-11-28 | 2023-01-28 |
 | [Conversation](https://open.spotify.com/track/169eHrJhaAKOPJJoda2Pgz) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Conversation](https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo) | 3:22 | 2022-04-06 | 2022-05-11 |
 | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/6CP0jsIBEM5VEEKLr4tf69) | [Jovan Dhillon](https://open.spotify.com/artist/2EW4LUtzs9hLVAZTRzphS0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/6GXPVaPJPeQFhcheqd1tP7) | 2:48 | 2021-12-02 | 2022-12-16 |
@@ -633,7 +634,7 @@
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2022-08-22 | 2024-08-06 |
 | [Moonglade](https://open.spotify.com/track/4Tiy5veKfyUfSjpHMNqPV3) | [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Moonglade](https://open.spotify.com/album/728QDtU7zh9qh1hJkDIL9k) | 3:06 | 2022-11-17 | 2023-02-02 |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2021-12-02 | 2022-12-16 |
-| [More Beautiful](https://open.spotify.com/track/76aY5JVqZLomyY4jT063KD) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [More Beautiful](https://open.spotify.com/album/17wwh3rnGOdUH26BuarvrO) | 2:30 | 2025-06-18 |  |
+| [More Beautiful](https://open.spotify.com/track/76aY5JVqZLomyY4jT063KD) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [More Beautiful](https://open.spotify.com/album/17wwh3rnGOdUH26BuarvrO) | 2:30 | 2025-06-18 | 2025-07-10 |
 | [Morni](https://open.spotify.com/track/4QdDTR7XcgHfYhpKmkgYL4) | [Pavvy Virk](https://open.spotify.com/artist/1AQZgGdnLJOu37cxZzIkxX) | [Morni](https://open.spotify.com/album/1DTXPbMDvoXGKjRtSkom6j) | 3:20 | 2022-08-31 | 2022-09-03 |
 | [Morniye](https://open.spotify.com/track/2JXWYP2pzGT097OydwlHh9) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Still Here](https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl) | 2:32 | 2023-11-28 | 2023-12-12 |
 | [Move On](https://open.spotify.com/track/2fb1j5P2TqUbvpa1u2gfc7) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Move On](https://open.spotify.com/album/5UBI3j3IpxKulky5cSUo5k) | 2:13 | 2022-04-25 | 2022-05-11 |

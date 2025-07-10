@@ -1677,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "Rebellious",
+        "url": "https://open.spotify.com/album/2FQJujfNl7MlBgD7uuF18w"
+      },
+      "artists": [
+        {
+          "name": "Karan Sehmbi",
+          "url": "https://open.spotify.com/artist/0wmFEqpoc2FgAv8IPtCLBW"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150704,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/2FaS4eaJUggHf5lszY0zL7"
+    },
+    {
+      "album": {
         "name": "Big Scene",
         "url": "https://open.spotify.com/album/7EDrg7vaOVnG7WOdWjnR3T"
       },
@@ -11816,7 +11838,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 197045,
       "name": "Shor",
       "url": "https://open.spotify.com/track/6L3PdTjEI5iH3F48bhZsXO"
@@ -12502,6 +12524,10 @@
         {
           "name": "Paradox",
           "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
         }
       ],
       "date_added": "2025-07-03",

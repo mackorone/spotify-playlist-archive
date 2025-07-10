@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84806,
+  "num_followers": 84807,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 115714,
       "name": "SUV - Remix",
       "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Felina, Ai Meu Deus",
-        "url": "https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt"
-      },
-      "artists": [
-        {
-          "name": "DJ MT SILV\u00c9RIO",
-          "url": "https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd"
-        },
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Felina, Ai Meu Deus",
-      "url": "https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Rede Social (Speed)",
         "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 154818,
       "name": "Rede Social - Speed",
       "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Felina, Ai Meu Deus",
+        "url": "https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt"
+      },
+      "artists": [
+        {
+          "name": "DJ MT SILV\u00c9RIO",
+          "url": "https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd"
+        },
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Felina, Ai Meu Deus",
+      "url": "https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP"
     },
     {
       "added_at": "2024-07-08 19:10:57",

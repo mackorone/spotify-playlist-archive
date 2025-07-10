@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,580 songs - 10 day 13 hr 22 min
+4,585 songs - 10 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [All My People \- Edit](https://open.spotify.com/track/1BX9aPJoLvxTJsKn7xMSKz) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [All My People](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 3:14 | 2024-09-13 | 2024-09-21 |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-27 | 2025-07-05 |
 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 | 2024-09-06 | 2024-09-14 |
+| [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 | 2025-07-09 |  |
 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-20 | 2025-01-11 |
 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 | 2025-06-28 |
 | [All Over You](https://open.spotify.com/track/4Hf4m5aPeoXxxhDR29PnWO) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [All Over You](https://open.spotify.com/album/14H3fiskpQWJasXznFiSkx) | 2:37 | 2025-01-24 | 2025-02-01 |
@@ -1056,6 +1057,7 @@
 | [Detroit](https://open.spotify.com/track/2hmc0k5WWlDBmhRhDbpi9o) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Detroit](https://open.spotify.com/album/0kn58aoB2rFG0oYWGXUUd0) | 5:39 | 2024-11-13 | 2024-11-23 |
 | [Devenir Paisaje](https://open.spotify.com/track/4U2JHZw8rl2GZItYj1tmlG) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos crecer un bosque](https://open.spotify.com/album/5wbSkDom7T9PXNILTVaFJp) | 3:36 | 2024-10-18 | 2024-10-26 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-14 | 2024-06-22 |
+| [Devotion](https://open.spotify.com/track/3NRMx8ZKh6OHPotPxW4O4C) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Devotion](https://open.spotify.com/album/2wKWnv20DzkEJCuz3c9EWV) | 3:54 | 2025-07-09 |  |
 | [Diagnoses](https://open.spotify.com/track/2UWqE5jg4CHgDNufoY0xlk) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Diagnoses](https://open.spotify.com/album/6v05jLtGczT56HwygbqKNq) | 2:53 | 2025-06-27 | 2025-07-05 |
 | [Dialing In](https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Dialing In](https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK) | 4:40 | 2025-05-30 | 2025-06-07 |
 | [Diamante](https://open.spotify.com/track/2KAOp6SYU35LsYQHdZSiNs) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Diamante](https://open.spotify.com/album/6Cja92IEMyfcHSDPVZCjTG) | 3:03 | 2024-05-03 | 2024-05-18 |
@@ -3424,6 +3426,7 @@
 | [Run](https://open.spotify.com/track/0vwtjsp4jjmTNiUnHNX0xd) | [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Welt](https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r) | [Run](https://open.spotify.com/album/2ECuabiMF6S0TAVRO6fS4F) | 3:01 | 2024-10-04 | 2024-10-12 |
 | [Run](https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Another Touch](https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR) | 2:50 | 2024-10-25 | 2024-11-09 |
 | [Run Away](https://open.spotify.com/track/2XNUKCA2iIVkEMZcnPuSuf) | [Autre Ne Veut](https://open.spotify.com/artist/7MC5zmK3iZHzPqGZEVSROe) | [Love, Guess Who?? \(XXOOXX\)](https://open.spotify.com/album/3uklFK670GdfPFcXFHR0c1) | 5:48 | 2024-11-01 | 2024-11-09 |
+| [Run Free](https://open.spotify.com/track/6FpGarU82UbiZXyI7Dyh6M) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying / Run Free](https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t) | 4:40 | 2025-07-09 |  |
 | [Run It](https://open.spotify.com/track/1X7Sx0RqJitRQWnZ1TvtLE) | [clipping.](https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Jonathan Snipes](https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M), [William Hutson](https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm) | [Run It](https://open.spotify.com/album/2H4D7hjnfvXgvjYk8ig6CG) | 4:58 | 2024-09-12 | 2024-09-21 |
 | [Run It Back](https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A) | 2:27 | 2024-06-28 | 2024-07-13 |
 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 | 2025-03-07 | 2025-03-15 |
@@ -3552,6 +3555,7 @@
 | [Ship Of Fools](https://open.spotify.com/track/1QFaBKerXimH1z3FieDOXr) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [66](https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp) | 2:58 | 2024-05-24 | 2024-06-12 |
 | [Shirt](https://open.spotify.com/track/2JCzZwaSEsT1F5Lgti1fG3) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Shirt Expansion Pack](https://open.spotify.com/album/5yxwJLd5dNGSN4VFNVNt3i) | 3:10 | 2025-04-09 | 2025-04-26 |
 | [Shiver](https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Shiver](https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda) | 3:25 | 2024-09-27 | 2024-10-05 |
+| [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 | 2025-07-09 |  |
 | [Shoplifter](https://open.spotify.com/track/6jwdi7BXUn2FU81JCJqE63) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Possession](https://open.spotify.com/album/3ZxMlJq7ztw1jd5mDEaNkl) | 3:32 | 2025-05-30 | 2025-06-07 |
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-17 | 2025-01-25 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-19 | 2024-07-27 |
@@ -3722,6 +3726,7 @@
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-05-03 | 2024-05-18 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-05-17 | 2024-05-25 |
 | [stargirl](https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [stargirl](https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e) | 2:54 | 2024-09-20 | 2024-09-28 |
+| [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 | 2025-07-09 |  |
 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 | 2025-03-29 |
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-09-27 | 2024-10-05 |
 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 | 2025-05-10 |

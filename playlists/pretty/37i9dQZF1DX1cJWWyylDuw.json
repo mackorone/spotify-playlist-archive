@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Paleface Swiss",
-  "num_followers": 261427,
+  "num_followers": 261609,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -879,8 +879,8 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/1JIvBVblvE64QjDzPrPM5b"
+        "name": "1983",
+        "url": "https://open.spotify.com/album/1OMNFu0sje9qn7Nz4hy8t0"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 123730,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/1t08G2BpPU2Ti72oqSJpzO"
+      "duration_ms": 186000,
+      "name": "1983",
+      "url": "https://open.spotify.com/track/2MO3DZjBECnLnd7wBgCi0Y"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Nihilus",
-        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/1JIvBVblvE64QjDzPrPM5b"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Nihilus",
-      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
+      "duration_ms": 123730,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/1t08G2BpPU2Ti72oqSJpzO"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "1983",
-        "url": "https://open.spotify.com/album/1OMNFu0sje9qn7Nz4hy8t0"
+        "name": "Nihilus",
+        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 186000,
-      "name": "1983",
-      "url": "https://open.spotify.com/track/2MO3DZjBECnLnd7wBgCi0Y"
+      "duration_ms": 214973,
+      "name": "Nihilus",
+      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "Seeking Through The Vacant Vessel",
+        "url": "https://open.spotify.com/album/2UhLxDm4krwbgOc9Dm1M2l"
+      },
+      "artists": [
+        {
+          "name": "CELL",
+          "url": "https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ"
+        }
+      ],
+      "duration_ms": 165988,
+      "name": "Seeking Through The Vacant Vessel",
+      "url": "https://open.spotify.com/track/72PZot8RjnmFqzg1BScDmJ"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "Extraction",
         "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 264463,
       "name": "Calcium Closet",
       "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Dead Eyes Replete",
-        "url": "https://open.spotify.com/album/012HSJB7jyoUnKmj59UsD7"
-      },
-      "artists": [
-        {
-          "name": "Cryptopsy",
-          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Dead Eyes Replete",
-      "url": "https://open.spotify.com/track/1Y3fQd3tAsN6Hmkmo7zi05"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "Dead Eyes Replete",
+        "url": "https://open.spotify.com/album/012HSJB7jyoUnKmj59UsD7"
+      },
+      "artists": [
+        {
+          "name": "Cryptopsy",
+          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Dead Eyes Replete",
+      "url": "https://open.spotify.com/track/1Y3fQd3tAsN6Hmkmo7zi05"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "The Fear of God",
         "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 255858,
       "name": "Love Burns",
       "url": "https://open.spotify.com/track/3qybm3xmYoAg7vETamsmZv"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Seeking Through The Vacant Vessel",
-        "url": "https://open.spotify.com/album/2UhLxDm4krwbgOc9Dm1M2l"
-      },
-      "artists": [
-        {
-          "name": "CELL",
-          "url": "https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ"
-        }
-      ],
-      "duration_ms": 165988,
-      "name": "Seeking Through The Vacant Vessel",
-      "url": "https://open.spotify.com/track/72PZot8RjnmFqzg1BScDmJ"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "The Orphan",
-        "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 383037,
-      "name": "The Orphan",
-      "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "A Hill to Die Upon",
         "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "The Orphan",
+        "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 383037,
+      "name": "The Orphan",
+      "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "My Father's Son (Redux)",
         "url": "https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq"
       },
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "A Bloodsoaked Symphony",
+        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "duration_ms": 268283,
+      "name": "A Bloodsoaked Symphony",
+      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "(Un)Dying [Code: Pandorum Remix]",
         "url": "https://open.spotify.com/album/2qoOyOB6lZfyFo5XW8ShFS"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 234602,
       "name": "(Un)Dying - Code: Pandorum Remix",
       "url": "https://open.spotify.com/track/3JskyVWBNfUEQzY8CjlMyv"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "A Bloodsoaked Symphony",
-        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
-      },
-      "artists": [
-        {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
-        }
-      ],
-      "duration_ms": 268283,
-      "name": "A Bloodsoaked Symphony",
-      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Malicious Needs",
-        "url": "https://open.spotify.com/album/20bGDowkvLLlZesQgxKm9K"
-      },
-      "artists": [
-        {
-          "name": "Cryptopsy",
-          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
-        }
-      ],
-      "duration_ms": 351560,
-      "name": "Malicious Needs",
-      "url": "https://open.spotify.com/track/6rGBsIp0la7itaQ8bEbycy"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "TOMB OF THE TORMENTOR",
         "url": "https://open.spotify.com/album/34APkPckxMDZnJOL5TO2Nx"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 216400,
       "name": "Rage",
       "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Malicious Needs",
+        "url": "https://open.spotify.com/album/20bGDowkvLLlZesQgxKm9K"
+      },
+      "artists": [
+        {
+          "name": "Cryptopsy",
+          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
+        }
+      ],
+      "duration_ms": 351560,
+      "name": "Malicious Needs",
+      "url": "https://open.spotify.com/track/6rGBsIp0la7itaQ8bEbycy"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "In Gloom II: True Violence and All the Terror That Comes With It",
-        "url": "https://open.spotify.com/album/0utssrtmjmlmpgPZbam66X"
-      },
-      "artists": [
-        {
-          "name": "In Gloom",
-          "url": "https://open.spotify.com/artist/3jp1hk4EYTFMZfPD1Dn3A2"
-        }
-      ],
-      "duration_ms": 219004,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/7hi5hEBBmVqjoIfNohHS5U"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Bunny Suit",
         "url": "https://open.spotify.com/album/6jv8JWoEppoobALGHLKnQo"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 273333,
       "name": "Bunny Suit",
       "url": "https://open.spotify.com/track/4LubEIUvempGGLt6kaExjk"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "In Gloom II: True Violence and All the Terror That Comes With It",
+        "url": "https://open.spotify.com/album/0utssrtmjmlmpgPZbam66X"
+      },
+      "artists": [
+        {
+          "name": "In Gloom",
+          "url": "https://open.spotify.com/artist/3jp1hk4EYTFMZfPD1Dn3A2"
+        }
+      ],
+      "duration_ms": 219004,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/7hi5hEBBmVqjoIfNohHS5U"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "The Substance",
-        "url": "https://open.spotify.com/album/4zRZVEWooswBKCk4Ymbef0"
-      },
-      "artists": [
-        {
-          "name": "Decayer",
-          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "The Substance",
-      "url": "https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Demon King",
         "url": "https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 191909,
       "name": "Dead Pacifist",
       "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "The Substance",
+        "url": "https://open.spotify.com/album/4zRZVEWooswBKCk4Ymbef0"
+      },
+      "artists": [
+        {
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "The Substance",
+      "url": "https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Emotionless",
-        "url": "https://open.spotify.com/album/68KYlx6wFIMGwkgyRcEQdB"
-      },
-      "artists": [
-        {
-          "name": "Nylist",
-          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
-        }
-      ],
-      "duration_ms": 167868,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/0D03PmKOwfqK1QB9lWKwVs"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Bleed the Future",
         "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
       },
@@ -2059,6 +2043,42 @@
       "duration_ms": 228186,
       "name": "Bleed the Future",
       "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "The Bleeding Machine",
+        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
+      },
+      "artists": [
+        {
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        },
+        {
+          "name": "Elysia",
+          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
+        }
+      ],
+      "duration_ms": 223381,
+      "name": "The Bleeding Machine",
+      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/68KYlx6wFIMGwkgyRcEQdB"
+      },
+      "artists": [
+        {
+          "name": "Nylist",
+          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+        }
+      ],
+      "duration_ms": 167868,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/0D03PmKOwfqK1QB9lWKwVs"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2111,42 +2131,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "The Bleeding Machine",
-        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
-      },
-      "artists": [
-        {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        },
-        {
-          "name": "Elysia",
-          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
-        }
-      ],
-      "duration_ms": 223381,
-      "name": "The Bleeding Machine",
-      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Rot With Me",
-        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
-      },
-      "artists": [
-        {
-          "name": "For the Likes of You",
-          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
-        }
-      ],
-      "duration_ms": 286735,
-      "name": "Rot With Me",
-      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Moments of Misery",
         "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
       },
@@ -2163,38 +2147,18 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Troll Named Scrot",
-        "url": "https://open.spotify.com/album/7viyRERARKCHp8v90EWVG2"
+        "name": "Rot With Me",
+        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
       },
       "artists": [
         {
-          "name": "Cumbeast",
-          "url": "https://open.spotify.com/artist/5mfM7MCEU0ZEMCCJqYp92e"
+          "name": "For the Likes of You",
+          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Troll Named Scrot",
-      "url": "https://open.spotify.com/track/4vpBQ8xfXzTgm1SruowHc5"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Misery Eternal",
-        "url": "https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD"
-      },
-      "artists": [
-        {
-          "name": "Reminitions",
-          "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
-        },
-        {
-          "name": "Late 9",
-          "url": "https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "Misery Eternal",
-      "url": "https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF"
+      "duration_ms": 286735,
+      "name": "Rot With Me",
+      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2243,6 +2207,42 @@
       "duration_ms": 250933,
       "name": "What I Would Give",
       "url": "https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Troll Named Scrot",
+        "url": "https://open.spotify.com/album/7viyRERARKCHp8v90EWVG2"
+      },
+      "artists": [
+        {
+          "name": "Cumbeast",
+          "url": "https://open.spotify.com/artist/5mfM7MCEU0ZEMCCJqYp92e"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Troll Named Scrot",
+      "url": "https://open.spotify.com/track/4vpBQ8xfXzTgm1SruowHc5"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Misery Eternal",
+        "url": "https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD"
+      },
+      "artists": [
+        {
+          "name": "Reminitions",
+          "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
+        },
+        {
+          "name": "Late 9",
+          "url": "https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "Misery Eternal",
+      "url": "https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "ANGST",
-        "url": "https://open.spotify.com/album/4VtvpHr3oMlHYiNHVIc0x9"
+        "name": "Dying Life",
+        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
       },
       "artists": [
         {
-          "name": "Gutrectomy",
-          "url": "https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD"
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
         }
       ],
-      "duration_ms": 78807,
-      "name": "Trapped in Angst",
-      "url": "https://open.spotify.com/track/4kyVaQWQd9880V919n6mQW"
+      "duration_ms": 200629,
+      "name": "Dying Life",
+      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2383,18 +2383,66 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Dying Life",
-        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
+        "name": "ANGST",
+        "url": "https://open.spotify.com/album/4VtvpHr3oMlHYiNHVIc0x9"
       },
       "artists": [
         {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+          "name": "Gutrectomy",
+          "url": "https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD"
         }
       ],
-      "duration_ms": 200629,
-      "name": "Dying Life",
-      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
+      "duration_ms": 78807,
+      "name": "Trapped in Angst",
+      "url": "https://open.spotify.com/track/4kyVaQWQd9880V919n6mQW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "The Cycle Of Violence: Chapter 1",
+        "url": "https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 158365,
+      "name": "The Cycle Of Violence : Chapter 1",
+      "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Empyrean",
+        "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
+      },
+      "artists": [
+        {
+          "name": "Fallujah",
+          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Mindless Omnipotent Master",
+      "url": "https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
+      },
+      "artists": [
+        {
+          "name": "Phinehas",
+          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
+        }
+      ],
+      "duration_ms": 283741,
+      "name": "In the Night",
+      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2419,54 +2467,6 @@
       "duration_ms": 266240,
       "name": "MEXICO OSCURO",
       "url": "https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Empyrean",
-        "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
-      },
-      "artists": [
-        {
-          "name": "Fallujah",
-          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Mindless Omnipotent Master",
-      "url": "https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "The Cycle Of Violence: Chapter 1",
-        "url": "https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR"
-      },
-      "artists": [
-        {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
-        }
-      ],
-      "duration_ms": 158365,
-      "name": "The Cycle Of Violence : Chapter 1",
-      "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "In the Night",
-        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
-      },
-      "artists": [
-        {
-          "name": "Phinehas",
-          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
-        }
-      ],
-      "duration_ms": 283741,
-      "name": "In the Night",
-      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
     },
     {
       "added_at": "2025-07-04 04:00:16",

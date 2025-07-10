@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Yumdda\(염따\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>sokodomo\(소코도모\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,316 likes - 102 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,220 likes - 102 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
-| 2 | [BLINK \(Feat\. Crush\)](https://open.spotify.com/track/7vpfke3hABNpXTU7A3f24A) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [DREAM BOY](https://open.spotify.com/album/5HCpTWbukDYS9jT0hxNPfZ) | 3:21 |
+| 2 | [BLINK \(Feat\. Crush\)](https://open.spotify.com/track/7vpfke3hABNpXTU7A3f24A) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Dream Boy](https://open.spotify.com/album/5HCpTWbukDYS9jT0hxNPfZ) | 3:21 |
 | 3 | [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 |
 | 4 | [No where \(feat\. Feby Putri\)](https://open.spotify.com/track/6hvkkOgvHI5wbGw2wtdZ3I) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [SCRAPS](https://open.spotify.com/album/7xBLG0BG8IalE2fIwpyt85) | 3:01 |
 | 5 | [My Chick \(Feat\. Lil Cherry\)](https://open.spotify.com/track/43zNS0a18EnlLlcX3zc6LY) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [My Chick](https://open.spotify.com/album/0E3exhlkZLi8QX4CiLItkq) | 2:22 |
 | 6 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 |
 | 7 | [LOV3 \(Feat\. Bryan Chase, Okasian\)](https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [K\-FLIP+](https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6) | 3:56 |
 | 8 | [Narak](https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb) | [MOLLAK](https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX) | 2:06 |
-| 9 | [34\-24\-35 \(Feat\. Street Baby\)](https://open.spotify.com/track/2LLAgK0do3aiLIM2PUybDQ) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [DREAM BOY](https://open.spotify.com/album/5HCpTWbukDYS9jT0hxNPfZ) | 2:48 |
+| 9 | [34\-25\-35 \(Feat\. Street Baby\)](https://open.spotify.com/track/2LLAgK0do3aiLIM2PUybDQ) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [Dream Boy](https://open.spotify.com/album/5HCpTWbukDYS9jT0hxNPfZ) | 2:48 |
 | 10 | [Eh freestyle](https://open.spotify.com/track/4XbPK3sYAamzpttCcI7Xrd) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [SCRAPS](https://open.spotify.com/album/7xBLG0BG8IalE2fIwpyt85) | 2:38 |
 | 11 | [EKO EKO](https://open.spotify.com/track/2QE61cQ0tyWWDMNkWFtHeX) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [EKO EKO](https://open.spotify.com/album/17VDRp9RX5rp7GPc5r1XuO) | 3:06 |
 | 12 | [KrOWN\_Beenzino](https://open.spotify.com/track/4slPMG63XcpWAOjUx8Ip8d) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [KrOWN\_Beenzino](https://open.spotify.com/album/5yffp1pwFAwmPBDAc34wmz) | 0:02 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 16 | [Ms\. Menhera](https://open.spotify.com/track/7vW0rTxnTS893XIPKGGpkz) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb) | [MOLLAK](https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX) | 2:07 |
 | 17 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 |
 | 18 | [HOW 2 GET](https://open.spotify.com/track/3dMHyVtls3QSkg0aJ9K86U) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [HOW 2 GET](https://open.spotify.com/album/2oa5EBwDRiYcZ28iP54NXU) | 3:06 |
-| 19 | [WALKIE TALKIE](https://open.spotify.com/track/765Fi19F618cGDZ7lMtfdn) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [DREAM BOY](https://open.spotify.com/album/5HCpTWbukDYS9jT0hxNPfZ) | 2:02 |
+| 19 | [WALKIE TALKIE](https://open.spotify.com/track/765Fi19F618cGDZ7lMtfdn) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Dream Boy](https://open.spotify.com/album/5HCpTWbukDYS9jT0hxNPfZ) | 2:02 |
 | 20 | [Irony](https://open.spotify.com/track/6Df7MebpSWzJmgzbW1ZyYF) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Breathe 4](https://open.spotify.com/album/4mH2hi1Tjysb8bTCJpYYCU) | 2:55 |
 | 21 | [Machine](https://open.spotify.com/track/1kYCwlHYLi5HmEF3t2Otok) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [YAHO](https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8) | 3:00 |
 | 22 | [KrOWN \- Gaeko of Dynamic Duo](https://open.spotify.com/track/07WKwqwNf51FnsJdDNkKtV) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [KrOWN Audio liner](https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF) | 0:03 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 101 | [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 |
 | 102 | [KrOWN\_Loco](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 
-Snapshot ID: `aG0S8AAAAADNWhKSIjkslPB6f4vezZK9`
+Snapshot ID: `aG8JUwAAAADGC9uYiaPa/PnNWoaWPeWx`

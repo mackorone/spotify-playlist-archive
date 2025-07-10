@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kesha, Zach Bryan, JID, ThxSoMuch, Diljit Dosanjh and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,215 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,213 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 20 | [Sugar, baby](https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [autonomy](https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE) | 2:36 |
 | 21 | [Rich Sex](https://open.spotify.com/track/7tnE1N6Cf5l9Z17h3C34xQ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Rich Sex](https://open.spotify.com/album/5lB6dD6uOkcuR7jdEMuoCb) | 2:44 |
 | 22 | [Stereo](https://open.spotify.com/track/5ss1W6tV6FuxPaiC1yDHYJ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Lovelle](https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx) | [Stereo](https://open.spotify.com/album/6LmzV6rY9jUecyjydmsrDR) | 2:24 |
-| 23 | [Superstar](https://open.spotify.com/track/5ZYdnrx8FCqb1Yt7xGfgck) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Superstar](https://open.spotify.com/album/4aTDCllLClADNAXO3Ifd6h) | 3:38 |
+| 23 | [Superstar](https://open.spotify.com/track/5ZYdnrx8FCqb1Yt7xGfgck) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Superstar](https://open.spotify.com/album/4aTDCllLClADNAXO3Ifd6h) | 3:38 |
 | 24 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 |
 | 25 | [STATION](https://open.spotify.com/track/5tyuajS5DiBO3G22APUPFC) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/08Dg7XUvVPa8a2FA6lGcY7) | 2:52 |
 | 26 | [RUT](https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [RUT](https://open.spotify.com/album/5LiTATZE86gpS9OmO7mCL1) | 3:27 |

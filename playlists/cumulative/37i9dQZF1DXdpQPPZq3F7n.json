@@ -1113,6 +1113,28 @@
     },
     {
       "album": {
+        "name": "Dhun (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276643,
+      "name": "Dhun (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
+    },
+    {
+      "album": {
         "name": "Dil (From \"Ek Villain Returns\")",
         "url": "https://open.spotify.com/album/5RFQhO7dqTjNfZt1Ei710x"
       },
@@ -2554,7 +2576,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 241448,
       "name": "Kaun Tujhe",
       "url": "https://open.spotify.com/track/5T2ZZiBMDGh3TZDUbxg4rV"

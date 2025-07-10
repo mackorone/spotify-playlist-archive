@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Once Mekel",
+  "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Noah",
   "name": "Ngetren di 2010an",
   "tracks": [
     {
@@ -2942,6 +2942,24 @@
       "duration_ms": 217836,
       "name": "Sementara Sendiri",
       "url": "https://open.spotify.com/track/5BrcBvVIbhXvaaNOJIRrcj"
+    },
+    {
+      "album": {
+        "name": "Seperti Seharusnya",
+        "url": "https://open.spotify.com/album/4EneY8crCrt61L7siIXtkS"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266286,
+      "name": "Separuh Aku",
+      "url": "https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj"
     },
     {
       "album": {

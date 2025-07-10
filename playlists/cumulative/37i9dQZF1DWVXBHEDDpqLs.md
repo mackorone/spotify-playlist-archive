@@ -4,7 +4,7 @@
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-695 songs - 2 day 0 hr 58 min
+696 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [Model Collapse](https://open.spotify.com/track/7iO1m1yjAviKurmq89Uhqm) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Model Collapse](https://open.spotify.com/album/6jCtJeCkRTtEdZbW4ApusH) | 4:43 | 2025-02-14 | 2025-05-17 |
 | [Money Mouth](https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Money Mouth](https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o) | 2:09 | 2021-12-10 | 2024-07-13 |
 | [Moonbreak](https://open.spotify.com/track/2ZkQNAFClYRMaZ2R5gGk36) | [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Moonbreak](https://open.spotify.com/album/1ZkkFNwScqfzOt9Frl6Jss) | 6:25 | 2025-03-24 | 2025-05-31 |
-| [more than a friend](https://open.spotify.com/track/1wjIZSsGr4eqGJ7Zl87XvM) | [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [more than a friend](https://open.spotify.com/album/4JoKoVKRw53JdYasKNhH0e) | 4:05 | 2025-05-09 |  |
+| [more than a friend](https://open.spotify.com/track/1wjIZSsGr4eqGJ7Zl87XvM) | [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [more than a friend](https://open.spotify.com/album/4JoKoVKRw53JdYasKNhH0e) | 4:05 | 2025-05-09 | 2025-07-10 |
 | [Mothertime](https://open.spotify.com/track/0w2QypmwZ9RiKPAY4KfSvK) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Mothertime](https://open.spotify.com/album/2i7z0yJMOV2QcZa58w5GnZ) | 5:15 | 2025-07-04 |  |
 | [Movimento](https://open.spotify.com/track/4EzE36FKG2seAaqDs6eecj) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Split 1](https://open.spotify.com/album/2ypzZ3iTPsmvvf0WVAoZLD) | 4:33 | 2024-07-12 | 2024-11-09 |
 | [Movin Up](https://open.spotify.com/track/5vZp2pGTGzWT7UrQpvR9kG) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Movin Up](https://open.spotify.com/album/4LDLpGA6Fzcv6xEH7zubwP) | 4:13 | 2024-10-30 | 2025-02-22 |
@@ -629,6 +629,7 @@
 | [Trax 4 Da Women](https://open.spotify.com/track/6Saar7rLlWCYYzulCYVwMI) | [Garneau](https://open.spotify.com/artist/2auOV5mY2iK1cJ4XmHXynL), [DJ Lil'Tal](https://open.spotify.com/artist/0EdnLJfOLM2o3NysS4crGP) | [Trax 4 Da Women](https://open.spotify.com/album/66WaxrGmpMb6iHPYYtAo5v) | 4:47 | 2024-09-13 | 2025-04-12 |
 | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/7kaNSzp7gVRFoxEmE42IU9) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/album/7pMzHtdqbu6HGHp30GNp54) | 2:08 | 2021-12-10 | 2022-01-15 |
 | [TRUST](https://open.spotify.com/track/5gI8Ik5plCd1mK6FTMaswu) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Twende](https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU) | 2:20 | 2025-02-28 | 2025-04-19 |
+| [Tu Medice](https://open.spotify.com/track/2uoeGOB5Xq5N4eLLIVyRb5) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Tu Medice](https://open.spotify.com/album/1cE5rI8088FcWnyrnwIW5x) | 4:22 | 2025-07-09 |  |
 | [Tucu Taca](https://open.spotify.com/track/0pF06RE9yNGJ2blMmLxPsC) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2) | [Tucu Taca](https://open.spotify.com/album/0lvXTfLiyZ30r4AQsvPUTo) | 5:47 | 2025-04-04 |  |
 | [Turboflow](https://open.spotify.com/track/2AGy2Ezhnm3YYWClYxwsEN) | [Ma Sha](https://open.spotify.com/artist/1qMbiCXYdiDek2q5yvnB8W) | [Turboflow](https://open.spotify.com/album/6y6dANsKpppAd3Z5NVg327) | 4:05 | 2024-07-12 | 2024-09-14 |
 | [Turn On The Bass](https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Playlist](https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1) | 3:40 | 2023-05-26 | 2024-04-19 |

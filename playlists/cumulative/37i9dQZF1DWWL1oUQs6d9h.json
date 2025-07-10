@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 196293,
       "name": "Bunker",
       "url": "https://open.spotify.com/track/68gMrDi1DX62IuiMvhW5Uz"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 179200,
       "name": "Do What You Do",
       "url": "https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 159365,
       "name": "girl in red",
       "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
@@ -654,6 +654,24 @@
       "duration_ms": 133253,
       "name": "Last Minute",
       "url": "https://open.spotify.com/track/0i7Ps1oPnc0IfUAeKiktY2"
+    },
+    {
+      "album": {
+        "name": "Last Scene",
+        "url": "https://open.spotify.com/album/1FMpS9DvBEDsGVkYKDSTBa"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Last Scene",
+      "url": "https://open.spotify.com/track/0tJU0IwpKmUSg2uFOZ7RC6"
     },
     {
       "album": {
@@ -1195,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "Tight Rope (feat. WOOSUNG)",
+        "url": "https://open.spotify.com/album/24OBRgl45p0zr0CV7zCHIf"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tight Rope (feat. WOOSUNG)",
+      "url": "https://open.spotify.com/track/25DeCJkbJNacQt3dfPT9st"
+    },
+    {
+      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -1210,6 +1250,24 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7HQTiQjKzpR4u88SfNkdOw"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Us (prod. D.O)",
+      "url": "https://open.spotify.com/track/5edARuT05GkrWeFvcPM9As"
     },
     {
       "album": {

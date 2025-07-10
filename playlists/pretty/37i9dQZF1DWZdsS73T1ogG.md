@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Morad & Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,389 likes - 160 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,343 likes - 160 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

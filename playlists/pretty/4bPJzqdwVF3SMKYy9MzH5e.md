@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,176 songs - 4 day 20 hr 34 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,182 songs - 4 day 20 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2184,5 +2184,11 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2174 | [Extended Mix](https://open.spotify.com/track/25EMKP5O8gkyegeZYRu9DW) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Doss](https://open.spotify.com/album/4xjMqQEOwrmNySKz6WVOcG) | 4:26 |
 | 2175 | [Guatauba](https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Guatauba XXX](https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO) | 2:42 |
 | 2176 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |
+| 2177 | [Meet Her At The Love Parade](https://open.spotify.com/track/7sFOKQzIesnJ2mqkweYlhE) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Meet Her At The Love Parade](https://open.spotify.com/album/4TvZp5ppkLijLxEmoDvMxx) | 3:12 |
+| 2178 | [F33lings2](https://open.spotify.com/track/767dzStBEfSQ81LszfUHnS) | [Young Lychee](https://open.spotify.com/artist/1kv8OzM6yKbWMbkNbOiu8x) | [fruity call](https://open.spotify.com/album/5OzV81l3Idx7CRVYq0J8nP) | 3:25 |
+| 2179 | [HARD](https://open.spotify.com/track/64LJZpSz4VxvNDcyx1762M) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [HARD](https://open.spotify.com/album/31RJ9csO8VQw97ZgHGIL0M) | 2:54 |
+| 2180 | [llamando](https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [llamando](https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb) | 2:36 |
+| 2181 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 |
+| 2182 | [Go Get Your Lover](https://open.spotify.com/track/1AvMJcmPRnOzaqVv1ZloHA) | [hhunter](https://open.spotify.com/artist/5KH7MeHHmovSJL3Muoeqiw) | [Go Get Your Lover](https://open.spotify.com/album/6jxIUKriOnFD9FAz9Csfiw) | 2:11 |
 
-Snapshot ID: `AAAEZQneD94qmhPmMIXNRVFaUdvZwEtD`
+Snapshot ID: `AAAEaxkaHuOpQpd0rn6Q2saTASKQ976h`

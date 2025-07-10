@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59822,
+  "num_followers": 59826,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
         "name": "Tom Cruisin'",
         "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 174480,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
-      },
-      "artists": [
-        {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "Your Fantasy",
-        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 139444,
-      "name": "Your Fantasy",
-      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 172307,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 139444,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "It Was You",
-        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
-      },
-      "artists": [
-        {
-          "name": "Natalie Reigo",
-          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/2SgPhxnfejHUbW9FjBrb7U"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 172386,
       "name": "Glas",
       "url": "https://open.spotify.com/track/13IqDjxqFl763yUcTg2ycX"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "It Was You",
+        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
+      },
+      "artists": [
+        {
+          "name": "Natalie Reigo",
+          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "The Prettiest Face",
-        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "The Prettiest Face",
-      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "GET RICH OR DIE TRYING",
         "url": "https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 164000,
       "name": "GET RICH OR DIE TRYING",
       "url": "https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "The Prettiest Face",
+        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "The Prettiest Face",
+      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/7IzlLkqdAibLpnesmvwknW"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
-        }
-      ],
-      "duration_ms": 202261,
-      "name": "The Dream Is Over",
-      "url": "https://open.spotify.com/track/14TaOx6s12JuJ3DhJCrj8P"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "PAUS",
         "url": "https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 154971,
       "name": "PAUS",
       "url": "https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/7IzlLkqdAibLpnesmvwknW"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "duration_ms": 202261,
+      "name": "The Dream Is Over",
+      "url": "https://open.spotify.com/track/14TaOx6s12JuJ3DhJCrj8P"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "Feel Free",
-        "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
-      },
-      "artists": [
-        {
-          "name": "KURT.",
-          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
-        }
-      ],
-      "duration_ms": 182372,
-      "name": "Feel Free",
-      "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
         "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 219642,
       "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
       "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
+      },
+      "artists": [
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "duration_ms": 182372,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "Lasse & hunden",
-        "url": "https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG"
+        "name": "i guess this is me now?",
+        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
       },
       "artists": [
         {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+          "name": "ENVYYOU",
+          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
         }
       ],
-      "duration_ms": 164583,
-      "name": "Lasse & hunden",
-      "url": "https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy"
+      "duration_ms": 148906,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
+        "name": "Lasse & hunden",
+        "url": "https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 164583,
+      "name": "Lasse & hunden",
+      "url": "https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
         "name": "Dansa med mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 127250,
       "name": "Dansa med mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
-        "name": "i guess this is me now?",
-        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
-      },
-      "artists": [
-        {
-          "name": "ENVYYOU",
-          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "In Terms Of You",
-        "url": "https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW"
-      },
-      "artists": [
-        {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
-        }
-      ],
-      "duration_ms": 150843,
-      "name": "In Terms Of You",
-      "url": "https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "L\u00e4ngesen",
         "url": "https://open.spotify.com/album/33yREDH6p24DwWopavOqVJ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 148058,
       "name": "Hj\u00e4rtat kan ha fel ibland",
       "url": "https://open.spotify.com/track/3f4ZfUlxPWfmcyFfm8l4f2"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "In Terms Of You",
+        "url": "https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 150843,
+      "name": "In Terms Of You",
+      "url": "https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "...Japanese pancakes",
-        "url": "https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9"
+        "name": "CANADIAN TUXEDO",
+        "url": "https://open.spotify.com/album/4YPxNXWO0qpZ3A89RlkfrV"
       },
       "artists": [
         {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+          "name": "BORIS",
+          "url": "https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a"
+        },
+        {
+          "name": "LKN",
+          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
         }
       ],
-      "duration_ms": 133852,
-      "name": "...Japanese pancakes",
-      "url": "https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf"
+      "duration_ms": 157611,
+      "name": "CANADIAN TUXEDO",
+      "url": "https://open.spotify.com/track/36LvtWLFULwuOtgCQwybJj"
     }
   ],
   "unique_name": "p\u00e5 repeat",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 
 > but listened to this instead
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,050 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,131 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ordinary](https://open.spotify.com/track/00zboRdO7yjPazc4J7d3EB) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Ordinary](https://open.spotify.com/album/6iFnTh7yJX21BmQHE7sd6d) | 2:28 |
 | 2 | [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 |
 | 3 | [Manchild](https://open.spotify.com/track/7MMFRjAiYOwPxQnmxcsert) | [Davy Burns](https://open.spotify.com/artist/3i1joJ76xcNJLuBNHlQ5Pi) | [Manchild](https://open.spotify.com/album/6IEifv95ND12iR1WHrRFxD) | 3:25 |
-| 4 | [That's So True](https://open.spotify.com/track/3wfQvxeJREWqSMceBL40Fc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [That's So True](https://open.spotify.com/album/4pVfyoenHrnYwSRlJalQ4H) | 3:34 |
-| 5 | [Ordinary \- Piano Version](https://open.spotify.com/track/0SiBf9yNAadpXdYku3PRpS) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [Ordinary \(Piano Version\)](https://open.spotify.com/album/7nSH4KNxlGnTQLh8iNIjiU) | 3:13 |
+| 4 | [Back to Friends \- Instrumental](https://open.spotify.com/track/5JNTV8AKS6kX1gBEKjKHXe) | [Piano Dreamers](https://open.spotify.com/artist/4oRyLnxDdIzd2POQfX9Drd) | [Top 20 Hits June 2025 \(Instrumental\)](https://open.spotify.com/album/0duLrwjCvW84b7Zk2lKJgy) | 2:56 |
+| 5 | [That's So True](https://open.spotify.com/track/3wfQvxeJREWqSMceBL40Fc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [That's So True](https://open.spotify.com/album/4pVfyoenHrnYwSRlJalQ4H) | 3:34 |
 | 6 | [Good Luck, Babe!](https://open.spotify.com/track/7BqCj8yFwzhgElZzC9a6fV) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Good Luck, Babe!](https://open.spotify.com/album/3EoCgZ1BmLFnuyklddIXDE) | 2:28 |
 | 7 | [Die With A Smile](https://open.spotify.com/track/3NbO3rVszlJViICwud48IU) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Die With A Smile](https://open.spotify.com/album/1MttF66Wfhp9pwZTLy26mg) | 3:18 |
 | 8 | [APT\. \- Piano Version](https://open.spotify.com/track/075QR1Nby1qAXjSlfucYPK) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [APT\. \(Piano Version\)](https://open.spotify.com/album/4eJUPB3Yurg6xJ5xLivd8J) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 | 49 | [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 |
 | 50 | [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 |
 
-Snapshot ID: `aGfcQgAAAACZH4M6wNSUrQkw/MnbIC5o`
+Snapshot ID: `aG5eMgAAAACrjrDhIdE0/PmYfV5Byppu`

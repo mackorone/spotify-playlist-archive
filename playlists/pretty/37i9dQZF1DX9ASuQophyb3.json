@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: EDIS",
-  "num_followers": 1516649,
+  "num_followers": 1516872,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGzUSAAAAAA7RzDILR0bW4Tx8fZWCO/L",
+  "snapshot_id": "aG47JwAAAADtlIPHTTsfwLpxo9sEWttz",
   "tracks": [
     {
       "added_at": "2025-07-03 21:00:13",
@@ -83,22 +83,6 @@
     {
       "added_at": "2025-07-03 21:00:13",
       "album": {
-        "name": "Nazar",
-        "url": "https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS"
-      },
-      "artists": [
-        {
-          "name": "Melis Fis",
-          "url": "https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8"
-        }
-      ],
-      "duration_ms": 155043,
-      "name": "Nazar",
-      "url": "https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv"
-    },
-    {
-      "added_at": "2025-07-03 21:00:13",
-      "album": {
         "name": "Kalpsiz",
         "url": "https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS"
       },
@@ -135,6 +119,22 @@
     {
       "added_at": "2025-07-03 21:00:13",
       "album": {
+        "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
+        "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "duration_ms": 186881,
+      "name": "Sen A\u011fla",
+      "url": "https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf"
+    },
+    {
+      "added_at": "2025-07-03 21:00:13",
+      "album": {
         "name": "K\u00f6r Sevdam",
         "url": "https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa"
       },
@@ -147,26 +147,6 @@
       "duration_ms": 191142,
       "name": "K\u00f6r Sevdam",
       "url": "https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw"
-    },
-    {
-      "added_at": "2025-07-03 21:00:13",
-      "album": {
-        "name": "Kadere Bak",
-        "url": "https://open.spotify.com/album/4WHQTIhRdQd2pWRcaulkcd"
-      },
-      "artists": [
-        {
-          "name": "\u00c7elik",
-          "url": "https://open.spotify.com/artist/1OLLBdj6zsFJ2GUMpk8trl"
-        },
-        {
-          "name": "Ziynet Sali",
-          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Kadere Bak",
-      "url": "https://open.spotify.com/track/75kqCFoNPk7Qtccnzv6FjZ"
     },
     {
       "added_at": "2025-07-03 21:00:13",
@@ -207,18 +187,18 @@
     {
       "added_at": "2025-07-03 21:00:13",
       "album": {
-        "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
-        "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
+        "name": "Nazar",
+        "url": "https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS"
       },
       "artists": [
         {
-          "name": "Sezen Aksu",
-          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          "name": "Melis Fis",
+          "url": "https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8"
         }
       ],
-      "duration_ms": 186881,
-      "name": "Sen A\u011fla",
-      "url": "https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf"
+      "duration_ms": 155043,
+      "name": "Nazar",
+      "url": "https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv"
     },
     {
       "added_at": "2025-07-03 21:00:13",
@@ -235,6 +215,26 @@
       "duration_ms": 188589,
       "name": "RUJ",
       "url": "https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk"
+    },
+    {
+      "added_at": "2025-07-03 21:00:13",
+      "album": {
+        "name": "Kadere Bak",
+        "url": "https://open.spotify.com/album/4WHQTIhRdQd2pWRcaulkcd"
+      },
+      "artists": [
+        {
+          "name": "\u00c7elik",
+          "url": "https://open.spotify.com/artist/1OLLBdj6zsFJ2GUMpk8trl"
+        },
+        {
+          "name": "Ziynet Sali",
+          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Kadere Bak",
+      "url": "https://open.spotify.com/track/75kqCFoNPk7Qtccnzv6FjZ"
     },
     {
       "added_at": "2025-07-03 21:00:13",

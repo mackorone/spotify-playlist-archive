@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-736 songs - 1 day 19 hr 24 min
+738 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Mellow Trouble](https://open.spotify.com/track/4MVCzATZ6mpXsZ1sLz7QYn) | [Sin.Clare](https://open.spotify.com/artist/5TNJ1DPxBNr0rBHWuyeo3w) | [Mellow Trouble](https://open.spotify.com/album/6kZ8F8oIo2Ze1izmthGiuS) | 2:54 | 2021-10-16 |  |
 | [melodreamatic](https://open.spotify.com/track/52YKIYKvPueCU5VOwt98dS) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [melodreamatic](https://open.spotify.com/album/40AtV2oTmLl9ggdf496t5L) | 2:03 | 2020-10-20\* | 2020-11-28 |
 | [Memorabilia](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Somersault](https://open.spotify.com/album/6Z8ui5WDN0XbsgJhr9y0f5) | 3:07 | 2021-11-10 | 2022-07-08 |
+| [Memories](https://open.spotify.com/track/2vfjGQHhpb0lGNzP088tVk) | [Rayo del Sol](https://open.spotify.com/artist/5tiQHiU8wfer1sBZAR0sPe) | [Memories](https://open.spotify.com/album/5rTbO6AqgwUCs4r63bUuiC) | 2:15 | 2025-07-09 |  |
 | [Mezzo](https://open.spotify.com/track/2z0zuTLKS7bkvl1cxSUxrU) | [SYRUP 8](https://open.spotify.com/artist/0aX0BN6vN7uTXR3EvutDHT) | [Mezzo](https://open.spotify.com/album/5FzZIFRaHxs2mjod8a8zsD) | 3:02 | 2021-03-25 | 2023-05-23 |
 | [Midding](https://open.spotify.com/track/2jqPyoAGWAaxfjtHj8DZAb) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Midding](https://open.spotify.com/album/09KIZqC3nwi1nWWrb0Z0eL) | 7:32 | 2020-12-24 | 2021-03-25 |
 | [Midnight at 0300](https://open.spotify.com/track/3Vz1vdVQKW0nzUM9AdnAuk) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Midnight at 0300](https://open.spotify.com/album/7xygJ75JkH4Hx4zcHVK3Hf) | 2:59 | 2022-07-29 | 2024-12-21 |
@@ -509,7 +510,7 @@
 | [Rain Moves Aside](https://open.spotify.com/track/2qpyDvBNKE9uSaWL0H8cuM) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Rain Moves Aside](https://open.spotify.com/album/2ePJcR2LULuHH4hplAlkTE) | 3:16 | 2022-09-09 | 2025-03-15 |
 | [Rainbows](https://open.spotify.com/track/1Y3ELkSuRZmsJE4WYGvN49) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Rainbows](https://open.spotify.com/album/7cMxy5MaWjYy6cH1V9Zujv) | 3:15 | 2021-11-10 | 2025-03-15 |
 | [Raspberry](https://open.spotify.com/track/1rcugIb0lVSC7mM03Y2C1G) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Raspberry](https://open.spotify.com/album/1EabnZzcCfDPTOC0c6F4Sz) | 2:24 | 2024-12-06 |  |
-| [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 | 2022-09-23 |  |
+| [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 | 2022-09-23 | 2025-07-10 |
 | [Recapture](https://open.spotify.com/track/0y4m88Zcflk9iDLCqSIF3z) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [The Night](https://open.spotify.com/album/4Y0JVC9BklwKMmiL2xIbOY) | 3:43 | 2020-10-20\* | 2020-10-30 |
 | [Reddy 4 Luv](https://open.spotify.com/track/2s1mwTqKS3akRy9a15E5Oq) | [Coloraimé](https://open.spotify.com/artist/68jdZrUBTvlocSSdnwTQMf) | [Reddy 4 Luv](https://open.spotify.com/album/26nEmODKl9Du2fGNrLVTUl) | 2:56 | 2020-10-20\* | 2021-10-16 |
 | [ReFeel](https://open.spotify.com/track/3lH3gaST1vIQs4jsggIdcu) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [ReFeel](https://open.spotify.com/album/3sldh7YxXui82hBwlop5NV) | 3:15 | 2021-01-29 | 2021-05-13 |
@@ -543,6 +544,7 @@
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2021-05-13 | 2024-12-07 |
 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 | 2022-05-10 | 2025-02-01 |
 | [Salt & Saffron](https://open.spotify.com/track/2THy66DUF8R63vi3FmYYeV) | [Baja Azul](https://open.spotify.com/artist/4ONAwjrF7zzC2tKaWMrjaA) | [Salt & Saffron](https://open.spotify.com/album/4rYwJjWQXoD86kQstu4Pxf) | 2:10 | 2025-02-14 |  |
+| [Salt Bloom](https://open.spotify.com/track/5BpH7aG674wkcIv8KVr9ap) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Salt Bloom](https://open.spotify.com/album/6vX5C4fvTG6NS5kA6XUYFl) | 2:34 | 2025-07-09 |  |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2021-07-09 | 2022-08-05 |
 | [Salty Sip](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [Salty Sip](https://open.spotify.com/album/2YzQUnhkZ0gHllxXU5saQL) | 3:36 | 2021-11-10 | 2024-12-21 |
 | [Salty Tales](https://open.spotify.com/track/5Gy3t7t0vEsxFEMux3dX3X) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Salty Tales](https://open.spotify.com/album/52JSePvlPgJ8YN9sPZK0D5) | 4:50 | 2021-06-04 | 2021-10-16 |
@@ -588,7 +590,7 @@
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2020-12-11 | 2024-12-07 |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2021-08-25 | 2023-05-23 |
 | [Smiles](https://open.spotify.com/track/3WTd6IogFHOBZ8sobmKrKb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [The Night](https://open.spotify.com/album/4Y0JVC9BklwKMmiL2xIbOY) | 3:06 | 2020-10-20\* | 2021-02-20 |
-| [Smiling Falsifier](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Smiling Falsifier](https://open.spotify.com/album/1AP8iOyjLZXAMyhSosSHt1) | 3:08 | 2023-01-20 |  |
+| [Smiling Falsifier](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Smiling Falsifier](https://open.spotify.com/album/1AP8iOyjLZXAMyhSosSHt1) | 3:08 | 2023-01-20 | 2025-07-10 |
 | [Snapper](https://open.spotify.com/track/4CVujT5MzKOZxQKlAJIpp8) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Snapper](https://open.spotify.com/album/7tQSmqLqM052kILfkyCFg9) | 5:11 | 2024-07-14 | 2024-09-03 |
 | [So Real](https://open.spotify.com/track/7GTVGnTKbwKmHIbHSEas5O) | [Bergmönch](https://open.spotify.com/artist/4K7eFgiYPGgSpDw7jKhpm3) | [So Real](https://open.spotify.com/album/5OSMEkIouISljAQX5Utpxd) | 5:52 | 2020-11-13 | 2021-01-07 |
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2021-03-25 | 2022-09-23 |

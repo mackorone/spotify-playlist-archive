@@ -1,6 +1,6 @@
 {
   "description": "Listen to Women at Full Volume. Cover: Regina Song",
-  "num_followers": 1080493,
+  "num_followers": 1080385,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-07-08 18:23:47",
       "album": {
-        "name": "Something Beautiful",
-        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 186639,
-      "name": "Easy Lover",
-      "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
-    },
-    {
-      "added_at": "2025-07-08 18:23:47",
-      "album": {
         "name": "6 Months Later",
         "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 182868,
       "name": "6 Months Later",
       "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
+    },
+    {
+      "added_at": "2025-07-08 18:23:47",
+      "album": {
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 186639,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
     },
     {
       "added_at": "2025-07-08 18:23:47",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-07-08 18:23:47",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/2lIFJ8da4YeAtyAW3kvha5"
-      },
-      "artists": [
-        {
-          "name": "VARITDA",
-          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
-        }
-      ],
-      "duration_ms": 192016,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/0NDtqYhhPiGTUGCJBmHsJG"
-    },
-    {
-      "added_at": "2025-07-08 18:23:47",
-      "album": {
         "name": "Yay! Saturday",
         "url": "https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "added_at": "2025-07-08 18:23:47",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/2lIFJ8da4YeAtyAW3kvha5"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        }
+      ],
+      "duration_ms": 192016,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/0NDtqYhhPiGTUGCJBmHsJG"
     },
     {
       "added_at": "2025-07-08 18:23:47",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-07-08 18:23:47",
       "album": {
-        "name": "9LIVES",
-        "url": "https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV"
-      },
-      "artists": [
-        {
-          "name": "Shye",
-          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
-        }
-      ],
-      "duration_ms": 177454,
-      "name": "NEED",
-      "url": "https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2"
-    },
-    {
-      "added_at": "2025-07-08 18:23:47",
-      "album": {
         "name": "V-01C3",
         "url": "https://open.spotify.com/album/6UUhe3GaKiEezMo4tfkiBZ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 152307,
       "name": "V-01C3",
       "url": "https://open.spotify.com/track/0YXRaYipPDPeRbEpNk6Rdy"
+    },
+    {
+      "added_at": "2025-07-08 18:23:47",
+      "album": {
+        "name": "9LIVES",
+        "url": "https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "duration_ms": 177454,
+      "name": "NEED",
+      "url": "https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2"
     }
   ],
   "unique_name": "EQUAL",

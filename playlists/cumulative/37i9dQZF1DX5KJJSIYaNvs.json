@@ -8995,6 +8995,32 @@
     },
     {
       "album": {
+        "name": "Raahein Mili",
+        "url": "https://open.spotify.com/album/0iRhXRhNIegRXjhTre24Nr"
+      },
+      "artists": [
+        {
+          "name": "Pragati Naagar",
+          "url": "https://open.spotify.com/artist/4NQfONnFvTCJRitCwyyn5T"
+        },
+        {
+          "name": "Parveen Star",
+          "url": "https://open.spotify.com/artist/2bEKMsQe2UtC9XQef6zfMO"
+        },
+        {
+          "name": "Meenakshi Parashar",
+          "url": "https://open.spotify.com/artist/2SRBj3VxpVQ2SPuDPIQGKD"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Raahein Mili",
+      "url": "https://open.spotify.com/track/6whyLoWqg7VjsGh2QCBMjW"
+    },
+    {
+      "album": {
         "name": "Do Patti",
         "url": "https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr"
       },
@@ -11744,7 +11770,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 216400,
       "name": "Tum Jo Ho Yahaan",
       "url": "https://open.spotify.com/track/5Cef8JeRs1fvxp4cpiej7E"

@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Las Petunias.
 
-420 songs - 21 hr 25 min
+421 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [El inglés se enseña mal](https://open.spotify.com/track/5hNsJPvi6kSFUUWwDuN1rN) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [El inglés se enseña mal](https://open.spotify.com/album/7vcBeGFtsPQvLJ435FdcJg) | 3:23 | 2025-02-06 | 2025-02-28 |
 | [El Palco](https://open.spotify.com/track/7qYKxM3FWiB7hWlVFWUXnM) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [El Palco](https://open.spotify.com/album/1QJx2XWmPZetIlNTV2ffEd) | 2:42 | 2025-05-22 |  |
 | [El sueño de Dios](https://open.spotify.com/track/13jUfFSW21PY88QfBLdxuc) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [El sueño de Dios](https://open.spotify.com/album/56bHXsaNf0RgFtnB3bDd7d) | 3:19 | 2025-05-29 | 2025-07-07 |
-| [Ella quiere tocarme el pelo](https://open.spotify.com/track/492XllyzXEuDxlgsjHsGx5) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Ella quiere tocarme el pelo](https://open.spotify.com/album/3ZsloSV4M7bd7IKef9BxwJ) | 2:18 | 2025-06-26 |  |
+| [Ella quiere tocarme el pelo](https://open.spotify.com/track/492XllyzXEuDxlgsjHsGx5) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Ella quiere tocarme el pelo](https://open.spotify.com/album/3ZsloSV4M7bd7IKef9BxwJ) | 2:18 | 2025-06-26 | 2025-07-10 |
 | [EN EL FESTÍN](https://open.spotify.com/track/1UAc6pOJ6j0Su1SLpXUdMB) | [León Benavente](https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6) | [EN EL FESTÍN](https://open.spotify.com/album/4GmcslgP7KlsZ0loxXfm5G) | 3:31 | 2024-06-27 | 2024-07-05 |
 | [En Forma](https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [En Forma](https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq) | 3:48 | 2024-06-27 | 2024-11-22 |
 | [En tu portal](https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Ni un paso atrás](https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv) | 2:43 | 2024-11-14 |  |
@@ -267,6 +267,7 @@
 | [No te has enterado](https://open.spotify.com/track/6jg5hvORuoaKpxTsDBDXdg) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [No te has enterado](https://open.spotify.com/album/3BJipr3byeHNGPV6TWdrK9) | 3:10 | 2024-06-27 | 2024-07-27 |
 | [No te voy a besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No te voy a besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 | 2024-08-09 |
 | [No va a doler](https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [No va a doler](https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1) | 2:40 | 2024-06-27 |  |
+| [No Vuelvo a Beber](https://open.spotify.com/track/418FokTpwu0uEUS58VMJ0U) | [Ciervoss](https://open.spotify.com/artist/1CAML4WFHPiDUjW2uByMu3), [REZELO](https://open.spotify.com/artist/1nSlIKzRjn19dziheCrVdU) | [No Vuelvo a Beber](https://open.spotify.com/album/3KOB2bRzJHL8KEdPkv8j3C) | 2:10 | 2025-07-03 |  |
 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-10-25 |  |
 | [Noviembre](https://open.spotify.com/track/0Hw91lN7fNSJpJDcXYWDf6) | [Johnny Garso](https://open.spotify.com/artist/6zvsUJE9zNUpP3mV3tQsCg) | [Noviembre](https://open.spotify.com/album/23avIvPgohACYmGX3o7mT5) | 3:03 | 2024-11-21 | 2024-12-13 |
 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 | 2024-06-27 | 2024-10-18 |

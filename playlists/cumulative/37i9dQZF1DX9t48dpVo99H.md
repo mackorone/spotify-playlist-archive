@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-92 songs - 4 hr 1 min
+95 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [741 Hz Spectral Journey](https://open.spotify.com/track/6t4LHtbQMqoTVGdn5SH6hu) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [741 Hz Spectral Journey](https://open.spotify.com/album/6Ntmmhb1UBLkdbwIrT9mSY) | 2:42 | 2023-11-30 |  |
 | [741 Hz Spiritual Bath](https://open.spotify.com/track/5OANFC7h3nM3Jj1nrTM1vM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:01 | 2023-03-10 |  |
 | [741 Hz Voice Unveiled](https://open.spotify.com/track/6S6iGO59lg5Lh1MsC9GPIf) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [741 Hz Voice Unveiled](https://open.spotify.com/album/6NYKUVr1koEQUOE2a82CI9) | 2:35 | 2024-04-07 |  |
+| [741Hz](https://open.spotify.com/track/3VwMMsUb8NQjlAYLovjc8a) | [Solfeggio Sound Empire](https://open.spotify.com/artist/3hWEsvb8gRPdMMjfTPoA22) | [741Hz](https://open.spotify.com/album/7bAcbv8hZgy3q7MF5Hfgnt) | 2:40 | 2025-07-09 |  |
 | [741Hz \- Deep Sleep](https://open.spotify.com/track/1vuP2xOAisIelsfgcg5O94) | [Velodrome](https://open.spotify.com/artist/4Xv4mNOYUc05QngjAvNUWB) | [Deep Sleep](https://open.spotify.com/album/4rgY7wUEdsxw8CHdrcT0uj) | 1:53 | 2023-03-10 | 2024-03-14 |
 | [741hz Eliminates Negativity](https://open.spotify.com/track/2OXirAv8badcQ2VJH3oMBe) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 3:59 | 2023-11-30 |  |
 | [741hz Purifies Mind and Body](https://open.spotify.com/track/7yOZ0gYi6owjohpcmTOKAe) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 4:09 | 2023-11-30 |  |
@@ -67,6 +68,7 @@
 | [Floating Through Solfeggio 741 Hz](https://open.spotify.com/track/0E0FK26KRggPeQKESUxvQb) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 2:55 | 2023-03-10 |  |
 | [focused clarity 741 Hz](https://open.spotify.com/track/04fb8Hoi0JjZoxKPiPFcCi) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 2:52 | 2023-03-10 |  |
 | [HAM \- Throat Chakra \- Truth](https://open.spotify.com/track/3I5l2Ulolh87Hnt7RoGDKY) | [Float Waves](https://open.spotify.com/artist/3ktvAYSUnQfoS8vxYex8Jp) | [440Hz Chakra Suite, Vol 1](https://open.spotify.com/album/0oETsqI9kxTYL37kYxFRaU) | 2:04 | 2023-03-10 | 2023-08-08 |
+| [Hand of Nature 741 Hz](https://open.spotify.com/track/6JqplfYI6DfD9VnXSS7SnJ) | [Holistic Harmony](https://open.spotify.com/artist/4oxvDeHOmb5ZzroTPJhs4W) | [Hand of Nature 741 Hz](https://open.spotify.com/album/63w1ClEvaNW9WKQPbMazyM) | 2:31 | 2025-07-09 |  |
 | [Harmonizing Throat Chakra](https://open.spotify.com/track/4ubDW4ReffTJffdzkjp4rR) | [Vincent de Carsenti](https://open.spotify.com/artist/3o0sqYPgNVNs4Br8gQxSMs) | [All the Ways of God \(Meditative Music\)](https://open.spotify.com/album/0RzeIk6LNn3zkl2e7Cy1uD) | 0:59 | 2023-03-10 | 2023-12-01 |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-03-10 |  |
 | [Illuminated Strum 741 Hz](https://open.spotify.com/track/44C5JAF8UMtcICFL8LGQse) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Illuminated Strum 741 Hz](https://open.spotify.com/album/4fTfoqDdD5mxZh34SfN22G) | 2:34 | 2024-06-11 |  |
@@ -100,5 +102,6 @@
 | [Vishuddha \(741hz\)](https://open.spotify.com/track/6R9uMqBZRyanEMjSa60jZj) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Through The Chakras](https://open.spotify.com/album/20laVtUmPgjplNxrC4HHXc) | 1:49 | 2023-11-30 | 2024-03-14 |
 | [Vishuddha \(Throat\) \[Chakra\]](https://open.spotify.com/track/0qpVazrOG8rpYlun1e9ClL) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 5:31 | 2023-03-10 | 2023-08-08 |
 | [Visions 741 Hz](https://open.spotify.com/track/0UH1vXrdAvxI8CucKsYiin) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:31 | 2023-03-10 |  |
+| [Waves 741 Hz](https://open.spotify.com/track/3uEp4Nl4K3KhFCIrABet5H) | [Hugo Falkman](https://open.spotify.com/artist/6nLo9HoDwesK6BJRG4vSV6) | [Waves 741 Hz](https://open.spotify.com/album/1iSla5gnMoRZMY8hDUnEtA) | 2:24 | 2025-07-09 |  |
 
 \*This playlist was first scraped on 2023-08-01. Prior content cannot be recovered.

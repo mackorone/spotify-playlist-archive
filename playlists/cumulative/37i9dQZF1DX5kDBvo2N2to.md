@@ -4,12 +4,12 @@
 
 > låtarna som inte går att få nog av.
 
-358 songs - 19 hr 21 min
+359 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...blondie\(s\)](https://open.spotify.com/track/3ajCgdGbPvGYOwG9eEOjaS) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...blondie\(s\)](https://open.spotify.com/album/6YTP3VnM1PbSWYWuJIcH3y) | 2:33 | 2025-04-10 | 2025-05-30 |
-| [...Japanese pancakes](https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...Japanese pancakes](https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9) | 2:13 | 2025-05-22 |  |
+| [...Japanese pancakes](https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...Japanese pancakes](https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9) | 2:13 | 2025-05-22 | 2025-07-10 |
 | [00:00:01](https://open.spotify.com/track/5F7WaBrdKaut4IaswkN3be) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [00:00:01](https://open.spotify.com/album/1TVr5v1JZ2Ux1mqXytRxyW) | 2:10 | 2025-07-03 |  |
 | [02:30](https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [02:30](https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja) | 3:37 | 2025-01-16 |  |
 | [112](https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [112](https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7) | 3:16 | 2025-03-20 |  |
@@ -58,6 +58,7 @@
 | [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 | 2024-06-28 | 2024-08-16 |
 | [Camels](https://open.spotify.com/track/1t30x389swdoiG08U2X2fz) | [Paine Galletto](https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY) | [Camels](https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa) | 1:54 | 2025-06-18 |  |
 | [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-28 | 2025-04-13 |
+| [CANADIAN TUXEDO](https://open.spotify.com/track/36LvtWLFULwuOtgCQwybJj) | [BORIS](https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a), [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [CANADIAN TUXEDO](https://open.spotify.com/album/4YPxNXWO0qpZ3A89RlkfrV) | 2:37 | 2025-07-03 |  |
 | [Cardio](https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Cardio](https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC) | 3:08 | 2024-06-28 | 2025-01-17 |
 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 | 2025-05-29 |  |
 | [Catch Me](https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf) | [Ellen Benediktson](https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8) | [Catch Me](https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq) | 2:57 | 2024-11-08 | 2025-05-23 |

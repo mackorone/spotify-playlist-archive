@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Capture The Moment",
+        "url": "https://open.spotify.com/album/3oxcE6oMBOXXOEbljcSCag"
+      },
+      "artists": [
+        {
+          "name": "Hadat Ombra",
+          "url": "https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150227,
+      "name": "Capture The Moment",
+      "url": "https://open.spotify.com/track/62A03CVD3tsTStDrXYAG0O"
+    },
+    {
+      "album": {
         "name": "Catacea Animals",
         "url": "https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m"
       },
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 228194,
       "name": "Morning Forest",
       "url": "https://open.spotify.com/track/4U8vdmjWXCy2kfwY86I7Eh"
@@ -3140,6 +3158,24 @@
       "duration_ms": 175000,
       "name": "Secrets of the Forest",
       "url": "https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR"
+    },
+    {
+      "album": {
+        "name": "Seeker",
+        "url": "https://open.spotify.com/album/1rqGqD4r5VYrX2VWacttTp"
+      },
+      "artists": [
+        {
+          "name": "Wanyes",
+          "url": "https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152058,
+      "name": "Seeker",
+      "url": "https://open.spotify.com/track/5j6bLwlE7uTCbjtQedZrle"
     },
     {
       "album": {

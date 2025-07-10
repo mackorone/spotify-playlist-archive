@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di 333 Mob, Shablo, Icy Subzero, Morad e Baby Gang, Melon, MamboLosco e tanti altri.
 
-5,787 songs - 10 day 17 hr 44 min
+5,788 songs - 10 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -721,6 +721,7 @@
 | [Bimba](https://open.spotify.com/track/1bWzv2TNJrRLE2L6w8qX2M) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bimba](https://open.spotify.com/album/4I52eMbRnqpUZPaBtkqgbR) | 2:39 | 2024-02-15 | 2024-03-15 |
 | [BIMBA](https://open.spotify.com/track/0yQYsWMiMenj6XiMj5E3eo) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [BIMBA](https://open.spotify.com/album/7D0PvYTBHrqk22q3SY3Nas) | 2:45 | 2024-11-14 | 2024-12-11 |
 | [BIMBO \(feat\. Silent Bob\)](https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [1998](https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm) | 2:46 | 2023-11-23 | 2023-12-22 |
+| [BIMBO SELVAGGIO](https://open.spotify.com/track/4blPCIIknBwJslYWPY6EfF) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [BIMBO SELVAGGIO](https://open.spotify.com/album/79ZRUQpz7Drl37SMtxnkZL) | 2:09 | 2025-07-09 |  |
 | [BIPOLAR](https://open.spotify.com/track/3F6hKt2Lln4Cb3DvTL4OXv) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [BIPOLAR](https://open.spotify.com/album/4xkX4hTEYkdYLHNqtyRRaW) | 2:35 | 2023-11-17 | 2023-12-01 |
 | [BIPOLARE](https://open.spotify.com/track/0UseLzHVZSNJRdnINiEEEP) | [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [BIPOLARE](https://open.spotify.com/album/7y0OivEigmUDQAlQkqX4gU) | 2:48 | 2023-02-16 | 2023-03-10 |
 | [Bipolare](https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN), [Damo ça va pètèr](https://open.spotify.com/artist/6PKyPmrKFzCjuI6pWbJvB6) | [Bipolare](https://open.spotify.com/album/6NNHxBFTvWztjhDqfnCXz6) | 2:22 | 2023-07-20 | 2023-09-01 |

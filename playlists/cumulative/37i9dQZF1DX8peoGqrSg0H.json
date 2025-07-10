@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "BOSS IN THE BUILDING",
+        "url": "https://open.spotify.com/album/5rUDcK5BarwnVJhn86U2WB"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270026,
+      "name": "BOSS IN THE BUILDING",
+      "url": "https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn"
+    },
+    {
+      "album": {
         "name": "Boutchya",
         "url": "https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr"
       },
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 179830,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk"
@@ -4770,6 +4788,24 @@
       "duration_ms": 225882,
       "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
       "url": "https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e27\u0e31\u0e19 \u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+        "url": "https://open.spotify.com/album/6EYbWWoj2fCWsgL0XWXWRt"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e27\u0e31\u0e19 \u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+      "url": "https://open.spotify.com/track/3kW9fmKoEQnD8zhu3JKffk"
     },
     {
       "album": {
@@ -6622,7 +6658,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 207906,
       "name": "\u0e17\u0e31\u0e01 (FIRST SIGHT)",
       "url": "https://open.spotify.com/track/3hqLHxV65Uw7P2rqy0z886"

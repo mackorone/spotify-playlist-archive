@@ -4197,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Escape to Me",
+      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
+    },
+    {
+      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/0VXe7yap2XA5Gh8ibVpwCw"
       },
@@ -6238,6 +6256,24 @@
       "duration_ms": 202057,
       "name": "HERO IN THE MIRROR",
       "url": "https://open.spotify.com/track/2UhA1gWKnQNlfE3YiAV3BN"
+    },
+    {
+      "album": {
+        "name": "Heukseok-dong \u3008Sanullim's 50th Anniversary Collaboration Album\u3009",
+        "url": "https://open.spotify.com/album/1h3aXRHMtuiUTnEymDWKGo"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413194,
+      "name": "Heukseok-dong",
+      "url": "https://open.spotify.com/track/2aEaejrhOecAdVvifXidcm"
     },
     {
       "album": {
@@ -14362,7 +14398,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 203013,
       "name": "STOP IT",
       "url": "https://open.spotify.com/track/23rtmmIgcIsCEiIPDwxPrd"
@@ -14690,7 +14726,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 263962,
       "name": "Syringe",
       "url": "https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB"

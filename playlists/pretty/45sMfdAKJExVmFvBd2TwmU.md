@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/45sMfdAKJExVmFvBd2TwmU.md) - [plain]
 
 > LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional, Love, Pyaar, 2025, 2024, Old, Retro, Classic, Top Hits, Bollywood, Arijit Singh , Hindi , Lofi, Soothing, Night, Romance, Bollywood, 1am Feels, BEST SONG'S FOREVER, Sad Love,  Metro
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 437,513 likes - 42 songs - 3 hr 19 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 437,479 likes - 48 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,11 @@ pretty - [cumulative](/playlists/cumulative/45sMfdAKJExVmFvBd2TwmU.md) - [plain]
 | 40 | [Channa Mereya](https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:49 |
 | 41 | [Tere Naina](https://open.spotify.com/track/3hoXhwP0ub9LdSJV4olDIc) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 4:38 |
 | 42 | [Tu Hi Mera](https://open.spotify.com/track/1CVqr5LImdmJ1Upt4z08Pm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Jannat 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi) | 4:32 |
+| 43 | [Iktara](https://open.spotify.com/track/0RJ7HhnQxJEOpGC5Htmez4) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Wake Up Sid \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/7nFj0QIMz081q7e8kQvW93) | 4:12 |
+| 44 | [Khamoshiyan](https://open.spotify.com/track/6zCQF5tu7HVwU9shhKqiuF) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Khamoshiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6mJIpY6r2SzZbLN3ClYCbb) | 5:35 |
+| 45 | [Ishq Wala Love](https://open.spotify.com/track/1hQia6rxgfM1ly2hE3StWp) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 4:17 |
+| 46 | [Pani Da Rang \- Male Vocals](https://open.spotify.com/track/4kaLkst9lT3sQ5Crgxs3ic) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Vicky Donor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71DVhsBjMZWwTk18SeQhip) | 4:00 |
+| 47 | [Enna Sona](https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 3:33 |
+| 48 | [Abhi Mujh Mein Kahin](https://open.spotify.com/track/73y649QhnXdcm6fRdvfraO) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Agneepath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EXIPmWRsSM1sXol5g4t7j) | 6:04 |
 
-Snapshot ID: `AAAYlZmrTTmXcKaM0iiOGJ9REtO4HAd0`
+Snapshot ID: `AAAYmwa5ow3EOHytkVBynmW7kFe5rLca`

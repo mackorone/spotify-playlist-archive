@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 123513,
+  "num_followers": 123542,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Trio Ternura (Compacto 1973)",
+        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
+      },
+      "artists": [
+        {
+          "name": "Trio Ternura",
+          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Stereo-Typical: A's, B's & Rarities",
         "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 128903,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Trio Ternura (Compacto 1973)",
-        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
-      },
-      "artists": [
-        {
-          "name": "Trio Ternura",
-          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Caminhos Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0"
-      },
-      "artists": [
-        {
-          "name": "Gonzaguinha",
-          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "O Que \u00c9 O Que \u00c9?",
-      "url": "https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Caminhos Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0"
+      },
+      "artists": [
+        {
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "O Que \u00c9 O Que \u00c9?",
+      "url": "https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
         "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 219624,
       "name": "Ayonha",
       "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Cartola (1974)",
-        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Alvorada",
-      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Cartola (1974)",
+        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Zungguzungguguzungguzeng!",
         "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 162586,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF"
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -871,22 +887,6 @@
       "duration_ms": 206693,
       "name": "Up From the South",
       "url": "https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 158376,
-      "name": "Rondando Tu Esquina",
-      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "En \u0130yileriyle G\u00fczin ile Baha",
         "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 173520,
       "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
       "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 158376,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "One Understanding",
+        "url": "https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU"
+      },
+      "artists": [
+        {
+          "name": "Christy Essien Igbokwe",
+          "url": "https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm"
+        }
+      ],
+      "duration_ms": 241397,
+      "name": "You Can't Change a Man",
+      "url": "https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "La Onda de Elia y Elizabeth",
         "url": "https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "One Understanding",
-        "url": "https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU"
-      },
-      "artists": [
-        {
-          "name": "Christy Essien Igbokwe",
-          "url": "https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm"
-        }
-      ],
-      "duration_ms": 241397,
-      "name": "You Can't Change a Man",
-      "url": "https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "The Very Best of The Dixie Cups: Chapel of Love",
         "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 126500,
       "name": "Iko Iko",
       "url": "https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Sings Love",
-        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
-      },
-      "artists": [
-        {
-          "name": "Sonya Spence",
-          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
-        }
-      ],
-      "duration_ms": 222981,
-      "name": "Let Love Flow On",
-      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Sings Love",
+        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
+      },
+      "artists": [
+        {
+          "name": "Sonya Spence",
+          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
+        }
+      ],
+      "duration_ms": 222981,
+      "name": "Let Love Flow On",
+      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 295080,
       "name": "Mujer Divina",
       "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Linda Guajira",
-        "url": "https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80"
-      },
-      "artists": [
-        {
-          "name": "Los Guaracheros De Oriente",
-          "url": "https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom"
-        }
-      ],
-      "duration_ms": 189962,
-      "name": "Patria Querida",
-      "url": "https://open.spotify.com/track/6hGfBBs2yvBcMbfTMsARGx"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Head Sounds",
-        "url": "https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l"
+        "name": "Linda Guajira",
+        "url": "https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "Los Guaracheros De Oriente",
+          "url": "https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom"
         }
       ],
-      "duration_ms": 307307,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ"
+      "duration_ms": 189962,
+      "name": "Patria Querida",
+      "url": "https://open.spotify.com/track/6hGfBBs2yvBcMbfTMsARGx"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Cantiga De Longe",
         "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
       },
@@ -1551,6 +1519,38 @@
       "duration_ms": 170666,
       "name": "Zum-Zum",
       "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Head Sounds",
+        "url": "https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 307307,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Tropical Suite",
-        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
-      },
-      "artists": [
-        {
-          "name": "Poni Hoax",
-          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
-        }
-      ],
-      "duration_ms": 126973,
-      "name": "Tropical Suite: S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Fine Anyway (Habibi Funk 016)",
         "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Tropical Suite",
+        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
+      },
+      "artists": [
+        {
+          "name": "Poni Hoax",
+          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
+        }
+      ],
+      "duration_ms": 126973,
+      "name": "Tropical Suite: S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Al Barry & Friends (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 176091,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Sketches From An Island 2",
+        "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "duration_ms": 224428,
+      "name": "Brunch With Suki",
+      "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1679,22 +1695,6 @@
       "duration_ms": 174349,
       "name": "Napule Canta E More",
       "url": "https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Sketches From An Island 2",
-        "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
-      },
-      "artists": [
-        {
-          "name": "Mark Barrott",
-          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
-        }
-      ],
-      "duration_ms": 224428,
-      "name": "Brunch With Suki",
-      "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
     }
   ],
   "unique_name": "Bon Voyage",

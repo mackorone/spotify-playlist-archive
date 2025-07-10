@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Monsters and Men, Ava Max, Loreen og m\u00f6rgum fleiri!",
-  "num_followers": 9287,
+  "num_followers": 9288,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,30 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
+        "name": "London's On Fire",
+        "url": "https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Audio Bullys",
+          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "London's On Fire",
+      "url": "https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
         "name": "Broken Hearted (feat. Julia Church)",
         "url": "https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp"
       },
@@ -463,30 +487,6 @@
       "duration_ms": 187666,
       "name": "Eden",
       "url": "https://open.spotify.com/track/1ceEkD7pAsd8yI71OTVU3G"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
-        "name": "London's On Fire",
-        "url": "https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Audio Bullys",
-          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "London's On Fire",
-      "url": "https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "dance around it",
-        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 145760,
-      "name": "dance around it",
-      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/2FOoWd3HnAhZXGuw6gQrCg"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "MILK",
-        "url": "https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM"
+        "name": "dance around it",
+        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
       },
       "artists": [
         {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 210588,
-      "name": "MILK",
-      "url": "https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5"
+      "duration_ms": 145760,
+      "name": "dance around it",
+      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -655,22 +639,18 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "Dangerous Feelings",
-        "url": "https://open.spotify.com/album/33iQDUoA1TQKNRh1xGKMo1"
+        "name": "MILK",
+        "url": "https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Astr\u00f8",
-          "url": "https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ"
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
         }
       ],
-      "duration_ms": 363212,
-      "name": "Dangerous Feelings",
-      "url": "https://open.spotify.com/track/1TgOrY29FgE0qSv1Odn7xF"
+      "duration_ms": 210588,
+      "name": "MILK",
+      "url": "https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -687,6 +667,26 @@
       "duration_ms": 245840,
       "name": "Feel",
       "url": "https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
+        "name": "Dangerous Feelings",
+        "url": "https://open.spotify.com/album/33iQDUoA1TQKNRh1xGKMo1"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Astr\u00f8",
+          "url": "https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ"
+        }
+      ],
+      "duration_ms": 363212,
+      "name": "Dangerous Feelings",
+      "url": "https://open.spotify.com/track/1TgOrY29FgE0qSv1Odn7xF"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
+        "name": "Hey Hi Hello",
+        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Hey Hi Hello",
+      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/1eRQmS5J3hTsgnHsqFYRER"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 199397,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/40chr05A8qJGEOrTSGi2qL"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
-        "name": "Hey Hi Hello",
-        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Hey Hi Hello",
-      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "Collective Ecstasy",
-        "url": "https://open.spotify.com/album/4I4YEMHJe3Cw9XgF71bbby"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
-        }
-      ],
-      "duration_ms": 177798,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3xQLbgSyVAYtQIcS39ecGL"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
         "name": "over you",
         "url": "https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ"
       },
@@ -823,22 +803,22 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "HOLD STILL",
-        "url": "https://open.spotify.com/album/6yn7dxLTwyBv6SbTkTOuxK"
+        "name": "Collective Ecstasy",
+        "url": "https://open.spotify.com/album/4I4YEMHJe3Cw9XgF71bbby"
       },
       "artists": [
         {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         },
         {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
         }
       ],
-      "duration_ms": 171428,
-      "name": "HOLD STILL",
-      "url": "https://open.spotify.com/track/5KGfOmCztRFeXGrU2r3WGi"
+      "duration_ms": 177798,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3xQLbgSyVAYtQIcS39ecGL"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -859,6 +839,26 @@
       "duration_ms": 167620,
       "name": "R\u00d3A (AXMO Remix)",
       "url": "https://open.spotify.com/track/7m4rd273q4CgkWPSrGg4q2"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
+        "name": "HOLD STILL",
+        "url": "https://open.spotify.com/album/6yn7dxLTwyBv6SbTkTOuxK"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "HOLD STILL",
+      "url": "https://open.spotify.com/track/5KGfOmCztRFeXGrU2r3WGi"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "High Time",
-        "url": "https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 149370,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
+        "name": "High Time",
+        "url": "https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 149370,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
         "name": "Funky Lovely Girl",
         "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 225354,
       "name": "Funky Lovely Girl",
       "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/0DnfWC66MH00qjvMJfgAGi"
+      },
+      "artists": [
+        {
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        }
+      ],
+      "duration_ms": 162827,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5I40gvyuS8QS2BsXt4PUuO"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/0DnfWC66MH00qjvMJfgAGi"
-      },
-      "artists": [
-        {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
-        }
-      ],
-      "duration_ms": 162827,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5I40gvyuS8QS2BsXt4PUuO"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/2ZL2Ed8SyBwjROrqdJIBuM"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 257560,
       "name": "Cola",
       "url": "https://open.spotify.com/track/5cd72YjQAbp1Vf0FBJJ53D"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
+        "name": "Before The Fire",
+        "url": "https://open.spotify.com/album/6h1KsWDuRl8RUrOdClKwaD"
+      },
+      "artists": [
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Before The Fire",
+      "url": "https://open.spotify.com/track/6KYuUfh1s2IoB4FlLCHnQW"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -1283,22 +1299,6 @@
       "duration_ms": 157716,
       "name": "Brizzle",
       "url": "https://open.spotify.com/track/62KcHU1T8VBwIKXcWS812K"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
-        "name": "Before The Fire",
-        "url": "https://open.spotify.com/album/6h1KsWDuRl8RUrOdClKwaD"
-      },
-      "artists": [
-        {
-          "name": "John Alto",
-          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Before The Fire",
-      "url": "https://open.spotify.com/track/6KYuUfh1s2IoB4FlLCHnQW"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "Half Moon Bay",
-        "url": "https://open.spotify.com/album/6ZNvHEDhXHfcjVDy7uBUIP"
-      },
-      "artists": [
-        {
-          "name": "The Moving Stills",
-          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
-        }
-      ],
-      "duration_ms": 189286,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5ORGoLlRAtpEz9q7ztyS8I"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/5DEY9Qk83emaFTuOzRXf2B"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 180524,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/0ci8M8VddctT9sehCbxn4R"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
+        "name": "Half Moon Bay",
+        "url": "https://open.spotify.com/album/6ZNvHEDhXHfcjVDy7uBUIP"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "duration_ms": 189286,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5ORGoLlRAtpEz9q7ztyS8I"
     },
     {
       "added_at": "2025-07-04 00:00:26",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "Fussum og sveium",
-        "url": "https://open.spotify.com/album/49h8WDTdhNf6QT90fjkJ8M"
-      },
-      "artists": [
-        {
-          "name": "Fussumsvei",
-          "url": "https://open.spotify.com/artist/1BG9194NkA54mXIS2mYXzF"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Dj\u00f6fulgangur",
-      "url": "https://open.spotify.com/track/52bOUUUzoDnVrzEODJSVvW"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0HeAbeUYwnK6rGEInDFr2S"
       },
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
+        "name": "Fussum og sveium",
+        "url": "https://open.spotify.com/album/49h8WDTdhNf6QT90fjkJ8M"
+      },
+      "artists": [
+        {
+          "name": "Fussumsvei",
+          "url": "https://open.spotify.com/artist/1BG9194NkA54mXIS2mYXzF"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Dj\u00f6fulgangur",
+      "url": "https://open.spotify.com/track/52bOUUUzoDnVrzEODJSVvW"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
         "name": "Eins og Vi\u00f0",
         "url": "https://open.spotify.com/album/1stukHzH9Kw1uhQ4JwQs5i"
       },
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-07-04 00:00:26",
       "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/1QQzYNBx3ZTA1eHnvOnhOA"
-      },
-      "artists": [
-        {
-          "name": "Klaki",
-          "url": "https://open.spotify.com/artist/2CDFAsZHN7b95nRswT2wwG"
-        }
-      ],
-      "duration_ms": 246223,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/2Jv5uS20yatzAFnm6i4UAj"
-    },
-    {
-      "added_at": "2025-07-04 00:00:26",
-      "album": {
         "name": "G\u00f3\u00f0ur",
         "url": "https://open.spotify.com/album/0FKQ8Y9F7q5wBXd3aD8fad"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 244435,
       "name": "G\u00f3\u00f0ur",
       "url": "https://open.spotify.com/track/0QZkCsO2R5NmGdtj0YReEn"
+    },
+    {
+      "added_at": "2025-07-04 00:00:26",
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/1QQzYNBx3ZTA1eHnvOnhOA"
+      },
+      "artists": [
+        {
+          "name": "Klaki",
+          "url": "https://open.spotify.com/artist/2CDFAsZHN7b95nRswT2wwG"
+        }
+      ],
+      "duration_ms": 246223,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/2Jv5uS20yatzAFnm6i4UAj"
     },
     {
       "added_at": "2025-07-04 00:00:26",

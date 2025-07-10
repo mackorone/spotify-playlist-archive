@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1421487,
+  "num_followers": 1421733,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Exagerado 3.0 - Single",
+        "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 226141,
+      "name": "Exagerado 3.0",
+      "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "Mem\u00f3rias (2001) - Ao Vivo",
         "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 200820,
       "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
       "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Exagerado 3.0 - Single",
-        "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 226141,
-      "name": "Exagerado 3.0",
-      "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
     },
     {
       "added_at": "2025-05-30 05:19:13",

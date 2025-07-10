@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "All I Need Is You",
+        "url": "https://open.spotify.com/album/76UqiFsfcUEOcWq2b0IrCH"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223169,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/3lsapvOXrlQEbr1WWWXOK7"
+    },
+    {
+      "album": {
         "name": "ETERNALT",
         "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 178813,
       "name": "Attention (Feat. DAWN, BLAS\u00c9)",
       "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
@@ -374,6 +392,24 @@
       "duration_ms": 223826,
       "name": "Because I Don't Love You",
       "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
+    },
+    {
+      "album": {
+        "name": "Because It's Raining",
+        "url": "https://open.spotify.com/album/6XUJibvHZxh8N9YlAgK5YO"
+      },
+      "artists": [
+        {
+          "name": "LEE HONG GI",
+          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "Because It's Raining",
+      "url": "https://open.spotify.com/track/45wtKqTsplQDFyBd7lNgpu"
     },
     {
       "album": {
@@ -490,7 +526,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
@@ -960,7 +996,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 206013,
       "name": "Endless Rain",
       "url": "https://open.spotify.com/track/4YcPfv5Wef00nAkjLk3gy2"
@@ -3691,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "You're the prettiest to me",
+        "url": "https://open.spotify.com/album/1azG9sC2F6b0PUPSRzBcHr"
+      },
+      "artists": [
+        {
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "You're the prettiest to me",
+      "url": "https://open.spotify.com/track/1JbvdwvlMVqB15xBMWidIo"
+    },
+    {
+      "album": {
         "name": "The Ballads",
         "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
       },
@@ -3720,7 +3774,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 300689,
       "name": "\ubbf8\ub798\uc758 \ub108\uc5d0\uac8c \uace0\ub9c8\uc6cc (Thank you, future you.)",
       "url": "https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j"
@@ -3738,7 +3792,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 285013,
       "name": "\uc0ac\ub791\ud588\uc9c0\ub9cc",
       "url": "https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm"

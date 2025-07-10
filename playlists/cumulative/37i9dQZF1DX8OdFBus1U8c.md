@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-365 songs - 18 hr 39 min
+366 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aaduthan pidi](https://open.spotify.com/track/5tgCKQ8LWZyo5XjarHKxQa) | [Bhraandan](https://open.spotify.com/artist/42jvGGIqzYvTjLlgPDVoCD), [DCee∆](https://open.spotify.com/artist/0Nal49kRLweGNpqvj4fFp0) | [Aaduthan pidi](https://open.spotify.com/album/5ynvym2YELcl8gdNzQgC0F) | 2:12 | 2025-06-06 |  |
 | [Aana](https://open.spotify.com/track/4LK98zUvGsw2LtUA8LJzeq) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Aana](https://open.spotify.com/album/3y4I3MczKrYz9YEncRBBEZ) | 3:32 | 2023-07-23 | 2024-02-13 |
 | [Aanne](https://open.spotify.com/track/0PwhXCSOvVPxA3Q043OEZ1) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Sruthy Sivadas](https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ) | [Little Hearts \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1IZrB9zBngp29pMCoGqEEk) | 3:25 | 2024-04-16 | 2024-09-21 |
+| [AARA?](https://open.spotify.com/track/04T0gu2e2r7yTFA2sGC6e8) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [Jkfactor](https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv) | [AARA?](https://open.spotify.com/album/33p98nR4AQlS3qNkbd4Yhv) | 2:34 | 2025-07-09 |  |
 | [AARDA?](https://open.spotify.com/track/5Nx5RNHYpFCV4LgyHcRqeq) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Thudwiser](https://open.spotify.com/artist/6z8IZH6zc5YxGOGZT1ZswT) | [AARDA?](https://open.spotify.com/album/4C6SKJt6TL8mNKL5sc661k) | 3:46 | 2022-06-23 | 2024-05-22 |
 | [AAVARTHANAM](https://open.spotify.com/track/7HAyv8PALKTmJvLujWeeCj) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT) | [AAVARTHANAM](https://open.spotify.com/album/1iC5zgfqKvrdACeWdQoAr6) | 3:14 | 2025-02-17 | 2025-06-21 |
 | [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 | 2024-12-17 |  |
@@ -173,7 +174,7 @@
 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 | 2023-11-07 | 2025-07-01 |
 | [Legacy](https://open.spotify.com/track/1K9kBW3vwRLdUCmyopR6vz) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Legacy](https://open.spotify.com/album/5WkNj0ut9KlpGrc1vor49m) | 2:59 | 2024-09-09 | 2025-01-10 |
 | [Legacy](https://open.spotify.com/track/4pvagScsAtlcfKm0Mbc8p4) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Legacy](https://open.spotify.com/album/4YTYTGCVUhvTj5dErwAGbg) | 3:00 | 2024-02-13 | 2024-02-18 |
-| [Lifejil](https://open.spotify.com/track/0Itdhb56vDIdPbI6XfVGn6) | [Jilshad Vallapuzha](https://open.spotify.com/artist/1gsx9dFH26ilNmKsfbta1x) | [Lifejil](https://open.spotify.com/album/5vMVc3OjCwcWM6fnwz8bCf) | 3:04 | 2025-05-16 |  |
+| [Lifejil](https://open.spotify.com/track/0Itdhb56vDIdPbI6XfVGn6) | [Jilshad Vallapuzha](https://open.spotify.com/artist/1gsx9dFH26ilNmKsfbta1x) | [Lifejil](https://open.spotify.com/album/5vMVc3OjCwcWM6fnwz8bCf) | 3:04 | 2025-05-16 | 2025-07-10 |
 | [Loading Bazooka \(From "Bazooka"\)](https://open.spotify.com/track/1FU4zTnVKJ7X8rAV8p3W9K) | [Saeed Abbas](https://open.spotify.com/artist/3r3BIxNm1kAWHIAc2Gg36h), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX) | [Loading Bazooka \(From "Bazooka"\)](https://open.spotify.com/album/1tP3dwBC1GfN8tFhYaUO6R) | 2:40 | 2025-04-07 | 2025-06-10 |
 | [Lockdown Trap](https://open.spotify.com/track/3uHaXQZA7hUaJPPqVbNoON) | [Haseeb Razak](https://open.spotify.com/artist/09CaZS4Yx74q9vLPQzRTa8), [Hashim Azeez](https://open.spotify.com/artist/5bkSNzOpTyAdAKWIgg83OO), [Ansif Abdulla](https://open.spotify.com/artist/46ur722CJpQIVEmu1hDQUF) | [Lockdown Trap](https://open.spotify.com/album/2zetFzoqjh1GpNBc96PszI) | 1:30 | 2025-03-20 | 2025-04-17 |
 | [Lokam Mayakathilo](https://open.spotify.com/track/22QA31omSDg4TvqgxaJBPO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Blesslee](https://open.spotify.com/artist/0Gl81Y0B87WITIgM34VLGZ), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Lokam Mayakathilo](https://open.spotify.com/album/43xEqVTSaLK0Yn1TrffeXS) | 4:36 | 2022-06-23 | 2024-04-23 |

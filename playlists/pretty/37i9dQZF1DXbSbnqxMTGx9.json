@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3129811,
+  "num_followers": 3130108,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Pied Piper - The Best of Bob & Marcia",
+        "url": "https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA"
+      },
+      "artists": [
+        {
+          "name": "Bob Andy",
+          "url": "https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Poor Man Style",
         "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 163826,
       "name": "Lips of Wine",
       "url": "https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Police And Thieves",
-        "url": "https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt"
-      },
-      "artists": [
-        {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
-        }
-      ],
-      "duration_ms": 244306,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
     }
   ],
   "unique_name": "Reggae Classics",

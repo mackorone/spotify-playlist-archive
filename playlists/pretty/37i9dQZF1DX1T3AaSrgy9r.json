@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 151343,
+  "num_followers": 151395,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 242533,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/0u37PeJMtmWiydx4SfHCC5"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Stupid Girl - Remastered 2015",
+      "url": "https://open.spotify.com/track/2cmSBwuHbYJvVEmDtZR2X0"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 339893,
       "name": "Black Steel",
       "url": "https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/0u37PeJMtmWiydx4SfHCC5"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl - Remastered 2015",
-      "url": "https://open.spotify.com/track/2cmSBwuHbYJvVEmDtZR2X0"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 368400,
-      "name": "Windowlicker",
-      "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dummy (Non UK Version)",
         "url": "https://open.spotify.com/album/3gxOtUSRzweDWBKlpj7cG6"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 305560,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 368400,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Bodyrock",
+      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Bodyrock",
-      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "On the Ropes",
         "url": "https://open.spotify.com/album/33daQkvkB92gQPxu4O4ukC"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 306909,
       "name": "From Rusholme with Love",
       "url": "https://open.spotify.com/track/4HWeiKfHdwn2hEgUQVfu2q"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Decksandrumsandrockandroll",
         "url": "https://open.spotify.com/album/4Nt2YqpZ4Ls3isMeB6dF51"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 441760,
       "name": "Take California",
       "url": "https://open.spotify.com/track/6BepfRQPu3N9Ms3Y5pYsEM"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
     }
   ],
   "unique_name": "Generation Electronica",

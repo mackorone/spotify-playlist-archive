@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,583 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,770 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 24 | [Hay Libertad](https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [El Cielo Está Aquí](https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik) | 4:26 |
 | 25 | [Babel](https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [KINTSUGI](https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo) | 5:02 |
 | 26 | [El Padre Que Siempre Soñé](https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:24 |
-| 27 | [Sé fuerte](https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Sé Fuerte](https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh) | 4:11 |
-| 28 | [Lo Harás Otra Vez \(Do It Again\)](https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 6:17 |
+| 27 | [Lo Harás Otra Vez \(Do It Again\)](https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 6:17 |
+| 28 | [Sé fuerte](https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Sé Fuerte](https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh) | 4:11 |
 | 29 | [Al Que Está Sentado En el Trono \(feat\. Lucas Conslie\)](https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 10:01 |
 | 30 | [Socorro](https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Louie Abrego](https://open.spotify.com/artist/7JziUvazVZhoqI0PmAcyHj), [ruli](https://open.spotify.com/artist/58zw29VNKRuVKHRPmy5c2o) | [KINTSUGI](https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo) | 4:12 |
 | 31 | [Mesias \- Live](https://open.spotify.com/track/2f76xe9iPZbab7nMXaUaNR) | [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Mesias \(Live\)](https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP) | 12:23 |
-| 32 | [Cada mañana](https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Sé Fuerte](https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh) | 3:31 |
-| 33 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
+| 32 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
+| 33 | [Cada mañana](https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Sé Fuerte](https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh) | 3:31 |
 | 34 | [Hermoso Momento \(Sesión Acústica\)](https://open.spotify.com/track/2xMa0tcCol50Tx8juI2N6f) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI) | [Hermoso Momento \(Sesión Acústica\)](https://open.spotify.com/album/2W1itxkC4eYr4aWLsRlHHf) | 21:24 |
 | 35 | [Cuando Yo Te Conocí](https://open.spotify.com/track/69hFBsRNHaKuCkraGiExgA) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [AZ Family](https://open.spotify.com/artist/1aRYbnVZVADi825ka29635) | [DTOX](https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1) | 3:42 |
 | 36 | [Inexplicable](https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24) | [Denicher Pol](https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj) | [Inexplicable](https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO) | 5:24 |

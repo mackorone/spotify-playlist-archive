@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ekka",
-  "num_followers": 63524,
+  "num_followers": 63534,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG0hKwAAAAAaSKYqdchOz+yzLPjVt3KC",
+  "snapshot_id": "aG4vfAAAAAA4aj0g8pg22QhZvJ2nv8+Z",
   "tracks": [
     {
       "added_at": "2025-06-09 12:18:40",
@@ -107,6 +107,58 @@
       "duration_ms": 253440,
       "name": "Ayyo Vidhiye (From \"Vidyapati\")",
       "url": "https://open.spotify.com/track/3wzJLHsdYJVhZdKMLjZW8c"
+    },
+    {
+      "added_at": "2025-07-09 08:56:34",
+      "album": {
+        "name": "Jagada Srushti (From \"1st Day, 1st Show\")",
+        "url": "https://open.spotify.com/album/5zwIwA2nYi5jvKxctOSGjt"
+      },
+      "artists": [
+        {
+          "name": "Hari Ajay",
+          "url": "https://open.spotify.com/artist/5LKaAwmefZqJkxC82mIf9M"
+        },
+        {
+          "name": "Karthik Bhoopathi",
+          "url": "https://open.spotify.com/artist/3i1P0ZqJibY7UwCwfb8Rsx"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Shivakumar K Shetty",
+          "url": "https://open.spotify.com/artist/2VRuECzGlWKN3mx2DjERTT"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Jagada Srushti (From \"1st Day, 1st Show\")",
+      "url": "https://open.spotify.com/track/5dSwEssprPheEmJ7YKOLNh"
+    },
+    {
+      "added_at": "2025-07-09 08:59:40",
+      "album": {
+        "name": "Mahavatar Narsimha (Kannada) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4qxNmGwFyfTkyoQpemDjkL"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "the shloka",
+          "url": "https://open.spotify.com/artist/6oo6QIEtGBm3SGMogP5YAl"
+        }
+      ],
+      "duration_ms": 128142,
+      "name": "Roar Of Narsimha",
+      "url": "https://open.spotify.com/track/1GX6vISG4SVVMXX7anGEBD"
     },
     {
       "added_at": "2025-05-20 08:58:55",
@@ -1199,54 +1251,6 @@
       "duration_ms": 246501,
       "name": "Abki Baar Arjun Sarkaar (From \"Hit - 3\") (Kannada)",
       "url": "https://open.spotify.com/track/4BOUuep7Ti8rETAQk745hu"
-    },
-    {
-      "added_at": "2025-03-14 11:32:40",
-      "album": {
-        "name": "Oho Hrudaya (From \"Avanirabekittu\")",
-        "url": "https://open.spotify.com/album/2coEtfZvQlauDl5cP7K8t1"
-      },
-      "artists": [
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        },
-        {
-          "name": "Arfaz Ullal",
-          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
-        },
-        {
-          "name": "Loki Tavasya",
-          "url": "https://open.spotify.com/artist/5NAV2Nwh1sHl7ce2SiwHUR"
-        },
-        {
-          "name": "Arun Prasad",
-          "url": "https://open.spotify.com/artist/7bzCufwHvwgrogzheVOxVf"
-        }
-      ],
-      "duration_ms": 280291,
-      "name": "Oho Hrudaya (From \"Avanirabekittu\")",
-      "url": "https://open.spotify.com/track/6G1WsITUBKOQcRtUAaGLlk"
-    },
-    {
-      "added_at": "2025-04-21 10:40:39",
-      "album": {
-        "name": "Jai Annamma (From \"Majestic 2\")",
-        "url": "https://open.spotify.com/album/1kXAbGxT8b68g3nS8rObOS"
-      },
-      "artists": [
-        {
-          "name": "Vinu Manasu",
-          "url": "https://open.spotify.com/artist/1ZibIIoDWcMC9UkJ4dHCfL"
-        },
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        }
-      ],
-      "duration_ms": 227852,
-      "name": "Jai Annamma (From \"Majestic 2\")",
-      "url": "https://open.spotify.com/track/11lvvtqUBrVyK9zrmYhUnP"
     }
   ],
   "unique_name": "Latest Kannada",

@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-515 songs - 1 day 8 hr 16 min
+516 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Entertain Me](https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Entertain Me](https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy) | 2:50 | 2024-07-25 |  |
 | [Escape](https://open.spotify.com/track/4S2hhb5EKBmlBU7cFigCJS) | [Van Der Karsten](https://open.spotify.com/artist/3TiyEX77D6OFTvSfx5WDEE), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Escape](https://open.spotify.com/album/0gDQGarNIcKfzFVQITe8t2) | 2:46 | 2024-08-22 | 2024-09-17 |
 | [Escape From Planet Monday](https://open.spotify.com/track/2IqFYZ4Vocia7PmzEZh67r) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Escape From Planet Monday](https://open.spotify.com/album/6jCSQjMDY7imZ95OUQNdeD) | 3:14 | 2024-11-11 | 2024-12-21 |
-| [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-11-30 |  |
+| [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-11-30 | 2025-07-10 |
 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 | 2023-03-10 | 2023-04-19 |
 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 | 2024-01-26 | 2025-01-07 |
 | [Ever Been Punched](https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Ever Been Punched](https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg) | 2:14 | 2024-08-12 | 2024-12-29 |
@@ -268,6 +268,7 @@
 | [Lights Out](https://open.spotify.com/track/0CtEQErgyA7Jp4Jb3LGC7S) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Lights Out](https://open.spotify.com/album/0VkJvDI13bCS5WJ6zNBp0m) | 2:33 | 2024-07-25 | 2024-08-13 |
 | [Like This](https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [STORM](https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Like This](https://open.spotify.com/album/21kaF8OYz66A91XR46Npx0) | 2:22 | 2025-05-22 | 2025-06-06 |
 | [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 | 2024-07-25 | 2024-08-02 |
+| [Loca](https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Loca](https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc) | 2:36 | 2025-07-03 |  |
 | [Lonely Boy](https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy](https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk) | 3:23 | 2025-02-06 | 2025-03-04 |
 | [Lonely Boy \- Radio Edit](https://open.spotify.com/track/0yoNW4nLQX8NaIyqgZkZWb) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy \(Radio Edit\)](https://open.spotify.com/album/4vnfTU5B6yTpUsedT6Jqgs) | 3:23 | 2025-01-27 | 2025-02-13 |
 | [Lost in Chaos](https://open.spotify.com/track/06b25nBIIh9eEc3xQanUan) | [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Lost in Chaos](https://open.spotify.com/album/3ZU4vBH6aIJ5JvScEmmsOl) | 4:35 | 2023-10-05 | 2023-10-14 |

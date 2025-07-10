@@ -4,7 +4,7 @@
 
 > 
 
-1,078 songs - 2 day 6 hr 2 min
+1,079 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Cab Fare](https://open.spotify.com/track/5Q5Mw2JjkQ5V7jCWhY5xC0) | [Capital STEEZ Archive](https://open.spotify.com/artist/4LHyVZgCe5QLSmCILz5Fvy) | [AmeriKKKan Korruption](https://open.spotify.com/album/77btIQG6LDaCWiWmWtnCXr) | 3:43 | 2023-02-01 | 2024-11-06 |
 | [Call the Coroner](https://open.spotify.com/track/1WlU4jsJ8AoTB96dgd8LJA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:11 | 2024-12-11 |  |
 | [calling](https://open.spotify.com/track/665JLYnKdI4SXeKkE0X5dB) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [K Suave](https://open.spotify.com/artist/5quPjryJ2Pn2qmiPAbGtbz), [EastBayTae](https://open.spotify.com/artist/60fUrp5D4pO5sialH3dqqp), [Rackeduproy](https://open.spotify.com/artist/7GRvL2syhRyTxOEygzQ19q) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 3:01 | 2022-12-21 | 2023-05-09 |
+| [Camelot](https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:28 | 2025-07-10 |  |
 | [Can't Rent Anymore!](https://open.spotify.com/track/5t5AMaa3XhuOitcBTWstWL) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Can't Rent Anymore!](https://open.spotify.com/album/0iH2suaKjEGBeM0JM2JR8O) | 2:41 | 2023-03-19 | 2023-12-14 |
 | [Can't Smoke](https://open.spotify.com/track/2O1HUQNmz2aIzOc8U3ggAR) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Can't Smoke](https://open.spotify.com/album/0VKqahuccgsXjJsBoUsE2n) | 2:34 | 2022-09-29 | 2023-05-09 |
 | [Candle\. Svecha\. Variations for guitar.](https://open.spotify.com/track/4jVluZjYB9j9MnrSFUCLN6) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Russian Classical Guitar Music\. Romance, Folk songs.](https://open.spotify.com/album/2B20SrvgDoXlkDgfasyKMG) | 4:00 | 2024-02-15 | 2024-04-24 |

@@ -6901,6 +6901,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5rTbO6AqgwUCs4r63bUuiC"
+      },
+      "artists": [
+        {
+          "name": "Rayo del Sol",
+          "url": "https://open.spotify.com/artist/5tiQHiU8wfer1sBZAR0sPe"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2vfjGQHhpb0lGNzP088tVk"
+    },
+    {
+      "album": {
         "name": "Mezzo",
         "url": "https://open.spotify.com/album/5FzZIFRaHxs2mjod8a8zsD"
       },
@@ -9134,7 +9152,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 228130,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
@@ -9736,6 +9754,24 @@
       "duration_ms": 130910,
       "name": "Salt & Saffron",
       "url": "https://open.spotify.com/track/2THy66DUF8R63vi3FmYYeV"
+    },
+    {
+      "album": {
+        "name": "Salt Bloom",
+        "url": "https://open.spotify.com/album/6vX5C4fvTG6NS5kA6XUYFl"
+      },
+      "artists": [
+        {
+          "name": "Basaux",
+          "url": "https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154553,
+      "name": "Salt Bloom",
+      "url": "https://open.spotify.com/track/5BpH7aG674wkcIv8KVr9ap"
     },
     {
       "album": {
@@ -10568,7 +10604,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 188242,
       "name": "Smiling Falsifier",
       "url": "https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S"

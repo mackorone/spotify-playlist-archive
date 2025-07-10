@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7828,
+  "num_followers": 7837,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGsOAAAAAABedkqbHyHUVxh3vN4daE3a",
+  "snapshot_id": "aGxfgAAAAAAMBliyWv3zFeLyA/6IOJh/",
   "tracks": [
     {
       "added_at": null,
@@ -327,30 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "me d\u00e1 dinheiro ou me faz gozar",
-        "url": "https://open.spotify.com/album/0ICuS46DawFjbPKYXZE1Gp"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 120923,
-      "name": "me d\u00e1 dinheiro ou me faz gozar",
-      "url": "https://open.spotify.com/track/2jTzEkoOmhRWG8DWUMQ7de"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SALA VERMELHA #31 - Slipmami",
         "url": "https://open.spotify.com/album/5MKkPTLOt6yR0NGj328ToX"
       },
@@ -379,6 +355,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "me d\u00e1 dinheiro ou me faz gozar",
+        "url": "https://open.spotify.com/album/0ICuS46DawFjbPKYXZE1Gp"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 120923,
+      "name": "me d\u00e1 dinheiro ou me faz gozar",
+      "url": "https://open.spotify.com/track/2jTzEkoOmhRWG8DWUMQ7de"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Molho",
         "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
       },
@@ -395,26 +395,6 @@
       "duration_ms": 167119,
       "name": "Molho",
       "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GODZILLA",
-        "url": "https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "GODZILLA",
-      "url": "https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP"
     },
     {
       "added_at": null,
@@ -439,6 +419,26 @@
       "duration_ms": 121846,
       "name": "Mete Ficha",
       "url": "https://open.spotify.com/track/5qrjKcKr5Xgxw5dIVSrcZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GODZILLA",
+        "url": "https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "GODZILLA",
+      "url": "https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP"
     },
     {
       "added_at": null,
@@ -916,13 +916,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
+          "name": "HG RealTrem",
+          "url": "https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs"
+        },
+        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 148000,
-      "name": "A Jogada Que \u00c9 Foda",
-      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
+      "duration_ms": 168000,
+      "name": "Preso na Minha BCT",
+      "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
     },
     {
       "added_at": null,
@@ -1000,17 +1004,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "HG RealTrem",
-          "url": "https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs"
-        },
-        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Preso na Minha BCT",
-      "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
+      "duration_ms": 148000,
+      "name": "A Jogada Que \u00c9 Foda",
+      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Elle Shimada. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -3198,6 +3198,24 @@
       "duration_ms": 374426,
       "name": "Birdgang, Pt. II",
       "url": "https://open.spotify.com/track/0BW6E4sY1wiFyYJpENPt7d"
+    },
+    {
+      "album": {
+        "name": "Birdo 3",
+        "url": "https://open.spotify.com/album/7m6ZeRF6XMigRf7NRpkROT"
+      },
+      "artists": [
+        {
+          "name": "Varra",
+          "url": "https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189553,
+      "name": "Birdo 3",
+      "url": "https://open.spotify.com/track/52Xo8IVjuoBm5Nq9MwlOsn"
     },
     {
       "album": {
@@ -11550,7 +11568,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 158365,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/67PhfdGBpd1cGzXYSL0X1K"
@@ -15528,7 +15546,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 188999,
       "name": "Letting Go of Forever",
       "url": "https://open.spotify.com/track/79w55ScCjW71NKRgfHozmG"
@@ -18780,7 +18798,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 256000,
       "name": "Nkosi's Fantasia II",
       "url": "https://open.spotify.com/track/3QckxpJJonWtcJgJiUZr7X"
@@ -22458,6 +22476,24 @@
       "duration_ms": 289880,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/3D8qO1KBD4LE3hf98PWDaz"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238794,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY"
     },
     {
       "album": {
@@ -30440,6 +30476,28 @@
       "duration_ms": 425000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/1u8d1Odf4y1b8IMtwh1E14"
+    },
+    {
+      "album": {
+        "name": "Singularity",
+        "url": "https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5ba4\u97ff",
+          "url": "https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0"
+        },
+        {
+          "name": "\u4e95\u4e0a\u9298",
+          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 690973,
+      "name": "Volkslied - feat.\u4e95\u4e0a\u9298",
+      "url": "https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV"
     },
     {
       "album": {

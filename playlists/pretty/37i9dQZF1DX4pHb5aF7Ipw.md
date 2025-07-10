@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Jerry, Wazir Patar, Tarsem Jassar  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,871 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,882 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 5 | [Let It Be](https://open.spotify.com/track/6Lcp8WqnjwDKMUGvAvB8Lq) | [Preit](https://open.spotify.com/artist/2Pl6cRKp8FqWNDVQ4L2zwC), [Perfecto](https://open.spotify.com/artist/3DmYc1JLNpW8rg9xjVuhfY) | [Let It Be](https://open.spotify.com/album/1D16nQvnGsv6liSyMw9eN8) | 2:12 |
 | 6 | [Shoes Off](https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Shoes Off](https://open.spotify.com/album/3DdWTfPbTgtEiP95BDFctH) | 3:49 |
 | 7 | [King](https://open.spotify.com/track/3DCpJ4ItY62i4UoNcpAsko) | [Vicky Dhillon](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Sukh Bohanwala](https://open.spotify.com/artist/2tVAyhV9tSFiSgYOBxnUhL), [Acid](https://open.spotify.com/artist/1xEOhnps7IjqOQwOzk3qKB) | [Scars To Stars](https://open.spotify.com/album/2GHkgfjjrUM9X2du12hC8x) | 2:36 |
-| 8 | [Superstar](https://open.spotify.com/track/5ZYdnrx8FCqb1Yt7xGfgck) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Superstar](https://open.spotify.com/album/4aTDCllLClADNAXO3Ifd6h) | 3:38 |
+| 8 | [Superstar](https://open.spotify.com/track/5ZYdnrx8FCqb1Yt7xGfgck) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Superstar](https://open.spotify.com/album/4aTDCllLClADNAXO3Ifd6h) | 3:38 |
 | 9 | [Defender](https://open.spotify.com/track/437V4XGufH1ihlR6RpBlCY) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Inderbir Sidhu](https://open.spotify.com/artist/13OwxGA9oZ2lfD0okFH46g), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Defender](https://open.spotify.com/album/2t7GYKilGPmRbCfwYrZGxS) | 3:10 |
 | 10 | [HIGH EARNINGS](https://open.spotify.com/track/7o3bBa578WzjQJXJ4bpDDt) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [4 Shots](https://open.spotify.com/album/4vnsOWih1SSzGA2V4t7F2m) | 3:02 |
 | 11 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Jagdeep Sangala](https://open.spotify.com/artist/11yV8UErIJ7UgqtNmUBJB8), [Mann](https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |

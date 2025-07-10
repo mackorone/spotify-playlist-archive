@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 138117,
+  "num_followers": 138140,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGsOAAAAAAD3EGr7qhXlqHqP05/M5seE",
+  "snapshot_id": "aGxfgAAAAAAu6YaZK7iJukDI75k4b1uA",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Panic of Girls",
+        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "What I Heard",
+      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Curse of Blondie",
         "url": "https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 239040,
       "name": "End to End",
       "url": "https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live in San Francisco 1977, Vol. 1 (HQ Remastered)",
-        "url": "https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 39393,
-      "name": "Warm-Up",
-      "url": "https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panic of Girls",
-        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
+        "name": "Live in San Francisco 1977, Vol. 1 (HQ Remastered)",
+        "url": "https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 197533,
-      "name": "What I Heard",
-      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
+      "duration_ms": 39393,
+      "name": "Warm-Up",
+      "url": "https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc"
     },
     {
       "added_at": null,

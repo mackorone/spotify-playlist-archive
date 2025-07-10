@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Loopy) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Loco(\ub85c\uaf2c)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 171200,
       "name": "Astronaut In The Ocean - Loopy, Owen & Bloo Remix",
       "url": "https://open.spotify.com/track/3cZZVwgrgQSS9m1yFIJ9Ea"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 122000,
       "name": "Bokdukbang",
       "url": "https://open.spotify.com/track/4hbTXShEqT58auNWQ7KCKG"
@@ -5238,7 +5238,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 147359,
       "name": "CAVIAR",
       "url": "https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5"
@@ -8071,6 +8071,24 @@
     },
     {
       "album": {
+        "name": "SCRAPS",
+        "url": "https://open.spotify.com/album/7xBLG0BG8IalE2fIwpyt85"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158120,
+      "name": "Eh freestyle",
+      "url": "https://open.spotify.com/track/4XbPK3sYAamzpttCcI7Xrd"
+    },
+    {
+      "album": {
         "name": "EMPIRE",
         "url": "https://open.spotify.com/album/7jOpeL5oc6afi8PpkgAWoF"
       },
@@ -8440,6 +8458,24 @@
       "duration_ms": 224769,
       "name": "Family First (Feat. Ja Mezz, Chillin Homie, Maginot)",
       "url": "https://open.spotify.com/track/4cu3AHwADP5ny7RGPbckBn"
+    },
+    {
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK"
     },
     {
       "album": {
@@ -18508,7 +18544,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 219183,
       "name": "OH SHXT REMIX",
       "url": "https://open.spotify.com/track/2pv9l7j3e2uGGROE7cItco"
@@ -28465,6 +28501,24 @@
     },
     {
       "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157191,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/6zRZyfYNsvgl1y6H5mkR1x"
+    },
+    {
+      "album": {
         "name": "DETOX",
         "url": "https://open.spotify.com/album/7m19gNs0FsdoiVcebNhl19"
       },
@@ -29230,6 +29284,24 @@
       "duration_ms": 240933,
       "name": "ya aint gang",
       "url": "https://open.spotify.com/track/2GSbSyOcbRvhMhkRWuUvVp"
+    },
+    {
+      "album": {
+        "name": "YAHO",
+        "url": "https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8"
+      },
+      "artists": [
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "YAHO",
+      "url": "https://open.spotify.com/track/4FYrpuQ8d3jdMnhCYiNrFM"
     },
     {
       "album": {

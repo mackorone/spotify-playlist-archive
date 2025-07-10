@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,566 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,589 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Aapli Yaari \(feat\. Adarsh Shinde & Sonali Sonawane\)](https://open.spotify.com/track/0P7QtX3D8lw9Ws8zy1SaTn) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3) | [Aapli Yaari \(feat\. Adarsh Shinde & Sonali Sonawane\)](https://open.spotify.com/album/7hnkrHkIiLVtgg67fR0NG4) | 4:54 |
 | 43 | [Galavar Khali \- Remix](https://open.spotify.com/track/6vaP1f4kGH0Pp7PYrg3IFb) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy), [Philip Larsen](https://open.spotify.com/artist/36HGWVjzOS2QP0sv1d4cws) | [Galavar Khali \- Single](https://open.spotify.com/album/4RH0XzRqLlC3GHDNGrL9SY) | 5:11 |
 
-Snapshot ID: `aEalzQAAAABKMdVHMv37SlLNqixSisLX`
+Snapshot ID: `aG40ZwAAAABKdsXsMuAi/1zadEm3vrcj`

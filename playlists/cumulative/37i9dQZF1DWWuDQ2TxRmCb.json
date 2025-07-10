@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Best of the modern folk artists! Cover- Indian Ocean",
+  "description": "Best of the modern folk artists! Cover- Kabir Cafe",
   "name": "Folk in India",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 201646,
       "name": "Bayo | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/0tl9Sdjl9pEIhiymw1YMUy"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 246822,
       "name": "Hukus Bukus",
       "url": "https://open.spotify.com/track/7jo5tmRMOKlfBg1LLzodB5"
@@ -1552,6 +1552,24 @@
       "duration_ms": 210909,
       "name": "Mahadeva",
       "url": "https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1"
+    },
+    {
+      "album": {
+        "name": "Panchrang",
+        "url": "https://open.spotify.com/album/4qsUOnusaOfaWLEVye5ekB"
+      },
+      "artists": [
+        {
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365672,
+      "name": "Matkar Maya Ko Ahankar",
+      "url": "https://open.spotify.com/track/18dts4OqWOQTGFlMTGodkk"
     },
     {
       "album": {
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Saacha Sahib",
       "url": "https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN"

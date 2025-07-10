@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Boslen
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,618 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,626 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 36 | [OK!](https://open.spotify.com/track/06a6mc2yUe5mzWduZ46vK0) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [OK!](https://open.spotify.com/album/5zt9BqjjEKOIgAYiwgf46b) | 2:04 |
 | 37 | [FLEX MAN'!](https://open.spotify.com/track/7CRjSqkVFEUZb0zesVtYrl) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [WiFiGawd](https://open.spotify.com/artist/2tM4YvbGRPeHpxdD6PqLwe), [Flow Clark](https://open.spotify.com/artist/43nFOwQey7Bz7ttphB5cKC) | [FLEX MAN'!](https://open.spotify.com/album/5Jrv0cYqxOxSQChU3U2x3B) | 2:36 |
 | 38 | [Banned From NO \(with Nicki Minaj\) \- Remix](https://open.spotify.com/track/0w6Y7dbsjByFQ8C8LUktto) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tha Carter VI \(Bonus\)](https://open.spotify.com/album/5eczdMiRvq3ZB0ogylQOLD) | 3:23 |
-| 39 | [Riders](https://open.spotify.com/track/4sDBZEJmOSKcjFI3o61f1Z) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r), [Damien Cruise](https://open.spotify.com/artist/57yxsvhbdHwL21M5G8zId1), [Isaac](https://open.spotify.com/artist/0CsHXTwppha2FCaxOve4bR) | [Riders](https://open.spotify.com/album/7BPMyyBB1lVvwrCVMI0JNH) | 3:37 |
+| 39 | [Riders](https://open.spotify.com/track/4sDBZEJmOSKcjFI3o61f1Z) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r), [Damien Cruise](https://open.spotify.com/artist/57yxsvhbdHwL21M5G8zId1), [Isaac](https://open.spotify.com/artist/0ecR98huOAcwFeo9MqllTY) | [Riders](https://open.spotify.com/album/7BPMyyBB1lVvwrCVMI0JNH) | 3:37 |
 | 40 | [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 |
 | 41 | [CHICOS DEL NORTE](https://open.spotify.com/track/1SVPQpF0eftPjGdooAtrr9) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [CHICOS DEL NORTE](https://open.spotify.com/album/5A11xkG6IA0aOnGZHw7K3F) | 2:49 |
 | 42 | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/album/6pqnNGhTMgWt2nvMIn7QlD) | 4:14 |

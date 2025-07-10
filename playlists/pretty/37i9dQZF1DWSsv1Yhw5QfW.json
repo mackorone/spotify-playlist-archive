@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 145214,
+  "num_followers": 145267,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "Joyride (2009 Version)",
+        "url": "https://open.spotify.com/album/5Q4kTNheoI86WVk1YQKt4x"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 275666,
+      "name": "Spending My Time",
+      "url": "https://open.spotify.com/track/18eqtLHIuDSnx54o0IRUy0"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "Clapton Chronicles: The Best of Eric Clapton",
         "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 271760,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Ode To My Family",
-      "url": "https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Joyride (2009 Version)",
-        "url": "https://open.spotify.com/album/5Q4kTNheoI86WVk1YQKt4x"
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 275666,
-      "name": "Spending My Time",
-      "url": "https://open.spotify.com/track/18eqtLHIuDSnx54o0IRUy0"
+      "duration_ms": 271533,
+      "name": "Ode To My Family",
+      "url": "https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6"
     },
     {
       "added_at": "2024-06-14 18:07:20",

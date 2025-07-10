@@ -4,12 +4,12 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-608 songs - 1 day 6 hr 59 min
+609 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16](https://open.spotify.com/track/1DaiV2h1XWvqpyxJ25Q6Cs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [16](https://open.spotify.com/album/6gmvmAQvthM3tyXqOaOyFX) | 3:41 | 2024-03-28 | 2024-07-12 |
-| [2 Night](https://open.spotify.com/track/3IHBOimY7pTnckKkRgrCQt) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F), [Njira](https://open.spotify.com/artist/6aCja1B7FeanWzEfEUUc9Q) | [2 Night](https://open.spotify.com/album/1LcvpvND8bNNWp4E5o34UC) | 2:47 | 2024-11-06 |  |
+| [2 Night](https://open.spotify.com/track/3IHBOimY7pTnckKkRgrCQt) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F), [Njira](https://open.spotify.com/artist/6aCja1B7FeanWzEfEUUc9Q) | [2 Night](https://open.spotify.com/album/1LcvpvND8bNNWp4E5o34UC) | 2:47 | 2024-11-06 | 2025-07-10 |
 | [99 Portraits \- Original Mix](https://open.spotify.com/track/51kxfGlEa9Ay3MjATPHOnp) | [Andres Campo](https://open.spotify.com/artist/0vkvkNBVrXTfgkuPqI7JgL) | [Forget](https://open.spotify.com/album/0fwZXdYLVaAUP4xushrwjP) | 8:14 | 2022-12-27 | 2023-01-03 |
 | [A Fighter](https://open.spotify.com/track/7vLHZeYYQH7TzxGEu4McEg) | [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Filium](https://open.spotify.com/artist/5NmVdzjUHW5OLgyQQIV2cz) | [A Fighter](https://open.spotify.com/album/3d8wCMCjunr1uX6YUOe0md) | 3:22 | 2022-04-14 | 2022-04-21 |
 | [Abaajo](https://open.spotify.com/track/6GGG6iZ63MRW56DR4YXjrq) | [Abstraal](https://open.spotify.com/artist/40AV3mbN9E0GfZBImkSn5Q), [Skuro \(IT\)](https://open.spotify.com/artist/1IhNa18PPS7VIpz8LNaIHJ) | [Abaajo](https://open.spotify.com/album/21SJQEEJqp25BfIdKdlrBU) | 2:38 | 2025-03-27 | 2025-04-04 |
@@ -416,6 +416,7 @@
 | [PYDNA](https://open.spotify.com/track/4Mx6HSutoU1rg1jCvc5kuF) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [The Lost DNA Vol\. 1](https://open.spotify.com/album/2if1uyAoRxb02j6nCuyTzp) | 4:22 | 2022-04-14 | 2022-07-29 |
 | [Pyramid Rave](https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Pyramid Rave / Feel The Energy](https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR) | 2:36 | 2024-06-27 | 2025-05-30 |
 | [Quantum](https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Quantum](https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo) | 2:58 | 2022-04-14 | 2023-12-21 |
+| [Quantum Glitch](https://open.spotify.com/track/4bDPVSHBXnjuqU6Wqx9sTi) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Quantum Glitch](https://open.spotify.com/album/4Za1sMSUZSWjTohG72Hd6P) | 2:35 | 2025-07-03 |  |
 | [Quechua](https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Quechua](https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq) | 2:59 | 2022-04-14 | 2023-08-25 |
 | [Rage](https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Rage](https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq) | 2:55 | 2022-10-14 | 2022-12-24 |
 | [Raindrops \(feat\. Chacel\)](https://open.spotify.com/track/1HGJjjDGNT5uhoNRRGt8Z7) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [Raindrops \(feat\. Chacel\)](https://open.spotify.com/album/055tVJgIFKSITtfVjDJbPE) | 3:05 | 2022-04-14 | 2022-07-28 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Joris Voorn
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Arodes, Andrea Oliva &amp; Antagonite
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 267,171 likes - 208 songs - 11 hr 6 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 267,126 likes - 208 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 207 | [Flashdance \- Deep Dish Does The Chug Remix](https://open.spotify.com/track/4UnkTkVICLjugSNhyDkHo3) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Flashdance](https://open.spotify.com/album/2KUAEIvek1mWKGSyyKoWG2) | 3:15 |
 | 208 | [Let Me Show You](https://open.spotify.com/track/2a7EPJ2PxMr2S4gRmKFmCR) | [Camisra](https://open.spotify.com/artist/1aHPNBPSjYv4vHc2pU37Xf), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Let Me Show You](https://open.spotify.com/album/3roc1FTj57pjPGUPzvO8Gy) | 2:47 |
 
-Snapshot ID: `AADUXK6PNpZOwtVfd77z1UqdQ0sqDSqk`
+Snapshot ID: `AADUXRyEtLwzePgzE6bUTq2J0XfPO1Za`

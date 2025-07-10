@@ -4,7 +4,7 @@
 
 > 
 
-594 songs - 1 day 6 hr 22 min
+595 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-08-22 | 2023-09-22 |
 | [Balling](https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Balling](https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv) | 3:40 | 2024-07-19 | 2025-03-15 |
 | [Balling \(feat\. Songer, Mr Traumatik, Devilman & OneDa\) \- Edit](https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Balling \(feat\. Songer, Mr Traumatik, Devilman & OneDa\) \[Edit\]](https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay) | 4:26 | 2022-04-15 | 2024-01-13 |
-| [Be My Lover](https://open.spotify.com/track/4CMMYnsYsM7gY3Gf7j10yf) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [Be My Lover](https://open.spotify.com/album/5ej6OUxhJ6XNey2Il4svaW) | 2:35 | 2025-03-14 |  |
+| [Be My Lover](https://open.spotify.com/track/4CMMYnsYsM7gY3Gf7j10yf) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [Be My Lover](https://open.spotify.com/album/5ej6OUxhJ6XNey2Il4svaW) | 2:35 | 2025-03-14 | 2025-07-10 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2022-04-15 | 2023-11-10 |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-04-15 | 2023-09-22 |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-31 | 2024-01-13 |
@@ -227,6 +227,7 @@
 | [Hate Love \(feat\. S.E.N\)](https://open.spotify.com/track/34sk8sbh2rQw6o2DbAQ3Ee) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [S.E.N](https://open.spotify.com/artist/7wAJdqoqfSGkDG188fWHxX) | [Hate Love \(feat\. S.E.N\)](https://open.spotify.com/album/1GMsPeiBmxM1qi5pX3WDIy) | 2:47 | 2022-04-15 | 2022-07-09 |
 | [Head & Heart \(feat\. MNEK\) \- Jack Back Remix](https://open.spotify.com/track/3mqaar0af7iZ7nxBBt9gtQ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Head & Heart \(feat\. MNEK\) \[Jack Back Remix\]](https://open.spotify.com/album/4a8GV401LJubwN19Zvyx1v) | 4:19 | 2022-04-15 | 2022-07-22 |
 | [Healing](https://open.spotify.com/track/3zku3ISHlmoMyl6xV3M3Aw) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Healing](https://open.spotify.com/album/2yJ4FbCE8CCFwFwmoOHTIR) | 4:04 | 2022-04-15 | 2022-06-18 |
+| [Heartbeat](https://open.spotify.com/track/42z3F0ZAieWd7RmyOuuqqH) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Heartbeat](https://open.spotify.com/album/1Q4zTa81s8VP7IassEY19p) | 3:02 | 2025-07-03 |  |
 | [Heartbreak](https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/5bcLZ1o7ub4dgrVhaQBlDG) | 2:50 | 2022-08-22 | 2023-01-01 |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-07-13 |  |
 | [Hella Good](https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [Hella Good](https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn) | 2:55 | 2024-01-04 | 2024-06-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,306 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,360 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 | 45 | [Bae](https://open.spotify.com/track/4n7h0fD56BijrFnxNJ2ifV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 4:02 |
 | 46 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 |
 | 47 | [Rowdy Baby](https://open.spotify.com/track/0Tm5ER6IrGfmW0yZ5lkQli) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Rowdy Baby \(From 'Maari 2' Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OtXwT06jhIGwJdSUHYFjY) | 4:41 |
-| 48 | [Maruvaarthai](https://open.spotify.com/track/4FyZDLPO1ErUjzwnLrCLTA) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maruvaarthai \(From 'Enai Noki Paayum Thota'\)](https://open.spotify.com/album/52t86OJEvtWbYRUaA2ltEZ) | 5:56 |
-| 49 | [Oxygen](https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m) | [Hiphop Tamizha,Sudarshan Ashok](https://open.spotify.com/artist/5Uj9KvhWJBUZQpuTeHslo9) | [Kavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9) | 4:34 |
+| 48 | [Oxygen](https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m) | [Hiphop Tamizha,Sudarshan Ashok](https://open.spotify.com/artist/5Uj9KvhWJBUZQpuTeHslo9) | [Kavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9) | 4:34 |
+| 49 | [Maruvaarthai](https://open.spotify.com/track/4FyZDLPO1ErUjzwnLrCLTA) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maruvaarthai \(From 'Enai Noki Paayum Thota'\)](https://open.spotify.com/album/52t86OJEvtWbYRUaA2ltEZ) | 5:56 |
 | 50 | [Pudichirukku \(From "Saamy"\)](https://open.spotify.com/track/1pcaKy7y1TlW4QnQ1UDnZJ) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Komal Ramesh](https://open.spotify.com/artist/4WXYexOjUCh1JdodifMeRA), [Mahathi](https://open.spotify.com/artist/5YeT9gYVH3yHYwKPmUdmJK) | [Saamy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SEX0ZJdIoxmvAG07SBZpU) | 5:03 |
 
 Snapshot ID: `aC7S+gAAAABCHijOlSh/LstoLxlOYwIn`

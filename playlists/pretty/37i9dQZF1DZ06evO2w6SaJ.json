@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6646,
+  "num_followers": 6650,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGsOAAAAAABlzHpwnePee20yaUeE+YAa",
+  "snapshot_id": "aGxfgAAAAAATz/g/ITa1swO83WNhj4bU",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 216733,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The D4tour",
-        "url": "https://open.spotify.com/album/6SImeP4mkkkcFWYDmsgzh9"
-      },
-      "artists": [
-        {
-          "name": "Ekoh",
-          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 160289,
-      "name": "Butterfly 2021",
-      "url": "https://open.spotify.com/track/6HOgqo3YPmtvrEeKvgDtl9"
     },
     {
       "added_at": null,
@@ -67,6 +47,26 @@
       "duration_ms": 228493,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The D4tour",
+        "url": "https://open.spotify.com/album/6SImeP4mkkkcFWYDmsgzh9"
+      },
+      "artists": [
+        {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 160289,
+      "name": "Butterfly 2021",
+      "url": "https://open.spotify.com/track/6HOgqo3YPmtvrEeKvgDtl9"
     },
     {
       "added_at": null,
@@ -211,22 +211,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
+        "name": "Starry Eyed Surprise",
+        "url": "https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl"
       },
       "artists": [
         {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         },
         {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+          "name": "Shifty Shellshock",
+          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 202197,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
+      "duration_ms": 191039,
+      "name": "Starry Eyed Surprise",
+      "url": "https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc"
     },
     {
       "added_at": null,
@@ -271,26 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starry Eyed Surprise",
-        "url": "https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
       },
       "artists": [
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Shifty Shellshock",
-          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
-        },
-        {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
         }
       ],
-      "duration_ms": 191039,
-      "name": "Starry Eyed Surprise",
-      "url": "https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc"
+      "duration_ms": 202197,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Take It To The Bridge",
-      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196160,
+      "name": "Take It To The Bridge",
+      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
     },
     {
       "added_at": null,

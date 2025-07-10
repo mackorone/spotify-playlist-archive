@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: 1550 Collective
 
-274 songs - 15 hr 34 min
+275 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Amboy Shit \- Remix](https://open.spotify.com/track/4VcZYr4uByjtmwAsoIypBs) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Amboy Shit \(Remix\)](https://open.spotify.com/album/298TlujqrKvwxUrfoGwKJj) | 2:48 | 2023-11-22 | 2024-04-11 |
 | [Aminin](https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX) | [Pricetagg](https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv), [Zae](https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L) | [Aminin](https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy) | 3:37 | 2023-09-20 | 2023-12-14 |
 | [Angas](https://open.spotify.com/track/3IIGy47BCYha6zZ3sto7Vl) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Trifecta](https://open.spotify.com/album/5NAUTZ43wAdqA346UPOEza) | 2:39 | 2024-03-27 | 2024-07-18 |
-| [Anghel](https://open.spotify.com/track/4yh1QmiVQXuKtyAKLwZNRq) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi), [Arvy T](https://open.spotify.com/artist/5E1t9mWRm4znrI8w3cvuyN) | [Anghel](https://open.spotify.com/album/5dsPXKvxOBl4vERsTmT4SP) | 3:28 | 2025-06-11 |  |
+| [Anghel](https://open.spotify.com/track/4yh1QmiVQXuKtyAKLwZNRq) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi), [Arvy T](https://open.spotify.com/artist/5E1t9mWRm4znrI8w3cvuyN) | [Anghel](https://open.spotify.com/album/5dsPXKvxOBl4vERsTmT4SP) | 3:28 | 2025-06-11 | 2025-07-10 |
 | [Answer The G](https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi) | [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [ANSWER THE G](https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA) | 2:48 | 2024-05-08 |  |
 | [Anytime](https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW), [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Anytime](https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN) | 4:19 | 2023-09-20 | 2023-12-30 |
 | [ARÁL](https://open.spotify.com/track/0b58IHPRtTbBv48sOwc6Vr) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Apekz](https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn), [Ron Henley](https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f), [Abra](https://open.spotify.com/artist/0e7I5fhtxrhsH8xrjGGDiv) | [ARÁL](https://open.spotify.com/album/2otfhblFnjovKbuiZSYbHF) | 3:40 | 2023-10-04 | 2023-11-11 |
@@ -50,6 +50,7 @@
 | [Balagbag](https://open.spotify.com/track/3s1BMSp0yxKDbTo6MDeueq) | [Don Pao](https://open.spotify.com/artist/7HnBKbjSa10sPCoX3HMp8Z), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Martial Lao](https://open.spotify.com/album/2NU7PW7QQdrrGDwDIUZxk6) | 4:47 | 2024-10-17 | 2025-01-02 |
 | [BINI MALOI](https://open.spotify.com/track/2Ia1oPvRunyLOdMXEZtro0) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [BINI MALOI](https://open.spotify.com/album/0dqdAUibDaGocFnCWBhlgb) | 2:01 | 2025-03-13 |  |
 | [Binibini](https://open.spotify.com/track/3xj36WMIDSWRxfbasS4Pi8) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Binibini](https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp) | 2:34 | 2024-06-12 | 2024-08-15 |
+| [BLGBGN](https://open.spotify.com/track/1SlotOoDL2qspCgrxnHYbU) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [BLGBGN](https://open.spotify.com/album/6A2eoN2WIOChU8hKFPBgCH) | 3:53 | 2025-07-10 |  |
 | [BLING](https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [BLING](https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat) | 2:28 | 2023-12-13 | 2024-02-22 |
 | [BLKN](https://open.spotify.com/track/2Hz7cjuVTYAaydpHg60g9H) | [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [BLKN](https://open.spotify.com/album/09hU9mWpc5dbEGvegmRKzL) | 3:21 | 2025-01-22 | 2025-02-20 |
 | [Blue Dreams](https://open.spotify.com/track/5pVvdDwAZxmUAJQt3XHwnG) | [Apekz](https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [Blue Dreams](https://open.spotify.com/album/4i465DRqEPPqTS1nSRhPRG) | 3:49 | 2024-01-24 | 2024-08-29 |

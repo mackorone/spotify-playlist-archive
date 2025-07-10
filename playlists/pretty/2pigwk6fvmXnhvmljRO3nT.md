@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,369 songs - 19 day 3 hr 39 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,376 songs - 19 day 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3911,7 +3911,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 3901 | [No Complaints \(feat\. Offset & Drake\) \(Bonus\)](https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 |
 | 3902 | [ANGELZ](https://open.spotify.com/track/180KvPWfy3IUEbuzPUn5wv) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 3:05 |
 | 3903 | [Arrow Root](https://open.spotify.com/track/0qlrVIgcx8ScMCGIw5xgxO) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Metal Fingers Presents: Special Herbs, The Box Set Vol\. 0 \- 9](https://open.spotify.com/album/3QiZaIVgSMuznmUNLPMG8t) | 2:10 |
-| 3904 | [Eucalyptus](https://open.spotify.com/track/0pcg2zZQOw0G0ZYbjS6smW) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Metal Fingers Presents: Special Herbs Vol\. 1 & 2](https://open.spotify.com/album/6Lb2W6WHB61chKy3HK3dMX) | 2:43 |
+| 3904 | [Eucalyptus](https://open.spotify.com/track/0pcg2zZQOw0G0ZYbjS6smW) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Metal Fingers Presents: Special Herbs, Vol\. 1 & 2](https://open.spotify.com/album/6Lb2W6WHB61chKy3HK3dMX) | 2:43 |
 | 3905 | [Hoe Cakes](https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:54 |
 | 3906 | [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 |
 | 3907 | [Deep Fried Frenz](https://open.spotify.com/track/4q71zOiiFoDaVQCQcE6jcp) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:59 |
@@ -7377,5 +7377,12 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7367 | [夜に溺れる ～Re:Re:～](https://open.spotify.com/track/6tgB4gsvLspaZwPHnrDuLX) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [CRYSTAL.](https://open.spotify.com/album/4YVShtpzBMkOUUWHbUfNXQ) | 3:50 |
 | 7368 | [憂鬱、日々 ～Re:set～](https://open.spotify.com/track/15wwNskmEKp1MEIdoKOxL6) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [CRYSTAL.](https://open.spotify.com/album/4YVShtpzBMkOUUWHbUfNXQ) | 4:50 |
 | 7369 | [MOONLIGHT](https://open.spotify.com/track/14k4ALBLN2FjtELYDcQUoi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:39 |
+| 7370 | [Number One \- Bankai](https://open.spotify.com/track/3w5Fha9feEdRp6FZ29tU2O) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 4:46 |
+| 7371 | [clavar la espada](https://open.spotify.com/track/4QRCdMTZegDH27rOUbOEFY) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 3:39 |
+| 7372 | [FLY ME TO THE MOON \- YOKO TAKAHASHI Acid Bossa Version](https://open.spotify.com/track/3ia8uKWZIDLp8hKm18zuNS) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [高橋　洋子](https://open.spotify.com/artist/7E5MrVWMFeqB4lK3xCEL6B) | [NEON GENESIS EVANGELION \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 3:50 |
+| 7373 | [going home](https://open.spotify.com/track/2ND8SkQ3Rav1x4zpmTwA3E) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:33 |
+| 7374 | [on the precipice of defeat](https://open.spotify.com/track/32SYEk2ksN8iQtz50AtHYj) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:57 |
+| 7375 | [never meant to belong](https://open.spotify.com/track/0CCt7uzp4MBYR85wugmkGa) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 5:26 |
+| 7376 | [Treachery](https://open.spotify.com/track/6a7su3dkJJXidSuFiowJC2) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 3:22 |
 
-Snapshot ID: `AAAHggcs2oJkJFPOXk0ScYOP6nM72lbz`
+Snapshot ID: `AAAHiIEpVB1cH12jQXy14mrEA60bJspG`

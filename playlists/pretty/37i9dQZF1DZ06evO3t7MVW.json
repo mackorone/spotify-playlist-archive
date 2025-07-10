@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 87896,
+  "num_followers": 87932,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGsOAAAAAAAprlyuAA37zvdDOy+TkhdD",
+  "snapshot_id": "aGxfgAAAAADdOYFKvZW8Ugm0QA3m1DNT",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Love (with Stick Figure)",
-        "url": "https://open.spotify.com/album/1xzKO7tdVCsQuGrRYWxwnb"
-      },
-      "artists": [
-        {
-          "name": "Sensamotion",
-          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 194225,
-      "name": "Show Love (with Stick Figure)",
-      "url": "https://open.spotify.com/track/77sjqCc9fDW6YdQ1NpAUyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Like That (feat. Bradley Nowell)",
         "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 227554,
       "name": "Feel Like That (feat. Bradley Nowell)",
       "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Love (with Stick Figure)",
+        "url": "https://open.spotify.com/album/1xzKO7tdVCsQuGrRYWxwnb"
+      },
+      "artists": [
+        {
+          "name": "Sensamotion",
+          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 194225,
+      "name": "Show Love (with Stick Figure)",
+      "url": "https://open.spotify.com/track/77sjqCc9fDW6YdQ1NpAUyo"
     },
     {
       "added_at": null,

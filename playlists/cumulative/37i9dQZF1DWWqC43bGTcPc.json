@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "555 666 888 33",
+        "url": "https://open.spotify.com/album/1zZScbUq5oOTxjQGphlfql"
+      },
+      "artists": [
+        {
+          "name": "3P",
+          "url": "https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "555 666 888 33",
+      "url": "https://open.spotify.com/track/2HBJ5IB7F1N7QQhIT9PNLc"
+    },
+    {
+      "album": {
         "name": "Dance on the Shoreline",
         "url": "https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI"
       },
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 201276,
       "name": "\u4e0d\u60f3\u548c\u4f60\u5206\u958b",
       "url": "https://open.spotify.com/track/75j9P6i2s9iXP81PHHzP5F"
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 187862,
       "name": "\u4fb5\u611b\u7684",
       "url": "https://open.spotify.com/track/3KpEurrnrmdhqsR2wyAZ9B"
@@ -3902,6 +3920,24 @@
       "duration_ms": 186263,
       "name": "\u505a\u4f60\u7684\u683c",
       "url": "https://open.spotify.com/track/01KDzPqoYKiUSV54SKWEHf"
+    },
+    {
+      "album": {
+        "name": "\u505a\u6211\u7684\u521d\u6200",
+        "url": "https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "\u505a\u6211\u7684\u521d\u6200",
+      "url": "https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB"
     },
     {
       "album": {
@@ -6886,7 +6922,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 272424,
       "name": "\u5fc3\u81df\u7684\u53f3\u908a / Right Side of My Heart (feat. \u9b4f\u5982\u8431)",
       "url": "https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54"
@@ -7392,7 +7428,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 240685,
       "name": "\u611b\u4e86",
       "url": "https://open.spotify.com/track/7AMKmzAOQlulJxEh5lcklH"
@@ -12137,6 +12173,28 @@
     },
     {
       "album": {
+        "name": "\u7cfe\u7d50\u91cd\u555f",
+        "url": "https://open.spotify.com/album/2eY4f34rfEOcK0iO714ybu"
+      },
+      "artists": [
+        {
+          "name": "\u741f\u5a1c Verna",
+          "url": "https://open.spotify.com/artist/66gwqjmihplb7x3FUfqzWH"
+        },
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214455,
+      "name": "\u7cfe\u7d50\u91cd\u555f",
+      "url": "https://open.spotify.com/track/3tzxVED05RCsRNOQJElq98"
+    },
+    {
+      "album": {
         "name": "LUNARFACE",
         "url": "https://open.spotify.com/album/5ZzlRR3ODf69DbXafWYIBn"
       },
@@ -12995,6 +13053,24 @@
     },
     {
       "album": {
+        "name": "\u898b\u5b57\u5982\u9762",
+        "url": "https://open.spotify.com/album/3kuLnRjzubwsrIgIfxginM"
+      },
+      "artists": [
+        {
+          "name": "\u8521\u660e\u4ec1",
+          "url": "https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277830,
+      "name": "\u898b\u5b57\u5982\u9762",
+      "url": "https://open.spotify.com/track/6cpmXTXrTBIdZVXbV5hfGh"
+    },
+    {
+      "album": {
         "name": "\u89aa\u611b\u7684\u5bf6\u5bf6",
         "url": "https://open.spotify.com/album/2XtO93eMVdyGbw29xJlZoF"
       },
@@ -13082,6 +13158,24 @@
       "duration_ms": 207837,
       "name": "\u8a08\u7b97\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/6RgaphGUet4wZ0K75jVxs6"
+    },
+    {
+      "album": {
+        "name": "\u8a0e\u7f75\u7684 \u76f4\u5230\u4eca\u5929\u9084\u662f\u4e0d\u9858\u5c0d\u4f60\u8aaa\u9ad2\u8a71",
+        "url": "https://open.spotify.com/album/4QsWZhxfNHNACrRrTe5zp8"
+      },
+      "artists": [
+        {
+          "name": "Yoga Lin",
+          "url": "https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232285,
+      "name": "\u8a0e\u7f75\u7684 \u76f4\u5230\u4eca\u5929\u9084\u662f\u4e0d\u9858\u5c0d\u4f60\u8aaa\u9ad2\u8a71",
+      "url": "https://open.spotify.com/track/1x5zx0v2wAclQ3sxsET5fo"
     },
     {
       "album": {
@@ -14148,7 +14242,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 208208,
       "name": "\u9192\u4f86\u767c\u73fe\u4f60\u4e0d\u5728(\u96fb\u5f71\u300a\u5e73\u884c\u9752\u6625\u7684\u6211\u5011\u300b\u4e2d\u6587\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/3mMLVZHJg20OTzZ9SoJ38j"
@@ -14166,7 +14260,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 153706,
       "name": "\u91cc\u9577Bro",
       "url": "https://open.spotify.com/track/2psGeiGdpcIEX0yRUJp5cr"
@@ -14744,6 +14838,28 @@
       "duration_ms": 250900,
       "name": "\u990a\u5206",
       "url": "https://open.spotify.com/track/1NMwyTTQyUUtGI34rmUYMU"
+    },
+    {
+      "album": {
+        "name": "\u9999\u6c34",
+        "url": "https://open.spotify.com/album/4jcboTdzhoEarLTCwb0zwh"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Tse",
+          "url": "https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP"
+        },
+        {
+          "name": "Nana Ou-Yang",
+          "url": "https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290492,
+      "name": "\u9999\u6c34",
+      "url": "https://open.spotify.com/track/3Gmllm7uwfVYkaN4alhrVM"
     },
     {
       "album": {

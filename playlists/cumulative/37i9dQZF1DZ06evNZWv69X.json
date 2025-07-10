@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Mar de Copas",
+        "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "A Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4WCSBCzZECsciwZQZvTk8q"
+    },
+    {
+      "album": {
         "name": "El Soundtrack de una Vida",
         "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
       },
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 210946,
       "name": "Ni para Rogar un Beso",
       "url": "https://open.spotify.com/track/7ahXvgKXKHbLLDcf6F9adS"

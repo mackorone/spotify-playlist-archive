@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Octavio Cuadras
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,759 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,790 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 26 | [Solo Mírame](https://open.spotify.com/track/1Qs5cp2IgnaHhdqRtkrpZU) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Solo Mírame](https://open.spotify.com/album/3ZUKgakvlTMOv23D6Yu5lk) | 4:22 |
 | 27 | [Viejo Lobo](https://open.spotify.com/track/1eeNmY4kHSjBcVIILy749q) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Viejo Lobo](https://open.spotify.com/album/0Jd14IGeBUN8KWaa2SGlU7) | 2:31 |
 | 28 | [Party](https://open.spotify.com/track/6N4xfHYsqecc6UX6C3aF08) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Party](https://open.spotify.com/album/1sSE5XQ2dCpLxitP86h4es) | 3:10 |
-| 29 | [Homenaje a Los Tigres del Norte](https://open.spotify.com/track/4iTf8F29Zhw80ZlG9CmURJ) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [De Puro Pedo Pa' Bailar Y Pistear](https://open.spotify.com/album/3OnR6z16BZSbAiYLolNVFU) | 7:47 |
+| 29 | [Homenaje a Los Tigres del Norte](https://open.spotify.com/track/4iTf8F29Zhw80ZlG9CmURJ) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Old School Pa' Bailar y Pistear](https://open.spotify.com/album/3OnR6z16BZSbAiYLolNVFU) | 7:47 |
 | 30 | [El Proceso \- En Vivo](https://open.spotify.com/track/0UK3yoRU95qu489aXFf6CJ) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [El Proceso \(En Vivo\)](https://open.spotify.com/album/3LCnhWUQC7ugoCWQgkSyCe) | 3:15 |
 | 31 | [Fresa y Bandolero](https://open.spotify.com/track/0BImnfOxmOGyFGwkgEdsFZ) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Fresa y Bandolero](https://open.spotify.com/album/1PIq8kK1xHucWofMXmCrzy) | 2:51 |
 | 32 | [El Día De Su Boda](https://open.spotify.com/track/7yiwQo6HjR4s1krNbcHvtw) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [El Día De Su Boda](https://open.spotify.com/album/1WbMFGbXyvPbLq4pGDI9oW) | 3:15 |
 | 33 | [Vuelve Por Favor](https://open.spotify.com/track/0VhUuxn3q814Hr7tPUYXD9) | [La Imponente Vientos de Jalisco](https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7) | [Vuelve Por Favor](https://open.spotify.com/album/16ecTqZ5W1fXnQ9OTNZgOv) | 4:12 |
-| 34 | [Popurrí: ¿Cómo Estás Tú? / Te lo Pido Por Favor](https://open.spotify.com/track/4iY0sp58OJvpjVGQwl5l7U) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [De Sonora Para El Mundo](https://open.spotify.com/album/1II1iynAYvstYcE7OmnKcm) | 4:11 |
+| 34 | [Popurrí: ¿Cómo Estás Tú? / Te lo Pido Por Favor \- En Vivo](https://open.spotify.com/track/4iY0sp58OJvpjVGQwl5l7U) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [De Sonora Para El Mundo \(En Vivo\)](https://open.spotify.com/album/1II1iynAYvstYcE7OmnKcm) | 4:11 |
 | 35 | [Dime x Que](https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Dime x Que](https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg) | 2:53 |
 | 36 | [QUE CAMBIAZO](https://open.spotify.com/track/6X0pbvLwA6YbFiLIBCtJfE) | [Luis Mendivil](https://open.spotify.com/artist/75tuHgqz97sDHPCsQKugEx), [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [QUE CAMBIAZO](https://open.spotify.com/album/0WktO0FQuDaV8EVk7BfIxD) | 3:24 |
 | 37 | [Quítense de mi camino](https://open.spotify.com/track/4KyobhZPeP6TSdlHgHDpXb) | [Grupo Arraigado](https://open.spotify.com/artist/05CSQP8OYRgD04Kmj9sAT2), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Otro Nivel](https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp) | [Quítense de mi camino](https://open.spotify.com/album/0mv7B7EjLp7qWHWAmAWfI4) | 3:46 |

@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: skantia
 
-304 songs - 19 hr 49 min
+305 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 | 2024-03-22 | 2025-06-20 |
 | [Big Bad Bass](https://open.spotify.com/track/0nIaLfe57M0pACn2aU2JXZ) | [J Bookey](https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2), [Sub Zero](https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR) | [Big Bad Bass](https://open.spotify.com/album/0fk3Q1dNW4b77q1v4T4Tjt) | 4:13 | 2024-09-05 | 2024-09-13 |
 | [Big Drama](https://open.spotify.com/track/5a5wzLXJMaUhyje8NumilP) | [Inner Terrain](https://open.spotify.com/artist/4PuEXXOjaWHSXBhwciv7Qd), [Wreckless](https://open.spotify.com/artist/4zaGVlW2ju3YXrZTMdNCQE) | [Paradigm Shift](https://open.spotify.com/album/04ZnNjvV0uDjFVhGl5ykTD) | 4:52 | 2022-05-06 | 2022-07-19 |
+| [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 | 2025-07-03 |  |
 | [Bomb Squad \- A.M.C Forever Dub Version](https://open.spotify.com/track/0fP0UPEqSJ0Lv1fNm5KVAZ) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Bomb Squad](https://open.spotify.com/album/6Phf3s8ts2PKQUlHyCkjOW) | 4:45 | 2023-12-27 | 2024-01-12 |
 | [Bomb Squad \- Bou Remix](https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Bomb Squad \(Bou Remix\)](https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk) | 4:48 | 2024-03-22 | 2025-06-11 |
 | [Bonesaw](https://open.spotify.com/track/0cumlrgDodkXR7VeIKwWmK) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Bonesaw](https://open.spotify.com/album/0WpOUGGwTkA7R0CcYs5Tcj) | 4:34 | 2023-12-27 | 2024-01-12 |
@@ -90,7 +91,7 @@
 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 | 2024-10-24 |  |
 | [Dreaming](https://open.spotify.com/track/77clpxiqqJYBFfKNa7NJLO) | [ACP](https://open.spotify.com/artist/1qmlLdbLYrvNcB5nyN942Q) | [Dreaming](https://open.spotify.com/album/2u8hFIHE6i9T4c01c2wa1z) | 4:23 | 2023-12-27 | 2024-01-12 |
 | [Drop It](https://open.spotify.com/track/4I9vO5QOgxfGCOo3iwyW6v) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Drop It](https://open.spotify.com/album/4KHGh98gIT10KOj65f9jEC) | 4:09 | 2025-02-21 | 2025-05-30 |
-| [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 | 2025-04-17 |  |
+| [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 | 2025-04-17 | 2025-07-10 |
 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 | 2022-05-06 | 2025-03-21 |
 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 | 2022-05-06 | 2023-12-27 |
 | [Engage](https://open.spotify.com/track/4FH2tcOHKRGTvqGwGznCNm) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Engage](https://open.spotify.com/album/3gDD3cdVbQGa1Zf7cmSMJM) | 4:49 | 2024-11-22 | 2025-02-21 |

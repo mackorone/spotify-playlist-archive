@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: MK & Chrystal
 
-1,022 songs - 2 day 1 hr 42 min
+1,023 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/track/7KF8mOuWc31dUxtPyUng1c) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA) | 2:38 | 2025-06-25 |  |
 | [Badman Stories](https://open.spotify.com/track/2N4tITKqBDP1Mh5dw2hGTM) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Badman Stories](https://open.spotify.com/album/6Xjj2b97hKVkKSq6drhyFq) | 2:21 | 2025-03-21 | 2025-05-16 |
 | [Baguettes](https://open.spotify.com/track/5A1pmiQSDetw2cFs4lcbgd) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Baguettes](https://open.spotify.com/album/6pml3VGJafDKQOVu3Y1wT4) | 2:16 | 2023-07-31 | 2023-09-08 |
+| [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 | 2025-07-09 |  |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-16 | 2025-02-21 |
 | [BANDZ \(feat\. Emms\)](https://open.spotify.com/track/42OHLSBaf8MQMOzJf2oBlq) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [BANDZ \(feat\. Emms\)](https://open.spotify.com/album/1Eg4xGkEqragj73c36aJ9P) | 2:06 | 2023-06-22 | 2023-07-22 |
 | [Bankoe Bitches](https://open.spotify.com/track/7DlAcSie8iZGUMGeOA5vzG) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Bankoe Bitches](https://open.spotify.com/album/12ixHUBeGXdT3CU6uue9XM) | 3:03 | 2023-05-15 | 2023-06-15 |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz?si=W4wlsrdWRZOux6QlpKtkBw">Dandi Noxx</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb?si=hRifC1aNTbCGfMwf7zIAlQ">RCEE</a>\. Artwork: Isu Kim.
 
-1,356 songs - 2 day 19 hr 51 min
+1,357 songs - 2 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Best Friend](https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z), [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky) | [Best Friend](https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT) | 2:53 | 2023-06-27 | 2023-07-27 |
 | [Best Life](https://open.spotify.com/track/2gXZxlaYxNw0lQLTfwhCik) | [Acetune](https://open.spotify.com/artist/2bazTe2wxNVAq0lezuD19C) | [Best Life](https://open.spotify.com/album/1KR0X32Cg2Ie3LE2cgjUCF) | 3:18 | 2024-06-04 | 2024-07-03 |
 | [Bet On You](https://open.spotify.com/track/0owo3AxqzHgomPpnflHu5c) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Bet On You](https://open.spotify.com/album/2f0U8c3bawrNpvLJekcQ7Z) | 2:15 | 2024-12-04 | 2025-03-06 |
+| [better](https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:51 | 2025-07-09 |  |
 | [Better days](https://open.spotify.com/track/61sCbqXhobgbwnaLGvBW91) | [Billyboi](https://open.spotify.com/artist/6qx9kEpDSaiKyXcFSV2g6t) | [Better days](https://open.spotify.com/album/6Z7AucZAC72czdSv14Vycb) | 2:58 | 2023-02-22 | 2023-03-30 |
 | [Better For Myself](https://open.spotify.com/track/1j1se94FWAUADZDggJrmSM) | [Hillzy](https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta) | [In The Building](https://open.spotify.com/album/6XR7ZNhn4UNak3fXRJ02uq) | 2:37 | 2023-01-25 | 2023-02-23 |
 | [Better Sober](https://open.spotify.com/track/4C35Ob3ugnFpjhShHc5BgS) | [Castro](https://open.spotify.com/artist/35o4S4FOdo7sF0mn2Qd2O8), [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Better Sober](https://open.spotify.com/album/0q9wBc1DkBuWC4ggl1yZpJ) | 5:26 | 2024-06-04 | 2024-07-03 |
@@ -1058,7 +1059,7 @@
 | [Senses](https://open.spotify.com/track/7uCNuwc2rTq6yoCbhqa6EN) | [Uloko](https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP) | [Senses](https://open.spotify.com/album/4BAVwVuy6cTJaC371iThCH) | 2:45 | 2024-11-06 | 2024-12-05 |
 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/0Kl55thn00rFid2leXTeo9) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/1ANJrFdux0Uj3j89YlhhUh) | 2:10 | 2023-09-27 | 2023-10-26 |
 | [Service](https://open.spotify.com/track/23OzpJciOsxrB2oTrWQL3W) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Service](https://open.spotify.com/album/6RxOYbrRvkRnBaRoEknEYy) | 2:29 | 2024-10-04 | 2024-11-07 |
-| [Serwaa Akoto](https://open.spotify.com/track/0eaLGnHVVYS97BjiuQDqgn) | [Sablar](https://open.spotify.com/artist/0do4yoWrGKWLS0qNjKG2uV) | [Serwaa Akoto](https://open.spotify.com/album/4HgVZVouszetQxLvi70iDW) | 2:50 | 2025-04-10 |  |
+| [Serwaa Akoto](https://open.spotify.com/track/0eaLGnHVVYS97BjiuQDqgn) | [Sablar](https://open.spotify.com/artist/0do4yoWrGKWLS0qNjKG2uV) | [Serwaa Akoto](https://open.spotify.com/album/4HgVZVouszetQxLvi70iDW) | 2:50 | 2025-04-10 | 2025-07-10 |
 | [Seven Up](https://open.spotify.com/track/5i3ReJpjTCjGyZuxzczMuc) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv) | [Seven Up](https://open.spotify.com/album/6nWRHiyClMb8iVeCR01gBu) | 5:52 | 2024-06-04 | 2024-07-03 |
 | [SEX APPEAL](https://open.spotify.com/track/3zP864oEbAOOJm168btZfG) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv) | [SEX APPEAL](https://open.spotify.com/album/1wqYr4iyCkkYPKzLMIoPMM) | 2:58 | 2023-06-05 | 2023-06-28 |
 | [Shadow](https://open.spotify.com/track/3nRNBZWIeLWfXKvuLuyiWl) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Shadow](https://open.spotify.com/album/2cJLHEoYe1o1NkeexIWMRS) | 2:49 | 2023-02-22 | 2023-03-30 |

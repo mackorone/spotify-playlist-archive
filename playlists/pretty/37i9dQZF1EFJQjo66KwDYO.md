@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 62 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 61 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 57 | [Empress Me \(feat\. Dyo\)](https://open.spotify.com/track/6rdskhVMqqNi9bmLunVNlL) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Tales of a Miracle](https://open.spotify.com/album/70OYBk5OZSBZT3KkdQMc2K) | 3:25 |
 | 58 | [Real \(2020\)](https://open.spotify.com/track/21lMuDsWYxMxgj7e3CJYHP) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Dyologue](https://open.spotify.com/album/79O86TfpcdYXEbfCb10iWh) | 2:09 |
 | 59 | [Plans](https://open.spotify.com/track/5DUGZnE66obIeRT6efLd1q) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Dyologue](https://open.spotify.com/album/79O86TfpcdYXEbfCb10iWh) | 2:51 |
-| 60 | [With You \- Team Salut Remix](https://open.spotify.com/track/5jOTqna3o2dvQbigp6TECt) | [DUSK](https://open.spotify.com/artist/3MZOJgyDf3rGiesBu9Xil6), [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH) | [With You \(Remixes\)](https://open.spotify.com/album/4MoN9o7EsiKnjntLUNnYaa) | 3:28 |
-| 61 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
-| 62 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
+| 60 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
+| 61 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 
-Snapshot ID: `Ab2QagAAAACRtm8d5nrv40CuFWutvBlS`
+Snapshot ID: `Ab2WCgAAAABUSXNgIc7Aa42hmjpymXoc`

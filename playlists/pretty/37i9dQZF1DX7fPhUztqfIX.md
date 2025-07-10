@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: VOUS Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,405 likes - 75 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,434 likes - 75 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 17 | [You Can Have It All](https://open.spotify.com/track/0Ss1g7cnRHqd0fNlXbi2Hw) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [You Can Have It All](https://open.spotify.com/album/6y9mJuTZxPynhvnYTOugbk) | 4:23 |
 | 18 | [Holy Is The Lord \- Live](https://open.spotify.com/track/0Xd6LZbsRNhnbzl6KQxdOc) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [We Sing Holy \(Live\)](https://open.spotify.com/album/1HDJJ545xea0xVD55oUZE3) | 6:42 |
 | 19 | [Redemption Has Come \- MultiTracks Session](https://open.spotify.com/track/2UM2gXDRcF1efh8I6wi6y0) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Redemption Has Come \(MultiTracks Session\)](https://open.spotify.com/album/3iAhdazgV7ntwzqTokQH1C) | 3:43 |
-| 20 | [Fan The Flame](https://open.spotify.com/track/1xn4MhIl2JDBxwAGlYFTaG) | [Church of the King](https://open.spotify.com/artist/1fHtdTA4INi8yTju4FQA55), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Fan The Flame](https://open.spotify.com/album/1WUcpyQx1vgcvbNFC0pkpG) | 5:31 |
+| 20 | [Fan The Flame \- Live](https://open.spotify.com/track/1xn4MhIl2JDBxwAGlYFTaG) | [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31), [Church of the King](https://open.spotify.com/artist/1fHtdTA4INi8yTju4FQA55) | [Fan The Flame \(Live\)](https://open.spotify.com/album/1WUcpyQx1vgcvbNFC0pkpG) | 5:31 |
 | 21 | [Our Father \- Radio Version](https://open.spotify.com/track/6d0mkxnouQlDKSoYs72V1M) | [Jaime Jamgochian](https://open.spotify.com/artist/589zPmnl9UayJxgJAyEmpo), [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Our Father \(Radio Version\)](https://open.spotify.com/album/0C3vNgbAJSDPw7wrE667ZW) | 3:54 |
 | 22 | [Our God Reigns \(Over All The Earth\) \- Live](https://open.spotify.com/track/6AZ5rlcvoh3VHG7A6dgUuB) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Our God Reigns \(Over All The Earth\) \[Live\]](https://open.spotify.com/album/6mSgVWFisouBbLnSvvX9pl) | 9:23 |
 | 23 | [Tore the Veil](https://open.spotify.com/track/7mXkLBp1pjyF4okP2LAFAU) | [Newlands Worship](https://open.spotify.com/artist/7xOK1uz6b4wF2IntpG3Xbr), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Tore the Veil](https://open.spotify.com/album/1j7s6UY183yELCJxSi5A89) | 5:32 |

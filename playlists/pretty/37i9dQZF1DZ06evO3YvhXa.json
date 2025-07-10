@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 416696,
+  "num_followers": 416752,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGsOAAAAAABzJ9DBoMLJfP6IHF8e1o/N",
+  "snapshot_id": "aGxfgAAAAAAfSEwhMAeUzBZZg+YlF95A",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space Cowboy (Remixes)",
-        "url": "https://open.spotify.com/album/3yEBzDpFwVIfAUkeS0GYa7"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
       "artists": [
         {
           "name": "Jamiroquai",
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "David Morales",
-          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
         }
       ],
-      "duration_ms": 243913,
-      "name": "Space Cowboy (Classic Radio)",
-      "url": "https://open.spotify.com/track/4SauVG68Oqmznmm04IQ0rm"
+      "duration_ms": 362066,
+      "name": "Talullah",
+      "url": "https://open.spotify.com/track/0WQ3l6AqrCJLDpxjhDHbFh"
     },
     {
       "added_at": null,
@@ -143,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+        "name": "Space Cowboy (Remixes)",
+        "url": "https://open.spotify.com/album/3yEBzDpFwVIfAUkeS0GYa7"
       },
       "artists": [
         {
           "name": "Jamiroquai",
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
         }
       ],
-      "duration_ms": 362066,
-      "name": "Talullah",
-      "url": "https://open.spotify.com/track/0WQ3l6AqrCJLDpxjhDHbFh"
+      "duration_ms": 243913,
+      "name": "Space Cowboy (Classic Radio)",
+      "url": "https://open.spotify.com/track/4SauVG68Oqmznmm04IQ0rm"
     },
     {
       "added_at": null,

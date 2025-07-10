@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 15237,
+  "num_followers": 15285,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGsOAAAAAAC9lX2EkRXX6pXAFkRhIMDe",
+  "snapshot_id": "aGxfgAAAAAD1AHshWjY/FUEtGx49yK8T",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Alto Que El Everest",
+        "url": "https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 181824,
+      "name": "Mas Alto Que El Everest",
+      "url": "https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Loco Es",
         "url": "https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 202666,
       "name": "Que Loco Es",
       "url": "https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Alto Que El Everest",
-        "url": "https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 181824,
-      "name": "Mas Alto Que El Everest",
-      "url": "https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp"
     },
     {
       "added_at": null,

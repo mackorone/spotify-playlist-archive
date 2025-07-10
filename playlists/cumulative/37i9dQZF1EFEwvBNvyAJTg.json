@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "The Collection - Studio Albums / B Sides / Live",
+        "url": "https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7"
+      },
+      "artists": [
+        {
+          "name": "Girls Aloud",
+          "url": "https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/0HZ8o8lOp8sKtcnv3ngaOJ"
+    },
+    {
+      "album": {
         "name": "Venus Gets Even (International Version)",
         "url": "https://open.spotify.com/album/0Nyk48bnfHK6KEgQ1a1SjP"
       },
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 343546,
       "name": "Nobody but You",
       "url": "https://open.spotify.com/track/3xc9WGY2CSKSxjY7YhVnEl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,739 likes - 100 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,808 likes - 100 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 7 | [Sleepy Birds](https://open.spotify.com/track/4oIDg4F2spsGD3E9j6cLGm) | [Høxde](https://open.spotify.com/artist/5RnYrq4xtYP886f46j4TVZ), [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Sleepy Birds](https://open.spotify.com/album/3clTPdEHSPpCXXzf6aveZI) | 2:11 |
 | 8 | [Dry Leaves](https://open.spotify.com/track/7tVNXMv1ImQQhDYFBTCXry) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Dry Leaves](https://open.spotify.com/album/5izZA5UBaeOTo8UaThryNQ) | 2:34 |
 | 9 | [Wistful](https://open.spotify.com/track/6ZmyQ5HusuOyyk42tyxJzY) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Wistful](https://open.spotify.com/album/3vDWKmJe61mNxcdfWXVrTZ) | 2:58 |
-| 10 | [Rainbow](https://open.spotify.com/track/4EXUFyiFVDLfa9EJZKAa29) | [Barry Lird](https://open.spotify.com/artist/1wpq0L0rHx6Os2HoMNF4ln), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Rainbow](https://open.spotify.com/album/64zkGMW7AMTTPJICaAOb92) | 1:40 |
+| 10 | [Rainbow](https://open.spotify.com/track/4EXUFyiFVDLfa9EJZKAa29) | [Barry Lird](https://open.spotify.com/artist/4GnJ5vbGVESaLSnX1oa6a3), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Rainbow](https://open.spotify.com/album/64zkGMW7AMTTPJICaAOb92) | 1:40 |
 | 11 | [eclipse](https://open.spotify.com/track/6GPecIJFTK4aAlrCMJMEGq) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [eclipse](https://open.spotify.com/album/7bYEHcVVkpZWLUDN7wsYQB) | 2:28 |
 | 12 | [Jasmine Jive](https://open.spotify.com/track/1gDWe2zeatKZZGeztmxygD) | [Maria Whoat](https://open.spotify.com/artist/1i1qCgOYeozfrgIyZWwQwK) | [Jasmine Jive](https://open.spotify.com/album/7dLtbbPUyYfPWEEIPOr1co) | 1:42 |
 | 13 | [staying in](https://open.spotify.com/track/3aBK2PwFzZyejxHd4x2OhM) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [staying in](https://open.spotify.com/album/2Ym0HpCsgaAkd0yhdvOD1D) | 2:23 |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125204,
+  "num_followers": 125205,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUTUxtjgDpnzh7nLyLAmU3lC0QinhL",
+  "snapshot_id": "AAAUUCHjSsWGc1B+WEsMkkZ8xd0djHQF",
   "tracks": [
+    {
+      "added_at": "2025-07-09 16:36:35",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/4vuIWVByX0E9DxBFeaDK4u"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 192888,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/5x8NTBPvrCybwOXQFT7qIu"
+    },
     {
       "added_at": "2025-07-08 14:30:09",
       "album": {
@@ -1131,22 +1151,6 @@
       "duration_ms": 264137,
       "name": "Turning Point",
       "url": "https://open.spotify.com/track/4Yu2BqFkpx9WCUZFeXkM7e"
-    },
-    {
-      "added_at": "2025-04-17 16:23:21",
-      "album": {
-        "name": "BREAK THROUGH / RADIATE",
-        "url": "https://open.spotify.com/album/0UmwhMlIhRLcKk6UGTSMlV"
-      },
-      "artists": [
-        {
-          "name": "Sublab",
-          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "BREAK THROUGH",
-      "url": "https://open.spotify.com/track/5dWiTTEHrm1JKuU6Ae0ytl"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

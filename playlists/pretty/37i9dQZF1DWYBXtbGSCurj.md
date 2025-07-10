@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: OGBEATZZ, Nath Fischer, Kovy, GVSnobeat, Beatriz Denaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,077 likes - 76 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,053 likes - 76 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 28 | [Princípios de um Campeão](https://open.spotify.com/track/2HEz8ZjpxnJ328u99lnbpK) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Theuzz011](https://open.spotify.com/artist/7DUOb2BAkKqL0kG8ecSAVp), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Princípios de um Campeão](https://open.spotify.com/album/3FK9YCzB1XuzEsHg0iX360) | 3:13 |
 | 29 | [Perfil \#113 \- Artista do Milênio](https://open.spotify.com/track/3T1DRvSymdWYIvpgtgJxby) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Perfil \#113 \- Artista do Milênio](https://open.spotify.com/album/5dcX24ctFILvI0C3ySrHw3) | 3:48 |
 | 30 | [Drive\-In](https://open.spotify.com/track/337ctDJq6yBjGmHuN3AYCX) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [808 CLUB: AFTER](https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr) | 3:33 |
-| 31 | [Beijo Doce](https://open.spotify.com/track/7sZU2XtyMGC7VunlvAhDzb) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [braga!](https://open.spotify.com/artist/0gEghpGEtah4xN4sfKHF2Y) | [Beijo Doce](https://open.spotify.com/album/0STlc3tYP7Avhlo75F0Cj5) | 2:32 |
+| 31 | [Beijo Doce](https://open.spotify.com/track/7sZU2XtyMGC7VunlvAhDzb) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Beijo Doce](https://open.spotify.com/album/0STlc3tYP7Avhlo75F0Cj5) | 2:32 |
 | 32 | [Van Cleef](https://open.spotify.com/track/0sy2mtvcM7V5ETtmQIbGVt) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 2:49 |
 | 33 | [Desabafo 2](https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Desabafo 2](https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9) | 2:30 |
 | 34 | [Kodak Black](https://open.spotify.com/track/2MEudiiFvY3XF6L3Lu85GC) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [ICON](https://open.spotify.com/album/0dPXOaahtj6ZIwpMdqDyxt) | 2:27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop!  Cover: Anmol Dhandra",
+  "description": "Discover the future of Punjabi Pop!  Cover: Ajayvir",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 196153,
       "name": "21/31",
       "url": "https://open.spotify.com/track/6lxVaxAF8rSFgCUj7oeUCQ"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 144087,
       "name": "Chandigarh",
       "url": "https://open.spotify.com/track/6mCL6P3RBBqYdyjJBlh3XW"
@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Haal Chal",
+        "url": "https://open.spotify.com/album/5bMKxu74Nm28BufzSIV6dv"
+      },
+      "artists": [
+        {
+          "name": "Zafar Brar",
+          "url": "https://open.spotify.com/artist/5LinFD2B7eycr2rGuR93nY"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "Haal Chal",
+      "url": "https://open.spotify.com/track/5xhUjnBvQnSnjhXLKJxZmK"
+    },
+    {
+      "album": {
         "name": "Haal Puchda",
         "url": "https://open.spotify.com/album/6sfc3PyvVNMi7EN4pwygeC"
       },
@@ -3808,7 +3826,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 202666,
       "name": "Kidan Maaf Kran",
       "url": "https://open.spotify.com/track/00FVb6LD7g2ltjh5wMsenQ"
@@ -4953,6 +4971,24 @@
     },
     {
       "album": {
+        "name": "Navi Navi",
+        "url": "https://open.spotify.com/album/46opADOV9i3J5ZmQx2V0BW"
+      },
+      "artists": [
+        {
+          "name": "Parineet Kaur",
+          "url": "https://open.spotify.com/artist/06jv05hjCoXyqh11jtoj0N"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177714,
+      "name": "Navi Navi",
+      "url": "https://open.spotify.com/track/1ryjZ1dTpaoBGDJo3Wj1to"
+    },
+    {
+      "album": {
         "name": "Nazare",
         "url": "https://open.spotify.com/album/40XISHbnSAhxqXhl3WgmzJ"
       },
@@ -5780,6 +5816,28 @@
       "duration_ms": 208661,
       "name": "Remember",
       "url": "https://open.spotify.com/track/0FDQ8uLxJtGOEsdOqbquCC"
+    },
+    {
+      "album": {
+        "name": "Rog",
+        "url": "https://open.spotify.com/album/0Roj0YtjuD4pzTtvyePAXD"
+      },
+      "artists": [
+        {
+          "name": "AJAYVIR",
+          "url": "https://open.spotify.com/artist/3hgvSvfc1QUtxiZqMmPN71"
+        },
+        {
+          "name": "Sonny",
+          "url": "https://open.spotify.com/artist/2RCgXVND894YVj4YLaUYOg"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Rog",
+      "url": "https://open.spotify.com/track/335pF7LY5duY6edeU4cjgs"
     },
     {
       "album": {

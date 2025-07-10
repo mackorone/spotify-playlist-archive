@@ -4,7 +4,7 @@
 
 > but listened to this instead
 
-65 songs - 3 hr 25 min
+66 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [APT\. \- Piano Version](https://open.spotify.com/track/075QR1Nby1qAXjSlfucYPK) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [APT\. \(Piano Version\)](https://open.spotify.com/album/4eJUPB3Yurg6xJ5xLivd8J) | 2:49 | 2025-03-10 |  |
 | [As It Was](https://open.spotify.com/track/6BtLaWYYnxcObhjdGqpuNi) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [As It Was](https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk) | 3:09 | 2025-02-20 | 2025-06-27 |
 | [august](https://open.spotify.com/track/3hSSzo9nGgxJ8fr0Bwhnpp) | [Tindré](https://open.spotify.com/artist/5ZcHw4sYgIBPo09KgHLtvf) | [august](https://open.spotify.com/album/5djItPLbGgnwYkZpLDUv6c) | 2:48 | 2025-02-20 |  |
+| [Back to Friends \- Instrumental](https://open.spotify.com/track/5JNTV8AKS6kX1gBEKjKHXe) | [Piano Dreamers](https://open.spotify.com/artist/4oRyLnxDdIzd2POQfX9Drd) | [Top 20 Hits June 2025 \(Instrumental\)](https://open.spotify.com/album/0duLrwjCvW84b7Zk2lKJgy) | 2:56 | 2025-07-09 |  |
 | [Bags \- Piano Version](https://open.spotify.com/track/4uF1hlFEFg3fBymBdg5vNO) | [carme](https://open.spotify.com/artist/0O0x8SQkmDycCOEmlMVbVU) | [Bags \(Piano Version\)](https://open.spotify.com/album/6n9BYewOJxb7mjTJxPf7LM) | 3:25 | 2025-02-20 |  |
 | [Beautiful Things \- Piano Instrumental](https://open.spotify.com/track/5nxuhjHRys8nreSC1CawUv) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:13 | 2025-02-20 | 2025-05-03 |
 | [Before You Go](https://open.spotify.com/track/7pQYeqd8wXUoZxuhgokUEV) | [Ellery Hughes](https://open.spotify.com/artist/5py7utGDgkOSj26N1boPUc) | [A Collection of Instrumental Piano Covers](https://open.spotify.com/album/4DLDpkEbrYKgYNpIEudHsV) | 3:45 | 2025-02-20 |  |
@@ -48,7 +49,7 @@
 | [Ocean Eyes](https://open.spotify.com/track/0uVBjMQGASq2vMiCuWPtCH) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 3:13 | 2025-02-20 |  |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2025-02-20 |  |
 | [Ordinary](https://open.spotify.com/track/00zboRdO7yjPazc4J7d3EB) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Ordinary](https://open.spotify.com/album/6iFnTh7yJX21BmQHE7sd6d) | 2:28 | 2025-07-04 |  |
-| [Ordinary \- Piano Version](https://open.spotify.com/track/0SiBf9yNAadpXdYku3PRpS) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [Ordinary \(Piano Version\)](https://open.spotify.com/album/7nSH4KNxlGnTQLh8iNIjiU) | 3:13 | 2025-06-26 |  |
+| [Ordinary \- Piano Version](https://open.spotify.com/track/0SiBf9yNAadpXdYku3PRpS) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [Ordinary \(Piano Version\)](https://open.spotify.com/album/7nSH4KNxlGnTQLh8iNIjiU) | 3:13 | 2025-06-26 | 2025-07-10 |
 | [Out of Time](https://open.spotify.com/track/2JIadomFANTBr1I7rvMCJN) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Out of Time](https://open.spotify.com/album/5ywNtEss6L50krPT9wxaGB) | 3:14 | 2025-05-16 |  |
 | [party 4 u \- Piano Version](https://open.spotify.com/track/1Un4LzamtJIn73anyYOo1s) | [Peaceful Noise](https://open.spotify.com/artist/79Yty2ANzT9cb4iZvz6LxG) | [party 4 u \(Piano\)](https://open.spotify.com/album/5h1SWppuXZ5HYFua0cbTkO) | 1:42 | 2025-06-26 |  |
 | [Peaches \- Piano](https://open.spotify.com/track/3ZnxEuvghnpte4SGlRbIXF) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 3:05 | 2025-02-20 | 2025-07-05 |

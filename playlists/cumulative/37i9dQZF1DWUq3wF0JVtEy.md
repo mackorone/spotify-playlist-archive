@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-542 songs - 1 day 2 hr 24 min
+543 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Renegade Master \- Don Diablo Edit](https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom) | [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Renegade Master \(Don Diablo Edit\)](https://open.spotify.com/album/0NRlW0uReoU6nZN5Rc3xlj) | 3:37 | 2025-05-09 |  |
 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 | 2023-05-26 |  |
 | [Riverside MF](https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Riverside MF](https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ) | 2:35 | 2024-03-01 |  |
+| [Rock The Party](https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k) | [Matt Faulk](https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x) | [Rock The Party](https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7) | 3:24 | 2025-07-04 |  |
 | [Rooftopin Again](https://open.spotify.com/track/3SagPegAVUZSNfT3khDcZZ) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Rooftopin Again](https://open.spotify.com/album/3YRQzZCG4RTeZTWByhIJrV) | 3:33 | 2023-12-15 | 2023-12-30 |
 | [Rudeboy](https://open.spotify.com/track/3XYpW3OPMaVphrAST5DaL2) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Rudeboy](https://open.spotify.com/album/6PkXAktqlbM5S7d3oLhpGx) | 2:56 | 2022-05-27 | 2022-07-16 |
 | [Run It!](https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Run It!](https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt) | 2:19 | 2024-12-06 | 2025-06-09 |
@@ -515,7 +516,7 @@
 | [Too Soon](https://open.spotify.com/track/0ybwuh7d9YF7dVWBqDgpzd) | [Benwah](https://open.spotify.com/artist/5MDZ4Vx0HejqeFJXMDBYIG) | [Too Soon](https://open.spotify.com/album/72lIoWchPeGzLPUZXhgZHs) | 4:09 | 2021-10-29 | 2022-07-29 |
 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 | 2021-10-29 | 2022-12-17 |
 | [Trigger](https://open.spotify.com/track/76IBjqYohp5r2ff5hvbXqg) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Trigger](https://open.spotify.com/album/37zquxYvzsXCvhO8whITBM) | 2:46 | 2022-05-27 | 2022-07-29 |
-| [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7) | 2:56 | 2023-06-16 |  |
+| [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7) | 2:56 | 2023-06-16 | 2025-07-10 |
 | [Turn Off The Lights](https://open.spotify.com/track/1hBWTDB4WVPTN6zaFcCftG) | [Rich Furniss](https://open.spotify.com/artist/6hEshD9iO0iolNdqjuQcyG), [Jesse Jonez](https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i) | [Turn Off The Lights](https://open.spotify.com/album/6kEV76ip7yyQjuOFOO48fg) | 3:35 | 2024-10-04 | 2024-12-06 |
 | [Turn Off The Lights \- Cloonee Remix](https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn Off The Lights \(Cloonee Remix\)](https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc) | 3:18 | 2022-02-11 | 2023-09-23 |
 | [Turn On The Lights](https://open.spotify.com/track/6SlQUgtyfJeTxkqA8Qrx7D) | [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Turn On The Lights](https://open.spotify.com/album/1WUgSshj5xxozOYU2CF1xE) | 2:21 | 2024-03-29 | 2024-04-19 |

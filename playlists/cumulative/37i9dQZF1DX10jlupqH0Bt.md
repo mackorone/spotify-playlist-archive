@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-91 songs - 4 hr 19 min
+95 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [852 Hz Soothe Anxiety](https://open.spotify.com/track/1l3mTHxVzws34jKfWmXH0M) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [852 Hz Soothe Anxiety](https://open.spotify.com/album/5pfGTMLg9ot9u4HlUyiniK) | 2:29 | 2023-03-10 |  |
 | [852 Hz Spiritual Order](https://open.spotify.com/track/5WVra5Ra0EBm5cbEfDT7Cr) | [Particle Guidance](https://open.spotify.com/artist/2Ol6nr2IZ1Jqs1scycbjLZ) | [Harmonic Intonation](https://open.spotify.com/album/4L17rtwyeMNeQJDnoxwgET) | 3:42 | 2023-03-10 |  |
 | [852 Hz The Sacred Call](https://open.spotify.com/track/0fmO230foTgdidV10QKOUf) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [852 Hz The Sacred Call](https://open.spotify.com/album/0QvNA80NWGvPAXMFeZHswv) | 2:13 | 2024-04-07 |  |
+| [852 Hz Through Illusions](https://open.spotify.com/track/5VbTZSTusKLfbejy7fKNM4) | [Ecos del Reposo](https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP) | [852 Hz Through Illusions](https://open.spotify.com/album/1UkKqegZI9mTv69QkzrAZw) | 3:00 | 2025-07-09 |  |
 | [852 Hz Transcendent Traveler](https://open.spotify.com/track/2S0ZOGLofhySHpJG9eCMao) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [852 Hz Transcendent Traveler](https://open.spotify.com/album/2oUWVJSfPOOzUwIubGHETZ) | 2:23 | 2024-08-27 |  |
 | [852hz Awaken your Intuition](https://open.spotify.com/track/0alIWUlJRDiiyOmq1y4uB1) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 4:50 | 2023-11-30 |  |
 | [852hz Return to Spiritual Order](https://open.spotify.com/track/2v07Tr7WeqbNTW2r037GEJ) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:08 | 2023-11-30 |  |
@@ -52,10 +53,12 @@
 | [Beneath A Gleaming Moon](https://open.spotify.com/track/38HbPodovQpPQ4zdpl1wP6) | [Sonar Tides](https://open.spotify.com/artist/0V4IcLAJohrPo1UUlkhEaD) | [Beneath A Gleaming Moon](https://open.spotify.com/album/0g0ku3Uufgi0PRpi9bTXwa) | 3:26 | 2023-03-10 |  |
 | [Binaural Alpha : Ajna chakra](https://open.spotify.com/track/5Ng9BFy18wc1jXadJPzyZ5) | [Ellie Yogi](https://open.spotify.com/artist/0GyG8Z6xnh9KnQtt3ElFFU) | [Binaural Alpha : Ganesha](https://open.spotify.com/album/4S550TOMwqIBQLINIIAO3a) | 1:32 | 2023-03-10 | 2024-03-14 |
 | [Borders 852 Hz](https://open.spotify.com/track/7z8XqddZ2pvWKhEdmUbn5l) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:38 | 2023-03-10 |  |
+| [Celestial Landing 852 Hz](https://open.spotify.com/track/2bHJHk9NRyIRAKAIo9BIiv) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Celestial Landing 852 Hz](https://open.spotify.com/album/3LjR2jAvooNGWBb7g3EURD) | 4:01 | 2025-07-09 |  |
 | [Circling Air](https://open.spotify.com/track/4eGV3x6oFODltbqTKOjzP3) | [Three Jewels](https://open.spotify.com/artist/1uSV6zmPoVgtt7WZ7oEvYA) | [Circling Air](https://open.spotify.com/album/09FSu0e52Cf4O8BxAnHWrp) | 2:24 | 2023-03-10 |  |
 | [Connected \(Solfeggio 852 Hz\)](https://open.spotify.com/track/4xiHh4PVG2dG11LssCnTCV) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [World Wide Vision](https://open.spotify.com/album/1Ew4ZwpGBeGRkgBrOVRP4t) | 3:08 | 2023-08-07 |  |
 | [Cosmic Alignment 852Hz](https://open.spotify.com/track/0YR5Qs8rge1Z48dOb3UczT) | [Leah Lorelai](https://open.spotify.com/artist/2aCoXIhqQla0dzRU84PI6c) | [Cosmic Alignment 852Hz](https://open.spotify.com/album/7Brf1eU1RVvSxSIY7LmZ5x) | 3:20 | 2025-03-14 |  |
 | [Cynosure](https://open.spotify.com/track/032YBrJJLqZyXxutvSGSkC) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Antimatter](https://open.spotify.com/album/0RiEwT4ksUqdHRisAoi47P) | 3:37 | 2023-03-10 |  |
+| [Enhance Awareness 852 Hz](https://open.spotify.com/track/27QNGWnlbTO5dHW23NCg6o) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [Enhance Awareness 852 Hz](https://open.spotify.com/album/5VxcIgJzN09qylo26sfwAo) | 2:54 | 2025-07-09 |  |
 | [Expand Horizons](https://open.spotify.com/track/7mThdU8Fe7B8BXVyzKjrhg) | [Quietmind](https://open.spotify.com/artist/47OpVUkgg3v5Il1hY3UpG6) | [Expand Horizons](https://open.spotify.com/album/1PaHi5DwQcvzVAB0p2keCh) | 1:25 | 2023-03-10 | 2023-08-08 |
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2023-03-10 |  |
 | [Floating Through Solfeggio 852 Hz](https://open.spotify.com/track/4fNNIfCx89oWgl974GAWfH) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:11 | 2023-03-10 |  |
@@ -68,6 +71,7 @@
 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 | 2023-03-10 |  |
 | [Intuition 852 Hz](https://open.spotify.com/track/1nWNBqMuAlCruU0eEJPszl) | [Chalka](https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt) | [Intuition 852 Hz](https://open.spotify.com/album/2Z2sgcQhQAeQVBFamMFO3X) | 2:59 | 2023-08-07 |  |
 | [Land and Sea 852 Hz](https://open.spotify.com/track/6EHATCMM1ADhB67spZ0M7i) | [Kristen Reid](https://open.spotify.com/artist/72BS8WqVnzZSQ8J0XVMEpE) | [Land and Sea 852 Hz](https://open.spotify.com/album/1SipBNisSIdGPuH9Qal0KT) | 2:25 | 2023-03-10 |  |
+| [Magellan 852 Hz](https://open.spotify.com/track/3V48eSjuO5ZcMRSeaDlHVw) | [Profundum](https://open.spotify.com/artist/3vMoRqV2KfqX5kxbNhBrfN) | [Magellan 852 Hz](https://open.spotify.com/album/7tLpuWFxZP8p8xjIEZtgyP) | 2:33 | 2025-07-09 |  |
 | [Mahaanata 852 Hz](https://open.spotify.com/track/4PaR3RgsVFFpY6gUmXOhHh) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Mahaanata 852 Hz](https://open.spotify.com/album/6OmX3MIam0deV9w15JIMHO) | 2:18 | 2024-05-11 |  |
 | [Nementia](https://open.spotify.com/track/5boftiqpnYAzkdMUQntgvt) | [Atlentea](https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4) | [Nementia](https://open.spotify.com/album/1M3sQZ9u9R9MJcD2lmhvJy) | 3:27 | 2023-03-10 |  |
 | [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2023-03-10 | 2024-03-14 |

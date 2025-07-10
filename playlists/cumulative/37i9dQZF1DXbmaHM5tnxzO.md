@@ -4,7 +4,7 @@
 
 > Celebrate 30 years of friendship and beyond with Disney and Pixar's Toy Story.
 
-103 songs - 4 hr 47 min
+104 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Woody's Roundup \- From "Toy Story 2"/Soundtrack](https://open.spotify.com/track/0MkK9ZTCTrs2Xh6d1XTPfp) | [Riders In The Sky](https://open.spotify.com/artist/0TvDQyGFRlrLVUPaViJcEi) | [Woody's Round Up](https://open.spotify.com/album/65Qq3ZywO7Y80bKluk5kAS) | 1:53 | 2023-09-15 |  |
 | [You Might Think \- From "Cars 2"/Soundtrack Version](https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 3:07 | 2023-09-15 |  |
 | [You've Got a Friend in Me](https://open.spotify.com/track/202lVrT50Tx5ASnU7MbLFj) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [In the Key of Disney](https://open.spotify.com/album/2Xgc5F1OMlpdHjrz3xUlHF) | 2:40 | 2025-06-13 |  |
-| [You've Got a Friend in Me](https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:04 | 2023-09-15 |  |
+| [You've Got a Friend in Me](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 | 2025-07-09 |  |
+| [You've Got a Friend in Me](https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:04 | 2023-09-15 | 2025-07-10 |
 | [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 | 2023-09-15 |  |
 | [Your Heart Is My Home](https://open.spotify.com/track/7D9j70693iIFapdX0R9f5p) | [Campfire](https://open.spotify.com/artist/54iFlEyl0Ns7oVIoee11W4), [Francci Richard](https://open.spotify.com/artist/0julhRDXKjW4PjQb7L2tdE) | [Win or Lose \(Original Soundtrack\)](https://open.spotify.com/album/5b8ZVBaIDmoFi7NEv3swE7) | 2:35 | 2025-02-21 |  |
 | [Zurg's Displeasure](https://open.spotify.com/track/228uhbTPPOeEWDCpgdBVu5) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Lightyear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3SNjDkFpokQWo9gm88dWVx) | 0:30 | 2023-09-15 |  |

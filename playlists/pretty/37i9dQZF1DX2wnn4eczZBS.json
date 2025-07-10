@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Prins S. en De Geit",
-  "num_followers": 10619,
+  "num_followers": 10620,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "Wildernis",
-        "url": "https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ"
-      },
-      "artists": [
-        {
-          "name": "Johannes Is Zijn Naam",
-          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Wildernis",
-      "url": "https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:20",
-      "album": {
         "name": "Wind In De Zeilen",
         "url": "https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 215184,
       "name": "Wind In De Zeilen",
       "url": "https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y"
+    },
+    {
+      "added_at": "2025-06-26 22:00:20",
+      "album": {
+        "name": "Wildernis",
+        "url": "https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Is Zijn Naam",
+          "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Wildernis",
+      "url": "https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ"
     },
     {
       "added_at": "2025-06-26 22:00:20",

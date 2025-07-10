@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161667,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/5cmP0BuMRba0q0pwN7eI6u"
+    },
+    {
+      "album": {
         "name": "All Over The Place (Deluxe)",
         "url": "https://open.spotify.com/album/1abtkG6wRFf0S2dg2XmgTe"
       },
@@ -824,6 +842,24 @@
       "duration_ms": 191801,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/4HJYiJvOyBSjkAe7yqA61L"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/7bRumRaEIgUBnHiwiORk6J"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168596,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/3ZK6odVgvALSff5zhVZcr9"
     },
     {
       "album": {

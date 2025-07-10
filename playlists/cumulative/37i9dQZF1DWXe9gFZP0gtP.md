@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-584 songs - 1 day 4 hr 11 min
+587 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Een mooie droom](https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N) | [Zeb Maessen](https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu) | [Een mooie droom](https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw) | 3:10 | 2022-02-25 | 2024-10-19 |
 | [Effervescence](https://open.spotify.com/track/2IuS6shEG19BVgTBYH5yl4) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Effervescence](https://open.spotify.com/album/7nMq1OD4fJOYTSWsa6EyJw) | 2:34 | 2024-08-02 | 2025-05-07 |
 | [Effortless](https://open.spotify.com/track/7vToaZqn59Gw3ofYo5SYcj) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Effortless](https://open.spotify.com/album/4FHiWjZHpKELLg9ruRpOKI) | 2:42 | 2025-02-28 |  |
+| [Emberflow](https://open.spotify.com/track/7enTQca1OOBLgMjTz2r8Ej) | [Soreal](https://open.spotify.com/artist/6aKdCt74aU69zEcGQVdAlI) | [Emberflow](https://open.spotify.com/album/7E8IMrEppj1MbA63vh1ITj) | 3:04 | 2025-07-09 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2021-12-17 | 2024-03-27 |
 | [Empathicism](https://open.spotify.com/track/7hsZcXAu5Kx1PuzY9h3RI9) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Empathicism](https://open.spotify.com/album/6boeJgjAYCRIJV5HzdiEO0) | 3:14 | 2025-03-26 |  |
 | [Emphasis](https://open.spotify.com/track/1i82s7pAMZyyZOBQ6zas9e) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Emphasis](https://open.spotify.com/album/75nNY0NuKViWlHLtHzEVH0) | 3:00 | 2025-03-11 |  |
@@ -300,6 +301,7 @@
 | [Liam's Bedtime](https://open.spotify.com/track/3RN4U3wH5as6kHirawI4Du) | [Sarah Barber](https://open.spotify.com/artist/1bZl8bahX1H0yyMCMpCbos) | [Liam's Bedtime](https://open.spotify.com/album/79S6tlSo0zcVDq0aMPC1f8) | 2:54 | 2021-12-17 | 2023-07-14 |
 | [Lifelong](https://open.spotify.com/track/1eK5rsIOExVcjGeTJEAfIB) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Lifelong](https://open.spotify.com/album/0yL1wSD9UMd4sfd2uCfiHO) | 2:52 | 2023-07-21 | 2025-06-05 |
 | [Light Begins](https://open.spotify.com/track/4gQivo30jhXjCze9AYncDS) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Light Begins](https://open.spotify.com/album/2560osTDPlMzk8G8OAtqri) | 3:17 | 2025-06-16 |  |
+| [Light lives on](https://open.spotify.com/track/1AsWBnSavEiTgomJPdAm0I) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Light lives on](https://open.spotify.com/album/3SwFqTj6D5YfuyBKUDLDnC) | 2:38 | 2025-07-09 |  |
 | [Light of The Moon](https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 3:46 | 2021-12-17 | 2022-11-12 |
 | [lighter](https://open.spotify.com/track/4tgl15lyP8zuvWz7wqbbyW) | [Obdormiam](https://open.spotify.com/artist/1oribWbIvS6aMLdzoAqRTy) | [lighter](https://open.spotify.com/album/72B06kmei8FdY9Z9tN3yBw) | 2:32 | 2025-04-10 |  |
 | [Liminal](https://open.spotify.com/track/6G6EAmGXX7T52zOWj2GWPE) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Liminal](https://open.spotify.com/album/3qg28PT0VtCdWiWHkQAvz5) | 2:25 | 2025-03-26 |  |
@@ -562,6 +564,7 @@
 | [Values Of Silence](https://open.spotify.com/track/1e3b9snZ8WCK3Ty1F9Fb0v) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Values Of Silence](https://open.spotify.com/album/7pkxfF84viQD0A2kWfvXIf) | 3:03 | 2023-10-06 | 2025-05-21 |
 | [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 | 2022-10-21 | 2025-05-07 |
 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 | 2021-12-17 | 2024-03-27 |
+| [Vila](https://open.spotify.com/track/6DN0rnPxkruABRJuNRnEIg) | [Moonhollow](https://open.spotify.com/artist/5TCX73zuagMTEspzIPo64v) | [Vila](https://open.spotify.com/album/6hfHASwbYBwgm8HbnobeCx) | 2:45 | 2025-07-09 |  |
 | [Virtuous](https://open.spotify.com/track/7LXscZffE8LUyJ4tn43RZa) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 3:39 | 2022-12-02 | 2025-05-07 |
 | [Voordat Je Gaat](https://open.spotify.com/track/7pRq9fPCrfEGbjPE5ENqWw) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Voordat Je Gaat](https://open.spotify.com/album/35gk0IOuEfg0d2pmuiZoN8) | 3:08 | 2021-12-17 | 2024-05-12 |
 | [Waiting](https://open.spotify.com/track/4ZSGXijB26jEnbOknNDzTT) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Waiting](https://open.spotify.com/album/6VyRgVoqU92qlLzn67RsSJ) | 2:13 | 2021-12-17 | 2024-05-12 |

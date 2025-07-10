@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 34296,
+  "num_followers": 34309,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-07-07 15:22:42",
       "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 224136,
-      "name": "Cry For Me",
-      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
-    },
-    {
-      "added_at": "2025-07-07 15:22:42",
-      "album": {
         "name": "FUNNY little FEARS",
         "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
+    {
+      "added_at": "2025-07-07 15:22:42",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
       "added_at": "2025-07-07 15:22:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-07-07 15:22:42",
       "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
-      },
-      "artists": [
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
-    },
-    {
-      "added_at": "2025-07-07 15:22:42",
-      "album": {
         "name": "Tweaker",
         "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 189544,
       "name": "Tweaker",
       "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
+    },
+    {
+      "added_at": "2025-07-07 15:22:42",
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
       "added_at": "2025-07-07 15:22:42",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-07-07 15:22:42",
       "album": {
-        "name": "Afacere",
-        "url": "https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 147773,
-      "name": "Afacere",
-      "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
-    },
-    {
-      "added_at": "2025-07-07 15:22:42",
-      "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 205714,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
+    },
+    {
+      "added_at": "2025-07-07 15:22:42",
+      "album": {
+        "name": "Afacere",
+        "url": "https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 147773,
+      "name": "Afacere",
+      "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
     },
     {
       "added_at": "2025-07-07 15:22:42",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2025-07-07 15:22:42",
       "album": {
-        "name": "E Adev\u0103rat",
-        "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
+        "name": "De la cer la p\u0103m\u00e2nt",
+        "url": "https://open.spotify.com/album/6lwycmufhXCRznVmYSyTsK"
       },
       "artists": [
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        },
         {
           "name": "Gya",
           "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
         }
       ],
-      "duration_ms": 167203,
-      "name": "E Adev\u0103rat",
-      "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
+      "duration_ms": 179520,
+      "name": "De la cer la p\u0103m\u00e2nt",
+      "url": "https://open.spotify.com/track/3H6Tg6xtH17pra1yLKTTAz"
     },
     {
       "added_at": "2025-07-07 15:22:42",
@@ -1739,22 +1743,18 @@
     {
       "added_at": "2025-07-07 15:22:42",
       "album": {
-        "name": "De la cer la p\u0103m\u00e2nt",
-        "url": "https://open.spotify.com/album/6lwycmufhXCRznVmYSyTsK"
+        "name": "E Adev\u0103rat",
+        "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
       },
       "artists": [
-        {
-          "name": "Andrei Banuta",
-          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
-        },
         {
           "name": "Gya",
           "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
         }
       ],
-      "duration_ms": 179520,
-      "name": "De la cer la p\u0103m\u00e2nt",
-      "url": "https://open.spotify.com/track/3H6Tg6xtH17pra1yLKTTAz"
+      "duration_ms": 167203,
+      "name": "E Adev\u0103rat",
+      "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
     },
     {
       "added_at": "2025-07-07 15:22:42",
@@ -1803,18 +1803,22 @@
     {
       "added_at": "2025-07-07 15:22:42",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+        "name": "2 Stickere",
+        "url": "https://open.spotify.com/album/2yHy27oGwEJWwxVaI216e0"
       },
       "artists": [
         {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+          "name": "Jador",
+          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
+      "duration_ms": 158297,
+      "name": "2 Stickere",
+      "url": "https://open.spotify.com/track/6UqAQ2xZSFQxb2p89rvvVN"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

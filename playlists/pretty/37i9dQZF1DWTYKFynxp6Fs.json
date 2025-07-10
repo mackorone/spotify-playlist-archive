@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
-  "num_followers": 491098,
+  "num_followers": 491835,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGI1UgAAAABzTjsoS/3epC9bc5e3GqHi",
+  "snapshot_id": "aG33nAAAAABZcqBeNhswpMsNjFZx6G+f",
   "tracks": [
     {
       "added_at": "2025-05-07 08:53:45",
@@ -897,6 +897,30 @@
       "url": "https://open.spotify.com/track/7klutVPgvUwcxCU0hht6y0"
     },
     {
+      "added_at": "2025-07-09 05:01:16",
+      "album": {
+        "name": "Lion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7HQe0XxXc7m4XdFd4oD6hS"
+      },
+      "artists": [
+        {
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 340977,
+      "name": "Sundaree Onnu Parayoo - Version, 1",
+      "url": "https://open.spotify.com/track/1HELfOdMwHZRwjyekjrrXx"
+    },
+    {
       "added_at": "2024-09-04 08:10:57",
       "album": {
         "name": "Athimanoharam (From \"Vaazha\")",
@@ -1123,30 +1147,6 @@
       "duration_ms": 197314,
       "name": "Nilaavil Ellame",
       "url": "https://open.spotify.com/track/09KdVJCUon1OvPmST9uJKt"
-    },
-    {
-      "added_at": "2024-07-09 05:00:28",
-      "album": {
-        "name": "Alif",
-        "url": "https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU"
-      },
-      "artists": [
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "SA",
-          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
-        },
-        {
-          "name": "ABRAW",
-          "url": "https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Alif",
-      "url": "https://open.spotify.com/track/0BdsMf23c1amsuZxqqFLI0"
     }
   ],
   "unique_name": "Trending Now Malayalam",

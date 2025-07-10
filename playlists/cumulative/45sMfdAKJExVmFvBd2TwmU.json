@@ -112,7 +112,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 364786,
       "name": "Abhi Mujh Mein Kahin",
       "url": "https://open.spotify.com/track/73y649QhnXdcm6fRdvfraO"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 213632,
       "name": "Enna Sona",
       "url": "https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO"
@@ -1329,6 +1329,32 @@
     },
     {
       "album": {
+        "name": "Wake Up Sid (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/7nFj0QIMz081q7e8kQvW93"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252573,
+      "name": "Iktara",
+      "url": "https://open.spotify.com/track/0RJ7HhnQxJEOpGC5Htmez4"
+    },
+    {
+      "album": {
         "name": "Wake Up Sid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ"
       },
@@ -1466,7 +1492,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 257972,
       "name": "Ishq Wala Love",
       "url": "https://open.spotify.com/track/1hQia6rxgfM1ly2hE3StWp"
@@ -1798,7 +1824,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 335709,
       "name": "Khamoshiyan",
       "url": "https://open.spotify.com/track/6zCQF5tu7HVwU9shhKqiuF"
@@ -2670,7 +2696,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 240786,
       "name": "Pani Da Rang - Male Vocals",
       "url": "https://open.spotify.com/track/4kaLkst9lT3sQ5Crgxs3ic"

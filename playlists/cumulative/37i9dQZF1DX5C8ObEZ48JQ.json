@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz?si=W4wlsrdWRZOux6QlpKtkBw\">Dandi Noxx</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb?si=hRifC1aNTbCGfMwf7zIAlQ\">RCEE</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -2384,6 +2384,28 @@
       "duration_ms": 135445,
       "name": "Bet On You",
       "url": "https://open.spotify.com/track/0owo3AxqzHgomPpnflHu5c"
+    },
+    {
+      "album": {
+        "name": "i.r.l",
+        "url": "https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH"
+      },
+      "artists": [
+        {
+          "name": "Afamefuna",
+          "url": "https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG"
+        },
+        {
+          "name": "STACY KAMATU",
+          "url": "https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231562,
+      "name": "better",
+      "url": "https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K"
     },
     {
       "album": {
@@ -20672,7 +20694,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-10",
       "duration_ms": 170588,
       "name": "Serwaa Akoto",
       "url": "https://open.spotify.com/track/0eaLGnHVVYS97BjiuQDqgn"

@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-149 songs - 8 hr 42 min
+150 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,11 +133,12 @@
 | [Slow Pace Papa](https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG) | [Southside Beatsters](https://open.spotify.com/artist/3TYCmQgTFXUbE460KfTlYe) | [Brewin' Afro Beats](https://open.spotify.com/album/0kET8NvmV0lCfGhFFfG1Wn) | 3:08 | 2022-05-19 |  |
 | [Slumber Lands](https://open.spotify.com/track/2B2wYizsFdlMUr8CP69ab2) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Slumber Lands](https://open.spotify.com/album/7HsSck718XGQAJyvvPLacT) | 3:04 | 2025-02-05 |  |
 | [Solitude Conscience](https://open.spotify.com/track/0pRtAfGhXjMop0RGbx4M2W) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Solitude Conscience](https://open.spotify.com/album/1mRnmAvDa3CqDMiAlwVdyP) | 2:37 | 2025-06-04 |  |
+| [Something Peaceful](https://open.spotify.com/track/7vceZdDidUyqdRxOzaixvb) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Something Peaceful](https://open.spotify.com/album/0QKUJ45lB2LHIDtE2LEl0f) | 2:50 | 2025-07-09 |  |
 | [Song of the Morning](https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT) | [Jeremy Arndt](https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T) | [Journeys: Handpan Solo](https://open.spotify.com/album/32VPq59sHG028ot4awVMUW) | 3:56 | 2022-05-19 |  |
 | [Sparrow Song](https://open.spotify.com/track/1aVJxI2dZXD6TQ3zHVIDhl) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sparrow Song](https://open.spotify.com/album/2KSKfnP1uoUSJOLlS1uWTx) | 2:06 | 2024-03-05 |  |
 | [Spirit Glow](https://open.spotify.com/track/572nNmnWtvn1ON7C6XkuCW) | [SoulPan](https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5) | [Spirit Glow](https://open.spotify.com/album/7a6x1SFiLRKuUuI6kPncSX) | 2:09 | 2025-05-16 |  |
 | [Spiritual Ascent](https://open.spotify.com/track/2GzX0oSb1iRgvDkDweIANZ) | [Aks](https://open.spotify.com/artist/35hgpFqZM16OXEkF4hkNn0) | [Spiritual Ascent](https://open.spotify.com/album/2TOl8BOpVEgAsW7Jp9E8uD) | 4:08 | 2025-05-28 |  |
-| [Suite for Solo Marimba: I\. Mist](https://open.spotify.com/track/0innuGLPaiws0cPKlQsBqr) | [Alfred Fissinger](https://open.spotify.com/artist/4htH9Ccgnj1hOEeXvyCixA), [Severin Blazer](https://open.spotify.com/artist/1Ja6CRy0gfbAKH44OI25wr) | [Yoga with Classical Music](https://open.spotify.com/album/6kPF1cgLwFCqbuQ9Y9gSpn) | 5:28 | 2022-05-19 |  |
+| [Suite for Solo Marimba: I\. Mist](https://open.spotify.com/track/0innuGLPaiws0cPKlQsBqr) | [Alfred Fissinger](https://open.spotify.com/artist/4htH9Ccgnj1hOEeXvyCixA), [Severin Blazer](https://open.spotify.com/artist/1Ja6CRy0gfbAKH44OI25wr) | [Yoga with Classical Music](https://open.spotify.com/album/6kPF1cgLwFCqbuQ9Y9gSpn) | 5:28 | 2022-05-19 | 2025-07-10 |
 | [Sun Sunil Beat](https://open.spotify.com/track/676FxH7m1xGxsuryz7D9OF) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sun Sunil Beat](https://open.spotify.com/album/6lNqfMeQhyXbR15RBVqhvw) | 2:28 | 2022-05-19 |  |
 | [Sunrise Rhythm](https://open.spotify.com/track/6BrvOJmKsMrld46VFYDUK7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Sunrise Rhythm](https://open.spotify.com/album/0WtyQyl7jaipY6GIT4vk7c) | 2:45 | 2025-01-09 |  |
 | [Sunset Sky](https://open.spotify.com/track/3JAGyBNYLZav8h9uuDB5aZ) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Sunset Sky](https://open.spotify.com/album/3m0sH9z0g1b2RGrvX0c6PI) | 3:32 | 2024-03-05 |  |
@@ -147,7 +148,7 @@
 | [The Diviner](https://open.spotify.com/track/0M9yygcM3XRSoKe0bVn8ut) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [The Diviner](https://open.spotify.com/album/4lFXtdqOhXzTFQuTKavbOg) | 2:51 | 2025-04-29 |  |
 | [The Secret Kissing of the Sun and Moon](https://open.spotify.com/track/1NhPqxXnz8BDrsj9AE4oLT) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Luminous Emptiness](https://open.spotify.com/album/2XrJCq3Rkk9QIVOhp1UXW9) | 8:57 | 2023-12-04 | 2024-03-06 |
 | [The Secret Kissing of the Sun and Moon](https://open.spotify.com/track/1xTMo9M0UWSarnMlRBCXXe) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Luminous Emptiness](https://open.spotify.com/album/7rSjXLmVEIKwvMHWuw7EBO) | 8:57 | 2022-05-19 | 2023-12-21 |
-| [Three Preludes for Marimba \- N.1 E minor](https://open.spotify.com/track/7lp1HBbTLbLrLGUINqJqwO) | [Ney Rosauro](https://open.spotify.com/artist/0flSAgCmKV5vgWQeaWpzvS) | [Ney Rosauro In Concert](https://open.spotify.com/album/0H78Dn3TILtGQZI0V8INNz) | 4:05 | 2022-05-19 |  |
+| [Three Preludes for Marimba \- N.1 E minor](https://open.spotify.com/track/7lp1HBbTLbLrLGUINqJqwO) | [Ney Rosauro](https://open.spotify.com/artist/0flSAgCmKV5vgWQeaWpzvS) | [Ney Rosauro In Concert](https://open.spotify.com/album/0H78Dn3TILtGQZI0V8INNz) | 4:05 | 2022-05-19 | 2025-07-10 |
 | [Tribal Drums Music](https://open.spotify.com/track/4HzvPSVGo7HsPLYCM8Q7kE) | [Sound Effects Zone](https://open.spotify.com/artist/5B2GckJHi7dvLV5zXSgaav) | [Drums Trance of World \(Ritual Native Drumming, Ancient Sounds, Ethnic Journey, Healing Meditation\)](https://open.spotify.com/album/3QUAMlKM04VN1JAbok6H7R) | 3:17 | 2022-05-19 |  |
 | [When Souls Dream](https://open.spotify.com/track/34xhPeRHcdA2cdhYnk7XyU) | [SoulPan](https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5) | [When Souls Dream](https://open.spotify.com/album/1QNjDtHpFWDmYVCp3FIRub) | 2:12 | 2024-12-12 |  |
 | [whisper](https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [whisper](https://open.spotify.com/album/0DrbR3dm2neCYUb3Qib5JA) | 2:34 | 2022-05-26 |  |

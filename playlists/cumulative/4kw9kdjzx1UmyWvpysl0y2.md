@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,021 songs - 2 day 9 hr 19 min
+1,022 songs - 2 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 | 2025-03-13 |
 | [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-19 | 2024-11-09 |
 | [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-06-28 | 2023-09-26 |
-| [BREAK THROUGH](https://open.spotify.com/track/5dWiTTEHrm1JKuU6Ae0ytl) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [BREAK THROUGH / RADIATE](https://open.spotify.com/album/0UmwhMlIhRLcKk6UGTSMlV) | 3:15 | 2025-04-17 |  |
+| [BREAK THROUGH](https://open.spotify.com/track/5dWiTTEHrm1JKuU6Ae0ytl) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [BREAK THROUGH / RADIATE](https://open.spotify.com/album/0UmwhMlIhRLcKk6UGTSMlV) | 3:15 | 2025-04-17 | 2025-07-10 |
 | [Breathe](https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Breathe](https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW) | 2:29 | 2025-02-27 | 2025-05-24 |
 | [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 | 2023-03-22 |
 | [Breathe Underwater](https://open.spotify.com/track/6dezSbSW7iJF6f6IJLznU6) | [Psy Trance Mafia](https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Breathe Underwater](https://open.spotify.com/album/4E9AWmsV9POjfg28Mz393X) | 4:30 | 2024-10-21 | 2025-01-29 |
@@ -267,6 +267,7 @@
 | [El Refugio](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [El Refugio](https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf) | 2:49 | 2023-06-26 | 2023-09-26 |
 | [Electric](https://open.spotify.com/track/28GNhpM0YCDZcsvK5N0kSh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Raymond Revel](https://open.spotify.com/artist/17gtjCjxCPFSXyva6MAYts), [Marcus McGarity](https://open.spotify.com/artist/5aWpxrOUPNG6JcpqGB7GTB) | [Electric](https://open.spotify.com/album/7l23aPgNZeWypuV57vLRo6) | 2:09 | 2023-10-12 | 2024-01-26 |
 | [Elevator](https://open.spotify.com/track/4CnJwDkC8qFVCD2Br9a33f) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Ayda Rose](https://open.spotify.com/artist/2nBYwEuuxEIZWKMBAXp2LJ) | [Elevator](https://open.spotify.com/album/3KKyiwupkICfxC8vzwgsnY) | 2:43 | 2024-09-26 | 2024-12-20 |
+| [Elevator](https://open.spotify.com/track/5x8NTBPvrCybwOXQFT7qIu) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Elevator](https://open.spotify.com/album/4vuIWVByX0E9DxBFeaDK4u) | 3:12 | 2025-07-09 |  |
 | [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
 | [Embers](https://open.spotify.com/track/3w9ALKovRO9Tc29DPiMzGi) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [The Secret Language of Trees](https://open.spotify.com/album/6EzTA98y6TGi3o2b3zJkdP) | 5:10 | 2023-07-10 | 2023-12-14 |
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 | 2022-11-11 |

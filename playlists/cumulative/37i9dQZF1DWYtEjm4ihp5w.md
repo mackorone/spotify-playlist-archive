@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Draganov
+> Cover: 7ari & Ramoon
 
 407 songs - 21 hr 32 min
 
