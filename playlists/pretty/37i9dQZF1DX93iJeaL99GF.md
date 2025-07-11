@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,966 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,986 likes - 40 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 25 | [Mysore Se Ayi](https://open.spotify.com/track/3oXygAEuFopjsohfGjQfv7) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Antaragni \- The Fire Within](https://open.spotify.com/album/7b27ftF01DYfRpwu7mOUBV) | 4:41 |
 | 26 | [Krishna](https://open.spotify.com/track/6g57S5SIlzmWBru2l6uFjM) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:50 |
 | 27 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Kavya Jones](https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 |
-| 28 | [Bandheh](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy), [Piyush Mishra](https://open.spotify.com/artist/1EzHkoB4160h1B1xAyXSUR) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 7:48 |
+| 28 | [Training](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 3:57 |
 | 29 | [Sadho Re](https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:11 |
 | 30 | [Bandhu Re](https://open.spotify.com/track/3VQF1tKmEogJqV2XRKm7Qg) | [Cactus](https://open.spotify.com/artist/2PWPl2KNcCDDdhqT7vb2sR) | [Rajar Raja](https://open.spotify.com/album/6UeMitzv4cd2pBCVBTHgDZ) | 5:12 |
 | 31 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 |

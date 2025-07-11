@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 201178,
       "name": "Hald deg fast",
       "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
@@ -5676,7 +5676,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 154951,
       "name": "Partyjoik",
       "url": "https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR"
@@ -6310,6 +6310,28 @@
       "duration_ms": 235853,
       "name": "Rundt neste sving",
       "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
+    },
+    {
+      "album": {
+        "name": "Ryker p\u00e5'a igjen",
+        "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145111,
+      "name": "Ryker p\u00e5'a igjen",
+      "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
     },
     {
       "album": {
@@ -7634,7 +7656,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 226946,
       "name": "Vakker og vill",
       "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"

@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-242 songs - 21 hr 8 min
+245 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Nyoka Wa Shaba](https://open.spotify.com/track/34U3RphRGFE3jcnxpPkAEc) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Nyoka Wa Shaba](https://open.spotify.com/album/0LHypfPhG4D8umpFPEpzXp) | 8:32 | 2025-03-28 | 2025-05-02 |
 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 | 2024-10-11 |  |
 | [Oluwa](https://open.spotify.com/track/28YZkqInvmqbK711J1xVeZ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Oluwa](https://open.spotify.com/album/4DJaOvhJfTkmZaMHLaihRz) | 2:55 | 2025-03-07 |  |
+| [On Top](https://open.spotify.com/track/4XaQh78CjGXkFFippDyuDY) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [On Top](https://open.spotify.com/album/4FyQPtWKABleYSM8JactGY) | 3:16 | 2025-07-11 |  |
 | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/track/2KpAGhLuf7SzVLHDOF4M1S) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/album/0yCHxjgEI4SqCDmye48Kvp) | 3:55 | 2023-07-14 | 2025-03-21 |
 | [Pale Ulipo](https://open.spotify.com/track/0csaw0BDKtHIaxb5HsPbRM) | [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM), [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Brand New Me](https://open.spotify.com/album/4PX1iirJp3PCFrrO5b5MZB) | 6:35 | 2025-03-07 |  |
 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 | 2022-06-24 | 2023-05-12 |
@@ -242,8 +243,10 @@
 | [Wema Wako](https://open.spotify.com/track/1fsTN4b4eo1rF7TZN66nu1) | [Shani](https://open.spotify.com/artist/3uHmV3XeCk49e97wofoRes), [Karwirwa Laura](https://open.spotify.com/artist/7zUicfuuQ82TkhpQp1AXvA) | [Wema Wako](https://open.spotify.com/album/18KByGJQOoZet9SDu4p43O) | 2:40 | 2024-02-16 | 2024-05-24 |
 | [Wewe Ni Mungu](https://open.spotify.com/track/5v9uesjBjZzLtyo14Fv9Md) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 3:35 | 2023-03-10 | 2025-03-28 |
 | [Wewe Ni Zaidi](https://open.spotify.com/track/6tbeRA24xQkjvqB7nmqcfo) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:20 | 2022-06-24 |  |
+| [Wewe Ni Zaidi](https://open.spotify.com/track/3nJcZmXfi1euuEuj5lbd2M) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Wewe Ni Zaidi](https://open.spotify.com/album/04lDZZW67Js2hT48OjZPtp) | 4:22 | 2025-07-11 |  |
 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 | 2022-06-24 | 2023-04-21 |
 | [Who You Are](https://open.spotify.com/track/7wGFgjK6ExstaxgaxMkUbq) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Who You Are](https://open.spotify.com/album/2rJn9soQ8jyta1maaJSQGM) | 2:21 | 2024-02-23 | 2024-09-06 |
+| [Yamekwisha](https://open.spotify.com/track/3fanFHEVq7NpudvP1LizRe) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [Yamekwisha](https://open.spotify.com/album/0awt0U85FgJVH0rxgW5Cd4) | 4:32 | 2025-07-11 |  |
 | [Yanashangaza](https://open.spotify.com/track/13IMFj8s9ehrpXCriCxtzR) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Yanashangaza](https://open.spotify.com/album/6rcwfHaazv5sH0OJ8AA5SP) | 4:19 | 2024-05-31 | 2024-11-22 |
 | [Yatupasa Kushukuru](https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [Yatupasa Kushukuru](https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd) | 4:43 | 2022-06-24 | 2023-06-16 |
 | [Yebo \(Nitawale\)](https://open.spotify.com/track/0LpsmMdrFo77ajgxiM7axD) | [Vestine and Dorcas](https://open.spotify.com/artist/1A9OmcsnDyYVidBEE7Mm4D) | [Yebo \(Nitawale\)](https://open.spotify.com/album/4UftFzSIK55k665kb9Wa1V) | 8:10 | 2025-05-26 |  |

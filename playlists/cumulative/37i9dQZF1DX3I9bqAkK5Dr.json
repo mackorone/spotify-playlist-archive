@@ -1497,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "Fierce",
+        "url": "https://open.spotify.com/album/519CM8Sv6vVPuYQYqSxK0C"
+      },
+      "artists": [
+        {
+          "name": "Dinker kalvala",
+          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
+        },
+        {
+          "name": "Saketh Komanduri",
+          "url": "https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/6QAjVRwHoryRaSfqPUq7m1"
+    },
+    {
+      "album": {
         "name": "FLYHIGH",
         "url": "https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR"
       },
@@ -3554,7 +3576,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 203821,
       "name": "Missu Mida Crushu",
       "url": "https://open.spotify.com/track/7tkGFbKkMRJrOv1nS5Ctoa"
@@ -7168,7 +7190,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 282716,
       "name": "Thappipoya",
       "url": "https://open.spotify.com/track/24qKy7u68bPdmziWi4kYHv"

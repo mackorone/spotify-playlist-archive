@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-729 songs - 1 day 12 hr 42 min
+730 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 | 2023-04-28 |
 | [All For You](https://open.spotify.com/track/67v9iKzTmtMmLaKgZqHo1n) | [Itro](https://open.spotify.com/artist/6fEZjgt9MHR4Hp3MiBRZHX), [SILIAS](https://open.spotify.com/artist/2aImGHMM1Jwppsg2sbtevv) | [All For You](https://open.spotify.com/album/5ZZWeZpjUcRRu51rTv7vyL) | 3:33 | 2023-12-13 | 2024-04-10 |
 | [All I Need](https://open.spotify.com/track/1VPJGLDloCNj0NTBWqWfPO) | [Ariadne](https://open.spotify.com/artist/5MTn6h662oQm25nnTVhpnK), [Karl Killing](https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN) | [All I Need](https://open.spotify.com/album/0rOlhLhw1LZ36Ac1AQdXEA) | 2:32 | 2023-12-13 | 2024-07-19 |
+| [All I Need](https://open.spotify.com/track/3Wt6ZGLHnKTPT2emFjvRJo) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [All I Need](https://open.spotify.com/album/3TBi6eBO6EGHrf1W9H9ZvQ) | 2:39 | 2025-07-10 |  |
 | [All Night](https://open.spotify.com/track/31KAh8M3Oo2ojqV3fY0xFa) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [All Night](https://open.spotify.com/album/7aMZWSmXeJEqU7RMLxALvc) | 2:36 | 2023-04-22 | 2023-08-10 |
 | [All or Nothing](https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [All or Nothing](https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2) | 3:03 | 2023-07-13 | 2023-08-10 |
 | [All Or Nothing](https://open.spotify.com/track/3hAXUsQoXs9vIY22fFZn9z) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [All Or Nothing](https://open.spotify.com/album/1HCA5Vrez4PKopNqbZykTO) | 3:26 | 2025-03-20 |  |

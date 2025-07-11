@@ -4345,6 +4345,28 @@
     },
     {
       "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/25ahu69SLbXVP60jlHrpAt"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Dani Siciliano",
+          "url": "https://open.spotify.com/artist/0FmDQmTLE8q1cOtLdmhhVF"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184859,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/00e1pgUUpOSk7dfbxXOjrq"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/7I1VmJNtSnoM82exSSoAxX"
       },
@@ -5346,7 +5368,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 303929,
       "name": "Light Through The Leaves",
       "url": "https://open.spotify.com/track/4Yq7rlqu3mvqe5lDiTlbWq"

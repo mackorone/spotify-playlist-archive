@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 129858,
+  "num_followers": 129857,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Halloween Parade",
-      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Evil Urges",
         "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Halloween Parade",
+      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "A Weekend In the City",
-        "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Hunting for Witches",
-      "url": "https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "A Weekend In the City",
+        "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Hunting for Witches",
+      "url": "https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl"
     },
     {
       "added_at": "2024-11-14 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Tr33
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,138 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,261 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 3 | [你知道你比晚霞好看嗎](https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN), [Seluu](https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o) | [你知道你比晚霞好看嗎](https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm) | 2:58 |
 | 4 | [香水](https://open.spotify.com/track/3Gmllm7uwfVYkaN4alhrVM) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP), [Nana Ou\-Yang](https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY) | [香水](https://open.spotify.com/album/4jcboTdzhoEarLTCwb0zwh) | 4:50 |
 | 5 | [數到十](https://open.spotify.com/track/73VL4sm5aHQWaWwZCEURsd) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [數到十](https://open.spotify.com/album/3hraLuOIsylxL46mXfYZAe) | 3:53 |
-| 6 | [糾結重啟](https://open.spotify.com/track/3tzxVED05RCsRNOQJElq98) | [琟娜 Verna](https://open.spotify.com/artist/66gwqjmihplb7x3FUfqzWH), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [糾結重啟](https://open.spotify.com/album/2eY4f34rfEOcK0iO714ybu) | 3:34 |
+| 6 | [糾結重啟](https://open.spotify.com/track/3tzxVED05RCsRNOQJElq98) | [琟娜 VERNA](https://open.spotify.com/artist/66gwqjmihplb7x3FUfqzWH), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [糾結重啟](https://open.spotify.com/album/2eY4f34rfEOcK0iO714ybu) | 3:34 |
 | 7 | [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 3:56 |
 | 8 | [見字如面](https://open.spotify.com/track/6cpmXTXrTBIdZVXbV5hfGh) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [見字如面](https://open.spotify.com/album/3kuLnRjzubwsrIgIfxginM) | 4:37 |
 | 9 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |

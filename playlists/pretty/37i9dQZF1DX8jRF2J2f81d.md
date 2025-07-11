@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 
 > The playlist for students, by students\. Powered by Student Music Network and Surf Radio at Falmouth University ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,862 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,865 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 | 26 | [Call Me When You Know Better](https://open.spotify.com/track/44fsfhkmrH8qgzcJP8BZwP) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Call Me When You Know Better](https://open.spotify.com/album/1hQBeGIANQMLcQ06iEO9uy) | 3:40 |
 | 27 | [Lawn Tennis](https://open.spotify.com/track/7ejTSljNUKugYwVzW9Ahpt) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Lawn Tennis](https://open.spotify.com/album/4t10VnshTvsVBR3aqYBoPU) | 2:25 |
 | 28 | [Insubordinate Ingerland](https://open.spotify.com/track/4Fh6pNe31HcswpSAc1sDTx) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Insubordinate Ingerland](https://open.spotify.com/album/41CQkod1eNII9PpYdNFF55) | 3:36 |
-| 29 | [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel Abbott](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 |
+| 29 | [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 |
 | 30 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 31 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 |
 | 32 | [ricochet](https://open.spotify.com/track/3AEUeL7mrkKR2g7Sv6YiZp) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [ricochet](https://open.spotify.com/album/0j1LBrdQ3rD8z0xtTdny71) | 3:07 |

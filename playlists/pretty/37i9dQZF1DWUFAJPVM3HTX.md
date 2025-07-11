@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr?si=Pi2iUrcgSE2G622YAp6GPw"> nyan</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,859 likes - 565 songs - 1 day 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,907 likes - 565 songs - 1 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,7 +223,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 213 | [Static](https://open.spotify.com/track/5yXNCJMFq5BKRgbBwaOpWL) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Static](https://open.spotify.com/album/57K7lBjEgKhzP55uIzK4GM) | 3:40 |
 | 214 | [closer sober](https://open.spotify.com/track/1ER6G9aFRwT365omRDh4ub) | [elmjack](https://open.spotify.com/artist/6cqD9al5Ez8vsr8eFDor7c), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe), [Calder Khare](https://open.spotify.com/artist/29fIzAu7pXX41VIQQQgMP0) | [closer sober](https://open.spotify.com/album/6ZUIoGXdnEpV3RA2zTcaG3) | 2:33 |
 | 215 | [PEACE](https://open.spotify.com/track/6Q3ecJ7PE3uzQy96hK4vri) | [Brandon Banks](https://open.spotify.com/artist/66eJQM6S5JsDe0CdUXnwST) | [PEACE](https://open.spotify.com/album/3mydBfdRTs5glon2n5CeJb) | 3:39 |
-| 216 | [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel Abbott](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 |
+| 216 | [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 |
 | 217 | [Love me better](https://open.spotify.com/track/17nVjYcycswzEGWi64bY6M) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [Love me better](https://open.spotify.com/album/4b5W79eiPt3cr7sj5E2Mnx) | 2:17 |
 | 218 | [Where is My Weed](https://open.spotify.com/track/4LVTnVVGi3c78amjQjXVwO) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [Where is My Weed](https://open.spotify.com/album/41Y1fTgu4Dg82hB12mCHLq) | 2:18 |
 | 219 | [Wasting Time](https://open.spotify.com/track/59vUtjLVDKlFtemXHqzGhr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Always On Time](https://open.spotify.com/album/3eVA8tg3rfoVPGIP4EwfdP) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u2600\ufe0fO teu ver\u00e3o alternativo chegou\u2600\ufe0f. Foto: M\u00e1rcia",
+  "description": "\u2600\ufe0fO teu ver\u00e3o alternativo chegou\u2600\ufe0f. Foto: The Favors",
   "name": "Ver\u00e3o Indie",
   "tracks": [
     {
@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "DIVAGAR",
+        "url": "https://open.spotify.com/album/5PeLMfcF5ZeQHZJ1rI1X80"
+      },
+      "artists": [
+        {
+          "name": "Nuno Cabral",
+          "url": "https://open.spotify.com/artist/0fINFcQpW4fdYSTBY0e0gq"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "DIVAGAR",
+      "url": "https://open.spotify.com/track/624r0HNNdqxnakN9DJv6lz"
+    },
+    {
+      "album": {
         "name": "do raso ao fundo",
         "url": "https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK"
       },
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 184000,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/27PxQOwtRXA4ofj1Y0QXPD"
@@ -2996,6 +3014,24 @@
       "duration_ms": 210833,
       "name": "manada",
       "url": "https://open.spotify.com/track/3agvhaqnzUrVt2wNmbQxJe"
+    },
+    {
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "album": {
@@ -3606,7 +3642,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 196621,
       "name": "O Que Esta Gente Quer",
       "url": "https://open.spotify.com/track/77tjQEZESDFz33XQEpPja6"
@@ -3834,7 +3870,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 178213,
       "name": "Picture Window",
       "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
@@ -4828,6 +4864,32 @@
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
+    },
+    {
+      "album": {
+        "name": "The Hudson",
+        "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216964,
+      "name": "The Hudson",
+      "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
     },
     {
       "album": {

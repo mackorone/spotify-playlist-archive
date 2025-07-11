@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb?si=hRifC1aNTbCGfMwf7zIAlQ">RCEE</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,476 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,478 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 43 | [Best \(feat\. Aunty Rayzor\)](https://open.spotify.com/track/6zR2AbpLS9kxhkswgVq59D) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [AUNTY RAYZOR](https://open.spotify.com/artist/2Fn2ztLqyHRiJw53gXonuz) | [Y'a Pas l'Homme](https://open.spotify.com/album/7qP5Aavx0zxVYJmp5EWrrl) | 2:21 |
 | 44 | [SOMETHNG](https://open.spotify.com/track/2O678oKDJdqwbZ7DUbdNA7) | [ATEE BRN](https://open.spotify.com/artist/6pDSMcvvjO5dJP6eutcPQW), [Iddo WurLd](https://open.spotify.com/artist/2J2Fy550EQH639CPpZkFKw), [BadmanQuba](https://open.spotify.com/artist/6a878fm2eYAWD3stiITfxM) | [SOMETHNG](https://open.spotify.com/album/5Hre17S9HoUV1lIP6U04rj) | 2:43 |
 | 45 | [OLAOLUWA](https://open.spotify.com/track/6o6Vu8iObyQW0wzC7LjqcK) | [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [Blue Roses & Red Violets](https://open.spotify.com/album/1G5lsx75BjEYVffrMyOHJn) | 2:45 |
-| 46 | [Somebody](https://open.spotify.com/track/0xQnd2imSJaTyzDChFZJV2) | [Ejiyk](https://open.spotify.com/artist/70zIw8ACpvFdf5WlXs9GCf) | [Somebody](https://open.spotify.com/album/6dlIjsllfT2btXyc3S70XW) | 2:15 |
+| 46 | [Somebody](https://open.spotify.com/track/0xQnd2imSJaTyzDChFZJV2) | [Ejiyk](https://open.spotify.com/artist/70zIw8ACpvFdf5WlXs9GCf) | [Somebody](https://open.spotify.com/album/6dlIjsllfT2btXyc3S70XW) | 2:16 |
 | 47 | [Save Me](https://open.spotify.com/track/72g8hrJhYx97IcRrb7X509) | [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Save Me](https://open.spotify.com/album/2sPquLoHKR06VUGlzlslmv) | 3:06 |
 | 48 | [Normally](https://open.spotify.com/track/5FnIzLEHEdnIFdFgg7BwGH) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Normally](https://open.spotify.com/album/6nUEcwfN3v8cLhdXVLdNhb) | 2:36 |
 | 49 | [Than All \[2\]](https://open.spotify.com/track/1IGOYnjQk8I8QRTCKLB93v) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Than All \[2\]](https://open.spotify.com/album/3aLRoGblO2UEE6P3GsTHGj) | 2:21 |

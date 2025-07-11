@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-924 songs - 1 day 16 hr 6 min
+925 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,6 +884,7 @@
 | [What Could've Been Love](https://open.spotify.com/track/4by9fjd5boKIgneGcXsxvN) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [What Could've Been Love](https://open.spotify.com/album/4bJN7g2Ep65gMycqc1gdb1) | 2:34 | 2025-01-18 | 2025-02-24 |
 | [What Goes Around](https://open.spotify.com/track/1j15Phx90gIyFNj0ZUs5SF) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [What Goes Around](https://open.spotify.com/album/7wXtPA9IG84TWgWXQ9jrYK) | 2:36 | 2024-07-28 | 2024-09-02 |
 | [What I Hope](https://open.spotify.com/track/5RbOuBKXy5FF4ogE9WsAK3) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [What I Hope](https://open.spotify.com/album/6DGYEiIQ9BmFhFp7B1mIRF) | 2:08 | 2024-02-25 | 2024-03-25 |
+| [What If](https://open.spotify.com/track/67z55HNqcbxlrJXn5QDNNy) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [What If](https://open.spotify.com/album/1Zmwj7xyxjNeDB5d7OXi1m) | 2:50 | 2025-07-10 |  |
 | [What Is Love](https://open.spotify.com/track/1tmXZJaq0HlT17l4SWPlKY) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX) | [What Is Love](https://open.spotify.com/album/4HrhnO5TAZrbbuIwX1bxVP) | 2:26 | 2024-06-24 | 2024-10-11 |
 | [What Was I For You](https://open.spotify.com/track/7pspBaJSLzBqRphRrnozGv) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [LDVC](https://open.spotify.com/artist/7EShHZRP35PHBA0FXwrI4f), [Jan Liva](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [What Was I For You](https://open.spotify.com/album/7EsW7SKS2stMDtWQaiXy1I) | 2:17 | 2024-12-01 | 2025-03-17 |
 | [What We Best Do](https://open.spotify.com/track/35s6mH2lDL4o2OzyZg6Z8O) | [muuno](https://open.spotify.com/artist/0MWLVPNoBVvkwtfJiBGlm5), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [What We Best Do](https://open.spotify.com/album/27qkQUeZSdWumxrX6I4u4v) | 2:44 | 2025-04-21 |  |

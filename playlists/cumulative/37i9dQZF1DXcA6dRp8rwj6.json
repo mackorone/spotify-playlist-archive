@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Chance the Rapper)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: MILLI)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -5487,6 +5487,24 @@
     },
     {
       "album": {
+        "name": "Bars and BBQs",
+        "url": "https://open.spotify.com/album/5QnYhS0d7Rdm51J1WAgFt5"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "Bars and BBQs",
+      "url": "https://open.spotify.com/track/0B0uNI2m1ACui50VLP3mcB"
+    },
+    {
+      "album": {
         "name": "Marvelous Right Wrist",
         "url": "https://open.spotify.com/album/6urAXKYpK5C1oIB8AHKcBn"
       },
@@ -10705,6 +10723,28 @@
     },
     {
       "album": {
+        "name": "Change Your Mind (feat. Shaboozey)",
+        "url": "https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148705,
+      "name": "Change Your Mind (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC"
+    },
+    {
+      "album": {
         "name": "Changed",
         "url": "https://open.spotify.com/album/50AdhgOPWfkkzwXStLOCz9"
       },
@@ -12986,6 +13026,28 @@
       "duration_ms": 176105,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
+    },
+    {
+      "album": {
+        "name": "Damage Control (feat. Wale)",
+        "url": "https://open.spotify.com/album/56TM7J9s2CJzz8bHHtAbi4"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96451,
+      "name": "Damage Control (feat. Wale)",
+      "url": "https://open.spotify.com/track/3GqSx8cUqM4iC12tAiE62O"
     },
     {
       "album": {
@@ -19216,7 +19278,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 141901,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/74kLIWUGkBj9fvGAevAhZS"
@@ -19737,7 +19799,7 @@
         },
         {
           "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8"
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
         }
       ],
       "date_added": "2025-06-27",
@@ -19870,6 +19932,36 @@
       "duration_ms": 195463,
       "name": "GANANIKA",
       "url": "https://open.spotify.com/track/5VGslDcbunMcITNpdt8VGY"
+    },
+    {
+      "album": {
+        "name": "Gang Gang Gangland",
+        "url": "https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg"
+      },
+      "artists": [
+        {
+          "name": "Chef Boy",
+          "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Gang Gang Gangland",
+      "url": "https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z"
     },
     {
       "album": {
@@ -21554,7 +21646,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 121519,
       "name": "GoROUND",
       "url": "https://open.spotify.com/track/4YtuYDR319Xp5GsguDOMcw"
@@ -22954,7 +23046,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 168333,
       "name": "Helium (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS"
@@ -23910,7 +24002,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 180380,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir"
@@ -27381,6 +27473,28 @@
     },
     {
       "album": {
+        "name": "Jackson 5",
+        "url": "https://open.spotify.com/album/5nFSLfrPGlt73s2JaAU8cV"
+      },
+      "artists": [
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        },
+        {
+          "name": "Keyon Lowquan",
+          "url": "https://open.spotify.com/artist/6MrQnQMH0JqvhHh4b9e1Gi"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193263,
+      "name": "Jackson 5",
+      "url": "https://open.spotify.com/track/3ODMiWHDaOQxV2Xy1pb8RF"
+    },
+    {
+      "album": {
         "name": "Can't Stop Won't Stop",
         "url": "https://open.spotify.com/album/1EIL06Gfz6gu3czvCPMSi6"
       },
@@ -27730,7 +27844,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 128002,
       "name": "Johnny Dang",
       "url": "https://open.spotify.com/track/7zvKCCQo3KVuhsX7ksVekd"
@@ -29638,7 +29752,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 210960,
       "name": "Leave Me Alone (ft. Dr. Dre & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4F3KSgun31tWMRP0eI8pnv"
@@ -32758,7 +32872,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 158270,
       "name": "Me N OG Snoop",
       "url": "https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4"
@@ -34860,7 +34974,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 198913,
       "name": "My G's (feat. SEEDA)",
       "url": "https://open.spotify.com/track/1uo0oC9gTWFfdpBKk6yAqN"
@@ -35214,6 +35328,24 @@
       "duration_ms": 148693,
       "name": "NAFAS JAAN",
       "url": "https://open.spotify.com/track/5vSLoi3axfpz0MjNfQnwZp"
+    },
+    {
+      "album": {
+        "name": "IEGUMO",
+        "url": "https://open.spotify.com/album/3IUORVpK7gvXnL1nG56cUJ"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92893,
+      "name": "Nah \u3060",
+      "url": "https://open.spotify.com/track/6V2f3APqea1JU5g7c2Z3zr"
     },
     {
       "album": {
@@ -47395,6 +47527,24 @@
     },
     {
       "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "SICK WITH IT",
+      "url": "https://open.spotify.com/track/6ZBQ9fevUeMyDumDHPgOeH"
+    },
+    {
+      "album": {
         "name": "i5u5we5",
         "url": "https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d"
       },
@@ -48702,7 +48852,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 202500,
       "name": "So Sexyy (with Sexyy Redd & YTB Fatt)",
       "url": "https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw"
@@ -49346,7 +49496,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 158764,
       "name": "Sound Body",
       "url": "https://open.spotify.com/track/3hp7GJP9aRyWxkEyhe4XOI"
@@ -49434,7 +49584,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 191086,
       "name": "SPEED",
       "url": "https://open.spotify.com/track/0Adv0j8PGXzpxewJNJNebZ"
@@ -53791,6 +53941,28 @@
     },
     {
       "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172081,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
+    },
+    {
+      "album": {
         "name": "THE MOON MAN SURVIVES",
         "url": "https://open.spotify.com/album/5OEMY4wNoegQP24n8pVbEk"
       },
@@ -54794,6 +54966,36 @@
       "duration_ms": 126627,
       "name": "Time Crisis",
       "url": "https://open.spotify.com/track/14mwus7gOtHaktHg07f2Ef"
+    },
+    {
+      "album": {
+        "name": "Time is Money",
+        "url": "https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197837,
+      "name": "Time Is Money",
+      "url": "https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi"
     },
     {
       "album": {
@@ -57847,6 +58049,24 @@
     },
     {
       "album": {
+        "name": "Villainous Freestyle",
+        "url": "https://open.spotify.com/album/48h2Tlyquz569oCnSVmbkq"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Villainous Freestyle",
+      "url": "https://open.spotify.com/track/6yqSbzeBZzsANKGBompjMX"
+    },
+    {
+      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -58940,7 +59160,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 175718,
       "name": "WE NOT DONE",
       "url": "https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB"

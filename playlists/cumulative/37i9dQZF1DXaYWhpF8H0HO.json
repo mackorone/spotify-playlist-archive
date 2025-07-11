@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Weda Mauve",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: no na",
   "name": "Ke Seberang",
   "tracks": [
+    {
+      "album": {
+        "name": "43210",
+        "url": "https://open.spotify.com/album/4FWtBj1ZEJTJYmRPUSiJ0u"
+      },
+      "artists": [
+        {
+          "name": "Heiakim",
+          "url": "https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1"
+        },
+        {
+          "name": "low mana",
+          "url": "https://open.spotify.com/artist/6e5p88pjUjA4y7R34rUHiw"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150953,
+      "name": "0strich ran faster than me, wth",
+      "url": "https://open.spotify.com/track/7vztj6iiU61WTqKpFlq1wc"
+    },
     {
       "album": {
         "name": "1ntertwined",
@@ -505,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/69UQdIw1QyoN5u04lnGCzh"
+      },
+      "artists": [
+        {
+          "name": "Abirama",
+          "url": "https://open.spotify.com/artist/3HG4TWFZT4xWNiQgIPhZBq"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250322,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/1ZUhjTuX9nbHLcFpiVQlwK"
+    },
+    {
+      "album": {
         "name": "Baby (Let Me Go)",
         "url": "https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H"
       },
@@ -674,6 +714,24 @@
       "duration_ms": 217815,
       "name": "Be With Me",
       "url": "https://open.spotify.com/track/6HhAhM9w5RMJEa1mHysHEI"
+    },
+    {
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/4gzmxaEfuzHzbLpVBh1BHD"
+      },
+      "artists": [
+        {
+          "name": "El Michael",
+          "url": "https://open.spotify.com/artist/0zaGFZuyRciaCL3GQWApUS"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257380,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/195BQNAlavPubYDUfFIqPu"
     },
     {
       "album": {
@@ -862,7 +920,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 245078,
       "name": "blink",
       "url": "https://open.spotify.com/track/6o3T8kFESS80zxTKDdyiGd"
@@ -1064,7 +1122,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 248195,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7jjSkcLMIVQT0w9LlsfL9q"
@@ -1812,7 +1870,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 196875,
       "name": "Don't Say I Never Loved You (DSINLY)",
       "url": "https://open.spotify.com/track/7KmuYmySYyCGXOa7iBgt6t"
@@ -2004,6 +2062,24 @@
       "duration_ms": 180000,
       "name": "evening in senayan",
       "url": "https://open.spotify.com/track/4PMfPiUMzOTahCjnHDKIkA"
+    },
+    {
+      "album": {
+        "name": "Everyday In Love",
+        "url": "https://open.spotify.com/album/0SWLkZ2hvi66HTbjcQ6uMo"
+      },
+      "artists": [
+        {
+          "name": "SA\u00c8",
+          "url": "https://open.spotify.com/artist/1HtIXiM6wEmcQQ3K7IM2BO"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204425,
+      "name": "Everyday In Love",
+      "url": "https://open.spotify.com/track/3rPRI5eW9ypP4Lghe9iq7Z"
     },
     {
       "album": {
@@ -2517,6 +2593,24 @@
     },
     {
       "album": {
+        "name": "Game of Love",
+        "url": "https://open.spotify.com/album/3ieOrO22LhBP4hPPI7OVLB"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115875,
+      "name": "Game of Love",
+      "url": "https://open.spotify.com/track/4k3oDf9y3XJ9buBQU7qbGb"
+    },
+    {
+      "album": {
         "name": "Gentle Agreement",
         "url": "https://open.spotify.com/album/7F7VLs071GYrSmTEzqRjJ8"
       },
@@ -2781,6 +2875,28 @@
     },
     {
       "album": {
+        "name": "Guns",
+        "url": "https://open.spotify.com/album/5icW3F94z3FdkoTEoDejwd"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189942,
+      "name": "Guns",
+      "url": "https://open.spotify.com/track/0WsNPJMr6iHSi5vbVAcdz4"
+    },
+    {
+      "album": {
         "name": "Hallucinating",
         "url": "https://open.spotify.com/album/5S1Um41uYuVKOpMBcI8z1i"
       },
@@ -2890,7 +3006,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 189129,
       "name": "HENSHIN",
       "url": "https://open.spotify.com/track/1mmS6KmwxjQPpDdwBoHBsI"
@@ -3106,7 +3222,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 274730,
       "name": "hush",
       "url": "https://open.spotify.com/track/6Dv7W37km5fOeuHdAUdJJD"
@@ -3420,7 +3536,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 158363,
       "name": "im tired doing things without love",
       "url": "https://open.spotify.com/track/29FyagCu9YaPRR1U28LJ4t"
@@ -3644,7 +3760,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 232000,
       "name": "I\u2019LL BE YOUR PAIN",
       "url": "https://open.spotify.com/track/4muyJ5JfkGoc7CPjuYf8y1"
@@ -3702,7 +3818,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 156121,
       "name": "Jumpy (feat. Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS"
@@ -3790,6 +3906,24 @@
       "duration_ms": 180681,
       "name": "KIDDIN'",
       "url": "https://open.spotify.com/track/0BQEXEBuN6i872rhcnDQXX"
+    },
+    {
+      "album": {
+        "name": "Knights of Jahannam / Soma Gospel",
+        "url": "https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209842,
+      "name": "Knights of Jahannam",
+      "url": "https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0"
     },
     {
       "album": {
@@ -4080,6 +4214,24 @@
       "duration_ms": 186352,
       "name": "Light",
       "url": "https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ"
+    },
+    {
+      "album": {
+        "name": "orchids (lullabies)",
+        "url": "https://open.spotify.com/album/5xAs8lHAgIS31jlaXBnYYD"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154671,
+      "name": "like an orchid / kembali - Baila's Lullaby",
+      "url": "https://open.spotify.com/track/0Pvg96gOZIBHrlcWfXivQm"
     },
     {
       "album": {
@@ -5127,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Nothing Left For You",
+        "url": "https://open.spotify.com/album/2ul9lPYCbO7UFLhrEhHQ5N"
+      },
+      "artists": [
+        {
+          "name": "Ei",
+          "url": "https://open.spotify.com/artist/3bcAVVQaEz0ruGunLrjvw0"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219932,
+      "name": "Nothing Left For You",
+      "url": "https://open.spotify.com/track/3ITlOAXoVqK3X8dPXEFlGc"
+    },
+    {
+      "album": {
         "name": "Nothing More Than That",
         "url": "https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz"
       },
@@ -6128,7 +6298,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 138163,
       "name": "Some Things Change",
       "url": "https://open.spotify.com/track/1Bf4teWLvVPtZpknMHeaOF"
@@ -6251,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "Sour Candy",
+        "url": "https://open.spotify.com/album/6AST0741qWPUcJAr2HfsCp"
+      },
+      "artists": [
+        {
+          "name": "Tripov",
+          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sour Candy",
+      "url": "https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ"
+    },
+    {
+      "album": {
         "name": "Space & Time",
         "url": "https://open.spotify.com/album/3XExdzq3IxgpNLkSSLjA8s"
       },
@@ -6364,6 +6552,24 @@
       "duration_ms": 200000,
       "name": "Stay Asleep",
       "url": "https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I"
+    },
+    {
+      "album": {
+        "name": "Stay?",
+        "url": "https://open.spotify.com/album/0xC0kRCunorrZJ40ImAhjY"
+      },
+      "artists": [
+        {
+          "name": "Satrio Pamungkas",
+          "url": "https://open.spotify.com/artist/1XfSriHUiYbgNbngsYlCBg"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Stay?",
+      "url": "https://open.spotify.com/track/3BN1BLJzz1LQzdrMNfqPDZ"
     },
     {
       "album": {
@@ -6624,6 +6830,24 @@
       "duration_ms": 187235,
       "name": "superstitious",
       "url": "https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"
+    },
+    {
+      "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/5rvS97WjRAIgSl8vZVvgeK"
+      },
+      "artists": [
+        {
+          "name": "Rasyiqa",
+          "url": "https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295568,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/3UfJsm3CYBlDolv4MzNXM4"
     },
     {
       "album": {
@@ -7044,7 +7268,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 210083,
       "name": "Touch (feat. Khole)",
       "url": "https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc"
@@ -7098,7 +7322,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 283440,
       "name": "Trust In You",
       "url": "https://open.spotify.com/track/2qNDCgnhSyeNY8qKuhmtfZ"
@@ -7428,7 +7652,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 240023,
       "name": "What A Fool I've Been",
       "url": "https://open.spotify.com/track/2esuQKEEVkOxXiusLBP7kb"
@@ -7686,7 +7910,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 205299,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/3F3ZI125ELpWlJTSGV7rOy"
@@ -7848,7 +8072,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 209933,
       "name": "Yours Forever",
       "url": "https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ"

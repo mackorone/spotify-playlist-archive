@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Foo Fighters",
+  "description": "The UK's biggest rock playlist. Cover: Deftones",
   "name": "The Rock List",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 221193,
       "name": "'Bout To Lose It",
       "url": "https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 212733,
       "name": "A Brand New God",
       "url": "https://open.spotify.com/track/1tMJAI8SdpPee1dG1eFUVb"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 214008,
       "name": "A Cowboy Song",
       "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
@@ -680,6 +680,24 @@
       "duration_ms": 212706,
       "name": "Addicted to the Wicked & Twisted",
       "url": "https://open.spotify.com/track/0zGDTGavhrr5ADw7jt1uXV"
+    },
+    {
+      "album": {
+        "name": "Adored",
+        "url": "https://open.spotify.com/album/66Y5iYKCL1lhb5aOvwVaFe"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250239,
+      "name": "Adored",
+      "url": "https://open.spotify.com/track/1hO9i2zie9Ociw0Goh1Ots"
     },
     {
       "album": {
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 164722,
       "name": "BRAINROT",
       "url": "https://open.spotify.com/track/10xlm1z0JiePh1Z6eGecCo"
@@ -3134,6 +3152,24 @@
       "duration_ms": 256146,
       "name": "Cherophobe",
       "url": "https://open.spotify.com/track/5N2s4ZcU9sAuEHlnOMGzny"
+    },
+    {
+      "album": {
+        "name": "Cherry Bomb",
+        "url": "https://open.spotify.com/album/2XxmkIbbCw20xkmB61Va4C"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178583,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/0hiQoqVVLjG6PTUTQEpTb5"
     },
     {
       "album": {
@@ -3794,7 +3830,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 194491,
       "name": "Cutthroat",
       "url": "https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX"
@@ -4310,7 +4346,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 256795,
       "name": "Diva",
       "url": "https://open.spotify.com/track/3TRftl5G4bhM74bwq1Q6qx"
@@ -4660,7 +4696,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 203370,
       "name": "Entertainer",
       "url": "https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8"
@@ -5104,6 +5140,24 @@
       "duration_ms": 181847,
       "name": "Favourite Toy",
       "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
+    },
+    {
+      "album": {
+        "name": "FEAR OF HEIGHTS",
+        "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154189,
+      "name": "FEAR OF HEIGHTS",
+      "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
     },
     {
       "album": {
@@ -7031,6 +7085,24 @@
     },
     {
       "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2"
+      },
+      "artists": [
+        {
+          "name": "The Hunna",
+          "url": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187995,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC"
+    },
+    {
+      "album": {
         "name": "Hide Your Kids",
         "url": "https://open.spotify.com/album/7cM1dj0HtCAGN85Fr7a7yc"
       },
@@ -8020,7 +8092,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
@@ -9838,10 +9910,28 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 150250,
       "name": "Man on The Moon",
       "url": "https://open.spotify.com/track/5axqHofGz7te1YRAVJiXPA"
+    },
+    {
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "album": {
@@ -10667,6 +10757,24 @@
     },
     {
       "album": {
+        "name": "my mind is a mountain",
+        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
+    },
+    {
+      "album": {
         "name": "My Thoughts Go",
         "url": "https://open.spotify.com/album/2Xmyy15pLd7NwLjc1PAjXT"
       },
@@ -10682,6 +10790,24 @@
       "duration_ms": 222616,
       "name": "My Thoughts Go",
       "url": "https://open.spotify.com/track/0HgiTjbuOBalJw2QgDlR0H"
+    },
+    {
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/1LgDzmVzpgFJatwtnS8ZAO"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166787,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/6q2Gzh3yVPq8dtZbudMFJO"
     },
     {
       "album": {
@@ -11179,6 +11305,24 @@
     },
     {
       "album": {
+        "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+        "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194672,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
+    },
+    {
+      "album": {
         "name": "Nothing Higher",
         "url": "https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u"
       },
@@ -11208,7 +11352,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 214863,
       "name": "Nothing Romantic",
       "url": "https://open.spotify.com/track/2YrgXToRaonZKrNd1okFlw"
@@ -12332,7 +12476,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 268978,
       "name": "Play Dead",
       "url": "https://open.spotify.com/track/5p0arvR1JgUDotPjCfNQtF"
@@ -12686,6 +12830,24 @@
       "duration_ms": 200080,
       "name": "Queen",
       "url": "https://open.spotify.com/track/3MrNIwLUAY4UDa0KiL9oCy"
+    },
+    {
+      "album": {
+        "name": "Quiet Life",
+        "url": "https://open.spotify.com/album/4JEcW2oUgU5JRTr25eSgn2"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196346,
+      "name": "Quiet Life",
+      "url": "https://open.spotify.com/track/1G0f99jVblkI1pK8uba38S"
     },
     {
       "album": {
@@ -13108,6 +13270,24 @@
       "duration_ms": 170700,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/78a7f77nDd9GlqBsImCGJT"
+    },
+    {
+      "album": {
+        "name": "Roobosh",
+        "url": "https://open.spotify.com/album/3NZo87MKa0nCKlqbk6BoR5"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200501,
+      "name": "Roobosh",
+      "url": "https://open.spotify.com/track/4SGcQ6xwzsSPhugTOgcp7n"
     },
     {
       "album": {
@@ -13548,6 +13728,24 @@
       "duration_ms": 219575,
       "name": "Seeing Red",
       "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "album": {
+        "name": "SELF IMMOLATION",
+        "url": "https://open.spotify.com/album/1qw8qRxpoEr7zNvzBzXB7X"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "SELF IMMOLATION",
+      "url": "https://open.spotify.com/track/0YGX5dJImOOEy8zXYLMMIE"
     },
     {
       "album": {
@@ -14665,6 +14863,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/2nDgwNY4PenuB1s6xDDxq6"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241773,
+      "name": "Steve",
+      "url": "https://open.spotify.com/track/7oRK3V3LEA68lEnfZdrm0H"
+    },
+    {
+      "album": {
         "name": "Still Alive (From the Original Motion Picture Scream VI)",
         "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
       },
@@ -14918,7 +15134,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 172510,
       "name": "SUCKERPUNCH",
       "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
@@ -16035,6 +16251,24 @@
     },
     {
       "album": {
+        "name": "The Weather",
+        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
+    },
+    {
+      "album": {
         "name": "The Worst Person Alive",
         "url": "https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz"
       },
@@ -16889,6 +17123,24 @@
     },
     {
       "album": {
+        "name": "vampire diaries",
+        "url": "https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155347,
+      "name": "vampire diaries",
+      "url": "https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ"
+    },
+    {
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
@@ -17232,7 +17484,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 178497,
       "name": "Waterboy",
       "url": "https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO"
@@ -18206,7 +18458,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 229016,
       "name": "your name forever",
       "url": "https://open.spotify.com/track/25HmjsZYDISFMQmeZoQvkz"

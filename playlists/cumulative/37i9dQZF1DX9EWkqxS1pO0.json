@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: La\u00e7in",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Reaktive x SEG x Ekin Alkan x Segah",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -744,7 +744,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 212291,
       "name": "Bir Daha Kap\u0131m\u0131 \u00c7alma",
       "url": "https://open.spotify.com/track/0SzChyb7DfyrKxv0WgTptr"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 155714,
       "name": "Bu Ne Bela",
       "url": "https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 152307,
       "name": "Davet",
       "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
@@ -1537,6 +1537,36 @@
     },
     {
       "album": {
+        "name": "Geriye D\u00f6nemem",
+        "url": "https://open.spotify.com/album/5ZGWJ39gl0xNPhWXYaMo6T"
+      },
+      "artists": [
+        {
+          "name": "Reaktive",
+          "url": "https://open.spotify.com/artist/4HZBOaKcf8FjVoFvdTKoMG"
+        },
+        {
+          "name": "SEG",
+          "url": "https://open.spotify.com/artist/0ODb5a6uwuQvYxq58bPD5J"
+        },
+        {
+          "name": "Ekin Alkan",
+          "url": "https://open.spotify.com/artist/0i4hCPoTk7AFp2i10Qwxud"
+        },
+        {
+          "name": "Segah",
+          "url": "https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201304,
+      "name": "Geriye D\u00f6nemem",
+      "url": "https://open.spotify.com/track/3oQcGsDAHQ82QUWQDRWCem"
+    },
+    {
+      "album": {
         "name": "GE\u00c7ER D\u0130YE BEKLED\u0130M",
         "url": "https://open.spotify.com/album/0uEergbwCrhtiOioUa3FHv"
       },
@@ -1800,7 +1830,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Hala Niye Burday\u0131m",
       "url": "https://open.spotify.com/track/4nEb2EscWMff2wh3l0yK6e"
@@ -1984,7 +2014,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 179220,
       "name": "\u0130nsan Sanm\u0131\u015ft\u0131m Seni",
       "url": "https://open.spotify.com/track/4bqX5bfH6Hekw2ufxk0DlA"
@@ -4012,7 +4042,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 200637,
       "name": "Ya\u011fmur",
       "url": "https://open.spotify.com/track/6erkUcvYjpO1PXl2MB55ni"
@@ -4484,6 +4514,24 @@
       "duration_ms": 232000,
       "name": "\u00c7ocuk",
       "url": "https://open.spotify.com/track/3IKHQ0NqE18OkM283gMR6b"
+    },
+    {
+      "album": {
+        "name": "\u00c7ok Benziyorsun",
+        "url": "https://open.spotify.com/album/1V85sLGfJ1qYwU7BX18RPg"
+      },
+      "artists": [
+        {
+          "name": "Can Artsan",
+          "url": "https://open.spotify.com/artist/4V97EwFBVuXfAAjLrqC2jt"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "\u00c7ok Benziyorsun",
+      "url": "https://open.spotify.com/track/5FOHqzcJrbClIfaPPJNJy6"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Hamza au top de la première playlist de rap français.
+> R2 au top de la première playlist de rap français.
 
 345 songs - 17 hr 42 min
 

@@ -22331,6 +22331,28 @@
     },
     {
       "album": {
+        "name": "On The Line",
+        "url": "https://open.spotify.com/album/5RQUgWERLK70zsb7j3lfAo"
+      },
+      "artists": [
+        {
+          "name": "Pierse",
+          "url": "https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg"
+        },
+        {
+          "name": "Lumin8",
+          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135572,
+      "name": "On The Line",
+      "url": "https://open.spotify.com/track/7fZQtGPRPK3b0LZiGpgGV7"
+    },
+    {
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/7wjucFJanIucPHvc2W7inR"
       },
@@ -25750,7 +25772,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 227983,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/4pEEaVhg7B1JJks7HmBNQI"
@@ -28828,7 +28850,7 @@
       ],
       "date_added": "2020-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 192755,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/1kwJP2mZ7NSFvtuAxqtCED"
@@ -29150,6 +29172,28 @@
       "duration_ms": 167845,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ"
+    },
+    {
+      "album": {
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/20WfGKw9of8HuiAA1BNJYE"
+      },
+      "artists": [
+        {
+          "name": "Tom Brownlow",
+          "url": "https://open.spotify.com/artist/78wKYRdzGGl4sYUFx5gRAn"
+        },
+        {
+          "name": "JenJammin Sax",
+          "url": "https://open.spotify.com/artist/14CGsNaulO6vZo31rryfta"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152849,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/7BT8GUh4abNGdHuMgIIBBO"
     },
     {
       "album": {

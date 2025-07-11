@@ -1,12 +1,12 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 52043,
+  "num_followers": 52143,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGcZ4QAAAACqc0SMZCRFtFsotxfDOAYj",
+  "snapshot_id": "aHBUUgAAAABcHR7dqVv9lZlI75J9+T0B",
   "tracks": [
     {
       "added_at": "2024-07-26 00:01:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Lara George",
+        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
+      },
+      "artists": [
+        {
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
+        }
+      ],
+      "duration_ms": 269113,
+      "name": "Ko Ma Si/ Nobody Like You",
+      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Dide (Soundtracks from the movie ENOCH)",
         "url": "https://open.spotify.com/album/5YaA3qQpHQMnUZjY3B8yzH"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 201599,
       "name": "Dide",
       "url": "https://open.spotify.com/track/1ySo3tFztJvwjCjnDLRxK5"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Lara George",
-        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
-      },
-      "artists": [
-        {
-          "name": "Lara George",
-          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
-        }
-      ],
-      "duration_ms": 269113,
-      "name": "Ko Ma Si/ Nobody Like You",
-      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Nekwa Mu",
-        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        }
-      ],
-      "duration_ms": 162655,
-      "name": "Nekwa Mu",
-      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Iwo Loba",
         "url": "https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 893936,
       "name": "Iwo Loba",
       "url": "https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Nekwa Mu",
+        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 162655,
+      "name": "Nekwa Mu",
+      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Midnight Cry, Vol. 2",
-        "url": "https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 1442088,
-      "name": "Midnight Cry, Vol. 2",
-      "url": "https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd"
-    },
-    {
       "added_at": "2024-08-23 00:01:00",
       "album": {
         "name": "Song of Angels (The Call)",
@@ -1083,6 +1067,22 @@
       "duration_ms": 369255,
       "name": "Song of Angels (The Call)",
       "url": "https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Midnight Cry, Vol. 2",
+        "url": "https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 1442088,
+      "name": "Midnight Cry, Vol. 2",
+      "url": "https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1405,20 +1405,24 @@
       "url": "https://open.spotify.com/track/47AuDsrAwLlkaKZMtthqX9"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Intercession",
-        "url": "https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb"
+        "name": "Awofuwo",
+        "url": "https://open.spotify.com/album/5qWIB74h8PVysO1QMcSjCx"
       },
       "artists": [
         {
-          "name": "Caleb Music",
-          "url": "https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0"
+          "name": "Olivertherain",
+          "url": "https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
         }
       ],
-      "duration_ms": 326064,
-      "name": "Intercession",
-      "url": "https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7"
+      "duration_ms": 346323,
+      "name": "Awofuwo",
+      "url": "https://open.spotify.com/track/4jDtIlGX6AmW2NFJTcRpiL"
     }
   ],
   "unique_name": "Worship Chants",

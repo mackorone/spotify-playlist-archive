@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "artificial light",
+        "url": "https://open.spotify.com/album/2FQnbUiFMwoLUOGxY2TrNZ"
+      },
+      "artists": [
+        {
+          "name": "shot by stanley",
+          "url": "https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270119,
+      "name": "artificial light",
+      "url": "https://open.spotify.com/track/3MTjeFi4TKj2PsGOtTflwS"
+    },
+    {
+      "album": {
         "name": "Boavista Remixes",
         "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
       },
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 191704,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
@@ -3624,6 +3642,24 @@
       "duration_ms": 219692,
       "name": "Message from Beyond - Spotify Edit",
       "url": "https://open.spotify.com/track/0FiafMTU21n3y0cwMOH9av"
+    },
+    {
+      "album": {
+        "name": "Mindcirculation",
+        "url": "https://open.spotify.com/album/5XCiRabpYzFxyt8YTXHFif"
+      },
+      "artists": [
+        {
+          "name": "Prevision",
+          "url": "https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362343,
+      "name": "Mindcirculation",
+      "url": "https://open.spotify.com/track/5XngWSWIKCZ9Jd8eGtTkwc"
     },
     {
       "album": {

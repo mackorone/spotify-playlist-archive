@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 363383,
+  "num_followers": 363392,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
+        "name": "Very Best Of",
+        "url": "https://open.spotify.com/album/53TLQwKkFTn0eSqMzPsse6"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Rescue Me - Single Version",
+      "url": "https://open.spotify.com/track/6PchKwjaU56tU8HcFYhuGv"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 173866,
       "name": "You're All I Need To Get By",
       "url": "https://open.spotify.com/track/5eZ6igEpm6n3h2ygKP3Vq4"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
-        "name": "Very Best Of",
-        "url": "https://open.spotify.com/album/53TLQwKkFTn0eSqMzPsse6"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Rescue Me - Single Version",
-      "url": "https://open.spotify.com/track/6PchKwjaU56tU8HcFYhuGv"
     },
     {
       "added_at": "2024-06-03 14:49:59",

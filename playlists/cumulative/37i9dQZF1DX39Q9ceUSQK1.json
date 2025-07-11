@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Queen's Pleasure",
+  "description": "Nieuwe alternative & rock releases. Cover: Wet Leg",
   "name": "New Alternative",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 173980,
       "name": "2016 Souvenir",
       "url": "https://open.spotify.com/track/5NU4wuMNc1cmmU1Hz7bAS6"
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Art School",
+        "url": "https://open.spotify.com/album/3yOPrQoGWoduBFEUtF4N9B"
+      },
+      "artists": [
+        {
+          "name": "Library Card",
+          "url": "https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120999,
+      "name": "Art School",
+      "url": "https://open.spotify.com/track/2pjSXlkwwlqEhoGtUpXeqr"
+    },
+    {
+      "album": {
         "name": "Audacious",
         "url": "https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 158760,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/47x33fckrWvLk82Hc4cJfK"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 227586,
       "name": "Bloom Baby Bloom",
       "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 365426,
       "name": "Circle of Trust",
       "url": "https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp"
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 235013,
       "name": "Event of a Fire",
       "url": "https://open.spotify.com/track/6XeNjkIGrphY3kzyU5RZJk"
@@ -2892,6 +2910,24 @@
       "duration_ms": 651992,
       "name": "Gethsemane",
       "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
+    },
+    {
+      "album": {
+        "name": "Getting Ahead",
+        "url": "https://open.spotify.com/album/4XHFnzxdk9jJTrPZ4qG8ob"
+      },
+      "artists": [
+        {
+          "name": "Texoprint",
+          "url": "https://open.spotify.com/artist/3Crxw3x5GQwDrhY51BNcMi"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Getting Ahead",
+      "url": "https://open.spotify.com/track/3OTkfcpp5oYNpv1ROXy9Ua"
     },
     {
       "album": {
@@ -3558,7 +3594,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 92376,
       "name": "I Say",
       "url": "https://open.spotify.com/track/4N6hqgiMNLnMDTHY8zy1fT"
@@ -4160,7 +4196,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 145148,
       "name": "LADY",
       "url": "https://open.spotify.com/track/4NnzbyoBka1NqyUlZSaLeS"
@@ -4196,7 +4232,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 224114,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/0ZVqDCozqdU0PiVVYOQPoR"
@@ -4254,6 +4290,24 @@
       "duration_ms": 214125,
       "name": "Le Risque",
       "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
+    },
+    {
+      "album": {
+        "name": "Legalize Living",
+        "url": "https://open.spotify.com/album/50bN734086s72BiT5VNoPw"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Legalize Living",
+      "url": "https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT"
     },
     {
       "album": {
@@ -4679,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "Make Me Mine",
+        "url": "https://open.spotify.com/album/2C3oKnWhB7D9TJ8zNxhlrM"
+      },
+      "artists": [
+        {
+          "name": "Glitterpaard",
+          "url": "https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234640,
+      "name": "Make Me Mine",
+      "url": "https://open.spotify.com/track/4YcJYpSBVSsqHh8RwUeXEK"
+    },
+    {
+      "album": {
         "name": "Making Up Animals",
         "url": "https://open.spotify.com/album/6EyU2jNFzP2puyzOwvfbvR"
       },
@@ -4730,6 +4802,24 @@
       "duration_ms": 150250,
       "name": "Man on The Moon",
       "url": "https://open.spotify.com/track/5axqHofGz7te1YRAVJiXPA"
+    },
+    {
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "album": {
@@ -4888,7 +4978,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 283253,
       "name": "Metal",
       "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
@@ -5868,6 +5958,24 @@
       "duration_ms": 152511,
       "name": "PTRCK",
       "url": "https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn"
+    },
+    {
+      "album": {
+        "name": "Quiet Life",
+        "url": "https://open.spotify.com/album/4JEcW2oUgU5JRTr25eSgn2"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196346,
+      "name": "Quiet Life",
+      "url": "https://open.spotify.com/track/1G0f99jVblkI1pK8uba38S"
     },
     {
       "album": {
@@ -7291,6 +7399,24 @@
     },
     {
       "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/7n3cwUWsaTgppuV09Onh2w"
       },
@@ -7378,7 +7504,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 137688,
       "name": "That Ass!",
       "url": "https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl"
@@ -7655,6 +7781,24 @@
     },
     {
       "album": {
+        "name": "The Weather",
+        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
+    },
+    {
+      "album": {
         "name": "There's Always Gonna Be Something",
         "url": "https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl"
       },
@@ -7850,7 +7994,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 212373,
       "name": "Tina",
       "url": "https://open.spotify.com/track/7uFif00qArtq2USCkQEGac"

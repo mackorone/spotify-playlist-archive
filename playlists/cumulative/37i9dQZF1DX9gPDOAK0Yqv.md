@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-744 songs - 2 day 8 hr 58 min
+745 songs - 2 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Future Call](https://open.spotify.com/track/3BjwyLMgRb29YRwcunLXnN) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Future Call](https://open.spotify.com/album/2wWBj0RTjHVLoUcexFpl6Y) | 3:29 | 2023-09-07 | 2023-10-03 |
 | [Future Self](https://open.spotify.com/track/7rXOjC0ZGvNwUdkQ7Uazq0) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [LEO ISLO](https://open.spotify.com/artist/5VqnicC0xT5ja3283N8Yde) | [Future Self](https://open.spotify.com/album/0Up3Hg8E7Kx4VCWeF2v3Oi) | 4:25 | 2023-06-16 | 2023-07-01 |
 | [Futuro](https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Futuro](https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H) | 2:55 | 2023-07-07 | 2024-08-24 |
+| [Galaxy](https://open.spotify.com/track/2gtR8ffUU1xAOsTNeaEe3A) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Galaxy](https://open.spotify.com/album/6Ef5H4o43CHIat5nXoGdms) | 3:13 | 2025-07-11 |  |
 | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-09 | 2023-10-20 |
 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 | 2025-06-01 |
 | [Genie's Wish](https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Genie's Wish](https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C) | 6:07 | 2023-02-10 | 2023-02-18 |
@@ -507,7 +508,7 @@
 | [Promised Land \- Innellea Remix](https://open.spotify.com/track/5Bm80brVErgdRSw5sEuyg4) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Promised Land \(Innellea Remix\)](https://open.spotify.com/album/54wJZluSHOKa9X5JWTuB0m) | 4:35 | 2024-09-26 | 2025-02-14 |
 | [Proper Time](https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Proper Time](https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9) | 5:01 | 2023-08-04 | 2023-09-21 |
 | [Psychonaut](https://open.spotify.com/track/7cP6fXm6uZBzgzsbmQnLrX) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT), [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Psychonaut](https://open.spotify.com/album/2ntYBERfXSCvLFLI48pNog) | 6:40 | 2023-02-27 | 2023-03-04 |
-| [Pull Out](https://open.spotify.com/track/3yLZ9iZRFJokbQypcIetjo) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Losless](https://open.spotify.com/artist/2rnmC57D43ML3a2Ujc7tiP) | [Pull Out](https://open.spotify.com/album/1WyoGZphtDpMXxCD3iYuBJ) | 4:46 | 2024-06-13 |  |
+| [Pull Out](https://open.spotify.com/track/3yLZ9iZRFJokbQypcIetjo) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Losless](https://open.spotify.com/artist/2rnmC57D43ML3a2Ujc7tiP) | [Pull Out](https://open.spotify.com/album/1WyoGZphtDpMXxCD3iYuBJ) | 4:46 | 2024-06-13 | 2025-07-11 |
 | [Pulses](https://open.spotify.com/track/5rFfwssa9fgfBikDG5lGOn) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Universo](https://open.spotify.com/album/6myGAZHh7d3FbQUFHnN9WT) | 6:04 | 2022-11-23 | 2023-08-15 |
 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-11-24 | 2022-12-03 |
 | [Punk](https://open.spotify.com/track/6BHmPhVY82P4KWzJ8ILSgK) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [Punk](https://open.spotify.com/album/55hG4P4koARi43ElNKq0TP) | 3:59 | 2025-03-13 | 2025-06-27 |

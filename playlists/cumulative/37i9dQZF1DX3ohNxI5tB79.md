@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-318 songs - 20 hr 26 min
+320 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,8 +185,10 @@
 | [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2022-07-05 | 2025-05-15 |
 | [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 | 2022-09-30 | 2024-11-15 |
 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2023-03-21 | 2025-03-08 |
+| [Mutual](https://open.spotify.com/track/6kUkosakHtJ9bsNE2bxJnq) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Mutual](https://open.spotify.com/album/7KBZC4RaCdSsSpShWVa6Ki) | 3:31 | 2025-07-10 |  |
 | [My Home](https://open.spotify.com/track/5IBOIoEsmORmCHhHUJa5qr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [coin collection](https://open.spotify.com/album/0x5PxA5MaxH53b2eK8wGVp) | 3:50 | 2023-03-21 | 2025-03-08 |
 | [My Love \- Instrumental](https://open.spotify.com/track/474Of6PUt0haIv7EcMiY49) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape \(Instrumentals\)](https://open.spotify.com/album/4DnBy4kgFErWfGn8mDUBr0) | 3:48 | 2022-10-30 | 2025-02-11 |
+| [My Rock](https://open.spotify.com/track/0b7uoxEAtonhRq00gvHeOS) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [My Rock](https://open.spotify.com/album/42YmKYIqbIm1mr337TTFRL) | 3:17 | 2025-07-10 |  |
 | [Neon Noir](https://open.spotify.com/track/36YNheAQ0FKZ4I9qaYIY6P) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [Neon Noir](https://open.spotify.com/album/5dQ3Erj2BjGL1XjCL9PS5i) | 4:40 | 2021-12-13 | 2022-04-29 |
 | [Never Again](https://open.spotify.com/track/7cupwop4yM9LIjKcKSCTai) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Never Again](https://open.spotify.com/album/50xj6Y8y3UbmoqzkrOHFkO) | 3:34 | 2024-10-25 |  |
 | [New Day \(Otis Parham\)](https://open.spotify.com/track/4Za8yDzEhc8uZMBQRkiaGr) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [New Day \(Otis Parham\)](https://open.spotify.com/album/03ytEPT6foahNKKrJMoGgm) | 3:15 | 2021-12-13 | 2022-10-01 |

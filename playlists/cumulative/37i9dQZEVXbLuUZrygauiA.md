@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,075 songs - 6 day 22 hr 16 min
+3,076 songs - 6 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Asi Esta El Rollo](https://open.spotify.com/track/0h4a5uK4dUbsJzcM4FIZgj) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Asi Esta El Rollo](https://open.spotify.com/album/6Ibrahw2edGhGyaFJ0X0N8) | 1:51 | 2023-08-03 | 2023-08-07 |
 | [Asi Esta El Rollo](https://open.spotify.com/track/3r0I73Ewcc157O7HkOQLGh) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Asi Esta El Rollo](https://open.spotify.com/album/1LpkkrtAh2myILKN5pLSA4) | 1:51 | 2023-08-06 | 2023-08-09 |
 | [Asi Me Encula](https://open.spotify.com/track/2WIJXF6tT09YzL8FjyVy5x) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Sandro Malandro Por Amor Al Mic](https://open.spotify.com/album/7fWRP3KUkm4PdTL5OPCqzv) | 3:18 | 2022-10-26 | 2022-12-27 |
-| [Asquerosamente Rico](https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:15 | 2025-06-24 |  |
+| [Asquerosamente Rico](https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:15 | 2025-06-24 | 2025-07-11 |
 | [Así Fue](https://open.spotify.com/track/6jod9u6JAatCA4alwJHMr8) | [Liz Loyo](https://open.spotify.com/artist/5EoOv6XIVmA7feCJZvg1Do) | [Así Fue](https://open.spotify.com/album/3SJWMkYRnN7bjP7kO1VQA2) | 5:21 | 2025-05-13 | 2025-05-17 |
 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-05-24 | 2023-07-10 |
 | [Así Te Pedí](https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Extraños](https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj) | 3:45 | 2023-10-01 | 2023-10-05 |
@@ -680,6 +680,7 @@
 | [De Culiacán \(Dembow\)](https://open.spotify.com/track/2UB0hET7GtZrTBnXPXGpGy) | [zboouu](https://open.spotify.com/artist/56vMvsXILxv0fAdQWuB1nu) | [RIO CONTROL](https://open.spotify.com/album/5N8dmJJ06H1577HPYZ0TFL) | 2:25 | 2024-03-30 | 2024-04-09 |
 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 | 2023-11-28 | 2023-12-13 |
 | [De Fresa y de Coco](https://open.spotify.com/track/4Oz5Z22aq4yEaGlJtYC2YB) | [CORRIDOS LV](https://open.spotify.com/artist/6M5ZdBNzA0eUg1q2YaOqo7) | [De Fresa y de Coco](https://open.spotify.com/album/4sJOMLg8yTjEe4oRU8Stqb) | 2:11 | 2023-11-10 | 2023-11-13 |
+| [DE LA CLASE](https://open.spotify.com/track/2zOdxVBE1wnhE1iOOgnx6D) | [Daniel Khosravi](https://open.spotify.com/artist/0YK7IY3X1Dhvl21ONPWs7e) | [DE LA CLASE](https://open.spotify.com/album/7zNmQvmPtPZb0eW5s5aKEA) | 3:14 | 2025-07-10 |  |
 | [De la Vida Como Pelicula, Tragedia, Comedia y Ficcion](https://open.spotify.com/track/76YpLOgJcD2YInDHs5u69s) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [De la Vida Como Pelicula, Tragedia, Comedia y Ficcion](https://open.spotify.com/album/68J0aECICEHtalsVM003hH) | 8:01 | 2023-09-06 | 2023-09-27 |
 | [DE LUNES A LUNES](https://open.spotify.com/track/49Zc3sEJHADPoVDM4jNKgs) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:08 | 2023-09-13 | 2023-09-27 |
 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 | 2023-09-12 | 2023-09-14 |

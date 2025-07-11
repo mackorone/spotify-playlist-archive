@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMCcMvVNsy9.md) - [plain]
 
 > With the release of <a href="spotify:show:6lIui701UGlgFROb4kuHqz">Lies & Weddings</a>, international bestselling author Kevin Kwan handpicks his soundtrack to accompany the highly anticipated book.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,659 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,668 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMCcMvVNsy9.md) - [plain]
 | 16 | [I Can See For Miles](https://open.spotify.com/track/1xFSMOtmFfx9FtEZE6ENMj) | [Kathleen Smith](https://open.spotify.com/artist/78gtCInnMA9PXIODGw6AOc) | [MEDICINE](https://open.spotify.com/album/6c9yiAXpGRbfTd7XhxXihf) | 4:21 |
 | 17 | [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6d873fiVBaIUB8TZYQAeES) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 3:57 |
 | 18 | [Miss You \- HONNE Remix](https://open.spotify.com/track/265U9i3VYFKPX6T0tGDXsu) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Miss You \(HONNE Remix\)](https://open.spotify.com/album/7ySkPjSqdfoxHaJuJNHvmW) | 3:46 |
-| 19 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 5:30 |
+| 19 | [Suite bergamasque, CD 82: III\. Clair de lune](https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 5:30 |
 | 20 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 | 21 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 22 | [California Dreamin'](https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [All The Leaves Are Brown The Golden Era Collection](https://open.spotify.com/album/6d9b6qTmzQ2WOOGB2cDCDq) | 2:40 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Michele Bravi e Mida",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Emanuele Aloia",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 212695,
       "name": "COME L'ARIA",
       "url": "https://open.spotify.com/track/1mhm4QL4JExHZBSMRDTVVS"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 175580,
       "name": "Correre",
       "url": "https://open.spotify.com/track/6HWDxSgzZweaS71gyJVi7e"
@@ -5591,6 +5591,28 @@
     },
     {
       "album": {
+        "name": "Graffiti a vela",
+        "url": "https://open.spotify.com/album/7weBguxcwpmluimP9KuwLp"
+      },
+      "artists": [
+        {
+          "name": "Gyuse",
+          "url": "https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr"
+        },
+        {
+          "name": "Terso",
+          "url": "https://open.spotify.com/artist/68UQjiFaI4yhJwhK9DfLYf"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Graffiti a vela",
+      "url": "https://open.spotify.com/track/32lTuogbhdUwVgrSwDd4Kx"
+    },
+    {
+      "album": {
         "name": "Indaco",
         "url": "https://open.spotify.com/album/00ALxUXwprONphiPixCN0l"
       },
@@ -5926,6 +5948,24 @@
       "duration_ms": 182400,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/31v4wB0mU8e2D2sijFXTfM"
+    },
+    {
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/1XoGxiGWfdPCHH2ItOz3SM"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173135,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/5xYtSKU6Fz2ZwY491faFIs"
     },
     {
       "album": {
@@ -9796,7 +9836,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 174939,
       "name": "Pari o Dispari",
       "url": "https://open.spotify.com/track/5XpWQOMGtzj182L7qbePrD"
@@ -11716,6 +11756,24 @@
       "duration_ms": 166567,
       "name": "SCUSAMI SE",
       "url": "https://open.spotify.com/track/4c2PdSDERoU0hA4sz2ohNN"
+    },
+    {
+      "album": {
+        "name": "SCUSE",
+        "url": "https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124033,
+      "name": "SCUSE",
+      "url": "https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G"
     },
     {
       "album": {

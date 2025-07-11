@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Lo mejor del folclore nacional \ud83d\udcf8  Los Nocheros",
+  "description": "Lo mejor del folclore nacional \ud83d\udcf8  Sele Vera.",
   "name": "FOLCLORE ARGENTINO",
   "tracks": [
     {
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 188066,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
@@ -3542,6 +3542,24 @@
       "duration_ms": 306586,
       "name": "Oraci\u00f3n del remanso",
       "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+    },
+    {
+      "album": {
+        "name": "Cant\u00e1ndole a la patria",
+        "url": "https://open.spotify.com/album/6wdRRyjUISuk8tZlVSGpxJ"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300456,
+      "name": "Oraci\u00f3n del remanso",
+      "url": "https://open.spotify.com/track/4bQKKN5jf9uoqawS5DKBhy"
     },
     {
       "album": {
@@ -3996,6 +4014,28 @@
       "duration_ms": 149455,
       "name": "Salpicando Tradiciones",
       "url": "https://open.spotify.com/track/4n2VAczioB0ZLqdfwQNMv7"
+    },
+    {
+      "album": {
+        "name": "Salte\u00f1o Viejo",
+        "url": "https://open.spotify.com/album/0qbCgJRgIF1JnOSsIZplwl"
+      },
+      "artists": [
+        {
+          "name": "La Clave Trio",
+          "url": "https://open.spotify.com/artist/0C5JQ1cYKsSSaU3sNsX9Sg"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182954,
+      "name": "Salte\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/74IdcDYkSkwQgqQnDfGVlf"
     },
     {
       "album": {
@@ -4750,6 +4790,28 @@
       "duration_ms": 210506,
       "name": "Zamba de Amor en Vuelo",
       "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
+    },
+    {
+      "album": {
+        "name": "Zamba De La Higuera",
+        "url": "https://open.spotify.com/album/4jMFzrrXXSSde5Xkancdif"
+      },
+      "artists": [
+        {
+          "name": "Juan Fuentes",
+          "url": "https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF"
+        },
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170968,
+      "name": "Zamba De La Higuera",
+      "url": "https://open.spotify.com/track/1AK0Cn0rRFYuQlzOdoKhFk"
     },
     {
       "album": {

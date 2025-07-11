@@ -1,13 +1,29 @@
 {
-  "description": "pearl of the week \u2728Boko Yout\u2728",
-  "num_followers": 161184,
+  "description": "pearl of the week \u2728kwn\u2728",
+  "num_followers": 161181,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGb9jAAAAADN6NbFupY73340fTiACQRy",
+  "snapshot_id": "aHA38AAAAABjnE184kxmASNVo1uIPPyc",
   "tracks": [
+    {
+      "added_at": "2025-07-10 22:00:16",
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 58142,
+      "name": "bite me INTRO",
+      "url": "https://open.spotify.com/track/3RScLz4xxB1hjcYMmiARGr"
+    },
     {
       "added_at": "2025-07-03 22:00:44",
       "album": {
@@ -41,56 +57,20 @@
       "url": "https://open.spotify.com/track/1aumaeh5sU4VbH1ESkWaPO"
     },
     {
-      "added_at": "2025-07-03 22:00:44",
+      "added_at": "2025-07-10 22:00:16",
       "album": {
-        "name": "smeer",
-        "url": "https://open.spotify.com/album/4Kc6K7ETGynINm5Kwhn9qa"
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
       },
       "artists": [
         {
-          "name": "ABY iO",
-          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 162612,
-      "name": "infected",
-      "url": "https://open.spotify.com/track/1xeZcisQssuBnwZzH78EYn"
-    },
-    {
-      "added_at": "2025-07-03 22:00:44",
-      "album": {
-        "name": "House Fire",
-        "url": "https://open.spotify.com/album/4IBqJMZM6WuVWW2szJFlym"
-      },
-      "artists": [
-        {
-          "name": "Deki Alem",
-          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
-        }
-      ],
-      "duration_ms": 187344,
-      "name": "House Fire",
-      "url": "https://open.spotify.com/track/4wG5sRMJRvPsxSaUQzyKag"
-    },
-    {
-      "added_at": "2025-07-03 22:00:44",
-      "album": {
-        "name": "Skin and Bones (Bella Boo Remix)",
-        "url": "https://open.spotify.com/album/29ZM7F4vUJV13Y8px2iMqT"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        },
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Skin and Bones - Bella Boo Remix",
-      "url": "https://open.spotify.com/track/7su5ghPGBLLJR16uys4GzZ"
+      "duration_ms": 231737,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
     },
     {
       "added_at": "2025-07-03 22:00:44",
@@ -115,6 +95,126 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "added_at": "2025-07-03 22:00:44",
+      "album": {
+        "name": "House Fire",
+        "url": "https://open.spotify.com/album/4IBqJMZM6WuVWW2szJFlym"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "duration_ms": 187344,
+      "name": "House Fire",
+      "url": "https://open.spotify.com/track/4wG5sRMJRvPsxSaUQzyKag"
+    },
+    {
+      "added_at": "2025-07-03 22:00:44",
+      "album": {
+        "name": "smeer",
+        "url": "https://open.spotify.com/album/4Kc6K7ETGynINm5Kwhn9qa"
+      },
+      "artists": [
+        {
+          "name": "ABY iO",
+          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
+        }
+      ],
+      "duration_ms": 162612,
+      "name": "infected",
+      "url": "https://open.spotify.com/track/1xeZcisQssuBnwZzH78EYn"
+    },
+    {
+      "added_at": "2025-07-03 22:00:44",
+      "album": {
+        "name": "Skin and Bones (Bella Boo Remix)",
+        "url": "https://open.spotify.com/album/29ZM7F4vUJV13Y8px2iMqT"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        },
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Skin and Bones - Bella Boo Remix",
+      "url": "https://open.spotify.com/track/7su5ghPGBLLJR16uys4GzZ"
+    },
+    {
+      "added_at": "2025-07-10 22:00:16",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "added_at": "2025-07-10 22:00:16",
+      "album": {
+        "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "The Sofa",
+      "url": "https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I"
+    },
+    {
+      "added_at": "2025-07-03 22:00:44",
+      "album": {
+        "name": "Cinema Sound System",
+        "url": "https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "duration_ms": 264217,
+      "name": "Cannot Get Enough",
+      "url": "https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG"
+    },
+    {
+      "added_at": "2025-07-03 22:00:44",
+      "album": {
+        "name": "A Tropical Entropy",
+        "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
+      },
+      "artists": [
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Ocean Apart",
+      "url": "https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO"
     },
     {
       "added_at": "2025-07-03 22:00:44",
@@ -165,6 +265,22 @@
       "url": "https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA"
     },
     {
+      "added_at": "2025-07-10 22:00:16",
+      "album": {
+        "name": "Bitches I Hate",
+        "url": "https://open.spotify.com/album/4PFUjkbparrct54wxDBGDv"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 142624,
+      "name": "Bitches I Hate",
+      "url": "https://open.spotify.com/track/0MtfVWElfZzOQO33D5nPNh"
+    },
+    {
       "added_at": "2025-07-03 22:00:44",
       "album": {
         "name": "Expression On Your Face",
@@ -187,6 +303,26 @@
       "duration_ms": 173321,
       "name": "Expression On Your Face",
       "url": "https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn"
+    },
+    {
+      "added_at": "2025-07-10 22:00:16",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 219749,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
     },
     {
       "added_at": "2025-07-03 22:00:44",
@@ -241,20 +377,20 @@
       "url": "https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ"
     },
     {
-      "added_at": "2025-07-03 22:00:44",
+      "added_at": "2025-07-10 22:00:16",
       "album": {
-        "name": "Cinema Sound System",
-        "url": "https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv"
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
       },
       "artists": [
         {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 264217,
-      "name": "Cannot Get Enough",
-      "url": "https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG"
+      "duration_ms": 184970,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-07-03 22:00:44",
@@ -331,6 +467,22 @@
       "duration_ms": 245951,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
+    },
+    {
+      "added_at": "2025-07-10 22:00:16",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/0OJjgbzuaOF0f2U7vdriTK"
+      },
+      "artists": [
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 151421,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/6wMnZzsRUWQAENpnqTmIJk"
     },
     {
       "added_at": "2025-07-03 22:00:44",
@@ -451,26 +603,6 @@
       "duration_ms": 160067,
       "name": "Air",
       "url": "https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC"
-    },
-    {
-      "added_at": "2025-07-03 22:00:44",
-      "album": {
-        "name": "A Tropical Entropy",
-        "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
-      },
-      "artists": [
-        {
-          "name": "Nick Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
-        },
-        {
-          "name": "Casey MQ",
-          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Ocean Apart",
-      "url": "https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO"
     },
     {
       "added_at": "2025-07-03 22:00:44",

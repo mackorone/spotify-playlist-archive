@@ -4,7 +4,7 @@
 
 > 
 
-1,079 songs - 2 day 6 hr 5 min
+1,080 songs - 2 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -996,6 +996,7 @@
 | [Turnest Nigga In The City](https://open.spotify.com/track/7nMxvYe35O4aaHiSpJOBjx) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:27 | 2024-12-17 | 2025-05-21 |
 | [Twisted](https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ) | [R.T.R Jae](https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq) | [For The People](https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW) | 1:49 | 2023-05-31 | 2023-12-14 |
 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 | 2024-05-06 | 2024-11-06 |
+| [Tyla](https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:03 | 2025-07-10 |  |
 | [U could stay](https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [U could stay](https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz) | 1:36 | 2023-06-02 | 2023-12-14 |
 | [U could tëll](https://open.spotify.com/track/0k4Xxpf3Ml9e0UFYacCIDO) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:28 | 2022-12-16 | 2023-12-14 |
 | [U Say \(feat\. Tyler, The Creator & Jay Prince\)](https://open.spotify.com/track/2p37Mfy2PWajgOS3i2aaep) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 3:21 | 2025-06-25 |  |

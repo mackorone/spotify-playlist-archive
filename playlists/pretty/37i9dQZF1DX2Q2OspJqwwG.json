@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 34309,
+  "num_followers": 34322,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2025-07-07 15:22:42",
       "album": {
-        "name": "Alo, mama",
-        "url": "https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "Alo, mama",
-      "url": "https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5"
-    },
-    {
-      "added_at": "2025-07-07 15:22:42",
-      "album": {
         "name": "A\u0219a Ceva",
         "url": "https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 204705,
       "name": "A\u0219a Ceva",
       "url": "https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4"
+    },
+    {
+      "added_at": "2025-07-07 15:22:42",
+      "album": {
+        "name": "Alo, mama",
+        "url": "https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Alo, mama",
+      "url": "https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5"
     },
     {
       "added_at": "2025-07-07 15:22:42",

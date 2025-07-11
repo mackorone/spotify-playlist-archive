@@ -1,28 +1,60 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 132267,
+  "num_followers": 132263,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGaM6QAAAACSQeDgAvkSsDBts4Z882aE",
+  "snapshot_id": "aG/HaAAAAADXZ1RaQHAr5VPyPlfrrGyO",
   "tracks": [
     {
-      "added_at": "2025-06-26 14:00:41",
+      "added_at": "2025-07-10 14:00:08",
       "album": {
-        "name": "i can\u2019t remember the name of this, but that's ok",
-        "url": "https://open.spotify.com/album/5QhQi6ShBaqc7PX4XfOwKJ"
+        "name": "Beechworth Cascades",
+        "url": "https://open.spotify.com/album/5NxWIQzi1NM60MSruq6CYw"
       },
       "artists": [
         {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+          "name": "PARIS",
+          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
         }
       ],
-      "duration_ms": 249596,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3dB92Il79UajUxaHzA3VBA"
+      "duration_ms": 260989,
+      "name": "Beechworth Cascades",
+      "url": "https://open.spotify.com/track/4v4c83oxXLznqcluY4LrGN"
+    },
+    {
+      "added_at": "2025-07-10 14:00:08",
+      "album": {
+        "name": "Cutie",
+        "url": "https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 384495,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH"
+    },
+    {
+      "added_at": "2025-07-10 14:00:08",
+      "album": {
+        "name": "Untitled 04",
+        "url": "https://open.spotify.com/album/6RJhVxMDYp6hf7bCpHS1WB"
+      },
+      "artists": [
+        {
+          "name": "Leod",
+          "url": "https://open.spotify.com/artist/60s9PC0pLdn1j1fz6PjUT1"
+        }
+      ],
+      "duration_ms": 257996,
+      "name": "Untitled 04",
+      "url": "https://open.spotify.com/track/3f5GBsXdQtdLC6yAXzjUsT"
     },
     {
       "added_at": "2025-06-26 14:00:41",
@@ -59,6 +91,22 @@
       "duration_ms": 263035,
       "name": "Phone Line Crew",
       "url": "https://open.spotify.com/track/44snRRMPaLXI3V48DVvA89"
+    },
+    {
+      "added_at": "2025-06-26 14:00:41",
+      "album": {
+        "name": "Drop That",
+        "url": "https://open.spotify.com/album/5d85G77pvk2wJSV2uMMvr3"
+      },
+      "artists": [
+        {
+          "name": "Tiff Cornish",
+          "url": "https://open.spotify.com/artist/3JBsTyx9ejg7z5L8Prel9e"
+        }
+      ],
+      "duration_ms": 332423,
+      "name": "Drop That",
+      "url": "https://open.spotify.com/track/576vITF9WHT2K1ciy6sA8x"
     },
     {
       "added_at": "2025-07-03 14:00:08",
@@ -103,18 +151,50 @@
     {
       "added_at": "2025-06-26 14:00:41",
       "album": {
-        "name": "Drop That",
-        "url": "https://open.spotify.com/album/5d85G77pvk2wJSV2uMMvr3"
+        "name": "i can\u2019t remember the name of this, but that's ok",
+        "url": "https://open.spotify.com/album/5QhQi6ShBaqc7PX4XfOwKJ"
       },
       "artists": [
         {
-          "name": "Tiff Cornish",
-          "url": "https://open.spotify.com/artist/3JBsTyx9ejg7z5L8Prel9e"
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
         }
       ],
-      "duration_ms": 332423,
-      "name": "Drop That",
-      "url": "https://open.spotify.com/track/576vITF9WHT2K1ciy6sA8x"
+      "duration_ms": 249596,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3dB92Il79UajUxaHzA3VBA"
+    },
+    {
+      "added_at": "2025-07-10 14:00:08",
+      "album": {
+        "name": "In Memory",
+        "url": "https://open.spotify.com/album/2PnP9SF40IrUcC7V8vgYrV"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "duration_ms": 227204,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/5zdVpoDxG32whKcaUVKL6Q"
+    },
+    {
+      "added_at": "2025-07-10 14:00:08",
+      "album": {
+        "name": "Affected",
+        "url": "https://open.spotify.com/album/6Jfuk0tHjd5lr53bFJUonv"
+      },
+      "artists": [
+        {
+          "name": "not even noticed",
+          "url": "https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo"
+        }
+      ],
+      "duration_ms": 229427,
+      "name": "Affected",
+      "url": "https://open.spotify.com/track/0iJz66XkA3WpxiOjV69QnV"
     },
     {
       "added_at": "2025-05-01 14:00:26",
@@ -149,42 +229,6 @@
       "url": "https://open.spotify.com/track/7ojus8oEtfrR0ZeHVC3Vu8"
     },
     {
-      "added_at": "2025-07-03 14:00:08",
-      "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
-        }
-      ],
-      "duration_ms": 201508,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
-    },
-    {
-      "added_at": "2025-06-26 14:00:41",
-      "album": {
-        "name": "Jack Shit",
-        "url": "https://open.spotify.com/album/5oa18c6xKxEL0B8PBsfkmw"
-      },
-      "artists": [
-        {
-          "name": "Arsene",
-          "url": "https://open.spotify.com/artist/79I9HwI5TCgVEmulD4qHUJ"
-        }
-      ],
-      "duration_ms": 352720,
-      "name": "Jack Shit",
-      "url": "https://open.spotify.com/track/2TgbWubmvzQqE1q7ZoyM0o"
-    },
-    {
       "added_at": "2025-06-26 14:00:41",
       "album": {
         "name": "Big Beat Manifesto Vol. X",
@@ -203,18 +247,66 @@
     {
       "added_at": "2025-06-26 14:00:41",
       "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0Gf9wEV5drTfLOCAV2mYMa"
+        "name": "Jack Shit",
+        "url": "https://open.spotify.com/album/5oa18c6xKxEL0B8PBsfkmw"
       },
       "artists": [
         {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+          "name": "Arsene",
+          "url": "https://open.spotify.com/artist/79I9HwI5TCgVEmulD4qHUJ"
         }
       ],
-      "duration_ms": 267500,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/7978uI976SnK4TelmVotSC"
+      "duration_ms": 352720,
+      "name": "Jack Shit",
+      "url": "https://open.spotify.com/track/2TgbWubmvzQqE1q7ZoyM0o"
+    },
+    {
+      "added_at": "2025-07-10 14:00:08",
+      "album": {
+        "name": "Euphoria Simulator",
+        "url": "https://open.spotify.com/album/0VW77aIyRs0rh6HClqS5zS"
+      },
+      "artists": [
+        {
+          "name": "Guy Contact",
+          "url": "https://open.spotify.com/artist/5Xnqn9riXkAVyAwabBYi4F"
+        }
+      ],
+      "duration_ms": 314621,
+      "name": "Into The Blue",
+      "url": "https://open.spotify.com/track/2Gv4sJRnCpM9DXFcmpfwgo"
+    },
+    {
+      "added_at": "2025-07-10 14:00:08",
+      "album": {
+        "name": "Grava 4",
+        "url": "https://open.spotify.com/album/2ncNUxeKnbgPHzy0nKlzcN"
+      },
+      "artists": [
+        {
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+        }
+      ],
+      "duration_ms": 314226,
+      "name": "700 Million Light Years from Earth",
+      "url": "https://open.spotify.com/track/2puFk0s4cvgjtApDXgF6pg"
+    },
+    {
+      "added_at": "2025-05-22 14:00:08",
+      "album": {
+        "name": "Where You Need To Be",
+        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 253478,
+      "name": "Where You Need To Be",
+      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
     },
     {
       "added_at": "2025-06-05 14:00:36",
@@ -233,20 +325,20 @@
       "url": "https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0"
     },
     {
-      "added_at": "2025-05-22 14:00:08",
+      "added_at": "2025-06-26 14:00:41",
       "album": {
-        "name": "Where You Need To Be",
-        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0Gf9wEV5drTfLOCAV2mYMa"
       },
       "artists": [
         {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
         }
       ],
-      "duration_ms": 253478,
-      "name": "Where You Need To Be",
-      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
+      "duration_ms": 267500,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/7978uI976SnK4TelmVotSC"
     },
     {
       "added_at": "2025-06-12 14:00:30",
@@ -397,22 +489,6 @@
       "url": "https://open.spotify.com/track/7pU9cVvLedZy0E0GFJE2K7"
     },
     {
-      "added_at": "2025-05-08 14:00:22",
-      "album": {
-        "name": "Pearl (Deluxe)",
-        "url": "https://open.spotify.com/album/1S2iNRW16JJpPMvwzFBflj"
-      },
-      "artists": [
-        {
-          "name": "Anna Lunoe",
-          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
-        }
-      ],
-      "duration_ms": 213994,
-      "name": "Seed 2.0 - The 'Aseed' Mix",
-      "url": "https://open.spotify.com/track/5kO3TqdTQWCrCiZymg1TbS"
-    },
-    {
       "added_at": "2025-06-26 14:00:41",
       "album": {
         "name": "CTX",
@@ -467,6 +543,22 @@
       "duration_ms": 173801,
       "name": "Wicked Sound",
       "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
+    },
+    {
+      "added_at": "2025-05-08 14:00:22",
+      "album": {
+        "name": "Pearl (Deluxe)",
+        "url": "https://open.spotify.com/album/1S2iNRW16JJpPMvwzFBflj"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "Seed 2.0 - The 'Aseed' Mix",
+      "url": "https://open.spotify.com/track/5kO3TqdTQWCrCiZymg1TbS"
     },
     {
       "added_at": "2025-06-26 14:00:41",
@@ -571,6 +663,26 @@
       "duration_ms": 218988,
       "name": "Feel The Friction (Club Angel Remix)",
       "url": "https://open.spotify.com/track/1nDHsB3FfyB2QVrfgvUI72"
+    },
+    {
+      "added_at": "2025-07-03 14:00:08",
+      "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "duration_ms": 201508,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
     },
     {
       "added_at": "2025-04-10 14:01:13",
@@ -1479,138 +1591,6 @@
       "duration_ms": 209500,
       "name": "LEAN MANTLES",
       "url": "https://open.spotify.com/track/5jTE3jRc8hKshQy6fKbb20"
-    },
-    {
-      "added_at": "2025-05-01 14:00:26",
-      "album": {
-        "name": "STOP READING THE TELEPROMPTER",
-        "url": "https://open.spotify.com/album/6NAU9yFO6xD6sarhIwGjN0"
-      },
-      "artists": [
-        {
-          "name": "Kaila",
-          "url": "https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo"
-        }
-      ],
-      "duration_ms": 278458,
-      "name": "SNOW GLOBE",
-      "url": "https://open.spotify.com/track/6fE8YLQhZfnXfeXFmMzrAm"
-    },
-    {
-      "added_at": "2025-06-05 14:00:36",
-      "album": {
-        "name": "Redwood",
-        "url": "https://open.spotify.com/album/1uo7aXvlFTWrD1gMVWNd4c"
-      },
-      "artists": [
-        {
-          "name": "NECTA",
-          "url": "https://open.spotify.com/artist/64TLC1v2MuyTpbCDDa7XEN"
-        },
-        {
-          "name": "Sonata",
-          "url": "https://open.spotify.com/artist/1JWA6lTav0l7Ced454fDmA"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "Want You Now",
-      "url": "https://open.spotify.com/track/2hiOk80EMdBDRyxalorCKL"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
-        "name": "FAR OUT (Orbital Remix)",
-        "url": "https://open.spotify.com/album/03bpuQhtmTbdyP9MmOH8dY"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 306381,
-      "name": "FAR OUT - Orbital Remix",
-      "url": "https://open.spotify.com/track/4wabSgfA7UH0eTe1S0BDAu"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
-        "name": "Stop Now",
-        "url": "https://open.spotify.com/album/0A3lSVMnO2B94Lcbzp4209"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 288019,
-      "name": "Stop Now",
-      "url": "https://open.spotify.com/track/03hwEnKfs0s3GeGrssARv7"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
-        "name": "Are You In?",
-        "url": "https://open.spotify.com/album/4mFpFXxYbJ2V0pZROtWUwq"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Are You In?",
-      "url": "https://open.spotify.com/track/75RWvdK6iawjliJUpXdzxw"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
-        "name": "True Electric",
-        "url": "https://open.spotify.com/album/5dap6sSH3nqhCdSrG9olHp"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 298300,
-      "name": "The \"R\" (True Electric)",
-      "url": "https://open.spotify.com/track/6S1w24I5RxEtFGZ8yzQJ1T"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
-        "name": "NIPPON",
-        "url": "https://open.spotify.com/album/5JVo9WMICO0pL0h5Tud8iO"
-      },
-      "artists": [
-        {
-          "name": "DONGROSSO",
-          "url": "https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA"
-        },
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        },
-        {
-          "name": "Mondo Grosso",
-          "url": "https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb"
-        }
-      ],
-      "duration_ms": 205458,
-      "name": "NIPPON",
-      "url": "https://open.spotify.com/track/5lqIFwOhmlbS9BjVnQW14Y"
     }
   ],
   "unique_name": "Portal",

@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Josey
+> African dance party music from the continent to Paris\. Photo : Ayanne
 
-242 songs - 13 hr 25 min
+243 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Débordement](https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Shaggy Sharoof](https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg) | [Débordement](https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM) | 3:40 | 2022-05-26 | 2023-04-28 |
 | [DÉCAPSULEUR](https://open.spotify.com/track/6SDUCSyKIkXlm4uNwZ1elB) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6) | [Kedjevaratitude](https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ) | 3:45 | 2024-12-05 |  |
 | [Découper](https://open.spotify.com/track/1pmrwYqvIqxUzCMi2RPtLF) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 3:46 | 2025-05-29 |  |
-| [Démarrage](https://open.spotify.com/track/0wVbLYbOAzHsEcyAtNLOFo) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 3:16 | 2024-05-02 |  |
+| [Démarrage](https://open.spotify.com/track/0wVbLYbOAzHsEcyAtNLOFo) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 3:16 | 2024-05-02 | 2025-07-11 |
 | [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 | 2023-05-18 | 2024-07-19 |
 | [Effrayer la galère](https://open.spotify.com/track/4fyRNOR6zupaunbkjrl6uL) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Effrayer la galère](https://open.spotify.com/album/5vSehx9owBtXVKUV2HE2KB) | 3:25 | 2024-04-11 | 2024-06-14 |
 | [Elephant d'or](https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN) | [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Éléphant d'or](https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1) | 2:44 | 2022-06-23 | 2022-09-02 |
@@ -140,6 +140,7 @@
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 | 2022-08-26 |
 | [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 | 2023-02-23 | 2024-07-12 |
+| [L'argent \- édit radio](https://open.spotify.com/track/2H9VxV7TLn6QxFQWJ6Mbpl) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl), [BUMER](https://open.spotify.com/artist/45Rwf4lLxQiIaADszIhUib) | [L'argent \(édit radio\)](https://open.spotify.com/album/3KAtQJJwGXNyfaLTlfy1kd) | 3:16 | 2025-07-10 |  |
 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 | 2024-01-05 |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La bonne place](https://open.spotify.com/track/2uWUY0oTHBvRlKij3Mv4rl) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [La bonne place](https://open.spotify.com/album/2PXGO3w6Kh9LqVZfyDZ1XI) | 3:28 | 2024-08-29 | 2024-09-20 |

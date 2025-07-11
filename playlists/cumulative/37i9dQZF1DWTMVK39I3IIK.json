@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Zay",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Asta Brix",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 185760,
       "name": "1000 H\u00e6nder",
       "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Den Store Forf\u00f8rer",
+        "url": "https://open.spotify.com/album/7FP4HA1RfVwpP0LpMkxoZt"
+      },
+      "artists": [
+        {
+          "name": "Elias Boussnina",
+          "url": "https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164269,
+      "name": "Den Store Forf\u00f8rer",
+      "url": "https://open.spotify.com/track/5xwUSod7Kzw7RXHKgPdS88"
+    },
+    {
+      "album": {
         "name": "Den Ud\u00f8delige Historie",
         "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
       },
@@ -1206,6 +1224,24 @@
       "duration_ms": 152007,
       "name": "En Som Dig",
       "url": "https://open.spotify.com/track/4hCLByf2DyXB4RPsC2mNZd"
+    },
+    {
+      "album": {
+        "name": "En Som Dig",
+        "url": "https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf"
+      },
+      "artists": [
+        {
+          "name": "BUKURU",
+          "url": "https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192474,
+      "name": "En Som Dig",
+      "url": "https://open.spotify.com/track/2D70stXApX10H7JKusia0x"
     },
     {
       "album": {
@@ -1844,6 +1880,24 @@
       "duration_ms": 168090,
       "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
       "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
+    },
+    {
+      "album": {
+        "name": "Hjertestarter",
+        "url": "https://open.spotify.com/album/7mc7LKz4GWGB0It3h57CO5"
+      },
+      "artists": [
+        {
+          "name": "Asta Brix",
+          "url": "https://open.spotify.com/artist/7jdou2ayaa86lDotGOCwpg"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141509,
+      "name": "Hjertestarter",
+      "url": "https://open.spotify.com/track/01Z8vtwxY37PfhWUoIpf0Z"
     },
     {
       "album": {
@@ -4238,7 +4292,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 136941,
       "name": "Un (Done)",
       "url": "https://open.spotify.com/track/0NlQLgOZnIgeXnI33NgW8i"
@@ -4624,7 +4678,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 164583,
       "name": "Woman Lake",
       "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
@@ -4660,7 +4714,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 271583,
       "name": "You got time and I got money",
       "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
@@ -4678,7 +4732,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 192432,
       "name": "ZAMINA",
       "url": "https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ"

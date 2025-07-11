@@ -1,13 +1,29 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 91829,
+  "num_followers": 91835,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGxfgAAAAAA7/5wxEgSjmT81tepJNPpn",
+  "snapshot_id": "aG2xAAAAAAAeLdUoWZv8ElmTLKRmpnHS",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 150288,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
+    },
     {
       "added_at": null,
       "album": {
@@ -52,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 122160,
-      "name": "Bob",
-      "url": "https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE"
+      "duration_ms": 144466,
+      "name": "Stickin In My Eye",
+      "url": "https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA"
     },
     {
       "added_at": null,
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 144466,
-      "name": "Stickin In My Eye",
-      "url": "https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA"
+      "duration_ms": 122160,
+      "name": "Bob",
+      "url": "https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE"
     },
     {
       "added_at": null,
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Drugs Are Good",
-      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
+      "duration_ms": 142466,
+      "name": "Liza And Louise",
+      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
     },
     {
       "added_at": null,
@@ -507,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
       },
       "artists": [
         {
@@ -516,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 142466,
-      "name": "Liza And Louise",
-      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
+      "duration_ms": 138840,
+      "name": "Drugs Are Good",
+      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
     },
     {
       "added_at": null,

@@ -1239,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "For You, For Me, Forevermore",
+        "url": "https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        },
+        {
+          "name": "Richard Hayman & His Orchestra",
+          "url": "https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "For You, For Me, For Evermore",
+      "url": "https://open.spotify.com/track/3xFNCOi1LdKAwTkzoABx2R"
+    },
+    {
+      "album": {
         "name": "Judy Garland: Always Chasing Rainbows - A Centenary Tribute",
         "url": "https://open.spotify.com/album/2Cq85zbA5CvOLhnl4InGqA"
       },
@@ -1258,7 +1280,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 191133,
       "name": "For You, for Me, Forevermore",
       "url": "https://open.spotify.com/track/13fjLpWKd4hO0AEXJ79SBL"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : And\u00e9ol & Kyana",
+  "description": "The best French indie tracks right now. Cover : Miki",
   "name": "Made in France",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 168138,
       "name": "Amour de vacances",
       "url": "https://open.spotify.com/track/3LoVNPHCXq6MKHEt20i7Cs"
@@ -2329,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "Pop de Chambre",
+        "url": "https://open.spotify.com/album/2A9FVqNVzA0hdPN2iRuTu3"
+      },
+      "artists": [
+        {
+          "name": "Petit Nuage",
+          "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159516,
+      "name": "C\u0153ur Maladroit",
+      "url": "https://open.spotify.com/track/0fJZ9FM3gT6EBog8tJOwmQ"
+    },
+    {
+      "album": {
         "name": "Dans ma t\u00eate",
         "url": "https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L"
       },
@@ -3694,6 +3712,24 @@
       "duration_ms": 140248,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
+    },
+    {
+      "album": {
+        "name": "fragile",
+        "url": "https://open.spotify.com/album/6OUDpzfRLCwgMGoLGJctGY"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164185,
+      "name": "fragile",
+      "url": "https://open.spotify.com/track/69MuLCdcWral54JcUz8b1R"
     },
     {
       "album": {
@@ -6276,7 +6312,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 194763,
       "name": "Le monde est beau",
       "url": "https://open.spotify.com/track/5W1HRz46nKQjPG9pS3uokt"
@@ -8617,6 +8653,24 @@
     },
     {
       "album": {
+        "name": "particule",
+        "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
+      },
+      "artists": [
+        {
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "particule",
+      "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
+    },
+    {
+      "album": {
         "name": "Partir Loin",
         "url": "https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq"
       },
@@ -10248,7 +10302,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 162368,
       "name": "spring",
       "url": "https://open.spotify.com/track/7FJP6mlhCqObXC3Tel4kjk"
@@ -10494,7 +10548,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 171327,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/6kkBXPMpoQPFQ6SrgSQ7IK"
@@ -11822,10 +11876,32 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 214360,
       "name": "Vertical Life",
       "url": "https://open.spotify.com/track/18xrN9c6ONI6RkcuKPUl9Y"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c"
+      },
+      "artists": [
+        {
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195163,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
     },
     {
       "album": {
@@ -11862,6 +11938,24 @@
       "duration_ms": 176743,
       "name": "Viens on prend le temps",
       "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
+    },
+    {
+      "album": {
+        "name": "Vinyle",
+        "url": "https://open.spotify.com/album/7zKq0eBazgkWFC3vV7L0gu"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Vinyle",
+      "url": "https://open.spotify.com/track/63YoTNZTVXMeiVw8s7fd2V"
     },
     {
       "album": {

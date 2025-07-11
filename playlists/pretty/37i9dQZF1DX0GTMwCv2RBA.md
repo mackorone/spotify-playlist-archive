@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Listen to tracks inspired by the characters of Superman, exclusively curated by director James Gunn\. Coming to theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,031 likes - 93 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,748 likes - 93 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

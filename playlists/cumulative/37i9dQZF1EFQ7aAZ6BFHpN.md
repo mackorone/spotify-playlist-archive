@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-224 songs - 17 hr 10 min
+225 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Fishermen, Strawberry and Devil Crab](https://open.spotify.com/track/1mLNo7bMtOrHWwcNKqNbKV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:06 | 2024-07-24 |  |
 | [Five Months, Two Weeks, Two Days \- Remastered](https://open.spotify.com/track/6JEgTvxj7CTqY4PjzoaZ87) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Keely Smith](https://open.spotify.com/artist/0vQqxnQk1G32RtjSAFq3z1), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [The Wildest! \(Expanded Edition\)](https://open.spotify.com/album/4icS85G6VGPbFlB9UGPxct) | 2:11 | 2025-01-09 | 2025-04-12 |
 | [For You](https://open.spotify.com/track/4xUnBhJLPGgwDFBiHnSaRE) | [NightCove\_thefox](https://open.spotify.com/artist/6yYJBwT8q1KYXucYLroowZ) | [For You](https://open.spotify.com/album/3yg9je9GS0BKhtP6Uc4eSy) | 3:00 | 2024-07-24 | 2025-06-28 |
-| [For You, for Me, Forevermore](https://open.spotify.com/track/13fjLpWKd4hO0AEXJ79SBL) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su), [Gordon Jenkins & His Orchestra](https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU) | [Judy Garland: Always Chasing Rainbows \- A Centenary Tribute](https://open.spotify.com/album/2Cq85zbA5CvOLhnl4InGqA) | 3:11 | 2025-06-21 |  |
+| [For You, For Me, For Evermore](https://open.spotify.com/track/3xFNCOi1LdKAwTkzoABx2R) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH), [Richard Hayman & His Orchestra](https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7) | [For You, For Me, Forevermore](https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq) | 3:07 | 2025-07-10 |  |
+| [For You, for Me, Forevermore](https://open.spotify.com/track/13fjLpWKd4hO0AEXJ79SBL) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su), [Gordon Jenkins & His Orchestra](https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU) | [Judy Garland: Always Chasing Rainbows \- A Centenary Tribute](https://open.spotify.com/album/2Cq85zbA5CvOLhnl4InGqA) | 3:11 | 2025-06-21 | 2025-07-11 |
 | [Freud & Jung & Adler](https://open.spotify.com/track/0l98XUwiJz4mRFAjlQ25x1) | [George](https://open.spotify.com/artist/5ss7AB3vOyByi5PIcamf9t), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV) | [George & Ira Gershwin: Pardon My English](https://open.spotify.com/album/3XksMAO42yZ2GaWxyHF3Wx) | 3:25 | 2025-01-09 | 2025-04-12 |
 | [Gather Yourselves](https://open.spotify.com/track/7qAv7fasBtStDIkwEVNNUR) | [Villainy](https://open.spotify.com/artist/3TGyAB5Aa7rjP6roX8eSHe) | [Mode\. Set\. Clear.](https://open.spotify.com/album/7mirfhYOu5bQ2M79iioxwk) | 3:54 | 2025-01-09 | 2025-04-12 |
 | [Gershwin / Arr\. Rodney Bennett: Jasbo Brown Blues \(From "Porgy and Bess"\)](https://open.spotify.com/track/50FcDfKKLTXo5PKVujpocj) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Richard Rodney Bennett](https://open.spotify.com/artist/0x18ovS0dAzgGlZOWuc52W) | [Gershwin: Songs](https://open.spotify.com/album/6aFK6TPiZxoiW3cOm8cbnJ) | 3:02 | 2024-07-24 |  |

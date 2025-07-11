@@ -2,9 +2,9 @@
 
 ### [Habibi Gang Gang](https://open.spotify.com/playlist/37i9dQZF1DX3MGdnF1V53j)
 
-> DYSTINCT & French Montana on the cover of Habibi Gang Gang
+> Oualid on the cover of Habibi Gang Gang
 
-163 songs - 7 hr 44 min
+164 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2024-02-29 | 2025-05-09 |
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2024-02-29 |  |
 | [Mok ya mok](https://open.spotify.com/track/5JobkufjKtdGgCASCaOGCP) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/0glB4KAxl5lStonhyTUi1g) | 2:38 | 2025-05-06 | 2025-05-09 |
-| [Mosh 3adi](https://open.spotify.com/track/1jNzwYwwtJ7ifSGK1t2VBA) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Mosh 3adi](https://open.spotify.com/album/4Fh81sZYgukF7Hu6Y6Yy7Q) | 2:34 | 2025-06-05 |  |
+| [Mosh 3adi](https://open.spotify.com/track/1jNzwYwwtJ7ifSGK1t2VBA) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Mosh 3adi](https://open.spotify.com/album/4Fh81sZYgukF7Hu6Y6Yy7Q) | 2:34 | 2025-06-05 | 2025-07-11 |
 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 | 2024-02-29 |  |
 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 | 2024-07-18 |  |
 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 | 2024-02-29 |  |
@@ -149,6 +149,7 @@
 | [Tigini North African Remix](https://open.spotify.com/track/3AynbrynqxhxJrx5aKfEDS) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Tigini North African Remix](https://open.spotify.com/album/3Qq67nsNbhILj8AWNK9rmL) | 2:54 | 2024-02-29 | 2024-04-19 |
 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-02-29 |  |
 | [Tin3achin](https://open.spotify.com/track/05byboJ3i5qRQxd5Os6Xoy) | [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Tin3achin](https://open.spotify.com/album/0zggXmuYPr9HlbHiAImO3g) | 3:17 | 2024-02-29 | 2024-06-28 |
+| [Titanic](https://open.spotify.com/track/1Y3pjOAKXdTniNMDMtsViT) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Titanic](https://open.spotify.com/album/4I68fZMnmzmGSFc2SuIul0) | 2:34 | 2025-07-10 |  |
 | [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 | 2024-02-29 |  |
 | [Tu es où ?](https://open.spotify.com/track/43Nzbj3qxTnG6bcR2tg54e) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Tu es où ?](https://open.spotify.com/album/2SbYUaUdRwoonUi6y5OY4m) | 2:18 | 2024-09-26 | 2025-02-14 |
 | [Un jour, je l'aurai](https://open.spotify.com/track/0Qx1ecCyHjCwGdKy85DZ8y) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Un jour, je l'aurai](https://open.spotify.com/album/19UjRPhzBwQe0fVkPR05Lq) | 3:46 | 2024-11-20 |  |

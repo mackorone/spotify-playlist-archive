@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "\u4e5f\u8a31\u6211\u5011\u90fd\u7d2f\u4e86",
+        "url": "https://open.spotify.com/album/5qRtmVnR82BzzjGYYh2lPA"
+      },
+      "artists": [
+        {
+          "name": "Jasmine C",
+          "url": "https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257519,
+      "name": "\u4e5f\u8a31\u6211\u5011\u90fd\u7d2f\u4e86",
+      "url": "https://open.spotify.com/track/0o61y79AKEQXK0CaI7uLIb"
+    },
+    {
+      "album": {
         "name": "\u4e8c\u5341\u6b72",
         "url": "https://open.spotify.com/album/101LuRO1uDAjMMWI5c2Sd6"
       },
@@ -2346,6 +2364,24 @@
       "duration_ms": 288751,
       "name": "\u4f60\u7d66\u7684\u5929\u7a7a",
       "url": "https://open.spotify.com/track/2nWe3ZSbaCHmposW3T8EoX"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u7d66\u904e\u6211\u592a\u967d",
+        "url": "https://open.spotify.com/album/5nViyDdu5FFPWdadLLZacl"
+      },
+      "artists": [
+        {
+          "name": "Aska Yang",
+          "url": "https://open.spotify.com/artist/2SOrfXWlb17EoCqupfGX4u"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237639,
+      "name": "\u4f60\u7d66\u904e\u6211\u592a\u967d (\u5f71\u96c6\u300a\u6211\u5011\u8207\u60e1\u7684\u8ddd\u96e2\u2161\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/2B2VkawjgmF4IgfTxcZwfx"
     },
     {
       "album": {
@@ -3806,7 +3842,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 249417,
       "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
       "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
@@ -6279,6 +6315,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5f8c\u7684\u665a\u5b89(DEMO)",
+        "url": "https://open.spotify.com/album/4Thhd8c8bh6nsuVB9x5OT3"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244354,
+      "name": "\u6700\u5f8c\u7684\u665a\u5b89(DEMO)",
+      "url": "https://open.spotify.com/track/2BZnKatCiyHaRFFv3oy3v2"
+    },
+    {
+      "album": {
         "name": "44\u5929",
         "url": "https://open.spotify.com/album/6tyHdfBJNMVgeiskGRCCyS"
       },
@@ -7978,7 +8032,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 232984,
       "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
       "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
@@ -8306,7 +8360,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 196125,
       "name": "\u85cf\u5728\u4f60\u7684\u540d\u5b57\u91cc",
       "url": "https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi"

@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: jo0ji
 
-731 songs - 1 day 22 hr 4 min
+732 songs - 1 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [LUCKY](https://open.spotify.com/track/5EutOJtNnuuIiyKsI1PfLi) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [LUCKY](https://open.spotify.com/album/5n23bJMXQyVCVVkKWumfEg) | 3:29 | 2025-07-01 |  |
 | [lukewarm wind](https://open.spotify.com/track/0Qx0eBmLsBVyRBAyoXyzT1) | [Hiraku Yoshimura](https://open.spotify.com/artist/0jcXXzmFqegqOKlXPpZCTq) | [lukewarm wind](https://open.spotify.com/album/3OhFlMd8ty0PWJmec0LgkO) | 3:39 | 2025-03-18 | 2025-03-26 |
 | [Machi....](https://open.spotify.com/track/7ENZ2lMGtjNgyN0cHVEJZz) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Machi....](https://open.spotify.com/album/1xp7bm3K4XSdqWG7ZVHTn7) | 6:25 | 2024-12-10 | 2025-03-26 |
-| [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-13 |  |
+| [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-13 | 2025-07-11 |
 | [Maps to the stars](https://open.spotify.com/track/01M32J6u1o0uQpya6GbEn9) | [Loupx garoux](https://open.spotify.com/artist/59Rp7Pu3sKPJS4sZKZOv3N) | [暗野](https://open.spotify.com/album/787KBEtjeZGV6lEcrgLnJp) | 5:14 | 2024-10-01 | 2024-11-20 |
 | [Maria](https://open.spotify.com/track/18VuhHFkLgezrogT72sCfi) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Maria](https://open.spotify.com/album/3cYcU11gO5RAyMj8w60YR2) | 3:02 | 2025-04-08 | 2025-04-16 |
 | [marriage](https://open.spotify.com/track/4dzBSK1zA7EQ4VBIOLEUUR) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [marriage](https://open.spotify.com/album/4z8FkDkZVgRa9qDtDoRVMu) | 3:45 | 2025-03-25 | 2025-04-02 |
@@ -493,6 +493,7 @@
 | [プリズム](https://open.spotify.com/track/3ZmPiQD04rkkjwJi2hGi9I) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [SPECTRUM](https://open.spotify.com/album/3OHWs70vxkZdFpktjonQhH) | 4:48 | 2024-12-03 | 2024-12-11 |
 | [プレデター](https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [プレデター](https://open.spotify.com/album/1BxSDCPFXkAGtq45RC72vI) | 3:36 | 2025-05-13 |  |
 | [ベガとアルタイル](https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル](https://open.spotify.com/album/005VNX1PTHOlstwc3STv09) | 3:55 | 2024-07-09 | 2024-12-25 |
+| [ベガとアルタイル \-once a year\-](https://open.spotify.com/track/5M2RkYqQ1ci5UgD7Ij0wze) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル \-once a year\-](https://open.spotify.com/album/7DoMEN9ZHsZtAOSKs82L2I) | 4:00 | 2025-07-08 |  |
 | [ベルガモット](https://open.spotify.com/track/1b6pgyzY5v6O6yewSXd9ZI) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ベルガモット](https://open.spotify.com/album/5YrdVkrc1xudPpVvSpFyhn) | 3:16 | 2025-02-18 |  |
 | [ホームシックユース](https://open.spotify.com/track/0XSJml7QenWApilSFSnxMU) | [Yoh.Ayahara](https://open.spotify.com/artist/20eZUwgbim6RKpypIt6bek) | [ホームシックユース](https://open.spotify.com/album/7mt9NRRfDaJsLSLIZJYv4r) | 2:59 | 2025-04-08 | 2025-04-16 |
 | [マイストーリー](https://open.spotify.com/track/5ANVJ1szTdASjiGKuPjnNj) | [パンク少年](https://open.spotify.com/artist/2GXmpDE8BoCyPmD631q5ii) | [マイストーリー](https://open.spotify.com/album/3aWJ4frdW7CbDSGHoi2RjM) | 4:22 | 2025-05-27 | 2025-06-04 |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 椎名林檎 Shiina Ringo
 
-3,186 songs - 8 day 11 hr 32 min
+3,188 songs - 8 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-05-29 | 2023-04-12 |
 | [CANDY MOON](https://open.spotify.com/track/2zqbFeCXeON4VggxeAatGd) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Beautiful](https://open.spotify.com/album/4BFKguk68XmcaazFf6GU9S) | 3:51 | 2022-05-29 | 2022-06-01 |
 | [Candy ’23](https://open.spotify.com/track/4wz8H4DU6esccn4xFeQsVf) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [Candy ’23](https://open.spotify.com/album/6rPssY3rO2VWkshsO5FTbe) | 4:41 | 2023-05-09 | 2023-05-17 |
-| [capsule](https://open.spotify.com/track/5fzvL9CZiaMUzNcRSNsLEN) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [capsule](https://open.spotify.com/album/4WqcLhG9RRrwaXQFlwAFPw) | 4:54 | 2025-04-08 |  |
+| [capsule](https://open.spotify.com/track/5fzvL9CZiaMUzNcRSNsLEN) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [capsule](https://open.spotify.com/album/4WqcLhG9RRrwaXQFlwAFPw) | 4:54 | 2025-04-08 | 2025-07-11 |
 | [Carta de Obon](https://open.spotify.com/track/5p4BNZpmZ8ZLGN64zJgLwA) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Contact](https://open.spotify.com/album/3mVkAa9KXbNmpuofycXBBf) | 4:31 | 2024-01-23 | 2024-01-31 |
 | [Cartier](https://open.spotify.com/track/4OtG3BjiFfTCjgUaqFuljG) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Cartier](https://open.spotify.com/album/1nu3z7m3Dzc7Obgq9roONF) | 3:51 | 2024-12-17 | 2025-03-19 |
 | [Catch Up SANTA](https://open.spotify.com/track/4ZLCBwPkYH1QgCX2pr8jnU) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [Catch Up SANTA](https://open.spotify.com/album/2CrCwm8IfLhqgdMHcnNA6y) | 3:12 | 2022-12-06 | 2022-12-14 |
@@ -741,7 +741,7 @@
 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 | 2025-07-08 |  |
 | [in a bubble with u](https://open.spotify.com/track/1kYIOxMeoE4zH8XRLXLttF) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [mukuge](https://open.spotify.com/album/4mpOI8TdpvQPsIo8cRevBi) | 4:20 | 2024-06-25 | 2024-07-31 |
 | [in my dream](https://open.spotify.com/track/78DxQxIdVzpj6oyrMEOShB) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [in my dream](https://open.spotify.com/album/3WK4C94BJD8ilHlr1D14Go) | 3:29 | 2022-06-23 | 2022-07-06 |
-| [IN SUNSET feat\. mahina](https://open.spotify.com/track/4r4FjtDcIx4wPpbVLkxcfW) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [IN SUNSET feat\. mahina](https://open.spotify.com/album/0CZUKBlorbKPBPh0YxrSos) | 3:34 | 2025-07-08 |  |
+| [IN SUNSET feat\. mahina](https://open.spotify.com/track/4r4FjtDcIx4wPpbVLkxcfW) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [IN SUNSET feat\. mahina](https://open.spotify.com/album/0CZUKBlorbKPBPh0YxrSos) | 3:34 | 2025-07-08 | 2025-07-11 |
 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 | 2023-09-27 | 2023-10-04 |
 | [In the Dark](https://open.spotify.com/track/5ZknjcT8dO7W8LiKkH6c21) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [In the Dark](https://open.spotify.com/album/56AOtarjiBBqoqfMwSdWs5) | 4:00 | 2022-07-07 | 2022-08-18 |
 | [IN THIS WORLD \- feat\. 坂本龍一 \[Vocal : 満島ひかり\]](https://open.spotify.com/track/5FMRUnWOXZXXtTjaxpMxl3) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [BIG WORLD](https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx) | 4:41 | 2022-05-29 | 2022-08-04 |
@@ -1988,6 +1988,7 @@
 | [ただララバイ](https://open.spotify.com/track/2Y5AV1RaxjdpA3hK8XQnMf) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [脳内魔法](https://open.spotify.com/album/1wedojCzVS3Z9q6OT3vHO2) | 5:17 | 2023-10-10 | 2023-10-18 |
 | [たぶん、きっと、ぜったい](https://open.spotify.com/track/1T241oWXMrqwaa7vVn1VZk) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [たぶん、きっと、ぜったい](https://open.spotify.com/album/3CwENF30PIMJt42GnY9sY7) | 3:20 | 2023-08-22 | 2023-08-30 |
 | [たゆたう](https://open.spotify.com/track/5qDRRbzn9voHdVHhFxF56s) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [消えるまで](https://open.spotify.com/album/3lkQnrcHp6BTqVfkUT5ktU) | 4:22 | 2023-11-28 | 2023-12-06 |
+| [たゆたうままに](https://open.spotify.com/track/0CChuQNcBctCFFC17znqRd) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [たゆたうままに](https://open.spotify.com/album/0UMRde9b3pNBHXTXUKDS3K) | 3:58 | 2025-07-08 |  |
 | [だいすき パンダ](https://open.spotify.com/track/7qelMffXBZOS0EBud7PFKN) | [つじあやの と むぎ\(猫\)](https://open.spotify.com/artist/7EnWlINZKVb2FloonUswV6), [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i), [むぎ\(猫\)](https://open.spotify.com/artist/26vOmxsaFTgaxV92XXdpWH) | [だいすき パンダ](https://open.spotify.com/album/2WfIQGppwBbxR0lvd86sOG) | 2:48 | 2023-01-03 | 2023-01-05 |
 | [だからね](https://open.spotify.com/track/3VD9P79rtziYo9YxvKWlye) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [capriccioso](https://open.spotify.com/album/0LBFHETWfb3tSNvGJ3PKtz) | 5:01 | 2024-04-09 | 2024-04-17 |
 | [だるがらみ \(feat\. 関口シンゴ\)](https://open.spotify.com/track/7JgW7JNMfzONhTlkknDzac) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [YOLO](https://open.spotify.com/album/0KGXhKD7VkUdqhR7QfCSxq) | 2:34 | 2023-08-29 | 2023-09-27 |
@@ -2194,6 +2195,7 @@
 | [ケダモノのフレンズ](https://open.spotify.com/track/6WUytTGUVFHTVGOqty1UPs) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [odds and ends](https://open.spotify.com/album/4T0USknu2Yz9mhoB6enHH0) | 3:37 | 2022-05-29 | 2022-09-01 |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-22 | 2022-12-07 |
 | [コイスルオトメ](https://open.spotify.com/track/34g411TDhSV2KQiCbWoK6v) | [竹渕慶](https://open.spotify.com/artist/2BXz3nKvKeJfnaj3bkVsnf) | [コイスルオトメ](https://open.spotify.com/album/4lhgWVTwGCxvtYNP9bufxQ) | 4:39 | 2025-04-15 | 2025-04-23 |
+| [コエ](https://open.spotify.com/track/7qf3u0gGC2tWVdHzY38g07) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [コエ](https://open.spotify.com/album/0unDKK70GJLloyM4jJEueD) | 5:01 | 2025-07-08 |  |
 | [ココロミュージカル](https://open.spotify.com/track/3W3gajurMrLZtjHZEUnPcJ) | [田畑実和](https://open.spotify.com/artist/3eMcH646Hc9IXNaCGfB38d) | [ココロミュージカル](https://open.spotify.com/album/3Lcd4ShGGWu1dVEImf1AwF) | 3:03 | 2022-06-02 | 2022-07-27 |
 | [コルテオ　～行列～](https://open.spotify.com/track/0ReowEiUlgn1BeVHcq6S1a) | [Miu Sakamoto](https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h) | [Salyu 20th Anniversary Tribute Album “grafting”](https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4) | 5:42 | 2024-12-17 | 2024-12-25 |
 | [コワレモノ](https://open.spotify.com/track/2n9VLgcDJxdlwQSdwwBb1G) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [コワレモノ](https://open.spotify.com/album/4TlQpO7MR1Sh8kZ1hbFqB6) | 3:50 | 2023-10-17 | 2023-10-19 |

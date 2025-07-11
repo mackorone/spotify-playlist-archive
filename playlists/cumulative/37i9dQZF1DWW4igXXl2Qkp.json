@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating 10 years of the best new hip-hop music from new, independent artists.  Cover: <a href=\"spotify:artist:2uVTJrWgoWoJmImS2I0KVE\">La Reezy\n</a> ",
+  "description": "Celebrating 10 years of the best new hip-hop music from new, independent artists. Cover: <a href=\"spotify:artist:2uVTJrWgoWoJmImS2I0KVE\">La Reezy</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -4286,6 +4286,24 @@
       "duration_ms": 201047,
       "name": "Big Papa",
       "url": "https://open.spotify.com/track/7D0V5Va2bh4EcARMvFyLId"
+    },
+    {
+      "album": {
+        "name": "Big Trick",
+        "url": "https://open.spotify.com/album/3rV83OTpGmMN6INpXtb0az"
+      },
+      "artists": [
+        {
+          "name": "KiDD",
+          "url": "https://open.spotify.com/artist/1hPLebilUzrmKiwWntSBip"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237623,
+      "name": "Big Trick",
+      "url": "https://open.spotify.com/track/6aNtZRCVSxyTgceD7G4OHr"
     },
     {
       "album": {
@@ -17430,7 +17448,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 165310,
       "name": "Kollectin Profits",
       "url": "https://open.spotify.com/track/4cBhSahusCC2qO3WpyCFL2"

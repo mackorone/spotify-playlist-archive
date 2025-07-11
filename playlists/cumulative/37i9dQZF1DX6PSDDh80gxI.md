@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> lista di cose buone: 1\. l'anguria 2\. l'anguria sulla cover del singolo di fulminacci
+> Ai que bandida Joan, baby BAM BAM 🎸
 
-338 songs - 17 hr 54 min
+341 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Buio](https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Buio](https://open.spotify.com/album/3UdbcAYQCwWRIOX2ADdCk4) | 2:55 | 2025-03-06 | 2025-04-25 |
 | [Calore](https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Calore](https://open.spotify.com/album/0Bdudd1JyswBKGJUXUweOe) | 3:01 | 2025-04-03 | 2025-04-23 |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 | 2024-10-25 |
+| [Cantieri](https://open.spotify.com/track/1o6oPDjZcGSE0aP08ogBTA) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Cantieri](https://open.spotify.com/album/7u8FjnmiBIPNlU1RPVIKvi) | 2:42 | 2025-07-10 |  |
 | [Canzone Facile](https://open.spotify.com/track/5wJStwEVrz97MUYuDLFBz3) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/7Gwomavjv5whQupOwjbzgP) | 2:47 | 2025-02-27 | 2025-03-18 |
 | [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 | 2024-09-05 | 2025-03-28 |
 | [Casomai](https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Casomai](https://open.spotify.com/album/3pQ5QeRXj1tCHWXBmIJbXG) | 3:05 | 2025-05-01 |  |
@@ -131,6 +132,7 @@
 | [Hiroshima \(feat\. piazzabologna\)](https://open.spotify.com/track/4YlYUNwfcrjro882XpvEJ9) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [DISCO DEFAULT](https://open.spotify.com/album/0fzEQdXr2Z9r5VvnskQUkz) | 2:55 | 2024-06-27 | 2024-07-19 |
 | [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 | 2024-10-31 | 2025-05-20 |
 | [Il contrario](https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Il contrario](https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq) | 2:54 | 2025-01-09 | 2025-03-21 |
+| [Il guardiano](https://open.spotify.com/track/47zKsHNhsklc8kOyde2QZ2) | [Masamasa](https://open.spotify.com/artist/0xPE374BH4ArrsddRO0xtn) | [Il guardiano](https://open.spotify.com/album/2KvoumU72OO6GyYRBQU1oK) | 2:53 | 2025-07-10 |  |
 | [Il lungoriva di Genova](https://open.spotify.com/track/6QZsLOzlZfGqpGqXKOw2Bb) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [La Maccaia](https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4) | 3:29 | 2025-04-24 | 2025-06-05 |
 | [Il mio risveglio](https://open.spotify.com/track/3PgPdRH5lf65fRNeUXptju) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/1lwUJdcej4UlbTFVyyShUF) | 2:41 | 2024-12-12 | 2025-01-10 |
 | [Il morso di Tyson](https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il morso di Tyson](https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ) | 4:00 | 2024-11-20 | 2025-05-20 |
@@ -192,7 +194,7 @@
 | [Midnight Light](https://open.spotify.com/track/57dXFliDUK856PYFVT8vJg) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Midnight Light](https://open.spotify.com/album/0JnjMb9y6vskoDmOCUUknB) | 4:35 | 2025-05-01 | 2025-05-30 |
 | [MIELE \(scusa\)](https://open.spotify.com/track/6pmIgVimnQs8dgohYE9SSB) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [MIELE \(Scusa\)](https://open.spotify.com/album/3tzuzJ0IlYtGy2IWfONuSo) | 2:27 | 2024-11-14 | 2025-01-03 |
 | [Morta d'amore](https://open.spotify.com/track/6XEK2VLdMdiZ6d71chw1ui) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Morta d'amore](https://open.spotify.com/album/7sNKBSusBvdPTMHgzozPaw) | 2:46 | 2025-03-06 | 2025-03-28 |
-| [MORTO A GALLA](https://open.spotify.com/track/41sWG4POwal9yrbBeQpsJV) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [MORTO A GALLA](https://open.spotify.com/album/66gkYAaRzj6sdZcw9mazmf) | 3:03 | 2025-03-27 |  |
+| [MORTO A GALLA](https://open.spotify.com/track/41sWG4POwal9yrbBeQpsJV) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [MORTO A GALLA](https://open.spotify.com/album/66gkYAaRzj6sdZcw9mazmf) | 3:03 | 2025-03-27 | 2025-07-11 |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-08-15 | 2024-08-23 |
 | [my baby!](https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [my baby!](https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD) | 2:57 | 2024-11-14 | 2025-02-28 |
 | [MYROMANTICA](https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [MYROMANTICA](https://open.spotify.com/album/4ZmIavc2q57jOHPjlsjy3f) | 3:17 | 2025-01-16 | 2025-03-21 |
@@ -273,7 +275,7 @@
 | [Segreto](https://open.spotify.com/track/7gDSpUqCLBMigIY5kEVcQI) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Chi È Nicola Felpieri?](https://open.spotify.com/album/6MyXSqkTazI56OSkxJNR4X) | 3:42 | 2025-03-13 | 2025-03-21 |
 | [sei ore](https://open.spotify.com/track/6jRosOK5OnF3Cm75Ti1f2Y) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [sei ore](https://open.spotify.com/album/2ZMaIMhaaAc4N7WDn4Bj4c) | 3:20 | 2025-05-15 | 2025-06-27 |
 | [Sembra per Sempre](https://open.spotify.com/track/73LkdQY7M5kMSDWPiWs0Q1) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 4:30 | 2024-12-19 | 2025-01-17 |
-| [Sempre peggio](https://open.spotify.com/track/2u6cZIiXloUPhWFLPOpfOw) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Sempre peggio](https://open.spotify.com/album/4iVXGqLvOgy41ZqQu0DFzE) | 2:37 | 2025-05-22 |  |
+| [Sempre peggio](https://open.spotify.com/track/2u6cZIiXloUPhWFLPOpfOw) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Sempre peggio](https://open.spotify.com/album/4iVXGqLvOgy41ZqQu0DFzE) | 2:37 | 2025-05-22 | 2025-07-11 |
 | [Sentirsi Soli \(con Calcutta\)](https://open.spotify.com/track/7avHfK0CfHjOoZG8UWlVIn) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 3:05 | 2025-05-29 |  |
 | [Senza di me](https://open.spotify.com/track/71ogrXoA23rHJ1LVFoNOk7) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Senza di me](https://open.spotify.com/album/1M92MZmztvndDnorR9wTsU) | 2:31 | 2024-12-26 | 2025-01-17 |
 | [Senza Stelle](https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Senza Stelle](https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC) | 2:52 | 2024-09-19 | 2024-10-18 |
@@ -283,7 +285,8 @@
 | [Si Nun Me Vuò Bene Cchiù](https://open.spotify.com/track/7bUBv52qkQvRxwemeI1Vjt) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Si Nun Me Vuò Bene Cchiù](https://open.spotify.com/album/7GHG2VoDRMu4gU9wYEYNTM) | 3:23 | 2025-06-05 | 2025-06-27 |
 | [Sigarette](https://open.spotify.com/track/6rnQ5HHy4OrjSsM0xlEI4u) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs) | 2:59 | 2025-03-20 | 2025-04-25 |
 | [Signorina Ciao \(con Drast & faccianuvola\)](https://open.spotify.com/track/082ZTTy7m8mztUHUrDTsu8) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm), [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:04 | 2025-05-29 |  |
-| [Signorina, buonasera](https://open.spotify.com/track/6x0LM8WZ7T77Jn0MXv36sL) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Signorina, buonasera](https://open.spotify.com/album/3w3vy3NOib5FmLio6uK7kf) | 2:56 | 2025-05-29 |  |
+| [Signorina, buonasera](https://open.spotify.com/track/6x0LM8WZ7T77Jn0MXv36sL) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Signorina, buonasera](https://open.spotify.com/album/3w3vy3NOib5FmLio6uK7kf) | 2:56 | 2025-05-29 | 2025-07-11 |
+| [SISTEMARSI](https://open.spotify.com/track/3fLzgb9uGcb1hJTkNFnwrc) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 2:44 | 2025-07-10 |  |
 | [Situazione complicata](https://open.spotify.com/track/2f3TSWcQlu8sRr5ymkVRFl) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs) | 3:25 | 2025-03-20 |  |
 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 | 2024-08-22 | 2024-10-04 |
 | [Sottobraccio](https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sottobraccio](https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y) | 3:08 | 2024-06-27 | 2025-03-28 |

@@ -2,7 +2,7 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto:  Vizinhos
+> Uma playlist de pura alma pop! Foto: Vizinhos
 
 285 songs - 15 hr 9 min
 
@@ -168,7 +168,7 @@
 | [Maria Joana](https://open.spotify.com/track/4yY22pTpZ7qqOEGUtbE6D4) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN) | [Maria Joana](https://open.spotify.com/album/0jmto7Z5M3Tcd1Kb3MZmpz) | 3:47 | 2024-06-27 | 2024-12-06 |
 | [Mariana](https://open.spotify.com/track/13tuN5MKAurqUEOzb5VaaE) | [Pedro Gonçalves](https://open.spotify.com/artist/234hezB1llSvVZqgtLVdzf) | [Mariana](https://open.spotify.com/album/4TEz0OWNPdJPRgZJ7697AB) | 3:23 | 2025-06-19 |  |
 | [Maya](https://open.spotify.com/track/76lnq6raCPupukROLdLmwG) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Voyage \(Part III\)](https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa) | 3:30 | 2024-11-08 | 2025-03-08 |
-| [Medo](https://open.spotify.com/track/6SdhNImhd8UMS0Tm79kRaA) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 3:00 | 2025-03-14 |  |
+| [Medo](https://open.spotify.com/track/6SdhNImhd8UMS0Tm79kRaA) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 3:00 | 2025-03-14 | 2025-07-11 |
 | [Melodia](https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Melodia](https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P) | 2:55 | 2024-11-08 | 2025-04-11 |
 | [Metade](https://open.spotify.com/track/1xCVMWnFHBC2aKkozzoaoi) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Metade](https://open.spotify.com/album/7wuvePhkb2UA1Knm58o5Bz) | 2:25 | 2025-04-24 |  |
 | [Milionário](https://open.spotify.com/track/2SkgTFL4pSfG5N5ub9frhb) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Milionário](https://open.spotify.com/album/4ppDJUn1qfV7FxgGqNeVFA) | 4:01 | 2025-05-08 | 2025-05-30 |

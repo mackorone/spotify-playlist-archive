@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 31332,
+  "num_followers": 31337,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 271666,
-      "name": "You've Got a Friend - Live",
-      "url": "https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks"
+      "duration_ms": 317786,
+      "name": "What's Going On - Live",
+      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 317786,
-      "name": "What's Going On - Live",
-      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
+      "duration_ms": 271666,
+      "name": "You've Got a Friend - Live",
+      "url": "https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Alive (Live At the Jazz Cafe, London)",
-        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 413413,
-      "name": "You're Gonna Miss Your Candy Man - Live",
-      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 192600,
       "name": "At Last - Live",
       "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Alive (Live At the Jazz Cafe, London)",
+        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 413413,
+      "name": "You're Gonna Miss Your Candy Man - Live",
+      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "WAR Live",
+        "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        }
+      ],
+      "duration_ms": 366866,
+      "name": "The Cisco Kid - Live Version",
+      "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 333577,
       "name": "No Love Dying - Live At The Royal Albert Hall / 02 April 2018",
       "url": "https://open.spotify.com/track/5zqOcGH3Is5EvPoMG9rBtx"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "WAR Live",
-        "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 366866,
-      "name": "The Cisco Kid - Live Version",
-      "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Dave Chappelle's Block Party",
-        "url": "https://open.spotify.com/album/3dmlZgLFJjctQrn7iUAMas"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Back In The Day - Live Album Version (Explicit)",
-      "url": "https://open.spotify.com/track/62R2Dt1z4z1rurfZt06zmc"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Know You Better (Live from Brooklyn Paramount)",
         "url": "https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 475293,
       "name": "Know You Better - Live from Brooklyn Paramount",
       "url": "https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Dave Chappelle's Block Party",
+        "url": "https://open.spotify.com/album/3dmlZgLFJjctQrn7iUAMas"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Back In The Day - Live Album Version (Explicit)",
+      "url": "https://open.spotify.com/track/62R2Dt1z4z1rurfZt06zmc"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "The Stax/Volt Revue: Live In London, Vol. 1",
-        "url": "https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 235786,
-      "name": "Hold On, I'm Comin' - Live in London",
-      "url": "https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "In Person at the Whiskey a Go Go",
         "url": "https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 133733,
       "name": "Pain in My Heart - Live at the Whisky a Go Go, 1966",
       "url": "https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "The Stax/Volt Revue: Live In London, Vol. 1",
+        "url": "https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 235786,
+      "name": "Hold On, I'm Comin' - Live in London",
+      "url": "https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS"
     },
     {
       "added_at": "2024-10-25 07:48:43",

@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2256704,
+  "num_followers": 2256176,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Fire & Fury",
+      "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
         "name": "A Beautiful Life",
         "url": "https://open.spotify.com/album/0F2pKTWsWxkd0RfW59EV49"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 168080,
       "name": "Dream Within a Dream",
       "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Fire & Fury",
-      "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
     },
     {
       "added_at": "2024-07-05 20:00:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,568 likes - 156 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,579 likes - 156 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 12 | [Come Jesus Come](https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G) | 4:58 |
 | 13 | [Good Vibes](https://open.spotify.com/track/3q60BNI2NtyMxRKgx9KW9n) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj), [Biddl3](https://open.spotify.com/artist/1pg71oBPpON43xFVlyGfcz) | [Good Vibes](https://open.spotify.com/album/2kyARPXzg5HF1ImTd9NoAJ) | 2:59 |
 | 14 | [About You](https://open.spotify.com/track/23uTNfCvpwaV6MOjw7T2bH) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [About You](https://open.spotify.com/album/28DWS1yYiPx3O7bYy6hpIk) | 2:24 |
-| 15 | [Yet](https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [Yet](https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft) | 5:02 |
+| 15 | [yet \(don't give up\)](https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [yet \(don't give up\)](https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft) | 5:02 |
 | 16 | [The Stand \- Tagalog Version](https://open.spotify.com/track/2wx9AwNHqKC0k3eZl6O9T8) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [The Stand \- Tagalog Version](https://open.spotify.com/album/4fIcqN9qa3ZKtTtSeceCyA) | 4:39 |
 | 17 | [Let Your Glory Come \- Live](https://open.spotify.com/track/2VgXjVDkD8xEX7ybz3rly8) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Glory \(Live\)](https://open.spotify.com/album/168B29cWJJPfcnpwIFKZqr) | 5:28 |
 | 18 | [Beautiful](https://open.spotify.com/track/2mg5cm4IjmTNu0oH9Z1cjg) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Beautiful](https://open.spotify.com/album/2SXI4TazkHtz1tnBQYiNjC) | 2:25 |

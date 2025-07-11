@@ -1,72 +1,60 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZBXDZawrbaM>warner case</a>, <a href=spotify:playlist:37i9dQZF1EIYuCac56fvlz>Dean Lewis</a>, <a href=spotify:playlist:37i9dQZF1EIXkO3D9zK5IA>Loyle Carner</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYwynPNGn96d>Brooksie</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIWKWgazEUiFG>Biig Piig</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABWmDNdi15b7NhqRbaqU3MD",
+  "snapshot_id": "AAAAAAAAAAD+c3+IvYHKsOKlzjDDWKkB",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "summer on the inside",
-        "url": "https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa"
+        "name": "Not Into You",
+        "url": "https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX"
       },
       "artists": [
         {
-          "name": "warner case",
-          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Max Kaluza",
-          "url": "https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi"
+          "name": "Brooksie",
+          "url": "https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO"
         }
       ],
-      "duration_ms": 205166,
-      "name": "summer on the inside",
-      "url": "https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj"
+      "duration_ms": 157800,
+      "name": "Not Into You",
+      "url": "https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Hardest Love",
-        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 190527,
-      "name": "Looks Like Me",
-      "url": "https://open.spotify.com/track/1CcCntDuVJpjqkJhYGhuMw"
+      "duration_ms": 148000,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Not Waving, But Drowning",
-        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 220401,
-      "name": "Desoleil (Brilliant Corners)",
-      "url": "https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg"
+      "duration_ms": 157333,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
     },
     {
       "added_at": null,

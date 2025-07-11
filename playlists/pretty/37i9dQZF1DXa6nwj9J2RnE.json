@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGb9hwAAAAD2qR7kJgrZKUypbo9u5o1h",
+  "snapshot_id": "aHA6TAAAAADs7Xq6PkDRk+ZZ/2h6U1zs",
   "tracks": [
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Leven Beter",
         "url": "https://open.spotify.com/album/5Kk1rJl971vTHiMh5I7ore"
@@ -25,7 +25,63 @@
       "url": "https://open.spotify.com/track/7MldMN7hHGF7gLgbvfepSG"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
+      "album": {
+        "name": "JAMPA",
+        "url": "https://open.spotify.com/album/2N1N6WBexzyInibdlYLc5M"
+      },
+      "artists": [
+        {
+          "name": "RAFTING GOODS",
+          "url": "https://open.spotify.com/artist/6NzcpN9bENbuI2mLaC24Zl"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5"
+        },
+        {
+          "name": "$KEER&BOO$",
+          "url": "https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B"
+        },
+        {
+          "name": "Tim Beumers",
+          "url": "https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x"
+        },
+        {
+          "name": "Blanke Roy",
+          "url": "https://open.spotify.com/artist/2snnqKGi87l4WBaPDp9pFP"
+        }
+      ],
+      "duration_ms": 179567,
+      "name": "M-PAKKET",
+      "url": "https://open.spotify.com/track/2UGCBA3lyADhRymJMjPlsM"
+    },
+    {
+      "added_at": "2025-07-10 22:10:20",
+      "album": {
+        "name": "PIRLO",
+        "url": "https://open.spotify.com/album/3Gtm2Vem32X2tMxs8Rvkwq"
+      },
+      "artists": [
+        {
+          "name": "TADS",
+          "url": "https://open.spotify.com/artist/4PiXfQoM68C9kWwaJNMbQ7"
+        },
+        {
+          "name": "Narco Polo",
+          "url": "https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW"
+        },
+        {
+          "name": "willymakeamilli",
+          "url": "https://open.spotify.com/artist/4DVTlo97P1cDrE6Zzz9wOx"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "PIRLO",
+      "url": "https://open.spotify.com/track/0LNcNqJ42pwpWb9AAaQ0z9"
+    },
+    {
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Duizend Volle Manen",
         "url": "https://open.spotify.com/album/4xJmuGamirTFgurCtUQfoU"
@@ -49,7 +105,63 @@
       "url": "https://open.spotify.com/track/7EZ45ylqoplWkFJpN3lxkd"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
+      "album": {
+        "name": "GIOVANNI I",
+        "url": "https://open.spotify.com/album/0g71fSW5nHFxPwHuKpcKbv"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "CLOSE",
+      "url": "https://open.spotify.com/track/7r8ZPUYDjH7dCzTns9f5TM"
+    },
+    {
+      "added_at": "2025-07-10 22:10:20",
+      "album": {
+        "name": "de vluGtlaan",
+        "url": "https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "ALS IK WAKKER WORD",
+      "url": "https://open.spotify.com/track/4EprCUJCCMXk6MbncUj10a"
+    },
+    {
+      "added_at": "2025-07-10 22:10:20",
+      "album": {
+        "name": "Ik Zal Er Zijn",
+        "url": "https://open.spotify.com/album/4CB3M5eGFtOxzGLifjpeF5"
+      },
+      "artists": [
+        {
+          "name": "Akwasi",
+          "url": "https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly"
+        },
+        {
+          "name": "Kenny B",
+          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Ik Zal Er Zijn",
+      "url": "https://open.spotify.com/track/3jsefvfjc2gtnSsxebofiK"
+    },
+    {
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "MAINSTAGE",
         "url": "https://open.spotify.com/album/7servNJFaGsOiWmr8if5Uw"
@@ -77,63 +189,7 @@
       "url": "https://open.spotify.com/track/35GQmnBqEo6gyKWIq1zhxM"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
-      "album": {
-        "name": "GIOVANNI I",
-        "url": "https://open.spotify.com/album/0g71fSW5nHFxPwHuKpcKbv"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "CLOSE",
-      "url": "https://open.spotify.com/track/7r8ZPUYDjH7dCzTns9f5TM"
-    },
-    {
-      "added_at": "2025-07-03 22:00:39",
-      "album": {
-        "name": "de vluGtlaan",
-        "url": "https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
-        },
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "ALS IK WAKKER WORD",
-      "url": "https://open.spotify.com/track/4EprCUJCCMXk6MbncUj10a"
-    },
-    {
-      "added_at": "2025-07-03 22:00:39",
-      "album": {
-        "name": "Ik Zal Er Zijn",
-        "url": "https://open.spotify.com/album/4CB3M5eGFtOxzGLifjpeF5"
-      },
-      "artists": [
-        {
-          "name": "Akwasi",
-          "url": "https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly"
-        },
-        {
-          "name": "Kenny B",
-          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Ik Zal Er Zijn",
-      "url": "https://open.spotify.com/track/3jsefvfjc2gtnSsxebofiK"
-    },
-    {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Mssyeh",
         "url": "https://open.spotify.com/album/5lvqyQEyiR3F8JRQ6qSJcJ"
@@ -153,7 +209,7 @@
       "url": "https://open.spotify.com/track/6LOriTYEbIXZEzQ78nhIH8"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "STONY",
         "url": "https://open.spotify.com/album/1qrp6qdBDPsLIMrw5XVcFc"
@@ -169,7 +225,7 @@
       "url": "https://open.spotify.com/track/3pPOIn5l2DDIDisiqUl7YS"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Macho In De Club",
         "url": "https://open.spotify.com/album/6N9sCZRnLPDSnVel9Wwcnp"
@@ -193,7 +249,7 @@
       "url": "https://open.spotify.com/track/12VGNJBNsFLNFlT5wFreY0"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "MAINSTAGE",
         "url": "https://open.spotify.com/album/7servNJFaGsOiWmr8if5Uw"
@@ -221,7 +277,7 @@
       "url": "https://open.spotify.com/track/7dvttSpv7d1wCR8THRXr6E"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Mevrouw Falix",
         "url": "https://open.spotify.com/album/1ULUaczMoHrhT6Yml8BHzW"
@@ -241,7 +297,7 @@
       "url": "https://open.spotify.com/track/2AzM1sosGpBoTtZgv8qqxt"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Onuha",
         "url": "https://open.spotify.com/album/32s7SMGztbuRFciEzsfKPS"
@@ -257,7 +313,7 @@
       "url": "https://open.spotify.com/track/5bQPAtWrqrCQ7ecrpyuxJn"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Gouden Tijden",
         "url": "https://open.spotify.com/album/52GehE0v1oBFIwXXxYFvYB"
@@ -273,7 +329,7 @@
       "url": "https://open.spotify.com/track/6pInGZA2aN0tRCybM1A310"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Rattenvangers (feat. Narco Polo)",
         "url": "https://open.spotify.com/album/56Bs2R9n1BtUYsgyD0Up9E"
@@ -293,7 +349,7 @@
       "url": "https://open.spotify.com/track/63Um882mx8VU63sIPSUnaQ"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "uncle fester",
         "url": "https://open.spotify.com/album/7xzQuza2ZNqzB4hAtgVyfw"
@@ -309,7 +365,7 @@
       "url": "https://open.spotify.com/track/3KwHheKkdiXeCWFFal27WV"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Naar Huis",
         "url": "https://open.spotify.com/album/128LnqopArpHVqenQ4KfeD"
@@ -329,7 +385,7 @@
       "url": "https://open.spotify.com/track/0rtrS9Otk69zunOBU9Rc8k"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "RG PACK 13: IRON MAIDEN",
         "url": "https://open.spotify.com/album/21jbqwcfRPT7tcqQaifU9Q"
@@ -357,7 +413,7 @@
       "url": "https://open.spotify.com/track/2eaiibcELTw8JrbuZYA2u9"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "inklokken",
         "url": "https://open.spotify.com/album/5WlolVOwUc9Lz1Uj9GmzTF"
@@ -381,7 +437,7 @@
       "url": "https://open.spotify.com/track/0bptplluMAF1aSarPhQDjg"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Yankees",
         "url": "https://open.spotify.com/album/52PT3Lzp6JXIy8sUSlHaLZ"
@@ -397,7 +453,7 @@
       "url": "https://open.spotify.com/track/38WKc4PienmWEjxYZqNi9M"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Zilver",
         "url": "https://open.spotify.com/album/1DUMto7MEW7b5i6IZLZ4Ck"
@@ -413,7 +469,7 @@
       "url": "https://open.spotify.com/track/2TsQtLmtNUUq27AA6MdjYU"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "startteken",
         "url": "https://open.spotify.com/album/4VJfXFNudw3qXTVWzJ2heq"
@@ -429,7 +485,7 @@
       "url": "https://open.spotify.com/track/2UKG0Fh3l75BCCWsOqatfg"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Franse 8",
         "url": "https://open.spotify.com/album/3Y7nXpSxGSWu00oxgL2qnv"
@@ -449,7 +505,7 @@
       "url": "https://open.spotify.com/track/2cGsoyEsbt5H00cxYDBxBa"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "MAJU TERUS (IK DROOMDE FF)",
         "url": "https://open.spotify.com/album/339df51xkU172jBFeMUfaE"
@@ -465,7 +521,7 @@
       "url": "https://open.spotify.com/track/7BddI6rIKFjh57IUnFpAer"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Bigger Than Life / 2 Glazen",
         "url": "https://open.spotify.com/album/4CfFThU8YJfJ0tJ0cf2nQo"
@@ -481,7 +537,7 @@
       "url": "https://open.spotify.com/track/6iDGxdeHkAE0fGlvulxDee"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Alles Op Z\u2019n Tijd",
         "url": "https://open.spotify.com/album/5u5VMoyy1nlfuX2Ku1G5gr"
@@ -497,7 +553,7 @@
       "url": "https://open.spotify.com/track/7p7Qa1A4x2oMzlw9fGj8T8"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "IK DENK VAN NIET",
         "url": "https://open.spotify.com/album/3s3ZU41HFBUrvyfYDWlTlx"
@@ -517,7 +573,7 @@
       "url": "https://open.spotify.com/track/6knb3QrzpdN46ky3O7rifu"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "BANANEN",
         "url": "https://open.spotify.com/album/6M3WKxsP7MX17ntSz5vt1k"
@@ -541,7 +597,7 @@
       "url": "https://open.spotify.com/track/24IOqcEUTm1jlgYOXzkjrk"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "de vluGtlaan",
         "url": "https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4"
@@ -557,7 +613,7 @@
       "url": "https://open.spotify.com/track/4lZts0FFxJ8l8p5EcFVRi3"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Oude Westen",
         "url": "https://open.spotify.com/album/4ufmikIw2vPqeEmgzj2psB"
@@ -573,7 +629,7 @@
       "url": "https://open.spotify.com/track/2Lc8tW0PUPjinHvX41Mw8p"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "RAFTING GOODS VOLUME 3: D",
         "url": "https://open.spotify.com/album/12TeaGRqNcDbYbZoYJVcvk"
@@ -601,7 +657,7 @@
       "url": "https://open.spotify.com/track/6Ug8Cv3ISNL20Hx8TbyBPe"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Leren Leven",
         "url": "https://open.spotify.com/album/0wMC6I2G3sKvhcsjn8N1Kd"
@@ -617,7 +673,7 @@
       "url": "https://open.spotify.com/track/4Dd5z1rlrGPn4UTde65OKY"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Zilver",
         "url": "https://open.spotify.com/album/1DUMto7MEW7b5i6IZLZ4Ck"
@@ -641,7 +697,7 @@
       "url": "https://open.spotify.com/track/3Z7rflPXec3kdKayNW1Cj6"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/44sDk4Wtd4pqw4ZEOAKxJC"
@@ -665,7 +721,7 @@
       "url": "https://open.spotify.com/track/6yRz2tVRLuDjsOZdPnRLL3"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Winterdagen",
         "url": "https://open.spotify.com/album/7qMEHwR0dZBPzDUSGQY8Nb"
@@ -681,7 +737,7 @@
       "url": "https://open.spotify.com/track/6id6DQfR5owlY0mkLv7Rsv"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Zonneschijn",
         "url": "https://open.spotify.com/album/5U7faAZNcxI9949gqDMkiH"
@@ -705,7 +761,7 @@
       "url": "https://open.spotify.com/track/1dbIoyA1LPITtV7kdzNKJH"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "EAZY",
         "url": "https://open.spotify.com/album/2QbUitFw4qqTMoAuJuUYT1"
@@ -737,7 +793,7 @@
       "url": "https://open.spotify.com/track/6LVbOvtKUkihnJpI6J4ANC"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Narco X Styn, Vol. 2",
         "url": "https://open.spotify.com/album/6od93VFVENEY1ONPaZxXSt"
@@ -761,7 +817,7 @@
       "url": "https://open.spotify.com/track/6YsPVmEVQLHKv8ekF7Kkom"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Zonneschijn",
         "url": "https://open.spotify.com/album/1p4Kk4pC4kdG2lKFsIpAMP"
@@ -777,7 +833,7 @@
       "url": "https://open.spotify.com/track/3YNi7SUz1wRA7MK0QLKJFy"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "okaaay!",
         "url": "https://open.spotify.com/album/2LM60WZ3dGz86bf0Lo3Q9A"
@@ -793,7 +849,7 @@
       "url": "https://open.spotify.com/track/62QAdptvaXqFx4o1SfjRLJ"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Toch Alleen",
         "url": "https://open.spotify.com/album/2WBQnbaFqPK3vl6pEUiIey"
@@ -813,7 +869,7 @@
       "url": "https://open.spotify.com/track/71mmoPNCDMlOveDRfaBLzT"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Waar Heb Je Het Over",
         "url": "https://open.spotify.com/album/2pszgOuVXOuRttQXVAPiBV"
@@ -833,7 +889,7 @@
       "url": "https://open.spotify.com/track/6UtdZup5mQILShjoE7Gz6E"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a"
@@ -853,7 +909,7 @@
       "url": "https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Begrijpen",
         "url": "https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd"
@@ -869,7 +925,7 @@
       "url": "https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Zeeziek / Kijken Kijken Niet Kopen",
         "url": "https://open.spotify.com/album/6zcBCWHmXtCCaJKxaEJ8Ms"
@@ -885,7 +941,7 @@
       "url": "https://open.spotify.com/track/7zKV5vAHdAW2PUWeSoveFb"
     },
     {
-      "added_at": "2025-07-03 22:00:39",
+      "added_at": "2025-07-10 22:10:20",
       "album": {
         "name": "Nachtblind",
         "url": "https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY"

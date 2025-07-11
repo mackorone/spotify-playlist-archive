@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 382968,
+  "num_followers": 383086,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-07-04 03:01:24",
       "album": {
-        "name": "Magn\u00e9tica",
-        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
-      },
-      "artists": [
-        {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "Magn\u00e9tica",
-      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
-    },
-    {
-      "added_at": "2025-07-04 03:01:24",
-      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 177535,
       "name": "Olha Pra Mim",
       "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
+    },
+    {
+      "added_at": "2025-07-04 03:01:24",
+      "album": {
+        "name": "Magn\u00e9tica",
+        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        }
+      ],
+      "duration_ms": 196056,
+      "name": "Magn\u00e9tica",
+      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
     },
     {
       "added_at": "2025-07-04 03:01:24",

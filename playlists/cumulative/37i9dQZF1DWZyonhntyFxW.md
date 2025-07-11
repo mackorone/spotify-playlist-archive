@@ -4,12 +4,13 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: زياد ظاظا و فليكس
 
-400 songs - 19 hr 38 min
+401 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 | 2023-08-17 | 2024-06-26 |
 | [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 | 2023-08-17 | 2024-08-05 |
+| [101](https://open.spotify.com/track/7duqDhzS0yeRaqHP1ILimW) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [101](https://open.spotify.com/album/1f9kMuvo1G5y7d5QbGe8rn) | 2:01 | 2025-07-10 |  |
 | [16 SAA3A](https://open.spotify.com/track/1nIzoUTVrBoce7JhcQfXlz) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [BGD](https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q) | 3:02 | 2025-02-05 | 2025-02-13 |
 | [1M](https://open.spotify.com/track/3mQTW5pVkxf2ZBtYVWbEgd) | [Omar Gangster](https://open.spotify.com/artist/5T50n4CJ00M0hleMaUVCcQ), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ebn El Mansoura V1](https://open.spotify.com/album/4tzDnNVLxC2GnJaYhUBhDf) | 1:57 | 2024-08-19 | 2024-09-05 |
 | [2007](https://open.spotify.com/track/6lztjEZqRlnmlhQqEYxrtH) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [KHOD](https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY) | 2:12 | 2024-09-04 | 2025-05-20 |
@@ -60,7 +61,7 @@
 | [Askot Khales](https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:50 | 2023-07-26 | 2024-02-20 |
 | [asly\-ya\-asly](https://open.spotify.com/track/0uWrjKg5mJrFS8ElKWXi2D) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [asly\-ya\-asly](https://open.spotify.com/album/3lGPoR1gDHC5hNh9RD6yAB) | 2:29 | 2024-02-28 | 2024-03-21 |
 | [ATTA3](https://open.spotify.com/track/0kJa375yREkEv5W3Ldec7z) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [ATTA3](https://open.spotify.com/album/0Zo1AW85yhvT3mfiMKZkBt) | 2:26 | 2024-07-23 |  |
-| [AURA](https://open.spotify.com/track/4LKXjVhW0awFSsXLtEmkBD) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/1fobYepbyOWSEbIJnyIrLF) | 1:34 | 2025-04-17 |  |
+| [AURA](https://open.spotify.com/track/4LKXjVhW0awFSsXLtEmkBD) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/1fobYepbyOWSEbIJnyIrLF) | 1:34 | 2025-04-17 | 2025-07-11 |
 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 | 2024-07-15 | 2024-12-14 |
 | [Baba](https://open.spotify.com/track/0HjAtdzoK8MsULTU5VwyFT) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:53 | 2022-09-13 | 2022-12-24 |
 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 | 2024-01-28 | 2024-02-23 |

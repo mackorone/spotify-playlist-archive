@@ -4,7 +4,7 @@
 
 > Listen to the future\. Cover: ICEBOX
 
-191 songs - 10 hr 25 min
+192 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Mantap Cuy](https://open.spotify.com/track/1XGuEiJdC5qvne7Jaa8onI) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z), [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ), [Atta Music](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67) | [Mantap Cuy](https://open.spotify.com/album/07iSL8a4lwgFQvtHTv3A75) | 3:42 | 2025-04-15 |  |
 | [Masa](https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 2:49 | 2025-04-15 |  |
 | [mata\(hari\)](https://open.spotify.com/track/7v8Z8KGRCFhhJra1LLGTh2) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [mata\(hari\)](https://open.spotify.com/album/3gHn4g5n51P4XTXT0OCv47) | 4:06 | 2025-04-15 |  |
+| [menyesal](https://open.spotify.com/track/5GYmoRBgyubcAf7AzyjvrQ) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [menyesal](https://open.spotify.com/album/7g09lUwD82vX7IK3lIATai) | 4:30 | 2025-07-10 |  |
 | [Merah](https://open.spotify.com/track/7i5toOdO5D71MPvGsMp4AM) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Merah](https://open.spotify.com/album/261yTJnc6yRBCkJKVYfY9e) | 3:10 | 2025-04-15 |  |
 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 | 2024-11-07 | 2024-12-05 |
 | [Mona](https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Mona](https://open.spotify.com/album/07AWA7DMdxtvzIpu9Eet89) | 3:02 | 2024-06-27 | 2024-12-05 |

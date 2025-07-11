@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-189 songs - 9 hr 53 min
+190 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [EKKI BÍÐA](https://open.spotify.com/track/2oM99C7UAdQhVVxglzETX4) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb) | [ÞETTA ER IZLEIFUR](https://open.spotify.com/album/5hg2HWIwUAYqxTPZztT34g) | 3:05 | 2024-06-21 | 2024-07-27 |
 | [Eldur](https://open.spotify.com/track/0uFpxx44aYPOSOcAp0DOZc) | [Júlí Heiðar](https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT), [Dísa](https://open.spotify.com/artist/2hJcFRxgEKKcjgNz6gjnjs) | [Fire](https://open.spotify.com/album/4RjJ5XDplphyfgixMOYaNo) | 2:58 | 2025-02-21 | 2025-05-30 |
 | [Elli Egils](https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Legend í Leiknum](https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3) | 2:18 | 2024-08-23 |  |
+| [EN EKKI HVAÐ?](https://open.spotify.com/track/6hJMIlTg4cx998pPW52NKR) | [Emmsjé Gauti](https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd) | [EN EKKI HVAÐ?](https://open.spotify.com/album/6uWetcsqe2pPqIIJ7MveQM) | 3:57 | 2025-07-11 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-06-21 | 2024-10-04 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 |  |
 | [Engill](https://open.spotify.com/track/1aUWzY3d7URkXM0b3pGcJ2) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7) | [Engill](https://open.spotify.com/album/3Lew1unD6VjstMzy5OP0PR) | 3:38 | 2024-06-21 | 2024-07-27 |
@@ -141,7 +142,7 @@
 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 | 2025-04-25 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-21 |  |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-21 | 2025-05-09 |
-| [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-02-14 |  |
+| [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-02-14 | 2025-07-11 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-11 | 2025-03-29 |
 | [Sama um](https://open.spotify.com/track/4yUnGQmxjQFyxQHLf0GjRw) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [Sama um](https://open.spotify.com/album/7dn9xXKT3qSNXmBvh61IN8) | 2:14 | 2024-06-21 | 2024-08-16 |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-21 | 2024-08-23 |

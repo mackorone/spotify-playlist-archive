@@ -4,7 +4,7 @@
 
 > Featuring all trans, non\-binary, and two spirit voices discussing the future of gender justice.
 
-8 songs - 7 hr 5 min
+8 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,6 @@
 | [Pushing Back Against Anti\-Trans Media & Policies with Chase Strangio](https://open.spotify.com/episode/1drGQAmfU7GifkpMGTBWE1) | [The Laverne Cox Show](https://open.spotify.com/show/2GPQaKpelElHdMyhbILHil) | [The Laverne Cox Show](https://open.spotify.com/album/2GPQaKpelElHdMyhbILHil) | 1:16:08 | 2021-10-25 |  |
 | [Shea Diamond: Why Music is a Tool for Trans Liberation](https://open.spotify.com/episode/0yXJVRzsL8e2xPLMvenKfQ) | [LGBTQ&A](https://open.spotify.com/show/37E7LIv89GodYNEBAWREd8) | [LGBTQ&A](https://open.spotify.com/album/37E7LIv89GodYNEBAWREd8) | 32:47 | 2021-10-25 |  |
 | [Transgender Justice with Shon Faye](https://open.spotify.com/episode/55Jz0jnkiAPQRZgikL09zJ) | [Wrong Turns with Jameela Jamil](https://open.spotify.com/show/48QtcFDDyQzKIc4B0fo4V7) | [Wrong Turns with Jameela Jamil](https://open.spotify.com/album/48QtcFDDyQzKIc4B0fo4V7) | 1:28:37 | 2021-10-25 |  |
-| [What Does Pride Mean To You? with Ashlee Marie Preston](https://open.spotify.com/episode/2nfU9RHgXxLCtVAdIl32rA) | [Getting Better with Jonathan Van Ness](https://open.spotify.com/show/0wK8MPt9f2z2R4HustgqHh) | [Getting Better with Jonathan Van Ness](https://open.spotify.com/album/0wK8MPt9f2z2R4HustgqHh) | 1:02:05 | 2021-10-25 |  |
+| [What Does Pride Mean To You? with Ashlee Marie Preston](https://open.spotify.com/episode/2nfU9RHgXxLCtVAdIl32rA) | [Getting Better with Jonathan Van Ness](https://open.spotify.com/show/0wK8MPt9f2z2R4HustgqHh) | [Getting Better with Jonathan Van Ness](https://open.spotify.com/album/0wK8MPt9f2z2R4HustgqHh) | 1:03:30 | 2021-10-25 |  |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

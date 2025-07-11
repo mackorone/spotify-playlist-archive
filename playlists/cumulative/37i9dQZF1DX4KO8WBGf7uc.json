@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Los Valles",
+        "url": "https://open.spotify.com/album/1NONMqgGZkqv1LLJ65RzCE"
+      },
+      "artists": [
+        {
+          "name": "Pema",
+          "url": "https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "Los Valles",
+      "url": "https://open.spotify.com/track/5gLgT6vXHNEO5PwPKesnGu"
+    },
+    {
+      "album": {
         "name": "La Nueva Ola",
         "url": "https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt"
       },
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 245000,
       "name": "Luz Apaga",
       "url": "https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm"

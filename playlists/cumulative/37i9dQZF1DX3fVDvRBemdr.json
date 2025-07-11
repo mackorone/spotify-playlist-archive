@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en volks. Cover: Samuel Welten (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artiest)",
+  "description": "Wekelijkse update met Hollands en volks. Cover: Jeffrey Heesen",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 148000,
       "name": "Doe Je Dansie",
       "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 165581,
       "name": "Gastenlijst",
       "url": "https://open.spotify.com/track/75qX2UUOEVioN583H26GbZ"
@@ -2020,6 +2020,24 @@
       "duration_ms": 208263,
       "name": "Gipsy",
       "url": "https://open.spotify.com/track/2VKz7PoOPT8bFmcA80vbZe"
+    },
+    {
+      "album": {
+        "name": "Halfvol",
+        "url": "https://open.spotify.com/album/0cRwk7suzCHtToc6WPf7RG"
+      },
+      "artists": [
+        {
+          "name": "Grad Damen",
+          "url": "https://open.spotify.com/artist/14yvgluGrdWjoJWTR0TJCt"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163251,
+      "name": "Halfvol",
+      "url": "https://open.spotify.com/track/2L1q7YbcZuUH4XKzJd8Es0"
     },
     {
       "album": {
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 205886,
       "name": "Ik leef m'n eigen leven",
       "url": "https://open.spotify.com/track/3yqLmwAPu7wJRC6vItlTru"
@@ -2952,6 +2970,24 @@
       "duration_ms": 169791,
       "name": "Is Dit Het Begin",
       "url": "https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl"
+    },
+    {
+      "album": {
+        "name": "Is Het Een Droom",
+        "url": "https://open.spotify.com/album/5MBUQmInGm8RCXa5ihoGKn"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155358,
+      "name": "Is Het Een Droom",
+      "url": "https://open.spotify.com/track/6ui1EjGuf8QQPi6AUhI28e"
     },
     {
       "album": {
@@ -3889,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "Liefde Op Het Eerste Gezicht",
+        "url": "https://open.spotify.com/album/3khHb7dYnkW26H3NzR84dE"
+      },
+      "artists": [
+        {
+          "name": "Delano Duncker",
+          "url": "https://open.spotify.com/artist/0x1eqIicXXo77uqFTHSrCv"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Liefde Op Het Eerste Gezicht",
+      "url": "https://open.spotify.com/track/4oUOh1y25ig9G3iTfM1DTt"
+    },
+    {
+      "album": {
         "name": "Liever Alleen",
         "url": "https://open.spotify.com/album/28ya0RiKOrcOhtBVGkKRKE"
       },
@@ -4186,7 +4240,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 222268,
       "name": "Mijn Vader",
       "url": "https://open.spotify.com/track/47i9ElelaZpAmtxvl8rUDr"
@@ -4240,7 +4294,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 139047,
       "name": "Muchos Licores",
       "url": "https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU"
@@ -4892,7 +4946,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 165569,
       "name": "Ruud & Mieke",
       "url": "https://open.spotify.com/track/0oen0qWr9cBEbkytniF5gF"
@@ -4971,6 +5025,28 @@
     },
     {
       "album": {
+        "name": "Schoonheidskoningin",
+        "url": "https://open.spotify.com/album/6ecFGjLx4c3MtzrlfuZVk5"
+      },
+      "artists": [
+        {
+          "name": "Danny Froger",
+          "url": "https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183930,
+      "name": "Schoonheidskoningin",
+      "url": "https://open.spotify.com/track/6gRLB6roSTO5tEqhlfEuWU"
+    },
+    {
+      "album": {
         "name": "Schrijf me nooit geen mooie brieven meer",
         "url": "https://open.spotify.com/album/40Gx37215lnWIcXg5PWqwd"
       },
@@ -4986,6 +5062,42 @@
       "duration_ms": 185624,
       "name": "Schrijf me nooit geen mooie brieven meer",
       "url": "https://open.spotify.com/track/474JpNSf3P7fdqD1jGAOJ1"
+    },
+    {
+      "album": {
+        "name": "Seks Mannen & Geld",
+        "url": "https://open.spotify.com/album/4L2IjcvpFPStmN56rAtRAt"
+      },
+      "artists": [
+        {
+          "name": "Jessy Arjaans",
+          "url": "https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Seks Mannen & Geld",
+      "url": "https://open.spotify.com/track/1mQKhMDXMDETCjR0l7dFbV"
+    },
+    {
+      "album": {
+        "name": "Serie A",
+        "url": "https://open.spotify.com/album/5qThiEzlcLnU38iuj2A2rJ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Par\u00e9",
+          "url": "https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "Serie A",
+      "url": "https://open.spotify.com/track/7MlWIX6QHF52q3EqQX57OZ"
     },
     {
       "album": {
@@ -5770,7 +5882,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 188095,
       "name": "Voor Altijd Bij Me",
       "url": "https://open.spotify.com/track/3fecHkNML8P24QuZTekOrp"
@@ -6116,7 +6228,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 191682,
       "name": "We drinken wijn",
       "url": "https://open.spotify.com/track/74g3KcBzLg0SSVZastGRpI"

@@ -1,13 +1,29 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Mark Natama",
-  "num_followers": 12972,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Tripov",
+  "num_followers": 12974,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGbTTQAAAAA3kl6hDvduvNDWSOWvienm",
+  "snapshot_id": "aHANzQAAAAD2TtPKyll5+CxbaHlQPIjz",
   "tracks": [
+    {
+      "added_at": "2025-07-10 19:00:29",
+      "album": {
+        "name": "Sour Candy",
+        "url": "https://open.spotify.com/album/6AST0741qWPUcJAr2HfsCp"
+      },
+      "artists": [
+        {
+          "name": "Tripov",
+          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sour Candy",
+      "url": "https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ"
+    },
     {
       "added_at": "2025-07-03 19:00:29",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/7B2T9lm0FeFnWRzUK20On9"
     },
     {
+      "added_at": "2025-07-10 19:00:29",
+      "album": {
+        "name": "Kiss Me Through the Phone",
+        "url": "https://open.spotify.com/album/3HhUAxZKzNOjTyTxc5zvzk"
+      },
+      "artists": [
+        {
+          "name": "Bloodlyne",
+          "url": "https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL"
+        }
+      ],
+      "duration_ms": 188993,
+      "name": "Kiss Me Through the Phone",
+      "url": "https://open.spotify.com/track/6PrVvWP4SDaKOMweP5PKMt"
+    },
+    {
       "added_at": "2025-06-20 00:06:43",
       "album": {
         "name": "Time Flies",
@@ -39,6 +71,22 @@
       "duration_ms": 255618,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM"
+    },
+    {
+      "added_at": "2025-07-10 19:00:29",
+      "album": {
+        "name": "More Than",
+        "url": "https://open.spotify.com/album/68Ur2E6rm3KMSmPPpUi9Qn"
+      },
+      "artists": [
+        {
+          "name": "Imelda Lizal",
+          "url": "https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL"
+        }
+      ],
+      "duration_ms": 253896,
+      "name": "More Than",
+      "url": "https://open.spotify.com/track/0GXBlgsie2IjuhNOoJFE5H"
     },
     {
       "added_at": "2025-06-26 19:00:26",

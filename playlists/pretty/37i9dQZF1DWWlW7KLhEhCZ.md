@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Trunks
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,588 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,567 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 7 | [OSK](https://open.spotify.com/track/7DKgcOtcCKEqlqSVv2Wx0A) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [OG AKA ENT](https://open.spotify.com/album/5yPaX4Gr9NZDkgb1v7ppA2) | 1:51 |
 | 8 | [NOITE PERFEITA](https://open.spotify.com/track/555rmZC4fMJDkVavXReVf7) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 2:48 |
 | 9 | [Sempre Quis](https://open.spotify.com/track/24aKf8CIcdE3XEkjXrKy7i) | [Mc Rodson](https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Sempre Quis](https://open.spotify.com/album/0CBw3opnAJptXVV2J75kqy) | 3:04 |
-| 10 | [Pede Tapa](https://open.spotify.com/track/0BrtRXcih4bU9eYeI63WnK) | [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [TYFFC](https://open.spotify.com/artist/1DYiw55xGO2tNVjMcKV2KS) | [Pede Tapa](https://open.spotify.com/album/6Sn9ltiuT3Bz3UrCMrmRPb) | 2:09 |
+| 10 | [Pede Tapa](https://open.spotify.com/track/0BrtRXcih4bU9eYeI63WnK) | [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [TYFFC](https://open.spotify.com/artist/1DYiw55xGO2tNVjMcKV2KS) | [Pede Tapa](https://open.spotify.com/album/6Sn9ltiuT3Bz3UrCMrmRPb) | 2:11 |
 | 11 | [Culpa do Tdah](https://open.spotify.com/track/7C7uIMbJG4PQZljrNBkauC) | [ZackZin](https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs), [SnowK](https://open.spotify.com/artist/5WRkQdLhI4ZxSzcYR1UU1y) | [Culpa do Tdah](https://open.spotify.com/album/7yHISLJtEhLNnoqSvI5MBv) | 2:27 |
 | 12 | [Fujifilm](https://open.spotify.com/track/5sSIL26rpQ208K9gxdDgGF) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [É Assim Que Funciona](https://open.spotify.com/album/4SvhaYTvYNSOawJlgld0Dc) | 2:02 |
 | 13 | [Rolê na Bahia](https://open.spotify.com/track/7ugyXccFWsIF1t7qxOzGX2) | [Pivete Nobre](https://open.spotify.com/artist/26bQwhpZ9s1feRnvyLLV1D), [D Sales](https://open.spotify.com/artist/7KWEINK3gILKLZqCBgh4pG) | [Rolê na Bahia](https://open.spotify.com/album/6SZ6k0cjQKR1zwwkEvVRkW) | 2:14 |

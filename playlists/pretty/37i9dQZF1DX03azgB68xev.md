@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: bodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,443 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,428 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 69 | [SONSHINE](https://open.spotify.com/track/6hji1TiaYHKfBzmno4wLo9) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [SONSHINE](https://open.spotify.com/album/02cXduWFbzcEMtfE3rScWN) | 3:16 |
 | 70 | [Tell Me How](https://open.spotify.com/track/1TOfC4ETDk63tpMRmzMj2n) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Tell Me How](https://open.spotify.com/album/7f7XapnIRg9QxbWZyvA4mw) | 3:03 |
 | 71 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
-| 72 | [Nothing I Have To Hide](https://open.spotify.com/track/7yB8sAWod9fWE8oLa0PsJx) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Nothing I Have To Hide](https://open.spotify.com/album/09UqUX9BZUBa4N4jYtgFrX) | 3:31 |
+| 72 | [Nothing I Have To Hide](https://open.spotify.com/track/7yB8sAWod9fWE8oLa0PsJx) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Nothing I Have To Hide](https://open.spotify.com/album/09UqUX9BZUBa4N4jYtgFrX) | 3:31 |
 | 73 | [We Can Burn Bright \- LUMINARY VERSION](https://open.spotify.com/track/05Mq5hR6o2hFJhud2OOYNg) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Pat Soul](https://open.spotify.com/artist/41D38SWrxqpCfDZbQYzDKt), [LUMINARY](https://open.spotify.com/artist/4NqkG3isJAqW5lx4w8DUpU) | [We Can Burn Bright \(LUMINARY VERSION\)](https://open.spotify.com/album/4FUhf72OnYBXzcZsv1R2YM) | 3:35 |
 | 74 | [Learning To Let Go](https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Real Me](https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu) | 2:52 |
 | 75 | [When Jesus Is The Lord](https://open.spotify.com/track/1TTFEy4l1BhwJGmQ4XJYZX) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [When Jesus Is The Lord](https://open.spotify.com/album/0CYXjVCvgOL8US9VEl9Ets) | 2:27 |

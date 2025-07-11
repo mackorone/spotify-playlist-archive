@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,197 likes - 462 songs - 1 day 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,201 likes - 462 songs - 1 day 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 178 | [Second Guessing \- From Songland](https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:07 |
 | 179 | [Halo / Walking On Sunshine](https://open.spotify.com/track/0XZsKn1Ic8ODCYxcSEOyEu) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee Orgulho LGBTQIA+](https://open.spotify.com/album/3JltLkM5HazRh3bHH2H280) | 2:05 |
 | 180 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 |
-| 181 | [Life In Color](https://open.spotify.com/track/0lKsG4FoO1mfnkUR3SdKj4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/7bWzSwx1PRiZjfjhaB8BjZ) | 3:22 |
-| 182 | [Lifestyle](https://open.spotify.com/track/5cmP0BuMRba0q0pwN7eI6u) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:41 |
+| 181 | [Lifestyle](https://open.spotify.com/track/5cmP0BuMRba0q0pwN7eI6u) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:41 |
+| 182 | [Life In Color](https://open.spotify.com/track/0lKsG4FoO1mfnkUR3SdKj4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/7bWzSwx1PRiZjfjhaB8BjZ) | 3:22 |
 | 183 | [Music Sounds Better \(feat\. Mann\)](https://open.spotify.com/track/21svHgL8NlWthrlW9Gy0BZ) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd), [Mann](https://open.spotify.com/artist/3sAHunotiQdUXKSsFj5KUg) | [Elevate](https://open.spotify.com/album/2vlQEIT6XEYVKfaKQwADnk) | 3:09 |
 | 184 | [Scars](https://open.spotify.com/track/6wZYxok5OMWAZh8r91vFEL) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:18 |
 | 185 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
@@ -230,8 +230,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 220 | [Don't Look Down](https://open.spotify.com/track/3cA7Xne5Zp9HEo69oOqLMc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 1:37 |
 | 221 | [S.T.O.P](https://open.spotify.com/track/37TgrDSXlOQI1mAqASPI7F) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:34 |
 | 222 | [We Remain \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/0G3iJ1r5SSv7nUBNCgBmwF) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [We Remain \(From "The Hunger Games: Catching Fire" Soundtrack\)](https://open.spotify.com/album/1eV7Ibmg1o9TVRfOB71l6f) | 4:00 |
-| 223 | [Words as Weapons](https://open.spotify.com/track/2xYtuB16vJd4bMMHoku26H) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 3:59 |
-| 224 | [Is This Really Love?](https://open.spotify.com/track/752Hm8vLR8rZL5bqHrqnST) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:15 |
+| 223 | [Is This Really Love?](https://open.spotify.com/track/752Hm8vLR8rZL5bqHrqnST) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:15 |
+| 224 | [Words as Weapons](https://open.spotify.com/track/2xYtuB16vJd4bMMHoku26H) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 3:59 |
 | 225 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 |
 | 226 | [NbHD](https://open.spotify.com/track/6zsFCfP4TK2J48tMYjb668) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:44 |
 | 227 | [Won't Stop](https://open.spotify.com/track/5ZEY2HUEstaLlhxGoWmzCE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 |
@@ -471,4 +471,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 461 | [I Am The Future](https://open.spotify.com/track/5OApmelG95UKLMeLDRTZZy) | [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [I Am The Future](https://open.spotify.com/album/6gHZPgoxaigaATAmyFU6y5) | 2:02 |
 | 462 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `Ab2WCgAAAABi8clngN9wl+r2+VZrlXrv`
+Snapshot ID: `Ab2bvgAAAAC3VPrAb+GNwiJk0FH3R3kk`

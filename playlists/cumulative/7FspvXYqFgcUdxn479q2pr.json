@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Jerome x Kickbait",
+  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: AFROJACK, Martin Garrix, David Guetta, Am\u00e9l",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -2749,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Dog Days Are Over",
+        "url": "https://open.spotify.com/album/1w4DbkL8j0tfznjW1ROK1Q"
+      },
+      "artists": [
+        {
+          "name": "Anton Khabbaz",
+          "url": "https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/0pAaBBt2KxXrndWjVZX1IT"
+    },
+    {
+      "album": {
         "name": "Dollar (feat. Selwyn)",
         "url": "https://open.spotify.com/album/43qfL5GhmRtiJzZpj1chFU"
       },
@@ -4586,6 +4604,32 @@
       "duration_ms": 195942,
       "name": "Hangin' On",
       "url": "https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti"
+    },
+    {
+      "album": {
+        "name": "Heart Attack",
+        "url": "https://open.spotify.com/album/01tKzSis1CijIgCceiBBHv"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157378,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/1i4T9wZQCQDzgPllYePboc"
     },
     {
       "album": {
@@ -8848,6 +8892,36 @@
       "duration_ms": 192000,
       "name": "Our House",
       "url": "https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH"
+    },
+    {
+      "album": {
+        "name": "Our Time",
+        "url": "https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Am\u00e9l",
+          "url": "https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161367,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP"
     },
     {
       "album": {

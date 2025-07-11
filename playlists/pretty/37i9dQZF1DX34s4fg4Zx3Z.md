@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Trúc
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,278 likes - 74 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,275 likes - 74 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 14 | [Cuối Mùa Thanh Xuân](https://open.spotify.com/track/3pn3EXqFlYZPLsFPFu3OjE) | [Công Hào Huỳnh](https://open.spotify.com/artist/6BGYOe4J68NBeNYdS9onOu), [quynhu](https://open.spotify.com/artist/1XdGy7968Pztswtin2h2lg), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Cuối Mùa Thanh Xuân](https://open.spotify.com/album/3urMddvOTsNKhJFwHqlYrv) | 3:48 |
 | 15 | [Là Đã Bao Lâu](https://open.spotify.com/track/5m2yse1UVR4BYJ8vMp7gGI) | [4Z](https://open.spotify.com/artist/6OmZLa2umnvTo3DLOOvvzH), [LeWiuy](https://open.spotify.com/artist/284Kopvh7L7NCkz00VFbqt) | [Là Đã Bao Lâu](https://open.spotify.com/album/3UEddFWzYRNuqdUzo9T5Hz) | 2:56 |
 | 16 | [lạc lối trên mặt trăng \- extended version](https://open.spotify.com/track/22U9obCQTnTDB3PFfQK8BY) | [hoo](https://open.spotify.com/artist/3m6jEnDtzQNbPcwI0XmoxL), [Xoăn](https://open.spotify.com/artist/6u6uSCxVDeHihllLC6jFH3), [thanhluan](https://open.spotify.com/artist/363ljvaymulQ61Qt8dUXCw) | [lạc lối trên mặt trăng \(extended version\)](https://open.spotify.com/album/2yB59q6PpJAcfLynMcD42E) | 2:52 |
-| 17 | [Con Đường Xa](https://open.spotify.com/track/2jNefNkySA6SOJjBF9Jxfv) | [BILLY100](https://open.spotify.com/artist/5eGFciQFU7LU4JQZeIy9uS), [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC), [KHOA](https://open.spotify.com/artist/4mVk10ulshxfn0yRO491IE) | [Con Đường Xa](https://open.spotify.com/album/3wafJbskj9YAF7OmZmpizj) | 3:40 |
+| 17 | [Con Đường Xa](https://open.spotify.com/track/2jNefNkySA6SOJjBF9Jxfv) | [BILLY100](https://open.spotify.com/artist/5eGFciQFU7LU4JQZeIy9uS), [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC), [KHOA](https://open.spotify.com/artist/4mVk10ulshxfn0yRO491IE), [A6lonely](https://open.spotify.com/artist/3POuZVWPpugGBv1FBdzAq8) | [Con Đường Xa](https://open.spotify.com/album/3wafJbskj9YAF7OmZmpizj) | 3:40 |
 | 18 | [Chỉ là nói dối](https://open.spotify.com/track/6LrHZVAHQq3narlZgyjaVe) | [Hayho](https://open.spotify.com/artist/3fLHhjutcrdkn7R3hS1oxz), [Hk11](https://open.spotify.com/artist/7yKf73AP1etWnVEVcdkX33) | [Chỉ là nói dối](https://open.spotify.com/album/7rtUsa0RHPhRjr83HLn2x5) | 3:28 |
 | 19 | [Move Like That](https://open.spotify.com/track/74VdqL8PYmxvTAEjfyUuvh) | [Fang Cee](https://open.spotify.com/artist/2rNmKq6YTNX5W9IxX9NsTb) | [Move Like That](https://open.spotify.com/album/2XlubzxPbAVL8cTJSxQVee) | 3:00 |
 | 20 | [Mong Thời Gian Không Đến](https://open.spotify.com/track/5ngLf0vKj8xMm2RRhUYFuU) | [QH24](https://open.spotify.com/artist/6CRlvETXWrM0ieEopD4mtK), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Mong Thời Gian Không Đến](https://open.spotify.com/album/3UbSGvCPUSyEA6L8VXqyRt) | 4:33 |

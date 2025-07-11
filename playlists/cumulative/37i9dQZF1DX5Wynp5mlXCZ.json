@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Kesha",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: LAUD",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 142000,
       "name": "911",
       "url": "https://open.spotify.com/track/16Ssmu3cwZjySQWJ8MXyZt"
@@ -4054,7 +4054,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 183115,
       "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
       "url": "https://open.spotify.com/track/3SolEhaDZWKJhQ8lS7mZSv"
@@ -4124,6 +4124,28 @@
       "duration_ms": 165028,
       "name": "\u0410\u043a\u0430\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u"
+    },
+    {
+      "album": {
+        "name": "\u0410\u043f\u0435\u0440\u043e\u043b\u044c",
+        "url": "https://open.spotify.com/album/3B1DAO7GIN5vA1qGe9iy7g"
+      },
+      "artists": [
+        {
+          "name": "LAUD",
+          "url": "https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6"
+        },
+        {
+          "name": "CRYBYE",
+          "url": "https://open.spotify.com/artist/1EV8VsTIuVdhICJFcEsdfO"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "\u0410\u043f\u0435\u0440\u043e\u043b\u044c",
+      "url": "https://open.spotify.com/track/11TjwCzWSxhGKwO3giU8dk"
     },
     {
       "album": {
@@ -6148,7 +6170,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 176000,
       "name": "\u041f\u043e\u0441\u0438\u043b\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/1n9Nd330aNzwwUi1p7tIF9"
@@ -6170,7 +6192,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 209454,
       "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/36rT5B4D5vV8i1MA7Y4vwu"
@@ -6394,6 +6416,28 @@
       "duration_ms": 145227,
       "name": "\u0441\u0435\u0440\u0435\u043d\u0430\u0434\u0438",
       "url": "https://open.spotify.com/track/5MjTUX9i3mDWv22Ns2Ekj2"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
+        "url": "https://open.spotify.com/album/0KgdsfCECyNhkkCkyiuT4k"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        },
+        {
+          "name": "POSITIFF",
+          "url": "https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148423,
+      "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
+      "url": "https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx"
     },
     {
       "album": {

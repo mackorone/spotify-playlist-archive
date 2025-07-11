@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGxfgAAAAACqgvBtIQn+u6dUzsvTXCWC",
+  "snapshot_id": "aG2xAAAAAABZCgiVlty1lMk3odB5GLv3",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Pinto Raya",
-      "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni tan chico, ni tan che",
         "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 130693,
       "name": "La il\u00f3gica",
       "url": "https://open.spotify.com/track/2Z3kvyu4xhzr77UTf20F14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Pinto Raya",
+      "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "La Buenota",
-      "url": "https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni tan chico, ni tan che",
         "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 143306,
       "name": "T\u00fa no aguantas nadita",
       "url": "https://open.spotify.com/track/1MyMC12lFlJuX605yp3pjR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "La Buenota",
+      "url": "https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s"
     },
     {
       "added_at": null,
@@ -539,6 +539,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni tan chico, ni tan che",
+        "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "La piedrecita",
+      "url": "https://open.spotify.com/track/7JLmJk8qckJuCjR0NMpg9q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "El Fon",
+      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 151066,
+      "name": "All\u00e1 en el oeste",
+      "url": "https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
@@ -571,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 151066,
-      "name": "All\u00e1 en el oeste",
-      "url": "https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "El Fon",
-      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoluci\u00f3n Tecno 2021",
         "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 168677,
       "name": "Zapatos Viejos",
       "url": "https://open.spotify.com/track/2l6iFXyafbKbdp5pa6jXpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni tan chico, ni tan che",
-        "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "La piedrecita",
-      "url": "https://open.spotify.com/track/7JLmJk8qckJuCjR0NMpg9q"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni tan chico, ni tan che",
+        "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 150560,
+      "name": "Ni alta, ni chaparrita",
+      "url": "https://open.spotify.com/track/3YahOWl6Rn8R71eBTxeeR9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 146538,
       "name": "Dame Chamoy",
       "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni tan chico, ni tan che",
-        "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 103666,
-      "name": "El pulpito",
-      "url": "https://open.spotify.com/track/3wystEzsZLBcIPr7YdZvbe"
     },
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl"
+        "name": "Donde Estas Corazon",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
       },
       "artists": [
         {
           "name": "Banda Zeta",
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        },
-        {
-          "name": "La Original Banda GM",
-          "url": "https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw"
         }
       ],
-      "duration_ms": 206067,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6"
+      "duration_ms": 196291,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
     },
     {
       "added_at": null,
@@ -787,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Estas Corazon",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl"
       },
       "artists": [
         {
           "name": "Banda Zeta",
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        },
+        {
+          "name": "La Original Banda GM",
+          "url": "https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw"
         }
       ],
-      "duration_ms": 196291,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
+      "duration_ms": 206067,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6"
     },
     {
       "added_at": null,

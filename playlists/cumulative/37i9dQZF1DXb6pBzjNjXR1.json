@@ -134,7 +134,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 347996,
       "name": "Abant'abadala",
       "url": "https://open.spotify.com/track/75xdKyEwgAPIBN7PHOsDjk"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 336689,
       "name": "Back To Afro - Remix",
       "url": "https://open.spotify.com/track/5y4Bydp9tcznKz1mUKNKEj"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 453609,
       "name": "Dear Old Man - Atmospheric Mix",
       "url": "https://open.spotify.com/track/7yOe9ItGTTsdlWTK5N8kSp"
@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Echoes of the Future",
+        "url": "https://open.spotify.com/album/1Qgs2ra13ZJ7DVPQiTgy1D"
+      },
+      "artists": [
+        {
+          "name": "Njabster Dbn",
+          "url": "https://open.spotify.com/artist/3nwy0QDq5LEcrDAgVQqQoI"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319339,
+      "name": "Echoes of the Future",
+      "url": "https://open.spotify.com/track/2vXTKPvMeIFhth8Z9NtUz9"
+    },
+    {
+      "album": {
         "name": "Electrolog",
         "url": "https://open.spotify.com/album/5iDLYL2GCUKzFk4Tj8IhtY"
       },
@@ -1480,6 +1498,46 @@
       "duration_ms": 385218,
       "name": "Electrolog",
       "url": "https://open.spotify.com/track/6IViguLpH79sxMUPO9RGNT"
+    },
+    {
+      "album": {
+        "name": "Emandulo",
+        "url": "https://open.spotify.com/album/4Eiwz4UCEbYjf5n9CI6pQQ"
+      },
+      "artists": [
+        {
+          "name": "FiNE",
+          "url": "https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207325,
+      "name": "Emandulo",
+      "url": "https://open.spotify.com/track/51tG3lFafTShrD5Zei8ewG"
+    },
+    {
+      "album": {
+        "name": "Emandulo (Ode to uMageba)",
+        "url": "https://open.spotify.com/album/49rA8zccpmH3M5Bi4KnpX1"
+      },
+      "artists": [
+        {
+          "name": "Son Of Nguni",
+          "url": "https://open.spotify.com/artist/130qq1ptjWR60uyjiBVofN"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385644,
+      "name": "Emandulo (Ode to uMageba)",
+      "url": "https://open.spotify.com/track/0q9GfOsdm04274pe5rNtfi"
     },
     {
       "album": {
@@ -2014,7 +2072,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 481373,
       "name": "I Rise",
       "url": "https://open.spotify.com/track/1rIIitPkjpcCi9zgdkXWBW"
@@ -2346,6 +2404,24 @@
       "duration_ms": 379713,
       "name": "Ingxaki Zinintsi",
       "url": "https://open.spotify.com/track/5kvIQnld0is7PkpNFBHxMP"
+    },
+    {
+      "album": {
+        "name": "Inkani",
+        "url": "https://open.spotify.com/album/2cznxENEfc4gag2KzbvHV5"
+      },
+      "artists": [
+        {
+          "name": "Octavez",
+          "url": "https://open.spotify.com/artist/7C4uDGWvbsJBr55RGQYEYA"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420712,
+      "name": "Inkani",
+      "url": "https://open.spotify.com/track/6bIeGDyLS93XY0U6gHzRzu"
     },
     {
       "album": {
@@ -2709,6 +2785,28 @@
     },
     {
       "album": {
+        "name": "Kingsman",
+        "url": "https://open.spotify.com/album/0o34woxrr1gv66uFrc6zPK"
+      },
+      "artists": [
+        {
+          "name": "Max SA",
+          "url": "https://open.spotify.com/artist/70juXESYrBbE8KOmDzxcab"
+        },
+        {
+          "name": "Penhilburg",
+          "url": "https://open.spotify.com/artist/5dg7pu0RxFZv4s6VIPqhMG"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424000,
+      "name": "Kenobu",
+      "url": "https://open.spotify.com/track/4uFYxMAmSc61L0nojcIkJ8"
+    },
+    {
+      "album": {
         "name": "Africa Gets Physical, Vol. 4",
         "url": "https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr"
       },
@@ -2754,7 +2852,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 452231,
       "name": "Kibe",
       "url": "https://open.spotify.com/track/060BS9l7ElcJ05jsnQ7F6t"
@@ -3590,7 +3688,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 359989,
       "name": "Mnike (Shimza Remix) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/00mVHfhTC2vXrNxTgIofoq"
@@ -5141,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Just Drum EP",
+        "url": "https://open.spotify.com/album/3lc4MJCvW4xpN6bzDSRpBO"
+      },
+      "artists": [
+        {
+          "name": "Zurst",
+          "url": "https://open.spotify.com/artist/3wQuRcoE9pppjkQFYMDlMr"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424964,
+      "name": "Sonic Vengeance - Original Mix",
+      "url": "https://open.spotify.com/track/6ZfCKjvAiAQrfrif9hzMzs"
+    },
+    {
+      "album": {
         "name": "Sounds Of Lobola",
         "url": "https://open.spotify.com/album/2gUWUTh7KF2kQbOkvnaY1g"
       },
@@ -5212,6 +5328,24 @@
       "duration_ms": 417020,
       "name": "Space Fair",
       "url": "https://open.spotify.com/track/16WmsfJpN9v239N0BtkwMj"
+    },
+    {
+      "album": {
+        "name": "Step Out",
+        "url": "https://open.spotify.com/album/34MDgo8F3H81Ac8UpfcYwu"
+      },
+      "artists": [
+        {
+          "name": "Afro Exotiq",
+          "url": "https://open.spotify.com/artist/1u42YFJFM9CC3bhfoB0suE"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364866,
+      "name": "Step Out",
+      "url": "https://open.spotify.com/track/0Du9aUG4WlJRAxRUQ3AxTi"
     },
     {
       "album": {
@@ -5472,7 +5606,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 348277,
       "name": "The Clique",
       "url": "https://open.spotify.com/track/5MjjxgfTOjdnQGbkvzCbrp"
@@ -6174,7 +6308,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 436005,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F"
@@ -6607,6 +6741,24 @@
     },
     {
       "album": {
+        "name": "Watermelon / Mango",
+        "url": "https://open.spotify.com/album/70SCjL4jZRMvQ4i82yUx1B"
+      },
+      "artists": [
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320061,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/4H7LBPfREpP5oD7SNeYaQg"
+    },
+    {
+      "album": {
         "name": "Waves (Enoo Napa Remix)",
         "url": "https://open.spotify.com/album/5ZQuvOnCp38opDe5Et1EK6"
       },
@@ -6663,7 +6815,7 @@
     },
     {
       "album": {
-        "name": "Dazz B MusiQ & Busi Mhlongo M2KR 2025",
+        "name": "Dazz-B MusiQ & Busi Mhlongo M2KR 2025",
         "url": "https://open.spotify.com/album/0UyC8tIIwqtjEMr4CIw6Lk"
       },
       "artists": [
@@ -6672,16 +6824,16 @@
           "url": "https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf"
         },
         {
-          "name": "Xingondo King",
-          "url": "https://open.spotify.com/artist/4dk5wW3LgQiE2CBjRoFIYv"
-        },
-        {
           "name": "Slaga",
           "url": "https://open.spotify.com/artist/6TMHpHxtnjEsfpC0Psdsdw"
         },
         {
           "name": "Dazz B Musiq",
           "url": "https://open.spotify.com/artist/2uXPRBlQzbT3xMPV2Fbotn"
+        },
+        {
+          "name": "Xingondo King",
+          "url": "https://open.spotify.com/artist/4dk5wW3LgQiE2CBjRoFIYv"
         }
       ],
       "date_added": "2025-02-13",

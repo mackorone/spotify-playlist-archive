@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Brandão85
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,281 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,285 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 39 | [ABC](https://open.spotify.com/track/5yX0aLjzZe1wDy4camywS4) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [Xmit](https://open.spotify.com/artist/3XfFuDfdBrLsfGNzwRALjT) | [ABC](https://open.spotify.com/album/6UsLoyTAeRFmcTb1PpNR5a) | 2:14 |
 | 40 | [Ruas Frias](https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Ruas Frias](https://open.spotify.com/album/12UMQAWVys24LITebtbIdY) | 3:33 |
 | 41 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 |
-| 42 | [Contando na Minha](https://open.spotify.com/track/7E3Yl950GR5DvQiAH6AJlN) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Estrela do Blocko !](https://open.spotify.com/album/5NduXW5kkie5ZrLJBO3OF0) | 2:09 |
-| 43 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |
+| 42 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |
+| 43 | [Contando na Minha](https://open.spotify.com/track/7E3Yl950GR5DvQiAH6AJlN) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Estrela do Blocko !](https://open.spotify.com/album/5NduXW5kkie5ZrLJBO3OF0) | 2:09 |
 | 44 | [Diesel Dior](https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Diesel Dior](https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW) | 3:09 |
 | 45 | [Mr\. Lupa Freestyle](https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Mr\. Lupa Freestyle](https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM) | 2:27 |
 | 46 | [Aflição](https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Melt77](https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX) | [A Vida De Um Gângster](https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77) | 3:50 |

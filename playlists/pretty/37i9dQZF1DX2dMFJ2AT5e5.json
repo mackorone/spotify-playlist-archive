@@ -1,6 +1,6 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 144649,
+  "num_followers": 144783,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
@@ -338,14 +338,6 @@
         {
           "name": "Jesse & Joy",
           "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Jesse",
-          "url": "https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV"
-        },
-        {
-          "name": "Joy",
-          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
         }
       ],
       "duration_ms": 247640,
@@ -487,6 +479,22 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    {
+      "added_at": "2025-07-04 06:00:12",
+      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -503,22 +511,6 @@
       "duration_ms": 189512,
       "name": "Si T\u00fa Me Vieras",
       "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
-    },
-    {
-      "added_at": "2025-07-04 06:00:12",
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2025-07-04 06:00:12",
@@ -931,22 +923,6 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "El Amor De Mi Herida",
-      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
-    },
-    {
-      "added_at": "2025-07-04 06:00:12",
-      "album": {
         "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
         "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
       },
@@ -959,6 +935,22 @@
       "duration_ms": 166185,
       "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
       "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
+    },
+    {
+      "added_at": "2025-07-04 06:00:12",
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "El Amor De Mi Herida",
+      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
     },
     {
       "added_at": "2025-07-04 06:00:12",
@@ -1087,22 +1079,6 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
-    },
-    {
-      "added_at": "2025-07-04 06:00:12",
-      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
       },
@@ -1115,6 +1091,22 @@
       "duration_ms": 175066,
       "name": "Me Vas a Echar de Menos",
       "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
+    },
+    {
+      "added_at": "2025-07-04 06:00:12",
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
     },
     {
       "added_at": "2025-07-04 06:00:12",
@@ -1166,10 +1158,6 @@
         {
           "name": "Jesse",
           "url": "https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV"
-        },
-        {
-          "name": "Joy",
-          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
         }
       ],
       "duration_ms": 215112,
@@ -1479,22 +1467,6 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
-        "name": "X Perro",
-        "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 144984,
-      "name": "X Perro",
-      "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
-    },
-    {
-      "added_at": "2025-07-04 06:00:12",
-      "album": {
         "name": "Motel",
         "url": "https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp"
       },
@@ -1507,6 +1479,22 @@
       "duration_ms": 245533,
       "name": "Lejos Estamos Mejor",
       "url": "https://open.spotify.com/track/55VihOj2A4FBGUkJT2yGkJ"
+    },
+    {
+      "added_at": "2025-07-04 06:00:12",
+      "album": {
+        "name": "X Perro",
+        "url": "https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 144984,
+      "name": "X Perro",
+      "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
     },
     {
       "added_at": "2025-07-04 06:00:12",

@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 122579,
+  "num_followers": 122620,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2025-06-06 03:52:01",
       "album": {
-        "name": "Late Nights & Heartbreak",
-        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
-      },
-      "artists": [
-        {
-          "name": "Hannah Williams",
-          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
-        },
-        {
-          "name": "The Affirmations",
-          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Late Nights & Heartbreak",
-      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
-    },
-    {
-      "added_at": "2025-06-06 03:52:01",
-      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 201640,
       "name": "Dontcha",
       "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
+    },
+    {
+      "added_at": "2025-06-06 03:52:01",
+      "album": {
+        "name": "Late Nights & Heartbreak",
+        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
+      },
+      "artists": [
+        {
+          "name": "Hannah Williams",
+          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
+        },
+        {
+          "name": "The Affirmations",
+          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Late Nights & Heartbreak",
+      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
     },
     {
       "added_at": "2025-06-06 03:52:01",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-06-06 03:52:01",
       "album": {
+        "name": "Couleurs Primaires",
+        "url": "https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9"
+      },
+      "artists": [
+        {
+          "name": "Paradis",
+          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
+        }
+      ],
+      "duration_ms": 314635,
+      "name": "Sur Une Chanson En Fran\u00e7ais",
+      "url": "https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G"
+    },
+    {
+      "added_at": "2025-06-06 03:52:01",
+      "album": {
         "name": "Bread (butter version)",
         "url": "https://open.spotify.com/album/1Gqy3cQoOXViM50jxHJy7A"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 158231,
       "name": "Bread (butter version)",
       "url": "https://open.spotify.com/track/5KGQivNF69wOcgwHEeqKV3"
-    },
-    {
-      "added_at": "2025-06-06 03:52:01",
-      "album": {
-        "name": "Couleurs Primaires",
-        "url": "https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9"
-      },
-      "artists": [
-        {
-          "name": "Paradis",
-          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
-        }
-      ],
-      "duration_ms": 314635,
-      "name": "Sur Une Chanson En Fran\u00e7ais",
-      "url": "https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,156 likes - 27 songs - 1 hr 55 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,158 likes - 26 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,18 +22,17 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 12 | [Soul City](https://open.spotify.com/track/1bg23PKffo3LYltL0yNBC5) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Lushlife](https://open.spotify.com/album/6FtTHRQ1AM733k7dJBKDrI) | 3:42 |
 | 13 | [SINCERELY](https://open.spotify.com/track/4CRCH72z1sK1GDysXFpoc8) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [4 REAL](https://open.spotify.com/album/3v54qzNPUdfcV0W2WEFcRA) | 3:08 |
 | 14 | [Faking The Books](https://open.spotify.com/track/5fTDz2Ky06voi1Z7NheQuu) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Faking The Books](https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79) | 4:00 |
-| 15 | [Birds Of A Feather](https://open.spotify.com/track/5Dvbo1f3XHHLh364PzZwim) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Saskamodie \(Deluxe Edition\)](https://open.spotify.com/album/1OwEGIDc0LNDtYwvS8hjXe) | 4:34 |
-| 16 | [Lay Buy](https://open.spotify.com/track/0m0OryF8oGVav8tMo5rN5I) | [Anelog](https://open.spotify.com/artist/46vb4j5NxwsYVqSeEks52I) | [Lay Buy](https://open.spotify.com/album/1aieWujDlrLsSMKT4qiVsb) | 3:11 |
-| 17 | [The Last Days of a Tragic Allegory](https://open.spotify.com/track/5ZDj2lA7ysADXg08fNwPFZ) | [Saxon Shore](https://open.spotify.com/artist/6aGxmrOqjSpDGvIJdId29O) | [Be a Bright Blue](https://open.spotify.com/album/42bm1KAdbgmq5nmG41N7IW) | 3:58 |
-| 18 | [Time Flies By](https://open.spotify.com/track/6w2tUMivtLWAv1VHEXCAjL) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Complete Strangers](https://open.spotify.com/album/6srmxhLGiICTqSM433MXgj) | 3:14 |
-| 19 | [Chasing Blue](https://open.spotify.com/track/2g1kSvIoQGINyhjnzma7bT) | [Daniel DaVinchy](https://open.spotify.com/artist/4PMpQNVTHYseyuy8gq73iO) | [Chasing Blue](https://open.spotify.com/album/3O2ZeAfmunYwTz6F8C4KzV) | 3:25 |
-| 20 | [Moon Hymn](https://open.spotify.com/track/63Nr0q3IH032UPK2NMuGOh) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 4:17 |
-| 21 | [A Dance By Any Other Name](https://open.spotify.com/track/4g5W3uhv3EOXit1ErfWjgc) | [Mice Parade](https://open.spotify.com/artist/08dFdlVj0Hm0pD8sE61RR6) | [The True Meaning Of Boodleybaye](https://open.spotify.com/album/3JAFVahFip29mMAYNsAWX8) | 7:42 |
-| 22 | [In The Water There Are Islands, In The Land There Are Lakes](https://open.spotify.com/track/0ZH0vhfk4vnQlrhhqzRl7Z) | [Mice Parade](https://open.spotify.com/artist/08dFdlVj0Hm0pD8sE61RR6) | [The True Meaning Of Boodleybaye](https://open.spotify.com/album/3JAFVahFip29mMAYNsAWX8) | 7:25 |
-| 23 | [Impossible Song](https://open.spotify.com/track/205hS7cuk4OKdnamltdPfr) | [Userband](https://open.spotify.com/artist/6IoOIICOAQERFbEvM7RG9i) | [Impossible Song](https://open.spotify.com/album/6PYdA63U45NaePvHHj0PCY) | 4:40 |
-| 24 | [2%](https://open.spotify.com/track/4eeZ6F1bZ0lf0r8Tn7oUBP) | [Bomis Prendin](https://open.spotify.com/artist/4BSnddAYCEOkNJfeFNbEm2) | [TEST](https://open.spotify.com/album/2BekZZiaquGSF66wpM4fWq) | 2:22 |
-| 25 | [Look Beyond The Hill](https://open.spotify.com/track/50BIyfMpmfeWRscszOOMD4) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [The 2nd Crusade](https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF) | 3:15 |
-| 26 | [Goat House Blues](https://open.spotify.com/track/0prDfMF6Yl9POBvEFTeP79) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Big Ugly](https://open.spotify.com/album/6jNbLon7QmLGibekT6RFOa) | 4:01 |
-| 27 | [Spangle](https://open.spotify.com/track/2UWiko8D4Oqi4qnELqlNup) | [Should](https://open.spotify.com/artist/3Wqa6m6qXA9wA2YriCtWuY) | [Feed Like Fishes](https://open.spotify.com/album/6VsQ41UfJyJ9gyOUAit5Kv) | 3:21 |
+| 15 | [Lay Buy](https://open.spotify.com/track/0m0OryF8oGVav8tMo5rN5I) | [Anelog](https://open.spotify.com/artist/46vb4j5NxwsYVqSeEks52I) | [Lay Buy](https://open.spotify.com/album/1aieWujDlrLsSMKT4qiVsb) | 3:11 |
+| 16 | [The Last Days of a Tragic Allegory](https://open.spotify.com/track/5ZDj2lA7ysADXg08fNwPFZ) | [Saxon Shore](https://open.spotify.com/artist/6aGxmrOqjSpDGvIJdId29O) | [Be a Bright Blue](https://open.spotify.com/album/42bm1KAdbgmq5nmG41N7IW) | 3:58 |
+| 17 | [Time Flies By](https://open.spotify.com/track/6w2tUMivtLWAv1VHEXCAjL) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Complete Strangers](https://open.spotify.com/album/6srmxhLGiICTqSM433MXgj) | 3:14 |
+| 18 | [Chasing Blue](https://open.spotify.com/track/2g1kSvIoQGINyhjnzma7bT) | [Daniel DaVinchy](https://open.spotify.com/artist/4PMpQNVTHYseyuy8gq73iO) | [Chasing Blue](https://open.spotify.com/album/3O2ZeAfmunYwTz6F8C4KzV) | 3:25 |
+| 19 | [Moon Hymn](https://open.spotify.com/track/63Nr0q3IH032UPK2NMuGOh) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 4:17 |
+| 20 | [A Dance By Any Other Name](https://open.spotify.com/track/4g5W3uhv3EOXit1ErfWjgc) | [Mice Parade](https://open.spotify.com/artist/08dFdlVj0Hm0pD8sE61RR6) | [The True Meaning Of Boodleybaye](https://open.spotify.com/album/3JAFVahFip29mMAYNsAWX8) | 7:42 |
+| 21 | [In The Water There Are Islands, In The Land There Are Lakes](https://open.spotify.com/track/0ZH0vhfk4vnQlrhhqzRl7Z) | [Mice Parade](https://open.spotify.com/artist/08dFdlVj0Hm0pD8sE61RR6) | [The True Meaning Of Boodleybaye](https://open.spotify.com/album/3JAFVahFip29mMAYNsAWX8) | 7:25 |
+| 22 | [Impossible Song](https://open.spotify.com/track/205hS7cuk4OKdnamltdPfr) | [Userband](https://open.spotify.com/artist/6IoOIICOAQERFbEvM7RG9i) | [Impossible Song](https://open.spotify.com/album/6PYdA63U45NaePvHHj0PCY) | 4:40 |
+| 23 | [2%](https://open.spotify.com/track/4eeZ6F1bZ0lf0r8Tn7oUBP) | [Bomis Prendin](https://open.spotify.com/artist/4BSnddAYCEOkNJfeFNbEm2) | [TEST](https://open.spotify.com/album/2BekZZiaquGSF66wpM4fWq) | 2:22 |
+| 24 | [Look Beyond The Hill](https://open.spotify.com/track/50BIyfMpmfeWRscszOOMD4) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [The 2nd Crusade](https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF) | 3:15 |
+| 25 | [Goat House Blues](https://open.spotify.com/track/0prDfMF6Yl9POBvEFTeP79) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Big Ugly](https://open.spotify.com/album/6jNbLon7QmLGibekT6RFOa) | 4:01 |
+| 26 | [Spangle](https://open.spotify.com/track/2UWiko8D4Oqi4qnELqlNup) | [Should](https://open.spotify.com/artist/3Wqa6m6qXA9wA2YriCtWuY) | [Feed Like Fishes](https://open.spotify.com/album/6VsQ41UfJyJ9gyOUAit5Kv) | 3:21 |
 
-Snapshot ID: `AAAMxoK1i66Nf2wCXSKGjPWwnNFE6Bf1`
+Snapshot ID: `AAAMx8AtFJeWIOa53Nsi76gC7v7BSxAy`

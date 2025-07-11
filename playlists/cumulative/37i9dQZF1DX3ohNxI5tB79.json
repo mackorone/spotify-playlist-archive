@@ -3475,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Mutual",
+        "url": "https://open.spotify.com/album/7KBZC4RaCdSsSpShWVa6Ki"
+      },
+      "artists": [
+        {
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211293,
+      "name": "Mutual",
+      "url": "https://open.spotify.com/track/6kUkosakHtJ9bsNE2bxJnq"
+    },
+    {
+      "album": {
         "name": "coin collection",
         "url": "https://open.spotify.com/album/0x5PxA5MaxH53b2eK8wGVp"
       },
@@ -3508,6 +3526,24 @@
       "duration_ms": 228654,
       "name": "My Love - Instrumental",
       "url": "https://open.spotify.com/track/474Of6PUt0haIv7EcMiY49"
+    },
+    {
+      "album": {
+        "name": "My Rock",
+        "url": "https://open.spotify.com/album/42YmKYIqbIm1mr337TTFRL"
+      },
+      "artists": [
+        {
+          "name": "GeeJay",
+          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "My Rock",
+      "url": "https://open.spotify.com/track/0b7uoxEAtonhRq00gvHeOS"
     },
     {
       "album": {

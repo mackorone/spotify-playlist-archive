@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -114,6 +114,50 @@
       "duration_ms": 198500,
       "name": "247",
       "url": "https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd"
+    },
+    {
+      "album": {
+        "name": "4TH JULY (feat. Jaonaay & JAOKHUN)",
+        "url": "https://open.spotify.com/album/1XWYDqHf79gvbcl83aeJNk"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        },
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        },
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196413,
+      "name": "4TH JULY (feat. Jaonaay & JAOKHUN)",
+      "url": "https://open.spotify.com/track/5SO0VHJyRXKcc7Colokj3e"
+    },
+    {
+      "album": {
+        "name": "5 A.M.",
+        "url": "https://open.spotify.com/album/1cUuc54xhpnYbYosXUtN4L"
+      },
+      "artists": [
+        {
+          "name": "MOBYE ",
+          "url": "https://open.spotify.com/artist/3Z5VM48ceWJTBmVqoZKAK5"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "5 A.M.",
+      "url": "https://open.spotify.com/track/7pESqINqmOONXp4sxLlXpx"
     },
     {
       "album": {
@@ -1236,7 +1280,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 156521,
       "name": "Friend Next Door",
       "url": "https://open.spotify.com/track/0VKh1ZcxNBMvhYl4OPKhGJ"
@@ -3533,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "WHITE RABBIT",
+        "url": "https://open.spotify.com/album/7BpPRBr9YRghxFoNpzEC61"
+      },
+      "artists": [
+        {
+          "name": "Daou Pittaya",
+          "url": "https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "WHITE RABBIT",
+      "url": "https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47"
+    },
+    {
+      "album": {
         "name": "WINK",
         "url": "https://open.spotify.com/album/17K46xu9e8ZwLfYXsOQBeY"
       },
@@ -5080,7 +5142,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 224482,
       "name": "\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c (Forever)",
       "url": "https://open.spotify.com/track/3Gg2hfk9p4YschDqIVfSG2"
@@ -7081,6 +7143,24 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e22\u0e14\u0e25\u0e07\u0e2b\u0e34\u0e19 (Drip)",
+        "url": "https://open.spotify.com/album/4vIoOt8BTgikAbRUyLQLFh"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176903,
+      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e22\u0e14\u0e25\u0e07\u0e2b\u0e34\u0e19 (Drip)",
+      "url": "https://open.spotify.com/track/5rgaCzKqB8WEvSIQ1Nj8rL"
+    },
+    {
+      "album": {
         "name": "\u0e1a\u0e23\u0e23\u0e40\u0e17\u0e32 (PLASTER)",
         "url": "https://open.spotify.com/album/3YvA19eCW4iFHuQhpMEMkt"
       },
@@ -8280,7 +8360,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 249214,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (One More Time)",
       "url": "https://open.spotify.com/track/6vxYIdCKMheBW4NvfhP5hH"
@@ -9284,7 +9364,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 234843,
       "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08 (Your Worst Enemy!)",
       "url": "https://open.spotify.com/track/1QeihgIm5rv63E2hl4n6Vh"

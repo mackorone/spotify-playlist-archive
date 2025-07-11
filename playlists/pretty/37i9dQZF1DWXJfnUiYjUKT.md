@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Zach Bryan on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,723 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,804 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 74 | [4AM EN IBIZA](https://open.spotify.com/track/3kpv89wsesBcSc6P7LpcDg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [4AM EN IBIZA](https://open.spotify.com/album/6lYMuShTlxnmA4MGrihGIi) | 2:59 |
 | 75 | [resala \- رسالة](https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [resala \- رسالة](https://open.spotify.com/album/5ZJYMMCaVOE0uJQy4thJKi) | 3:33 |
 | 76 | [9\-2\-5](https://open.spotify.com/track/66nIyYOKdy7yu2QjNagnop) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [9\-2\-5](https://open.spotify.com/album/1SjROMfa8GKI69Q9QH1Xsn) | 3:12 |
-| 77 | [NEXT LEVEL](https://open.spotify.com/track/39wLDFtKusnjjqHFXJ8gAD) | [bbyblu](https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz), [Norah's World](https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [NEXT LEVEL](https://open.spotify.com/album/3P6J0omNwZfPbPtnyb9haO) | 2:26 |
+| 77 | [NEXT LEVEL](https://open.spotify.com/track/39wLDFtKusnjjqHFXJ8gAD) | [bbyblu](https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz) | [NEXT LEVEL](https://open.spotify.com/album/3P6J0omNwZfPbPtnyb9haO) | 2:26 |
 | 78 | [RUT](https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [RUT](https://open.spotify.com/album/5LiTATZE86gpS9OmO7mCL1) | 3:27 |
 | 79 | [A Lot More Lows Than Highs](https://open.spotify.com/track/3cgBSO06IvSFOMTGFyOnKr) | [Joe Jordan](https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv) | [A Lot More Lows Than Highs](https://open.spotify.com/album/3wcOSlat3uwzP5V9Y9waXP) | 3:20 |
 | 80 | [Two Tone Trippin'](https://open.spotify.com/track/58JH7sFoz0CBYQymsE3KXL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [Two Tone Trippin’](https://open.spotify.com/album/5nOY1NZ7xwR8gr99sdmHTX) | 2:12 |

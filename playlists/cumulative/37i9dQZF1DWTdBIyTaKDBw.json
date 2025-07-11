@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Place of Purity",
+        "url": "https://open.spotify.com/album/702Hkapn7IYhXPCRhPa6cj"
+      },
+      "artists": [
+        {
+          "name": "Maiso Linua",
+          "url": "https://open.spotify.com/artist/5xtRy4a2R7tyIVuFv9lGwd"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Asae",
+      "url": "https://open.spotify.com/track/6PHoZl6LhZE1L9WSUIc6eB"
+    },
+    {
+      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA"
       },
@@ -2021,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Forest Calling",
+        "url": "https://open.spotify.com/album/2cRQrPv5krJ8chq61LN9jQ"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Forest Calling",
+      "url": "https://open.spotify.com/track/4kr8NRrZomnZQ9FWBXprIV"
+    },
+    {
+      "album": {
         "name": "Forest Shrine",
         "url": "https://open.spotify.com/album/7ouPAfQBNWJI2BX8GZe19d"
       },
@@ -3406,7 +3442,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Mamoritai",
       "url": "https://open.spotify.com/track/2MGWnzs81DVvCUi9HC6oWx"
@@ -3554,7 +3590,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 139166,
       "name": "Miyakoochi",
       "url": "https://open.spotify.com/track/1KH8NyLOIOeH3CpcjY8dYg"
@@ -3904,7 +3940,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 139384,
       "name": "Nature's Temple",
       "url": "https://open.spotify.com/track/3mIYJNmhjPSbJhS03sv3Ko"
@@ -4792,7 +4828,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 133500,
       "name": "Saisei",
       "url": "https://open.spotify.com/track/71ulVjDKZd1kj2JaL62E7K"
@@ -5667,6 +5703,28 @@
     },
     {
       "album": {
+        "name": "Temple Breeze",
+        "url": "https://open.spotify.com/album/2sHAYakCyedEPNoqbi6RE0"
+      },
+      "artists": [
+        {
+          "name": "Tosso",
+          "url": "https://open.spotify.com/artist/0pYbYmiGEC2nEe02Npg4bp"
+        },
+        {
+          "name": "meno",
+          "url": "https://open.spotify.com/artist/3z4b0AED14N0xhEhW1nW10"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Temple Breeze",
+      "url": "https://open.spotify.com/track/3C8saCblXpf5ysZX4XCmG8"
+    },
+    {
+      "album": {
         "name": "That's the way it is",
         "url": "https://open.spotify.com/album/4Ds1q2b6rm2TuQ9d2h2x60"
       },
@@ -5968,7 +6026,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 128354,
       "name": "Tomoe Gozen",
       "url": "https://open.spotify.com/track/3CcdmcsQolBy8drD9YMzvc"

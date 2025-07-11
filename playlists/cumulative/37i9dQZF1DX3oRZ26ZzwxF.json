@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Didi B",
+  "description": "Le meilleur du rap africain francophone. Photo : Suspect 95",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 107142,
       "name": "15500 Volts",
       "url": "https://open.spotify.com/track/0FvmJPfFiqoFz1HRrGLFHN"
@@ -100,6 +100,24 @@
       "duration_ms": 147331,
       "name": "Ako",
       "url": "https://open.spotify.com/track/2CPU36LGihiDOq2x4isUEn"
+    },
+    {
+      "album": {
+        "name": "ALI BABA",
+        "url": "https://open.spotify.com/album/4270H6COeY1twePEkuL4H6"
+      },
+      "artists": [
+        {
+          "name": "DEMENTOS",
+          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182971,
+      "name": "ALI BABA",
+      "url": "https://open.spotify.com/track/1LrKLKC7U5VD9eCyaSAuoZ"
     },
     {
       "album": {
@@ -497,6 +515,42 @@
     },
     {
       "album": {
+        "name": "Dans le gba",
+        "url": "https://open.spotify.com/album/7MBV70ajswiAJDV8Clcber"
+      },
+      "artists": [
+        {
+          "name": "Suspect95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Dans le gba",
+      "url": "https://open.spotify.com/track/7CJlOtxZ1i5DuJcEkG7HR3"
+    },
+    {
+      "album": {
+        "name": "De m\u00eame",
+        "url": "https://open.spotify.com/album/1HJ97btLRjK0xnAoVJWCGm"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "De m\u00eame",
+      "url": "https://open.spotify.com/track/3XO0tNE3uSwcBCYUNbdCzP"
+    },
+    {
+      "album": {
         "name": "Deodorant",
         "url": "https://open.spotify.com/album/4KZT1WtDnBnkww8q53m0xo"
       },
@@ -698,7 +752,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 112156,
       "name": "Faut Bouai !",
       "url": "https://open.spotify.com/track/5UFVfnSCRM3bEN4j5IMRTp"
@@ -890,7 +944,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 177230,
       "name": "John wick",
       "url": "https://open.spotify.com/track/3lYhS2MnoQzTJ9s6SePZIz"
@@ -1002,7 +1056,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 159108,
       "name": "L\u2019Apog\u00e9e",
       "url": "https://open.spotify.com/track/0CiRTOXewnaJbkxogCotoK"
@@ -1147,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "MOUTOUN\u00c9N\u00c9",
+        "url": "https://open.spotify.com/album/4AW8MMmHmSMTPhKS24B6W8"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "MOUTOUN\u00c9N\u00c9",
+      "url": "https://open.spotify.com/track/0hX2XJcISm8qWhKpbF1JNf"
+    },
+    {
+      "album": {
         "name": "NIAMATOS",
         "url": "https://open.spotify.com/album/0t4rLht6zhZ8mjsjIPU7pM"
       },
@@ -1162,6 +1234,24 @@
       "duration_ms": 166000,
       "name": "NIAMATOS",
       "url": "https://open.spotify.com/track/6cee6K304uT7AHe4DXaRZH"
+    },
+    {
+      "album": {
+        "name": "En Mission",
+        "url": "https://open.spotify.com/album/1HJW8OzVxMRJnyOWOW5Qcc"
+      },
+      "artists": [
+        {
+          "name": "Kawid",
+          "url": "https://open.spotify.com/artist/5syggS0mW2lbXyA9L5XzRN"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127430,
+      "name": "Nie Les Faits",
+      "url": "https://open.spotify.com/track/2Nb97LbrINavdRIXnPTuX2"
     },
     {
       "album": {
@@ -1198,6 +1288,24 @@
       "duration_ms": 151764,
       "name": "NOUVEAU DEPART",
       "url": "https://open.spotify.com/track/4g84qKeORneas4FmwngVr1"
+    },
+    {
+      "album": {
+        "name": "Nouvelle Cit\u00e9",
+        "url": "https://open.spotify.com/album/1bmqhtAiZaU6Keuvy31JcE"
+      },
+      "artists": [
+        {
+          "name": "Feeligram",
+          "url": "https://open.spotify.com/artist/3m6wShphshpCGCSEXQGOlE"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180793,
+      "name": "Nouvelle Cit\u00e9",
+      "url": "https://open.spotify.com/track/5jrs2QVeDZqkylMDpVqiER"
     },
     {
       "album": {
@@ -1242,7 +1350,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 156951,
       "name": "Numero 10",
       "url": "https://open.spotify.com/track/407HIkHf9AwjUAjd6I9MoO"
@@ -1264,6 +1372,24 @@
       "duration_ms": 147428,
       "name": "Obili Bandit",
       "url": "https://open.spotify.com/track/5cmoqa1Pg35c6zIo3uritT"
+    },
+    {
+      "album": {
+        "name": "Oulala",
+        "url": "https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "Oulala",
+      "url": "https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG"
     },
     {
       "album": {
@@ -1340,7 +1466,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 116003,
       "name": "Quand Toi Tu Dors",
       "url": "https://open.spotify.com/track/6PHQWMUGJl1srUZ6j5Ygew"
@@ -1529,6 +1655,28 @@
     },
     {
       "album": {
+        "name": "Tu connais",
+        "url": "https://open.spotify.com/album/05DUz8D9ZBFnmiSvNu1oIZ"
+      },
+      "artists": [
+        {
+          "name": "N\u00d4J",
+          "url": "https://open.spotify.com/artist/2rCPBjAnHwMR274CLbtl5O"
+        },
+        {
+          "name": "Jeune Bendjoul",
+          "url": "https://open.spotify.com/artist/1cI9d67CmJ8GZmLeyY3U9u"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117088,
+      "name": "Tu connais",
+      "url": "https://open.spotify.com/track/1UfweFc4O0zupyVsdStuKs"
+    },
+    {
+      "album": {
         "name": "Tu Dis Quoi",
         "url": "https://open.spotify.com/album/2EjcQseS1rmGY13yLi94dF"
       },
@@ -1642,7 +1790,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 155200,
       "name": "YPM",
       "url": "https://open.spotify.com/track/4wgHqq6QkVdAC9ElkBegdC"
@@ -1668,7 +1816,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 185754,
       "name": "\u00c7a Teh",
       "url": "https://open.spotify.com/track/1E2kz3QFoOi3tQDmZ1SN9g"

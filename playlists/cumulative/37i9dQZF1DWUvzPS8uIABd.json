@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Etta ja Sara Bee.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Robin Packalen. ",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -546,6 +546,28 @@
       "duration_ms": 160627,
       "name": "Ammattiliiga",
       "url": "https://open.spotify.com/track/2wyw1in1LKyhdgc67psLHB"
+    },
+    {
+      "album": {
+        "name": "Andr\u00e9 (feat. Kerkkogabriel)",
+        "url": "https://open.spotify.com/album/3CsFnRuZrMDDWYDEAOHZTN"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "Kerkkogabriel",
+          "url": "https://open.spotify.com/artist/5GL3CCJkNN8qRqXRkhFrfw"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147786,
+      "name": "Andr\u00e9 (feat. Kerkkogabriel)",
+      "url": "https://open.spotify.com/track/0tllMoxGZzPJ00wPRVGV5A"
     },
     {
       "album": {
@@ -6487,6 +6509,28 @@
     },
     {
       "album": {
+        "name": "Ms. Bad",
+        "url": "https://open.spotify.com/album/0zA9UqxUrEQ2NpI9LkzsdZ"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180031,
+      "name": "Ms. Bad",
+      "url": "https://open.spotify.com/track/4CNnv8cGfLUKpuvSysGbbm"
+    },
+    {
+      "album": {
         "name": "Muija skarppaa",
         "url": "https://open.spotify.com/album/0Mw1F00lrPsAQORXl8YMbK"
       },
@@ -6814,6 +6858,24 @@
       "duration_ms": 185699,
       "name": "M\u00f6rk\u00f6 Mainio - Vain el\u00e4m\u00e4\u00e4 kausi 15",
       "url": "https://open.spotify.com/track/5eUB9jPcvI1mpRn3CA9ZTW"
+    },
+    {
+      "album": {
+        "name": "Nainen",
+        "url": "https://open.spotify.com/album/0hV9bV69IyfQljGLL6GVVR"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150176,
+      "name": "Nainen",
+      "url": "https://open.spotify.com/track/4TCiNeoH3grVJVt5PDUHBY"
     },
     {
       "album": {
@@ -9469,6 +9531,32 @@
     },
     {
       "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/1HuzkJxyRtBsKuBxeywSMg"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "DAVI",
+          "url": "https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231070,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/31k2GXJC7k1DZeT6BB2WxB"
+    },
+    {
+      "album": {
         "name": "Sirkus",
         "url": "https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F"
       },
@@ -9567,6 +9655,24 @@
     },
     {
       "album": {
+        "name": "Sori rakas",
+        "url": "https://open.spotify.com/album/0Ig0JcsvzM5zHCp1iQjhUu"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124014,
+      "name": "Sori rakas",
+      "url": "https://open.spotify.com/track/6FBXR79IkXG5buvnkAiuoB"
+    },
+    {
+      "album": {
         "name": "SRR",
         "url": "https://open.spotify.com/album/3GW5a1LAFUscAFWiMov8Fj"
       },
@@ -9644,6 +9750,28 @@
       "duration_ms": 174016,
       "name": "Sun luokse",
       "url": "https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz"
+    },
+    {
+      "album": {
+        "name": "Sun takii",
+        "url": "https://open.spotify.com/album/1CmD0tLoEtXEjtNbAZKzBv"
+      },
+      "artists": [
+        {
+          "name": "Heviteemu",
+          "url": "https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A"
+        },
+        {
+          "name": "luke",
+          "url": "https://open.spotify.com/artist/6trWS3LhQbIXgDZaubTvTB"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173125,
+      "name": "Sun takii",
+      "url": "https://open.spotify.com/track/7yTQcZYQ4ynDIY63x3A9df"
     },
     {
       "album": {
@@ -9884,6 +10012,28 @@
       "duration_ms": 145566,
       "name": "Suutele mun silmii",
       "url": "https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR"
+    },
+    {
+      "album": {
+        "name": "Suvi suloinen (feat. Faija)",
+        "url": "https://open.spotify.com/album/5FqIPiCEgqHjm0UEIK3cBb"
+      },
+      "artists": [
+        {
+          "name": "SUOMEN PELI",
+          "url": "https://open.spotify.com/artist/27MFM28QS21aphrFWyYfdj"
+        },
+        {
+          "name": "Faija",
+          "url": "https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186558,
+      "name": "Suvi suloinen (feat. Faija)",
+      "url": "https://open.spotify.com/track/2jy9ucmnnuzCrZStpYMmL4"
     },
     {
       "album": {

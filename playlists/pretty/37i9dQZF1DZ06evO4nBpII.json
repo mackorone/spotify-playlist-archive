@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1117458,
+  "num_followers": 1117611,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGxfgAAAAACFgIgPm563HYNhgsUrNX1L",
+  "snapshot_id": "aG2xAAAAAAAcvTthe7osbYKAVYemghON",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "\u00bfViva La Gloria? (Little Girl)",
+      "url": "https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 129895,
       "name": "Fuck Off - FIDLAR Alt Mix",
       "url": "https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "\u00bfViva La Gloria? (Little Girl)",
-      "url": "https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4"
     },
     {
       "added_at": null,

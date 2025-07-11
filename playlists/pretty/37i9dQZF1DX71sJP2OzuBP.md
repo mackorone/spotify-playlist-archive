@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,823 likes - 115 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,825 likes - 115 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [討罵的 直到今天還是不願對你說髒話](https://open.spotify.com/track/1x5zx0v2wAclQ3sxsET5fo) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [討罵的 直到今天還是不願對你說髒話](https://open.spotify.com/album/4QsWZhxfNHNACrRrTe5zp8) | 3:52 |
-| 2 | [糾結重啟](https://open.spotify.com/track/3tzxVED05RCsRNOQJElq98) | [琟娜 Verna](https://open.spotify.com/artist/66gwqjmihplb7x3FUfqzWH), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [糾結重啟](https://open.spotify.com/album/2eY4f34rfEOcK0iO714ybu) | 3:34 |
+| 2 | [糾結重啟](https://open.spotify.com/track/3tzxVED05RCsRNOQJElq98) | [琟娜 VERNA](https://open.spotify.com/artist/66gwqjmihplb7x3FUfqzWH), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [糾結重啟](https://open.spotify.com/album/2eY4f34rfEOcK0iO714ybu) | 3:34 |
 | 3 | [空拍 \(Pause ll\)](https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [空拍 / 米蟲 \(Pause ll / Bugtato\)](https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3) | 4:26 |
 | 4 | [念念 \(《桃花映江山》影视剧寂寥情感曲\)](https://open.spotify.com/track/7Bpdpk0UDvIO8DbmhVQHWw) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [念念 \(《桃花映江山》影视剧寂寥情感曲\)](https://open.spotify.com/album/4kgjkDg2k6OTQ5SZCBYhnb) | 4:51 |
 | 5 | [做我的初戀](https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [做我的初戀](https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY) | 2:57 |

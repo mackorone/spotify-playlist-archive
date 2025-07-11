@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to women at full volume. Cover: Kaylee Bell",
+  "description": "Listen to women at full volume. Cover: Sara Berki",
   "name": "EQUAL AU & NZ",
   "tracks": [
     {
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 202800,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX"
@@ -2170,6 +2170,24 @@
       "duration_ms": 292620,
       "name": "Can't Stand To Lose",
       "url": "https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs"
+    },
+    {
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO"
+      },
+      "artists": [
+        {
+          "name": "RIIKI REID",
+          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171986,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe"
     },
     {
       "album": {
@@ -3036,7 +3054,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 186534,
       "name": "Cowboys Do It Better",
       "url": "https://open.spotify.com/track/0XNBRpurtqq0ukySxNDnXi"
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 234285,
       "name": "crumb",
       "url": "https://open.spotify.com/track/6nmYawnH6J4IeukwgA6eo9"
@@ -7033,6 +7051,24 @@
     },
     {
       "album": {
+        "name": "Hold On You",
+        "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152906,
+      "name": "Hold On You",
+      "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
+    },
+    {
+      "album": {
         "name": "Home Away From Home",
         "url": "https://open.spotify.com/album/4cGiZifJW2dUuRs7Y9aXz5"
       },
@@ -7816,7 +7852,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 154547,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/2Ep9UTgFOY4B8EQROru1rt"
@@ -8004,6 +8040,24 @@
       "duration_ms": 173637,
       "name": "In the Honey",
       "url": "https://open.spotify.com/track/7KuNVVevScN5KWpacqZ5Cc"
+    },
+    {
+      "album": {
+        "name": "In The Neon",
+        "url": "https://open.spotify.com/album/0XTtbQ1QO5vymEZRhxAXn7"
+      },
+      "artists": [
+        {
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "In the Neon",
+      "url": "https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR"
     },
     {
       "album": {
@@ -8618,6 +8672,24 @@
       "duration_ms": 210210,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl"
+    },
+    {
+      "album": {
+        "name": "Keep Walkin'",
+        "url": "https://open.spotify.com/album/6c5OThz1oFTpUzXQzKmyXb"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210313,
+      "name": "Keep Walkin'",
+      "url": "https://open.spotify.com/track/78eKLWFEiP9QigCvronTXN"
     },
     {
       "album": {
@@ -10140,7 +10212,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 179466,
       "name": "Melodrama",
       "url": "https://open.spotify.com/track/3eWYFn0hoejJNOcxWWI14p"
@@ -12990,7 +13062,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 216133,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l"
@@ -13768,7 +13840,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 208654,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
@@ -15224,7 +15296,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 79693,
       "name": "THEN THERE'S ONE",
       "url": "https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg"
@@ -16153,6 +16225,24 @@
     },
     {
       "album": {
+        "name": "Up In Flames (The Wayland)",
+        "url": "https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Up In Flames (The Wayland)",
+      "url": "https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz"
+    },
+    {
+      "album": {
         "name": "Up in My Head",
         "url": "https://open.spotify.com/album/1ITFtENz4S2SXWRykPhiPq"
       },
@@ -16871,6 +16961,24 @@
     },
     {
       "album": {
+        "name": "Hard Gloss",
+        "url": "https://open.spotify.com/album/2v1WdzmGpViLkzCBaigqfa"
+      },
+      "artists": [
+        {
+          "name": "Beks",
+          "url": "https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Who You Kidding",
+      "url": "https://open.spotify.com/track/6fHTtyYZ7RdDeUtjq8bSfT"
+    },
+    {
+      "album": {
         "name": "WHY DO YOU HATE ME?",
         "url": "https://open.spotify.com/album/1JUucwGCSxaYw87tnPXtSy"
       },
@@ -16962,6 +17070,24 @@
       "duration_ms": 190454,
       "name": "Wish I Knew",
       "url": "https://open.spotify.com/track/5UvSwQxQbr10bikEeB1U2b"
+    },
+    {
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/3MKoo54LpEmb2qlVgz6fO2"
+      },
+      "artists": [
+        {
+          "name": "ALYSSA",
+          "url": "https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169130,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/0YcQQtebFE7lGrisdNzfb5"
     },
     {
       "album": {

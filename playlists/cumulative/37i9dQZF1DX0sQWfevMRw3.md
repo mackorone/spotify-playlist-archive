@@ -4,7 +4,7 @@
 
 > Det Löser Sej🇳🇴🤝🇸🇪
 
-1,429 songs - 2 day 11 hr 16 min
+1,431 songs - 2 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Dyngnacke](https://open.spotify.com/track/5WSWAd95miI5Ds5xTjPBZn) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Dyngnacke](https://open.spotify.com/album/5UmnhVQ3X4u0TcbRItBHLD) | 2:19 | 2023-06-15 | 2023-07-15 |
 | [Dyngnacke](https://open.spotify.com/track/6OHWGN7KW22jczi6FVEBGE) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Dyngnacke](https://open.spotify.com/album/47995xKC0dKYED6RYsAYpl) | 2:19 | 2023-07-13 | 2024-02-09 |
 | [Dyngrak](https://open.spotify.com/track/5K43navq707q9fWgip9l9l) | [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC) | [Dyngrak](https://open.spotify.com/album/4nZ4hG0wOSCW4SFPMwAUUG) | 2:32 | 2023-03-02 | 2023-04-07 |
+| [DYNGRAUK](https://open.spotify.com/track/62f56QRztFxQl3LlrZUivU) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [DYNGRAUK](https://open.spotify.com/album/5aDClENi3R8ttKoDgCDhnG) | 2:43 | 2025-07-10 |  |
 | [DYR BENSIN](https://open.spotify.com/track/5zbi722hFSDPFNaPNy8xCq) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DYR BENSIN](https://open.spotify.com/album/4CuL02B8XYSGoTdIxiqy8L) | 1:46 | 2022-09-29 | 2023-01-06 |
 | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/track/4YvNeLs07cxgKcsVtxDXBu) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/album/0eGf6UvidEOq5uzdKzWvr4) | 2:36 | 2022-10-10 | 2022-10-28 |
 | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/track/7BRG1uU2WiaFXDLnniCfjd) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/album/7AowFzSGAy33pR1GpuJ5WO) | 2:36 | 2022-09-29 | 2022-10-12 |
@@ -1120,6 +1121,7 @@
 | [Skål då!](https://open.spotify.com/track/4wkAs7z0MoWPfWcxo0e0PZ) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF), [Black Strög1](https://open.spotify.com/artist/50csVLuhJqEKhgy7grhKe7) | [Skål då!](https://open.spotify.com/album/1YDXfZdajinZBNWtbeH6jq) | 2:36 | 2024-08-22 | 2024-09-20 |
 | [SLEM](https://open.spotify.com/track/2ojAeXk7TaAQiwvGN4AkB6) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [SLEM](https://open.spotify.com/album/7LUYH3vzhKwRCn029BIQb2) | 1:46 | 2025-05-08 |  |
 | [SLUT MED DIG](https://open.spotify.com/track/1jYZAJC6gWTK9Ps68YwI6b) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [SLUT MED DIG](https://open.spotify.com/album/1bGWrWBNfkREIkhPP5LDAJ) | 2:12 | 2023-09-14 | 2023-10-20 |
+| [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 | 2025-07-10 |  |
 | [Släpp alla sorger \- DRESSD Remix](https://open.spotify.com/track/4zwr9jOmQY4jHlDzLXz4wr) | [Nordman](https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN), [DRESSD](https://open.spotify.com/artist/4sNWSMiz1cfqtIR5rSc7UL) | [Släpp alla sorger \(DRESSD Remix\)](https://open.spotify.com/album/6l3F2GeSNp46MAelcXrM7D) | 2:42 | 2023-04-27 | 2024-03-01 |
 | [SLÅ MIG HÅRT I ANSIKTET](https://open.spotify.com/track/50PauDpbcRWFs8Sn4FTJwN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Danzbanderz](https://open.spotify.com/artist/4lRlXewrnT2Q32BvbfvyAn) | [SLÅ MIG HÅRT I ANSIKTET](https://open.spotify.com/album/3gcoCTvkKM40bpT6Z22oog) | 2:20 | 2025-05-08 |  |
 | [Slå mig hårt i ansiktet \- Remix](https://open.spotify.com/track/1NlWefoGZ0dXBLGJJTrfTu) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Norwi](https://open.spotify.com/artist/3y2JlArSOt9MXvAB15TMYm) | [Slå mig hårt i ansiktet \(Remix\)](https://open.spotify.com/album/0TxbRCT2U8DDk8ClUINB7G) | 3:00 | 2023-08-24 | 2024-02-02 |

@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Adriatique, Bipolar Sunshine
 
-548 songs - 1 day 21 hr 47 min
+549 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Cabalero](https://open.spotify.com/track/22vql5nRZdCJ0wqLLzi2mQ) | [Yannick Mueller](https://open.spotify.com/artist/6iSC2YnYuFfCbrBhyRVkPm) | [Cabalero](https://open.spotify.com/album/1hTnb56AqwEnUV52UPnYbq) | 4:27 | 2024-01-26 | 2024-02-07 |
 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-06-26 |  |
 | [Can I](https://open.spotify.com/track/3qavQewlgidBuYHrJe3Qqb) | [Britta Arnold](https://open.spotify.com/artist/7JpBTUqubY86KynSJr28RN) | [No Pushing Only Pulling](https://open.spotify.com/album/57LVq8AxNiBVuPMN0iZLZP) | 8:31 | 2022-04-15 | 2022-07-28 |
-| [Can We Find A Way \- Ede Remix](https://open.spotify.com/track/6HZiDsrA00Jiy1EBkukFNr) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM), [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Can We Find A Way \(Ede Remix\)](https://open.spotify.com/album/5Ze1OoTENjsi5bWF6LdhDT) | 3:44 | 2025-05-29 |  |
+| [Can We Find A Way \- Ede Remix](https://open.spotify.com/track/6HZiDsrA00Jiy1EBkukFNr) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM), [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Can We Find A Way \(Ede Remix\)](https://open.spotify.com/album/5Ze1OoTENjsi5bWF6LdhDT) | 3:44 | 2025-05-29 | 2025-07-11 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-04-15 | 2024-01-11 |
 | [Caprice](https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Caprice](https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R) | 3:50 | 2022-04-15 | 2024-01-23 |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2023-01-13 | 2025-01-07 |
@@ -512,6 +512,7 @@
 | [Transcendence](https://open.spotify.com/track/2OlB9XozcuSSC65y5dHenE) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Transcendence](https://open.spotify.com/album/3H8csJAMoN8ZRXZB9c0E5k) | 6:52 | 2022-09-22 | 2022-10-01 |
 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 | 2022-12-30 |  |
 | [Trust the Process](https://open.spotify.com/track/00YMhO4tBg7dEvZI8ZJlhE) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Vision](https://open.spotify.com/album/0gYWHiu6d4Lcrf4a4xFL40) | 5:57 | 2022-04-15 | 2022-07-29 |
+| [Try](https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Try](https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD) | 3:44 | 2025-07-10 |  |
 | [Turn Around \- Âme Remix](https://open.spotify.com/track/5HBHjCETsFJP5bltmJ4BKs) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Turn Around](https://open.spotify.com/album/5SRRd1yaZsJbSiMSYOAqBY) | 8:03 | 2024-04-18 | 2024-08-22 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 | 2024-12-16 |  |
 | [ULM](https://open.spotify.com/track/4kC93I6ekm3jH02l7YPWaQ) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [ULM](https://open.spotify.com/album/55fpPhgzZxqTKQepGeCLDg) | 7:15 | 2022-04-15 | 2022-07-29 |

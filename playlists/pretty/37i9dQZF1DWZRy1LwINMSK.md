@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de AQUA VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,026 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,049 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 2 | [A Tu Manera](https://open.spotify.com/track/3SOPWx87eWyKGJ68V08zZu) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [A Tu Manera](https://open.spotify.com/album/2StLvH80masSd4Y4ZK3NP5) | 2:38 |
 | 3 | [Cuatro Rifles](https://open.spotify.com/track/6bZPqpsLzf3YZ11CxQl3Mo) | [Spiff TV](https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Cuatro Rifles](https://open.spotify.com/album/3zXtxi6ZKERDLxy8yQswkh) | 2:34 |
 | 4 | [Vibras](https://open.spotify.com/track/306litzTzjMQqyXlF9HxHd) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:34 |
-| 5 | [RICH NENE](https://open.spotify.com/track/4RczdDangpVwvMgSLbaxhS) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Memory](https://open.spotify.com/artist/5ecmfW2L7VwDWl2oy41AVY) | [YOUNG SLIME](https://open.spotify.com/album/6FmWDB2ETp6kERs5Hz9nSL) | 2:24 |
+| 5 | [RICH NENE](https://open.spotify.com/track/4RczdDangpVwvMgSLbaxhS) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Memory](https://open.spotify.com/artist/3f4jSS7F4CvqpL1a63fU0u) | [YOUNG SLIME](https://open.spotify.com/album/6FmWDB2ETp6kERs5Hz9nSL) | 2:24 |
 | 6 | [QUICKIE](https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUICKIE](https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig) | 3:05 |
 | 7 | [Exotica \(feat\. La Zowi\)](https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:24 |
 | 8 | [Todo es Ganancia](https://open.spotify.com/track/5yHkZ0ND54YhwD0XGzqQWF) | [Alvarofrvn](https://open.spotify.com/artist/45qGgIzVMkceXwhMos7WA7), [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Lvreaux](https://open.spotify.com/artist/0vQ61YT6wack8vCNEpM4lN) | [Todo es Ganancia](https://open.spotify.com/album/4iO7WO7yj3VRBHqKAgbHGq) | 2:27 |

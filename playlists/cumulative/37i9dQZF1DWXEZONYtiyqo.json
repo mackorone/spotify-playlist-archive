@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Alina Eremia",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Eva Timush, Oscar",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 194336,
       "name": "10 din 10",
       "url": "https://open.spotify.com/track/20mzmLct2SvVaJ3dUjnMOi"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 166046,
       "name": "Favourite Type",
       "url": "https://open.spotify.com/track/42ItZdypZFPKI5HVZW1rBY"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 131328,
       "name": "Karma",
       "url": "https://open.spotify.com/track/25ZsA23GKv5Ca3j1o86jK6"
@@ -3102,6 +3102,32 @@
       "duration_ms": 160800,
       "name": "Maria, Maria",
       "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
+    },
+    {
+      "album": {
+        "name": "Miss Univers",
+        "url": "https://open.spotify.com/album/4a4GmRszvwaAXCp7KvfPc5"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201882,
+      "name": "Miss Univers",
+      "url": "https://open.spotify.com/track/1fknBAWpK9tsHawJKmh5cG"
     },
     {
       "album": {
@@ -3810,6 +3836,24 @@
       "duration_ms": 172235,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp"
+    },
+    {
+      "album": {
+        "name": "Ochii t\u0103i tri\u0219ti",
+        "url": "https://open.spotify.com/album/4AXivRoGXpDStm7czUFCGz"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191931,
+      "name": "Ochii t\u0103i tri\u0219ti",
+      "url": "https://open.spotify.com/track/0xVRcjDrbSyRILYbNPj6Zv"
     },
     {
       "album": {
@@ -4836,7 +4880,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 192857,
       "name": "Te lo daria todo",
       "url": "https://open.spotify.com/track/0u87PC5GRBmjtixfgWyzk8"
@@ -4960,6 +5004,24 @@
       "duration_ms": 176499,
       "name": "Toate pozele",
       "url": "https://open.spotify.com/track/7d7RjxJNY4ELK37cQLWIhT"
+    },
+    {
+      "album": {
+        "name": "Tot ce avem e azi",
+        "url": "https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183061,
+      "name": "Tot ce avem e azi",
+      "url": "https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85"
     },
     {
       "album": {
@@ -5360,6 +5422,28 @@
       "duration_ms": 185732,
       "name": "Z\u00e2mbe\u0219te",
       "url": "https://open.spotify.com/track/0vT1xGO41auK3VyI65IldA"
+    },
+    {
+      "album": {
+        "name": "\u00cemi place c\u00e2nd (From \"Situationship\" The Movie)",
+        "url": "https://open.spotify.com/album/0GRF58upfhbiVSc3OnNOPT"
+      },
+      "artists": [
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "\u00cemi place c\u00e2nd - From \"Situationship\" The Movie",
+      "url": "https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L"
     },
     {
       "album": {

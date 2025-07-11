@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Masdddho
 
-493 songs - 1 day 17 hr 15 min
+495 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [KASETYANJATI \- Live](https://open.spotify.com/track/3rO70kUcS7nVoSx9TXCns4) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [KASETYANJATI \(Live\)](https://open.spotify.com/album/1QJIUyegfBZnXGDafI8sh8) | 6:46 | 2025-05-22 |  |
 | [Kau Yang Memilih Aku](https://open.spotify.com/track/0nlyeo8k3egwp0BPagXSgi) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Kau Yang Memilih Aku](https://open.spotify.com/album/3av8xh4YstrMX7wD95ZhiW) | 4:56 | 2024-11-21 | 2025-02-28 |
 | [Kawanen Saur](https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu) | [Kawanen Saur](https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U) | 3:17 | 2024-03-29 | 2024-06-14 |
+| [Kawitaning Sinawang](https://open.spotify.com/track/4ucL4cmsyrFHuPBeNCEIDi) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Icing Tanaka](https://open.spotify.com/artist/0hheXfcmb08lGonHVlgq3B) | [Kawitaning Sinawang](https://open.spotify.com/album/4bD96mWbnzDwzKh54n0Gul) | 6:30 | 2025-07-10 |  |
 | [Kawitaning Sinawang](https://open.spotify.com/track/6GR3uDM9hWSbaGQ97KrpMc) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Kawitaning Sinawang](https://open.spotify.com/album/75CwU627eV9RhtPNLxnm2d) | 5:00 | 2025-04-17 |  |
 | [KAWITANING SINAWANG](https://open.spotify.com/track/3EPFbJPrZXSgr2Wqk4KEVS) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [KAWITANING SINAWANG](https://open.spotify.com/album/28xHCBbw0lfWN4E0S1TRlT) | 5:21 | 2025-05-30 |  |
 | [KDRT \(Kadung Duwe Roso Tresno\)](https://open.spotify.com/track/4vWgNqMHIo6TU8tNkUFEOj) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [KDRT \(Kadung Duwe Roso Tresno\)](https://open.spotify.com/album/0CGFvfgMFN7IdVwOGnuJMm) | 6:12 | 2024-10-24 | 2025-06-27 |
@@ -201,6 +202,7 @@
 | [Kudu Nangis](https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Kudu Nangis](https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv) | 5:04 | 2022-08-25 | 2023-08-11 |
 | [Kukuh](https://open.spotify.com/track/6xys78WshU3lJfgxcUjhPf) | [Fahri Khusnara](https://open.spotify.com/artist/4gjln35Zi7gzL8ppaSC3CQ) | [Kukuh](https://open.spotify.com/album/0k8K1HwnMzksAzKq86LSNO) | 3:25 | 2024-02-09 | 2024-05-24 |
 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-11 | 2023-12-09 |
+| [KUSUMA WIJAYA](https://open.spotify.com/track/7h0nQqI84EJY26MHLcxmJo) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [KUSUMA WIJAYA](https://open.spotify.com/album/7DVQMP1SL0rPn2t8xyRFqa) | 4:28 | 2025-07-10 |  |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 | 2023-08-11 |
 | [Lali Rasane Tresno](https://open.spotify.com/track/0xIPbN7eQjyZzBwAiheDJ9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lali Rasane Tresno](https://open.spotify.com/album/62M6nuhMQ6M3unu0T2ct85) | 6:10 | 2024-03-08 | 2024-08-30 |
 | [Lamunan](https://open.spotify.com/track/1iY32hEqhRWFvgu1WokDmo) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Lamunan](https://open.spotify.com/album/0PWkZzZeAMyFxZ1I7QSwPt) | 5:39 | 2024-02-08 | 2025-01-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ebony e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,517 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,489 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 44 | [Raiva Nas Outras \- Ao Vivo](https://open.spotify.com/track/4oViBNwGJqPvBu9XT3u7DM) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Raiva Nas Outras \(Ao Vivo\)](https://open.spotify.com/album/4zB4hs0HFEERIpJtpci1Jx) | 3:27 |
 | 45 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |
 | 46 | [THE BOX MEDLEY 9](https://open.spotify.com/track/3z4ObCLMtPlkRGSd0VmTo5) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Jé Santiago](https://open.spotify.com/artist/4Q9gKGm1BtS9t8j4MRUzMr), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [THE BOX MEDLEY 9](https://open.spotify.com/album/2JIEj9dOYxjwUmT1j8Dd0q) | 3:42 |
-| 47 | [Rotina 2](https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:07 |
-| 48 | [Modelo Brasileiro](https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [DJ Yago](https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 2:33 |
+| 47 | [Modelo Brasileiro](https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [DJ Yago](https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 2:33 |
+| 48 | [Rotina 2](https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:07 |
 | 49 | [Pavão](https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:26 |
 | 50 | [Foto \- Ao Vivo](https://open.spotify.com/track/3POrgCwqQq9JNfUR7OZCnV) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Só VVamo Sunset \(Ao Vivo\)](https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN) | 2:48 |
 

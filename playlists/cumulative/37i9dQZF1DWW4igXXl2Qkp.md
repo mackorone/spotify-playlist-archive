@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:2uVTJrWgoWoJmImS2I0KVE">La Reezy<br/></a>
+> Celebrating 10 years of the best new hip\-hop music from new, independent artists\. Cover: <a href="spotify:artist:2uVTJrWgoWoJmImS2I0KVE">La Reezy</a>
 
-1,895 songs - 3 day 9 hr 26 min
+1,896 songs - 3 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-07-25 | 2024-08-08 |
 | [big lexii' \(hands on your knees\)](https://open.spotify.com/track/6V9OjgnanRVRdrlE5jtkFX) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [big lexii' \(hands on your knees\)](https://open.spotify.com/album/5ZDfhxEwHVsuDz2Cz6TPzN) | 2:23 | 2024-07-24 | 2024-08-08 |
 | [Big Papa](https://open.spotify.com/track/7D0V5Va2bh4EcARMvFyLId) | [2Fly Savi](https://open.spotify.com/artist/0tOW15xQU3yG8GpEuZ0ueI), [Maeli](https://open.spotify.com/artist/3rSmCpRb0YL7Rkoi97kxrG) | [Big Papa](https://open.spotify.com/album/3HdFKCcEHflXryNA36JHTs) | 3:21 | 2022-08-24 | 2022-10-06 |
+| [Big Trick](https://open.spotify.com/track/6aNtZRCVSxyTgceD7G4OHr) | [KiDD](https://open.spotify.com/artist/1hPLebilUzrmKiwWntSBip) | [Big Trick](https://open.spotify.com/album/3rV83OTpGmMN6INpXtb0az) | 3:57 | 2025-07-10 |  |
 | [Bigger Picture uh huh](https://open.spotify.com/track/4MJ5oUOpL1a4mA2DjSRLn1) | [Woodboy Gee](https://open.spotify.com/artist/1ZV2KmW1PKg82oqHxtAzbA), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Bigger Picture uh huh](https://open.spotify.com/album/0ugYQ239yyIJuFS3lGSqvj) | 3:20 | 2023-08-16 | 2023-09-14 |
 | [BigWestt "On The Radar" Freestyle](https://open.spotify.com/track/6kgpw74UtVB0xUf7QN4rE0) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [BigWestt](https://open.spotify.com/artist/3B8yXbeyGmOhG321auIjAd) | [BigWestt "On The Radar" Freestyle](https://open.spotify.com/album/7u4dEdFBkj6JF0bAgdoRzi) | 2:00 | 2025-01-15 | 2025-01-18 |
 | [Bill Gates](https://open.spotify.com/track/2FMoAcSFlbKGH5UqkNYghe) | [bdifferent](https://open.spotify.com/artist/1gQjUHdAZ992ioNqJ1QMjG) | [I'm Different](https://open.spotify.com/album/70OiODZoktjotae8Lh36Jj) | 2:54 | 2024-11-13 | 2025-01-23 |
@@ -907,7 +908,7 @@
 | [Know Better](https://open.spotify.com/track/2YCDVu4FofMFvSJt5Vggu2) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Know Better](https://open.spotify.com/album/64yqSFX8tX8XYrVbtXsfgu) | 3:19 | 2022-01-13 | 2022-02-24 |
 | [Know Better](https://open.spotify.com/track/5u1Vx9SOZig0AkpzuxMm6G) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [PILOT](https://open.spotify.com/album/55OCHRmtui8f2u4EpDxpBv) | 3:19 | 2022-11-30 | 2023-01-12 |
 | [Know Me](https://open.spotify.com/track/4NFED5LmGWoE2s8DLLJdfC) | [Lucas Home](https://open.spotify.com/artist/1FfDs6OihC3kY6Vfs1p0oa) | [Know Me](https://open.spotify.com/album/1Biwvw8IsdXoNxNmu8mVZ0) | 3:14 | 2023-05-03 | 2023-08-03 |
-| [Kollectin Profits](https://open.spotify.com/track/4cBhSahusCC2qO3WpyCFL2) | [KP SKYWALKA](https://open.spotify.com/artist/0H20KZnm0XPqNYQ6EsIAyo) | [Kollectin Profits](https://open.spotify.com/album/1dAvtCz5qZkcMF8Cnla4JK) | 2:45 | 2025-05-28 |  |
+| [Kollectin Profits](https://open.spotify.com/track/4cBhSahusCC2qO3WpyCFL2) | [KP SKYWALKA](https://open.spotify.com/artist/0H20KZnm0XPqNYQ6EsIAyo) | [Kollectin Profits](https://open.spotify.com/album/1dAvtCz5qZkcMF8Cnla4JK) | 2:45 | 2025-05-28 | 2025-07-11 |
 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 | 2023-02-08 | 2023-05-11 |
 | [Krazy Head](https://open.spotify.com/track/1nwPZnRN8fUBKM4DNGndXv) | [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Lover Girl](https://open.spotify.com/album/1QryqJwlUeOSMsfxvoqPKX) | 2:49 | 2025-02-19 | 2025-02-27 |
 | [Kurt Cobain](https://open.spotify.com/track/25gdGXIrZ1Oxa3yh9AT22r) | [Franchize](https://open.spotify.com/artist/5kVuxWc0beQxt41B7h3AY0), [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL) | [Winter Baby](https://open.spotify.com/album/3wScuUYaT2EfeZpTDOlefy) | 2:42 | 2022-01-26 | 2022-03-03 |

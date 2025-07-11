@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Después de la tormenta sale el sol ☀️\. Luis R Conriquez y Carín León en portada 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,948 likes - 57 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,114 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 44 | [Volando](https://open.spotify.com/track/6Z0qpxfpCOFfC3ZrGOt7gs) | [Josué Sánchez K](https://open.spotify.com/artist/0DVFbgqA6fHB20du26ZZk1) | [Volando](https://open.spotify.com/album/4HxNEn8bsjxkThReQgBnOA) | 2:57 |
 | 45 | [Un Fantasma](https://open.spotify.com/track/3SzF3P3cdmls3Fx5TmGYd9) | [Fran Zata](https://open.spotify.com/artist/38qrFBs12feiiLMMcLWekk), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Un Fantasma](https://open.spotify.com/album/2yGkpFEMpLEziobkChEOqy) | 2:45 |
 | 46 | [Retumbando En El Cora](https://open.spotify.com/track/59IbXNL246o9YZC3EM4app) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Retumbando En El Cora](https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP) | 2:10 |
-| 47 | [De Profesió Gallero](https://open.spotify.com/track/0g4oZZhZyll0TYvjN394LG) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Todo a Su Tiempo](https://open.spotify.com/album/3euOqX6wNMGgjT6LfRgx0u) | 3:25 |
+| 47 | [De Profesión Gallero](https://open.spotify.com/track/0g4oZZhZyll0TYvjN394LG) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Todo a Su Tiempo](https://open.spotify.com/album/3euOqX6wNMGgjT6LfRgx0u) | 3:25 |
 | 48 | [Luces](https://open.spotify.com/track/5CwYXmwhivs2TWiN7NRT3o) | [CASSIEL](https://open.spotify.com/artist/7garodxscfvvXiYHuOScUG), [S314](https://open.spotify.com/artist/1WjApnW06YbS0hAqZ1GTPX), [Efecto SR](https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs) | [Luces](https://open.spotify.com/album/7xZ8gyyj1jvv4XCvs1CVa8) | 4:06 |
 | 49 | [Pa Sus Chiklez y Su Cumbiaton](https://open.spotify.com/track/1EquwXlm8ruGbtVxcRmtoZ) | [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [Naxssy](https://open.spotify.com/artist/7I3EenS7fbjXWsY7JTamHm) | [Pa Sus Chiklez y Su Cumbiaton](https://open.spotify.com/album/2Mx9iH9veWhHLosmlRQSgJ) | 2:11 |
 | 50 | [Destapa Una Champagne](https://open.spotify.com/track/2ndP446V3BzG0tvoqHRhk5) | [Dorian Guerra](https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP), [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [Destapa Una Champagne](https://open.spotify.com/album/6AZv4pFJfzj8AVbV4XTmGD) | 3:14 |

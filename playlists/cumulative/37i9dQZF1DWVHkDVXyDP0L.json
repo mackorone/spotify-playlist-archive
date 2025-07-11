@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Lotte Gallagher",
+  "description": "New and local indie noise. Cover: The Terrys",
   "name": "Local Noise",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 179858,
       "name": "All the Noise",
       "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 196001,
       "name": "Best Behaviour",
       "url": "https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y"
@@ -1148,6 +1148,24 @@
       "duration_ms": 181546,
       "name": "Blood's on fire",
       "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
+    },
+    {
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/3jrN8ziKFO4HJtPMR7LO8x"
+      },
+      "artists": [
+        {
+          "name": "The Comfort",
+          "url": "https://open.spotify.com/artist/4AdKPbj3YEx5r1vfB63R4q"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/4VyaJRl6zj6W2hudf4aOGs"
     },
     {
       "album": {
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 151258,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/0vz451SVtbqq5zDh4lrNwh"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 152613,
       "name": "CRUISING TO SELF SOOTHE",
       "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
@@ -3201,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "MILK POOL",
+        "url": "https://open.spotify.com/album/1sqrGpru6fJKJuxwjvq39g"
+      },
+      "artists": [
+        {
+          "name": "Merpire",
+          "url": "https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "Fishing",
+      "url": "https://open.spotify.com/track/7hJMu7eyNwJT2I4V1S5MRl"
+    },
+    {
+      "album": {
         "name": "FISHSACK",
         "url": "https://open.spotify.com/album/1tLCiV9OJr0pcfXGLttBQ2"
       },
@@ -3486,6 +3522,24 @@
       "duration_ms": 141376,
       "name": "Full Speed",
       "url": "https://open.spotify.com/track/0edD2NzrbKXHmPsHtKTnyS"
+    },
+    {
+      "album": {
+        "name": "Further Down The Rabbit Hole",
+        "url": "https://open.spotify.com/album/3U0bxk9PIzZx36RKM7opat"
+      },
+      "artists": [
+        {
+          "name": "My Daydreams",
+          "url": "https://open.spotify.com/artist/4kfoJpKzwg6pHb02BizOKi"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347660,
+      "name": "Further Down The Rabbit Hole",
+      "url": "https://open.spotify.com/track/2oHvyzD1O6JV3dLOnZwcGy"
     },
     {
       "album": {
@@ -4794,7 +4848,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 247000,
       "name": "It'll Be Alright",
       "url": "https://open.spotify.com/track/4NiF4UWVMH9Vd1Lx7ek92I"
@@ -4996,6 +5050,24 @@
       "duration_ms": 171630,
       "name": "Kickstarter",
       "url": "https://open.spotify.com/track/4nUp3Nkh8hpNUhWjyM8wA1"
+    },
+    {
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/2QKLHy2s2eBknCfU3sC28j"
+      },
+      "artists": [
+        {
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253576,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6hRenyTQSnZznOEV1XVuc6"
     },
     {
       "album": {
@@ -6488,7 +6560,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 252797,
       "name": "Okay",
       "url": "https://open.spotify.com/track/53jseg1bVFh9zoFiAXybMS"
@@ -7828,7 +7900,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 186601,
       "name": "Running on Empty",
       "url": "https://open.spotify.com/track/1XJddwWxCyDLfddell0G06"
@@ -8037,6 +8109,24 @@
     },
     {
       "album": {
+        "name": "Seven Lonely Days",
+        "url": "https://open.spotify.com/album/5LYhaojcAUdSYE4kctw9oX"
+      },
+      "artists": [
+        {
+          "name": "Death by Denim",
+          "url": "https://open.spotify.com/artist/1OXpN0Unpw1Xrpws4tIpUF"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196602,
+      "name": "Seven Lonely Days",
+      "url": "https://open.spotify.com/track/7ih07AxV0yWeX1WvdptEUT"
+    },
+    {
+      "album": {
         "name": "Seven Years",
         "url": "https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P"
       },
@@ -8084,7 +8174,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 201316,
       "name": "Share You",
       "url": "https://open.spotify.com/track/7ulE16PJt58DKhD1qRUKv1"
@@ -8217,6 +8307,24 @@
     },
     {
       "album": {
+        "name": "shirt song",
+        "url": "https://open.spotify.com/album/1bwySi6XTR537IThrVMXte"
+      },
+      "artists": [
+        {
+          "name": "GRXCE",
+          "url": "https://open.spotify.com/artist/1g9G7BRh9Fz6AZ0PA8Y8pl"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234620,
+      "name": "shirt song",
+      "url": "https://open.spotify.com/track/3yWoCwNI5OKuSJGMXjaRWO"
+    },
+    {
+      "album": {
         "name": "Shut You Out",
         "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
       },
@@ -8300,7 +8408,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 161653,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/3GsST4fMqsmm8BUzf5sHBa"
@@ -8686,6 +8794,24 @@
       "duration_ms": 158006,
       "name": "Spain",
       "url": "https://open.spotify.com/track/4xKk9AP1wEbK9N5WmScRMK"
+    },
+    {
+      "album": {
+        "name": "The Terrys",
+        "url": "https://open.spotify.com/album/68b5a3uX42PXw7Dpv5yGsl"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155298,
+      "name": "Spezial",
+      "url": "https://open.spotify.com/track/0Co5koTVt517q1N5J9BNiM"
     },
     {
       "album": {
@@ -9190,7 +9316,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 193600,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/6EnabkzZAFPB7kooHTvaS7"
@@ -9399,6 +9525,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/79f8StqbfMfyB21Hwgr1vb"
+      },
+      "artists": [
+        {
+          "name": "lefty",
+          "url": "https://open.spotify.com/artist/7gkTrwRr6RPlDI26SUChFC"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229073,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4NMcMaJ4BnALsGIiM3RHJn"
+    },
+    {
+      "album": {
         "name": "Tell Me When to Break",
         "url": "https://open.spotify.com/album/0ebHo0mIM0CaT1c3GnkDxZ"
       },
@@ -9468,6 +9612,24 @@
       "duration_ms": 171303,
       "name": "The Ants",
       "url": "https://open.spotify.com/track/0HK3HtEmnidY5r13CyZf1x"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/6eJTGE9ERT9wvWg8HZhZ7a"
+      },
+      "artists": [
+        {
+          "name": "Porpoise Spit",
+          "url": "https://open.spotify.com/artist/6WGOUJ693ivV5Dfkb9Ld4c"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263435,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/6FTChvJuNl0PN4hPgeH0F0"
     },
     {
       "album": {

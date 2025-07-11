@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Mark Natama
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Tripov
 
-130 songs - 7 hr 53 min
+133 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Kembali](https://open.spotify.com/track/76yvmHDxe0lISOmgDsDV3X) | [Christo Edgar](https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Kembali](https://open.spotify.com/album/3iO4HlncpgrtG0VFvoSxKp) | 2:51 | 2025-05-22 |  |
 | [Kembali](https://open.spotify.com/track/6h2lCqV5ewEUZrZ0YrYlFO) | [Rezo Mesah](https://open.spotify.com/artist/128s9ZuaXrvQ7DjwRn4kpU) | [Kembali](https://open.spotify.com/album/3QlLunPGsRXTsgxJqtMiJ3) | 2:10 | 2025-06-12 |  |
 | [Kembali Masa Lalu](https://open.spotify.com/track/3c4MPWhrFieS1yBONSsZ5v) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3), [Radinal](https://open.spotify.com/artist/3LCQli4pQCvLWw72Z9Y7gC) | [Kembali Masa Lalu](https://open.spotify.com/album/1e8S6A30RdxsRjySznTpGb) | 3:06 | 2024-10-03 | 2025-05-02 |
+| [Kiss Me Through the Phone](https://open.spotify.com/track/6PrVvWP4SDaKOMweP5PKMt) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Kiss Me Through the Phone](https://open.spotify.com/album/3HhUAxZKzNOjTyTxc5zvzk) | 3:08 | 2025-07-10 |  |
 | [Ku Tak Bisa](https://open.spotify.com/track/2K9g1BHo6ILnSotpjqEnhd) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Ku Tak Bisa](https://open.spotify.com/album/0Fto9zAm9zcvIaceOHMFP9) | 2:54 | 2024-12-20 |  |
 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 | 2025-01-09 |  |
 | [Labuan Hati](https://open.spotify.com/track/0ic1OT8aHvTpDU71X5MXfP) | [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Labuan Hati](https://open.spotify.com/album/6N8etUnE4H5VTFdAtDAOaU) | 3:56 | 2024-11-21 |  |
@@ -80,6 +81,7 @@
 | [Melepaskanmu](https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Melepaskanmu](https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz) | 4:10 | 2024-10-03 |  |
 | [Merindu](https://open.spotify.com/track/1yaH4YIzZre7gjREX18dxD) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Romansa](https://open.spotify.com/album/65KdItMclPJytUzzNuI8eJ) | 3:18 | 2025-05-08 |  |
 | [Miliki Aku](https://open.spotify.com/track/6oe0zbMjH8rQAbQQUjVZ0u) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Miliki Aku](https://open.spotify.com/album/3OFKmugE12oDluNxHELmry) | 3:11 | 2025-02-06 |  |
+| [More Than](https://open.spotify.com/track/0GXBlgsie2IjuhNOoJFE5H) | [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [More Than](https://open.spotify.com/album/68Ur2E6rm3KMSmPPpUi9Qn) | 4:13 | 2025-07-10 |  |
 | [My Bad](https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [CTRL+N](https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc) | 3:09 | 2025-06-12 |  |
 | [NONA](https://open.spotify.com/track/0PcA63FVAapebTvMoqHf2R) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A) | [NONA](https://open.spotify.com/album/44v4gUnWzb9N6qyzI3ou6V) | 2:08 | 2025-04-16 |  |
 | [Nuansa Biru](https://open.spotify.com/track/30ITGq0XWFoa8lq7vCThBO) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Nuansa Biru](https://open.spotify.com/album/75SF4HGHWxSx6tBc9T8fde) | 3:35 | 2025-04-24 |  |
@@ -118,6 +120,7 @@
 | [Someday Somewhere Someplace Somehow](https://open.spotify.com/track/5iW3qqHG5YUOA2cM2Aw23h) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Someday Somewhere Someplace Somehow](https://open.spotify.com/album/5RkP7eRvPKleO6u6GHbrAP) | 4:22 | 2024-10-03 |  |
 | [Something New \(feat\. Afgan\)](https://open.spotify.com/track/3lZXsYZgaXodwSALy5cR6B) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Something New](https://open.spotify.com/album/5Lu8ASQ4x4b4u9yQCDreAb) | 2:38 | 2025-05-29 |  |
 | [Soulless Blues](https://open.spotify.com/track/1p5SEMVpbUdQtvFMEqjTTt) | [Arya Novanda](https://open.spotify.com/artist/7bQ37VC8fmdF36yIIOVIlc), [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Soulless Blues](https://open.spotify.com/album/6Cmj3kEEH6TXtFt3lcCVy5) | 4:40 | 2025-06-26 |  |
+| [Sour Candy](https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Sour Candy](https://open.spotify.com/album/6AST0741qWPUcJAr2HfsCp) | 3:24 | 2025-07-10 |  |
 | [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 | 2025-05-30 |
 | [Status Palsu](https://open.spotify.com/track/2Q0glA9LEusp3MlGl26VNS) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [status palsu](https://open.spotify.com/album/5WQQrEyQu8ylwVuWPojX5v) | 3:58 | 2024-10-03 |  |
 | [Sujud](https://open.spotify.com/track/6W6ouayFyOk3ugWzMzs0jK) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Sujud](https://open.spotify.com/album/0485ThYj1iYy1yGaa0oUm6) | 3:33 | 2025-02-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 170216,
+  "num_followers": 170259,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "La Fiesta de la Forma",
+        "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Falsete",
+          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Mi Chica",
+      "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Levantate Sakuraba",
         "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 253600,
       "name": "No vuelvo m\u00e1s",
       "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "La Fiesta de la Forma",
-        "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Falsete",
-          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Mi Chica",
-      "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
     },
     {
       "added_at": "2023-09-01 16:42:45",

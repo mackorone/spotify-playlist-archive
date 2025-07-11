@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia: Sayf, Emma Nolde, Marte, Glocky, camoufly e Carla Hero.",
+  "description": "Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia: Sayf, Emma Nolde, Glocky, camoufly, Carla Hero e Marte (in cover).",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -86,6 +86,28 @@
       "duration_ms": 110454,
       "name": "30\u00b0 ALL'OMBRA",
       "url": "https://open.spotify.com/track/1Bdy8e8p3vaf3Kr6F97Ai3"
+    },
+    {
+      "album": {
+        "name": "NEW SKIN",
+        "url": "https://open.spotify.com/album/34cWNhZY4Z8OWtlNoXAbm2"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "Yazida",
+          "url": "https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161196,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/6WbD3aKWfbOQNsrShunW6o"
     },
     {
       "album": {
@@ -1344,6 +1366,24 @@
       "duration_ms": 197453,
       "name": "GIRASOLE",
       "url": "https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw"
+    },
+    {
+      "album": {
+        "name": "GI\u00d9 DA ME",
+        "url": "https://open.spotify.com/album/7djKPOv1ZCuFubOjudHqjr"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115800,
+      "name": "GI\u00d9 DA ME",
+      "url": "https://open.spotify.com/track/4OMdFWA9yLk8zHq6gwnSY6"
     },
     {
       "album": {
@@ -3164,6 +3204,24 @@
       "duration_ms": 173936,
       "name": "Sbronza",
       "url": "https://open.spotify.com/track/13O6v6qGF3GI60fKpFkJIU"
+    },
+    {
+      "album": {
+        "name": "SCUSE",
+        "url": "https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124033,
+      "name": "SCUSE",
+      "url": "https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G"
     },
     {
       "album": {

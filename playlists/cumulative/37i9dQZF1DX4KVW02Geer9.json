@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Norah Jones, John Legend",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Kokoroko",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 261863,
       "name": "A Still Mind",
       "url": "https://open.spotify.com/track/6AzXs7iGxnFZb22nfgkf9u"
@@ -335,6 +335,28 @@
     },
     {
       "album": {
+        "name": "All Time (feat. Tawiah)",
+        "url": "https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Tawiah",
+          "url": "https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "All Time (feat. Tawiah)",
+      "url": "https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br"
+    },
+    {
+      "album": {
         "name": "Another New Day (Little Big Beat Studio Live Session)",
         "url": "https://open.spotify.com/album/1iuHc23tYWYLRbEagV6WfW"
       },
@@ -394,6 +416,32 @@
       "duration_ms": 130563,
       "name": "Answer to Remember Theme",
       "url": "https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7"
+    },
+    {
+      "album": {
+        "name": "Dom Salvador JID024",
+        "url": "https://open.spotify.com/album/6uFBKSXZAJTDcYODdkMqum"
+      },
+      "artists": [
+        {
+          "name": "Dom Salvador",
+          "url": "https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246379,
+      "name": "As Esta\u00e7\u014des",
+      "url": "https://open.spotify.com/track/7xifzp3yYwKS9vr3hErSwX"
     },
     {
       "album": {
@@ -546,6 +594,24 @@
       "duration_ms": 288683,
       "name": "Be Like Snow",
       "url": "https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw"
+    },
+    {
+      "album": {
+        "name": "Belly Of The Beast",
+        "url": "https://open.spotify.com/album/0uj4yuLfpb983l8uwgT5h4"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155455,
+      "name": "Belly Of The Beast",
+      "url": "https://open.spotify.com/track/2Z5wZj94gz4c2s9gBNfFFv"
     },
     {
       "album": {
@@ -750,7 +816,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 188571,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/0fZdRKVQJnaH9lnmsSCZ81"
@@ -1483,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Tuff Times Never Last",
+        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228385,
+      "name": "Da Du Dah",
+      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
+    },
+    {
+      "album": {
         "name": "Halfway Somewhere",
         "url": "https://open.spotify.com/album/0dZQ5a3iDoioa5wYeSc04E"
       },
@@ -1618,6 +1702,28 @@
       "duration_ms": 182680,
       "name": "Desert Belly",
       "url": "https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc"
+    },
+    {
+      "album": {
+        "name": "Devil on My Shoulder",
+        "url": "https://open.spotify.com/album/3HOjv8CesEL6OEjqFM2iRh"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        },
+        {
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Devil on My Shoulder",
+      "url": "https://open.spotify.com/track/7b6RROT1hFXVPbRpp1AOY9"
     },
     {
       "album": {
@@ -1868,6 +1974,40 @@
       "duration_ms": 220221,
       "name": "Endless Gray",
       "url": "https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9"
+    },
+    {
+      "album": {
+        "name": "Everything That Isn\u2019t",
+        "url": "https://open.spotify.com/album/152HIZKJspSoDCqZfqglop"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        },
+        {
+          "name": "Ben Williams",
+          "url": "https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV"
+        },
+        {
+          "name": "Gene Coye",
+          "url": "https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253685,
+      "name": "Everything That Isn\u2019t",
+      "url": "https://open.spotify.com/track/3lgI03Ylx19zL2TLjDJbBf"
     },
     {
       "album": {
@@ -2844,7 +2984,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 303274,
       "name": "Imaginary Magnitude",
       "url": "https://open.spotify.com/track/329J9HAKX1HXzg7qiUtE6f"
@@ -2944,7 +3084,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 295783,
       "name": "Isolado",
       "url": "https://open.spotify.com/track/6WgEiSVlBR64Vyxvao2GWv"
@@ -3424,7 +3564,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 317789,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
@@ -3798,6 +3938,32 @@
       "duration_ms": 239480,
       "name": "Magic (feat. Emily King)",
       "url": "https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg"
+    },
+    {
+      "album": {
+        "name": "MAGIC DANCE",
+        "url": "https://open.spotify.com/album/0Jj6mJVhOOKTLFVEeCyjqZ"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Michael League",
+          "url": "https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216265,
+      "name": "MAGIC DANCE",
+      "url": "https://open.spotify.com/track/5JbX3yCeWW9xcdExxG2lCG"
     },
     {
       "album": {
@@ -4507,6 +4673,28 @@
     },
     {
       "album": {
+        "name": "NOD YORC (feat. James Maddren)",
+        "url": "https://open.spotify.com/album/5g3r747VexI56BdgzoyQi2"
+      },
+      "artists": [
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        },
+        {
+          "name": "James Maddren",
+          "url": "https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341629,
+      "name": "NOD YORC (feat. James Maddren)",
+      "url": "https://open.spotify.com/track/3Iev06PYajWQzH4CMQE78z"
+    },
+    {
+      "album": {
         "name": "Nothing Much",
         "url": "https://open.spotify.com/album/2WGQ4kDAjeqZze2a2LzFTz"
       },
@@ -4592,6 +4780,24 @@
       "duration_ms": 266035,
       "name": "obsession",
       "url": "https://open.spotify.com/track/2sbXCzEskFPka5D80ZKzbG"
+    },
+    {
+      "album": {
+        "name": "Off-the-cuff",
+        "url": "https://open.spotify.com/album/09g2LMDN0QntOdKzsaCWld"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u702c\u60a0\u8f14",
+          "url": "https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384743,
+      "name": "Off-the-cuff",
+      "url": "https://open.spotify.com/track/5X6T29oDYziZKe59d62wRy"
     },
     {
       "album": {
@@ -4942,7 +5148,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 300312,
       "name": "Plastic Gold",
       "url": "https://open.spotify.com/track/29kz8GF3MV3jgC5elnCrXa"
@@ -5048,7 +5254,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 164874,
       "name": "Quest",
       "url": "https://open.spotify.com/track/3zxJ6XarODJny9sO3UBmL5"
@@ -5092,6 +5298,24 @@
       "duration_ms": 250769,
       "name": "RASTA PASTA (ft. Masego)",
       "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
+    },
+    {
+      "album": {
+        "name": "REBIRTH OF SLICK (COOL LIKE DAT)",
+        "url": "https://open.spotify.com/album/6AZsAsjSYahsVDKGMcgiYN"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184902,
+      "name": "REBIRTH OF SLICK (COOL LIKE DAT)",
+      "url": "https://open.spotify.com/track/2mcw3TBOZLMJ5DveyfcA3k"
     },
     {
       "album": {
@@ -5872,7 +6096,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 218902,
       "name": "Take a Tour",
       "url": "https://open.spotify.com/track/3iDdo0fRpgjRnBAZqu9kgi"
@@ -6080,7 +6304,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 403747,
       "name": "The Toro",
       "url": "https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S"
@@ -6542,7 +6766,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 383631,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"

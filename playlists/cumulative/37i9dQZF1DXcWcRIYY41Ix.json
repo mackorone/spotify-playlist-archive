@@ -3187,6 +3187,24 @@
     },
     {
       "album": {
+        "name": "Con lo buenos que somos y lo mal que nos va",
+        "url": "https://open.spotify.com/album/7wlCb8gGlQcQqzrfdZrhBQ"
+      },
+      "artists": [
+        {
+          "name": "Javier Molina",
+          "url": "https://open.spotify.com/artist/6QerZcRKdE9KcAi34FeYj3"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Con lo buenos que somos y lo mal que nos va",
+      "url": "https://open.spotify.com/track/2CfH7zmeekTN7yPiRRwwWc"
+    },
+    {
+      "album": {
         "name": "Condenada",
         "url": "https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d"
       },
@@ -12072,7 +12090,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 139944,
       "name": "Porcelana",
       "url": "https://open.spotify.com/track/4C3H915bzmnmU2cNmF0Wtw"

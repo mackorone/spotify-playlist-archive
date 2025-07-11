@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 207186,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 150750,
       "name": "Nihilist",
       "url": "https://open.spotify.com/track/6CmiNk8xgFGonzQYr6dPFU"
@@ -3774,6 +3774,24 @@
     {
       "album": {
         "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212201,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
         "url": "https://open.spotify.com/album/2S6aowhjHKwLC1x564lC0O"
       },
       "artists": [
@@ -4294,6 +4312,24 @@
       "duration_ms": 135013,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt"
+    },
+    {
+      "album": {
+        "name": "Vinyle",
+        "url": "https://open.spotify.com/album/7zKq0eBazgkWFC3vV7L0gu"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Vinyle",
+      "url": "https://open.spotify.com/track/63YoTNZTVXMeiVw8s7fd2V"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > a rave for the soft\-hearted, the overthinkers, and the ones still feeling everything\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,922 likes - 26 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,909 likes - 26 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

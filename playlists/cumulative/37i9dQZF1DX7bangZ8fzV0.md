@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Refentse
+> Net die beste Afrikaanse musiek! Omslag: JAN JAN JAN
 
 314 songs - 17 hr 21 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: JERGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,479 likes - 109 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,525 likes - 109 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

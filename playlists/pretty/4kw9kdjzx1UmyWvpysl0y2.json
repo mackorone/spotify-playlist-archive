@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125205,
+  "num_followers": 125202,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUUCHjSsWGc1B+WEsMkkZ8xd0djHQF",
+  "snapshot_id": "AAAUUmCo4MRP4Bwr3DTIY/6L9vfklMKO",
   "tracks": [
+    {
+      "added_at": "2025-07-10 17:35:23",
+      "album": {
+        "name": "Crashout",
+        "url": "https://open.spotify.com/album/6WMccOsTUBD5MjR5GOBLu6"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 197812,
+      "name": "Crashout",
+      "url": "https://open.spotify.com/track/1H3PyvVjT4NmwJMgzI3jbr"
+    },
     {
       "added_at": "2025-07-09 16:36:35",
       "album": {
@@ -1135,22 +1151,6 @@
       "duration_ms": 152275,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3lInjgjlce124YrDUc3obI"
-    },
-    {
-      "added_at": "2025-04-18 17:06:52",
-      "album": {
-        "name": "Moments In Everglow",
-        "url": "https://open.spotify.com/album/1VpvvVrZ7EzVL2o0cDvW1l"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 264137,
-      "name": "Turning Point",
-      "url": "https://open.spotify.com/track/4Yu2BqFkpx9WCUZFeXkM7e"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

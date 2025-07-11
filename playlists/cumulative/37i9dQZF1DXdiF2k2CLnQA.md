@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-325 songs - 20 hr 34 min
+329 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 | 2024-06-27 | 2024-09-20 |
 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-13 | 2024-10-11 |
 | [Could You Be It](https://open.spotify.com/track/3iNAn7V2xM1242vErb3oNq) | [The Baboon Show](https://open.spotify.com/artist/7Fh1k3NlvVj1Oj6kpfQf9f) | [Forward in Reverse](https://open.spotify.com/album/1c0JvU0krcDuhyEj7hsYoJ) | 2:54 | 2025-02-13 |  |
-| [Creatures of Chaos](https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Creatures of Chaos](https://open.spotify.com/album/417069DxvdXoov1vxICCNs) | 3:19 | 2025-03-27 |  |
+| [Creatures of Chaos](https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Creatures of Chaos](https://open.spotify.com/album/417069DxvdXoov1vxICCNs) | 3:19 | 2025-03-27 | 2025-07-11 |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-06-27 | 2024-09-20 |
 | [Dangerous](https://open.spotify.com/track/6WDvC93R0bGzD5Ffj4pyAG) | [Shiraz Lane](https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk) | [Dangerous](https://open.spotify.com/album/5B8rnYeNabOrYzzOByEWjU) | 3:01 | 2025-02-27 |  |
 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 | 2025-04-24 |  |
@@ -169,6 +169,7 @@
 | [Ladies Of The Fight](https://open.spotify.com/track/1JtafYgKoyS7ifGy0IGIdi) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Ladies Of The Fight](https://open.spotify.com/album/0OKOwnbNf6hEy7e6Nozm3L) | 2:39 | 2024-06-27 | 2024-09-20 |
 | [Lazerlove](https://open.spotify.com/track/7rMAh5pNlYmkNGn1kTByol) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Lazerlove](https://open.spotify.com/album/68JPnjiLgcObumeXhtlZ9W) | 4:18 | 2024-06-27 | 2024-08-02 |
 | [Leave A Mark](https://open.spotify.com/track/6SztZEsKAomuZDLAHXcZHV) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Leave A Mark](https://open.spotify.com/album/7MruLUGiVz8AoQIk33Q1Qr) | 5:21 | 2024-11-14 | 2024-12-13 |
+| [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 | 2025-07-10 |  |
 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-15 | 2025-05-23 |
 | [Liars & Thieves](https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Liars & Thieves](https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv) | 4:20 | 2024-10-17 | 2024-12-06 |
 | [Light As a Feather](https://open.spotify.com/track/1jDU5Runo5URHe48jMMlgJ) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP), [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Light as a Feather](https://open.spotify.com/album/32Fd1rVoH1MKhdlUZ4KoaO) | 3:58 | 2025-04-11 |  |
@@ -181,6 +182,7 @@
 | [Loneliness](https://open.spotify.com/track/20nsiZn8teC5v8V5j2g8Bz) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0), [Christopher Kristensen](https://open.spotify.com/artist/4teR8K3TE71fbNw61zAoSu) | [Destroy The Art](https://open.spotify.com/album/3BW1HCaGQ9QM5d5P5VqWnq) | 2:59 | 2024-10-24 | 2025-01-17 |
 | [look at me](https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [look at me](https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker) | 1:30 | 2024-06-27 | 2024-08-30 |
 | [Lost in Control](https://open.spotify.com/track/3kzE24PAzUyM0b4OuW9MC6) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Lost in Control](https://open.spotify.com/album/2VGLanSqv0EwSkMMidYZd8) | 3:04 | 2024-06-27 | 2024-10-25 |
+| [Love Is A Bitch](https://open.spotify.com/track/7drNu9ZOy7mAyrmsdw48NG) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Love Is A Bitch](https://open.spotify.com/album/3LD7s8xmRhUJxAm29WLwHL) | 2:47 | 2025-07-10 |  |
 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-24 | 2025-05-23 |
 | [Lullaby](https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Lullaby](https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC) | 4:03 | 2024-08-22 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-27 | 2024-08-02 |
@@ -196,6 +198,7 @@
 | [Mind Of The Swarm](https://open.spotify.com/track/3tGIM3bObyZcqmyqsDHrWy) | [Dreamcall](https://open.spotify.com/artist/3a62EzBK7sjGhVtPOIs4r4) | [Mind Of The Swarm](https://open.spotify.com/album/2urmmNd2LEEpgurt7VfWYS) | 3:58 | 2024-08-22 | 2024-09-20 |
 | [More](https://open.spotify.com/track/3oQijSJAzZsR90SfW4tQBm) | [Ida Maria](https://open.spotify.com/artist/2MCUVoI9J8LEqtHvf3X5ln) | [More](https://open.spotify.com/album/3ujjv9SEtIifVo2EDAY8FY) | 2:48 | 2025-03-27 |  |
 | [Murder in Red](https://open.spotify.com/track/6mIJJBuErDdVgyezVWcbFO) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Murder in Red](https://open.spotify.com/album/3CCweTlV8Hq7uqMiVjMHRn) | 4:49 | 2024-10-03 | 2025-04-12 |
+| [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-10 |  |
 | [Naked](https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Naked](https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH) | 3:43 | 2025-05-08 |  |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-06 | 2025-03-07 |
 | [Northern Lights](https://open.spotify.com/track/4bcMfLHLMv7tzOMKCzzhJg) | [We Are the Catalyst](https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw) | [Northern Lights](https://open.spotify.com/album/1kBVmJtBPe2mSmrLHzyx4C) | 2:42 | 2024-06-27 | 2024-11-08 |
@@ -208,7 +211,7 @@
 | [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 | 2025-01-09 |  |
 | [Overdrive](https://open.spotify.com/track/3txPM4gTomDS4W74QjQJGb) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dopamine](https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu) | 2:26 | 2024-06-27 | 2024-09-07 |
 | [Pain In Every Way](https://open.spotify.com/track/7MhqFkmXyoGWLMSS0Zoc2W) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Pain In Every Way](https://open.spotify.com/album/2V5tlQoEflZEopXoFYLGnH) | 3:32 | 2024-06-27 | 2024-08-02 |
-| [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 | 2025-06-19 |  |
+| [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 | 2025-06-19 | 2025-07-11 |
 | [Paloma](https://open.spotify.com/track/3s9Hi8xoJKsd3VDRnPxOZi) | [The Night Flight Orchestra](https://open.spotify.com/artist/6xPOeIDWmM9ooOw7SBknMl) | [Give Us The Moon](https://open.spotify.com/album/20AtqMaAxXaiCFxeq2XDpV) | 5:05 | 2025-01-31 |  |
 | [Paper Tiger](https://open.spotify.com/track/4jJw1XWe4hq0UIOQkUeGLz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Paper Tiger](https://open.spotify.com/album/1IC5YSNaOSsHPqNPeoYtLm) | 3:56 | 2025-02-06 | 2025-03-28 |
 | [Paradise](https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Paradise](https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ) | 3:00 | 2025-04-24 | 2025-05-30 |
@@ -300,6 +303,7 @@
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 |  |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 | 2025-02-14 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2025-01-10 |
+| [Unbreakable](https://open.spotify.com/track/2aCDSwEeyqRbTI0iaroTWZ) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Unbreakable](https://open.spotify.com/album/3akqEprag6eKeObpB2iB44) | 4:49 | 2025-07-10 |  |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-03-28 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-27 |  |

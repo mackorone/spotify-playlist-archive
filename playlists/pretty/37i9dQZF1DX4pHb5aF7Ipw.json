@@ -1,15 +1,59 @@
 {
-  "description": "Fresh Punjabi Hip-Hop Tracks by Jerry, Wazir Patar, Tarsem Jassar  and more! ",
-  "num_followers": 43882,
+  "description": "Fresh Punjabi Hip-Hop Tracks by Chinna, Cheema Y,  Harkirat Sangha and more! ",
+  "num_followers": 43904,
   "original_name": "New Rap Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdvpgAAAADkJWSaCfsuBx3YitVlAOrs",
+  "snapshot_id": "aHAMDwAAAABLJ3X8/1ao1V8P3onNzMG2",
   "tracks": [
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i"
+      },
+      "artists": [
+        {
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw"
+        },
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Convo",
+      "url": "https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/1upZ0J1XNOfk4efImpsBHJ"
+      },
+      "artists": [
+        {
+          "name": "Harkirat Sangha",
+          "url": "https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "duration_ms": 107721,
+      "name": "SHUTDOWN",
+      "url": "https://open.spotify.com/track/34gGYbEJ8CxAZ4oy4t3FwE"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/06um4lMf63KYf6nj8p4MO8"
@@ -25,7 +69,131 @@
       "url": "https://open.spotify.com/track/3byHeGv0TzpXmTNQmyKPLB"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "On Point",
+        "url": "https://open.spotify.com/album/0G0GUh5A2NgdcsYce85tBT"
+      },
+      "artists": [
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "On Point",
+      "url": "https://open.spotify.com/track/0vVByFRK4THSNqff1SS7rV"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1dfxLOqFWKKHeJZWFsbsB2"
+      },
+      "artists": [
+        {
+          "name": "Big Scene",
+          "url": "https://open.spotify.com/artist/27W0GoT0fL5RqmkozZ7aLo"
+        }
+      ],
+      "duration_ms": 130246,
+      "name": "Visionary",
+      "url": "https://open.spotify.com/track/6OCMFbRCNF42DArqEY3Ewj"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "Back Gear",
+        "url": "https://open.spotify.com/album/44T4r4694MWJGUSR0k5TU1"
+      },
+      "artists": [
+        {
+          "name": "Roop Bhullar",
+          "url": "https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        },
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Back Gear",
+      "url": "https://open.spotify.com/track/1W99sHmXKF7Gx1uwh4pOlt"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "Amigoo",
+        "url": "https://open.spotify.com/album/2mLRqeN1bSbRd1859oenLR"
+      },
+      "artists": [
+        {
+          "name": "Siippyy Gill",
+          "url": "https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Amigoo",
+      "url": "https://open.spotify.com/track/03IQHPU4i0TZr6g0SKESpU"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "Peak Jawani",
+        "url": "https://open.spotify.com/album/4xgG8icLZBRHkaJip5yLcp"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "Davi Singh",
+          "url": "https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Peak Jawani",
+      "url": "https://open.spotify.com/track/4FoITO1tdL9IT4j57jWIIr"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "9/5",
+        "url": "https://open.spotify.com/album/4dojf6umStgLEcNfubyVCr"
+      },
+      "artists": [
+        {
+          "name": "Riar Saab",
+          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "duration_ms": 104640,
+      "name": "9/5",
+      "url": "https://open.spotify.com/track/05Xvvlqd96CUc43lYjFe7c"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "4 Shots",
         "url": "https://open.spotify.com/album/495kTX0o0g6iLWqyaaT2Ot"
@@ -45,7 +213,27 @@
       "url": "https://open.spotify.com/track/0xMWUvHjyA2jcmPUt0f7E7"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/1upZ0J1XNOfk4efImpsBHJ"
+      },
+      "artists": [
+        {
+          "name": "Harkirat Sangha",
+          "url": "https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "duration_ms": 111818,
+      "name": "AMIRI",
+      "url": "https://open.spotify.com/track/6lxvTBkpd6AEvqoL7knFSM"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Zigana",
         "url": "https://open.spotify.com/album/31W9PXaT4ZgtHCINhKoLhN"
@@ -61,47 +249,31 @@
       "url": "https://open.spotify.com/track/2WUJZ1MxeBm5pSXBej6L2y"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
-        "name": "Gen-Z",
-        "url": "https://open.spotify.com/album/4YUtyODqnO8gXu8zgADbnS"
+        "name": "Sector 17",
+        "url": "https://open.spotify.com/album/048z7iRHr0G4qIiQ9yWigo"
       },
       "artists": [
         {
-          "name": "Varinder Brar",
-          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+          "name": "Navyaar",
+          "url": "https://open.spotify.com/artist/123otJRZEIBmJ1A2elFQDB"
         },
         {
-          "name": "Gill Saab Music",
-          "url": "https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Gen-Z",
-      "url": "https://open.spotify.com/track/0ZMVByrfaCZIFsFe04UPxO"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Let It Be",
-        "url": "https://open.spotify.com/album/1D16nQvnGsv6liSyMw9eN8"
-      },
-      "artists": [
-        {
-          "name": "Preit",
-          "url": "https://open.spotify.com/artist/2Pl6cRKp8FqWNDVQ4L2zwC"
+          "name": "JP47",
+          "url": "https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw"
         },
         {
-          "name": "Perfecto",
-          "url": "https://open.spotify.com/artist/3DmYc1JLNpW8rg9xjVuhfY"
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
         }
       ],
-      "duration_ms": 132113,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/6Lcp8WqnjwDKMUGvAvB8Lq"
+      "duration_ms": 128575,
+      "name": "Sector 17",
+      "url": "https://open.spotify.com/track/5nDhWSfgKH6liYo5Bf1PFG"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Shoes Off",
         "url": "https://open.spotify.com/album/3DdWTfPbTgtEiP95BDFctH"
@@ -125,31 +297,7 @@
       "url": "https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Scars To Stars",
-        "url": "https://open.spotify.com/album/2GHkgfjjrUM9X2du12hC8x"
-      },
-      "artists": [
-        {
-          "name": "Vicky Dhillon",
-          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
-        },
-        {
-          "name": "Sukh Bohanwala",
-          "url": "https://open.spotify.com/artist/2tVAyhV9tSFiSgYOBxnUhL"
-        },
-        {
-          "name": "Acid",
-          "url": "https://open.spotify.com/artist/1xEOhnps7IjqOQwOzk3qKB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3DCpJ4ItY62i4UoNcpAsko"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/4aTDCllLClADNAXO3Ifd6h"
@@ -173,7 +321,51 @@
       "url": "https://open.spotify.com/track/5ZYdnrx8FCqb1Yt7xGfgck"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "Gen-Z",
+        "url": "https://open.spotify.com/album/4YUtyODqnO8gXu8zgADbnS"
+      },
+      "artists": [
+        {
+          "name": "Varinder Brar",
+          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        },
+        {
+          "name": "Gill Saab Music",
+          "url": "https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Gen-Z",
+      "url": "https://open.spotify.com/track/0ZMVByrfaCZIFsFe04UPxO"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "Scars To Stars",
+        "url": "https://open.spotify.com/album/2GHkgfjjrUM9X2du12hC8x"
+      },
+      "artists": [
+        {
+          "name": "Vicky Dhillon",
+          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        },
+        {
+          "name": "Sukh Bohanwala",
+          "url": "https://open.spotify.com/artist/2tVAyhV9tSFiSgYOBxnUhL"
+        },
+        {
+          "name": "Acid",
+          "url": "https://open.spotify.com/artist/1xEOhnps7IjqOQwOzk3qKB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3DCpJ4ItY62i4UoNcpAsko"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Defender",
         "url": "https://open.spotify.com/album/2t7GYKilGPmRbCfwYrZGxS"
@@ -197,7 +389,7 @@
       "url": "https://open.spotify.com/track/437V4XGufH1ihlR6RpBlCY"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "4 Shots",
         "url": "https://open.spotify.com/album/4vnsOWih1SSzGA2V4t7F2m"
@@ -217,7 +409,7 @@
       "url": "https://open.spotify.com/track/7o3bBa578WzjQJXJ4bpDDt"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Akh Gabru Di",
         "url": "https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c"
@@ -241,31 +433,7 @@
       "url": "https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Sayonara",
-        "url": "https://open.spotify.com/album/7FkE4Wt6Yy5n6AJn3NsPJc"
-      },
-      "artists": [
-        {
-          "name": "Harkirat Sangha",
-          "url": "https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT"
-        },
-        {
-          "name": "Bohemia",
-          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
-        },
-        {
-          "name": "Starboy X",
-          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Sayonara",
-      "url": "https://open.spotify.com/track/7kMYTJc8FcBUxyVuSXeXe0"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/06um4lMf63KYf6nj8p4MO8"
@@ -281,7 +449,7 @@
       "url": "https://open.spotify.com/track/1DfnN5DuxC927Gwh6W3Ob1"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Fumble",
         "url": "https://open.spotify.com/album/2Wa2KTVyuTqEBazhjqVuEP"
@@ -301,7 +469,7 @@
       "url": "https://open.spotify.com/track/2WHxYYgqy4kqiOstQaEiOP"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Moose Print",
         "url": "https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k"
@@ -321,7 +489,7 @@
       "url": "https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/6tvfZI3koCDc5ECLo7bywU"
@@ -341,7 +509,7 @@
       "url": "https://open.spotify.com/track/0ppRBoz6074o1QhCaQb3uI"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "A To Z",
         "url": "https://open.spotify.com/album/3xftNb9XmCz6uLTN5CwhPA"
@@ -361,7 +529,7 @@
       "url": "https://open.spotify.com/track/2FockdBcn1bP5TffQyk2Vz"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/06um4lMf63KYf6nj8p4MO8"
@@ -381,7 +549,7 @@
       "url": "https://open.spotify.com/track/6xEewSrrRraxjTS2q30MtY"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "4 Shots",
         "url": "https://open.spotify.com/album/4vnsOWih1SSzGA2V4t7F2m"
@@ -401,7 +569,7 @@
       "url": "https://open.spotify.com/track/4yaToqPoefBHLBcMu8yguq"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Rap God",
         "url": "https://open.spotify.com/album/7BRIUafUOwCwNt5ERXFkVV"
@@ -425,7 +593,7 @@
       "url": "https://open.spotify.com/track/36sd9BeG4hnpJp44HzdC77"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Aitbaar",
         "url": "https://open.spotify.com/album/1htnh54RnvUv0sGU9f7Xd0"
@@ -445,7 +613,7 @@
       "url": "https://open.spotify.com/track/77xXkrWVEVbB08YH4c1Phx"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Full Support",
         "url": "https://open.spotify.com/album/7IAQIWAU27dytr4Q5fRq18"
@@ -469,7 +637,7 @@
       "url": "https://open.spotify.com/track/6BmUXNUpTNsr2FswP8jMN2"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Rags To Riches",
         "url": "https://open.spotify.com/album/1T3HGW7XQolnKCxjHxGnZl"
@@ -489,7 +657,7 @@
       "url": "https://open.spotify.com/track/2nz1xuIvnnBty3ldBrVDa3"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Goli Gatta",
         "url": "https://open.spotify.com/album/0YHz8ruV0lN8ta8ahc1hwu"
@@ -509,7 +677,7 @@
       "url": "https://open.spotify.com/track/4UiXwT3n0N68cPNy0X770X"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "GLORY DAYS",
         "url": "https://open.spotify.com/album/0qwSOYvVYfZPZXJtQtU0oG"
@@ -525,7 +693,7 @@
       "url": "https://open.spotify.com/track/2mAqJ7AGC4A0mGEku3lm8M"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Rap God",
         "url": "https://open.spotify.com/album/7BRIUafUOwCwNt5ERXFkVV"
@@ -549,7 +717,7 @@
       "url": "https://open.spotify.com/track/070cBDikZavnOAjFFmbx07"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/06um4lMf63KYf6nj8p4MO8"
@@ -565,7 +733,7 @@
       "url": "https://open.spotify.com/track/6lyJnK6rRbNwyqENc08V0z"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Majha Talks",
         "url": "https://open.spotify.com/album/00nzZj3x410YIdx5T1yB8X"
@@ -585,7 +753,7 @@
       "url": "https://open.spotify.com/track/3qPnZEqVPsCiTyhJEVGgkA"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Hot Head",
         "url": "https://open.spotify.com/album/7ogIDwQecuOAYlWN9GcqIm"
@@ -601,7 +769,7 @@
       "url": "https://open.spotify.com/track/63GV8FzibpkCNNYu4uIY9H"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Twin Turbo (feat. JIIVAN)",
         "url": "https://open.spotify.com/album/3Jh0NmmhV86hE69XoEfc6D"
@@ -625,7 +793,7 @@
       "url": "https://open.spotify.com/track/2jvE2KbQ6yWhlvqFkkkZKA"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Rags To Riches",
         "url": "https://open.spotify.com/album/1T3HGW7XQolnKCxjHxGnZl"
@@ -649,7 +817,7 @@
       "url": "https://open.spotify.com/track/7akkqAGuRHUoHpulpClnDj"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Aar Ya Paar",
         "url": "https://open.spotify.com/album/586EQTFpH8IgibIzjJLNX8"
@@ -665,7 +833,7 @@
       "url": "https://open.spotify.com/track/6FR9OA3KA8TNVpM8oW1ALE"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/6Jc2oD0qxSJ30S3UkDCJlj"
@@ -685,7 +853,7 @@
       "url": "https://open.spotify.com/track/40ZPn5nqo2Hj15FDlY9hqM"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Real Ones",
         "url": "https://open.spotify.com/album/3re4K08WY9SEg4JOp2VhVr"
@@ -701,7 +869,7 @@
       "url": "https://open.spotify.com/track/6n9sQI0pYIkpI78uNIFJAz"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Ridekilla",
         "url": "https://open.spotify.com/album/4kMWJgf2wufIF2zhWuRAJU"
@@ -721,7 +889,7 @@
       "url": "https://open.spotify.com/track/3ij8OAI37NSJ2TvcFSRmkO"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Kala Daur (From \"Pind Peya Saara Jombieland Baneya\")",
         "url": "https://open.spotify.com/album/2sJ5bZ7w0Gp9uebzGpSVBY"
@@ -745,7 +913,7 @@
       "url": "https://open.spotify.com/track/4H5Qw1E27Qi3I6LHPCv1c8"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Trippin",
         "url": "https://open.spotify.com/album/2t97vBjTxTsPaJgS16quGd"
@@ -761,7 +929,7 @@
       "url": "https://open.spotify.com/track/1JbvsV3C5kbtmteAwAjH9Z"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "21.40",
         "url": "https://open.spotify.com/album/5KFS1SjWYx0LqDLiKl7Adr"
@@ -777,7 +945,7 @@
       "url": "https://open.spotify.com/track/3RxgyMMWqA1MbZhngped0o"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "What More",
         "url": "https://open.spotify.com/album/38KtBVEr4jlzUOATQbczDG"
@@ -801,23 +969,7 @@
       "url": "https://open.spotify.com/track/1ZbRkae2E0xC6JHFMKJYT5"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Likhari",
-        "url": "https://open.spotify.com/album/2Gx0RdoGldNNZay7WxRHmp"
-      },
-      "artists": [
-        {
-          "name": "Rvik",
-          "url": "https://open.spotify.com/artist/2xt1JAs9RwhPSGW7c1Fhaj"
-        }
-      ],
-      "duration_ms": 164848,
-      "name": "Likhari",
-      "url": "https://open.spotify.com/track/0EfRlBjMMawb3rzk1ZNmcy"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Moose Print",
         "url": "https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k"
@@ -837,7 +989,7 @@
       "url": "https://open.spotify.com/track/15a12ZgdElt3S3z9YzXFpz"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Rags To Riches",
         "url": "https://open.spotify.com/album/1T3HGW7XQolnKCxjHxGnZl"
@@ -861,7 +1013,7 @@
       "url": "https://open.spotify.com/track/1HwPgofuwQkDfMOi47gLHW"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "100 On Da Dash",
         "url": "https://open.spotify.com/album/5y6ExIOpmlBnuY4B0lZZqd"
@@ -881,7 +1033,7 @@
       "url": "https://open.spotify.com/track/6G6V4smTwepVRYiDpQ0wNL"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Black Benz",
         "url": "https://open.spotify.com/album/3KedA7QlHdO5XBFKBLczAu"
@@ -901,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3Wb5z8NbY3LRISfeLiJRsD"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Muchan Charda",
         "url": "https://open.spotify.com/album/5lDI7kQukZd6z6AJ7mGY83"
@@ -925,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0IXN5p3HxZeZq9XdnyGqDW"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/08QuCXacVOTXeUYoS1lW3l"
@@ -949,7 +1101,7 @@
       "url": "https://open.spotify.com/track/74z41eiWYzIwo9VIzmMtcx"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/4GZzTZcFZnlzW3fN4bfX0U"
@@ -969,7 +1121,7 @@
       "url": "https://open.spotify.com/track/5S8thAcMoQstRKEoInlCaA"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Tribute To Sidhu Moosewala",
         "url": "https://open.spotify.com/album/3cpUCRRlJzuOavueaCbLYk"
@@ -989,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5prDD6avsuqYIvhzGEK3Wd"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Downky",
         "url": "https://open.spotify.com/album/58AXDoWhFSQvzgw9LDhwjG"
@@ -1013,7 +1165,7 @@
       "url": "https://open.spotify.com/track/2XgrdUzlkjz9OXoJV08G6K"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Opulence",
         "url": "https://open.spotify.com/album/5dPpwuSkLQcLI5BWrHEBmI"
@@ -1029,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0giTvelU5V0NgTCIPXmCFb"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Bond of Majha",
         "url": "https://open.spotify.com/album/5bdD11ITM66GUG9HAK1LPk"
@@ -1053,7 +1205,7 @@
       "url": "https://open.spotify.com/track/7ijF8lTejQ2I0D4EwCNSLF"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Let's Create The Time",
         "url": "https://open.spotify.com/album/3NmTGpv5G7o6xV0y7xkY3b"
@@ -1077,7 +1229,7 @@
       "url": "https://open.spotify.com/track/6N36CAotAK2yNvYr0U9SQV"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Chaklu",
         "url": "https://open.spotify.com/album/3owZmRXLqQ67yGPUFuV46c"
@@ -1097,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2X1u1mozxlxjnigsNLkVC2"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Strong Enough",
         "url": "https://open.spotify.com/album/6sxRh5LkG9gk3cAnaaZjT6"
@@ -1117,7 +1269,7 @@
       "url": "https://open.spotify.com/track/6C4zDUv7NpDxmvyakCGnKf"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Jatt Baija",
         "url": "https://open.spotify.com/album/39yLES0QUenrGuTdCpBVMB"
@@ -1133,23 +1285,7 @@
       "url": "https://open.spotify.com/track/6pJMNJe5cgk5zXR2TwFbhA"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Jatt Rhymes",
-        "url": "https://open.spotify.com/album/4sYxGoT6WubyRBQprW8VVx"
-      },
-      "artists": [
-        {
-          "name": "Gur Inder",
-          "url": "https://open.spotify.com/artist/77xL9jcxpqhctJrFGlms6l"
-        }
-      ],
-      "duration_ms": 79200,
-      "name": "Jatt Rhymes",
-      "url": "https://open.spotify.com/track/4mdSuPoHK5muGVhUo2PHKV"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "NXTAPE Vol. 1",
         "url": "https://open.spotify.com/album/1zBTPKl3FJ8UTEAnBOwomQ"
@@ -1177,7 +1313,7 @@
       "url": "https://open.spotify.com/track/6eOgs8wD2bpVIe0z9mU5mF"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Scars and Stars",
         "url": "https://open.spotify.com/album/6l3x4E7f1YVXOeDqopcqMU"
@@ -1197,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1dd1nLtUSuHJP9KIhsSy3f"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "LMK",
         "url": "https://open.spotify.com/album/3w2HCnZtc8WVVmiNSresh6"
@@ -1221,7 +1357,7 @@
       "url": "https://open.spotify.com/track/005VuwsJ7nIkFtoZnRxehn"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Modern Street",
         "url": "https://open.spotify.com/album/2vOeEUIi2UpTVOBVNZ9iZQ"
@@ -1237,7 +1373,7 @@
       "url": "https://open.spotify.com/track/4KJJ0IE7gRhJ5slD6EPC88"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Supreme",
         "url": "https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs"
@@ -1253,7 +1389,7 @@
       "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Billo",
         "url": "https://open.spotify.com/album/08VgOPrVzaRbin1SEoymq9"
@@ -1269,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0vXyRaUmHmRtJexqGWwi2v"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "City Gangland (From \"Gangland\")",
         "url": "https://open.spotify.com/album/1lBMDME61dkqsSjxL2PHWo"
@@ -1289,7 +1425,23 @@
       "url": "https://open.spotify.com/track/6A6fk3sF7V8hBYqF8wMzNO"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
+      "album": {
+        "name": "Rab Rakha",
+        "url": "https://open.spotify.com/album/7gT7hDB1U8yFCKIcnn7CIZ"
+      },
+      "artists": [
+        {
+          "name": "Rav Dhaliwal",
+          "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Rab Rakha",
+      "url": "https://open.spotify.com/track/4SK3x4tswl9vrDk2GwqbD2"
+    },
+    {
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/0uGjudLAmJJxNagSSRpE2x"
@@ -1309,7 +1461,7 @@
       "url": "https://open.spotify.com/track/1eI1KtqC7hO3UB5CilnXGA"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "HIT LIST",
         "url": "https://open.spotify.com/album/5go4tm1zyhDdQAKBDi1mRo"
@@ -1337,7 +1489,7 @@
       "url": "https://open.spotify.com/track/17NugyNtDtZbGTW2hQNPOU"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "Hip Hop Death Game",
         "url": "https://open.spotify.com/album/4By4XbdTbYYEaUN18B3aoc"
@@ -1353,67 +1505,7 @@
       "url": "https://open.spotify.com/track/4VtTlQV25eXOE1ZISxn9j6"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Shut Down",
-        "url": "https://open.spotify.com/album/351Hd07iep66TLAss9PWTy"
-      },
-      "artists": [
-        {
-          "name": "Jass Manak",
-          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
-        },
-        {
-          "name": "Bling Singh",
-          "url": "https://open.spotify.com/artist/2iVVra3x9R6r9EhwmFpXWH"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/6RUgRlEd2SOZxwsUQV1EyH"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/6rckuST20EVrFRXUx66Xx5"
-      },
-      "artists": [
-        {
-          "name": "Real Boss",
-          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
-        },
-        {
-          "name": "Arvin Beatz",
-          "url": "https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Scammer",
-      "url": "https://open.spotify.com/track/5fmBSdibQGpS6gPgpeMWY5"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Guess Who's Back",
-        "url": "https://open.spotify.com/album/4auy2TO4XOOJR7JzWYrrP9"
-      },
-      "artists": [
-        {
-          "name": "Bob.B Randhawa",
-          "url": "https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC"
-        },
-        {
-          "name": "Inder D Last Level",
-          "url": "https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Guess Who's Back",
-      "url": "https://open.spotify.com/track/0iwnZ5y4p5zJKQrwIvmHBq"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "LIMITLESS",
         "url": "https://open.spotify.com/album/3QgOTlqB1nEnDGEqFLm7jx"
@@ -1429,31 +1521,7 @@
       "url": "https://open.spotify.com/track/6b6LTPZTE0vj4zzWZUqMGJ"
     },
     {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "FACE OFF",
-        "url": "https://open.spotify.com/album/4KDsmt9DK3uFdOxJoAFUjU"
-      },
-      "artists": [
-        {
-          "name": "Mani Longia",
-          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        },
-        {
-          "name": "Starboy X",
-          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
-        }
-      ],
-      "duration_ms": 151836,
-      "name": "FACE OFF",
-      "url": "https://open.spotify.com/track/7qkgvMJnsiRKal9xwUNY2u"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
+      "added_at": "2025-07-10 18:53:03",
       "album": {
         "name": "OG Talk (Kan Nu Ni Thand)",
         "url": "https://open.spotify.com/album/00lHbeoExBohsf6p4Br2wL"
@@ -1471,62 +1539,6 @@
       "duration_ms": 156624,
       "name": "OG Talk (Kan Nu Ni Thand)",
       "url": "https://open.spotify.com/track/0RweYmwt2S44N6IncS6YJz"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Rab Rakha",
-        "url": "https://open.spotify.com/album/7gT7hDB1U8yFCKIcnn7CIZ"
-      },
-      "artists": [
-        {
-          "name": "Rav Dhaliwal",
-          "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Rab Rakha",
-      "url": "https://open.spotify.com/track/4SK3x4tswl9vrDk2GwqbD2"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Teri Marzi",
-        "url": "https://open.spotify.com/album/3OZNIdXYCGmHquhpf87BeY"
-      },
-      "artists": [
-        {
-          "name": "Varinder Brar",
-          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
-        },
-        {
-          "name": "Rilo Beats",
-          "url": "https://open.spotify.com/artist/7n4VLorUOyUgOgOVMEoSAn"
-        }
-      ],
-      "duration_ms": 164475,
-      "name": "Teri Marzi",
-      "url": "https://open.spotify.com/track/0vIiQDidhqAkpoZtRJkLni"
-    },
-    {
-      "added_at": "2025-07-04 06:07:34",
-      "album": {
-        "name": "Prime Call",
-        "url": "https://open.spotify.com/album/4oHm3n7HC9mDfOFoHanegN"
-      },
-      "artists": [
-        {
-          "name": "Gagandeep Thamber",
-          "url": "https://open.spotify.com/artist/1jhApR7DwFXZNEXSy6Cq3E"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 159088,
-      "name": "Prime Call",
-      "url": "https://open.spotify.com/track/2eks9h0d4JOSjlxbEJDvqB"
     }
   ],
   "unique_name": "New Rap Punjabi",

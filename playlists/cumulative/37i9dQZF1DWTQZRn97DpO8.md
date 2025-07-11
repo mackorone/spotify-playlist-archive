@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯\. Photo : LYNN
+> 🍯🍯🍯\. Photo : Jäde
 
-395 songs - 19 hr 24 min
+396 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [AU COEUR DU MIEN](https://open.spotify.com/track/4DujAWwEGQ4FRY98rcyHff) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [AU COEUR DU MIEN](https://open.spotify.com/album/2jm5SpD0s0eNf3lDKC1fR6) | 3:09 | 2024-05-02 | 2025-04-04 |
 | [Au revoir](https://open.spotify.com/track/3TBAAz67w5f5Id5x9t5elT) | [Beverly Bardo](https://open.spotify.com/artist/2zy9CTdiQNRBLOJiyH5Zol) | [Au revoir](https://open.spotify.com/album/6xoii0ytMGopFpQ3c7wjFg) | 2:42 | 2025-03-06 | 2025-04-25 |
 | [Auprès de moi](https://open.spotify.com/track/3a9OCDaEgxew2f8cpiGrqV) | [Nëo](https://open.spotify.com/artist/05Q3ylpPvxuuk2ivriWAlr) | [Auprès de moi](https://open.spotify.com/album/6aZ9mKYeIekyk44BSvqYHN) | 2:15 | 2025-06-05 | 2025-06-27 |
+| [AURA](https://open.spotify.com/track/1VKr4Avn20dDno1n8Ke0iC) | [Äzy](https://open.spotify.com/artist/0R4YyWteFkDWFybhQyOeXF), [Shénésia](https://open.spotify.com/artist/4lFZHniQrR2V6tp4tKWe9c) | [FOGO, Vol\. 1](https://open.spotify.com/album/1WiT0bGDgB44AqAOLvseuI) | 2:34 | 2025-07-10 |  |
 | [autre gars](https://open.spotify.com/track/17vFvuLqk4VtwKWvdy2WXd) | [Alvin Amaïzo](https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh) | [autre gars](https://open.spotify.com/album/3qbcfuQ9hTN8xh2Uk1b3mh) | 3:08 | 2025-05-08 | 2025-05-30 |
 | [Avant la guerre](https://open.spotify.com/track/4RmPwMap5mUmZdqMlTbeXB) | [Baeredith](https://open.spotify.com/artist/11gmga2kStANeq9nBa2TMa) | [Avant la guerre](https://open.spotify.com/album/3wVvYLAwPgdgK0TBsbMETO) | 3:11 | 2025-05-22 | 2025-06-27 |
 | [AVANT\-GOÛT](https://open.spotify.com/track/3tTfPUZSVYLYl8ntO9cQM0) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [AVANT\-GOÛT](https://open.spotify.com/album/0zR9WyWiuEzRYsuLb949NV) | 3:10 | 2023-09-28 | 2023-11-10 |
@@ -245,7 +246,7 @@
 | [Mon Préféré](https://open.spotify.com/track/15upvdrNC3nypTlDkdSVa9) | [Erianne](https://open.spotify.com/artist/5IDv5kxCyUJSvIfwFqP77l) | [Mon Préféré](https://open.spotify.com/album/4SSGj9pROhYiXycc2uOIRB) | 2:42 | 2025-02-20 | 2025-03-21 |
 | [MONEY POUR TOI](https://open.spotify.com/track/1NJpAFTaghepCZWZmcZ3Pt) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [MONEY POUR TOI](https://open.spotify.com/album/59MlcMqjLWRdDyaBS38tu1) | 3:37 | 2024-10-24 | 2025-05-09 |
 | [Mortel](https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:47 | 2023-12-21 | 2024-02-16 |
-| [Mourir tout de suite](https://open.spotify.com/track/1UBQkrMNsTA5UVcWAVuCVa) | [Flo Malley](https://open.spotify.com/artist/30HRLwtkyjmXNwoUe0eDa5) | [21 grammes](https://open.spotify.com/album/2Q4ZgZxpSLV0BACyYyTXgE) | 2:52 | 2025-06-19 |  |
+| [Mourir tout de suite](https://open.spotify.com/track/1UBQkrMNsTA5UVcWAVuCVa) | [Flo Malley](https://open.spotify.com/artist/30HRLwtkyjmXNwoUe0eDa5) | [21 grammes](https://open.spotify.com/album/2Q4ZgZxpSLV0BACyYyTXgE) | 2:52 | 2025-06-19 | 2025-07-11 |
 | [Mr Goumin, chapitre 1](https://open.spotify.com/track/2ibEvb7mZwrPhRyrKNzrtV) | [Allan Zut](https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr) | [Mr Goumin, chapitre 1](https://open.spotify.com/album/4E0y80zFHg2FCFgbDWVTfP) | 1:53 | 2025-04-24 | 2025-05-23 |
 | [Mr Goumin, chapitre 2](https://open.spotify.com/track/6U9yTtXTGICDfhXcjCHLW3) | [Allan Zut](https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr) | [Mr Goumin, chapitre 2](https://open.spotify.com/album/5jjpNB8ygTNyhJ4hHU7arb) | 1:43 | 2025-05-22 | 2025-06-20 |
 | [Muhammad Ali](https://open.spotify.com/track/539h1V6DC3D0pBPLOXiwjD) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Avant l'album](https://open.spotify.com/album/4Vur0LCHpHpydQIpNBaF8k) | 2:52 | 2025-04-10 | 2025-04-25 |

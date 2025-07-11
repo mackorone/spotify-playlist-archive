@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 146673,
+  "num_followers": 146692,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGxfgAAAAACnOS05gRXgXEhUY7T9ipOK",
+  "snapshot_id": "aG2xAAAAAAAywzFYwqTnq0jVExPcenhi",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 313560,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brazilian Nights (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 281906,
       "name": "Heart And Soul - Live",
       "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 313560,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
     },
     {
       "added_at": null,

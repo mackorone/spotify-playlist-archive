@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Coeur maladroit\" de Marine est le Grand Hit de la semaine.",
+  "description": "\"Soleil Bleu\" de Bleu Soleil et LUIZA est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -1552,6 +1552,24 @@
       "duration_ms": 191200,
       "name": "Forts",
       "url": "https://open.spotify.com/track/5B6QmbcKgBgxH7hTbItDM8"
+    },
+    {
+      "album": {
+        "name": "Fou",
+        "url": "https://open.spotify.com/album/51tbf3pT4437nEvVA9T9dE"
+      },
+      "artists": [
+        {
+          "name": "Ulysse",
+          "url": "https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "Fou",
+      "url": "https://open.spotify.com/track/3k9ls5eHI51YbFcYTAKUfQ"
     },
     {
       "album": {
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Cachita, Gigi",
+  "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Eileen Alister",
   "name": "Swiss Made",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 182817,
       "name": "Ashes By The Morning",
       "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 215445,
       "name": "Balloons",
       "url": "https://open.spotify.com/track/1V47lbZfZhqeSHpj8I8rDU"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 182033,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 196929,
       "name": "cry no more",
       "url": "https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7"
@@ -2384,10 +2384,32 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 167701,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+    },
+    {
+      "album": {
+        "name": "Gold (feat. KOOLKID)",
+        "url": "https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "KOOLKID",
+          "url": "https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200617,
+      "name": "Gold (feat. KOOLKID)",
+      "url": "https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ"
     },
     {
       "album": {
@@ -4167,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Million de Mois",
+        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177376,
+      "name": "Million de Mois",
+      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
+    },
+    {
+      "album": {
         "name": "Minus das wo passiert",
         "url": "https://open.spotify.com/album/1KDawvzQeeyzJGnHU3fHOV"
       },
@@ -4724,6 +4764,24 @@
       "duration_ms": 219946,
       "name": "Pirdutu cori",
       "url": "https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8"
+    },
+    {
+      "album": {
+        "name": "Playing House",
+        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218193,
+      "name": "Playing House",
+      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
     },
     {
       "album": {
@@ -6115,6 +6173,24 @@
     },
     {
       "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU"
+      },
+      "artists": [
+        {
+          "name": "Anna Rossinelli",
+          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186801,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3"
+    },
+    {
+      "album": {
         "name": "torn",
         "url": "https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW"
       },
@@ -6231,6 +6307,24 @@
     },
     {
       "album": {
+        "name": "trop tard",
+        "url": "https://open.spotify.com/album/4Rhio8XlmhIDdq9CT1fehd"
+      },
+      "artists": [
+        {
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177788,
+      "name": "trop tard",
+      "url": "https://open.spotify.com/track/7FcgfdaESPyI7MVgItXpob"
+    },
+    {
+      "album": {
         "name": "Tr\u00e4umer",
         "url": "https://open.spotify.com/album/2yxljgT0voJDYx4vQUq7Hi"
       },
@@ -6260,7 +6354,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 164425,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
@@ -6444,6 +6538,24 @@
       "duration_ms": 194626,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT"
+    },
+    {
+      "album": {
+        "name": "Wanted To Know",
+        "url": "https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141312,
+      "name": "Wanted To Know",
+      "url": "https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R"
     },
     {
       "album": {

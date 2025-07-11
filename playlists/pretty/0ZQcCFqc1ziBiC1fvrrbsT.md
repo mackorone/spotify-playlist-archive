@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,403 likes - 21 songs - 1 hr 21 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,405 likes - 21 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 13 | [Bling](https://open.spotify.com/track/0pZFMLy6G55wUcKX7N1gLw) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 2:46 |
 | 14 | [You Wildflower](https://open.spotify.com/track/6k8BOF9z8d7yhMNtQLfAaV) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [You Wildflower](https://open.spotify.com/album/25FC9A6YPrFGFLHoKrg4Cc) | 3:34 |
 | 15 | [FIGHT SIMULATOR](https://open.spotify.com/track/5RmW9EQW1MR8vHrBDFdjiF) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [FIGHT SIMULATOR](https://open.spotify.com/album/0yBxj0k3FrIRQCCohO8TnP) | 4:57 |
-| 16 | [Se Sufre Pero Se Goza](https://open.spotify.com/track/34SzTZIqW62IcXfyOqy6dw) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip), [Brendan Murphy](https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE) | [Se Sufre Pero Se Goza](https://open.spotify.com/album/7pXnv8YtyTnedHLQX8iZL5) | 2:33 |
+| 16 | [Se Sufre Pero Se Goza](https://open.spotify.com/track/34SzTZIqW62IcXfyOqy6dw) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Se Sufre Pero Se Goza](https://open.spotify.com/album/7pXnv8YtyTnedHLQX8iZL5) | 2:33 |
 | 17 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 |
 | 18 | [Solitude](https://open.spotify.com/track/3GbREriqjOmlsncw6hBGOh) | [Oberbaum](https://open.spotify.com/artist/69jqRtUr0I5yEs1qS6YgfJ) | [Solitude](https://open.spotify.com/album/4kBy4Nm3fGKymg4eJ0Lfkz) | 2:59 |
 | 19 | [In Hollywood](https://open.spotify.com/track/3gNa4Xo1d3ScbrdsN7jNgi) | [The Besnard Lakes](https://open.spotify.com/artist/2hMif9QK1Knz7gD5XIUsER) | [In Hollywood](https://open.spotify.com/album/4mwAQEC4a2yKF2nILO6exP) | 4:36 |

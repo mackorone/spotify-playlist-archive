@@ -1,13 +1,573 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover:  Kyrus Artwork: Isu Kim\n",
-  "num_followers": 66794,
+  "description": "Fresh releases from your future favorite artists. Cover:  VVINK Artwork: Isu Kim\n",
+  "num_followers": 66820,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdOgQAAAAAxn7Thg3kPaB985F1rFY57",
+  "snapshot_id": "aG/jlgAAAABqBQ7MeniHXAbbj58OqxqJ",
   "tracks": [
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Tulala",
+        "url": "https://open.spotify.com/album/3ka5uNHtmufUj96APhPy7P"
+      },
+      "artists": [
+        {
+          "name": "VVINK",
+          "url": "https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Tulala",
+      "url": "https://open.spotify.com/track/1h4HjBPTY2crZXkfyh86EU"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Kung Babalik",
+        "url": "https://open.spotify.com/album/0uMTcIqhDwm9dEIOOYwCtN"
+      },
+      "artists": [
+        {
+          "name": "Midnight Rue",
+          "url": "https://open.spotify.com/artist/1vqe4V983mAkBbe4n16yVO"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Kung Babalik",
+      "url": "https://open.spotify.com/track/3BLelvkySR8M3VUOtZndDY"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "OH MATURITY",
+        "url": "https://open.spotify.com/album/0PNsjCkiZseMqD1ixBDD5C"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "OH MATURITY",
+      "url": "https://open.spotify.com/track/1za0aJyWsryXC8myeKFow0"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/4gp1MwWYUS4IIFCLLgPnCN"
+      },
+      "artists": [
+        {
+          "name": "Vince A",
+          "url": "https://open.spotify.com/artist/40uBLHfEZzC0kiTA2xuJK4"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 212687,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/6n7v4LxbY7NT7Rfoi4FwrR"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Tula",
+        "url": "https://open.spotify.com/album/18aFsIYXt5FlNiYbZSJc7k"
+      },
+      "artists": [
+        {
+          "name": "Crash",
+          "url": "https://open.spotify.com/artist/3LW1eQe3ffuPef1ChH9sPY"
+        }
+      ],
+      "duration_ms": 320364,
+      "name": "Tula",
+      "url": "https://open.spotify.com/track/7s8InEfb9qHTvnkm2bZFck"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "ENTER! SESH LORD MANSION",
+        "url": "https://open.spotify.com/album/3wTmETkmA6zRBkpZLI3OSa"
+      },
+      "artists": [
+        {
+          "name": "MIGUI B",
+          "url": "https://open.spotify.com/artist/3P8PkWwSgr0O96tKD8sKZH"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "SENTIMENTAL",
+      "url": "https://open.spotify.com/track/4vzishIRtp1A4qaO4XpB6m"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Sigurado",
+        "url": "https://open.spotify.com/album/1b1XFMMomuHdkVug2Ebj4O"
+      },
+      "artists": [
+        {
+          "name": "Comic's Trip",
+          "url": "https://open.spotify.com/artist/310zOlUDYa8Q9kLGhB0PSN"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Sigurado",
+      "url": "https://open.spotify.com/track/2cwAxRdcwYHVBZHooFmBaM"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Kulot!",
+        "url": "https://open.spotify.com/album/1ERGNG6LyUUsf3fpFSje3h"
+      },
+      "artists": [
+        {
+          "name": "Dino Santos",
+          "url": "https://open.spotify.com/artist/0OKuaRwk6gjqtgr8vBQzW3"
+        }
+      ],
+      "duration_ms": 276827,
+      "name": "Kulot!",
+      "url": "https://open.spotify.com/track/7o8tcwGNQSRAx1Q3Th8ikz"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "GOLDEN HOUR",
+        "url": "https://open.spotify.com/album/58DIUkGjtuAfH0L7Q1neV2"
+      },
+      "artists": [
+        {
+          "name": "Muri",
+          "url": "https://open.spotify.com/artist/5fNxwgRItvzRAAzFZCCoNj"
+        },
+        {
+          "name": "Shigge",
+          "url": "https://open.spotify.com/artist/7rZcAJNx9WPPw8ti31isbv"
+        }
+      ],
+      "duration_ms": 148258,
+      "name": "GOLDEN HOUR",
+      "url": "https://open.spotify.com/track/1KTliuwh9hHwdaBmIi2K1J"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Raw Vision EP",
+        "url": "https://open.spotify.com/album/44QcezxHCXcHd795BtcFNO"
+      },
+      "artists": [
+        {
+          "name": "Ronald S",
+          "url": "https://open.spotify.com/artist/0dGY9sXZpqUnoQrl23gLBm"
+        },
+        {
+          "name": "K-Lv",
+          "url": "https://open.spotify.com/artist/1wr7qGmInj8AOIJbeOG7qq"
+        },
+        {
+          "name": "Kairos Graphein",
+          "url": "https://open.spotify.com/artist/4BqQAHFHm1F9lalYKoAXaj"
+        }
+      ],
+      "duration_ms": 187098,
+      "name": "Westside Vibe",
+      "url": "https://open.spotify.com/track/05QRRehwa1Na77VwB5ymfu"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/0K2jrfY0R0AsSJp0dz214j"
+      },
+      "artists": [
+        {
+          "name": "Ben Figueroa",
+          "url": "https://open.spotify.com/artist/4lMS9CtL9o0qR00YqEASx2"
+        }
+      ],
+      "duration_ms": 232584,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/3lxNmkAFkROJMWDXSxjlFZ"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Pahinga Muna",
+        "url": "https://open.spotify.com/album/7uBoNC9i967edEbdxecArI"
+      },
+      "artists": [
+        {
+          "name": "Kincaidd",
+          "url": "https://open.spotify.com/artist/4JkGf9GWh6Xn3sRZ0cd7Cs"
+        }
+      ],
+      "duration_ms": 209784,
+      "name": "Pahinga Muna",
+      "url": "https://open.spotify.com/track/4wEURquiL0UKcC64Do8mAQ"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Still Think of You",
+        "url": "https://open.spotify.com/album/28SJscj88OC2EBwdA6PJxZ"
+      },
+      "artists": [
+        {
+          "name": "Mar Emanuel",
+          "url": "https://open.spotify.com/artist/2p8zdB6jWI7mO6oEfbRTJN"
+        }
+      ],
+      "duration_ms": 218807,
+      "name": "Still Think of You",
+      "url": "https://open.spotify.com/track/3LHKURC49HDU0g1HXI9qRs"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Umiibig Ako Sa Iyo",
+        "url": "https://open.spotify.com/album/4jt3WQWuxbe3ugPcxGbZIx"
+      },
+      "artists": [
+        {
+          "name": "Chichi",
+          "url": "https://open.spotify.com/artist/0c8j1b3wymOgXOWc6v3ED1"
+        }
+      ],
+      "duration_ms": 279013,
+      "name": "Umiibig Ako Sa Iyo",
+      "url": "https://open.spotify.com/track/62dJ0VWphiB80mFL4IN265"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "truthfully (i love you more than you love me)",
+        "url": "https://open.spotify.com/album/4uIFs8oYHXMFMKz3AKxzgc"
+      },
+      "artists": [
+        {
+          "name": "jiofu",
+          "url": "https://open.spotify.com/artist/5lJnyJ8eWVrgjPcTLZmmGU"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "truthfully (i love you more than you love me)",
+      "url": "https://open.spotify.com/track/27TE2KZx5XAvvcqXHGO2tt"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "down&out",
+        "url": "https://open.spotify.com/album/5F0UDmuB2Yt2iLJUvWk795"
+      },
+      "artists": [
+        {
+          "name": "junechi",
+          "url": "https://open.spotify.com/artist/5cmUKmvvNOeTPMN524dqIJ"
+        }
+      ],
+      "duration_ms": 203703,
+      "name": "down&out",
+      "url": "https://open.spotify.com/track/33oAtG2qeOQ8geLqsXMCPV"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Flyaway",
+        "url": "https://open.spotify.com/album/5LRMigK88T8WqEwbiTwpKz"
+      },
+      "artists": [
+        {
+          "name": "n_d_g",
+          "url": "https://open.spotify.com/artist/03nJFzQYJFQ7RdprHime47"
+        }
+      ],
+      "duration_ms": 184681,
+      "name": "Flyaway",
+      "url": "https://open.spotify.com/track/2U2MVAHHBtVS1vlMezKwme"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Damy\u00f4",
+        "url": "https://open.spotify.com/album/6QFmLtGn4BYIZxQ0hpxd3s"
+      },
+      "artists": [
+        {
+          "name": "Tamayak",
+          "url": "https://open.spotify.com/artist/5us6uhWFasdqux65evdTVW"
+        }
+      ],
+      "duration_ms": 232571,
+      "name": "Damy\u00f4",
+      "url": "https://open.spotify.com/track/6PLU2X9vaemM70bf6htR9k"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Hiraya",
+        "url": "https://open.spotify.com/album/5TMGPZwpT8Faa1yCxYV24C"
+      },
+      "artists": [
+        {
+          "name": "Bree",
+          "url": "https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4"
+        }
+      ],
+      "duration_ms": 180060,
+      "name": "Hiraya",
+      "url": "https://open.spotify.com/track/70jliQ2wv5ErbGgnif63xM"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/2FwZWXjkjYjybqOwHk7O0k"
+      },
+      "artists": [
+        {
+          "name": "RAFAYEL",
+          "url": "https://open.spotify.com/artist/10HlJ4RVnM7wF62asiq165"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "SAVAGE",
+      "url": "https://open.spotify.com/track/7kmbQMe7hH9c9wF9N7FXcb"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "windows down",
+        "url": "https://open.spotify.com/album/4H4H5BnjvNGe5KOthOcWeQ"
+      },
+      "artists": [
+        {
+          "name": "yvesta",
+          "url": "https://open.spotify.com/artist/5lIwOBF6kUZwGbbPsB6H1L"
+        }
+      ],
+      "duration_ms": 112427,
+      "name": "windows down",
+      "url": "https://open.spotify.com/track/1KYeLWWtc7HlGbkLST38R4"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "For U",
+        "url": "https://open.spotify.com/album/2a6SrF5DBOacwK4jfu3MZn"
+      },
+      "artists": [
+        {
+          "name": "maya",
+          "url": "https://open.spotify.com/artist/5B7xxHilhXaB1nfh4zNlvN"
+        }
+      ],
+      "duration_ms": 203479,
+      "name": "For U",
+      "url": "https://open.spotify.com/track/1SNqRGsRZ3knMK0GIKyBKE"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Missile",
+        "url": "https://open.spotify.com/album/0XPRcNsCbHPsD5P4zrAfFt"
+      },
+      "artists": [
+        {
+          "name": "Freshman",
+          "url": "https://open.spotify.com/artist/30oAWiU2CNhEQisRucq1z4"
+        },
+        {
+          "name": "yerroi",
+          "url": "https://open.spotify.com/artist/62fmNflL0KqDihP5IGy5Tu"
+        }
+      ],
+      "duration_ms": 138684,
+      "name": "Missile",
+      "url": "https://open.spotify.com/track/32rfbyT9JD67WRyqrGEd2Y"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "WALAG",
+        "url": "https://open.spotify.com/album/2ytM7PZUUEIWmrKXBB1ANZ"
+      },
+      "artists": [
+        {
+          "name": "Pinkbarney",
+          "url": "https://open.spotify.com/artist/2LXDeK2ugpMawkXuEiXFwo"
+        },
+        {
+          "name": "Rich Geng",
+          "url": "https://open.spotify.com/artist/2tGlFHw7er5hCDnjrtRbIH"
+        }
+      ],
+      "duration_ms": 170631,
+      "name": "WALAG",
+      "url": "https://open.spotify.com/track/60LsvLxdk6fYmBpdMFTQKd"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/6Lcn83J0aWagNotO6ND6s9"
+      },
+      "artists": [
+        {
+          "name": "Rxyge",
+          "url": "https://open.spotify.com/artist/5azIhcw0S78xR8AyM3gbJW"
+        },
+        {
+          "name": "Tatzkaye",
+          "url": "https://open.spotify.com/artist/6USh8AGJb2OAJ1R8cNkXw1"
+        }
+      ],
+      "duration_ms": 194185,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/32H6YbxmWouqy6y8qUX2ig"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "There's No Time",
+        "url": "https://open.spotify.com/album/4b6mq8Y6vWpY5CYlHBTxvx"
+      },
+      "artists": [
+        {
+          "name": "Ryan Madrid",
+          "url": "https://open.spotify.com/artist/3S9WuSIAumNRgIoxdp1hyv"
+        },
+        {
+          "name": "Bea Remollo",
+          "url": "https://open.spotify.com/artist/22osQ0e1jjGaPBeZfUBJfW"
+        }
+      ],
+      "duration_ms": 239538,
+      "name": "There's No Time",
+      "url": "https://open.spotify.com/track/1Brr6FE2aWBqBUOMdhfNw7"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1EmaGlWQMHKeLP3aPvAbP7"
+      },
+      "artists": [
+        {
+          "name": "Pope",
+          "url": "https://open.spotify.com/artist/7xxljbfxaRDs9wrcGQii1W"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/2k2BV30UIQMWreD7kmdrsb"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Kapyot's Puhon",
+        "url": "https://open.spotify.com/album/3jidI3HUmoP5gvwD9DrGJI"
+      },
+      "artists": [
+        {
+          "name": "Relden Campanilla",
+          "url": "https://open.spotify.com/artist/7Ly4NnAtrb39YQw5F6cnMU"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "Kapyot's Puhon",
+      "url": "https://open.spotify.com/track/34S5iFrTYarqeoj3URONNw"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "BANDO",
+        "url": "https://open.spotify.com/album/5SOeGb3T1dt342UCYR2DSZ"
+      },
+      "artists": [
+        {
+          "name": "NineFoe",
+          "url": "https://open.spotify.com/artist/1sh8HO1gMkNWA9aH28uDzA"
+        }
+      ],
+      "duration_ms": 116900,
+      "name": "BANDO",
+      "url": "https://open.spotify.com/track/37bZeTmyBGkkcd5UgnyhmR"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Sigurado",
+        "url": "https://open.spotify.com/album/4vDvWyxMGkszC6qvXG0HeZ"
+      },
+      "artists": [
+        {
+          "name": "John Arcenas",
+          "url": "https://open.spotify.com/artist/4rusWWRtyWsSU9JXe0qqU0"
+        }
+      ],
+      "duration_ms": 207398,
+      "name": "Sigurado",
+      "url": "https://open.spotify.com/track/35vVpxzUJP25Rkxk6PLD7A"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "ROUND ONE",
+        "url": "https://open.spotify.com/album/4hxAjWkXcJt5ntZDuIOEpM"
+      },
+      "artists": [
+        {
+          "name": "scarethecats",
+          "url": "https://open.spotify.com/artist/0niHNJAy3ympA4Jj8NAWdU"
+        }
+      ],
+      "duration_ms": 174291,
+      "name": "DEAD AIR",
+      "url": "https://open.spotify.com/track/2IdQ1mz8usLxwqvlhpAEkk"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Enemies to Lovers",
+        "url": "https://open.spotify.com/album/4Jy0xbRsLouAb4v9xPeVXV"
+      },
+      "artists": [
+        {
+          "name": "neytan",
+          "url": "https://open.spotify.com/artist/2SiPvwfKYm1TANEo8F0zyT"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Enemies to Lovers",
+      "url": "https://open.spotify.com/track/67AH98mH2k3aTec5HHSH4q"
+    },
+    {
+      "added_at": "2025-07-10 16:00:22",
+      "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/2X4atwsBy3o11y6WFC8vhn"
+      },
+      "artists": [
+        {
+          "name": "Kuatro Kantos",
+          "url": "https://open.spotify.com/artist/1mY1mIkR31fxNIJnMX60fC"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/4fU2Lv21YQdFswDRakwodk"
+    },
     {
       "added_at": "2025-07-04 03:46:09",
       "album": {
@@ -2863,106 +3423,6 @@
       "duration_ms": 191250,
       "name": "Sugilanon Sa Gugma",
       "url": "https://open.spotify.com/track/5KaBkoQ6mlhdI7pqylOyIZ"
-    },
-    {
-      "added_at": "2025-07-04 03:46:09",
-      "album": {
-        "name": "GF",
-        "url": "https://open.spotify.com/album/7ml4aUNQd5cwAJIc7Raw89"
-      },
-      "artists": [
-        {
-          "name": "Coloura",
-          "url": "https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3"
-        }
-      ],
-      "duration_ms": 198870,
-      "name": "GF",
-      "url": "https://open.spotify.com/track/7zjUEvHCRcDhObm5Y7OXZF"
-    },
-    {
-      "added_at": "2025-07-04 03:46:09",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/5SgEfLubHqInNd5bQO3nVE"
-      },
-      "artists": [
-        {
-          "name": "Krishnah Gravidez",
-          "url": "https://open.spotify.com/artist/07zsd76LIHK96rwVQkzx18"
-        }
-      ],
-      "duration_ms": 302769,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/0kNYNYQMcwaXIl6Wci7iG9"
-    },
-    {
-      "added_at": "2025-07-04 03:46:09",
-      "album": {
-        "name": "O\u2019 Kay Tamis",
-        "url": "https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE"
-      },
-      "artists": [
-        {
-          "name": "It All Started In May",
-          "url": "https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "O\u2019 Kay Tamis",
-      "url": "https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV"
-    },
-    {
-      "added_at": "2025-07-04 03:46:09",
-      "album": {
-        "name": "Gutom",
-        "url": "https://open.spotify.com/album/4RCPjfLQ6hrLhDC3AqFxAo"
-      },
-      "artists": [
-        {
-          "name": "Gem Largo",
-          "url": "https://open.spotify.com/artist/5yCfOWjEqPcrXCP2LyVkLr"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Gutom",
-      "url": "https://open.spotify.com/track/4RM6r2V2Bm7d7cx8aiGqQw"
-    },
-    {
-      "added_at": "2025-07-04 03:46:09",
-      "album": {
-        "name": "Sino?",
-        "url": "https://open.spotify.com/album/5ICGlZ4ZuGPl1uE0E3u1GJ"
-      },
-      "artists": [
-        {
-          "name": "Kidd Razcal",
-          "url": "https://open.spotify.com/artist/6B5QwkmVKCZISpuDNop83j"
-        },
-        {
-          "name": "GA Chillerong Ghetto",
-          "url": "https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al"
-        }
-      ],
-      "duration_ms": 238475,
-      "name": "Sino?",
-      "url": "https://open.spotify.com/track/42URq2DKptJsoFYKHuiLy8"
-    },
-    {
-      "added_at": "2025-07-04 03:46:09",
-      "album": {
-        "name": "ur cute and i got a little crush on u",
-        "url": "https://open.spotify.com/album/0OszgsylIgPG7cCGo1Ts7W"
-      },
-      "artists": [
-        {
-          "name": "Syljan Sison",
-          "url": "https://open.spotify.com/artist/7C2icqgCNpEeYJMgneIYDn"
-        }
-      ],
-      "duration_ms": 196791,
-      "name": "ur cute and i got a little crush on u",
-      "url": "https://open.spotify.com/track/42JeN8NXqKdIXetj4hg21u"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

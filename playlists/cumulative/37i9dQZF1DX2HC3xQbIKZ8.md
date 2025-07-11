@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time.
 
-201 songs - 12 hr 9 min
+203 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Cool it down](https://open.spotify.com/track/4v2Xrn82mfEgPR7lhwboLt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [COTERIE](https://open.spotify.com/album/3cPGB2HwcV2E8SBvNt3DO6) | 4:28 | 2023-11-28 | 2024-04-19 |
 | [Cool it down](https://open.spotify.com/track/7M6mvvrD10qyRzAEdpSATu) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Cool it down](https://open.spotify.com/album/43zWmYbRkvYr7Izv3XURNV) | 4:28 | 2024-03-21 | 2024-11-08 |
 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 | 2023-11-28 |  |
+| [DO TO ME](https://open.spotify.com/track/1H2RD2WJU5V0S36XDwEFjh) | [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp) | [DO TO ME](https://open.spotify.com/album/0fZbF7d631ut6reo9BbatQ) | 2:16 | 2025-07-10 |  |
 | [Do You](https://open.spotify.com/track/2gi58Vz6hLN4uMfNin38cG) | [NOFO!](https://open.spotify.com/artist/2GZfV0JiEIxrjtAIRhfhSm), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do You](https://open.spotify.com/album/4W6J91BwAVYh05KgONf572) | 3:41 | 2025-01-23 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/3mhDQtwc0Q2UhtH88HLWjK) | [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Don't Dream It's Over](https://open.spotify.com/album/6nITmdxiLPHQm2o6jI368U) | 3:42 | 2024-02-07 |  |
 | [Dream Girl](https://open.spotify.com/track/2jdG59yf3TGOcvy0CeGEEI) | [Velody Riddimz](https://open.spotify.com/artist/54jnJvJFKQtBhmIsBG1bQb), [LUFFS](https://open.spotify.com/artist/3iqQhJO3ADrKGntvDfrMLn) | [Dream Girl](https://open.spotify.com/album/36zA0AyU3bo8vckMKSYoG3) | 3:12 | 2023-11-28 |  |
@@ -148,6 +149,7 @@
 | [Real Love](https://open.spotify.com/track/5wnjCJsOdWNv0TZ1fjLPI3) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy), [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2) | [Real Love](https://open.spotify.com/album/1MYM7SK5Q6IbnDj09O1TNd) | 3:23 | 2023-11-28 | 2024-04-19 |
 | [Reflections](https://open.spotify.com/track/2rJ6TYcyJkzLfXLMcolQbk) | [Lost Tribe Aotearoa](https://open.spotify.com/artist/5x10mOUChQveAjluQr4UgT) | [Reflections](https://open.spotify.com/album/35okbFoxrLRQxewcIZFm1f) | 4:02 | 2024-03-21 |  |
 | [Reflections](https://open.spotify.com/track/5GqcirB8G9rh9EfPW7Fk3w) | [Lost Tribe Aotearoa](https://open.spotify.com/artist/5x10mOUChQveAjluQr4UgT) | [Reflections](https://open.spotify.com/album/3zSdaX8mXyWXHbULFkr0Vi) | 4:02 | 2023-11-28 | 2024-04-19 |
+| [Revolution](https://open.spotify.com/track/71xWoVAxURCBKfiLgxX1eT) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6), [Laughton Kora](https://open.spotify.com/artist/1mNFzsOx1WuGKnJrc0cuUM) | [Revolution](https://open.spotify.com/album/3CZCkBwRxvV9KpRg5UZEJi) | 2:42 | 2025-07-10 |  |
 | [Rewind](https://open.spotify.com/track/2RaD5S9RsfE7ejbvEa8Kwi) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui) | [Keepers of the Flame](https://open.spotify.com/album/48sBiiWcETqvuPAVhVCpYN) | 3:56 | 2023-11-28 |  |
 | [Rewind](https://open.spotify.com/track/5uqMY6WG2JqLZsRoaG1iMY) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui) | [Keepers of the Flame](https://open.spotify.com/album/4xoHtnUcBU8hxdloQAfeEj) | 3:56 | 2024-02-28 | 2024-04-19 |
 | [Rhythm of Resistance](https://open.spotify.com/track/7MzxvyJafDJT4jKWHlPBd8) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Rhythm of Resistance](https://open.spotify.com/album/4yo9rXcdQl0k21GRixwESf) | 3:29 | 2025-06-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,051 likes - 95 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,092 likes - 95 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 94 | [Silent Presence \(Binaural Alpha 93.7 Hz \- 85.7 Hz\)](https://open.spotify.com/track/5xm4YHlyEDmE6f37pGOY7p) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Silent Presence \(Binaural Alpha 93.7 Hz \- 85.7 Hz\)](https://open.spotify.com/album/3WB3uTSe525ePD2hnKO96I) | 4:06 |
 | 95 | [Adagio Alpha 105Hz \- 115Hz](https://open.spotify.com/track/3DOlYPzw4n17YiebOaWIdF) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Adagio Alpha 105Hz \- 115Hz](https://open.spotify.com/album/5bU15NPLGhunXm4IOnCYOr) | 2:40 |
 
-Snapshot ID: `aFFTbwAAAAAFLxxpL2SS9AEKtVraLfgR`
+Snapshot ID: `aG/PdgAAAAALCcGI4yUD0JhVO1lT5Jh5`

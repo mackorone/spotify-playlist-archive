@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Damso",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Dinos",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 166733,
       "name": "9538",
       "url": "https://open.spotify.com/track/0RW3umG0ceY1hqs4CvPAsW"
@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "Retrodrill vol.3",
+        "url": "https://open.spotify.com/album/4He2Y3ha9e5uaOnvj04Nhf"
+      },
+      "artists": [
+        {
+          "name": "STI",
+          "url": "https://open.spotify.com/artist/4XWx64t3h7r28YLQ89xpXI"
+        },
+        {
+          "name": "EDGE",
+          "url": "https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Avenue mac mahon",
+      "url": "https://open.spotify.com/track/2LeME1MB84cT5289E76vrH"
+    },
+    {
+      "album": {
         "name": "KONSIGLIERE!",
         "url": "https://open.spotify.com/album/7444gWdcL0cd1CH6wGKYln"
       },
@@ -672,7 +694,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 180853,
       "name": "BORD DE MER",
       "url": "https://open.spotify.com/track/1Txy4dU5fZa0GBkiROmaTz"
@@ -1880,7 +1902,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 232013,
       "name": "Hero",
       "url": "https://open.spotify.com/track/0PgsUc1BmxWwDptusFNqbz"
@@ -3043,6 +3065,32 @@
     },
     {
       "album": {
+        "name": "CHEVAL DE TROIE vol 1",
+        "url": "https://open.spotify.com/album/0pJ3dx9f4JJs9N1dqyep6h"
+      },
+      "artists": [
+        {
+          "name": "Yovo",
+          "url": "https://open.spotify.com/artist/4fAuopyFMCGVhStrYsvbev"
+        },
+        {
+          "name": "PAPI TeddyBear",
+          "url": "https://open.spotify.com/artist/5FlUQWvr6Iwcfz4NZOQOT9"
+        },
+        {
+          "name": "DIOGENES",
+          "url": "https://open.spotify.com/artist/48t2YjpsPcibI7QVTTMli2"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188374,
+      "name": "MAYBACH CIEL \u00c9TOIL\u00c9",
+      "url": "https://open.spotify.com/track/0EFn08LOiT5yDbX4mTUWV9"
+    },
+    {
+      "album": {
         "name": "ALGORITHME",
         "url": "https://open.spotify.com/album/1djaMtM4WdoNYNk6Se9zmi"
       },
@@ -3364,7 +3412,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 135319,
       "name": "ON FINIRA PAR",
       "url": "https://open.spotify.com/track/2OS4YGz9RaATlhXNxOExmg"
@@ -3960,6 +4008,28 @@
       "duration_ms": 294133,
       "name": "Retour dans les abysses",
       "url": "https://open.spotify.com/track/2mPlM83Qd04ImIUNx9A6sB"
+    },
+    {
+      "album": {
+        "name": "Rhodium, Vol.2",
+        "url": "https://open.spotify.com/album/5lhnhmHmEdnnL88ekHrFGU"
+      },
+      "artists": [
+        {
+          "name": "Tchiki'O",
+          "url": "https://open.spotify.com/artist/7neh9ofjSOEUjCF1m6s8nu"
+        },
+        {
+          "name": "HEMO",
+          "url": "https://open.spotify.com/artist/3hjk8GC36SyPEb8jXo3Y6T"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175278,
+      "name": "Rhodium, Vol.2",
+      "url": "https://open.spotify.com/track/2NAJz4KgZhkYHXbcwKUliQ"
     },
     {
       "album": {
@@ -4599,7 +4669,7 @@
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 141983,
+      "duration_ms": 141040,
       "name": "Woody Woodpecker",
       "url": "https://open.spotify.com/track/4eMyRkynS4MpjNjOFUoutS"
     },
@@ -4744,6 +4814,24 @@
       "duration_ms": 173368,
       "name": "\u00c9pilogue",
       "url": "https://open.spotify.com/track/5tU599kdSBhMkm4Xej5xdf"
+    },
+    {
+      "album": {
+        "name": "Parenth\u00e8se",
+        "url": "https://open.spotify.com/album/3nAXWrmxRN4Z669MoVoI4Z"
+      },
+      "artists": [
+        {
+          "name": "Hipo",
+          "url": "https://open.spotify.com/artist/6yfcoVGojS0XOgw8dVAb0R"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181945,
+      "name": "\u00c9toile",
+      "url": "https://open.spotify.com/track/0pgvw0Xfz8U3qqmgmWGY7H"
     },
     {
       "album": {

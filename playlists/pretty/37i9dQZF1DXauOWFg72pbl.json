@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 596581,
+  "num_followers": 596702,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2025-04-07 23:29:17",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2025-04-07 23:29:17",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "is",
-        "url": "https://open.spotify.com/album/6gcyvR5ngQwblVmrWeNaNe"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Half A Lifetime",
-      "url": "https://open.spotify.com/track/5q7pyfmxdW38oCGyL9wy5W"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "Dave's TV / Above Snakes",
         "url": "https://open.spotify.com/album/02dkv7ky8DsB4vhOHDcWv9"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 227423,
       "name": "Dave's TV",
       "url": "https://open.spotify.com/track/1pWWkiVNNMQaJ1gU0FWKRI"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "is",
+        "url": "https://open.spotify.com/album/6gcyvR5ngQwblVmrWeNaNe"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Half A Lifetime",
+      "url": "https://open.spotify.com/track/5q7pyfmxdW38oCGyL9wy5W"
     },
     {
       "added_at": "2025-04-07 23:29:17",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZBXDZawrbaM>warner case</a>, <a href=spotify:playlist:37i9dQZF1EIYuCac56fvlz>Dean Lewis</a>, <a href=spotify:playlist:37i9dQZF1EIXkO3D9zK5IA>Loyle Carner</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYwynPNGn96d>Brooksie</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIWKWgazEUiFG>Biig Piig</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 220401,
       "name": "Desoleil (Brilliant Corners)",
       "url": "https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg"
@@ -6556,7 +6556,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/1CcCntDuVJpjqkJhYGhuMw"
@@ -7750,6 +7750,24 @@
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+    },
+    {
+      "album": {
+        "name": "Not Into You",
+        "url": "https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX"
+      },
+      "artists": [
+        {
+          "name": "Brooksie",
+          "url": "https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Not Into You",
+      "url": "https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk"
     },
     {
       "album": {
@@ -9885,6 +9903,24 @@
     },
     {
       "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -10260,7 +10296,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj"
@@ -10336,7 +10372,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"

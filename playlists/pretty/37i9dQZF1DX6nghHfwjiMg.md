@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > El futuro está acá 📸 MARTTEIN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,765 likes - 33 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,763 likes - 33 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 27 | [No Me Digas Baby](https://open.spotify.com/track/6Jer7mLOeo0mc9M7hsYKkS) | [Agus Pérez](https://open.spotify.com/artist/1PkpdwuHkMCkb88qKnJHwC) | [Swing Moderno](https://open.spotify.com/album/7lHyD7aXIfXJZ7TT13Sm0j) | 2:35 |
 | 28 | [bebi](https://open.spotify.com/track/1XRkKzkhI6Fqba1wU3I9zy) | [Tiger Mood](https://open.spotify.com/artist/3HFKC76u3isQMK8Ahy4C5r) | [bebi](https://open.spotify.com/album/1wBuaE20muJdxwOLb7sMDT) | 2:49 |
 | 29 | [LATAS](https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [LATAS](https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat) | 2:36 |
-| 30 | [Acuerdo](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Acuerdo](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 |
+| 30 | [ACUERDO](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [ACUERDO](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 |
 | 31 | [En Algun Lugar + Ilusion](https://open.spotify.com/track/68wjnwZh4FcubkaeuaySGk) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [En Algun Lugar + Ilusion](https://open.spotify.com/album/3PfDRNGrL8QlNBX1o0u6mL) | 6:19 |
 | 32 | [MI CONDENA \(Live Session\)](https://open.spotify.com/track/101U0MqaCcRfZOppg3dtLF) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [Live Session Vol 1](https://open.spotify.com/album/1fbQrdbmFVRDMD6JTyTabO) | 2:31 |
 | 33 | [Sal](https://open.spotify.com/track/5cO2dWxOMIwUmYs8F7yavs) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Sal](https://open.spotify.com/album/66EpZUnzaaQl5UV8CBAg05) | 3:11 |

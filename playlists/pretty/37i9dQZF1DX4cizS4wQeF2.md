@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > love me, love me not ❤️❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,402 likes - 56 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,445 likes - 56 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

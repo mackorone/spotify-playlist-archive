@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Bernice West, Die Heuwels Fantasties, Elandr\u00e9, Rudo Schwim en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Tamlyn Wessels, Bernice West, Zaan Sonnekus, Anneli Van Rooyen en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -660,6 +660,24 @@
       "duration_ms": 215258,
       "name": "Aandklas",
       "url": "https://open.spotify.com/track/3eb1n1h41Y4SqQfU7z4th4"
+    },
+    {
+      "album": {
+        "name": "Aanhou",
+        "url": "https://open.spotify.com/album/5LMUaegcgiDEH8gSj4YJ3b"
+      },
+      "artists": [
+        {
+          "name": "Heidi",
+          "url": "https://open.spotify.com/artist/0tE22XnY1KpKng29BSLOJc"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209375,
+      "name": "Aanhou",
+      "url": "https://open.spotify.com/track/7sJEj3qt1MdDi0k559OYru"
     },
     {
       "album": {
@@ -6264,7 +6282,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 151520,
       "name": "Die Braaibroodjie Re\u00ebl - Lazarus King Remix",
       "url": "https://open.spotify.com/track/5kdHIUf56q0OHO1r5AxsAO"
@@ -6914,7 +6932,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 135442,
       "name": "Die Onse Vader",
       "url": "https://open.spotify.com/track/4E0Gj6YciQc1jW1b3gZAHL"
@@ -6954,7 +6972,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 135580,
       "name": "Die ou",
       "url": "https://open.spotify.com/track/03yO4FMddSFJ9YnGtJAxqF"
@@ -7728,7 +7746,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 187855,
       "name": "Dis My Jam",
       "url": "https://open.spotify.com/track/0tH3jToSEcCyN9UNXHsxuU"
@@ -8863,6 +8881,28 @@
     },
     {
       "album": {
+        "name": "Ek Glo (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/1zFAVTa92JgCdcAI1QuUUq"
+      },
+      "artists": [
+        {
+          "name": "Anneli Van Rooyen",
+          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204157,
+      "name": "Ek Glo - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/5D83zEIDbaDUnWMdfZZDWS"
+    },
+    {
+      "album": {
         "name": "Boer Bloed Loop Diep",
         "url": "https://open.spotify.com/album/7MjTJFEOTbslA5MnV7NNwo"
       },
@@ -8874,7 +8914,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 219196,
       "name": "Ek Hoor Die Roep van Huis",
       "url": "https://open.spotify.com/track/2mSyyQrajzrbj0VKa1FCZ9"
@@ -9792,7 +9832,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 167812,
       "name": "Energie",
       "url": "https://open.spotify.com/track/5HmXnJcxVO2V5gkJn7DY47"
@@ -10492,6 +10532,24 @@
       "duration_ms": 166948,
       "name": "Getroude Boude",
       "url": "https://open.spotify.com/track/6uLCYySr4QxglFTmhQOZJH"
+    },
+    {
+      "album": {
+        "name": "Geval Vir Jou",
+        "url": "https://open.spotify.com/album/0lFymqNOIWVUukMOqMEC1e"
+      },
+      "artists": [
+        {
+          "name": "ZAHN",
+          "url": "https://open.spotify.com/artist/6dScCtIGmJDcNlS7IpYT6m"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198848,
+      "name": "Geval Vir Jou",
+      "url": "https://open.spotify.com/track/1saoIuuPteXyUm7sNpNJjo"
     },
     {
       "album": {
@@ -11275,6 +11333,24 @@
     },
     {
       "album": {
+        "name": "Hanne",
+        "url": "https://open.spotify.com/album/3yYSpobeB5e5mdW8VA5bLj"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Baartman",
+          "url": "https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215338,
+      "name": "Hanne",
+      "url": "https://open.spotify.com/track/5zX9hvreDfjEkZ1Fq0YVPt"
+    },
+    {
+      "album": {
         "name": "Hanrie Visagie",
         "url": "https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc"
       },
@@ -11866,7 +11942,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 209686,
       "name": "Het Jou Nodig",
       "url": "https://open.spotify.com/track/6YlnBWBaQcDrz9BSVqgDa2"
@@ -14622,6 +14698,24 @@
       "duration_ms": 177999,
       "name": "Jy's My W\u00eareld",
       "url": "https://open.spotify.com/track/6Fva0Vc9CvLTUbU70QgGTA"
+    },
+    {
+      "album": {
+        "name": "Jy's Okay",
+        "url": "https://open.spotify.com/album/5Hq5wsyQeh0ZsaYBGfUZXp"
+      },
+      "artists": [
+        {
+          "name": "Dani Vill\u00e9",
+          "url": "https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185656,
+      "name": "Jy's Okay",
+      "url": "https://open.spotify.com/track/2pk4vw3MqZh0Le6TyAJOis"
     },
     {
       "album": {
@@ -18175,6 +18269,28 @@
     },
     {
       "album": {
+        "name": "Liefde Soos Die",
+        "url": "https://open.spotify.com/album/2dP8uuwEJAarcVf6JJmt6r"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        },
+        {
+          "name": "Brandon Miles",
+          "url": "https://open.spotify.com/artist/0Xl7arcMBlu0zYvLfCHo1Z"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "Liefde Soos Die",
+      "url": "https://open.spotify.com/track/4LlY46QHJBXVH4pDaVjw5z"
+    },
+    {
+      "album": {
         "name": "Liefde Soos \u2018n Lem",
         "url": "https://open.spotify.com/album/2fBmgC03VGqyOVxXdLtcHJ"
       },
@@ -19968,7 +20084,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 177794,
       "name": "Moes Maar Ek Moenie",
       "url": "https://open.spotify.com/track/17Sqz5allooXiGaO6VzxQU"
@@ -21698,6 +21814,24 @@
       "duration_ms": 175733,
       "name": "Nog Voor Ek Jou Geken Het",
       "url": "https://open.spotify.com/track/6eab0z3eElPHPa9cxcmXe7"
+    },
+    {
+      "album": {
+        "name": "Nommer Hou",
+        "url": "https://open.spotify.com/album/4M4W4MIDgja1IM0aK5u1Mj"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186241,
+      "name": "Nommer Hou",
+      "url": "https://open.spotify.com/track/57OTW0AVZzCVowuqFQyryQ"
     },
     {
       "album": {
@@ -24370,7 +24504,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 222250,
       "name": "Presley's",
       "url": "https://open.spotify.com/track/2PBsg0Va0bhtEamPh6T5Tb"
@@ -26115,6 +26249,24 @@
     },
     {
       "album": {
+        "name": "Singery",
+        "url": "https://open.spotify.com/album/2KojNnm4LZ3SZGhBhvzpY6"
+      },
+      "artists": [
+        {
+          "name": "Jacques Not Jack",
+          "url": "https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "Singery",
+      "url": "https://open.spotify.com/track/3emk1fYrGOlFBDTMEnzWpE"
+    },
+    {
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/4bPzVkaF7Zi0P0LVCbyNlq"
       },
@@ -26376,6 +26528,24 @@
       "duration_ms": 210272,
       "name": "Skoolgeld",
       "url": "https://open.spotify.com/track/6H7HQCZpBc5NTrBM3OsbWu"
+    },
+    {
+      "album": {
+        "name": "SKREE",
+        "url": "https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178737,
+      "name": "SKREE",
+      "url": "https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef"
     },
     {
       "album": {
@@ -29616,7 +29786,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 176421,
       "name": "Tevrede",
       "url": "https://open.spotify.com/track/51sRTrwrFheB2qZn5cRtnZ"
@@ -30818,7 +30988,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 212656,
       "name": "Vas Hou",
       "url": "https://open.spotify.com/track/6BEQ8syfRMRE5kf3eY7ogz"
@@ -31152,6 +31322,24 @@
       "duration_ms": 195000,
       "name": "Verbind",
       "url": "https://open.spotify.com/track/28aNZa1eXQPyEuXX7f8nrx"
+    },
+    {
+      "album": {
+        "name": "Verby",
+        "url": "https://open.spotify.com/album/3h2SQtMXSvfT9aZ1JJZf9K"
+      },
+      "artists": [
+        {
+          "name": "Cara Rossouw",
+          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246201,
+      "name": "Verby",
+      "url": "https://open.spotify.com/track/0AFu43OqBPv1p5OSAlLTHK"
     },
     {
       "album": {

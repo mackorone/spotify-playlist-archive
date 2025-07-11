@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  FADES.",
-  "num_followers": 20749,
+  "num_followers": 20753,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
+        "name": "Lunytunes",
+        "url": "https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v"
+      },
+      "artists": [
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        }
+      ],
+      "duration_ms": 155749,
+      "name": "Lunytunes",
+      "url": "https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
         "name": "El Destello",
         "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 160684,
       "name": "El Destello",
       "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
-        "name": "Lunytunes",
-        "url": "https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v"
-      },
-      "artists": [
-        {
-          "name": "La Zowi",
-          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
-        }
-      ],
-      "duration_ms": 155749,
-      "name": "Lunytunes",
-      "url": "https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr"
     },
     {
       "added_at": "2025-07-01 22:00:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        }
-      ],
-      "duration_ms": 151849,
-      "name": "Virgen de Magall\u00f3n",
-      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
         "name": "LL\u00c1MAME",
         "url": "https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 138428,
       "name": "LL\u00c1MAME",
       "url": "https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
     },
     {
       "added_at": "2025-07-01 22:00:27",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
-        "name": "Manual de Romer\u00eda",
-        "url": "https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Cuevas",
-          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
-        }
-      ],
-      "duration_ms": 201316,
-      "name": "ALL\u00c1 ARRIBITA",
-      "url": "https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
         "name": "TOTOSAKI",
         "url": "https://open.spotify.com/album/5Se7DmKuolG3YN4AE2MD4K"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 176484,
       "name": "MANIN",
       "url": "https://open.spotify.com/track/4yNI6PHSp0WBV5iJS4tAfj"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
+        "name": "Manual de Romer\u00eda",
+        "url": "https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        }
+      ],
+      "duration_ms": 201316,
+      "name": "ALL\u00c1 ARRIBITA",
+      "url": "https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm"
     },
     {
       "added_at": "2025-07-01 22:00:27",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
-        "name": "Flow deskiciada",
-        "url": "https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Flow deskiciada",
-      "url": "https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
         "name": "costa brava",
         "url": "https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 178125,
       "name": "costa brava",
       "url": "https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
+        "name": "Flow deskiciada",
+        "url": "https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Flow deskiciada",
+      "url": "https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp"
     },
     {
       "added_at": "2025-07-01 22:00:27",

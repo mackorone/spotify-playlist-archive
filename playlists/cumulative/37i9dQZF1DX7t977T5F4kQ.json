@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: RCEE",
+  "description": "The hottest and recent Ghana party starters. Cover: DopeNation",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 213333,
       "name": "360",
       "url": "https://open.spotify.com/track/7cg7TjskhPFRW2zwde1A2A"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 182000,
       "name": "Behind (with Joshua Baraka)",
       "url": "https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP"
@@ -1596,6 +1596,24 @@
       "duration_ms": 164306,
       "name": "Berima Nsu",
       "url": "https://open.spotify.com/track/40mekD2MNFTdijf7T7loG3"
+    },
+    {
+      "album": {
+        "name": "Between Me & God",
+        "url": "https://open.spotify.com/album/0LmPCWIUkfOhrZapWgxxrs"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165996,
+      "name": "Between Me & God",
+      "url": "https://open.spotify.com/track/3oTnwPeGh8W9eoWN54n5S9"
     },
     {
       "album": {
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 155555,
       "name": "Break It",
       "url": "https://open.spotify.com/track/5CfdyTuRzNFQyURSWFRBJZ"
@@ -4149,6 +4167,32 @@
     },
     {
       "album": {
+        "name": "Gymnastic",
+        "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210566,
+      "name": "Gymnastic",
+      "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/255TlgzhDs5gF0grRyW7Sl"
       },
@@ -5096,7 +5140,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 189960,
       "name": "KUROM",
       "url": "https://open.spotify.com/track/0muM9LFZb7nAB6ndby6GTo"
@@ -7041,6 +7085,32 @@
     },
     {
       "album": {
+        "name": "Ohema",
+        "url": "https://open.spotify.com/album/6tfqwDu7P2YN8yEhbHdJNx"
+      },
+      "artists": [
+        {
+          "name": "Dammy Krane",
+          "url": "https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc"
+        },
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Stoneboy",
+          "url": "https://open.spotify.com/artist/6vzEOR2Csip9oTBO9Glzs2"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158302,
+      "name": "Ohema",
+      "url": "https://open.spotify.com/track/52lNdkcISHUdXMIrQmtYv6"
+    },
+    {
+      "album": {
         "name": "Ohemaa",
         "url": "https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0"
       },
@@ -7158,6 +7228,24 @@
       "duration_ms": 173571,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/3oxqlnjK6GQ9zpVgck8HxA"
+    },
+    {
+      "album": {
+        "name": "Ghanapiano - The Album",
+        "url": "https://open.spotify.com/album/5keSaUEMkjNS9AtQp3gILB"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265881,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/0z955moZM2waA9ctq3Acxo"
     },
     {
       "album": {
@@ -9633,6 +9721,24 @@
     },
     {
       "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171247,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj"
+    },
+    {
+      "album": {
         "name": "PALMWINE DIARIES VOL.1",
         "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
       },
@@ -9924,7 +10030,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 163110,
       "name": "Wash",
       "url": "https://open.spotify.com/track/68oHERGzh4T91Po4WYjz2k"

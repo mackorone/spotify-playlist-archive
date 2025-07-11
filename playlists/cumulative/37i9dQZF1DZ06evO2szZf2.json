@@ -1595,6 +1595,32 @@
     },
     {
       "album": {
+        "name": "Mtg Ela \u00e9 Safadinha",
+        "url": "https://open.spotify.com/album/6pmZvLO3KiJT929RAchPin"
+      },
+      "artists": [
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120922,
+      "name": "Mtg Ela \u00e9 Safadinha",
+      "url": "https://open.spotify.com/track/3l6IAc7YXzKjLs9s5F8ejN"
+    },
+    {
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -2212,7 +2238,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 125769,
       "name": "Quer Sair Da Minha Vida, Pode Sair",
       "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"

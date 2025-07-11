@@ -4,7 +4,7 @@
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 攬佬SKAI ISYOURGOD
 
-213 songs - 13 hr 58 min
+214 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [嗵嗵](https://open.spotify.com/track/2XP3hbbZKRhrlSBf8POjuA) | [DOUDOU](https://open.spotify.com/artist/0ctojL7wBYi3YJ4mNWeXcC) | [嗵嗵](https://open.spotify.com/album/4N0gVumgPBUJ135KBrmQyM) | 4:23 | 2025-04-03 |  |
 | [囍帖街](https://open.spotify.com/track/4Bftk2JcO5Ul017BCmcBL4) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [Eason Chan Duo Concert 2010](https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62) | 4:27 | 2024-04-04 | 2025-04-04 |
 | [回留](https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:56 | 2025-04-03 |  |
+| [城市之丘](https://open.spotify.com/track/7puEiNigerxgSnCEhT0mRY) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我們就像那些要命的傻瓜](https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB) | 5:34 | 2025-07-10 |  |
 | [多少人](https://open.spotify.com/track/7cnqWJpFd6S9m4d3k9o0mX) | [David Lui](https://open.spotify.com/artist/6CexlJ1wj79N50NMxRBfUa) | [多少人](https://open.spotify.com/album/1Ad4LjykfjgGUsn5EsjXtK) | 4:28 | 2025-05-01 |  |
 | [夢伴](https://open.spotify.com/track/1CrRwZz4ODSKQhhUIuy27K) | [Shirley Kwan](https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63) | [All Time Favourites](https://open.spotify.com/album/0WpcnKMjK0ovshd1NLiJvp) | 3:26 | 2024-04-04 | 2025-04-04 |
 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:31 | 2025-07-03 |  |

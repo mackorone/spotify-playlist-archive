@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Souly",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: ",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -688,6 +688,24 @@
       "duration_ms": 132214,
       "name": "Backyard Body",
       "url": "https://open.spotify.com/track/1LdlloAKsamceZO7qDSfQS"
+    },
+    {
+      "album": {
+        "name": "Baddest in Germany",
+        "url": "https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140978,
+      "name": "Baddest in Germany",
+      "url": "https://open.spotify.com/track/68riJ0IgArc6va32ihh57s"
     },
     {
       "album": {
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 187010,
       "name": "Indoor Sport",
       "url": "https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk"
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 147922,
       "name": "Piccolo",
       "url": "https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0"
@@ -5335,6 +5353,24 @@
     },
     {
       "album": {
+        "name": "Playing House",
+        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218193,
+      "name": "Playing House",
+      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
+    },
+    {
+      "album": {
         "name": "pressure & release",
         "url": "https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU"
       },
@@ -5364,7 +5400,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 175615,
       "name": "Pretty Girl Thriller",
       "url": "https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn"
@@ -6442,6 +6478,28 @@
       "duration_ms": 131122,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
+    },
+    {
+      "album": {
+        "name": "Tennis Bracelet",
+        "url": "https://open.spotify.com/album/0Jy6YjC6L3BdWKU3GIKSKV"
+      },
+      "artists": [
+        {
+          "name": "Rebounder",
+          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+        },
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Tennis Bracelet",
+      "url": "https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: <a href=\"https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86?si=DNt-H4YdRWOHkgbSqPc8uA\">Funky Qla</a>,  <a href=\"https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI?si=bvNpLIATTGGSlgigr3MNOg\"> Sino Msolo</a>,  <a href=\"https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=jU_yzU8fSVyCOQh8AmVAeA\"> Sykes</a>, <a href=\"https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ?si=73zvFMQ5QRmRAxk0wCEhGw\"> Khaya Mthethwa</a> & <a href=\"https://open.spotify.com/artist/7N0xnS6vDJ7pfrbui6A0P0?si=kll9Fp58SVuB6x6hIQ6utA\">Angel Ndlela</a>",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: <a href=\"https://open.spotify.com/artist/4RYtjdGDorR1hFO3vjAdIO?si=fxLzEsNJTGWyQhpDnL_8sA\">Mbalenhle M</a>",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 432970,
       "name": "Agita\u00e7\u00e3o De Chakra",
       "url": "https://open.spotify.com/track/47ooDylz4J30lKWQ8FNz84"
@@ -46,7 +46,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 306829,
       "name": "Almaza",
       "url": "https://open.spotify.com/track/19rX0UU1oRCZ5hbqiwW5ZT"
@@ -134,7 +134,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 336689,
       "name": "Back To Afro - Remix",
       "url": "https://open.spotify.com/track/5y4Bydp9tcznKz1mUKNKEj"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 271007,
       "name": "Burned Without Fire",
       "url": "https://open.spotify.com/track/5ZxdmlkWqjcteNLBOIAZHK"
@@ -272,10 +272,36 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 286016,
       "name": "Bus To Kinshasa",
       "url": "https://open.spotify.com/track/11TUIAcR4FuqRJRyeS7zr3"
+    },
+    {
+      "album": {
+        "name": "Call Me Back",
+        "url": "https://open.spotify.com/album/72eRNypI05B8N9zqQeu20g"
+      },
+      "artists": [
+        {
+          "name": "SAMAHA (EG)",
+          "url": "https://open.spotify.com/artist/6OZynIWFMwfKw4DCtm7qjc"
+        },
+        {
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
+        },
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Call Me Back - Da Africa Deep and &friends Remix",
+      "url": "https://open.spotify.com/track/48Kd84CAyUkYIyDY6wCPao"
     },
     {
       "album": {
@@ -334,10 +360,28 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 206829,
       "name": "Contesto",
       "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
+    },
+    {
+      "album": {
+        "name": "The Rhythm of Life",
+        "url": "https://open.spotify.com/album/690QdjVSgBmZN6nEWicsjs"
+      },
+      "artists": [
+        {
+          "name": "Demb\u00e9",
+          "url": "https://open.spotify.com/artist/4J28lrhtdMgU5OJiQ4QD49"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249959,
+      "name": "Dancing Through the Night",
+      "url": "https://open.spotify.com/track/2spFfysaZoccNQEuYXHU4j"
     },
     {
       "album": {
@@ -364,6 +408,72 @@
       "duration_ms": 190647,
       "name": "Diadora",
       "url": "https://open.spotify.com/track/0ULYFXvz3BdMruAl7gRJjJ"
+    },
+    {
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/0obePYPjXJO9uQ0RvUERSX"
+      },
+      "artists": [
+        {
+          "name": "Biggi da vine",
+          "url": "https://open.spotify.com/artist/3KD3JVmIQS6miScFZMWic5"
+        },
+        {
+          "name": "Elie G",
+          "url": "https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd"
+        },
+        {
+          "name": "S.A.N.E",
+          "url": "https://open.spotify.com/artist/0lCphjdtD0BKEaOk61mA5b"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273719,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/3BLczPDaKaqyEEIfwaiBAu"
+    },
+    {
+      "album": {
+        "name": "Emandulo",
+        "url": "https://open.spotify.com/album/4Eiwz4UCEbYjf5n9CI6pQQ"
+      },
+      "artists": [
+        {
+          "name": "FiNE",
+          "url": "https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207325,
+      "name": "Emandulo",
+      "url": "https://open.spotify.com/track/51tG3lFafTShrD5Zei8ewG"
+    },
+    {
+      "album": {
+        "name": "Emandulo (Ode to uMageba)",
+        "url": "https://open.spotify.com/album/49rA8zccpmH3M5Bi4KnpX1"
+      },
+      "artists": [
+        {
+          "name": "Son Of Nguni",
+          "url": "https://open.spotify.com/artist/130qq1ptjWR60uyjiBVofN"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385644,
+      "name": "Emandulo (Ode to uMageba)",
+      "url": "https://open.spotify.com/track/0q9GfOsdm04274pe5rNtfi"
     },
     {
       "album": {
@@ -456,7 +566,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 257704,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/38vds0aXYWi851PXpHsXVv"
@@ -578,7 +688,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 196015,
       "name": "Funk Overload - Radio Edit",
       "url": "https://open.spotify.com/track/1Zgo6Cii66ANoFuD6wjM2o"
@@ -695,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2VvX63mVBa2d3VGIE86bLF"
+      },
+      "artists": [
+        {
+          "name": "DJ Leandro",
+          "url": "https://open.spotify.com/artist/0s06xsdHZL1lM7V1eTaLJQ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449518,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3trCGzO2etOCeZzwzznXg7"
+    },
+    {
+      "album": {
         "name": "I Will Love You",
         "url": "https://open.spotify.com/album/06mRvpdg6So44PwuyGIs1I"
       },
@@ -736,7 +864,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 296014,
       "name": "iLanga",
       "url": "https://open.spotify.com/track/6TnHhXIDOyhuIuOPE4oFBG"
@@ -821,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Inkani",
+        "url": "https://open.spotify.com/album/2cznxENEfc4gag2KzbvHV5"
+      },
+      "artists": [
+        {
+          "name": "Octavez",
+          "url": "https://open.spotify.com/artist/7C4uDGWvbsJBr55RGQYEYA"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420712,
+      "name": "Inkani",
+      "url": "https://open.spotify.com/track/6bIeGDyLS93XY0U6gHzRzu"
+    },
+    {
+      "album": {
         "name": "Internationale",
         "url": "https://open.spotify.com/album/1sAl4EBBKIuKBSX3OyJRXu"
       },
@@ -832,7 +978,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 341293,
       "name": "Internationale",
       "url": "https://open.spotify.com/track/10GoTIRlqmsnvbQChZIoU8"
@@ -884,7 +1030,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 230000,
       "name": "Isaka (6am) Nektunez Mix - In Ghana",
       "url": "https://open.spotify.com/track/2PndMEPHoxjDcfPWQQJUme"
@@ -932,10 +1078,36 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 392000,
       "name": "Isqeda",
       "url": "https://open.spotify.com/track/79u0AbnoXb4xXrwjR9JnmD"
+    },
+    {
+      "album": {
+        "name": "Jaiye Orimi (Audera Remix)",
+        "url": "https://open.spotify.com/album/1M6zM18InfvForj496x1a3"
+      },
+      "artists": [
+        {
+          "name": "Dabinski",
+          "url": "https://open.spotify.com/artist/1lX4PDXefsE0FSMPXRu5B9"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        },
+        {
+          "name": "Audera",
+          "url": "https://open.spotify.com/artist/57JbVZzmn24ma62tc83jPY"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Jaiye Orimi - Audera Remix",
+      "url": "https://open.spotify.com/track/1Z82mXQswtFYHZak4B99rE"
     },
     {
       "album": {
@@ -958,6 +1130,28 @@
       "duration_ms": 162000,
       "name": "KALI - Radio Edit Mix",
       "url": "https://open.spotify.com/track/2bW51OJbA3JDCriRKIxO4c"
+    },
+    {
+      "album": {
+        "name": "Kingsman",
+        "url": "https://open.spotify.com/album/0o34woxrr1gv66uFrc6zPK"
+      },
+      "artists": [
+        {
+          "name": "Max SA",
+          "url": "https://open.spotify.com/artist/70juXESYrBbE8KOmDzxcab"
+        },
+        {
+          "name": "Penhilburg",
+          "url": "https://open.spotify.com/artist/5dg7pu0RxFZv4s6VIPqhMG"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424000,
+      "name": "Kenobu",
+      "url": "https://open.spotify.com/track/4uFYxMAmSc61L0nojcIkJ8"
     },
     {
       "album": {
@@ -1002,7 +1196,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 359008,
       "name": "Kingdoms",
       "url": "https://open.spotify.com/track/5JZN95ZKrHcIXUdi0vipgT"
@@ -1028,10 +1222,28 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 258834,
       "name": "Kipekeele - Extended Version",
       "url": "https://open.spotify.com/track/7o6St9jAMNPrEzkbG93frP"
+    },
+    {
+      "album": {
+        "name": "Kira Nyuka",
+        "url": "https://open.spotify.com/album/4B0FeIFDN2aYgvRkEXiFkO"
+      },
+      "artists": [
+        {
+          "name": "Dj Grandeur Ke",
+          "url": "https://open.spotify.com/artist/02G7nyKkJoIAZQFTee7TOy"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395056,
+      "name": "Kira Nyuka",
+      "url": "https://open.spotify.com/track/2thCn1nDCfu5x98XZ6Jdcd"
     },
     {
       "album": {
@@ -1050,7 +1262,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 419584,
       "name": "Kiveti",
       "url": "https://open.spotify.com/track/2LpqLnRMGXEQGOIiMvJjZR"
@@ -1109,6 +1321,36 @@
     },
     {
       "album": {
+        "name": "Likizo",
+        "url": "https://open.spotify.com/album/0Te1K78U1S5Ua1CFrjE2Fb"
+      },
+      "artists": [
+        {
+          "name": "Dj Mura K.E",
+          "url": "https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP"
+        },
+        {
+          "name": "Big Nyagz",
+          "url": "https://open.spotify.com/artist/4xukSlub7BM65K97FD4EAF"
+        },
+        {
+          "name": "Liboi",
+          "url": "https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp"
+        },
+        {
+          "name": "YAH LISTEN",
+          "url": "https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362669,
+      "name": "Likizo",
+      "url": "https://open.spotify.com/track/3y1JM5t7z4wBYprQgiy16y"
+    },
+    {
+      "album": {
         "name": "Lokiro",
         "url": "https://open.spotify.com/album/292ORsHNwv5Som32z413FQ"
       },
@@ -1124,7 +1366,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 228037,
       "name": "Lokiro",
       "url": "https://open.spotify.com/track/76LisYtTnhEWe0A58Lt6I0"
@@ -1242,7 +1484,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 153997,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi"
@@ -1276,7 +1518,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 376562,
       "name": "Mali",
       "url": "https://open.spotify.com/track/5WCesNVbAqddpkCMa4HHuG"
@@ -1346,10 +1588,32 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 340177,
       "name": "Mosi-oa-Tunya",
       "url": "https://open.spotify.com/track/6I08ggv3jLY5q9m85aG77O"
+    },
+    {
+      "album": {
+        "name": "Moya",
+        "url": "https://open.spotify.com/album/399GuTbUUaK5G0XK3CjlDR"
+      },
+      "artists": [
+        {
+          "name": "Reuxen",
+          "url": "https://open.spotify.com/artist/0SAMYnYYWLYROycmJ3gqeq"
+        },
+        {
+          "name": "NATASHA MD",
+          "url": "https://open.spotify.com/artist/6lyHG2RfrqozySImvcfwBa"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469222,
+      "name": "Moya",
+      "url": "https://open.spotify.com/track/69KE7XbHpvSzbj52K9APRt"
     },
     {
       "album": {
@@ -1474,7 +1738,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 220000,
       "name": "Nanyorr",
       "url": "https://open.spotify.com/track/1kU9jmqjs0JkZUVKPBEBE7"
@@ -1570,7 +1834,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 346080,
       "name": "Nitunogete (we are tired)",
       "url": "https://open.spotify.com/track/3CP27S1s5WJExf0DshnNwc"
@@ -1626,7 +1890,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 181005,
       "name": "No Other",
       "url": "https://open.spotify.com/track/6Jkl9VHMWtkDrXQ1gzVN3V"
@@ -1684,7 +1948,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 185992,
       "name": "Phakama",
       "url": "https://open.spotify.com/track/2MWY3GUlwuBt6RUSxV1mTG"
@@ -2041,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Step Out",
+        "url": "https://open.spotify.com/album/34MDgo8F3H81Ac8UpfcYwu"
+      },
+      "artists": [
+        {
+          "name": "Afro Exotiq",
+          "url": "https://open.spotify.com/artist/1u42YFJFM9CC3bhfoB0suE"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364866,
+      "name": "Step Out",
+      "url": "https://open.spotify.com/track/0Du9aUG4WlJRAxRUQ3AxTi"
+    },
+    {
+      "album": {
         "name": "Styler",
         "url": "https://open.spotify.com/album/5DTG2vKDcSkeF13D20wIb1"
       },
@@ -2104,7 +2386,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 394078,
       "name": "The Bing Bang",
       "url": "https://open.spotify.com/track/3ZSnzvXfcRsu6TCUtBBbVg"
@@ -2189,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "Twende Sote",
+        "url": "https://open.spotify.com/album/0BzgoSaQLVlvQTNTcYlB7M"
+      },
+      "artists": [
+        {
+          "name": "Liboi",
+          "url": "https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp"
+        },
+        {
+          "name": "Kayrop",
+          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Twende Sote",
+      "url": "https://open.spotify.com/track/67UcmLeU6AcWxWLsODFtJb"
+    },
+    {
+      "album": {
         "name": "Ubuhle (feat. Bukeka)",
         "url": "https://open.spotify.com/album/4U7ETvlOj3fohJiJdkffey"
       },
@@ -2204,10 +2508,36 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 286412,
       "name": "Ubuhle (feat. Bukeka)",
       "url": "https://open.spotify.com/track/63xAXgMQNh3RSG1wV1VS51"
+    },
+    {
+      "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/6CfYQfQ8vpNZM5T7FVesQ3"
+      },
+      "artists": [
+        {
+          "name": "Siyanda Ngubane",
+          "url": "https://open.spotify.com/artist/5ZDx9ITrDlx9KLRTEhQfeN"
+        },
+        {
+          "name": "Onye Nkiti",
+          "url": "https://open.spotify.com/artist/3joQNS6JZpEQ6ie6F3NTKs"
+        },
+        {
+          "name": "Bernie Cue",
+          "url": "https://open.spotify.com/artist/1qpH4AL5AL9sTQ3mDlfY6h"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332486,
+      "name": "Ubuntu",
+      "url": "https://open.spotify.com/track/07y20oHLIBVcafUViqbCqq"
     },
     {
       "album": {
@@ -2234,6 +2564,62 @@
       "duration_ms": 371389,
       "name": "Ukuphi",
       "url": "https://open.spotify.com/track/5m8Lnegek4aL8tMh9nQ8q2"
+    },
+    {
+      "album": {
+        "name": "Ulwembu",
+        "url": "https://open.spotify.com/album/5ap68Aiq0jL9dSiwMXR8ph"
+      },
+      "artists": [
+        {
+          "name": "Mbalenhle M",
+          "url": "https://open.spotify.com/artist/4RYtjdGDorR1hFO3vjAdIO"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        },
+        {
+          "name": "Section Five",
+          "url": "https://open.spotify.com/artist/5pM2d7Jh0CvXvddLhBsRfS"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368135,
+      "name": "Ulwembu",
+      "url": "https://open.spotify.com/track/0pA2QyewlswtbJ72IadWgC"
+    },
+    {
+      "album": {
+        "name": "uMA weNGANE (feat. Major League DJz)",
+        "url": "https://open.spotify.com/album/1duwAPyPf4loDJh1npTyhn"
+      },
+      "artists": [
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "Jazzworx",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396629,
+      "name": "uMA weNGANE (feat. Major League DJz)",
+      "url": "https://open.spotify.com/track/0BWHYs2o4OGjJlvhFlrmTS"
     },
     {
       "album": {
@@ -2394,7 +2780,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 418236,
       "name": "Vafana Va Mali - Darque Remix",
       "url": "https://open.spotify.com/track/1M2hgcFsnOiNTSLPWVqSFl"
@@ -2438,7 +2824,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 218360,
       "name": "VooDoo Tribe",
       "url": "https://open.spotify.com/track/20Npeoyzvb8rGUG8cc0qXq"
@@ -2490,6 +2876,24 @@
       "duration_ms": 380238,
       "name": "Vuma Dlozi Lami (feat. Ancestral Rituals)",
       "url": "https://open.spotify.com/track/0DGP0pRR8yz4OW2xxjIskt"
+    },
+    {
+      "album": {
+        "name": "Watermelon / Mango",
+        "url": "https://open.spotify.com/album/70SCjL4jZRMvQ4i82yUx1B"
+      },
+      "artists": [
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320061,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/4H7LBPfREpP5oD7SNeYaQg"
     },
     {
       "album": {
@@ -2556,7 +2960,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 374479,
       "name": "Woza",
       "url": "https://open.spotify.com/track/27SqS6N3eEWJd2hmrsqa4f"

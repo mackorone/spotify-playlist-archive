@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,721 likes - 276 songs - 14 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,793 likes - 276 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 13 | [Rhythm](https://open.spotify.com/track/75DV6KHoL58McX0a9S8vap) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Rhythm](https://open.spotify.com/album/7cqi9bRIdSljdeDXdWDgB0) | 2:37 |
 | 14 | [luh uh uh](https://open.spotify.com/track/68PU92ex0jfGqB14m3cHkc) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [luh uh uh](https://open.spotify.com/album/1cKUUFPYrzmHao7FtheLGq) | 3:12 |
 | 15 | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/track/0IHLe0jsqkQokL1At1vwBS) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/album/11BEsLzTeQyffuSXa3W6Fe) | 3:19 |
-| 16 | [NEXT LEVEL](https://open.spotify.com/track/39wLDFtKusnjjqHFXJ8gAD) | [bbyblu](https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz), [Norah's World](https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [NEXT LEVEL](https://open.spotify.com/album/3P6J0omNwZfPbPtnyb9haO) | 2:26 |
+| 16 | [NEXT LEVEL](https://open.spotify.com/track/39wLDFtKusnjjqHFXJ8gAD) | [bbyblu](https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz) | [NEXT LEVEL](https://open.spotify.com/album/3P6J0omNwZfPbPtnyb9haO) | 2:26 |
 | 17 | [Go](https://open.spotify.com/track/5Q7EUcrAw2p3SHUob9gR3X) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk) | [Go](https://open.spotify.com/album/1lA3DRPunwGlfgV0wveVT6) | 3:16 |
 | 18 | [FALLOUT](https://open.spotify.com/track/1ThaVFwi9BxJ67HbvxrLW9) | [Low.bō](https://open.spotify.com/artist/0sHhVckLys5GQXpszVYa2Y) | [FALLOUT](https://open.spotify.com/album/2jl98yYRwlRH4skcIiaIio) | 3:55 |
 | 19 | [Red Flags](https://open.spotify.com/track/6vHgzhg4MQF98o0bt1KyIX) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV) | [Red Flags](https://open.spotify.com/album/7mzBtltC8bEqbNiSaCH09D) | 3:32 |
@@ -245,7 +245,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 235 | [Us](https://open.spotify.com/track/0LNVSz6KBHM5jydbpJG67S) | [d4mon.](https://open.spotify.com/artist/5gyQjaEaGCOMlJYFJdTvUX) | [2S!des](https://open.spotify.com/album/5OHTXtXZcfhuLy22WFE54L) | 2:10 |
 | 236 | [Brand New Smile](https://open.spotify.com/track/3NPz52HdHiul8fhvW58CYL) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Brand New Smile](https://open.spotify.com/album/1cFzd9XnWZwcGt6up2NVmm) | 2:15 |
 | 237 | [SOFT GIRL SUMMER](https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:32 |
-| 238 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
+| 238 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
 | 239 | [Fall Apart,](https://open.spotify.com/track/21byfhwYAw4fxV2iq7iAdN) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:06 |
 | 240 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 |
 | 241 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |

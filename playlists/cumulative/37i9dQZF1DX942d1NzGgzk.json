@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B in the UK. Cover: Tyler Lewis",
+  "description": "The latest of R&B in the UK. Cover: CARI",
   "name": "R&B UK",
   "tracks": [
     {
@@ -944,6 +944,24 @@
       "duration_ms": 184500,
       "name": "blue",
       "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
+    },
+    {
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/6F8CRhHrrExSCk9ZZLxo4B"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/0KAGwhaTafxQHXYHrw7dIl"
     },
     {
       "album": {
@@ -2062,6 +2080,24 @@
       "duration_ms": 198573,
       "name": "Fight you",
       "url": "https://open.spotify.com/track/0ge1CEon7FR7RX78ZdZhDA"
+    },
+    {
+      "album": {
+        "name": "Figures On The Wall",
+        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182546,
+      "name": "Figures On The Wall",
+      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
     },
     {
       "album": {
@@ -5514,7 +5550,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 218150,
       "name": "Open Light",
       "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
@@ -5768,6 +5804,24 @@
       "duration_ms": 184258,
       "name": "Patience",
       "url": "https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia"
+    },
+    {
+      "album": {
+        "name": "FLUX",
+        "url": "https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "Phuckups (Hold Me)",
+      "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
     },
     {
       "album": {
@@ -6992,7 +7046,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 173000,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
@@ -7850,7 +7904,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 204200,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/0s7b23E8bLpvObuIGFKjwX"

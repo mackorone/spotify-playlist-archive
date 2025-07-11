@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 506317,
+  "num_followers": 506422,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGxfgAAAAAB4aqR19OMD0D1OPr4ZkqQ9",
+  "snapshot_id": "aG2xAAAAAAAOVcgcL2bKkQNVGcqTJSz8",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aparentemente Bien",
-        "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 257721,
-      "name": "Aparentemente Bien - Versi\u00f3n Sencillo",
-      "url": "https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Pop",
         "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 233666,
       "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
       "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aparentemente Bien",
+        "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 257721,
+      "name": "Aparentemente Bien - Versi\u00f3n Sencillo",
+      "url": "https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH"
     },
     {
       "added_at": null,

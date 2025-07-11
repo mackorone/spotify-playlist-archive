@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Octavio Cuadras
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,790 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,830 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 26 | [Solo Mírame](https://open.spotify.com/track/1Qs5cp2IgnaHhdqRtkrpZU) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Solo Mírame](https://open.spotify.com/album/3ZUKgakvlTMOv23D6Yu5lk) | 4:22 |
 | 27 | [Viejo Lobo](https://open.spotify.com/track/1eeNmY4kHSjBcVIILy749q) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Viejo Lobo](https://open.spotify.com/album/0Jd14IGeBUN8KWaa2SGlU7) | 2:31 |
 | 28 | [Party](https://open.spotify.com/track/6N4xfHYsqecc6UX6C3aF08) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Party](https://open.spotify.com/album/1sSE5XQ2dCpLxitP86h4es) | 3:10 |
-| 29 | [Homenaje a Los Tigres del Norte](https://open.spotify.com/track/4iTf8F29Zhw80ZlG9CmURJ) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Old School Pa' Bailar y Pistear](https://open.spotify.com/album/3OnR6z16BZSbAiYLolNVFU) | 7:47 |
+| 29 | [Homenaje a Los Tigres del Norte](https://open.spotify.com/track/4iTf8F29Zhw80ZlG9CmURJ) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [De Puro Pedo Pa' Bailar Y Pistear](https://open.spotify.com/album/3OnR6z16BZSbAiYLolNVFU) | 7:47 |
 | 30 | [El Proceso \- En Vivo](https://open.spotify.com/track/0UK3yoRU95qu489aXFf6CJ) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [El Proceso \(En Vivo\)](https://open.spotify.com/album/3LCnhWUQC7ugoCWQgkSyCe) | 3:15 |
 | 31 | [Fresa y Bandolero](https://open.spotify.com/track/0BImnfOxmOGyFGwkgEdsFZ) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Fresa y Bandolero](https://open.spotify.com/album/1PIq8kK1xHucWofMXmCrzy) | 2:51 |
 | 32 | [El Día De Su Boda](https://open.spotify.com/track/7yiwQo6HjR4s1krNbcHvtw) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [El Día De Su Boda](https://open.spotify.com/album/1WbMFGbXyvPbLq4pGDI9oW) | 3:15 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 39 | [Ya No, Ya No](https://open.spotify.com/track/50KlstHmw0Lx8wOtvZSBnC) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Ya No, Ya No](https://open.spotify.com/album/5inY69P9EcBD8Wq68RqAFU) | 2:53 |
 | 40 | [ASI ASI](https://open.spotify.com/track/2Yq20zgUzzHSOntm8wpcoy) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [ASI ASI](https://open.spotify.com/album/3ZyaR9U5K7BpH9uezPjrus) | 3:16 |
 | 41 | [Retumbando En El Cora](https://open.spotify.com/track/59IbXNL246o9YZC3EM4app) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Retumbando En El Cora](https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP) | 2:10 |
-| 42 | [De Profesió Gallero](https://open.spotify.com/track/0g4oZZhZyll0TYvjN394LG) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Todo a Su Tiempo](https://open.spotify.com/album/3euOqX6wNMGgjT6LfRgx0u) | 3:25 |
+| 42 | [De Profesión Gallero](https://open.spotify.com/track/0g4oZZhZyll0TYvjN394LG) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Todo a Su Tiempo](https://open.spotify.com/album/3euOqX6wNMGgjT6LfRgx0u) | 3:25 |
 | 43 | [Marciano](https://open.spotify.com/track/45lSakpUHEsHugwbui79JL) | [La Nueva Fortaleza](https://open.spotify.com/artist/6HTv9bnrNYD277uCcUqdve) | [Marciano](https://open.spotify.com/album/6nKiQBdUakHJd1cXHS9Sov) | 3:12 |
 | 44 | [CABRONCITA](https://open.spotify.com/track/45f9ooIhA7SLRWcmMsQu6p) | [Castro Angel](https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr), [The Dierich](https://open.spotify.com/artist/3kOuMsgatjJnJCHehs3Niq) | [CABRONCITA](https://open.spotify.com/album/6molIS0KNPRZd8D75joRS7) | 2:57 |
 | 45 | [Frente a Frente](https://open.spotify.com/track/0dggN0Sep5Z9lTRiQwuDm1) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Frente a Frente](https://open.spotify.com/album/5joUA35bE7GryylC1Ps9CH) | 3:45 |

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Lesti
+> Dendang Dangdut teratas\. Cover: Jelita Jely
 
-248 songs - 19 hr 40 min
+250 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Cinta Dalam Khayalan](https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Cinta Dalam Khayalan](https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO) | 4:58 | 2022-10-13 | 2023-07-14 |
 | [Cinta Palsu](https://open.spotify.com/track/7BrsMnzb83KxyC8lvEzXqg) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [IsDa](https://open.spotify.com/album/0ricRhNidM6AMUXeF0DATq) | 3:37 | 2024-11-21 |  |
 | [Cinta Sejati](https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cinta Sejati](https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu) | 3:43 | 2023-06-29 |  |
-| [Cinta Sendirian](https://open.spotify.com/track/3ZJMOtKmwmIC60mnoUMpGd) | [Tryana](https://open.spotify.com/artist/3ZZg6UVxhi09ZMmLTzmTgr) | [Cinta Sendirian](https://open.spotify.com/album/6129TABKojET9GxfFf04VG) | 5:18 | 2024-09-26 |  |
+| [Cinta Sendirian](https://open.spotify.com/track/3ZJMOtKmwmIC60mnoUMpGd) | [Tryana](https://open.spotify.com/artist/3ZZg6UVxhi09ZMmLTzmTgr) | [Cinta Sendirian](https://open.spotify.com/album/6129TABKojET9GxfFf04VG) | 5:18 | 2024-09-26 | 2025-07-11 |
 | [Cinta Tak Berbatas](https://open.spotify.com/track/1olnVPqKIdsinSbewWQ6wt) | [Vitalia](https://open.spotify.com/artist/10sXOWX2NEAsfoPu88YEOL) | [Cinta Tak Berbatas](https://open.spotify.com/album/4uUEe2CkioiWLHrjol7dRU) | 3:56 | 2025-01-30 | 2025-04-18 |
 | [Cinta Tak Terpisahkan \- Live Ska Reggae](https://open.spotify.com/track/5O6qQZLSMLwK7eGwAKruUH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Cinta Tak Terpisahkan \(Live Ska Reggae\)](https://open.spotify.com/album/4Rt4gtk07aN4sPJzZ18GeC) | 5:47 | 2024-05-23 | 2024-10-18 |
 | [Cinta Yang Rumit](https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Rumit](https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA) | 4:05 | 2023-11-17 | 2024-05-24 |
@@ -87,6 +87,7 @@
 | [HALU](https://open.spotify.com/track/0Mh4TBn6iBLkp99TeuFQHw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [HALU](https://open.spotify.com/album/3WAJxIWrZAnMH6gGbqESYt) | 3:42 | 2024-08-22 | 2025-06-27 |
 | [HALU \- Acoustic Version](https://open.spotify.com/track/2HcOARrTPO9CyAXjfjAXMk) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Alyssa Dezek](https://open.spotify.com/artist/7riu7Nfn7JdCh57ib3lQM3) | [HALU \(Acoustic Version\)](https://open.spotify.com/album/2px1E2J7qVXumyHUT1duQ1) | 3:05 | 2024-12-12 | 2025-06-27 |
 | [Hanya Insan Biasa \- Live Ska Reggae](https://open.spotify.com/track/6qJIqqPqWim82D36xcYXua) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Hanya Insan Biasa \(Live Ska Reggae\)](https://open.spotify.com/album/5RPExE9DE9rnYUHJm55kaT) | 5:02 | 2024-07-18 | 2024-10-18 |
+| [Harus Melepasmu](https://open.spotify.com/track/4g0Y07KNORgo4k9eniJKEo) | [Jelita Jely](https://open.spotify.com/artist/4VScMi2m2F6toWNTcYQDXF) | [Harus Melepasmu](https://open.spotify.com/album/513cvvR2FOs5OxwyPeMYWt) | 5:28 | 2025-07-10 |  |
 | [Harusnya Aku Bukan Dia](https://open.spotify.com/track/0rmbQ7zTdLbO4ZeRINhwct) | [Balena](https://open.spotify.com/artist/2cjdvAkEtUktGoQSyc1teU) | [Harusnya Aku Bukan Dia](https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90) | 5:17 | 2024-02-22 |  |
 | [Hati Ini Selalu Milikmu](https://open.spotify.com/track/4MKz4c3w8UaMpBqlDdqRLg) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa) | [Hati Ini Selalu Milikmu](https://open.spotify.com/album/112on20pNWhwlIGoWGe4JM) | 4:24 | 2023-08-24 | 2025-04-18 |
 | [Hatiku Beku](https://open.spotify.com/track/2jiwjWWBlVx6GoOTg6h4BG) | [OM PMR 1977](https://open.spotify.com/artist/0A4aLQgaU88gKKC4DziWIl), [David Koeswoyo](https://open.spotify.com/artist/7x6OmOPjv1WyL831nr7Plx) | [Hatiku Beku](https://open.spotify.com/album/354yU1d7zhycezwTZ8E2FD) | 4:42 | 2023-06-09 | 2025-03-21 |
@@ -197,6 +198,7 @@
 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 | 2021-08-23 | 2024-09-07 |
 | [Satu Kamu](https://open.spotify.com/track/2E79MZzmwGOJRhfE73DyIo) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Satu Kamu](https://open.spotify.com/album/0PUJsQZYGFlDliTLrQrZ2A) | 4:32 | 2023-07-13 |  |
 | [Satu Rasa Cinta](https://open.spotify.com/track/2LkIEQEtMp4agDn68uJ4OF) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Satu Rasa Cinta](https://open.spotify.com/album/6hjsEcQfDliKpxh1totuC6) | 4:54 | 2024-09-12 |  |
+| [Satu Rasa Cinta \- Acoustic](https://open.spotify.com/track/7FAwOi2ORHsn9nTeuBObLC) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Satu Rasa Cinta \(Acoustic\)](https://open.spotify.com/album/3EYMgAkjrpRXWD4yIfcknh) | 5:40 | 2025-07-10 |  |
 | [Satu Satunya Permaisurimu](https://open.spotify.com/track/5NgfhMk8ToGK7lHYdZtQI9) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Satu Satunya Permaisurimu](https://open.spotify.com/album/6pJq4Rti7RbDvFiZzq4ISx) | 6:11 | 2024-11-21 |  |
 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 | 2021-08-23 |  |
 | [Sebiduk Tak Searah](https://open.spotify.com/track/3shQooklj8xY9Wu5dShuyc) | [Erie Suzan](https://open.spotify.com/artist/3FL9QyW1idGhwsTomiGoOK) | [Sebiduk Tak Searah](https://open.spotify.com/album/4Y1uXuCfRJRxx0kxxx7ALs) | 5:00 | 2024-06-13 | 2025-01-31 |
@@ -220,7 +222,7 @@
 | [Singget](https://open.spotify.com/track/0I2YNuPlmHa6TRB2zMYEgk) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Mencla Mencle](https://open.spotify.com/album/6hWZu25i1sVgsbLxn0phE5) | 4:48 | 2021-08-23 | 2023-04-01 |
 | [Suci \- Live At Ska Reggae](https://open.spotify.com/track/6FDjmD8pvkNPy5YBAy3tl9) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Suci \(Live At Ska Reggae\)](https://open.spotify.com/album/6dZ9I20Muk6DnDfVWHwNlI) | 5:38 | 2024-09-26 | 2024-10-18 |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2021-08-23 | 2024-02-09 |
-| [Sumarak Hari Rayo](https://open.spotify.com/track/47bMTt9i80ItR2UDsfWNrU) | [Eja S.M](https://open.spotify.com/artist/35qFgLkoo69ZDtHOW6NmBZ), [Andri Dharma](https://open.spotify.com/artist/2x22lu9EfEDpUjwdh8dRfs) | [Sumarak Hari Rayo](https://open.spotify.com/album/2dfPLKieQj4NverYF57xBD) | 5:23 | 2025-03-27 |  |
+| [Sumarak Hari Rayo](https://open.spotify.com/track/47bMTt9i80ItR2UDsfWNrU) | [Eja S.M](https://open.spotify.com/artist/35qFgLkoo69ZDtHOW6NmBZ), [Andri Dharma](https://open.spotify.com/artist/2x22lu9EfEDpUjwdh8dRfs) | [Sumarak Hari Rayo](https://open.spotify.com/album/2dfPLKieQj4NverYF57xBD) | 5:23 | 2025-03-27 | 2025-07-11 |
 | [Suratan](https://open.spotify.com/track/7rEx000N7r1YF095T1195J) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA), [Risa Amel](https://open.spotify.com/artist/6pqO787uECZjC2ZfLOi9QU) | [Suratan](https://open.spotify.com/album/3MaaepFhcUUuHPmSAq3IUD) | 5:10 | 2024-10-04 |  |
 | [Surgaku](https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Surgaku](https://open.spotify.com/album/4ItlHPYdgaJuYN5MD1tlm0) | 5:33 | 2023-03-30 |  |
 | [Syair Bidadari](https://open.spotify.com/track/1HcovJlkDKYmC8XFS6yT2k) | [LitaLy](https://open.spotify.com/artist/0GaVYWWQgbhglhWmMphflr) | [Syair Bidadari](https://open.spotify.com/album/3St0I5wMX7cCcuz2tqgk1d) | 4:29 | 2024-03-22 | 2024-09-27 |

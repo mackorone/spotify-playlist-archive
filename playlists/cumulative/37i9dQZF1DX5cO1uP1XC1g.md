@@ -2,7 +2,7 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The Hottest Arabic Music.<br/>Cover: Bessan Ismail
+> The Hottest Arabic Music.<br/>Cover: Amr Diab
 
 427 songs - 1 day 1 hr 44 min
 

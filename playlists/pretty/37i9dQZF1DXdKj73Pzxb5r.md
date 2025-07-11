@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Adrian Yunan
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,636 likes - 95 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,652 likes - 95 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Refrain](https://open.spotify.com/track/21nivjLOpv6BbNNScUHpCq) | [Adrian Yunan](https://open.spotify.com/artist/25ex997B5aNaPvmqEO9AsJ), [John Navid](https://open.spotify.com/artist/0Hdo0t4UvHvh9SLB5izMi6), [Jinan Lakeisha](https://open.spotify.com/artist/7FN9oyc4MGgmXO5OeToXhh), [Arrivson](https://open.spotify.com/artist/4HchvKL7doy2JVVfN4a48G), [Harlan Boer](https://open.spotify.com/artist/14CXNpgdEl1XuwaRugsgat) | [Jalan Keluar](https://open.spotify.com/album/56Y9vjPcLsLFtj0QQreO08) | 4:35 |
+| 1 | [Refrain](https://open.spotify.com/track/21nivjLOpv6BbNNScUHpCq) | [Adrian Yunan](https://open.spotify.com/artist/25ex997B5aNaPvmqEO9AsJ), [Harlan Boer](https://open.spotify.com/artist/14CXNpgdEl1XuwaRugsgat) | [Jalan Keluar](https://open.spotify.com/album/56Y9vjPcLsLFtj0QQreO08) | 4:35 |
 | 2 | [Nadir](https://open.spotify.com/track/4hLENyIfOUetv7i7i5QGo4) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Suaka](https://open.spotify.com/album/6FiBuRUUTC3V2DhuNiV6S4) | 5:12 |
 | 3 | [Kau Juga Semua Orang](https://open.spotify.com/track/1kHwwUrZcYFJEvrHXs033s) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Kau Juga Semua Orang](https://open.spotify.com/album/0adacAyhmRl1AxSOpKpLOc) | 3:15 |
 | 4 | [DENTUM](https://open.spotify.com/track/0Ie6cd0pjQ5sDXxlimfyti) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [DENTUM](https://open.spotify.com/album/1j19FQajbchxmR1Yc8GKYJ) | 5:18 |

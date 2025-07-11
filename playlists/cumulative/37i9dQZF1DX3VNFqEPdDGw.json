@@ -1237,6 +1237,28 @@
     },
     {
       "album": {
+        "name": "Cheek",
+        "url": "https://open.spotify.com/album/4SNix6VltoiKHFRa7VQduI"
+      },
+      "artists": [
+        {
+          "name": "Janta Toor",
+          "url": "https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K"
+        },
+        {
+          "name": "Preet Hundal",
+          "url": "https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193953,
+      "name": "Cheek",
+      "url": "https://open.spotify.com/track/5ZFYqdiCp3kQYoc4lLqdiQ"
+    },
+    {
+      "album": {
         "name": "CHIDKAN",
         "url": "https://open.spotify.com/album/0R17rWGVSfYpClGiKR8TVw"
       },
@@ -4321,6 +4343,28 @@
     },
     {
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/2KvGFSmZajbcsUm5uVyx53"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200897,
+      "name": "Morni",
+      "url": "https://open.spotify.com/track/4lUh8Xvfn8RHquoEHTK1U3"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3ypK4QMoFBgFrW2Z6PGqXm"
       },
@@ -5540,7 +5584,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 157438,
       "name": "Sanjay Dutt",
       "url": "https://open.spotify.com/track/6IN08l8EkriTzXQ1KFCb9Y"
@@ -6492,7 +6536,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 160500,
       "name": "Tohar",
       "url": "https://open.spotify.com/track/4CZx0gfW8LXumFWN4HKqfN"

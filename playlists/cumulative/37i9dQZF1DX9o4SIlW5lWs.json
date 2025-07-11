@@ -4030,6 +4030,28 @@
     {
       "album": {
         "name": "Hoy",
+        "url": "https://open.spotify.com/album/6T5ytRRKpHK7qcOX7pXBLo"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        },
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195872,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/5T7LGMZ9rRxBhLc0tetf9A"
+    },
+    {
+      "album": {
+        "name": "Hoy",
         "url": "https://open.spotify.com/album/7h6O8lvTXdxyGMuC8990Ca"
       },
       "artists": [
@@ -7568,7 +7590,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 201722,
       "name": "Quiero Llorar",
       "url": "https://open.spotify.com/track/2GYNtFzTPxPDvDGpaaRrQs"

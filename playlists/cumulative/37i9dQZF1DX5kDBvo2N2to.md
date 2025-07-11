@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-359 songs - 19 hr 23 min
+360 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 | 2024-06-28 | 2024-08-16 |
 | [Camels](https://open.spotify.com/track/1t30x389swdoiG08U2X2fz) | [Paine Galletto](https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY) | [Camels](https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa) | 1:54 | 2025-06-18 |  |
 | [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-28 | 2025-04-13 |
-| [CANADIAN TUXEDO](https://open.spotify.com/track/36LvtWLFULwuOtgCQwybJj) | [BORIS](https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a), [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [CANADIAN TUXEDO](https://open.spotify.com/album/4YPxNXWO0qpZ3A89RlkfrV) | 2:37 | 2025-07-03 |  |
+| [CANADIAN TUXEDO](https://open.spotify.com/track/36LvtWLFULwuOtgCQwybJj) | [BORIS](https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a), [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [CANADIAN TUXEDO](https://open.spotify.com/album/4YPxNXWO0qpZ3A89RlkfrV) | 2:37 | 2025-07-03 | 2025-07-11 |
 | [Cardio](https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Cardio](https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC) | 3:08 | 2024-06-28 | 2025-01-17 |
 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 | 2025-05-29 |  |
 | [Catch Me](https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf) | [Ellen Benediktson](https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8) | [Catch Me](https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq) | 2:57 | 2024-11-08 | 2025-05-23 |
@@ -184,6 +184,7 @@
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-07-29 | 2025-01-19 |
 | [Inte bra i grupp](https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Inte bra i grupp](https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV) | 2:49 | 2025-04-24 |  |
 | [Is It Love?](https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Is It Love?](https://open.spotify.com/album/70WeBMKxVg8C06c68o1661) | 3:02 | 2025-06-12 |  |
+| [ISLAND](https://open.spotify.com/track/6HIyVsMgerWNe8aqJKeivg) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW), [1HUNNA](https://open.spotify.com/artist/5atNT9H8UsejUwzKrmzipk) | [ISLAND](https://open.spotify.com/album/2KRSxzDsKG1TkJjAjzlHJm) | 2:11 | 2025-07-10 |  |
 | [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 | 2024-11-08 | 2025-02-22 |
 | [It Was You](https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R) | [Natalie Reigo](https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi) | [It Was You](https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa) | 2:41 | 2025-06-05 |  |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-13 | 2025-04-25 |

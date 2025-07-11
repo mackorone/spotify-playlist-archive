@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > The world's most iconic and relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,080 likes - 116 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,172 likes - 116 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 3 | [12 Etudes, Op\. 10: No\. 6 in E\-Flat Minor "Lament"](https://open.spotify.com/track/3HiFEoic67xzOhd1gBgDhg) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Yunchan Lim](https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz) | [Chopin: 12 Études, Op\. 10: No\. 6 in E\-Flat Minor "Lament"](https://open.spotify.com/album/20joxxU3yWi95GyOGhqHQd) | 3:32 |
 | 4 | [Gymnopédie No\. 1\. Lent et douloureux](https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:39 |
 | 5 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. Piano\)](https://open.spotify.com/track/0d71p8tQDxLgdTkEHcxQyl) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Alan Feinberg](https://open.spotify.com/artist/7cTvdUU1BZYBATq6QdfZO6) | [The American Virtuoso](https://open.spotify.com/album/0vdIwOj00vVbRNxi70rurD) | 3:18 |
-| 6 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 5:30 |
+| 6 | [Suite bergamasque, CD 82: III\. Clair de lune](https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 5:30 |
 | 7 | [12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sergei Babayan](https://open.spotify.com/artist/79gBfLMlUJNdcXv1nc33oK) | [Rachmaninoff: Préludes; Études\-Tableaux; Moments musicaux](https://open.spotify.com/album/5952RUol8Nl7Ihk1zcaUb4) | 3:01 |
 | 8 | [Bach: Prelude in C Major, BWV 846](https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth: Ephemera](https://open.spotify.com/album/1M1tsv2nCOuUkztiGG3tBh) | 2:25 |
 | 9 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |

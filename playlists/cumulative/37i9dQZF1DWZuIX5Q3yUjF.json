@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Shablo in cover della playlist dell'R&B italiano \ud83c\udfa7",
+  "description": "Kuban in cover della playlist dell'R&B italiano \ud83d\udc60",
   "name": "anima R&B",
   "tracks": [
     {
@@ -260,6 +260,24 @@
       "duration_ms": 151351,
       "name": "2Night",
       "url": "https://open.spotify.com/track/3xk0uV3HHtiLyEiiISQ62y"
+    },
+    {
+      "album": {
+        "name": "3 PM in Greece",
+        "url": "https://open.spotify.com/album/5Ug7w0NpIVjab0hrcvW89g"
+      },
+      "artists": [
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/6XLj9BXn0pnWlFMVGk1utU"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "3 PM in Greece",
+      "url": "https://open.spotify.com/track/4RnZIOLFP6VuTmPaYMqSYC"
     },
     {
       "album": {
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 159152,
       "name": "Blu - Settembre",
       "url": "https://open.spotify.com/track/43CsR5UOJYTC8d9sKDgrmS"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 89238,
       "name": "COLD",
       "url": "https://open.spotify.com/track/68Hw42cJIFcUnF364etWtX"
@@ -3766,6 +3784,28 @@
       "duration_ms": 185562,
       "name": "DAMMI",
       "url": "https://open.spotify.com/track/1XxYHl8ZwlrhqwZxWjfcNe"
+    },
+    {
+      "album": {
+        "name": "DAMMI I SOLDI",
+        "url": "https://open.spotify.com/album/26Y4TLrgDxkUnYAFIqzD7t"
+      },
+      "artists": [
+        {
+          "name": "Rev\u00e9",
+          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "DAMMI I SOLDI",
+      "url": "https://open.spotify.com/track/1KeZIwsCv2NdGrWBeDbxHd"
     },
     {
       "album": {
@@ -5448,6 +5488,24 @@
     {
       "album": {
         "name": "Fragile",
+        "url": "https://open.spotify.com/album/0SkeBdHuHrOHk4gLpnBDiU"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Faraone",
+          "url": "https://open.spotify.com/artist/1cVgcLORppGpLQULb6LglS"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228542,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/7CxJbkf97yE1yQBUZBAx3j"
+    },
+    {
+      "album": {
+        "name": "Fragile",
         "url": "https://open.spotify.com/album/4T42ONwroSEl63oGcOi6eY"
       },
       "artists": [
@@ -6267,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/1XoGxiGWfdPCHH2ItOz3SM"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173135,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/5xYtSKU6Fz2ZwY491faFIs"
+    },
+    {
+      "album": {
         "name": "Hope (feat. Izi, Joshua)",
         "url": "https://open.spotify.com/album/7EmZ4NfzW70p91UuysLPQw"
       },
@@ -6402,6 +6478,24 @@
       "duration_ms": 155181,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2Xd1cBqnJfvFydAyrMJufM"
+    },
+    {
+      "album": {
+        "name": "IL DOTTORE DI SQUID GAME",
+        "url": "https://open.spotify.com/album/7u2DTTruKwF0B4NkN5q0Yc"
+      },
+      "artists": [
+        {
+          "name": "Medley",
+          "url": "https://open.spotify.com/artist/5jYDIXCTEY2CDB1Eln1NGp"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87476,
+      "name": "IL DOTTORE DI SQUID GAME",
+      "url": "https://open.spotify.com/track/7MaHjiw6xM4rJ2yWtPBB6b"
     },
     {
       "album": {
@@ -6891,6 +6985,24 @@
     },
     {
       "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/0wn1MOIGxp7WhE5TzV3OPe"
+      },
+      "artists": [
+        {
+          "name": "Amanda Roberts",
+          "url": "https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180113,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/0NJowfv0oPbfAw7YjDYeRD"
+    },
+    {
+      "album": {
         "name": "Jeans Appeal",
         "url": "https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh"
       },
@@ -7004,6 +7116,28 @@
       "duration_ms": 175200,
       "name": "Killer",
       "url": "https://open.spotify.com/track/5YFa84aeqziBwADCiX2i73"
+    },
+    {
+      "album": {
+        "name": "KO",
+        "url": "https://open.spotify.com/album/03vAIlmw5AfC44mJFK87oX"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        },
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168809,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/4Xk3rOyiwNpCH25oDrYKHs"
     },
     {
       "album": {
@@ -8287,6 +8421,24 @@
     },
     {
       "album": {
+        "name": "Luna Calamita",
+        "url": "https://open.spotify.com/album/7jBgy91GamVrLypQkkNO9i"
+      },
+      "artists": [
+        {
+          "name": "Iside",
+          "url": "https://open.spotify.com/artist/7M52ZML6b1vagpxPL87Ny3"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210594,
+      "name": "Luna Calamita",
+      "url": "https://open.spotify.com/track/1C0lGr6hjO0773XsAdis4v"
+    },
+    {
+      "album": {
         "name": "Luna Piena",
         "url": "https://open.spotify.com/album/6FMLzFO8d3rsLrow6teojH"
       },
@@ -8406,7 +8558,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 181163,
       "name": "Ma Che Vuo'",
       "url": "https://open.spotify.com/track/2uuYpro7fcZRu8Fxk1iapf"
@@ -8576,7 +8728,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 245411,
       "name": "Mambo",
       "url": "https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T"
@@ -8794,6 +8946,28 @@
       "duration_ms": 152000,
       "name": "MENTALIT\u00c9",
       "url": "https://open.spotify.com/track/3qVucXBmqvWWsqM4wedd3o"
+    },
+    {
+      "album": {
+        "name": "Mentre Tutto Fa Casino",
+        "url": "https://open.spotify.com/album/2P359QH2aIxOytt0FsRPSS"
+      },
+      "artists": [
+        {
+          "name": "S\u00d2L",
+          "url": "https://open.spotify.com/artist/5AXAT5nSUpOhJpqrTuyg6O"
+        },
+        {
+          "name": "Controsenso",
+          "url": "https://open.spotify.com/artist/64to9UcF0Zup754WTlevHt"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97189,
+      "name": "Mentre Tutto Fa Casino",
+      "url": "https://open.spotify.com/track/2sJ2MDcWWRd4EMBlzxJ6d7"
     },
     {
       "album": {
@@ -9562,7 +9736,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 162666,
       "name": "New York",
       "url": "https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t"
@@ -9788,7 +9962,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 208724,
       "name": "Non avessi pi\u00f9",
       "url": "https://open.spotify.com/track/0K8apQLwCWuzLel5gIewHs"
@@ -10774,6 +10948,24 @@
       "duration_ms": 189536,
       "name": "omen",
       "url": "https://open.spotify.com/track/4IKfXtU6FGwgtJ32n9P3gW"
+    },
+    {
+      "album": {
+        "name": "opposti",
+        "url": "https://open.spotify.com/album/2vjOdEDv9y3u8Kt2Gy06T9"
+      },
+      "artists": [
+        {
+          "name": "Najma",
+          "url": "https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "opposti",
+      "url": "https://open.spotify.com/track/2HxbLGJ3T22BX172w1PXpo"
     },
     {
       "album": {
@@ -12370,7 +12562,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 181333,
       "name": "Romanzo Rosa",
       "url": "https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN"
@@ -12866,7 +13058,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 160615,
       "name": "Scuro",
       "url": "https://open.spotify.com/track/0kZycMhiMb6TkgcoVoSYbH"
@@ -13000,7 +13192,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 152307,
       "name": "Sei Dappertutto",
       "url": "https://open.spotify.com/track/4waNYcV1T5frotIzzwC1TQ"
@@ -13040,7 +13232,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 236614,
       "name": "Self Care",
       "url": "https://open.spotify.com/track/2bbhOJTCVkmYh010FsUqQV"
@@ -13325,6 +13517,28 @@
     },
     {
       "album": {
+        "name": "SHE ( REPLAY )",
+        "url": "https://open.spotify.com/album/3TOckgikdE9futuWsfxl9V"
+      },
+      "artists": [
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        },
+        {
+          "name": "Nablito",
+          "url": "https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178217,
+      "name": "SHE ( REPLAY )",
+      "url": "https://open.spotify.com/track/4rnORO1lzpKGsz47TMFfxk"
+    },
+    {
+      "album": {
         "name": "Tony",
         "url": "https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb"
       },
@@ -13554,7 +13768,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 200044,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2ADleughdXHjcjtY0AUALI"
@@ -13598,6 +13812,24 @@
       "duration_ms": 201244,
       "name": "Sola Stanotte",
       "url": "https://open.spotify.com/track/2TbycklvUML4V0SaGqrVT5"
+    },
+    {
+      "album": {
+        "name": "soli per strada",
+        "url": "https://open.spotify.com/album/7LAkJvjx6oIKzT8zkV8d82"
+      },
+      "artists": [
+        {
+          "name": "NIMSAY",
+          "url": "https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "soli per strada",
+      "url": "https://open.spotify.com/track/3e9b4s7PAH8T2RlJGWDk2x"
     },
     {
       "album": {
@@ -14850,7 +15082,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 176566,
       "name": "Ti scorderai di me",
       "url": "https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh"
@@ -15772,7 +16004,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 109965,
       "name": "UP",
       "url": "https://open.spotify.com/track/0lEcmsS175dpaOBvGFMvoh"
@@ -15830,6 +16062,32 @@
       "duration_ms": 173060,
       "name": "UYE",
       "url": "https://open.spotify.com/track/4uSmSuFnlTK04y6QMnd6Wp"
+    },
+    {
+      "album": {
+        "name": "Va A F\u00e0 'O Caf\u00e8",
+        "url": "https://open.spotify.com/album/64ANgZGC3XVoLgTI3PBIQb"
+      },
+      "artists": [
+        {
+          "name": "Leo Pesci",
+          "url": "https://open.spotify.com/artist/2JRSgE22ZVQ7pdqnv46QGQ"
+        },
+        {
+          "name": "Giada De Prisco",
+          "url": "https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI"
+        },
+        {
+          "name": "VISCARDI",
+          "url": "https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175791,
+      "name": "Va a F\u00e0 'O Caf\u00e8",
+      "url": "https://open.spotify.com/track/7hll8c1a0Bf1JqZlNKipdA"
     },
     {
       "album": {
@@ -16146,7 +16404,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 174666,
       "name": "Voglia Malinconia",
       "url": "https://open.spotify.com/track/6mxNu4CCgwjxzp7UXr1IqK"

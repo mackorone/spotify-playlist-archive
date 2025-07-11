@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIYE4crkRlrl6>Sara Bareilles</a>, <a href=spotify:playlist:37i9dQZF1EIZCKzalvD7ps>Alejandro Fern\u00e1ndez</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIXlc8fB2lbAt>Martin Garrix</a>, <a href=spotify:playlist:37i9dQZF1EIX1yMCa0Snyd>Jordan Sandhu</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -875,6 +875,32 @@
     },
     {
       "album": {
+        "name": "Fomo",
+        "url": "https://open.spotify.com/album/1imllZPJqjVilNrvY5umvj"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156494,
+      "name": "Fomo",
+      "url": "https://open.spotify.com/track/4ci7QUQfEfE7EOJRsBv9P7"
+    },
+    {
+      "album": {
         "name": "The Lady Killer",
         "url": "https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY"
       },
@@ -1360,7 +1386,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 258826,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
@@ -1574,7 +1600,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 230466,
       "name": "New Romantics",
       "url": "https://open.spotify.com/track/0qAIiGFKLdV1xpNlEhjpq8"
@@ -1990,7 +2016,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 240240,
       "name": "Se Me Va La Voz",
       "url": "https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry"
@@ -2381,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459659,
+      "name": "The Party & The After Party",
+      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
+    },
+    {
+      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -2508,6 +2552,28 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "album": {
+        "name": "Used To Love (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/3YD1qyD9KPFzzTK1UC1Gvo"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236764,
+      "name": "Used To Love (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/7pWK1kMgHy5lNNiIfuRbkP"
     },
     {
       "album": {

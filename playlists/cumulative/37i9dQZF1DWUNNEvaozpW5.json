@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 276005,
       "name": "Cowboys de la A3",
       "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
@@ -5506,6 +5506,24 @@
       "duration_ms": 233052,
       "name": "La cabecita loca - Directo Bot\u00e1nico",
       "url": "https://open.spotify.com/track/5uc29SREot10Yu5ToGX4sT"
+    },
+    {
+      "album": {
+        "name": "La Carne y El Hueso",
+        "url": "https://open.spotify.com/album/27tMoY6vQg5MtZmHvt8g74"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Salto",
+          "url": "https://open.spotify.com/artist/7ujKUm3M5ejAHgcYzpmCVR"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246541,
+      "name": "La Carne y El Hueso",
+      "url": "https://open.spotify.com/track/6UWFd9jjHM2APFInnB0OyL"
     },
     {
       "album": {
@@ -9590,6 +9608,32 @@
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
+    },
+    {
+      "album": {
+        "name": "Rock and Roll Star (feat. Leiva, Rub\u00e9n Pozo)",
+        "url": "https://open.spotify.com/album/79wJ11Eer0byUhxweqoqae"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Rub\u00e9n Pozo",
+          "url": "https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272597,
+      "name": "Rock and Roll Star (feat. Leiva, Rub\u00e9n Pozo)",
+      "url": "https://open.spotify.com/track/55tIfzietfTRuW2FxcnRJL"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Billie Kark",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Helena Paparizou",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 124000,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/5QpbBaOztQcDlZbbufzz9S"
@@ -1254,6 +1254,24 @@
       "duration_ms": 184064,
       "name": "Eisai Arrostia Megali",
       "url": "https://open.spotify.com/track/2B6VyDw2eA81pHbAeaGDcl"
+    },
+    {
+      "album": {
+        "name": "Tha Grapsoume Istoria",
+        "url": "https://open.spotify.com/album/4nGB4DVaULjQR7xYQ9JPVI"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "Ekdoxi",
+      "url": "https://open.spotify.com/track/2YgXfudmeCpYNWwvpqDdz5"
     },
     {
       "album": {
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 170571,
       "name": "GIA SENA",
       "url": "https://open.spotify.com/track/1xjRL0LTJHQt6kMjwv55Kf"
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 212250,
       "name": "Gyrismos",
       "url": "https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY"
@@ -1848,6 +1866,24 @@
       "duration_ms": 190005,
       "name": "ISOS SICARIO REMIX",
       "url": "https://open.spotify.com/track/4YtpcUfLPzymYNLkXRlqZ3"
+    },
+    {
+      "album": {
+        "name": "Kalinixta",
+        "url": "https://open.spotify.com/album/2KmVPAlqvFAUyBdXv1NlqO"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158690,
+      "name": "Kalinixta",
+      "url": "https://open.spotify.com/track/5IhM9xyRYFM8PDau4IOqOR"
     },
     {
       "album": {
@@ -2588,7 +2624,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 220250,
       "name": "Nyxta Mou Megali",
       "url": "https://open.spotify.com/track/7yJbjncqS0bjrUQdRafkr8"
@@ -3281,6 +3317,28 @@
     },
     {
       "album": {
+        "name": "Social Media",
+        "url": "https://open.spotify.com/album/6IklcTdtyA8nZ1aeYb81JG"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        },
+        {
+          "name": "Katerina Stikoudi",
+          "url": "https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "Social Media",
+      "url": "https://open.spotify.com/track/0ZyWNvHKNWO8d3f9Rhqnd1"
+    },
+    {
+      "album": {
         "name": "P.O.P.",
         "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
       },
@@ -3898,6 +3956,24 @@
       "duration_ms": 167285,
       "name": "Yperfainomeno",
       "url": "https://open.spotify.com/track/2Yqy3VMmglyH7rn4EfXKPq"
+    },
+    {
+      "album": {
+        "name": "\u0391\u03c0\u03cc\u03c8\u03b5",
+        "url": "https://open.spotify.com/album/327l58Oz4mcaXMLNSuaFVR"
+      },
+      "artists": [
+        {
+          "name": "Papaz\u00f3",
+          "url": "https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194876,
+      "name": "\u0391\u03c0\u03cc\u03c8\u03b5",
+      "url": "https://open.spotify.com/track/4IIUn9OE6dfk078WfJigiB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy"

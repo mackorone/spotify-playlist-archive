@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Barbet",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Sam Sauvage",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 222295,
       "name": "Chorale",
       "url": "https://open.spotify.com/track/3U9VO4OhI4ZmhN00h3g5Bx"
@@ -1372,6 +1372,24 @@
       "duration_ms": 239720,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/62YSJXvarbaTjC6S7jHzl0"
+    },
+    {
+      "album": {
+        "name": "Des b\u00eatises (part I)",
+        "url": "https://open.spotify.com/album/58N0JewhvuJxBYc7uj99hk"
+      },
+      "artists": [
+        {
+          "name": "Flora Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152893,
+      "name": "Des b\u00eatises (part I)",
+      "url": "https://open.spotify.com/track/6cHBn7KJ1zLYZuEznzeb77"
     },
     {
       "album": {
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 138306,
       "name": "miki cowboy",
       "url": "https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU"
@@ -4736,6 +4754,24 @@
       "duration_ms": 221013,
       "name": "Si j'avais su",
       "url": "https://open.spotify.com/track/6ZmquJRJGfeimrtQnLMQ64"
+    },
+    {
+      "album": {
+        "name": "si tu veux on va voir la mer",
+        "url": "https://open.spotify.com/album/165OtpCQM1BgC6TPnaiMQx"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "si tu veux on va voir la mer",
+      "url": "https://open.spotify.com/track/50oYuuu1dN4Ld47YkO6SVP"
     },
     {
       "album": {

@@ -5569,6 +5569,32 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/21qoSRR8aX0qXtmIkmbVwt"
+      },
+      "artists": [
+        {
+          "name": "AVRYN",
+          "url": "https://open.spotify.com/artist/4OqoVbQzqZlxtqzTTcws91"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "Ayden",
+          "url": "https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7oGl84JQtuu0l6uD3Xnjeq"
+    },
+    {
+      "album": {
         "name": "7 Layers",
         "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
       },

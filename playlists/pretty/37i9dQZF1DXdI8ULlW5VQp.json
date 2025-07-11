@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Silvana Estrada en portada.",
-  "num_followers": 192341,
+  "num_followers": 192349,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-07-04 06:00:14",
       "album": {
+        "name": "No me Importa",
+        "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
+    },
+    {
+      "added_at": "2025-07-04 06:00:14",
+      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/5GYUFA7GNOu4JfVbXUBO01"
       },
@@ -727,26 +747,6 @@
     {
       "added_at": "2025-07-04 06:00:14",
       "album": {
-        "name": "Ojos De Ajonjol\u00ed",
-        "url": "https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Ojos De Ajonjol\u00ed",
-      "url": "https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg"
-    },
-    {
-      "added_at": "2025-07-04 06:00:14",
-      "album": {
         "name": "UNDESASTRE delux: CERODRAMA",
         "url": "https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa"
       },
@@ -763,22 +763,22 @@
     {
       "added_at": "2025-07-04 06:00:14",
       "album": {
-        "name": "No me Importa",
-        "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
+        "name": "Ojos De Ajonjol\u00ed",
+        "url": "https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663"
       },
       "artists": [
         {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         },
         {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
         }
       ],
-      "duration_ms": 177000,
-      "name": "No Me Importa",
-      "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
+      "duration_ms": 158181,
+      "name": "Ojos De Ajonjol\u00ed",
+      "url": "https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg"
     },
     {
       "added_at": "2025-07-04 06:00:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-07-04 06:00:14",
       "album": {
-        "name": "desahogo",
-        "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "desahogo",
-      "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
-    },
-    {
-      "added_at": "2025-07-04 06:00:14",
-      "album": {
         "name": "Despu\u00e9s del Norte",
         "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 165456,
       "name": "Medias tintas",
       "url": "https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS"
+    },
+    {
+      "added_at": "2025-07-04 06:00:14",
+      "album": {
+        "name": "desahogo",
+        "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "desahogo",
+      "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
     },
     {
       "added_at": "2025-07-04 06:00:14",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-07-04 06:00:14",
       "album": {
-        "name": "Escrib\u00ed Esto para Ti",
-        "url": "https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K"
-      },
-      "artists": [
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
-        }
-      ],
-      "duration_ms": 180998,
-      "name": "Ya Vali\u00f3",
-      "url": "https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l"
-    },
-    {
-      "added_at": "2025-07-04 06:00:14",
-      "album": {
         "name": "Qu\u00e9 Suerte",
         "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 165960,
       "name": "Qu\u00e9 Suerte",
       "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
+    },
+    {
+      "added_at": "2025-07-04 06:00:14",
+      "album": {
+        "name": "Escrib\u00ed Esto para Ti",
+        "url": "https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K"
+      },
+      "artists": [
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "duration_ms": 180998,
+      "name": "Ya Vali\u00f3",
+      "url": "https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l"
     },
     {
       "added_at": "2025-07-04 06:00:14",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-07-04 06:00:14",
       "album": {
-        "name": "Lagunas Brillantes de la Memoria",
-        "url": "https://open.spotify.com/album/731GTPDMW00SzyRrxsylLu"
-      },
-      "artists": [
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 103220,
-      "name": "\u00bfqu\u00e9 somos hoy?",
-      "url": "https://open.spotify.com/track/7wd6gLSR8rELRaa9eGaPYN"
-    },
-    {
-      "added_at": "2025-07-04 06:00:14",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 168000,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
+    },
+    {
+      "added_at": "2025-07-04 06:00:14",
+      "album": {
+        "name": "Lagunas Brillantes de la Memoria",
+        "url": "https://open.spotify.com/album/731GTPDMW00SzyRrxsylLu"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "duration_ms": 103220,
+      "name": "\u00bfqu\u00e9 somos hoy?",
+      "url": "https://open.spotify.com/track/7wd6gLSR8rELRaa9eGaPYN"
     },
     {
       "added_at": "2025-07-04 06:00:14",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-07-04 06:00:14",
       "album": {
-        "name": "L\u00edmite",
-        "url": "https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 192612,
-      "name": "L\u00edmite",
-      "url": "https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9"
-    },
-    {
-      "added_at": "2025-07-04 06:00:14",
-      "album": {
         "name": "Polvo De Gigantes",
         "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2025-07-04 06:00:14",
+      "album": {
+        "name": "L\u00edmite",
+        "url": "https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 192612,
+      "name": "L\u00edmite",
+      "url": "https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9"
     },
     {
       "added_at": "2025-07-04 06:00:14",

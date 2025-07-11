@@ -4726,7 +4726,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -7382,7 +7382,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/4KW66ZVoSyUN0TJXdL9mLc"
@@ -26271,6 +26271,32 @@
     },
     {
       "album": {
+        "name": "Mandacik",
+        "url": "https://open.spotify.com/album/6JHnESOMqapBUDGCeS1OoW"
+      },
+      "artists": [
+        {
+          "name": "\u0141obuzy",
+          "url": "https://open.spotify.com/artist/4wJtkZRfieBICxs8onRjy6"
+        },
+        {
+          "name": "Akcent",
+          "url": "https://open.spotify.com/artist/10wjV72OetIdsUQEcjSnOd"
+        },
+        {
+          "name": "Zenon Martyniuk",
+          "url": "https://open.spotify.com/artist/3K5gIlI52RvGBMonWwBmVf"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198169,
+      "name": "Mandacik",
+      "url": "https://open.spotify.com/track/6Zrh2zsDLqdjpkHsbTbMV5"
+    },
+    {
+      "album": {
         "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
         "url": "https://open.spotify.com/album/0vklKK8tv39Onnd9DnZlUt"
       },
@@ -30510,7 +30536,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 204221,
       "name": "NIE CHC\u0118 WRACA\u0106",
       "url": "https://open.spotify.com/track/0gZ6aSidViW10soPaibyFa"
@@ -30978,6 +31004,10 @@
         {
           "name": "ADI",
           "url": "https://open.spotify.com/artist/3IfUL3H4l7DwajZHwDoTxv"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
         }
       ],
       "date_added": "2025-06-26",
@@ -31248,7 +31278,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 164000,
       "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
       "url": "https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX"
@@ -31764,10 +31794,6 @@
         {
           "name": "Duit",
           "url": "https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
         }
       ],
       "date_added": "2025-07-05",
@@ -38110,7 +38136,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 301461,
       "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
       "url": "https://open.spotify.com/track/4QTSoHVlCjAp0DWUYUZ3Ok"

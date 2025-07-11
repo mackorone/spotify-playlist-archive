@@ -1689,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Sun In California",
+        "url": "https://open.spotify.com/album/1SVssRyjboGsW7zXVwARk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193383,
+      "name": "Out",
+      "url": "https://open.spotify.com/track/2oMjFP0gWKheDUe7adHSR1"
+    },
+    {
+      "album": {
         "name": "Beautiful (Platinum Edition)",
         "url": "https://open.spotify.com/album/3XT3rHDWteNpQNhnARN7Ap"
       },

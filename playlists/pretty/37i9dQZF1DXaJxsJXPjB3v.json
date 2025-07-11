@@ -1,6 +1,6 @@
 {
   "description": "Revisit the best Kwaito songs ever released. Cover: Bongo Maffin",
-  "num_followers": 74258,
+  "num_followers": 74299,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Vintage Sounds of Johannesburg",
+        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
+        }
+      ],
+      "duration_ms": 292034,
+      "name": "Fester",
+      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Mandoza",
         "url": "https://open.spotify.com/album/5mt82F2mozkrikmeYeFU80"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 253466,
       "name": "Izinja",
       "url": "https://open.spotify.com/track/6qJpatMdBrN3yRFuLqLCA8"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Vintage Sounds of Johannesburg",
-        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
-      },
-      "artists": [
-        {
-          "name": "Jacknife",
-          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
-        }
-      ],
-      "duration_ms": 292034,
-      "name": "Fester",
-      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
     },
     {
       "added_at": "2024-05-22 11:00:00",

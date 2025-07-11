@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Narivetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,835 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,492 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 13 | [Naranga Paal](https://open.spotify.com/track/3wL3P9U07mTkdnlLAMe0ql) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Naranga Paal](https://open.spotify.com/album/0OEB369pcXTTcgBDvQ1RXy) | 2:31 |
 | 14 | [Munthirichar](https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Munthirichar](https://open.spotify.com/album/1J9txM3rhZhexF42weUMWJ) | 3:54 |
 | 15 | [Poothiri](https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic) | [Poothiri](https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5) | 4:00 |
-| 16 | [Kaathal Maari](https://open.spotify.com/track/3tnaBKfA1AjFMS6P5vTI95) | [Manas Krishna](https://open.spotify.com/artist/0yWITsEN8nik0wQA5BoxVU), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q) | [Kaathal Maari](https://open.spotify.com/album/3qus9fEFuqdeDVATJuiEnQ) | 3:16 |
+| 16 | [Kaathal Maari](https://open.spotify.com/track/3tnaBKfA1AjFMS6P5vTI95) | [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Manas Krishna](https://open.spotify.com/artist/0yWITsEN8nik0wQA5BoxVU) | [Kaathal Maari](https://open.spotify.com/album/3qus9fEFuqdeDVATJuiEnQ) | 3:16 |
 | 17 | [Suicide Note](https://open.spotify.com/track/4CoQqdPGDPRW07lQ4N54i9) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [PUNKALI](https://open.spotify.com/artist/3foxXyK7zJeaVjEoJ5GWct) | [Suicide Note](https://open.spotify.com/album/75KZSx3TPb4Nf3Z7lHDz9B) | 2:30 |
 | 18 | [Sundari Laila \(From "Abhilasham"\)](https://open.spotify.com/track/6KZegrgrc28ZjqWnJSwcTi) | [Sreehari K Nair](https://open.spotify.com/artist/2nUk6QuBVgAPxwIzLQyU9z), [Lal Krishna](https://open.spotify.com/artist/6T9d3iP4qFaKzPATYC0lYE), [Bharath Sajikumar](https://open.spotify.com/artist/1p8cN7ow4EE4F0vNE1gz6i), [Aswin Vijayan](https://open.spotify.com/artist/28GxfEqJSbq0Q2ckxxSxos), [Sharfu](https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa) | [Sundari Laila \(From "Abhilasham"\)](https://open.spotify.com/album/26TC5642qGK3KGChlXZ52F) | 1:20 |
 | 19 | [Vaada Veda \(From "Narivetta"\)](https://open.spotify.com/track/71rsifxqhk2Gd2AsfqAwDX) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaada Veda \(From "Narivetta"\)](https://open.spotify.com/album/3NWG1BlajaLq6xXGyFrckV) | 3:59 |

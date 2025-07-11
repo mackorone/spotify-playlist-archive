@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uYCFYN7H4JUOEI7N4dLHN.md) - [plain]
 
 > Rock through the 80s\. Over 8 hours of music from iconic bands and artists! Cover: Queen
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 149,467 likes - 125 songs - 8 hr 49 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 149,460 likes - 125 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

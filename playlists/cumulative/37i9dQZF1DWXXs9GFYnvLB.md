@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: The Kid LAROI
+> The hottest tracks with the freshest hits! Cover: Fred again..
 
 355 songs - 18 hr 51 min
 

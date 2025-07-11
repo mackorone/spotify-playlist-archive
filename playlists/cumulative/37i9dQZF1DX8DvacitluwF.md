@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Nanette
+> The best in South African and international R&B\. Cover: Tyla
 
-579 songs - 1 day 7 hr 3 min
+580 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-04 |  |
 | [Involved](https://open.spotify.com/track/4oVUImT0hkgyjH989I1U4u) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [THJ Radio Vol\. 1](https://open.spotify.com/album/11ZhB00zBhxQkxJOHJ4Q2a) | 2:30 | 2024-09-11 | 2024-10-25 |
 | [IQINISO](https://open.spotify.com/track/03wM9MDUWJT6D901sRFvcT) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [OHLAZA](https://open.spotify.com/album/4Ly6AteRRNVC3fcPyqkoag) | 2:43 | 2024-09-26 | 2025-06-20 |
+| [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-07-10 |  |
 | [Is It Mine \(feat\. Lady London\)](https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Why Not More? \(Extended\)](https://open.spotify.com/album/2wnTULzFN2hm32986KHwm6) | 2:52 | 2025-05-01 |  |
 | [Isineke](https://open.spotify.com/track/6ek2jtNGxNiKGCNpkeisW9) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isitifiketi](https://open.spotify.com/album/1ARqAmYjCwJjvRNKe98S11) | 3:26 | 2025-06-13 | 2025-06-20 |
 | [Iskhathi](https://open.spotify.com/track/1f2AD0tHrms0NXz5CwtHGu) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [Imibuzo](https://open.spotify.com/album/2JW7jozvmFKPjsm54YGeNS) | 3:12 | 2025-03-14 | 2025-06-28 |
@@ -393,7 +394,7 @@
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-09-26 | 2025-04-25 |
 | [Please Don't Fall In Love With Me \- Live](https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw) | 3:29 | 2024-05-09 | 2024-09-03 |
 | [Poster Child](https://open.spotify.com/track/2L6eFClqVJy62RkW8FEAQx) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Poster Child](https://open.spotify.com/album/0604mViR529HBNJmZr5IRW) | 2:48 | 2024-06-27 | 2024-09-03 |
-| [Pot of Gold](https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [SPIRAL](https://open.spotify.com/album/5AdvIpZ7jHVpTUfiyroX69) | 3:29 | 2025-07-04 |  |
+| [Pot of Gold](https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [SPIRAL](https://open.spotify.com/album/5AdvIpZ7jHVpTUfiyroX69) | 3:29 | 2025-07-04 | 2025-07-11 |
 | [Prada Le Balenciaga](https://open.spotify.com/track/25zQa5r9f21a4aZkw8UoTv) | [MfanaTouchLine](https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ) | [Lepara La Tipa](https://open.spotify.com/album/0AnwBDLWanpcszQWV7yTSO) | 1:43 | 2025-06-13 | 2025-06-20 |
 | [Pretty Girl](https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pretty Girl](https://open.spotify.com/album/528NVpD6jexhQKgUnxrFkg) | 3:12 | 2025-06-20 | 2025-06-28 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-23 | 2024-03-22 |

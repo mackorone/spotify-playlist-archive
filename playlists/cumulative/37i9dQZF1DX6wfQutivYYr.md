@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Fabri Fibra sulla cover della playlist più grande in Italia 🏆
+> Fedez e CLARA sulla cover della playlist più grande in Italia 🏆
 
 223 songs - 11 hr 31 min
 

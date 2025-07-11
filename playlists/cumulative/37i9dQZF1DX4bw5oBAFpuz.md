@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-561 songs - 1 day 8 hr 4 min
+562 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2023-02-23 |  |
 | [Greatest Hits \- Acoustic](https://open.spotify.com/track/29nQhFJZAQdxZqrwh8H1Ak) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/50Bra1PwyvsuYrsYVAY0fc) | 3:23 | 2024-11-08 | 2025-01-10 |
 | [Greatest Hits \- Acoustic](https://open.spotify.com/track/7cmzUKQfJCevlugn6m6M3Q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/6RLWl6RTIjQMgf4kdKhn62) | 3:23 | 2023-04-25 | 2024-01-29 |
-| [Greenblueviolet](https://open.spotify.com/track/25bUC6HUONOmzHDDhuVzrG) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Greenblueviolet](https://open.spotify.com/album/4EgIdufjpX2WXIHe3vYZYE) | 3:38 | 2025-01-23 |  |
+| [Greenblueviolet](https://open.spotify.com/track/25bUC6HUONOmzHDDhuVzrG) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Greenblueviolet](https://open.spotify.com/album/4EgIdufjpX2WXIHe3vYZYE) | 3:38 | 2025-01-23 | 2025-07-11 |
 | [Half a Man](https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Half a Man](https://open.spotify.com/album/5XM1KXwrQkexM7Zm6WLrx4) | 2:56 | 2024-11-04 |  |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2023-02-23 |  |
 | [Hands That I Drew](https://open.spotify.com/track/0Bf2bX4w9pWz2HGWEZFtjT) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Hands That I Drew](https://open.spotify.com/album/5g5i8YVNFQu8SyQPjLTAFZ) | 4:27 | 2023-02-23 | 2024-03-22 |
@@ -522,6 +522,7 @@
 | [Walk on Water](https://open.spotify.com/track/7gJxovbniGxd1capql4YkA) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:34 | 2023-04-25 | 2023-10-06 |
 | [Walking On A Wire](https://open.spotify.com/track/5T4dlptZuicwu2CENBBTiB) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Walking On A Wire](https://open.spotify.com/album/3lwoMf5HdSl5CeSWCG3UTP) | 3:35 | 2023-02-23 | 2023-04-26 |
 | [Wandering Heart](https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wandering Heart](https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At) | 3:20 | 2023-02-23 |  |
+| [Want You For Life](https://open.spotify.com/track/71J2AeYis1MV4jISAm986M) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Want You For Life](https://open.spotify.com/album/3jHSiEahdW8Es6wj66PSxs) | 3:21 | 2025-07-10 |  |
 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2023-02-23 | 2023-05-02 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2023-02-23 | 2024-04-19 |
 | [Wasn't Expecting That](https://open.spotify.com/track/0DIcd7djiVGT4RYbTIlsoJ) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/0xgnGJbAUWGc89cevj0NUh) | 3:21 | 2024-04-11 |  |

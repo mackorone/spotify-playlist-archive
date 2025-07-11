@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,022 songs - 2 day 9 hr 22 min
+1,023 songs - 2 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Connected](https://open.spotify.com/track/45hfGclwBL1fQzjO2rrdgf) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [Connected](https://open.spotify.com/album/3KDFcNu9Ghk8k51e8Y4aTB) | 2:27 | 2025-06-12 |  |
 | [Crashing](https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Crashing](https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC) | 3:56 | 2023-05-17 | 2023-08-10 |
 | [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-09 | 2024-02-22 |
+| [Crashout](https://open.spotify.com/track/1H3PyvVjT4NmwJMgzI3jbr) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Crashout](https://open.spotify.com/album/6WMccOsTUBD5MjR5GOBLu6) | 3:17 | 2025-07-10 |  |
 | [Crazy](https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Crazy](https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE) | 3:26 | 2025-03-05 | 2025-05-30 |
 | [CREATION OF DISGUST](https://open.spotify.com/track/12Ekt7NiSWR0CJWIgVK37m) | [Avance](https://open.spotify.com/artist/7jIewPOjOwffB1mcJIk4vP), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [CREATION OF DISGUST](https://open.spotify.com/album/0KLFcQSTmJH4V1UWSkue2b) | 3:21 | 2024-03-25 | 2024-06-11 |
 | [Crisis](https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Hailure](https://open.spotify.com/artist/1CVix4Yg8Q2o8YCFGNQUrn) | [Crisis / Magazine](https://open.spotify.com/album/3OssBn9F6T2VSaCjZ150lv) | 3:13 | 2024-07-11 | 2024-10-04 |
@@ -939,7 +940,7 @@
 | [Turn It Up \- Slushii & Afinity VIP](https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Turn It Up \(Slushii & Afinity VIP\)](https://open.spotify.com/album/76T0t1HbJ8nNieSaJ8nKLb) | 3:58 | 2023-12-08 | 2024-03-22 |
 | [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-03-29 | 2023-06-21 |
 | [Turning](https://open.spotify.com/track/1syjpaCUrigJLbsdvBL2g6) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Turning](https://open.spotify.com/album/10alSsU3B9fySetvtSSoyR) | 3:40 | 2024-02-13 | 2024-05-07 |
-| [Turning Point](https://open.spotify.com/track/4Yu2BqFkpx9WCUZFeXkM7e) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Moments In Everglow](https://open.spotify.com/album/1VpvvVrZ7EzVL2o0cDvW1l) | 4:24 | 2025-04-18 |  |
+| [Turning Point](https://open.spotify.com/track/4Yu2BqFkpx9WCUZFeXkM7e) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Moments In Everglow](https://open.spotify.com/album/1VpvvVrZ7EzVL2o0cDvW1l) | 4:24 | 2025-04-18 | 2025-07-11 |
 | [Two Lakes](https://open.spotify.com/track/2J1e9NFZFpBzgxST74uZdi) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [Two Lakes](https://open.spotify.com/album/0vQsSGuF1Nq5zlFQE7jLIh) | 3:15 | 2024-06-18 | 2024-09-11 |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
 | [U & Me \- Vincent Remix](https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [U & Me \(Vincent Remix\)](https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J) | 3:58 | 2024-04-08 | 2024-06-28 |

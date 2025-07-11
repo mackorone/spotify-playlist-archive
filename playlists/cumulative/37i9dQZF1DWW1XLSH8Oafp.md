@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring 1tbsp
 
-1,142 songs - 2 day 14 hr 20 min
+1,146 songs - 2 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 | 2024-02-23 | 2024-10-25 |
 | [Broke My Heart](https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7) | 2:46 | 2024-06-07 | 2025-03-07 |
 | [broken](https://open.spotify.com/track/0ByIPKMNWX4lf4sDzv9xDk) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [broken](https://open.spotify.com/album/7ilHyFAP0pTwelfRugJfUS) | 2:53 | 2022-11-18 | 2022-12-03 |
+| [Bruv Parade](https://open.spotify.com/track/3v5wBZXYpdSQEbixvZE2xM) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Bruv Parade](https://open.spotify.com/album/3VSItadIssVnqfu13Oxuek) | 3:35 | 2025-07-10 |  |
 | [Bubbly Paradise](https://open.spotify.com/track/7eNSM4ZEpgGIzvMcObLKSs) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Eternal Euphoria](https://open.spotify.com/album/47Pqc2BRtUyi22WyC5ngJG) | 6:12 | 2022-01-21 | 2022-04-16 |
 | [Buffalo Skank](https://open.spotify.com/track/3tKisiH1mTIdHCGdEUCzwk) | [Frankel & Harper](https://open.spotify.com/artist/02G23wiVWJ9W9DRNL2plup) | [Buffalo Skank](https://open.spotify.com/album/14R9jffCTCcGOpapb4f9yw) | 5:32 | 2022-08-26 | 2022-10-22 |
 | [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-30 | 2024-03-01 |
@@ -781,6 +782,7 @@
 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 | 2023-02-04 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-12 | 2023-01-14 |
 | [Piece of Me \- salute Remix](https://open.spotify.com/track/61QFm5wxcUkfETCPIBIPiS) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Piece of Me \(salute Remix\)](https://open.spotify.com/album/0PdLhYfpgNgXGXQ1xUOSgz) | 3:18 | 2021-10-15 | 2022-03-12 |
+| [pieces](https://open.spotify.com/track/3dQHo1APLeZtMOuT6b8zBx) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [pieces](https://open.spotify.com/album/7JrfcX6MszNBaJnSCssh6y) | 2:22 | 2025-07-10 |  |
 | [Pink Television](https://open.spotify.com/track/1rMWYlzlE8NWHyZj9DWhww) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Pink Television](https://open.spotify.com/album/1wI6CqM2bYIvPEnqOId4MV) | 5:07 | 2022-10-21 | 2023-06-17 |
 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 | 2022-12-09 | 2023-05-19 |
 | [planet1995](https://open.spotify.com/track/3Jh6eYEVu0H0fxZCrihisA) | [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [planet1995](https://open.spotify.com/album/4fuy1NdmPV4DlnMeVeEtIK) | 3:48 | 2022-01-07 | 2022-06-04 |
@@ -929,6 +931,7 @@
 | [Starburst](https://open.spotify.com/track/0C8StPiacteY4ft7OGOt5G) | [Maya Q](https://open.spotify.com/artist/7w4cjtjGRbBN9wGWeu0r4J) | [Club Moss](https://open.spotify.com/album/2XpWP3eKFkMNlISF1ApaMm) | 3:50 | 2024-03-22 | 2024-11-30 |
 | [Stargazing](https://open.spotify.com/track/3LFxQUYxND86brbqUeJM8c) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [CARLIE](https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE), [Kiss the Moon](https://open.spotify.com/artist/3tmqjDm81wXPk0tDWjo33k), [Stutters](https://open.spotify.com/artist/13rLgeUlHjpISeNrFEb4Tx) | [Stargazing](https://open.spotify.com/album/18ukr7C3yQ9Oz0S4XKBSzI) | 5:00 | 2024-04-12 | 2025-01-24 |
 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 | 2025-05-22 |  |
+| [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 | 2025-07-10 |  |
 | [Starry](https://open.spotify.com/track/63f9LtwZTlLyTSBSLOpjaX) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH), [THRSHXOLD](https://open.spotify.com/artist/4csh278n0tsDRZrBdLFa0u) | [Umbrae](https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM) | 2:15 | 2022-03-11 | 2022-07-12 |
 | [Start Over](https://open.spotify.com/track/05xALwY1FDDAyzKv9DQiVD) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [Start Over](https://open.spotify.com/album/5ZSIGJ8ULVMAJbxgFYw6Zh) | 5:36 | 2022-02-04 | 2022-02-06 |
 | [Start Small](https://open.spotify.com/track/2TWPMrYaaT4k9mYfhYUfMX) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Start Small](https://open.spotify.com/album/3jTRTpzqazmvhD6tgyQgTe) | 3:48 | 2022-05-20 | 2022-09-10 |
@@ -938,6 +941,7 @@
 | [stay\. x](https://open.spotify.com/track/0uYLn42kkUcLmXk00ncWsu) | [Cell M8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/0gLrB391OKZn8JhhJupbQ2) | 4:46 | 2023-11-24 | 2023-12-08 |
 | [stay\. x](https://open.spotify.com/track/7kXNol0cc3fAyNiYQBM5wY) | [cell m8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/3uJrG3xIQLgmF1D7JjvJIn) | 4:46 | 2023-12-01 | 2024-01-13 |
 | [Steady Pace](https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Steady Pace](https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R) | 2:26 | 2023-09-28 | 2024-06-29 |
+| [Stereo](https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Stereo](https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ) | 2:27 | 2025-07-10 |  |
 | [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-12-01 | 2024-01-13 |
 | [Still Miss U](https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Still Miss U](https://open.spotify.com/album/6Twb7nEWGMHnKHB4RKIHNu) | 3:47 | 2021-11-19 | 2022-04-16 |
 | [Stolen \- Namasenda Remix](https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Stolen \(Namasenda Remix\)](https://open.spotify.com/album/79Pj72NQYB8OgWgJ8LzSTe) | 2:48 | 2024-08-16 | 2025-05-02 |

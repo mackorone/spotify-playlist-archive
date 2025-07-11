@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena pop italiana \ud83c\uddee\ud83c\uddf9  cover: Yaraki",
+  "description": "La nuova scena pop italiana \ud83c\uddee\ud83c\uddf9  cover: Sissi",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 195176,
       "name": "Animali di pezza",
       "url": "https://open.spotify.com/track/05nK24q5JRcmDDpc81NJhO"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 165907,
       "name": "ARIA",
       "url": "https://open.spotify.com/track/1c79uierwzEU9o7HibOoQA"
@@ -4248,7 +4248,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 173437,
       "name": "ESTREMO",
       "url": "https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82"
@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 128000,
       "name": "Felpa XXL",
       "url": "https://open.spotify.com/track/2eMz9Ay048yD6avWXynscu"
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 186341,
       "name": "fino all'osso",
       "url": "https://open.spotify.com/track/2VxBf9LFI9teQEhoStCoTW"
@@ -5288,10 +5288,32 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 158423,
       "name": "GOOGLEAMORE",
       "url": "https://open.spotify.com/track/6WLqVxJhsjXsCojKjRt2wx"
+    },
+    {
+      "album": {
+        "name": "Graffiti a vela",
+        "url": "https://open.spotify.com/album/7weBguxcwpmluimP9KuwLp"
+      },
+      "artists": [
+        {
+          "name": "Gyuse",
+          "url": "https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr"
+        },
+        {
+          "name": "Terso",
+          "url": "https://open.spotify.com/artist/68UQjiFaI4yhJwhK9DfLYf"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Graffiti a vela",
+      "url": "https://open.spotify.com/track/32lTuogbhdUwVgrSwDd4Kx"
     },
     {
       "album": {
@@ -5535,6 +5557,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Hills",
+        "url": "https://open.spotify.com/album/5RFRDBc5C7deo3p1Lt0JSS"
+      },
+      "artists": [
+        {
+          "name": "FENICE",
+          "url": "https://open.spotify.com/artist/4c7S5SAfW8xtGnn8qi4d8D"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Hollywood Hills",
+      "url": "https://open.spotify.com/track/4SUIFd6aootCSZpBcXcdx1"
+    },
+    {
+      "album": {
         "name": "Hooligan",
         "url": "https://open.spotify.com/album/7Lg8H7GHJyldgRnARRKBIR"
       },
@@ -5568,6 +5608,24 @@
       "duration_ms": 182400,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/31v4wB0mU8e2D2sijFXTfM"
+    },
+    {
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/1XoGxiGWfdPCHH2ItOz3SM"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173135,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/5xYtSKU6Fz2ZwY491faFIs"
     },
     {
       "album": {
@@ -6252,6 +6310,24 @@
       "duration_ms": 171227,
       "name": "ISIDE",
       "url": "https://open.spotify.com/track/0Zt3q9ZMX6EbWPfsz4wH09"
+    },
+    {
+      "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/0wn1MOIGxp7WhE5TzV3OPe"
+      },
+      "artists": [
+        {
+          "name": "Amanda Roberts",
+          "url": "https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180113,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/0NJowfv0oPbfAw7YjDYeRD"
     },
     {
       "album": {
@@ -10496,7 +10572,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 169817,
       "name": "RELAX",
       "url": "https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS"
@@ -11091,6 +11167,24 @@
     },
     {
       "album": {
+        "name": "SCUSE",
+        "url": "https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124033,
+      "name": "SCUSE",
+      "url": "https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G"
+    },
+    {
+      "album": {
         "name": "Se ci lasciassimo domani",
         "url": "https://open.spotify.com/album/2LrLAT0Y2Nj79rOn1qjq98"
       },
@@ -11326,7 +11420,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 204212,
       "name": "Serenata Funky (feat. Vale LP)",
       "url": "https://open.spotify.com/track/2LzAtdzc8PQ4efqa13Vqw9"
@@ -11538,7 +11632,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 110263,
       "name": "Soffitta al Liceo",
       "url": "https://open.spotify.com/track/3lBrtP6KcRnB4FvuITVazm"
@@ -11658,6 +11752,24 @@
       "duration_ms": 178306,
       "name": "Soli per errore",
       "url": "https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN"
+    },
+    {
+      "album": {
+        "name": "soli per strada",
+        "url": "https://open.spotify.com/album/7LAkJvjx6oIKzT8zkV8d82"
+      },
+      "artists": [
+        {
+          "name": "NIMSAY",
+          "url": "https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "soli per strada",
+      "url": "https://open.spotify.com/track/3e9b4s7PAH8T2RlJGWDk2x"
     },
     {
       "album": {
@@ -12022,6 +12134,24 @@
       "duration_ms": 166601,
       "name": "SPUNTA BLU",
       "url": "https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4"
+    },
+    {
+      "album": {
+        "name": "SQUALI SQUALI SQUALI",
+        "url": "https://open.spotify.com/album/3WQCXAN7a3JDcswwTVd26W"
+      },
+      "artists": [
+        {
+          "name": "nudda",
+          "url": "https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141055,
+      "name": "SQUALI SQUALI SQUALI",
+      "url": "https://open.spotify.com/track/0aEQ9mByS29fO1yDatmwR6"
     },
     {
       "album": {
@@ -12637,6 +12767,42 @@
     },
     {
       "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/0SrOiBcjZZwTNj6hAe4CYr"
+      },
+      "artists": [
+        {
+          "name": "IRBIS",
+          "url": "https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "TORNADO",
+      "url": "https://open.spotify.com/track/5NutRZ0wwBfnzL23dvHEHu"
+    },
+    {
+      "album": {
+        "name": "TORRE DI BABELE",
+        "url": "https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP"
+      },
+      "artists": [
+        {
+          "name": "PAOLO SANTO",
+          "url": "https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182923,
+      "name": "TORRE DI BABELE",
+      "url": "https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0"
+    },
+    {
+      "album": {
         "name": "tra le braccia",
         "url": "https://open.spotify.com/album/1ivYjNXgEc752jnfSaggmQ"
       },
@@ -13048,7 +13214,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 144443,
       "name": "UN POSTO NUOVO",
       "url": "https://open.spotify.com/track/6gHqzNylTKgd2QcPsVgQZE"

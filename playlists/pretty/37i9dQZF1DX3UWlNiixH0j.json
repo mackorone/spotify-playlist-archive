@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30d5\u30ec\u30f3\u30ba Friends",
-  "num_followers": 63715,
+  "num_followers": 63727,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -464,8 +464,8 @@
           "url": "https://open.spotify.com/artist/7wqLKZlQrecUHehboPBPHG"
         },
         {
-          "name": "\u5c0f\u5c71\u7530\u572d\u543e",
-          "url": "https://open.spotify.com/artist/2WBOtW3u1oaNoOI9S0nVTK"
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
         }
       ],
       "duration_ms": 232240,
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-07-08 18:47:11",
       "album": {
-        "name": "\u6de1\u96ea",
-        "url": "https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW"
-      },
-      "artists": [
-        {
-          "name": "Blu-Swing",
-          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
-        }
-      ],
-      "duration_ms": 202348,
-      "name": "\u6de1\u96ea",
-      "url": "https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c"
-    },
-    {
-      "added_at": "2025-07-08 18:47:11",
-      "album": {
         "name": "sekisei inko",
         "url": "https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 207745,
       "name": "sekisei inko",
       "url": "https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ"
+    },
+    {
+      "added_at": "2025-07-08 18:47:11",
+      "album": {
+        "name": "\u6de1\u96ea",
+        "url": "https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW"
+      },
+      "artists": [
+        {
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+        }
+      ],
+      "duration_ms": 202348,
+      "name": "\u6de1\u96ea",
+      "url": "https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c"
     },
     {
       "added_at": "2025-07-08 18:47:11",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-07-08 18:47:11",
       "album": {
-        "name": "Can we do it again?",
-        "url": "https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr"
-      },
-      "artists": [
-        {
-          "name": "Julia Takada",
-          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can we do it again?",
-      "url": "https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn"
-    },
-    {
-      "added_at": "2025-07-08 18:47:11",
-      "album": {
         "name": "Hakko",
         "url": "https://open.spotify.com/album/58qHbTGh1IbLqkemxWqeGQ"
       },
@@ -999,22 +983,6 @@
       "duration_ms": 552510,
       "name": "\u6587\u660e\u5150",
       "url": "https://open.spotify.com/track/0yKoAfF6FvyWbe0LGMoZxj"
-    },
-    {
-      "added_at": "2025-07-08 18:47:11",
-      "album": {
-        "name": "Departure / Letter to Flowers",
-        "url": "https://open.spotify.com/album/3JKlDs7sbWPHqag0stXfLI"
-      },
-      "artists": [
-        {
-          "name": "\u3086\u3046\u3089\u3093\u8239",
-          "url": "https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm"
-        }
-      ],
-      "duration_ms": 242062,
-      "name": "Departure",
-      "url": "https://open.spotify.com/track/7LK9OuKMy5hCY7zO5PC3ow"
     },
     {
       "added_at": "2025-07-08 18:47:11",
@@ -1035,6 +1003,38 @@
       "duration_ms": 120000,
       "name": "Take a Look - Ftlframe Remix",
       "url": "https://open.spotify.com/track/5r2Z801NMhhl8B9xykon4f"
+    },
+    {
+      "added_at": "2025-07-08 18:47:11",
+      "album": {
+        "name": "Can we do it again?",
+        "url": "https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can we do it again?",
+      "url": "https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn"
+    },
+    {
+      "added_at": "2025-07-08 18:47:11",
+      "album": {
+        "name": "Departure / Letter to Flowers",
+        "url": "https://open.spotify.com/album/3JKlDs7sbWPHqag0stXfLI"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3046\u3089\u3093\u8239",
+          "url": "https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm"
+        }
+      ],
+      "duration_ms": 242062,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/7LK9OuKMy5hCY7zO5PC3ow"
     },
     {
       "added_at": "2025-07-08 18:47:11",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-07-08 18:47:11",
       "album": {
-        "name": "\u3068\u308f\u306e\u796d\u308a",
-        "url": "https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
-          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
-        }
-      ],
-      "duration_ms": 291366,
-      "name": "\u3068\u308f\u306e\u796d\u308a",
-      "url": "https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E"
-    },
-    {
-      "added_at": "2025-07-08 18:47:11",
-      "album": {
         "name": "PAST THE MOON feat. mahina",
         "url": "https://open.spotify.com/album/2goDEYNwafHYfQ8omb6Tk6"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 222296,
       "name": "PAST THE MOON feat. mahina",
       "url": "https://open.spotify.com/track/5oZYia9krxvPpQmfN21USV"
+    },
+    {
+      "added_at": "2025-07-08 18:47:11",
+      "album": {
+        "name": "\u3068\u308f\u306e\u796d\u308a",
+        "url": "https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "duration_ms": 291366,
+      "name": "\u3068\u308f\u306e\u796d\u308a",
+      "url": "https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E"
     },
     {
       "added_at": "2025-07-08 18:47:11",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-07-08 18:47:11",
       "album": {
-        "name": "\u30e1\u30ed\u3044\u5922",
-        "url": "https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5"
-      },
-      "artists": [
-        {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
-        }
-      ],
-      "duration_ms": 159648,
-      "name": "\u541b\u306b\u30ce\u30fc\u30d9\u30eb\u8cde",
-      "url": "https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z"
-    },
-    {
-      "added_at": "2025-07-08 18:47:11",
-      "album": {
         "name": "hey!!!!!",
         "url": "https://open.spotify.com/album/4cZhnxX4v70aV7svupImx3"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 218889,
       "name": "hey!!!!!",
       "url": "https://open.spotify.com/track/1VYTe72Tqeu1BBji74IPXo"
+    },
+    {
+      "added_at": "2025-07-08 18:47:11",
+      "album": {
+        "name": "\u30e1\u30ed\u3044\u5922",
+        "url": "https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 159648,
+      "name": "\u541b\u306b\u30ce\u30fc\u30d9\u30eb\u8cde",
+      "url": "https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z"
     },
     {
       "added_at": "2025-07-08 18:47:11",
@@ -1223,34 +1223,38 @@
     {
       "added_at": "2025-07-08 18:47:11",
       "album": {
-        "name": "NO NAME DANCE",
-        "url": "https://open.spotify.com/album/6so0gAUjwcffr1w06f0qeK"
+        "name": "\u74f6",
+        "url": "https://open.spotify.com/album/2PxrwxSTPmPH3K8gSgsJRB"
       },
       "artists": [
         {
-          "name": "ODD Foot Works",
-          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
+          "name": "Sayonara Ponytail",
+          "url": "https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X"
         }
       ],
-      "duration_ms": 208459,
-      "name": "NO NAME DANCE",
-      "url": "https://open.spotify.com/track/0vUPrxZEue06uvO8OxjiMG"
+      "duration_ms": 122540,
+      "name": "\u74f6",
+      "url": "https://open.spotify.com/track/3Oqt3V0HOEUQWeTkzX5sF5"
     },
     {
       "added_at": "2025-07-08 18:47:11",
       "album": {
-        "name": "The Best Die Immortalised",
-        "url": "https://open.spotify.com/album/4G8oWo1Lb45TAWb97IGk38"
+        "name": "(Every Moment Needs Your) Choice and Sweat (feat. \u5317\u6751\u8557)",
+        "url": "https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV"
       },
       "artists": [
         {
-          "name": "The Mighty Project",
-          "url": "https://open.spotify.com/artist/1Uz7BX5Tgwzc08SzJytGJg"
+          "name": "yuma yamaguchi",
+          "url": "https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8"
+        },
+        {
+          "name": "Fuki Kitamura",
+          "url": "https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9"
         }
       ],
-      "duration_ms": 226221,
-      "name": "Trapped in the Neon Lights",
-      "url": "https://open.spotify.com/track/2U1ZEejCS3AM1JCxPiwK3T"
+      "duration_ms": 164674,
+      "name": "(Every Moment Needs Your) Choice and Sweat (feat. \u5317\u6751\u8557)",
+      "url": "https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx"
     }
   ],
   "unique_name": "Edge!",

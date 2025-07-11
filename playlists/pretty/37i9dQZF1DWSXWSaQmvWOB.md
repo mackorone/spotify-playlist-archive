@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,420 likes - 102 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,456 likes - 102 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
-| 2 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
-| 3 | [The Scene](https://open.spotify.com/track/5WbIiaNommbTNicqBzfHZZ) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [The Scene](https://open.spotify.com/album/1rrJHFbKKiQS0hsCImT9Og) | 3:27 |
-| 4 | [True Love Can't Be Blind](https://open.spotify.com/track/13XkT1WvbAFyDvltA9ubt6) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [True Love Can't Be Blind](https://open.spotify.com/album/1ZoseZsIuTqT1bkCZ4EFVE) | 3:22 |
-| 5 | [Mutual](https://open.spotify.com/track/6kUkosakHtJ9bsNE2bxJnq) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Mutual](https://open.spotify.com/album/7KBZC4RaCdSsSpShWVa6Ki) | 3:31 |
+| 2 | [Mutual](https://open.spotify.com/track/6kUkosakHtJ9bsNE2bxJnq) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Mutual](https://open.spotify.com/album/7KBZC4RaCdSsSpShWVa6Ki) | 3:31 |
+| 3 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
+| 4 | [The Scene](https://open.spotify.com/track/5WbIiaNommbTNicqBzfHZZ) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [The Scene](https://open.spotify.com/album/1rrJHFbKKiQS0hsCImT9Og) | 3:27 |
+| 5 | [True Love Can't Be Blind](https://open.spotify.com/track/13XkT1WvbAFyDvltA9ubt6) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [True Love Can't Be Blind](https://open.spotify.com/album/1ZoseZsIuTqT1bkCZ4EFVE) | 3:22 |
 | 6 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 |
 | 7 | [She Whispers](https://open.spotify.com/track/5AhQoZro3SFErHL12dapQh) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Whispers](https://open.spotify.com/album/4nzj5FWkSP4u5UDTKp3gqk) | 4:08 |
 | 8 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 101 | [3rd Shift \- A COLORS SHOW](https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [3rd Shift \- A COLORS SHOW](https://open.spotify.com/album/4hsiuTzlvfQjUsUMmf7Ccm) | 2:45 |
 | 102 | [Weather The Storm](https://open.spotify.com/track/1nhpjqwvgg9chWuCgrrXE2) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Weather The Storm](https://open.spotify.com/album/0ckoLZt4Xb73Vebt8AxHTE) | 5:00 |
 
-Snapshot ID: `aGej3gAAAADd0rxG/5LT65lottdt/20V`
+Snapshot ID: `aG/aZgAAAADxcvDDD4al0hqXSgoBOQa2`

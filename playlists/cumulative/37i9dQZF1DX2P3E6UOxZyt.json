@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u963f\u862d AC",
+  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u9f4a\u7fd4 (XIANG)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "ONLY WITH YOU",
       "url": "https://open.spotify.com/track/2Eq5uUnAM2yAjzaejhNUBs"
@@ -6647,6 +6647,24 @@
     },
     {
       "album": {
+        "name": "STILL",
+        "url": "https://open.spotify.com/album/5JJOpNOE88FlcL9DwDNhKF"
+      },
+      "artists": [
+        {
+          "name": "\u9f4a\u7fd4 XIANG",
+          "url": "https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214877,
+      "name": "\u5176\u5be6\u6211\u4e0d\u610f\u5916",
+      "url": "https://open.spotify.com/track/0HDmt8s1TNKXuMH3UOWKxj"
+    },
+    {
+      "album": {
         "name": "\u518d\u4e00\u6b21 (\u91d1\u915270\u9031\u5e74\u5e74\u5ea6\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/4pMiZsRXAle3IIYBwENisQ"
       },
@@ -6788,7 +6806,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 211707,
       "name": "\u5341\u842c\u516b\u5343\u91cc",
       "url": "https://open.spotify.com/track/7eR9wBaWsd4oFrriIvfnAo"
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 195076,
       "name": "\u5929\u6c23\u6674",
       "url": "https://open.spotify.com/track/5gWpTkuchUc6ysevxAGcLc"
@@ -7570,7 +7588,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 155706,
       "name": "\u5931\u63a7\u908a\u7de3",
       "url": "https://open.spotify.com/track/0WHhOBEs4U3xmuEkqf8KO7"
@@ -7802,7 +7820,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 161900,
       "name": "\u59b3\u4e0d\u96e2\u958b\u6211\u90fd\u5728",
       "url": "https://open.spotify.com/track/5knPWIuEYIHj2cgngIGdhu"
@@ -7976,6 +7994,24 @@
       "duration_ms": 163616,
       "name": "\u5b78\u6703\u4e86\u73cd\u60dc",
       "url": "https://open.spotify.com/track/5UH93vUdrxHMVcwiO4a1gQ"
+    },
+    {
+      "album": {
+        "name": "\u5b85\u6583\u4e86",
+        "url": "https://open.spotify.com/album/6M1jam3EH8P00gwUPbs1Wf"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u871c\u8389AMILI",
+          "url": "https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "\u5b85\u6583\u4e86",
+      "url": "https://open.spotify.com/track/0XpoKSVObBEjlezIOz7MJ5"
     },
     {
       "album": {
@@ -8682,7 +8718,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 292059,
       "name": "\u60f3\u518d\u554f\u4f60\u4e00\u6b21",
       "url": "https://open.spotify.com/track/0YqveraOFp5KXGWLpX1EdA"
@@ -11168,7 +11204,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 210857,
       "name": "\u7121\u89e3",
       "url": "https://open.spotify.com/track/54dG2LgA0qqV4dTwRoAdvL"
@@ -13230,7 +13266,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 229487,
       "name": "\u9084\u662f\u6211\u5df2\u5b78\u58de Good Girl Gone",
       "url": "https://open.spotify.com/track/5BM7ZHUn11XoawA5kH2gD5"
@@ -13506,7 +13542,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 218071,
       "name": "\u95dc\u65bc\u6211\u5931\u7720\u7684\u67d0\u4e09\u500b\u591c\u665a Sleepless Wander",
       "url": "https://open.spotify.com/track/4oPsoPQqD1yqCEakS7ibZo"
@@ -13918,7 +13954,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 177209,
       "name": "\u9ebb\u514b\u8207\u6797\u9001\u592b",
       "url": "https://open.spotify.com/track/0NITaf3H46wbySgMBEThG0"

@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sounds",
+        "url": "https://open.spotify.com/album/4fE4QvVGJNWEl0Uihl9ej8"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148269,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6CNXAilaYIPE8lDTX6GMLu"
+    },
+    {
+      "album": {
         "name": "All the Way",
         "url": "https://open.spotify.com/album/3lkY9AIk80VSuSruRvGkdG"
       },
@@ -5018,7 +5036,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 152307,
       "name": "Fatality",
       "url": "https://open.spotify.com/track/3lkTPfHvhCzWril97gU7Sr"
@@ -12554,7 +12572,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 150769,
       "name": "RED EYE",
       "url": "https://open.spotify.com/track/7tUKHfSeO5IQ6Nedra6CmE"
@@ -16426,6 +16444,28 @@
       "duration_ms": 222902,
       "name": "Y3 Koom",
       "url": "https://open.spotify.com/track/3LgSUQM3AJDgCZwM01NKEt"
+    },
+    {
+      "album": {
+        "name": "Yaa Abrefi",
+        "url": "https://open.spotify.com/album/1zDyM2RYqhIcQmgVhN7uab"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Ablekuma Nana Lace",
+          "url": "https://open.spotify.com/artist/3h3h0wq7sfdJTbvfUchkxC"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170738,
+      "name": "Yaa Abrefi",
+      "url": "https://open.spotify.com/track/4cQc9TQpdFRtxLrw8LcOgo"
     },
     {
       "album": {

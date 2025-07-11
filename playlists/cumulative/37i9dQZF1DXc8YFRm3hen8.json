@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 190722,
       "name": "(Solo Aire)",
       "url": "https://open.spotify.com/track/67T8PyehRL5DjkBSJLUy2U"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 224469,
       "name": "33",
       "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 137651,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/1FPwQ986uwr9s5fX4IeJED"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 177361,
       "name": "alguien que yo no es",
       "url": "https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 198885,
       "name": "Cerca Lejos",
       "url": "https://open.spotify.com/track/01d2IW5H2F5tjLIKQO0Ncf"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/7h31BriQ8NqZraj3Zt32lL"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241298,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/3e5hUklU9dx6AUOOoxAF0A"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo Que Apague la Luz",
         "url": "https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX"
       },
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 245735,
       "name": "Corpi\u00f1os",
       "url": "https://open.spotify.com/track/0he2pDZz4tYGsSTNDZUWex"
@@ -1246,6 +1268,24 @@
       "duration_ms": 126426,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs"
+    },
+    {
+      "album": {
+        "name": "Probame",
+        "url": "https://open.spotify.com/album/7lVtD74Hhay5GHEC74kEsP"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/1rvg63zCuXz8gLYDnASEmK"
     },
     {
       "album": {
@@ -1646,7 +1686,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 248964,
       "name": "El Fin",
       "url": "https://open.spotify.com/track/0uZDy53SZ2sNeos1mOjsel"
@@ -1664,7 +1704,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 137523,
       "name": "El franc\u00e9s",
       "url": "https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q"
@@ -1704,7 +1744,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 189766,
       "name": "El Gomoso",
       "url": "https://open.spotify.com/track/0H6rYPbDkdMmJbedmXMqV9"
@@ -1758,7 +1798,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 250218,
       "name": "el mundo no es solo para mi",
       "url": "https://open.spotify.com/track/78QdT3eHCpgXOaHKgv99Ob"
@@ -1812,7 +1852,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 213519,
       "name": "El Sue\u00f1o de los Locos",
       "url": "https://open.spotify.com/track/2fcBVR9gcRPp5btcakrJQ8"
@@ -2066,7 +2106,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 206542,
       "name": "Emperifollada",
       "url": "https://open.spotify.com/track/4IDCH18zDc3UuzWEGiZ60e"
@@ -2084,7 +2124,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 267440,
       "name": "En Redondel",
       "url": "https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K"
@@ -2284,7 +2324,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 168142,
       "name": "Extra\u00f1as Intenciones",
       "url": "https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc"
@@ -2360,6 +2400,24 @@
       "duration_ms": 463189,
       "name": "FLASH/TRASH",
       "url": "https://open.spotify.com/track/1AB2VzsMPHdGZqnOFNrXBr"
+    },
+    {
+      "album": {
+        "name": "Flor Salvaje",
+        "url": "https://open.spotify.com/album/65O655JmOj3Up6hFIaRNJw"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266797,
+      "name": "Flor Salvaje",
+      "url": "https://open.spotify.com/track/7r70MZad8fYToFBqG3b6dA"
     },
     {
       "album": {
@@ -2564,7 +2622,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 139911,
       "name": "HIPNOTIZA",
       "url": "https://open.spotify.com/track/1Tl1F40U1OuJeKLXEPoD4m"
@@ -2604,7 +2662,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 170898,
       "name": "Ida y vuelta a Mictlan",
       "url": "https://open.spotify.com/track/20wS9Mq6Mm0itkZoEJiYwo"
@@ -2910,7 +2968,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 220755,
       "name": "La Forma de Estar Solo",
       "url": "https://open.spotify.com/track/4QeJ4rDjV4lZtZ4Xyj0exO"
@@ -3182,7 +3240,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 217712,
       "name": "La Sangre",
       "url": "https://open.spotify.com/track/7hT14hKoS60U4wdPEPPei2"
@@ -3272,7 +3330,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 214090,
       "name": "Las cosas que no se tocan",
       "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
@@ -3518,7 +3576,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 191906,
       "name": "Los chicos",
       "url": "https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi"
@@ -3742,7 +3800,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 226829,
       "name": "Makana",
       "url": "https://open.spotify.com/track/0xn2aCZB2TWTFJ79Qlkb2i"
@@ -3786,7 +3844,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 228000,
       "name": "Mantra Duelo",
       "url": "https://open.spotify.com/track/0ojFaIbrcBUblZszy4B8Mv"
@@ -4296,7 +4354,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
@@ -4318,7 +4376,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 213734,
       "name": "Nada Nace",
       "url": "https://open.spotify.com/track/1EvXBtdPJF4QY2PK9XDDwF"
@@ -4890,10 +4948,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
+    },
+    {
+      "album": {
+        "name": "PRESENTE CONTINUO",
+        "url": "https://open.spotify.com/album/3ZyJCtgxEGq0TNnAnRjYNS"
+      },
+      "artists": [
+        {
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207227,
+      "name": "PRESENTE CONTINUO",
+      "url": "https://open.spotify.com/track/2WLiHdPnEJ1MCeJvdzZxS6"
     },
     {
       "album": {
@@ -5526,7 +5602,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 243104,
       "name": "S\u00f3lo por Hoy (Chica Oriental)",
       "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"
@@ -5916,7 +5992,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 207200,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/1BW5yqBBPzY8NtrRUj5Fkm"
@@ -6004,7 +6080,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 283466,
       "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
       "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
@@ -6066,7 +6142,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
@@ -6110,7 +6186,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
@@ -6460,7 +6536,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 199807,
       "name": "Vamos a Casarnos",
       "url": "https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4"
@@ -6554,7 +6630,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 162730,
       "name": "virgencitas y malvones",
       "url": "https://open.spotify.com/track/5V5dqTQtapomD5099t59DB"
@@ -6684,7 +6760,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 223532,
       "name": "Ya No Mires Atr\u00e1s",
       "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"

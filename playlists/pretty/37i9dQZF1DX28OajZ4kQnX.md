@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,308 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,309 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 28 | [Batman](https://open.spotify.com/track/59cibAn6gKj3BjCNitlswd) | [Jim Nola Mc Abedunego](https://open.spotify.com/artist/1xqDksHsWfiFlftFH6Kokk) | [Batman](https://open.spotify.com/album/6DTk4GUo0fkQ41mkNnVqxV) | 2:50 |
 | 29 | [The Best In Me](https://open.spotify.com/track/7mtgz4bjHoDPutsSnMXAEf) | [Rey Macc](https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ) | [Feedback 2 \(Just A Facade\)](https://open.spotify.com/album/1Bsq1YjxlVhpHNbyJVpvWg) | 3:14 |
 | 30 | [Can You Imagine](https://open.spotify.com/track/2RFWIe4Kyuydzgo7kBJQ8E) | [Rey Macc](https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv), [Isaiah Misanvu](https://open.spotify.com/artist/5mR64cshBueO6oPDga4cgh) | [Can You Imagine](https://open.spotify.com/album/26ZsfOw4zyS5q3QUh0mZdk) | 3:17 |
-| 31 | [Khali Cartel 5](https://open.spotify.com/track/3UBUcuoT4aTY9NKhy4Rdmi) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [DYANA CODS](https://open.spotify.com/artist/0vNOhr6lkX80JZj5eYfT9U), [Abbas Kubaff](https://open.spotify.com/artist/31u4mA182lnRN4ZMqE0yp3), [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm), [Ruyonga](https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z), [Fresh Like UHH](https://open.spotify.com/artist/4TdktHFXmRKeXWEGNIgtcA), [MEX CORTEZ](https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc) | [Khali Cartel 5](https://open.spotify.com/album/4HsT2dRqsvXIRjruh4k5QA) | 11:39 |
+| 31 | [Khali Cartel 5](https://open.spotify.com/track/3UBUcuoT4aTY9NKhy4Rdmi) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR), [Abbas Kubaff](https://open.spotify.com/artist/31u4mA182lnRN4ZMqE0yp3), [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm), [Ruyonga](https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z), [Fresh Like UHH](https://open.spotify.com/artist/4TdktHFXmRKeXWEGNIgtcA), [MEX CORTEZ](https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc) | [Khali Cartel 5](https://open.spotify.com/album/4HsT2dRqsvXIRjruh4k5QA) | 11:39 |
 | 32 | [Magero](https://open.spotify.com/track/5rNTxEppHhdE3eW2FiUZxc) | [Wake](https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn), [Pyrate](https://open.spotify.com/artist/2EMTvvbgzYWEN6NIihMnr4) | [Mwana Weika on the Track, Yo! \(MWOTTY\)](https://open.spotify.com/album/3JzYMICgm13vm77SPGTKzt) | 3:05 |
 | 33 | [Extra Mile](https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:55 |
 | 34 | [benzez](https://open.spotify.com/track/5hr2xpp7hR6sUTTxsZuLQg) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07) | [benzez](https://open.spotify.com/album/6fV7spq5PUYkY1n1ooTl6G) | 2:08 |

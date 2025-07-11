@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Rezz",
-  "num_followers": 264057,
+  "num_followers": 264190,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
+    },
+    {
+      "added_at": "2025-06-27 20:51:49",
+      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
-    },
-    {
-      "added_at": "2025-06-27 20:51:49",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
-        "name": "Wavey",
-        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 143379,
-      "name": "Wavey",
-      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
-    },
-    {
-      "added_at": "2025-06-27 20:51:49",
-      "album": {
         "name": "SONG REQUEST",
         "url": "https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 204923,
       "name": "SONG REQUEST",
       "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD"
+    },
+    {
+      "added_at": "2025-06-27 20:51:49",
+      "album": {
+        "name": "Wavey",
+        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 143379,
+      "name": "Wavey",
+      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
-        "name": "GOLDEN GOOSE",
-        "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
+        "name": "Sutekh",
+        "url": "https://open.spotify.com/album/1i8kcOPHIXfTaRVELOWcR5"
       },
       "artists": [
         {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 142163,
-      "name": "GOLDEN GOOSE",
-      "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
+      "duration_ms": 146000,
+      "name": "Sutekh",
+      "url": "https://open.spotify.com/track/4sPAOLcK7XM61T0purl6Fw"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -1579,22 +1583,18 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
-        "name": "Sutekh",
-        "url": "https://open.spotify.com/album/1i8kcOPHIXfTaRVELOWcR5"
+        "name": "GOLDEN GOOSE",
+        "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Sutekh",
-      "url": "https://open.spotify.com/track/4sPAOLcK7XM61T0purl6Fw"
+      "duration_ms": 142163,
+      "name": "GOLDEN GOOSE",
+      "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
-        "name": "Eternal Rave",
-        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        }
-      ],
-      "duration_ms": 121908,
-      "name": "Eternal Rave",
-      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
-    },
-    {
-      "added_at": "2025-06-27 20:51:49",
-      "album": {
         "name": "BLIND (RAVE MIX)",
         "url": "https://open.spotify.com/album/5OSrUzKnsdPWbOpmE25gXy"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 211200,
       "name": "BLIND (RAVE MIX)",
       "url": "https://open.spotify.com/track/6zDkk2KqakCMWhLPZBDVPQ"
+    },
+    {
+      "added_at": "2025-06-27 20:51:49",
+      "album": {
+        "name": "Eternal Rave",
+        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        }
+      ],
+      "duration_ms": 121908,
+      "name": "Eternal Rave",
+      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME"
-      },
-      "artists": [
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
-    },
-    {
-      "added_at": "2025-06-27 20:51:49",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -2091,6 +2075,22 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
+    },
+    {
+      "added_at": "2025-06-27 20:51:49",
+      "album": {
         "name": "California Dreamin'",
         "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
       },
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2025-06-27 20:51:49",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 200318,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
+    },
+    {
+      "added_at": "2025-06-27 20:51:49",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
+        "name": "Return to the Spectrum of Intergalactic Happiness",
+        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 253260,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
+    },
+    {
+      "added_at": "2025-06-27 20:51:49",
+      "album": {
         "name": "Telepathy",
         "url": "https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np"
       },
@@ -2195,38 +2211,6 @@
       "duration_ms": 224176,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
-    },
-    {
-      "added_at": "2025-06-27 20:51:49",
-      "album": {
-        "name": "Red Velvet",
-        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Red Velvet",
-      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
-    },
-    {
-      "added_at": "2025-06-27 20:51:49",
-      "album": {
-        "name": "Return to the Spectrum of Intergalactic Happiness",
-        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 253260,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -2251,6 +2235,22 @@
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
+    },
+    {
+      "added_at": "2025-06-27 20:51:49",
+      "album": {
+        "name": "Red Velvet",
+        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Red Velvet",
+      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/3bJ3S4GoWr2KBgpyaoIyCM"
+      },
+      "artists": [
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/1TVqn4jUhBRsiZ4C6hOYSx"
+    },
+    {
+      "added_at": "2025-06-27 20:51:49",
+      "album": {
         "name": "I Only Smoke When I Drink Remixes",
         "url": "https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 131970,
       "name": "I Only Smoke When I Drink - Badger Remix",
       "url": "https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1"
-    },
-    {
-      "added_at": "2025-06-27 20:51:49",
-      "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/3bJ3S4GoWr2KBgpyaoIyCM"
-      },
-      "artists": [
-        {
-          "name": "SHIMA",
-          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "KARMA",
-      "url": "https://open.spotify.com/track/1TVqn4jUhBRsiZ4C6hOYSx"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -2475,22 +2475,18 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
+        "name": "Distortion Theory",
+        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
         }
       ],
-      "duration_ms": 212812,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+      "duration_ms": 208035,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
     },
     {
       "added_at": "2025-06-27 20:51:49",
@@ -2515,18 +2511,22 @@
     {
       "added_at": "2025-06-27 20:51:49",
       "album": {
-        "name": "Distortion Theory",
-        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
       },
       "artists": [
         {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
         }
       ],
-      "duration_ms": 208035,
-      "name": "Hot One",
-      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
+      "duration_ms": 212812,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
     },
     {
       "added_at": "2025-06-27 20:51:49",

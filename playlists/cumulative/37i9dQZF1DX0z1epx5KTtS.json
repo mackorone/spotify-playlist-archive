@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Josey",
+  "description": "African dance party music from the continent to Paris. Photo : Ayanne",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 196148,
       "name": "D\u00e9marrage",
       "url": "https://open.spotify.com/track/0wVbLYbOAzHsEcyAtNLOFo"
@@ -2702,6 +2702,28 @@
       "duration_ms": 232941,
       "name": "L'ARGENT",
       "url": "https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp"
+    },
+    {
+      "album": {
+        "name": "L'argent (\u00e9dit radio)",
+        "url": "https://open.spotify.com/album/3KAtQJJwGXNyfaLTlfy1kd"
+      },
+      "artists": [
+        {
+          "name": "Ayanne",
+          "url": "https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl"
+        },
+        {
+          "name": "BUMER",
+          "url": "https://open.spotify.com/artist/45Rwf4lLxQiIaADszIhUib"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "L'argent - \u00e9dit radio",
+      "url": "https://open.spotify.com/track/2H9VxV7TLn6QxFQWJ6Mbpl"
     },
     {
       "album": {

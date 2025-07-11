@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/3TBi6eBO6EGHrf1W9H9ZvQ"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159692,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3Wt6ZGLHnKTPT2emFjvRJo"
+    },
+    {
+      "album": {
         "name": "Alone EP",
         "url": "https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8"
       },

@@ -4,7 +4,7 @@
 
 > 
 
-218 songs - 8 hr 35 min
+219 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [MARTYR \(MARTYR\)](https://open.spotify.com/track/3jRoQo8sAABg45bCIO9SuB) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 3:22 | 2025-05-01 |  |
 | [Met Her on the Internet](https://open.spotify.com/track/2DuCgKbzA35AnBxG1ghu7X) | [Kempachii](https://open.spotify.com/artist/5UE3fPtMEts6UkMutPv2jx) | [Met Her on the Internet](https://open.spotify.com/album/1UsW8v5XZUc1AwgeCkqzXF) | 2:17 | 2025-04-09 |  |
 | [MICROWAVE TEA!](https://open.spotify.com/track/2yVf0mR0duiGRNjRsxFMcR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Xo Dru](https://open.spotify.com/artist/3jh91hTsuN0i1Hx7sxeDNv) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:07 | 2025-03-28 |  |
+| [miss the rage](https://open.spotify.com/track/4COqYDeJnJzECfehVJ4WEw) | [junesforever](https://open.spotify.com/artist/5lwt02zQQ3wqkUyXCeJB4f) | [miss the rage](https://open.spotify.com/album/3jIHndbu0N6zOFcWDI55pv) | 2:55 | 2025-07-11 |  |
 | [Moon](https://open.spotify.com/track/7HLyjVZ6trd0mlIyC7XDn9) | [Siggerr](https://open.spotify.com/artist/0lwQIZf6i33MfwXgymtF3n) | [Moon](https://open.spotify.com/album/4daQulyzTcex9qrMWPE6Xh) | 3:44 | 2025-05-19 |  |
 | [Moonlight on the River](https://open.spotify.com/track/2fhOljbX79loRcdl47SFye) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 7:02 | 2025-04-12 |  |
 | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/track/17iGTeBSC6VtWESUk1YqYh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [takihasdied](https://open.spotify.com/artist/78f6bSDCZQUs8wvPREBGLE) | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/album/53J2OTEVQhPTRaA8qyNaLt) | 2:05 | 2025-03-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 149956,
+  "num_followers": 150001,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "30 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9"
+      },
+      "artists": [
+        {
+          "name": "Los Betos",
+          "url": "https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "La Gemela",
+      "url": "https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 288533,
       "name": "Mi Muchacho",
       "url": "https://open.spotify.com/track/4p25pvhFydFona4Oe03WEL"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "30 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9"
-      },
-      "artists": [
-        {
-          "name": "Los Betos",
-          "url": "https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "La Gemela",
-      "url": "https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -675,8 +675,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+      "duration_ms": 297413,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -755,8 +755,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-05-28 19:20:48",

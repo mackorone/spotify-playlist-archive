@@ -4,7 +4,7 @@
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-50 songs - 4 hr 31 min
+50 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [Anuva's Sky](https://open.spotify.com/track/345H6NEZCjc7XKXaHtBXPd) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Nights in Shining Karma](https://open.spotify.com/album/7Hg5bidAjLakmk9T86sNvo) | 3:16 | 2023-05-11 |  |
 | [Aro Ekbar](https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX) | [Fossils](https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo) | [Fossils](https://open.spotify.com/album/5Il3OBfF2vxUbJXnRS4fzj) | 6:44 | 2023-05-11 |  |
 | [Bandeh](https://open.spotify.com/track/1i8pdZ3FmoL70ghtsmmoIj) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Black Friday](https://open.spotify.com/album/59nxyxeutJIEUdExqFivk5) | 7:48 | 2023-05-11 | 2024-04-19 |
-| [Bandheh](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy), [Piyush Mishra](https://open.spotify.com/artist/1EzHkoB4160h1B1xAyXSUR) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 7:48 | 2024-04-19 |  |
 | [Bandhu Re](https://open.spotify.com/track/3VQF1tKmEogJqV2XRKm7Qg) | [Cactus](https://open.spotify.com/artist/2PWPl2KNcCDDdhqT7vb2sR) | [Rajar Raja](https://open.spotify.com/album/6UeMitzv4cd2pBCVBTHgDZ) | 5:12 | 2023-05-11 |  |
 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 | 2023-05-11 |  |
 | [Boondein](https://open.spotify.com/track/2l4w5ctthghnZXpekYyBn4) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 4:50 | 2023-05-11 |  |
@@ -58,5 +57,6 @@
 | [Tere Mere Saath](https://open.spotify.com/track/0ee11PpglgT26oqSiBHZjm) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Aks](https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr) | 4:32 | 2023-05-11 |  |
 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 | 2023-05-11 |  |
 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Kavya Jones](https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 | 2023-05-11 |  |
+| [Training](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 3:57 | 2024-04-19 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

@@ -7576,7 +7576,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 311773,
       "name": "Hass Und Liebe",
       "url": "https://open.spotify.com/track/5ZSkaSivPY609sNv5MSaux"
@@ -9600,7 +9600,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 168320,
       "name": "KUPALA",
       "url": "https://open.spotify.com/track/2kWuVqpxPnj131Z53vxF98"
@@ -11638,7 +11638,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 97606,
       "name": "Montagem Bandido - Slowed",
       "url": "https://open.spotify.com/track/2spuCBVvQyCsQFHIiie8gP"
@@ -14197,6 +14197,24 @@
     },
     {
       "album": {
+        "name": "B\u00f8rnesange Fra Sigurds Bj\u00f8rnetime \u2013 B\u00f8rnemusik Med Sigurd Barrett",
+        "url": "https://open.spotify.com/album/5SR3tZtrlWlRU6BjhM1Q0P"
+      },
+      "artists": [
+        {
+          "name": "Sigurd Barrett",
+          "url": "https://open.spotify.com/artist/6EN9iGovybDcQZ2NtsqMFd"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156360,
+      "name": "Pilfingerdansen - Remix",
+      "url": "https://open.spotify.com/track/1nM60x7ZOBAVVe3ipKxD8b"
+    },
+    {
+      "album": {
         "name": "SENSATION! A Cute Chaotic Trail",
         "url": "https://open.spotify.com/album/2t4slwfbm085SJgOLblycq"
       },
@@ -15152,7 +15170,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -15170,7 +15188,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -18042,7 +18060,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
@@ -19129,6 +19147,24 @@
     },
     {
       "album": {
+        "name": "Popular Monster",
+        "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/1SlxMFZexm81T0tUK6mwni"
+    },
+    {
+      "album": {
         "name": "Dinner in America Soundtrack",
         "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
       },
@@ -19878,7 +19914,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 157191,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
@@ -20422,10 +20458,28 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 155040,
       "name": "Young Black & Rich",
       "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
+    },
+    {
+      "album": {
+        "name": "Young Black & Rich",
+        "url": "https://open.spotify.com/album/6xkOwszy81F71cFJcWTCNg"
+      },
+      "artists": [
+        {
+          "name": "Melly Mike",
+          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155062,
+      "name": "Young Black & Rich",
+      "url": "https://open.spotify.com/track/2o5yF4bBAgbeCDSsY5Rrnx"
     },
     {
       "album": {
@@ -21102,7 +21156,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 199972,
       "name": "\u0431\u0435\u0437 \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/2d2C4YGXudzgQvZwdVH3SI"
@@ -24380,7 +24434,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 182799,
       "name": "\u0418 \u0441\u043e\u043b\u043d\u0446\u0435 \u0432\u0437\u043e\u0439\u0434\u0451\u0442",
       "url": "https://open.spotify.com/track/532GSSL6ekCP6ogHCyNFui"
@@ -27192,7 +27246,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 203774,
       "name": "\u041d\u0438\u043a\u0430\u043a",
       "url": "https://open.spotify.com/track/5Co0quEOGdttAJPlUSRCjS"

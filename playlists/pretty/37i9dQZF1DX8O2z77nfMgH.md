@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Yan Block, Rainao, Slow Jamz
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,123 likes - 61 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,927 likes - 61 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 28 | [Conmigo no lloras](https://open.spotify.com/track/2AGGQ8sSLALwFtuY0VuQQ9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Conmigo no lloras](https://open.spotify.com/album/2DsQL94YqBZRU5I7w93tl0) | 3:22 |
 | 29 | [Maldita](https://open.spotify.com/track/6DieloG6t0uynBRRfQaVkR) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [De Chava \(Deluxe\)](https://open.spotify.com/album/2POWzkq5gUJckg3lZmfz8g) | 1:45 |
 | 30 | [Así me va](https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Así me va](https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj) | 2:35 |
-| 31 | [Te Extraño](https://open.spotify.com/track/6x0CTvBlL8WxVLQ9JbKPAz) | [Luisa Fernanda W](https://open.spotify.com/artist/3iKdkIEoOGT55KE72tSOgU), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Ryan Roy](https://open.spotify.com/artist/1AOGBBCrfDl7hJ9HUVKXwq) | [Te Extraño](https://open.spotify.com/album/78G6wjrzNBO8t3AjKxnsaS) | 2:22 |
+| 31 | [Te Extraño](https://open.spotify.com/track/6x0CTvBlL8WxVLQ9JbKPAz) | [Luisa Fernanda W](https://open.spotify.com/artist/3iKdkIEoOGT55KE72tSOgU), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Ryan Boy](https://open.spotify.com/artist/2e7dydqunZMVFs4LAi0xBj) | [Te Extraño](https://open.spotify.com/album/78G6wjrzNBO8t3AjKxnsaS) | 2:22 |
 | 32 | [Polvo de hadas](https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Polvo de hadas](https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF) | 4:28 |
 | 33 | [LA INNOMBRABLE](https://open.spotify.com/track/09JbAO5vwgChXJPQiISWIJ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [LA INNOMBRABLE](https://open.spotify.com/album/1kT6w4Zv616edhEXtGFq6F) | 2:33 |
 | 34 | [MALA MÍA](https://open.spotify.com/track/3oPulOeaGd9VzaaGRibff2) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Botlok](https://open.spotify.com/artist/2JMMYnclwW8fhcgty8VSxg) | [MALA MÍA](https://open.spotify.com/album/1CdwnGj7ARuco3lJ2xhTx1) | 2:46 |

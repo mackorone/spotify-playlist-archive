@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,880 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,097 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 93 | [Don't Mess With The Fire](https://open.spotify.com/track/1BFtsk36BEI4OZuylBirW3) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Don't Mess With The Fire](https://open.spotify.com/album/4FgD2SnL81w4MSReXxhXsV) | 2:47 |
 | 94 | [I Remember \- John Summit Remix](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03) | 4:00 |
 | 95 | [Baller \(feat\. So\-ma, Karyuu & Barney Soon\)](https://open.spotify.com/track/5hhwoBsZHsDxv2umK0d9Y0) | [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA), [So\-Ma](https://open.spotify.com/artist/6pSazeJX4l2oEaI0Ws70Fh), [Karyuu](https://open.spotify.com/artist/3uqDkh9EZU2GDSjvzdP0Yk), [Barney Soon](https://open.spotify.com/artist/3qATkFNgYtCJTmFzKrsm7T) | [SESSION\_02](https://open.spotify.com/album/6ljtPok6A0Ca5z4w3UoGtY) | 2:44 |
-| 96 | [Where Do We Go](https://open.spotify.com/track/2Ehp9Is1ihvBQaoJt47XeK) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/1v05i0btb10KOIvgumPue6) | 2:51 |
-| 97 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
+| 96 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
+| 97 | [Where Do We Go](https://open.spotify.com/track/2Ehp9Is1ihvBQaoJt47XeK) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/1v05i0btb10KOIvgumPue6) | 2:51 |
 | 98 | [Smalltown Boy](https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Smalltown Boy](https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti) | 3:34 |
 | 99 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 |
 | 100 | [HOMEWARD BOUND](https://open.spotify.com/track/6SJxVscXUNKHByst4t6Hlu) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [HOMEWARD BOUND](https://open.spotify.com/album/77qphqm55wE28WErICmvo5) | 3:52 |

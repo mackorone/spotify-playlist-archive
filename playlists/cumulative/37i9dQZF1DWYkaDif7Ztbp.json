@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: BNXN",
+  "description": "The tracks heating up the continent right now!  Cover: Burna Boy",
   "name": "African Heat",
   "tracks": [
     {
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 142120,
       "name": "Can't Breathe",
       "url": "https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN"
@@ -2745,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192158,
+      "name": "Dem Dey",
+      "url": "https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z"
+    },
+    {
+      "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
@@ -2955,7 +2973,7 @@
     },
     {
       "album": {
-        "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece Yvk)",
+        "name": "Down (feat. Lintonto & Xman Rsa)",
         "url": "https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L"
       },
       "artists": [
@@ -2964,12 +2982,12 @@
           "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         },
         {
-          "name": "Lintonto",
-          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
-        },
-        {
           "name": "Masterpiece YVK",
           "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Lintonto",
+          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
         },
         {
           "name": "Xman Rsa",
@@ -2980,7 +2998,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 323362,
-      "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece Yvk)",
+      "name": "Down (feat. Lintonto & Xman Rsa)",
       "url": "https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK"
     },
     {

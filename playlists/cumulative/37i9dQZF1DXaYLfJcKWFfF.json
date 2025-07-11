@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Lagos in Paris",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Tommy WA",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -1202,6 +1202,24 @@
       "duration_ms": 200118,
       "name": "GO WITH GUT",
       "url": "https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV"
+    },
+    {
+      "album": {
+        "name": "God Loves When You're Dancing",
+        "url": "https://open.spotify.com/album/0NSossGPF4S7c60AacPQJE"
+      },
+      "artists": [
+        {
+          "name": "Tommy W\u00c1",
+          "url": "https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313454,
+      "name": "God Loves When You're Dancing",
+      "url": "https://open.spotify.com/track/5V0NHPKnWPID3uSu3qMtOt"
     },
     {
       "album": {
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 157240,
       "name": "Woman King",
       "url": "https://open.spotify.com/track/1OBzOpEaPjWE7lnGsmF4vA"

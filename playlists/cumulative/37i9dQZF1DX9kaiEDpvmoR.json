@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "album": {
         "name": "Forserum",
         "url": "https://open.spotify.com/album/10HNlmUS1hpbCMFeDC4vmq"
       },
@@ -2928,6 +2946,28 @@
       "duration_ms": 145759,
       "name": "H\u00e4lften av han",
       "url": "https://open.spotify.com/track/0KALl4TnIi1k6JbKlmDpDl"
+    },
+    {
+      "album": {
+        "name": "H\u00e4lsingevind",
+        "url": "https://open.spotify.com/album/0SqezURYw039gJ7livqLby"
+      },
+      "artists": [
+        {
+          "name": "Engmans Kapell",
+          "url": "https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v"
+        },
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287745,
+      "name": "H\u00e4lsingevind",
+      "url": "https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq"
     },
     {
       "album": {
@@ -4028,7 +4068,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 248760,
       "name": "Love / Luck",
       "url": "https://open.spotify.com/track/2dEkU2gOq5XhWdmB472K2X"
@@ -4162,7 +4202,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 284800,
       "name": "L\u00f6ften",
       "url": "https://open.spotify.com/track/1FoM1Ru3Rm19LUvkjTn0k4"

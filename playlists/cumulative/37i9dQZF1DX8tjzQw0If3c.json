@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "menyesal",
+        "url": "https://open.spotify.com/album/7g09lUwD82vX7IK3lIATai"
+      },
+      "artists": [
+        {
+          "name": "empty page.",
+          "url": "https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270582,
+      "name": "menyesal",
+      "url": "https://open.spotify.com/track/5GYmoRBgyubcAf7AzyjvrQ"
+    },
+    {
+      "album": {
         "name": "Merah",
         "url": "https://open.spotify.com/album/261yTJnc6yRBCkJKVYfY9e"
       },

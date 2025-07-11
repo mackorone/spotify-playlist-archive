@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Fausti",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Lordofon, Hi Hania",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 164951,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 168507,
       "name": "Jest jak jest",
       "url": "https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO"
@@ -3510,6 +3510,24 @@
       "duration_ms": 152481,
       "name": "Jeszcze raz",
       "url": "https://open.spotify.com/track/6n6sEKy1885BNIXiapog4E"
+    },
+    {
+      "album": {
+        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196705,
+      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
     },
     {
       "album": {
@@ -4650,7 +4668,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 168000,
       "name": "Materia\u0142 na M\u0119\u017ca",
       "url": "https://open.spotify.com/track/3OlR4UwFxDovnTi4PSiXmj"
@@ -6651,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "B\u0142ysk",
+        "url": "https://open.spotify.com/album/12jeJg4lxOroEx0jS575KH"
+      },
+      "artists": [
+        {
+          "name": "Karolina Stanis\u0142awczyk",
+          "url": "https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/2jacq0kAxW6eUSg2Vax1G1"
+    },
+    {
+      "album": {
         "name": "Oops",
         "url": "https://open.spotify.com/album/7rc0ywDjPXkiZTSMqxcvhm"
       },
@@ -7264,7 +7300,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 149032,
       "name": "Pla\u017ca, pla\u017ca",
       "url": "https://open.spotify.com/track/4NNztQQgx2byNE8F0gkK5g"
@@ -8405,6 +8441,32 @@
     },
     {
       "album": {
+        "name": "STORIES",
+        "url": "https://open.spotify.com/album/447SNmiw2owUUUBsg6HdQF"
+      },
+      "artists": [
+        {
+          "name": "Ada Borkowska",
+          "url": "https://open.spotify.com/artist/4C4T9wrWjuYNhiSwG9PWt0"
+        },
+        {
+          "name": "Liber",
+          "url": "https://open.spotify.com/artist/2CiMCmeBorjSa1ppz6wY6s"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181252,
+      "name": "STORIES",
+      "url": "https://open.spotify.com/track/6eq6ugdDFTQSpJl9BslLft"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/5O6V94tvuF1JkvL9SJ1yEF"
       },
@@ -8909,6 +8971,24 @@
     },
     {
       "album": {
+        "name": "Ta\u0144cz",
+        "url": "https://open.spotify.com/album/7j27d3EbAX0RNdw0hJD8t1"
+      },
+      "artists": [
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ta\u0144cz",
+      "url": "https://open.spotify.com/track/1LOtDHIE9p1ksNQ9iCz6l9"
+    },
+    {
+      "album": {
         "name": "Ta\u0144cz\u0119 do Ciebie",
         "url": "https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L"
       },
@@ -9128,7 +9208,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 234666,
       "name": "To tylko wiosna",
       "url": "https://open.spotify.com/track/7lK3S48dLraP8kZ18XPTSO"
@@ -9150,7 +9230,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 160457,
       "name": "Tom Yum (feat. Kacperczyk)",
       "url": "https://open.spotify.com/track/6ryyTwboF5cgbx9uUMLhSY"
@@ -9310,6 +9390,24 @@
       "duration_ms": 135000,
       "name": "Tyle mog\u0142em Ci da\u0107",
       "url": "https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj"
+    },
+    {
+      "album": {
+        "name": "Tylko gest",
+        "url": "https://open.spotify.com/album/2V3hRzPgs0MW2TaHaInnny"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188023,
+      "name": "Tylko gest",
+      "url": "https://open.spotify.com/track/2cHOEJcqGGNv3GVDxgF579"
     },
     {
       "album": {
@@ -10049,6 +10147,24 @@
     },
     {
       "album": {
+        "name": "Wszystko co mam",
+        "url": "https://open.spotify.com/album/57JaHawAaX7K2tdQmqAFU3"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Wszystko co mam",
+      "url": "https://open.spotify.com/track/5fxRBVkPLEvibVspAqlvUs"
+    },
+    {
+      "album": {
         "name": "Atmosfera",
         "url": "https://open.spotify.com/album/1Yd6DzgcvcArPaLN9R0Zlb"
       },
@@ -10404,6 +10520,28 @@
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/5QBDROatL8ZMsXRTsZQXnc"
+    },
+    {
+      "album": {
+        "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
+        "url": "https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
+      "url": "https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo"
     },
     {
       "album": {
@@ -10912,7 +11050,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 158666,
       "name": "Z\u0141Y",
       "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"

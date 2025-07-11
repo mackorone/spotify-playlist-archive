@@ -2921,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Lokollohang",
+        "url": "https://open.spotify.com/album/16Kbg0yliilgW4RRL9wX9b"
+      },
+      "artists": [
+        {
+          "name": "mashka",
+          "url": "https://open.spotify.com/artist/5TW7STulWrwTaRCN9EBVbh"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222596,
+      "name": "Izinto",
+      "url": "https://open.spotify.com/track/6rxSBpVdlznmxuoSZhCObs"
+    },
+    {
+      "album": {
         "name": "In His Presence",
         "url": "https://open.spotify.com/album/69kGMxJAmE1o5BHEpc08J0"
       },
@@ -3984,7 +4002,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
@@ -6173,6 +6191,32 @@
     },
     {
       "album": {
+        "name": "Slept - On",
+        "url": "https://open.spotify.com/album/6AjIykn86WMF9EG0GTezoz"
+      },
+      "artists": [
+        {
+          "name": "F Jay",
+          "url": "https://open.spotify.com/artist/3aufVL9SkQwm5GVFydc1GG"
+        },
+        {
+          "name": "Abel Chungu Musuka",
+          "url": "https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt"
+        },
+        {
+          "name": "Daev Zambia",
+          "url": "https://open.spotify.com/artist/4WzzjGo80jU0oO6mPMrJZW"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223738,
+      "name": "Watching Over",
+      "url": "https://open.spotify.com/track/3s1cFXIexebItNF3FZZUvk"
+    },
+    {
+      "album": {
         "name": "Better Word",
         "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
       },
@@ -6460,7 +6504,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 209061,
       "name": "Won't He Do It",
       "url": "https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W"
@@ -6705,7 +6749,7 @@
     },
     {
       "album": {
-        "name": "Yet",
+        "name": "yet (don't give up)",
         "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
       },
       "artists": [
@@ -6718,7 +6762,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 302042,
-      "name": "Yet",
+      "name": "yet (don't give up)",
       "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
     },
     {

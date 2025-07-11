@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 60842,
+  "num_followers": 60861,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-07-08 16:48:30",
       "album": {
-        "name": "Ra*bits \u300cJUMPIN' LUCK BEAT\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz"
-      },
-      "artists": [
-        {
-          "name": "Ra*bits",
-          "url": "https://open.spotify.com/artist/6re7tAM2hhfDcUNCjAMuQK"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 227734,
-      "name": "JUMPIN' LUCK BEAT",
-      "url": "https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh"
-    },
-    {
-      "added_at": "2025-07-08 16:48:30",
-      "album": {
         "name": "ALKALOID\u300cSunnyTrip Summer\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 211976,
       "name": "SunnyTrip Summer",
       "url": "https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml"
+    },
+    {
+      "added_at": "2025-07-08 16:48:30",
+      "album": {
+        "name": "Ra*bits \u300cJUMPIN' LUCK BEAT\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz"
+      },
+      "artists": [
+        {
+          "name": "Ra*bits",
+          "url": "https://open.spotify.com/artist/6re7tAM2hhfDcUNCjAMuQK"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 227734,
+      "name": "JUMPIN' LUCK BEAT",
+      "url": "https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh"
     },
     {
       "added_at": "2025-07-08 16:48:30",

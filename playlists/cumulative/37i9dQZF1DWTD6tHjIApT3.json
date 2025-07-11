@@ -5190,7 +5190,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 294013,
       "name": "capsule",
       "url": "https://open.spotify.com/track/5fzvL9CZiaMUzNcRSNsLEN"
@@ -13918,7 +13918,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 214661,
       "name": "IN SUNSET feat. mahina",
       "url": "https://open.spotify.com/track/4r4FjtDcIx4wPpbVLkxcfW"
@@ -37665,6 +37665,24 @@
     },
     {
       "album": {
+        "name": "\u305f\u3086\u305f\u3046\u307e\u307e\u306b",
+        "url": "https://open.spotify.com/album/0UMRde9b3pNBHXTXUKDS3K"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u3055\u304d",
+          "url": "https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "\u305f\u3086\u305f\u3046\u307e\u307e\u306b",
+      "url": "https://open.spotify.com/track/0CChuQNcBctCFFC17znqRd"
+    },
+    {
+      "album": {
         "name": "\u3060\u3044\u3059\u304d \u30d1\u30f3\u30c0",
         "url": "https://open.spotify.com/album/2WfIQGppwBbxR0lvd86sOG"
       },
@@ -41502,6 +41520,28 @@
       "duration_ms": 279000,
       "name": "\u30b3\u30a4\u30b9\u30eb\u30aa\u30c8\u30e1",
       "url": "https://open.spotify.com/track/34g411TDhSV2KQiCbWoK6v"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30a8",
+        "url": "https://open.spotify.com/album/0unDKK70GJLloyM4jJEueD"
+      },
+      "artists": [
+        {
+          "name": "IS:SUE",
+          "url": "https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw"
+        },
+        {
+          "name": "\u2606Taku Takahashi",
+          "url": "https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301568,
+      "name": "\u30b3\u30a8",
+      "url": "https://open.spotify.com/track/7qf3u0gGC2tWVdHzY38g07"
     },
     {
       "album": {

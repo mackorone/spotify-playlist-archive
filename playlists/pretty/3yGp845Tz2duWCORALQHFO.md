@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,165 likes - 50 songs - 2 hr 39 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,166 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 |
 | 2 | [I Hate This Club](https://open.spotify.com/track/23C1FsfIXn6yKdmwdhC3jO) | [EL MO](https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH) | [I Hate This Club](https://open.spotify.com/album/71bEhBL1aNqmbhm05xFb5R) | 2:35 |
 | 3 | [Freedom](https://open.spotify.com/track/29WwN7OZGIwtRsEX18c1LO) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Freedom](https://open.spotify.com/album/2FOoWd3HnAhZXGuw6gQrCg) | 2:49 |
-| 4 | [Love No More](https://open.spotify.com/track/5VNUdVCR275LBcpnO5gI4O) | [Soultight](https://open.spotify.com/artist/02J51ZAcBYg9T5uGwgsMV0), [Frank Zozky](https://open.spotify.com/artist/6UvkNHPeNzT5pWMZr11n3f) | [Love Me No More](https://open.spotify.com/album/4fPnCfvwzhqSXaZBuN2syq) | 3:46 |
+| 4 | [Love Me No More](https://open.spotify.com/track/5VNUdVCR275LBcpnO5gI4O) | [Soultight](https://open.spotify.com/artist/02J51ZAcBYg9T5uGwgsMV0), [Frank Zozky](https://open.spotify.com/artist/6UvkNHPeNzT5pWMZr11n3f) | [Love Me No More](https://open.spotify.com/album/4fPnCfvwzhqSXaZBuN2syq) | 3:46 |
 | 5 | [Broken Hearted \(feat\. Julia Church\)](https://open.spotify.com/track/6cmYMueidIP3Q2vLDrJWrv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Broken Hearted \(feat\. Julia Church\)](https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp) | 3:32 |
 | 6 | [I'll Be Waiting For You](https://open.spotify.com/track/6cD8vNDIfzssUHebFZkYag) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Brittany Egbert](https://open.spotify.com/artist/1mQw28X8O2WndUUfZuZKgv) | [I’ll Be Waiting For You](https://open.spotify.com/album/1EKfRPbV0tWGEi2ap5UxKi) | 3:17 |
 | 7 | [Needed You](https://open.spotify.com/track/4j7FctEyHoUAYnBlyeCX9L) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Needed You](https://open.spotify.com/album/6PT0IVDY8wpqVNG4vKWOqS) | 2:47 |

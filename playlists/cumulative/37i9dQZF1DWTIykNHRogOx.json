@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Coline Rio",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Juliette Armanet",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "chez moi",
+        "url": "https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65"
+      },
+      "artists": [
+        {
+          "name": "Alex Montembault",
+          "url": "https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "chez moi",
+      "url": "https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF"
+    },
+    {
+      "album": {
         "name": "De ton vivant",
         "url": "https://open.spotify.com/album/2jqy3gATiuA0IbJoYAG3lZ"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 237120,
       "name": "Ex \u00e6quo",
       "url": "https://open.spotify.com/track/1APeKWbOHLEygigClkqJn3"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 274826,
       "name": "Nos sentiers secrets",
       "url": "https://open.spotify.com/track/6EaZgo6RRRl16qYqASvwUP"
@@ -2566,6 +2584,24 @@
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+    },
+    {
+      "album": {
+        "name": "On peut comme \u00e7a",
+        "url": "https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244346,
+      "name": "On peut comme \u00e7a",
+      "url": "https://open.spotify.com/track/7Fa90Xad7G9ayAYvZ9nwl6"
     },
     {
       "album": {
@@ -2933,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Rien du tout",
+        "url": "https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k"
+      },
+      "artists": [
+        {
+          "name": "Leslie Medina",
+          "url": "https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200885,
+      "name": "Rien du tout",
+      "url": "https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8"
+    },
+    {
+      "album": {
         "name": "Rien \u00e0 voir",
         "url": "https://open.spotify.com/album/230Mq8P3aO4hnHrZ9jECaA"
       },
@@ -3287,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "ton ventre",
+        "url": "https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175218,
+      "name": "ton ventre",
+      "url": "https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM"
+    },
+    {
+      "album": {
         "name": "Tout dit",
         "url": "https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e"
       },
@@ -3374,7 +3446,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 160851,
       "name": "tu m'as dit que tu m'aimais",
       "url": "https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk"
@@ -3602,7 +3674,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 200984,
       "name": "\u00c0 quoi tu penses ?",
       "url": "https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU"

@@ -3719,6 +3719,24 @@
     },
     {
       "album": {
+        "name": "\u5fc3\u306e\u9032\u5316\u85e5",
+        "url": "https://open.spotify.com/album/3VVGmXa9aTsC5B6O1Cv9fM"
+      },
+      "artists": [
+        {
+          "name": "Arvin\u66fe\u50b2\u68d0",
+          "url": "https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174994,
+      "name": "\u5fc3\u306e\u9032\u5316\u85e5",
+      "url": "https://open.spotify.com/track/1yHsij38vs86JIvIe1u0Pt"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u4e2d\u90a3\u4f4d\u4f4f\u5ba2",
         "url": "https://open.spotify.com/album/0DveyseX1wZXbWiWKWqLJm"
       },

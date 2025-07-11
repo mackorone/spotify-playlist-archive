@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Yanaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,868 likes - 107 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,974 likes - 107 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5011,6 +5011,24 @@
     },
     {
       "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/6Ef5H4o43CHIat5nXoGdms"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193357,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/2gtR8ffUU1xAOsTNeaEe3A"
+    },
+    {
+      "album": {
         "name": "Gamma (Joyhauser Remix)",
         "url": "https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw"
       },
@@ -10522,7 +10540,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 286928,
       "name": "Pull Out",
       "url": "https://open.spotify.com/track/3yLZ9iZRFJokbQypcIetjo"

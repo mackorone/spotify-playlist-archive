@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lorena Álvarez.
 
-870 songs - 2 day 3 hr 49 min
+871 songs - 2 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 | 2021-12-24 | 2025-04-11 |
 | [Compostaje](https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Compostaje](https://open.spotify.com/album/0CFAjH7BZwFxZ8SgXpgYjS) | 3:12 | 2024-07-26 | 2024-12-21 |
 | [Con Gracia Tanta](https://open.spotify.com/track/310u68JBL9ldMqsWnxxCLj) | [Alper Tuzcu](https://open.spotify.com/artist/72tBt5KEcYJGREBhTKBSmd), [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [El Jardín](https://open.spotify.com/album/34HApAl8gu7dlyBvNSPpJ3) | 2:50 | 2025-06-12 |  |
+| [Con lo buenos que somos y lo mal que nos va](https://open.spotify.com/track/2CfH7zmeekTN7yPiRRwwWc) | [Javier Molina](https://open.spotify.com/artist/6QerZcRKdE9KcAi34FeYj3) | [Con lo buenos que somos y lo mal que nos va](https://open.spotify.com/album/7wlCb8gGlQcQqzrfdZrhBQ) | 2:39 | 2025-07-04 |  |
 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 | 2023-12-11 | 2024-03-02 |
 | [configuracionesonduladas\_17.11.23\_nicetoclub\_bsas](https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Las Luces Que Estaban Ocultas \[en vivo\]](https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo) | 5:24 | 2024-04-26 | 2024-10-12 |
 | [Conjuro para el Mal de Guerra](https://open.spotify.com/track/2RwM2Rw7zk3TgSMr9pKQnA) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Conjuro para el Mal de Guerra](https://open.spotify.com/album/1cEuc1SH90NqCSjHW8RLyW) | 4:00 | 2025-06-12 | 2025-06-28 |
@@ -616,7 +617,7 @@
 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 | 2022-11-25 |  |
 | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ), [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR) | 5:00 | 2024-06-21 |  |
 | [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mariana Senna](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 | 2025-06-07 |
-| [Porcelana](https://open.spotify.com/track/4C3H915bzmnmU2cNmF0Wtw) | [Minco](https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0) | [Porcelana](https://open.spotify.com/album/2zjde2ylSi2i2sTaZhia91) | 2:19 | 2025-06-19 |  |
+| [Porcelana](https://open.spotify.com/track/4C3H915bzmnmU2cNmF0Wtw) | [Minco](https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0) | [Porcelana](https://open.spotify.com/album/2zjde2ylSi2i2sTaZhia91) | 2:19 | 2025-06-19 | 2025-07-11 |
 | [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 | 2023-07-21 | 2023-08-18 |
 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 | 2023-02-18 |
 | [PRIEGO MÍO](https://open.spotify.com/track/62L8xzFC8mlq8PZ2HPmNCV) | [Raquel Vega](https://open.spotify.com/artist/3fUZwaxrlEZgiwMDuwx5yx) | [PRIEGO MÍO](https://open.spotify.com/album/17SFHbLeUi0rLUfW2g6bWs) | 4:45 | 2025-06-20 |  |

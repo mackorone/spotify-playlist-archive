@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Prins S. en De Geit",
-  "num_followers": 10620,
+  "num_followers": 10621,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "De Tijd",
-        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
+        "name": "kleine auto, grote hot wheel",
+        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
       },
       "artists": [
         {
-          "name": "Flaire",
-          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
         }
       ],
-      "duration_ms": 213336,
-      "name": "De Tijd",
-      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
+      "duration_ms": 265997,
+      "name": "dichtbij, veraf",
+      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
     },
     {
       "added_at": "2025-06-26 22:00:20",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "kleine auto, grote hot wheel",
-        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
+        "name": "De Tijd",
+        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
       },
       "artists": [
         {
-          "name": "De Toegift",
-          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
         }
       ],
-      "duration_ms": 265997,
-      "name": "dichtbij, veraf",
-      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
+      "duration_ms": 213336,
+      "name": "De Tijd",
+      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
     },
     {
       "added_at": "2025-06-26 22:00:20",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "Zonder Naam",
-        "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
-      },
-      "artists": [
-        {
-          "name": "Spinvis",
-          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Zonder Naam",
-      "url": "https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri"
-    },
-    {
-      "added_at": "2025-06-26 22:00:20",
-      "album": {
         "name": "Grenzeloos",
         "url": "https://open.spotify.com/album/0Korq4Ux4pnB7HCahJ0gLj"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 238133,
       "name": "Grenzeloos",
       "url": "https://open.spotify.com/track/1COc1Pkj7vlD4O0juYoyfV"
+    },
+    {
+      "added_at": "2025-06-26 22:00:20",
+      "album": {
+        "name": "Zonder Naam",
+        "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Zonder Naam",
+      "url": "https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri"
     },
     {
       "added_at": "2025-06-26 22:00:20",
@@ -759,18 +759,34 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "Zonder Zonnebril",
-        "url": "https://open.spotify.com/album/6flL9XU2ePQTyQVoRYAoQQ"
+        "name": "Eerste Date",
+        "url": "https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi"
       },
       "artists": [
         {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+          "name": "LE MOTAT",
+          "url": "https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO"
         }
       ],
-      "duration_ms": 160791,
-      "name": "Zonder Zonnebril",
-      "url": "https://open.spotify.com/track/0rkK1hlMvsgRkiDD3r8dmA"
+      "duration_ms": 158183,
+      "name": "Eerste Date",
+      "url": "https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY"
+    },
+    {
+      "added_at": "2025-06-26 22:00:20",
+      "album": {
+        "name": "De Lucht",
+        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 166663,
+      "name": "WijTwee",
+      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
     },
     {
       "added_at": "2025-06-26 22:00:20",
@@ -795,22 +811,6 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "De Lucht",
-        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 166663,
-      "name": "WijTwee",
-      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:20",
-      "album": {
         "name": "Vlinder",
         "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "Eerste Date",
-        "url": "https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi"
+        "name": "Zonder Zonnebril",
+        "url": "https://open.spotify.com/album/6flL9XU2ePQTyQVoRYAoQQ"
       },
       "artists": [
         {
-          "name": "LE MOTAT",
-          "url": "https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO"
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
         }
       ],
-      "duration_ms": 158183,
-      "name": "Eerste Date",
-      "url": "https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY"
+      "duration_ms": 160791,
+      "name": "Zonder Zonnebril",
+      "url": "https://open.spotify.com/track/0rkK1hlMvsgRkiDD3r8dmA"
     }
   ],
   "unique_name": "indie.nl",

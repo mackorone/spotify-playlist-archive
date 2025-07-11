@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Arab",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Alecc, Kidd",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -980,7 +980,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 186986,
       "name": "AYO!",
       "url": "https://open.spotify.com/track/0wKGnQd4X0cf5WH17J7jsu"
@@ -2491,6 +2491,36 @@
     },
     {
       "album": {
+        "name": "Doug MacRay",
+        "url": "https://open.spotify.com/album/5QqikVAwdo63PsE7DEH75L"
+      },
+      "artists": [
+        {
+          "name": "SHORT",
+          "url": "https://open.spotify.com/artist/0Dks6fV5JhxWm0NEcRKyvW"
+        },
+        {
+          "name": "KOS",
+          "url": "https://open.spotify.com/artist/7tWuvdCCO8fLNq9O1fcV3P"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        },
+        {
+          "name": "Vic",
+          "url": "https://open.spotify.com/artist/5YudBCmkkzJXFxiK5qduR9"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134642,
+      "name": "Doug MacRay",
+      "url": "https://open.spotify.com/track/1Oz8LGzA7mTQt5IgwLAxvZ"
+    },
+    {
+      "album": {
         "name": "TURBO DELUXE",
         "url": "https://open.spotify.com/album/2QLCEk7JTunODh25ZYrE88"
       },
@@ -3110,7 +3140,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 155643,
       "name": "FENOMENO",
       "url": "https://open.spotify.com/track/51i9nwjFcApOFpVFhAQZzk"
@@ -3386,6 +3416,24 @@
       "duration_ms": 175555,
       "name": "Frena",
       "url": "https://open.spotify.com/track/1sk1gRQHhySVQvLKEheGmm"
+    },
+    {
+      "album": {
+        "name": "BAD BOY 3",
+        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191489,
+      "name": "FTAIW EGW",
+      "url": "https://open.spotify.com/track/0R1t9FcBUuoew8ndJ8ubut"
     },
     {
       "album": {
@@ -5465,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "BAD BOY 3",
+        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "MANDELA EFFECT",
+      "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
+    },
+    {
+      "album": {
         "name": "Maneken",
         "url": "https://open.spotify.com/album/5Ia6nSvzqOQPvvcVWZKZC8"
       },
@@ -6334,7 +6400,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 206557,
       "name": "NISIA",
       "url": "https://open.spotify.com/track/50zuHqsc1lnNTu5txaci1T"
@@ -6680,7 +6746,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 146938,
       "name": "OMG",
       "url": "https://open.spotify.com/track/69mlOlK8ZXPgi8FrEEFgCC"
@@ -7362,7 +7428,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 160365,
       "name": "PLEIN",
       "url": "https://open.spotify.com/track/1UqsfSfADTuFvSAwiChUUE"
@@ -9729,6 +9795,24 @@
     },
     {
       "album": {
+        "name": "VARIKARIS",
+        "url": "https://open.spotify.com/album/1wygbz8b6lYlOsUgTVqlez"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144255,
+      "name": "VARIKARIS",
+      "url": "https://open.spotify.com/track/7ooZh160gRpB8nAdbWgxN5"
+    },
+    {
+      "album": {
         "name": "VARKARIS",
         "url": "https://open.spotify.com/album/6CeJ6Iz9RTIiRt7JvNadoU"
       },
@@ -10092,10 +10176,32 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 157277,
       "name": "Xiropraktis",
       "url": "https://open.spotify.com/track/21UjdT8UPWWM9mCjrmuWSr"
+    },
+    {
+      "album": {
+        "name": "Xorigos",
+        "url": "https://open.spotify.com/album/6ZDX6LHOc404BlBtJz5gqu"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135983,
+      "name": "Xorigos",
+      "url": "https://open.spotify.com/track/4t9oNpGHVQfms0CMhQh3BU"
     },
     {
       "album": {
@@ -10238,6 +10344,24 @@
       "duration_ms": 168648,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/6meGnEPDmxdQR8fFflL4HK"
+    },
+    {
+      "album": {
+        "name": "Ziliara",
+        "url": "https://open.spotify.com/album/2kBDS475QAD2GkCR5mOUwZ"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Ziliara",
+      "url": "https://open.spotify.com/track/1ElcwT6b6UEQSSERkzo7Ru"
     },
     {
       "album": {

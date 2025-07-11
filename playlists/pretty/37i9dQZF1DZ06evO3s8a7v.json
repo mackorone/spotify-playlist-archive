@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 43827,
+  "num_followers": 43838,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGxfgAAAAADskJazMWrbHiaQygQ97WOg",
+  "snapshot_id": "aG2xAAAAAADJjVC4Ewj9BcDdl8HS70Hs",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HISTERIQUEO",
-        "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 205809,
-      "name": "HISTERIQUEO",
-      "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIKINI",
         "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 182380,
       "name": "BIKINI",
       "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HISTERIQUEO",
+        "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 205809,
+      "name": "HISTERIQUEO",
+      "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MYA LIVE P1: Chanel de Coco",
+        "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 209725,
+      "name": "MYA LIVE P1: Chanel de Coco",
+      "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 171504,
       "name": "SI PUDIERA",
       "url": "https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MYA LIVE P1: Chanel de Coco",
-        "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 209725,
-      "name": "MYA LIVE P1: Chanel de Coco",
-      "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
     },
     {
       "added_at": null,

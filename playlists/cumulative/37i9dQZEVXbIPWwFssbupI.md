@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,370 songs - 5 day 5 hr 4 min
+2,371 songs - 5 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-09 | 2023-06-25 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-05 | 2022-12-09 |
 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 | 2024-07-13 | 2025-01-29 |
-| [Crime ensoleillé](https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 3:50 | 2025-06-28 |  |
+| [Crime ensoleillé](https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 3:50 | 2025-06-28 | 2025-07-11 |
 | [Criminel](https://open.spotify.com/track/1o3nr1jAxdDigVleBhTVFG) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 2:43 | 2023-03-11 | 2023-03-19 |
 | [Critical](https://open.spotify.com/track/1FaIt6b9P8g9KdoudSdjYp) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Critical](https://open.spotify.com/album/1d2DU5VeDKUpUenaZZ47uH) | 3:18 | 2022-09-10 | 2022-09-12 |
 | [Crois\-moi](https://open.spotify.com/track/3FBK5C9PDmXIukYFXvZOe2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 4:30 | 2024-06-01 | 2024-06-08 |
@@ -1154,6 +1154,7 @@
 | [La fusion](https://open.spotify.com/track/5zDwN3tjp5OGK7SD6gXYbr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 3:39 | 2023-12-09 | 2023-12-23 |
 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [La petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 | 2022-08-19 | 2022-10-12 |
 | [La guitare suit la mélo](https://open.spotify.com/track/6xZSIQTjYbrV1Pg7CZao1m) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/192Df1MyinzzC8CfiIy1Dt) | 3:09 | 2023-09-30 | 2023-10-02 |
+| [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Killa Predator](https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww) | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy) | 2:19 | 2025-07-10 |  |
 | [La kiffance](https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:59 | 2021-04-04 | 2023-07-18 |
 | [La kiffance](https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La kiffance](https://open.spotify.com/album/1YrIKS84a899NhW15PDswr) | 2:59 | 2021-03-27\* | 2021-04-04 |
 | [La Kush](https://open.spotify.com/track/0RAeV4QzrdHzsn4R0Pdgcp) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Tony Corrida](https://open.spotify.com/artist/5lCpbjOjBZTwEIizNuhEhC) | [La Kush](https://open.spotify.com/album/1JHZrthJic7JLR83GFvloZ) | 2:19 | 2022-10-29 | 2022-11-06 |

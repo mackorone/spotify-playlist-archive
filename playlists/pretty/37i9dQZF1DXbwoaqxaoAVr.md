@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,205 likes - 73 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,706 likes - 73 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 16 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/1egbEbrblp5ujK8mABDl10) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Light My Fire](https://open.spotify.com/album/5LOqQ3f3DtEMKo8d7aOIXt) | 3:22 |
 | 17 | [Here Comes the Sun](https://open.spotify.com/track/23Bxv0YiYXpv3OPkv3Jbmx) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Celebrating Nina: A Reggae Tribute to Nina Simone](https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF) | 3:21 |
 | 18 | [Rock My Boat](https://open.spotify.com/track/1oTfgTo3TKENDX6aadvvwP) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Rock My Boat](https://open.spotify.com/album/5QwFJcgHUBjjeg5kvhv0cT) | 4:09 |
-| 19 | [Egaux](https://open.spotify.com/track/2dS4meH8cow2zKTXLMeSXQ) | [Nuttea](https://open.spotify.com/artist/44tru3p8abXXQ4yirjkBTt), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Egaux](https://open.spotify.com/album/4aGx8deIzw92Dib4AH5PrC) | 3:04 |
+| 19 | [Egaux](https://open.spotify.com/track/2dS4meH8cow2zKTXLMeSXQ) | [Nuttea](https://open.spotify.com/artist/65LSKdbofg1NdWkaLSVXKc), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Egaux](https://open.spotify.com/album/4aGx8deIzw92Dib4AH5PrC) | 3:04 |
 | 20 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
 | 21 | [Flowers](https://open.spotify.com/track/77mExXdHBmXHy2Ge14T3l9) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [Flowers](https://open.spotify.com/album/6RIKM60SSomYggvqXtppKE) | 3:51 |
 | 22 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |

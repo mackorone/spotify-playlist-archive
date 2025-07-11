@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3D8eZBmcXjAjFzUjYtrl6f.md) - [plain]
 
 > To the best mother in the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 29 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 29 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

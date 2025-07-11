@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-751 songs - 1 day 13 hr 59 min
+752 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 | 2024-12-03 | 2024-12-12 |
 | [Hippie Shake](https://open.spotify.com/track/7uc9fpb5GXABlKAdKf535n) | [K3](https://open.spotify.com/artist/1eZrOVQ8ady3sDTNdG9E4D) | [Alle Kleuren](https://open.spotify.com/album/4ycbJJYWQGyFvraVzLV8js) | 2:34 | 2024-10-14 | 2024-11-01 |
 | [Hoekie van me bedje](https://open.spotify.com/track/0fyAjd23yLcriPKVyH0Ylv) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Hoekie van me bedje](https://open.spotify.com/album/751nLtws2TNlXViqlinMdW) | 1:51 | 2024-07-17 | 2025-03-06 |
+| [Home](https://open.spotify.com/track/7oGl84JQtuu0l6uD3Xnjeq) | [AVRYN](https://open.spotify.com/artist/4OqoVbQzqZlxtqzTTcws91), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Home](https://open.spotify.com/album/21qoSRR8aX0qXtmIkmbVwt) | 2:52 | 2025-07-10 |  |
 | [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 | 2023-02-23 | 2025-05-08 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-03-06 | 2024-04-17 |
 | [Hosselen](https://open.spotify.com/track/3pupFhUH3n5CfXQ8KO70S0) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Gewoon BOEF](https://open.spotify.com/album/3vJ9aTYd6r9klB1SsMcpqr) | 3:28 | 2023-05-24 | 2023-11-10 |

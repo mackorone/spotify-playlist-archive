@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-1,875 songs - 4 day 17 hr 16 min
+1,876 songs - 4 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Ey Azhagiye](https://open.spotify.com/track/02P2RHNXEtrcmGExwNIFIK) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Thugs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6tBK3p227eR9b1NPWnvzls) | 3:22 | 2023-02-21 | 2023-04-14 |
 | [Ezhundhu Nindru Poridu \(From "Raghu Thatha"\)](https://open.spotify.com/track/1L1vW6SBAwvcvwCpxvOyfh) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Suman Kumar](https://open.spotify.com/artist/26hRmvJV5nuwHPbS5xX3Yu) | [Ezhundhu Nindru Poridu \(From "Raghu Thatha"\)](https://open.spotify.com/album/4uHjdnKuuJh0HPPFZoQOXi) | 3:48 | 2024-08-16 | 2024-08-27 |
 | [Ezhundhu Vaa \(From "Singappenney"\)](https://open.spotify.com/track/5vMSkvtLuYwx3ea7R56Zay) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ezhundhu Vaa \(From "Singappenney"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Bb9ZByZV7ddBXmmt8ZQ2r) | 4:00 | 2022-09-21 | 2022-10-11 |
+| [FAFA Song \(From "Maareesan"\)](https://open.spotify.com/track/27ke1ttrAria0hIFs6WK3A) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [FAFA Song \(From "Maareesan"\)](https://open.spotify.com/album/36fEK8eY91QO5MEJIM5dNz) | 3:29 | 2025-07-10 |  |
 | [Falcon In The Sky \(From "BYRI"\)](https://open.spotify.com/track/5y4jkvfTTV9tcgMM16aQCY) | [Arun Raj](https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF) | [Falcon In The Sky \(From "BYRI"\)](https://open.spotify.com/album/0C9VXyh80QobUheYyu6l8O) | 3:50 | 2024-02-22 | 2024-04-06 |
 | [Family Paattu \(From "Veetla Vishesham"\)](https://open.spotify.com/track/3BHufGQPwH7YaHh5rPqVtb) | [Jairam Balasubramanian](https://open.spotify.com/artist/6cl13UztJP6FnAlBI8yaaY), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC), [Debapriya Adhikary](https://open.spotify.com/artist/46ClZdZ6yv7I0rJVfUONEC), [Girishh Gopalakrishnan](https://open.spotify.com/artist/1h8cptkBZRjX3xJT2rtkkl) | [Family Paattu \(From "Veetla Vishesham"\)](https://open.spotify.com/album/1wC7uq8ICIUXPpGHJr4SM2) | 4:53 | 2022-06-20 | 2022-07-08 |
 | [Fear Song \(From "Devara Part 1"\) \[Tamil\]](https://open.spotify.com/track/4uwUk23qJYXHWFJgXWPg9T) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Fear Song \(From "Devara Part 1"\) \[Tamil\]](https://open.spotify.com/album/0RgaMsi7yzrtjJ7JzYALkd) | 3:15 | 2024-05-20 | 2024-11-05 |

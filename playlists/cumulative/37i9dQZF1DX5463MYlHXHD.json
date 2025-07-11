@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 250786,
       "name": "Como te voy a olvidar",
       "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
@@ -3219,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
+        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
+      },
+      "artists": [
+        {
+          "name": "Amar y yo",
+          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "La pata sucia",
+      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
+    },
+    {
+      "album": {
         "name": "Homenaje a Colombia",
         "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
       },
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 234000,
       "name": "LOGI",
       "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
@@ -5700,6 +5718,40 @@
       "duration_ms": 200373,
       "name": "Siempre Es la Misma Situaci\u00f3n",
       "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "album": {
+        "name": "Siempre Me Llama (Remix)",
+        "url": "https://open.spotify.com/album/2xDcDmKVnIah3zgjgoC1DA"
+      },
+      "artists": [
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        },
+        {
+          "name": "Jorgito Barrionuevo",
+          "url": "https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH"
+        },
+        {
+          "name": "Dasty",
+          "url": "https://open.spotify.com/artist/78bMMnn4g63g0RCVgxSe2a"
+        },
+        {
+          "name": "Mak Donal",
+          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
+        },
+        {
+          "name": "LT Promise",
+          "url": "https://open.spotify.com/artist/69ElvGSkRPaoxWFPLqfUac"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145102,
+      "name": "Siempre Me Llama - Remix",
+      "url": "https://open.spotify.com/track/0yscB0KjgmPP17QdHfBaW7"
     },
     {
       "album": {

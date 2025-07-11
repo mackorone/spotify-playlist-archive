@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : LYNN",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : J\u00e4de",
   "name": "le miel",
   "tracks": [
     {
@@ -410,6 +410,28 @@
       "duration_ms": 135000,
       "name": "Aupr\u00e8s de moi",
       "url": "https://open.spotify.com/track/3a9OCDaEgxew2f8cpiGrqV"
+    },
+    {
+      "album": {
+        "name": "FOGO, Vol. 1",
+        "url": "https://open.spotify.com/album/1WiT0bGDgB44AqAOLvseuI"
+      },
+      "artists": [
+        {
+          "name": "\u00c4zy",
+          "url": "https://open.spotify.com/artist/0R4YyWteFkDWFybhQyOeXF"
+        },
+        {
+          "name": "Sh\u00e9n\u00e9sia",
+          "url": "https://open.spotify.com/artist/4lFZHniQrR2V6tp4tKWe9c"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/1VKr4Avn20dDno1n8Ke0iC"
     },
     {
       "album": {
@@ -4498,7 +4520,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 172213,
       "name": "Mourir tout de suite",
       "url": "https://open.spotify.com/track/1UBQkrMNsTA5UVcWAVuCVa"

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors.",
-  "num_followers": 26068,
+  "num_followers": 26092,
   "original_name": "Editors' Picks: Best Songs of June",
   "owner": {
     "name": "Spotify",
@@ -97,28 +97,12 @@
         },
         {
           "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0B9IiUXJAoql166wpuPUf8"
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
         }
       ],
       "duration_ms": 171000,
       "name": "FWU",
       "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
-        "name": "Virgin",
-        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 208696,
-      "name": "Favourite Daughter",
-      "url": "https://open.spotify.com/track/6FRKxwDHTDGr1lqQ0SEprH"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -135,6 +119,22 @@
       "duration_ms": 110495,
       "name": "TU VAS SIN (fav)",
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 208696,
+      "name": "Favourite Daughter",
+      "url": "https://open.spotify.com/track/6FRKxwDHTDGr1lqQ0SEprH"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
+        "name": "EXPECTATIVAS",
+        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "EXPECTATIVAS",
+      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 137100,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
-        "name": "EXPECTATIVAS",
-        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "EXPECTATIVAS",
-      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -279,26 +279,6 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
-        "name": "Che Che (feat. Asake)",
-        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Che Che (feat. Asake)",
-      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
         "name": "MANIA",
         "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 160200,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
+        "name": "Che Che (feat. Asake)",
+        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
-        "name": "Chocolate Axe",
-        "url": "https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 167983,
-      "name": "Chocolate Axe",
-      "url": "https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
         "name": "talk",
         "url": "https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 160407,
       "name": "talk",
       "url": "https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
+        "name": "Chocolate Axe",
+        "url": "https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 167983,
+      "name": "Chocolate Axe",
+      "url": "https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf"
     },
     {
       "added_at": "2025-07-03 18:02:56",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-07-03 18:02:56",
       "album": {
+        "name": "Still Above",
+        "url": "https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Still Above",
+      "url": "https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa"
+    },
+    {
+      "added_at": "2025-07-03 18:02:56",
+      "album": {
         "name": "Cruel Love",
         "url": "https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 279067,
       "name": "Cruel Love",
       "url": "https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM"
-    },
-    {
-      "added_at": "2025-07-03 18:02:56",
-      "album": {
-        "name": "Still Above",
-        "url": "https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Still Above",
-      "url": "https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa"
     },
     {
       "added_at": "2025-07-03 18:02:56",

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Twin Strings and other exciting artists.
 
-1,098 songs - 2 day 11 hr 57 min
+1,099 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [filhaal](https://open.spotify.com/track/6SO0WhGWE7L37gKJ8QjGlu) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [filhaal](https://open.spotify.com/album/5HBeJ0OkBN6k8JxPODwgZ2) | 3:06 | 2023-11-24 | 2023-12-23 |
 | [Finding Her](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her](https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq) | 3:27 | 2025-01-31 | 2025-06-07 |
 | [Fireflies](https://open.spotify.com/track/0yYPEw8XGbRhIczNuGzw5H) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [Fireflies](https://open.spotify.com/album/7H4sAe84ZPcJW7Th30CJg5) | 3:28 | 2023-09-15 | 2023-10-14 |
+| [Fizayen](https://open.spotify.com/track/5KW82dijsE2Gw3dP7Rn62w) | [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Fizayen](https://open.spotify.com/album/6a5usnCX7OSRSReqsVti6W) | 3:27 | 2025-07-04 |  |
 | [Fizool](https://open.spotify.com/track/1xZ921cGTi0p4YtyxbRs0G) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Fizool](https://open.spotify.com/album/21syGm5hk5cQUB9CsFkh8C) | 2:31 | 2024-05-17 | 2024-06-29 |
 | [Follow](https://open.spotify.com/track/4OFQByHmefFNvNwuEtPkWl) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [pixl.](https://open.spotify.com/artist/3Lf8QtJRE01j9Hqyd5bVRC) | [Follow](https://open.spotify.com/album/3q074oTlvh5FBfOZUhsJFt) | 3:16 | 2024-07-12 | 2024-07-19 |
 | [Fufaji](https://open.spotify.com/track/1QbJwvzqjPTT2sjbklEDRP) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Fufaji](https://open.spotify.com/album/6Ux3UFEDhb43kaA0ugf8rk) | 3:40 | 2024-12-20 | 2025-02-08 |
@@ -910,7 +911,7 @@
 | [Soona](https://open.spotify.com/track/1qIDnZLs3KSHiMXGSdYmXL) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Soona](https://open.spotify.com/album/74I12Fwbyg8mR32aLMrnYa) | 4:07 | 2023-08-25 | 2023-11-11 |
 | [Soyi/Khoyi](https://open.spotify.com/track/0uBzSPXmrtTiusAq5ZuEKb) | [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Soyi/Khoyi](https://open.spotify.com/album/3WymIaLFVIVMNtx7Da1HSy) | 2:35 | 2024-02-02 | 2024-03-02 |
 | [Soz e Dil](https://open.spotify.com/track/2HsLavkCiRviSxOx57d7UR) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Soz e Dil](https://open.spotify.com/album/4jydMVHW4fFei0hhkuDzhp) | 6:12 | 2025-06-06 |  |
-| [Space Mein](https://open.spotify.com/track/2k0etpq0NUhxhMy5ZvWvEO) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Space Mein](https://open.spotify.com/album/4jubWvEu3uV0ZOeopMayOA) | 2:56 | 2025-06-20 |  |
+| [Space Mein](https://open.spotify.com/track/2k0etpq0NUhxhMy5ZvWvEO) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Space Mein](https://open.spotify.com/album/4jubWvEu3uV0ZOeopMayOA) | 2:56 | 2025-06-20 | 2025-07-11 |
 | [Still](https://open.spotify.com/track/4GQhmqjs2WKqsa67r6dbRn) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId), [Ejaz Hussain](https://open.spotify.com/artist/2FizMD1CFXw7ZjLxyWQr9A) | [Still](https://open.spotify.com/album/7xtrlKdtfe7IohQANLJond) | 4:49 | 2024-06-28 | 2024-07-19 |
 | [stop calling me](https://open.spotify.com/track/60JNWtnKoOLB2V2ceyXf5e) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [stop calling me](https://open.spotify.com/album/2lQz1pSoUlP531iJNzkcDK) | 2:56 | 2023-11-17 | 2023-12-09 |
 | [Stranger](https://open.spotify.com/track/165R9YK1GlzMz0rpYlryAD) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Stranger](https://open.spotify.com/album/6KQdptMId50MHGipHdmUgD) | 4:12 | 2024-03-22 | 2024-05-07 |

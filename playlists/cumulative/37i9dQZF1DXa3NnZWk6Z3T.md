@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-386 songs - 22 hr 21 min
+387 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Buenos Días](https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Buenos Días](https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ) | 3:43 | 2023-02-10 |  |
 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-28 | 2024-08-24 |
 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 | 2023-02-10 | 2024-04-19 |
+| [Bésame \(feat\. Rawayana\)](https://open.spotify.com/track/45gWshtf0no6PCcp7AbLSC) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Bésame \(feat\. Rawayana\)](https://open.spotify.com/album/1oCNO54KO5Gh0URUBDTAe7) | 2:50 | 2025-06-06 |  |
 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 | 2022-04-07 | 2022-10-28 |
 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 | 2022-09-21 | 2024-04-19 |
 | [Bésame mucho \(Kiss Me a Lot\)](https://open.spotify.com/track/0Vgsuj9b5MdKup4zwaQZIQ) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame Mucho](https://open.spotify.com/album/64vqYa85KJSWGw3sbtcxbG) | 4:04 | 2021-12-09 | 2022-07-29 |
@@ -329,7 +330,7 @@
 | [Somos Algo](https://open.spotify.com/track/2tGIjytBp6wBcPxiBrDu90) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam Vol\. 1](https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU) | 3:53 | 2021-12-09 | 2024-05-14 |
 | [Suave y Pegao](https://open.spotify.com/track/4YKRvsBW0T6Db4Owvx6TNf) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Suave y Pegao](https://open.spotify.com/album/1HIbD7tva2Sp1wjkKEJZhJ) | 4:16 | 2024-03-14 | 2024-05-14 |
 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 | 2022-08-05 | 2024-04-19 |
-| [Tan Difícil de Entender](https://open.spotify.com/track/4rdAUffaRjWdjKnpjtM6W5) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/1aiX9cvuhGDTTSqCqgyUO7) | 2:05 | 2021-12-09 |  |
+| [Tan Difícil de Entender](https://open.spotify.com/track/4rdAUffaRjWdjKnpjtM6W5) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/1aiX9cvuhGDTTSqCqgyUO7) | 2:05 | 2021-12-09 | 2025-07-11 |
 | [TANTO PARA NADA](https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [RUBEDO](https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8) | 2:40 | 2024-06-21 |  |
 | [Tarde](https://open.spotify.com/track/1NAkjq9yvkryYOXK4HtsA0) | [La Pepe](https://open.spotify.com/artist/06tTCnJuihrOEh2hCuwWLX) | [Tarde](https://open.spotify.com/album/6LOK3oyliemSEju4OsqIXb) | 3:52 | 2022-04-07 | 2022-04-17 |
 | [tbb](https://open.spotify.com/track/1pTpdcsCrVf1gFKpDFJMzh) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv) | [tbb](https://open.spotify.com/album/2hthjfFHdByKsE59P68CXI) | 2:51 | 2022-12-30 | 2024-08-03 |

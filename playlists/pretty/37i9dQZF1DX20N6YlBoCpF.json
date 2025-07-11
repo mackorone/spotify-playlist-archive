@@ -1,13 +1,29 @@
 {
-  "description": "Al die nuutste Afrikaanse musiek met Bernice West, Die Heuwels Fantasties, Elandr\u00e9, Rudo Schwim en meer!",
-  "num_followers": 37509,
+  "description": "Al die nuutste Afrikaanse musiek met Tamlyn Wessels, Bernice West, Zaan Sonnekus, Anneli Van Rooyen en meer!",
+  "num_followers": 37532,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGb9hQAAAAAGQeTebGoab0U7aSRAY/TO",
+  "snapshot_id": "aHA39gAAAAC4fNiUGhZuTDQfNVM1pK1W",
   "tracks": [
+    {
+      "added_at": "2025-07-10 22:00:22",
+      "album": {
+        "name": "Nommer Hou",
+        "url": "https://open.spotify.com/album/4M4W4MIDgja1IM0aK5u1Mj"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "duration_ms": 186241,
+      "name": "Nommer Hou",
+      "url": "https://open.spotify.com/track/57OTW0AVZzCVowuqFQyryQ"
+    },
     {
       "added_at": "2025-07-03 22:00:37",
       "album": {
@@ -23,6 +39,58 @@
       "duration_ms": 174648,
       "name": "Komma Nader",
       "url": "https://open.spotify.com/track/6iC282rdJ0vk2qYbZLMlRd"
+    },
+    {
+      "added_at": "2025-07-10 22:00:22",
+      "album": {
+        "name": "SKREE",
+        "url": "https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 178737,
+      "name": "SKREE",
+      "url": "https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef"
+    },
+    {
+      "added_at": "2025-07-03 22:00:37",
+      "album": {
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "added_at": "2025-07-10 22:00:22",
+      "album": {
+        "name": "Ek Glo (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/1zFAVTa92JgCdcAI1QuUUq"
+      },
+      "artists": [
+        {
+          "name": "Anneli Van Rooyen",
+          "url": "https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "duration_ms": 204157,
+      "name": "Ek Glo - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/5D83zEIDbaDUnWMdfZZDWS"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -41,20 +109,88 @@
       "url": "https://open.spotify.com/track/6C71FxtdqdQIrvBGCr24vg"
     },
     {
-      "added_at": "2025-07-03 22:00:37",
+      "added_at": "2025-07-10 22:00:22",
       "album": {
-        "name": "NIE M\u00d4RE NIE NOU",
-        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+        "name": "Singery",
+        "url": "https://open.spotify.com/album/2KojNnm4LZ3SZGhBhvzpY6"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "Jacques Not Jack",
+          "url": "https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw"
         }
       ],
-      "duration_ms": 158680,
-      "name": "NIE M\u00d4RE NIE NOU",
-      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+      "duration_ms": 169230,
+      "name": "Singery",
+      "url": "https://open.spotify.com/track/3emk1fYrGOlFBDTMEnzWpE"
+    },
+    {
+      "added_at": "2025-07-03 22:00:37",
+      "album": {
+        "name": "Clarens Winter",
+        "url": "https://open.spotify.com/album/5bCIUjdtc3YdL5XrEXboCP"
+      },
+      "artists": [
+        {
+          "name": "Rudo Schwim",
+          "url": "https://open.spotify.com/artist/0q8pZL0gSRc07NGegSdCGd"
+        }
+      ],
+      "duration_ms": 200163,
+      "name": "Clarens Winter",
+      "url": "https://open.spotify.com/track/68Mcad6WoCuCis8NcK96KV"
+    },
+    {
+      "added_at": "2025-07-10 22:00:22",
+      "album": {
+        "name": "Hanne",
+        "url": "https://open.spotify.com/album/3yYSpobeB5e5mdW8VA5bLj"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Baartman",
+          "url": "https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ"
+        }
+      ],
+      "duration_ms": 215338,
+      "name": "Hanne",
+      "url": "https://open.spotify.com/track/5zX9hvreDfjEkZ1Fq0YVPt"
+    },
+    {
+      "added_at": "2025-07-03 22:00:37",
+      "album": {
+        "name": "Aandklank",
+        "url": "https://open.spotify.com/album/6it1mXhjclEbJzXmR814xp"
+      },
+      "artists": [
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+        }
+      ],
+      "duration_ms": 141147,
+      "name": "Agterplaas",
+      "url": "https://open.spotify.com/track/7DC16PqtoRsGMZq1Swgoex"
+    },
+    {
+      "added_at": "2025-07-10 22:00:22",
+      "album": {
+        "name": "Liefde Soos Die",
+        "url": "https://open.spotify.com/album/2dP8uuwEJAarcVf6JJmt6r"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        },
+        {
+          "name": "Brandon Miles",
+          "url": "https://open.spotify.com/artist/0Xl7arcMBlu0zYvLfCHo1Z"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Liefde Soos Die",
+      "url": "https://open.spotify.com/track/4LlY46QHJBXVH4pDaVjw5z"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -77,36 +213,20 @@
       "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
     },
     {
-      "added_at": "2025-07-03 22:00:37",
+      "added_at": "2025-07-10 22:00:22",
       "album": {
-        "name": "Aandklank",
-        "url": "https://open.spotify.com/album/6it1mXhjclEbJzXmR814xp"
+        "name": "Aanhou",
+        "url": "https://open.spotify.com/album/5LMUaegcgiDEH8gSj4YJ3b"
       },
       "artists": [
         {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+          "name": "Heidi",
+          "url": "https://open.spotify.com/artist/0tE22XnY1KpKng29BSLOJc"
         }
       ],
-      "duration_ms": 141147,
-      "name": "Agterplaas",
-      "url": "https://open.spotify.com/track/7DC16PqtoRsGMZq1Swgoex"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Clarens Winter",
-        "url": "https://open.spotify.com/album/5bCIUjdtc3YdL5XrEXboCP"
-      },
-      "artists": [
-        {
-          "name": "Rudo Schwim",
-          "url": "https://open.spotify.com/artist/0q8pZL0gSRc07NGegSdCGd"
-        }
-      ],
-      "duration_ms": 200163,
-      "name": "Clarens Winter",
-      "url": "https://open.spotify.com/track/68Mcad6WoCuCis8NcK96KV"
+      "duration_ms": 209375,
+      "name": "Aanhou",
+      "url": "https://open.spotify.com/track/7sJEj3qt1MdDi0k559OYru"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -123,6 +243,102 @@
       "duration_ms": 264935,
       "name": "Sonsak In Die Vrystaat",
       "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
+    },
+    {
+      "added_at": "2025-07-10 22:00:22",
+      "album": {
+        "name": "Verby",
+        "url": "https://open.spotify.com/album/3h2SQtMXSvfT9aZ1JJZf9K"
+      },
+      "artists": [
+        {
+          "name": "Cara Rossouw",
+          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
+        }
+      ],
+      "duration_ms": 246201,
+      "name": "Verby",
+      "url": "https://open.spotify.com/track/0AFu43OqBPv1p5OSAlLTHK"
+    },
+    {
+      "added_at": "2025-07-03 22:00:37",
+      "album": {
+        "name": "Wat Wag Jy?",
+        "url": "https://open.spotify.com/album/2Xs3UtlbQn7oizbeqyG8Rm"
+      },
+      "artists": [
+        {
+          "name": "ROUX",
+          "url": "https://open.spotify.com/artist/7DcOlr46gvsY4Mw9qIqzwZ"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Wat Wag Jy?",
+      "url": "https://open.spotify.com/track/2IY0ndboxUiHFXX5uonMgs"
+    },
+    {
+      "added_at": "2025-07-10 22:00:22",
+      "album": {
+        "name": "Jy's Okay",
+        "url": "https://open.spotify.com/album/5Hq5wsyQeh0ZsaYBGfUZXp"
+      },
+      "artists": [
+        {
+          "name": "Dani Vill\u00e9",
+          "url": "https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE"
+        }
+      ],
+      "duration_ms": 185656,
+      "name": "Jy's Okay",
+      "url": "https://open.spotify.com/track/2pk4vw3MqZh0Le6TyAJOis"
+    },
+    {
+      "added_at": "2025-07-03 22:00:37",
+      "album": {
+        "name": "Breek Die Mure",
+        "url": "https://open.spotify.com/album/4OAKREAwUbBZ1mMcRgwmnh"
+      },
+      "artists": [
+        {
+          "name": "Deon Groot",
+          "url": "https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA"
+        }
+      ],
+      "duration_ms": 216562,
+      "name": "Breek Die Mure",
+      "url": "https://open.spotify.com/track/3m5jZoaawVMzC3MDGwUJLH"
+    },
+    {
+      "added_at": "2025-07-10 22:00:22",
+      "album": {
+        "name": "Geval Vir Jou",
+        "url": "https://open.spotify.com/album/0lFymqNOIWVUukMOqMEC1e"
+      },
+      "artists": [
+        {
+          "name": "ZAHN",
+          "url": "https://open.spotify.com/artist/6dScCtIGmJDcNlS7IpYT6m"
+        }
+      ],
+      "duration_ms": 198848,
+      "name": "Geval Vir Jou",
+      "url": "https://open.spotify.com/track/1saoIuuPteXyUm7sNpNJjo"
+    },
+    {
+      "added_at": "2025-07-03 22:00:37",
+      "album": {
+        "name": "Liefde In 'n Loopdop",
+        "url": "https://open.spotify.com/album/0pAUjxoPRLfUtYM6Uod8Pm"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 211952,
+      "name": "Liefde In 'n Loopdop",
+      "url": "https://open.spotify.com/track/374VSOlTOiVF4L4KPXXVTs"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -163,66 +379,34 @@
     {
       "added_at": "2025-07-03 22:00:37",
       "album": {
-        "name": "Wat Wag Jy?",
-        "url": "https://open.spotify.com/album/2Xs3UtlbQn7oizbeqyG8Rm"
+        "name": "Jagtrip",
+        "url": "https://open.spotify.com/album/75uChZwgcK6DmKmtESaLN6"
       },
       "artists": [
         {
-          "name": "ROUX",
-          "url": "https://open.spotify.com/artist/7DcOlr46gvsY4Mw9qIqzwZ"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Wat Wag Jy?",
-      "url": "https://open.spotify.com/track/2IY0ndboxUiHFXX5uonMgs"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Nykie",
-        "url": "https://open.spotify.com/album/4L2oOZclkPXDTGIblnXyBw"
-      },
-      "artists": [
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        },
         {
-          "name": "Refentse",
-          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
-        }
-      ],
-      "duration_ms": 199083,
-      "name": "Nykie",
-      "url": "https://open.spotify.com/track/2kK8T5mbA5rJaC578CyKQ0"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Breek Die Mure",
-        "url": "https://open.spotify.com/album/4OAKREAwUbBZ1mMcRgwmnh"
-      },
-      "artists": [
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
         {
-          "name": "Deon Groot",
-          "url": "https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA"
-        }
-      ],
-      "duration_ms": 216562,
-      "name": "Breek Die Mure",
-      "url": "https://open.spotify.com/track/3m5jZoaawVMzC3MDGwUJLH"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Liefde In 'n Loopdop",
-        "url": "https://open.spotify.com/album/0pAUjxoPRLfUtYM6Uod8Pm"
-      },
-      "artists": [
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        },
         {
-          "name": "JAN JAN JAN",
-          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        },
+        {
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
         }
       ],
-      "duration_ms": 211952,
-      "name": "Liefde In 'n Loopdop",
-      "url": "https://open.spotify.com/track/374VSOlTOiVF4L4KPXXVTs"
+      "duration_ms": 198970,
+      "name": "Jagtrip",
+      "url": "https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -243,6 +427,22 @@
       "duration_ms": 196173,
       "name": "Stoetbul - REMIX 2025",
       "url": "https://open.spotify.com/track/2ORlAsSG18RKQcjo5vnBtN"
+    },
+    {
+      "added_at": "2025-07-03 22:00:37",
+      "album": {
+        "name": "Nykie",
+        "url": "https://open.spotify.com/album/4L2oOZclkPXDTGIblnXyBw"
+      },
+      "artists": [
+        {
+          "name": "Refentse",
+          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
+        }
+      ],
+      "duration_ms": 199083,
+      "name": "Nykie",
+      "url": "https://open.spotify.com/track/2kK8T5mbA5rJaC578CyKQ0"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -423,38 +623,6 @@
       "duration_ms": 207333,
       "name": "Ek Mis Jou",
       "url": "https://open.spotify.com/track/0H5JatqjXRa1mMWYxaHGk7"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Jagtrip",
-        "url": "https://open.spotify.com/album/75uChZwgcK6DmKmtESaLN6"
-      },
-      "artists": [
-        {
-          "name": "Bok Van Blerk",
-          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
-        },
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Ruhan Du Toit",
-          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
-        },
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        },
-        {
-          "name": "Jay",
-          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
-        }
-      ],
-      "duration_ms": 198970,
-      "name": "Jagtrip",
-      "url": "https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -715,22 +883,6 @@
     {
       "added_at": "2025-07-03 22:00:37",
       "album": {
-        "name": "Dis My Jam",
-        "url": "https://open.spotify.com/album/2B5kYQoi6aX7liqHv1YFvl"
-      },
-      "artists": [
-        {
-          "name": "BOBBEJAN",
-          "url": "https://open.spotify.com/artist/2Gj6Mfttw0t6kBGYzoxVFl"
-        }
-      ],
-      "duration_ms": 187855,
-      "name": "Dis My Jam",
-      "url": "https://open.spotify.com/track/0tH3jToSEcCyN9UNXHsxuU"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
         "name": "Ek Dare Jou (Bly Net Lief Vir My)",
         "url": "https://open.spotify.com/album/4h4q9AFZPJj951pH4fJjvo"
       },
@@ -927,22 +1079,6 @@
     {
       "added_at": "2025-07-03 22:00:37",
       "album": {
-        "name": "Boer Bloed Loop Diep",
-        "url": "https://open.spotify.com/album/7MjTJFEOTbslA5MnV7NNwo"
-      },
-      "artists": [
-        {
-          "name": "Erik Zeelie",
-          "url": "https://open.spotify.com/artist/6PiRvM7pDV231d3i7ApLcS"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "Ek Hoor Die Roep van Huis",
-      "url": "https://open.spotify.com/track/2mSyyQrajzrbj0VKa1FCZ9"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
         "name": "Hang Aan Jou Lippe",
         "url": "https://open.spotify.com/album/1zQ2HCrBIraog6oB8Jga0z"
       },
@@ -1039,26 +1175,6 @@
     {
       "added_at": "2025-07-03 22:00:37",
       "album": {
-        "name": "Die Braaibroodjie Re\u00ebl (Lazarus King Remix)",
-        "url": "https://open.spotify.com/album/0IjKer8RADmKNiYASfSNUi"
-      },
-      "artists": [
-        {
-          "name": "Zian\u00e9 Saayman",
-          "url": "https://open.spotify.com/artist/1rnB2sc6wtjTh3gkYZihli"
-        },
-        {
-          "name": "Lazarus King",
-          "url": "https://open.spotify.com/artist/1jLTBw9t1VDE1Mk0EuAboN"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "Die Braaibroodjie Re\u00ebl - Lazarus King Remix",
-      "url": "https://open.spotify.com/track/5kdHIUf56q0OHO1r5AxsAO"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
         "name": "Hokaai Stoppie Lorrie (2025)",
         "url": "https://open.spotify.com/album/2HnDPFI8Zur8DQ1KetiuHK"
       },
@@ -1087,22 +1203,6 @@
       "duration_ms": 178200,
       "name": "In Die Bos",
       "url": "https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Die Onse Vader",
-        "url": "https://open.spotify.com/album/7kT1toThmEtPSioWMIjrG2"
-      },
-      "artists": [
-        {
-          "name": "Kobus Muller",
-          "url": "https://open.spotify.com/artist/5gGeXLcvZWbqfFXpl24iGx"
-        }
-      ],
-      "duration_ms": 135442,
-      "name": "Die Onse Vader",
-      "url": "https://open.spotify.com/track/4E0Gj6YciQc1jW1b3gZAHL"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -1279,26 +1379,6 @@
     {
       "added_at": "2025-07-03 22:00:37",
       "album": {
-        "name": "Die ou",
-        "url": "https://open.spotify.com/album/2p4X4TJD8iTOl4X9OIFhYy"
-      },
-      "artists": [
-        {
-          "name": "Perfect Tz",
-          "url": "https://open.spotify.com/artist/1wWFtD5OZ8GND9Gbwgjzl9"
-        },
-        {
-          "name": "Armand Joubert",
-          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
-        }
-      ],
-      "duration_ms": 135580,
-      "name": "Die ou",
-      "url": "https://open.spotify.com/track/03yO4FMddSFJ9YnGtJAxqF"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
         "name": "Kies",
         "url": "https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs"
       },
@@ -1363,22 +1443,6 @@
     {
       "added_at": "2025-07-03 22:00:37",
       "album": {
-        "name": "Tevrede",
-        "url": "https://open.spotify.com/album/2ruygRH00NvGn0NUkSH0hO"
-      },
-      "artists": [
-        {
-          "name": "Vrede",
-          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
-        }
-      ],
-      "duration_ms": 176421,
-      "name": "Tevrede",
-      "url": "https://open.spotify.com/track/51sRTrwrFheB2qZn5cRtnZ"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
         "name": "Opskop",
         "url": "https://open.spotify.com/album/0g78MziYr8KsA0FVDakSe8"
       },
@@ -1395,54 +1459,6 @@
       "duration_ms": 145714,
       "name": "Opskop",
       "url": "https://open.spotify.com/track/3GfwLL0kOAcm0z3U93M3U4"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Presley's",
-        "url": "https://open.spotify.com/album/3f8PqwnFLpP0HPTdY11cnX"
-      },
-      "artists": [
-        {
-          "name": "Boschter",
-          "url": "https://open.spotify.com/artist/5oZEwvGKQblP1d7ist4wUU"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "Presley's",
-      "url": "https://open.spotify.com/track/2PBsg0Va0bhtEamPh6T5Tb"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Moes Maar Ek Moenie",
-        "url": "https://open.spotify.com/album/1Msqqo7bcdmpMrgD8YEzTj"
-      },
-      "artists": [
-        {
-          "name": "Liza Nel",
-          "url": "https://open.spotify.com/artist/2A972WrIIrzfdsI5IeSS3z"
-        }
-      ],
-      "duration_ms": 177794,
-      "name": "Moes Maar Ek Moenie",
-      "url": "https://open.spotify.com/track/17Sqz5allooXiGaO6VzxQU"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Energie",
-        "url": "https://open.spotify.com/album/47V7p2khBV6ezW5QPVBoXl"
-      },
-      "artists": [
-        {
-          "name": "Len Muller",
-          "url": "https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "Energie",
-      "url": "https://open.spotify.com/track/5HmXnJcxVO2V5gkJn7DY47"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -1491,22 +1507,6 @@
       "duration_ms": 211455,
       "name": "Mooier As Mens",
       "url": "https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Het Jou Nodig",
-        "url": "https://open.spotify.com/album/3CHi0GHPaDHlcPRTBILoNb"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 209686,
-      "name": "Het Jou Nodig",
-      "url": "https://open.spotify.com/track/6YlnBWBaQcDrz9BSVqgDa2"
     },
     {
       "added_at": "2025-07-03 22:00:37",
@@ -1711,22 +1711,6 @@
       "duration_ms": 213385,
       "name": "Stoetbul",
       "url": "https://open.spotify.com/track/1JWVFO9zKZnCsUi4dOtI7H"
-    },
-    {
-      "added_at": "2025-07-03 22:00:37",
-      "album": {
-        "name": "Vas Hou",
-        "url": "https://open.spotify.com/album/0rMbU1Ok9Y47TG5Fh1zcMg"
-      },
-      "artists": [
-        {
-          "name": "Armand Joubert",
-          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
-        }
-      ],
-      "duration_ms": 212656,
-      "name": "Vas Hou",
-      "url": "https://open.spotify.com/track/6BEQ8syfRMRE5kf3eY7ogz"
     }
   ],
   "unique_name": "Nuwe Afrikaans",

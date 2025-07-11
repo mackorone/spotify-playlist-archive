@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 223928,
       "name": "Chante",
       "url": "https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 583679,
       "name": "EPHPHATHA",
       "url": "https://open.spotify.com/track/6VMUu3ZzyZ0JWxebwGHNrL"
@@ -4125,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "Hallowed be Your name",
+        "url": "https://open.spotify.com/album/7LFyb6Flt2msg9R00Ufnw5"
+      },
+      "artists": [
+        {
+          "name": "Deborah-Divine",
+          "url": "https://open.spotify.com/artist/4DjzETMqJxkPCqhVhuOrWZ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335000,
+      "name": "Hallowed be Your name",
+      "url": "https://open.spotify.com/track/46rcEw6HHRMHISqGI0U5ZZ"
+    },
+    {
+      "album": {
         "name": "HAVE YOUR WAY (Acoustic)",
         "url": "https://open.spotify.com/album/4NnDJ5elFwPykKxpRr13ez"
       },
@@ -4627,6 +4645,32 @@
     },
     {
       "album": {
+        "name": "I Di Nma",
+        "url": "https://open.spotify.com/album/44gmFtUfJZowGXQKxYVRxq"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        },
+        {
+          "name": "CHINEMEREM",
+          "url": "https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v"
+        },
+        {
+          "name": "OMASHINES",
+          "url": "https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "I Di Nma",
+      "url": "https://open.spotify.com/track/5Pbsedj5IZKL5ZlrGvi7zg"
+    },
+    {
+      "album": {
         "name": "I Get",
         "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
@@ -4824,6 +4868,28 @@
       "duration_ms": 322821,
       "name": "I Overcame",
       "url": "https://open.spotify.com/track/4VzrPcWyOdMhNudt0SqaW0"
+    },
+    {
+      "album": {
+        "name": "I Praise You",
+        "url": "https://open.spotify.com/album/7GhfXdzDRQt4jgAlu6RAYI"
+      },
+      "artists": [
+        {
+          "name": "O'Tims",
+          "url": "https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504000,
+      "name": "I Praise You",
+      "url": "https://open.spotify.com/track/3nS3Ftk7rYR8YdWMOscr6E"
     },
     {
       "album": {
@@ -5798,7 +5864,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 246563,
       "name": "Jordans",
       "url": "https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk"
@@ -8744,7 +8810,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 333386,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
@@ -11112,7 +11178,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 239076,
       "name": "When You Say A Thing",
       "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
@@ -11530,7 +11596,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 247631,
       "name": "YES",
       "url": "https://open.spotify.com/track/6Dm2A8KoSV7vNghd9lVQgn"

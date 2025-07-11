@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Zach Bryan",
+  "description": "The cream of today's country crop. Cover: James Johnston",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 193786,
       "name": "Australian Made",
       "url": "https://open.spotify.com/track/1iZfAxPO56DBIAUXyXr84u"
@@ -1424,6 +1424,24 @@
       "duration_ms": 198386,
       "name": "Bar Stool",
       "url": "https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL"
+    },
+    {
+      "album": {
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193534,
+      "name": "Bartender In Destin - Acoustic",
+      "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
     },
     {
       "album": {
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 167386,
       "name": "Big Sky",
       "url": "https://open.spotify.com/track/0syywgDoE7Qaud0Kz1L3H0"
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 180000,
       "name": "Comin' In Cold",
       "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
@@ -3822,6 +3840,24 @@
       "duration_ms": 179559,
       "name": "Dammit Randy",
       "url": "https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT"
+    },
+    {
+      "album": {
+        "name": "Damn Good Taste in Whiskey",
+        "url": "https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175527,
+      "name": "Damn Good Taste in Whiskey",
+      "url": "https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN"
     },
     {
       "album": {
@@ -7120,6 +7156,24 @@
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+    },
+    {
+      "album": {
+        "name": "High Divin'",
+        "url": "https://open.spotify.com/album/6Lpsj6bakg6q1aiGLkyXC3"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "High Divin\u2019",
+      "url": "https://open.spotify.com/track/4wnILVkdF3HTtMMtNvxP1g"
     },
     {
       "album": {
@@ -10757,6 +10811,28 @@
     },
     {
       "album": {
+        "name": "Neon Cowgirl",
+        "url": "https://open.spotify.com/album/5qYyebQuexbCTZWHwD0B5O"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "Neil Finn",
+          "url": "https://open.spotify.com/artist/183DuT2WcaEO2tclTJW1tU"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "Neon Cowgirl",
+      "url": "https://open.spotify.com/track/6O7gEqBqKp2vUGJaqZnLQb"
+    },
+    {
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -11434,6 +11510,24 @@
       "duration_ms": 244286,
       "name": "Oh Susannah",
       "url": "https://open.spotify.com/track/21olHYu651XrLmMql9mxPW"
+    },
+    {
+      "album": {
+        "name": "Oh, Anna!",
+        "url": "https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246746,
+      "name": "Oh, Anna!",
+      "url": "https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY"
     },
     {
       "album": {
@@ -12431,6 +12525,24 @@
     },
     {
       "album": {
+        "name": "Red Dirt Romeo",
+        "url": "https://open.spotify.com/album/4efAnZiWIGbf6sklc5JQ2R"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225685,
+      "name": "Red Dirt Romeo",
+      "url": "https://open.spotify.com/track/3XqmFDMszpOQ6fh2YssOEo"
+    },
+    {
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56"
       },
@@ -12774,7 +12886,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 184539,
       "name": "Ring On It",
       "url": "https://open.spotify.com/track/6jsILzXZH4g0bIT56ophdx"
@@ -15274,7 +15386,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 188773,
       "name": "Takin\u2019 The Slow Ride",
       "url": "https://open.spotify.com/track/71cIncNYZRMrpqWARKNcoc"
@@ -16252,7 +16364,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 160866,
       "name": "too good",
       "url": "https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J"

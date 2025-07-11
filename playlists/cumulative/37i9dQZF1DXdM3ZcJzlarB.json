@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 332000,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/5EM8jyVuk8uCyBvS0X4elR"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 316227,
       "name": "Bailarina - Pyura Remix",
       "url": "https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 389535,
       "name": "Betimed",
       "url": "https://open.spotify.com/track/6FPjedGz6ZfCV1gNGYlh5m"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 149950,
       "name": "Cicuta",
       "url": "https://open.spotify.com/track/49zmg7q7EMqJzOUf88Bz7C"
@@ -1316,6 +1316,28 @@
       "duration_ms": 314000,
       "name": "Cross Ways",
       "url": "https://open.spotify.com/track/2KCKAVIPYlX51mm1nyUe48"
+    },
+    {
+      "album": {
+        "name": "Daimoku",
+        "url": "https://open.spotify.com/album/4ONwleYCVtCphaYr9hv0gC"
+      },
+      "artists": [
+        {
+          "name": "Bodaishin",
+          "url": "https://open.spotify.com/artist/1sVYOuYwwkjcqGYTcoCXqf"
+        },
+        {
+          "name": "Izhy",
+          "url": "https://open.spotify.com/artist/5LC0SdKg206mXAr0NdCnto"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397009,
+      "name": "Daimoku",
+      "url": "https://open.spotify.com/track/67nPbNyYzC57WbGyMxJOSo"
     },
     {
       "album": {
@@ -1624,7 +1646,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 201920,
       "name": "D\u00f3nde Est\u00e1n - SIMONN Remix",
       "url": "https://open.spotify.com/track/5hyHhTB1Cae2kLI3dMhxh5"
@@ -1851,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Esto queda entre nosotros",
+        "url": "https://open.spotify.com/album/2yWoUfI7m6f91RxtMfCVZr"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165240,
+      "name": "Esto queda entre nosotros",
+      "url": "https://open.spotify.com/track/7DjBIYHohsTDOjjQoqX4S7"
+    },
+    {
+      "album": {
         "name": "Ethereal Pulse (Hernan Cattaneo & Mercurio Remix)",
         "url": "https://open.spotify.com/album/4RY8734UXGkgjtXcvGdZIb"
       },
@@ -1874,6 +1914,24 @@
       "duration_ms": 483902,
       "name": "Ethereal Pulse - Hernan Cattaneo & Mercurio Remix",
       "url": "https://open.spotify.com/track/3rz57bviUeYsuL8Vv5aEbX"
+    },
+    {
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5uE8AE1vl0XmAfbRBJscR7"
+      },
+      "artists": [
+        {
+          "name": "Brann (AR)",
+          "url": "https://open.spotify.com/artist/57oyOgxK2A4XJXW5Ye8im8"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294765,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/30dpkvmIMPp2lYhNo26nKq"
     },
     {
       "album": {
@@ -1928,6 +1986,24 @@
       "duration_ms": 292551,
       "name": "Fake Reflected",
       "url": "https://open.spotify.com/track/2SxYWDmLEWVyR7yTJt0GFG"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/2HPNaX5WvIMCvF5UfgVWIo"
+      },
+      "artists": [
+        {
+          "name": "Matias Chilano",
+          "url": "https://open.spotify.com/artist/2LpqyWMwfJfzA0MWYONoLw"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/19FnRm1hzOicpLTworESy0"
     },
     {
       "album": {
@@ -2850,7 +2926,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 319284,
       "name": "LA RAPLA REWORK",
       "url": "https://open.spotify.com/track/4Vtc2tQ6CkHPPwjonjrBsg"
@@ -2946,7 +3022,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 346285,
       "name": "LOCOPUNK",
       "url": "https://open.spotify.com/track/27Up1hF04zoiFrJWhhHDmx"
@@ -3328,7 +3404,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 237409,
       "name": "Miscel\u00e1neas",
       "url": "https://open.spotify.com/track/3TCaJYtAbsEXdDJ68UUVIM"
@@ -3783,6 +3859,28 @@
     },
     {
       "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/7baeJAKLQjBvkf39u3teM7"
+      },
+      "artists": [
+        {
+          "name": "Anomali",
+          "url": "https://open.spotify.com/artist/3d32u2636SCl64kGxhCkei"
+        },
+        {
+          "name": "Favio Inker",
+          "url": "https://open.spotify.com/artist/64i7ahjMXrc6uxau5V5QuB"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311029,
+      "name": "Nobody Knows - Favio Inker Remix",
+      "url": "https://open.spotify.com/track/22ipHLoSfcQF0nRrFV9Mu4"
+    },
+    {
+      "album": {
         "name": "Parasol Palm",
         "url": "https://open.spotify.com/album/1sotqkFkgrgXkspn2Xqrzi"
       },
@@ -3798,6 +3896,28 @@
       "duration_ms": 435750,
       "name": "Not Need It",
       "url": "https://open.spotify.com/track/3JpR5yPvDNApZeLojtnDR8"
+    },
+    {
+      "album": {
+        "name": "Nox (CAMILA (AR) Remix)",
+        "url": "https://open.spotify.com/album/7aDmgfCeU5wibLvQs7HgPm"
+      },
+      "artists": [
+        {
+          "name": "Abity",
+          "url": "https://open.spotify.com/artist/7nCtQNuasxha0rt4ujHYbd"
+        },
+        {
+          "name": "CAMILA (AR)",
+          "url": "https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417049,
+      "name": "Nox - CAMILA (AR) Remix",
+      "url": "https://open.spotify.com/track/4HgMvYPGzFsf3RGUtnMp9m"
     },
     {
       "album": {
@@ -4081,6 +4201,28 @@
     },
     {
       "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/1uiGRg3ehWgYOL9qNtn2UR"
+      },
+      "artists": [
+        {
+          "name": "Techmo",
+          "url": "https://open.spotify.com/artist/1yOcHzpmPpgun7xQH8v0Kt"
+        },
+        {
+          "name": "Nico Banfi",
+          "url": "https://open.spotify.com/artist/7Et37M7KmMFEd57BfFi7Hh"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188614,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/24WY0ThqTZLADGzgUvhlmG"
+    },
+    {
+      "album": {
         "name": "Existence",
         "url": "https://open.spotify.com/album/6UADhBrlrMsv3nrEYvrDbr"
       },
@@ -4238,7 +4380,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 273719,
       "name": "Ringaro",
       "url": "https://open.spotify.com/track/1iBns0pRA9xhhQwru8l4HF"
@@ -4404,7 +4546,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 377173,
       "name": "Second Life",
       "url": "https://open.spotify.com/track/3dsY4DI2jfvMR67FLlUvyG"
@@ -5233,6 +5375,28 @@
     },
     {
       "album": {
+        "name": "Trabalho",
+        "url": "https://open.spotify.com/album/6jNIo3VMqDBcLovK8Yk85r"
+      },
+      "artists": [
+        {
+          "name": "Pausa",
+          "url": "https://open.spotify.com/artist/4l3jnC0bXCc7IqIe7SBmd0"
+        },
+        {
+          "name": "Dole & Kom",
+          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202652,
+      "name": "Trabalho - Radio Mix",
+      "url": "https://open.spotify.com/track/4k9od1orgSdqKzHr3W8YzT"
+    },
+    {
+      "album": {
         "name": "CYBERIA",
         "url": "https://open.spotify.com/album/3zFrhLAlu0Ht0CufgIO1Vd"
       },
@@ -5463,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "Solar Reign | Virtual Escape",
+        "url": "https://open.spotify.com/album/68StK8Ps3HWU73Do3XwhFe"
+      },
+      "artists": [
+        {
+          "name": "Juan Deminicis",
+          "url": "https://open.spotify.com/artist/7DN8Db1uGrW7eUDjKf3Bfi"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438868,
+      "name": "Virtual Escape",
+      "url": "https://open.spotify.com/track/4lyhpmlKNpMfJrvTadObcV"
+    },
+    {
+      "album": {
         "name": "Vivere",
         "url": "https://open.spotify.com/album/7zEbJeVhd4FbVv296MIaj7"
       },
@@ -5540,7 +5722,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 314253,
       "name": "Voyage - Denis Horvat Remix",
       "url": "https://open.spotify.com/track/1Oi9Rpb1fECaqQx439uBdO"
@@ -5606,6 +5788,28 @@
       "duration_ms": 240085,
       "name": "What Is Music",
       "url": "https://open.spotify.com/track/0lGDsoLtji9duYiO6yjSlc"
+    },
+    {
+      "album": {
+        "name": "Shadows of Consciousness / White Room",
+        "url": "https://open.spotify.com/album/0DimlZahIrvQ9AdKn51nkc"
+      },
+      "artists": [
+        {
+          "name": "Redspace",
+          "url": "https://open.spotify.com/artist/7DW9eqgg0IgQOQBhtCLAfc"
+        },
+        {
+          "name": "Unusual Soul",
+          "url": "https://open.spotify.com/artist/6YBBrivtOKECLloC5BnCwF"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447540,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/0cxjbvdlo5pNWJWgfOzZir"
     },
     {
       "album": {
@@ -5680,6 +5884,28 @@
       "duration_ms": 356456,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/1PaVczlSkOZ4e2Hp5ox0ll"
+    },
+    {
+      "album": {
+        "name": "You Understand (Incl. Caitto Remix)",
+        "url": "https://open.spotify.com/album/78SyF5KwmirXCa4uIrh8Kx"
+      },
+      "artists": [
+        {
+          "name": "Mat Aus",
+          "url": "https://open.spotify.com/artist/4eF4hy3CcfPglzHXFB6b41"
+        },
+        {
+          "name": "Kevin Bondani",
+          "url": "https://open.spotify.com/artist/02blYhd5F4oRxvS4WLkNKm"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183244,
+      "name": "You Understand",
+      "url": "https://open.spotify.com/track/0UFEplaINFrZZNYpFCdHwO"
     },
     {
       "album": {

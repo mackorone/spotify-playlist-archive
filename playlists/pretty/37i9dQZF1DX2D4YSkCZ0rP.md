@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : marguerite
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,789 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,795 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 19 | [love4real](https://open.spotify.com/track/0INWdjE4CWPbsL7eXy0kGL) | [Camion Bip Bip](https://open.spotify.com/artist/2JCA0IH0hQkHYl5aVbwgQh) | [mabel](https://open.spotify.com/album/4DM84WwvmsLNt9jxXhE5JG) | 3:45 |
 | 20 | [ELLE NE VEUT QUE](https://open.spotify.com/track/25bJTUy3ByJUqXN3QUhIlj) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 2:31 |
 | 21 | [Gag On It](https://open.spotify.com/track/1NIIHg8jXOq095MQiLxXzC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:39 |
-| 22 | [homosexuel \- le remix](https://open.spotify.com/track/53Y16yud2QfnA8Su1lHBfU) | [Tony Zola](https://open.spotify.com/artist/6MRHp1rjhInFlL2aGZXu75), [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [homosexuel \(le remix\)](https://open.spotify.com/album/2Cf556UUiR62KZfoCmcILs) | 3:24 |
+| 22 | [HOMOSEXUEL \- le remix](https://open.spotify.com/track/53Y16yud2QfnA8Su1lHBfU) | [Tony Zola](https://open.spotify.com/artist/6MRHp1rjhInFlL2aGZXu75), [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [homosexuel \(le remix\)](https://open.spotify.com/album/2Cf556UUiR62KZfoCmcILs) | 3:24 |
 | 23 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 |
 | 24 | [WATCH ME](https://open.spotify.com/track/5m29TupiYLTsROuFADxHoj) | [Keiona](https://open.spotify.com/artist/6qLROBbQvQNwzkH9AlVDCS) | [WATCH ME](https://open.spotify.com/album/7rRXCGIxRt4qFmNLexVEjq) | 2:28 |
 | 25 | [Muy Lesbienne](https://open.spotify.com/track/3lGH2Lhn1Kqs3Zu2o1hjHF) | [Barbara Butch](https://open.spotify.com/artist/2XCkEQ4EJWc27RHEr6pONs) | [Muy Bien](https://open.spotify.com/album/1ufk4hCzOBLiAx7nfQ0ENJ) | 3:13 |

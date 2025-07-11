@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,134 songs - 2 day 2 hr 8 min
+1,136 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -991,6 +991,7 @@
 | [That's So True](https://open.spotify.com/track/3kxcjujR0wQfRSTqxciDYj) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [That's So True](https://open.spotify.com/album/10EGwk98NxlXFljOPoXCAw) | 2:50 | 2025-03-14 | 2025-06-07 |
 | [The Best](https://open.spotify.com/track/3HH9Hu8rGpTPsZlmb0J8t5) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz), [sleepy dude](https://open.spotify.com/artist/3IIgBMK6g6AltNT8iPPJsI) | [The Best](https://open.spotify.com/album/1w5JEnU6s8LGUdQP3hh5aI) | 2:14 | 2024-10-11 | 2024-11-18 |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2024-03-04 | 2024-04-15 |
+| [The End](https://open.spotify.com/track/56hoShZ7SYbFrI2VI3JHJr) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh), [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [The End](https://open.spotify.com/album/3LTkUvds8QIcUwp79pISM3) | 2:08 | 2025-07-11 |  |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2024-01-01 | 2024-06-29 |
 | [The Monster \- Chill Mix](https://open.spotify.com/track/5LzcPcdm29VZXAfFP9Aniu) | [SVNSETS](https://open.spotify.com/artist/6w9Xp3JyuJcHJ6C4ywTH4s), [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [The Monster \- Chill Mix](https://open.spotify.com/album/153DCi1OSyobHvlh727fBP) | 2:09 | 2024-08-30 | 2024-09-08 |
 | [The Ocean](https://open.spotify.com/track/31ow2EEyXVMBSRIk3jmF3y) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [My Linh](https://open.spotify.com/artist/3PCK72h5nykg83VWYHUwGP) | [The Ocean](https://open.spotify.com/album/0W0BJKyUDWadoxRGBdqtUV) | 2:46 | 2025-07-04 |  |
@@ -1077,6 +1078,7 @@
 | [We Belong Together \(feat\. Michael Hausted\)](https://open.spotify.com/track/608TDka6vmrWkxx5GwZh1N) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [Michael Hausted](https://open.spotify.com/artist/0QlmyIn6tbtm2hn8dpljom) | [We Belong Together](https://open.spotify.com/album/4zEe9tBcYeo82snVqlznVh) | 2:21 | 2024-03-01 | 2025-03-08 |
 | [We Could Be Something](https://open.spotify.com/track/7kLpRkAPzLXW2Ra7qEYtvt) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [We Could Be Something](https://open.spotify.com/album/2LCRsXttgfXdF1TtqcIFJs) | 2:01 | 2025-01-10 | 2025-02-05 |
 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 | 2023-12-21 | 2024-09-15 |
+| [We Gonna Make It](https://open.spotify.com/track/666RymLO6vbDIDtL6gb53F) | [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [We Gonna Make It](https://open.spotify.com/album/0CLhj5YKk4avHMlGmIuFsG) | 2:52 | 2025-07-11 |  |
 | [We'll Never Get Old](https://open.spotify.com/track/3UX9B5zX6wx7L9nH1PxT9a) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [We'll Never Get Old](https://open.spotify.com/album/7KdWPRuAcT4DS8tNeXNvgn) | 1:52 | 2022-06-23 | 2024-09-10 |
 | [What Are You Waiting For](https://open.spotify.com/track/0s9oGnx3yS29haSwfAQ8dO) | [Avista Band](https://open.spotify.com/artist/4V0OLM23lX2E4Wt5HhXU6Q) | [What Are You Waiting For](https://open.spotify.com/album/1lb7fAEZwFt8mzrUTDpM8K) | 2:43 | 2025-04-18 | 2025-06-07 |
 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 | 2023-12-21 | 2024-09-10 |

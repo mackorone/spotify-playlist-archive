@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Laufey",
+  "description": "The best jazz new releases. Cover: Alfa Mist",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -620,6 +620,28 @@
       "duration_ms": 255746,
       "name": "Album of the Year #1 Funkateer",
       "url": "https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy"
+    },
+    {
+      "album": {
+        "name": "All Time (feat. Tawiah)",
+        "url": "https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Tawiah",
+          "url": "https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "All Time (feat. Tawiah)",
+      "url": "https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br"
     },
     {
       "album": {
@@ -1392,7 +1414,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 142354,
       "name": "Bird's Lament",
       "url": "https://open.spotify.com/track/36s90dZXdOE7IO4MRgPWtM"
@@ -1900,7 +1922,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 187888,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/5o9cHU7M3JidcDCosNDqWt"
@@ -5320,7 +5342,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 151854,
       "name": "Give Me The Simple Life",
       "url": "https://open.spotify.com/track/4XCqphsGzjEDkGrlygO5cm"
@@ -7240,7 +7262,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 288376,
       "name": "Janet",
       "url": "https://open.spotify.com/track/5RWWXIMjptVgsJoFitd92e"
@@ -7857,6 +7879,28 @@
     },
     {
       "album": {
+        "name": "le b\u00e2tard",
+        "url": "https://open.spotify.com/album/5cfmnIVWEzaIn3tU2zaS4O"
+      },
+      "artists": [
+        {
+          "name": "daoud",
+          "url": "https://open.spotify.com/artist/3e76yvk1gLZQhKZiUHkMsP"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "le b\u00e2tard",
+      "url": "https://open.spotify.com/track/4oo5tOZ1u3rhGhQzBklrN9"
+    },
+    {
+      "album": {
         "name": "Seetu",
         "url": "https://open.spotify.com/album/0fdAABWwycrJZzuBRNeX8y"
       },
@@ -8106,6 +8150,24 @@
       "duration_ms": 258045,
       "name": "Let the Creek Rise",
       "url": "https://open.spotify.com/track/6fL9DVn4aYglOZBUkoguzi"
+    },
+    {
+      "album": {
+        "name": "Let's Pray",
+        "url": "https://open.spotify.com/album/33sClv6qAmmlkMqQRkIljM"
+      },
+      "artists": [
+        {
+          "name": "L'Equipe Lab",
+          "url": "https://open.spotify.com/artist/3v9nF0wI04hIUZRbNqIx2Y"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218069,
+      "name": "Let's Pray",
+      "url": "https://open.spotify.com/track/6rkvat57oepFyBCp75vDz5"
     },
     {
       "album": {
@@ -8882,6 +8944,32 @@
       "duration_ms": 239480,
       "name": "Magic (feat. Emily King)",
       "url": "https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg"
+    },
+    {
+      "album": {
+        "name": "MAGIC DANCE",
+        "url": "https://open.spotify.com/album/0Jj6mJVhOOKTLFVEeCyjqZ"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Michael League",
+          "url": "https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216265,
+      "name": "MAGIC DANCE",
+      "url": "https://open.spotify.com/track/5JbX3yCeWW9xcdExxG2lCG"
     },
     {
       "album": {
@@ -9682,6 +9770,40 @@
       "duration_ms": 275720,
       "name": "M\u01cem\u01ceh\u016bh\u016b",
       "url": "https://open.spotify.com/track/4qPOf0XDjEu4BFWECfRayK"
+    },
+    {
+      "album": {
+        "name": "Nach E Vlado",
+        "url": "https://open.spotify.com/album/6JQF3mpBnaKLEnfIz6cqSA"
+      },
+      "artists": [
+        {
+          "name": "Vincent Peirani",
+          "url": "https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        },
+        {
+          "name": "Julien Hern\u00e9",
+          "url": "https://open.spotify.com/artist/4ewiyQXorSfBL48PZCGxAV"
+        },
+        {
+          "name": "Tony Paeleman",
+          "url": "https://open.spotify.com/artist/3G11h9aLY6VGhPzW6fArEZ"
+        },
+        {
+          "name": "Yoann Serra",
+          "url": "https://open.spotify.com/artist/0dtwREIGBWVYX5B5veE7jh"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233138,
+      "name": "Nach E Vlado",
+      "url": "https://open.spotify.com/track/5tOLgmDjvEvUFx8KBCoyeJ"
     },
     {
       "album": {
@@ -10628,7 +10750,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 448533,
       "name": "Open Roads",
       "url": "https://open.spotify.com/track/2jnrol6ATyedXBc8YDxmaG"
@@ -11626,7 +11748,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 290466,
       "name": "Rock With You",
       "url": "https://open.spotify.com/track/3XdUIOw2vuzo8MC2aaSifj"
@@ -11808,7 +11930,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 198971,
       "name": "Sa K\u00e9 Al\u00e9",
       "url": "https://open.spotify.com/track/2hSQo1X4jYhvjM7DLBOVDc"
@@ -12708,7 +12830,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-11",
       "duration_ms": 150378,
       "name": "Spore",
       "url": "https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ"
@@ -13052,6 +13174,24 @@
     {
       "album": {
         "name": "Summertime",
+        "url": "https://open.spotify.com/album/1DFhkzjfsiKbFJUFKIh1g2"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182039,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0"
+    },
+    {
+      "album": {
+        "name": "Summertime",
         "url": "https://open.spotify.com/album/6aM6XpnBNC4kXwOykJyTN5"
       },
       "artists": [
@@ -13356,6 +13496,28 @@
       "duration_ms": 249573,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0jOulpJbFDaGwb09pAx1q9"
+    },
+    {
+      "album": {
+        "name": "Taka",
+        "url": "https://open.spotify.com/album/6MrMK600SB4lD8QL4j5H8Y"
+      },
+      "artists": [
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258946,
+      "name": "Taka",
+      "url": "https://open.spotify.com/track/5kMHEF0XECJEpgrJaDohqv"
     },
     {
       "album": {
@@ -14166,6 +14328,24 @@
       "duration_ms": 366018,
       "name": "The Tale of Osemon and Scheherazade",
       "url": "https://open.spotify.com/track/2rBSs3RYUfsGhCQhpo3pNP"
+    },
+    {
+      "album": {
+        "name": "The West Coasters",
+        "url": "https://open.spotify.com/album/57yLNcOmYt09HSeQk5NxXj"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "The West Coasters",
+      "url": "https://open.spotify.com/track/1lk4FDgVD1UZ2DWlThzkj8"
     },
     {
       "album": {

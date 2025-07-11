@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. ERRE en portada. ",
-  "num_followers": 1203,
+  "num_followers": 1204,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-01-24 13:50:50",
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+    },
+    {
+      "added_at": "2025-01-24 13:50:50",
+      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 166866,
       "name": "cuida",
       "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
-    },
-    {
-      "added_at": "2025-01-24 13:50:50",
-      "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
     },
     {
       "added_at": "2025-01-24 13:50:50",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-01-24 13:50:50",
       "album": {
+        "name": "Si Una Vez",
+        "url": "https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 175269,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl"
+    },
+    {
+      "added_at": "2025-01-24 13:50:50",
+      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 215250,
       "name": "Un Inmigrante",
       "url": "https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB"
-    },
-    {
-      "added_at": "2025-01-24 13:50:50",
-      "album": {
-        "name": "Si Una Vez",
-        "url": "https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 175269,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl"
     },
     {
       "added_at": "2025-01-24 13:50:50",

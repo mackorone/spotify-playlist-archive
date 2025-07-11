@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-536 songs - 1 day 1 hr 29 min
+537 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Apaga Apaga Apaga](https://open.spotify.com/track/0J0XHQeoyM3g0UYy3fPuGu) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Diferentinho Não, Diferentão! 3.0](https://open.spotify.com/album/346DeklljazfC6A3K3oynP) | 3:56 | 2025-02-06 | 2025-03-11 |
 | [Apaga Apaga Apaga](https://open.spotify.com/track/12XPbZpmQ2pbmlbq8SNl17) | [Banda Mega Som](https://open.spotify.com/artist/2NGG6qLmw9D1OflkK1MLns), [Lambadao Vlogs Oficial](https://open.spotify.com/artist/095ByG6zBEMvdtwp40Ih1l) | [Apaga Apaga Apaga](https://open.spotify.com/album/6yEBp1FsmT0wujussaw84R) | 3:04 | 2024-12-21 | 2025-02-16 |
 | [Apaga Apaga Apaga](https://open.spotify.com/track/0dg6dHxOMrzcCHzPFQDAem) | [Maxwell Silva](https://open.spotify.com/artist/3WrwWddj5TB3Nt94EVnA20) | [Pra Tomar Cachaça](https://open.spotify.com/album/5oNHOJOscRnW1GXibylCYb) | 3:40 | 2024-09-25 | 2024-12-22 |
+| [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 | 2025-07-10 |  |
 | [APAGA APAGA APAGA](https://open.spotify.com/track/5OKkV6ZfqN13BylR19EAUn) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [APAGA APAGA APAGA](https://open.spotify.com/album/57sltH2XHD8kCwLrX08xwD) | 3:15 | 2025-04-14 | 2025-06-01 |
 | [Apaixonadinho \- Ao Vivo](https://open.spotify.com/track/4iFnJh5s44MI142fOwXEfh) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Apaixonadinho \(Ao Vivo\)](https://open.spotify.com/album/64gTBjrAdiHpoeVODPy6v6) | 2:48 | 2024-08-08 |  |
 | [Apaixonadinho \- Ao Vivo](https://open.spotify.com/track/59lVI2XNBPIOvfT8xOxltq) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Meio Acústico \- Ao Vivo](https://open.spotify.com/album/3IBNCnIdZ9YgpjRWqc0VrQ) | 2:48 | 2024-01-29 | 2024-08-09 |

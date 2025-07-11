@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-301 songs - 20 hr 31 min
+302 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [High Priestess \- Original Mix](https://open.spotify.com/track/0fzsMh6uGsW3k8hZCOPidw) | [The Yard Woman](https://open.spotify.com/artist/4vrLjXzQTMGCbrdAYtkpQE) | [High Priestess\-Jupiter](https://open.spotify.com/album/1Bg000mySnXr2Sk4OZ5j6G) | 6:20 | 2022-01-14 | 2022-12-13 |
 | [Highest Love](https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Highest Love](https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u) | 4:57 | 2024-02-23 | 2025-03-21 |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-14 | 2025-04-04 |
-| [Hold Me \- HUGEL Remix](https://open.spotify.com/track/0seRK4ZwnDsM2mNhbjmA3e) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Hold Me \(HUGEL Remix\)](https://open.spotify.com/album/4urqiH5imumvebwWjvkbGD) | 3:49 | 2025-04-03 |  |
+| [Hold Me \- HUGEL Remix](https://open.spotify.com/track/0seRK4ZwnDsM2mNhbjmA3e) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Hold Me \(HUGEL Remix\)](https://open.spotify.com/album/4urqiH5imumvebwWjvkbGD) | 3:49 | 2025-04-03 | 2025-07-11 |
 | [Hold On](https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Hold On](https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk) | 3:50 | 2025-04-17 |  |
 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 | 2025-06-26 |  |
 | [Holding On](https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Holding On](https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0) | 3:38 | 2022-01-14 | 2024-07-19 |
@@ -179,6 +179,7 @@
 | [Memories](https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Memories](https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ) | 6:01 | 2024-08-09 | 2025-05-30 |
 | [Midnight](https://open.spotify.com/track/4gqpWEfLRR1cldkjN1mh5q) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Midnight](https://open.spotify.com/album/78SHmchzpBWJ9Gt3bLL5CI) | 3:43 | 2025-05-16 |  |
 | [Midnight Sun](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Midnight Sun](https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ) | 3:24 | 2024-09-26 |  |
+| [Mind Dimension](https://open.spotify.com/track/59QTrFJ2lD7R0OmgMaX7vJ) | [Jamy Nox](https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3), [Bazaart](https://open.spotify.com/artist/7fSlQw130LhJ2YAw938b3K), [NeverSeen](https://open.spotify.com/artist/4FID5IZwQy0Z1J02f7xL4I) | [Mind Dimension](https://open.spotify.com/album/7iEKkTSfrpuT4Vd3v4e9bG) | 3:01 | 2025-07-03 |  |
 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-07-18 | 2025-06-27 |
 | [Mojo](https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Mojo](https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d) | 3:18 | 2025-04-03 |  |
 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2022-01-14 | 2024-02-23 |

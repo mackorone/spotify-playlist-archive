@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACzrYcOYUtv31/fPDcFypf2",
+  "snapshot_id": "AAAAAAAAAABigsIt176OuAtw9Yw4sMMO",
   "tracks": [
     {
       "added_at": "2025-07-04 04:00:00",
@@ -159,6 +159,58 @@
     {
       "added_at": "2025-07-04 04:00:00",
       "album": {
+        "name": "Polluted Wisdom",
+        "url": "https://open.spotify.com/album/2v5P6EYRLyWnY8vlMbpdjL"
+      },
+      "artists": [
+        {
+          "name": "Lyrikile Trife",
+          "url": "https://open.spotify.com/artist/5wkTjLCJjwAxMdwmUhMcqu"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        }
+      ],
+      "duration_ms": 333937,
+      "name": "Polluted Wisdom",
+      "url": "https://open.spotify.com/track/12TXqSUTSGFsEv3QbCbrKl"
+    },
+    {
+      "added_at": "2025-07-04 04:00:00",
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/6LmzV6rY9jUecyjydmsrDR"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Lovelle",
+          "url": "https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx"
+        }
+      ],
+      "duration_ms": 144827,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/5ss1W6tV6FuxPaiC1yDHYJ"
+    },
+    {
+      "added_at": "2025-07-04 04:00:00",
+      "album": {
         "name": "On My Way To Berlin",
         "url": "https://open.spotify.com/album/6Uf4eQ5uE5YOMuC9SkEmxh"
       },
@@ -211,30 +263,6 @@
       "duration_ms": 315064,
       "name": "C'est Si Bon",
       "url": "https://open.spotify.com/track/4vchHbbsATSV4SAQ7HMLxj"
-    },
-    {
-      "added_at": "2025-07-04 04:00:00",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/6LmzV6rY9jUecyjydmsrDR"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "Lovelle",
-          "url": "https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx"
-        }
-      ],
-      "duration_ms": 144827,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/5ss1W6tV6FuxPaiC1yDHYJ"
     },
     {
       "added_at": "2025-07-04 04:00:00",
@@ -403,26 +431,6 @@
     {
       "added_at": "2025-07-04 04:00:00",
       "album": {
-        "name": "Zydeco Sont Pas Sal\u00e9s",
-        "url": "https://open.spotify.com/album/1kHZjOTmab4zgEhv6Llk4K"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Steve Riley",
-          "url": "https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr"
-        }
-      ],
-      "duration_ms": 165114,
-      "name": "Zydeco Sont Pas Sal\u00e9s",
-      "url": "https://open.spotify.com/track/6t4QKiYbyoLfsa0NrOBUSr"
-    },
-    {
-      "added_at": "2025-07-04 04:00:00",
-      "album": {
         "name": "Oh Lala (Thankful Daily Remix)",
         "url": "https://open.spotify.com/album/4mEdVlVbEFOLOee9044MF3"
       },
@@ -439,54 +447,6 @@
       "duration_ms": 324252,
       "name": "Oh Lala - Thankful Daily Remix",
       "url": "https://open.spotify.com/track/2eu8l5uancfC1F0dRNe1Tn"
-    },
-    {
-      "added_at": "2025-07-04 04:00:00",
-      "album": {
-        "name": "Victoria",
-        "url": "https://open.spotify.com/album/7hfHcGwJ8LcWeYeYrMPnGs"
-      },
-      "artists": [
-        {
-          "name": "Chedda Bang",
-          "url": "https://open.spotify.com/artist/0zEwjWbZ3Lo2t0Lk8kebQu"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 173738,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/2zE3dOdfgb5CDV9PZnzyUn"
-    },
-    {
-      "added_at": "2025-07-04 04:00:00",
-      "album": {
-        "name": "Extra Time (with Wax & Kash'd Out)",
-        "url": "https://open.spotify.com/album/186o5JSU4CYWgjvvi1O07h"
-      },
-      "artists": [
-        {
-          "name": "J.Lately",
-          "url": "https://open.spotify.com/artist/1c3pV6VoFSJJodYkFj9cSG"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Extra Time (with Wax & Kash'd Out)",
-      "url": "https://open.spotify.com/track/4h5ZMe4WhZbaIIhCQ0U7gG"
     },
     {
       "added_at": "2025-07-04 04:00:00",
@@ -519,6 +479,90 @@
     {
       "added_at": "2025-07-04 04:00:00",
       "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/7hfHcGwJ8LcWeYeYrMPnGs"
+      },
+      "artists": [
+        {
+          "name": "Chedda Bang",
+          "url": "https://open.spotify.com/artist/0zEwjWbZ3Lo2t0Lk8kebQu"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 173738,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2zE3dOdfgb5CDV9PZnzyUn"
+    },
+    {
+      "added_at": "2025-07-04 04:00:00",
+      "album": {
+        "name": "Zydeco Sont Pas Sal\u00e9s",
+        "url": "https://open.spotify.com/album/1kHZjOTmab4zgEhv6Llk4K"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Steve Riley",
+          "url": "https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr"
+        }
+      ],
+      "duration_ms": 165114,
+      "name": "Zydeco Sont Pas Sal\u00e9s",
+      "url": "https://open.spotify.com/track/6t4QKiYbyoLfsa0NrOBUSr"
+    },
+    {
+      "added_at": "2025-07-04 04:00:00",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/2rpH35YHygsMaqyCzT314X"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 219757,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/42pdtdPWKXlrioguxsv8Zs"
+    },
+    {
+      "added_at": "2025-07-04 04:00:00",
+      "album": {
+        "name": "Extra Time (with Wax & Kash'd Out)",
+        "url": "https://open.spotify.com/album/186o5JSU4CYWgjvvi1O07h"
+      },
+      "artists": [
+        {
+          "name": "J.Lately",
+          "url": "https://open.spotify.com/artist/1c3pV6VoFSJJodYkFj9cSG"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Extra Time (with Wax & Kash'd Out)",
+      "url": "https://open.spotify.com/track/4h5ZMe4WhZbaIIhCQ0U7gG"
+    },
+    {
+      "added_at": "2025-07-04 04:00:00",
+      "album": {
         "name": "Heart Beat",
         "url": "https://open.spotify.com/album/0Ry7NzoLmmGy8uPbV2ivBy"
       },
@@ -543,26 +587,6 @@
       "duration_ms": 171034,
       "name": "Heart Beat",
       "url": "https://open.spotify.com/track/44TDoplJo4gIaPV5LFmzcw"
-    },
-    {
-      "added_at": "2025-07-04 04:00:00",
-      "album": {
-        "name": "Means So Much",
-        "url": "https://open.spotify.com/album/5nfPrBapDkpTubJdo5vRmO"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        },
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Means So Much",
-      "url": "https://open.spotify.com/track/3WmqDCwg0aapHxOqBLaAEv"
     },
     {
       "added_at": "2025-07-04 04:00:00",
@@ -595,18 +619,42 @@
     {
       "added_at": "2025-07-04 04:00:00",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/2rpH35YHygsMaqyCzT314X"
+        "name": "Means So Much",
+        "url": "https://open.spotify.com/album/5nfPrBapDkpTubJdo5vRmO"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        },
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
         }
       ],
-      "duration_ms": 219757,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/42pdtdPWKXlrioguxsv8Zs"
+      "duration_ms": 205693,
+      "name": "Means So Much",
+      "url": "https://open.spotify.com/track/3WmqDCwg0aapHxOqBLaAEv"
+    },
+    {
+      "added_at": "2025-07-04 04:00:00",
+      "album": {
+        "name": "Echos of Thunder",
+        "url": "https://open.spotify.com/album/3rD7cHSRlai9MWh3R04sVL"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa"
+        }
+      ],
+      "duration_ms": 214618,
+      "name": "Triangle (feat. ROME)",
+      "url": "https://open.spotify.com/track/7uOkvUVSCdX6oFVCFv7Fw1"
     },
     {
       "added_at": "2025-07-04 04:00:00",
@@ -635,26 +683,6 @@
       "duration_ms": 218680,
       "name": "High Rise (Remix)",
       "url": "https://open.spotify.com/track/71z07eJO4EnfdfMq9tTbKh"
-    },
-    {
-      "added_at": "2025-07-04 04:00:00",
-      "album": {
-        "name": "Echos of Thunder",
-        "url": "https://open.spotify.com/album/3rD7cHSRlai9MWh3R04sVL"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        },
-        {
-          "name": "ROME",
-          "url": "https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa"
-        }
-      ],
-      "duration_ms": 214618,
-      "name": "Triangle (feat. ROME)",
-      "url": "https://open.spotify.com/track/7uOkvUVSCdX6oFVCFv7Fw1"
     },
     {
       "added_at": "2025-07-04 04:00:00",
@@ -703,6 +731,30 @@
       "duration_ms": 109210,
       "name": "Indika",
       "url": "https://open.spotify.com/track/23REvMDaoGFRdMKGSVVK5z"
+    },
+    {
+      "added_at": "2025-07-04 04:00:00",
+      "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 141795,
+      "name": "WeMaj (feat. Rapsody)",
+      "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
     },
     {
       "added_at": "2025-07-04 04:00:00",
@@ -767,30 +819,6 @@
       "duration_ms": 141311,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/7bIyPhgkH3eq0U7jefSP0i"
-    },
-    {
-      "added_at": "2025-07-04 04:00:00",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 141795,
-      "name": "WeMaj (feat. Rapsody)",
-      "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
     },
     {
       "added_at": "2025-07-04 04:00:00",

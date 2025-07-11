@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 44280,
+  "num_followers": 44294,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGxfgAAAAADPtBbMamv2Tu87B2cez5/t",
+  "snapshot_id": "aG2xAAAAAABC/kcINUpfYcRe/bsZFK4N",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 145167,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/0pCch1eHrjCXON48LoZDCY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 258359,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/330607uBEh09fIWqWfZFBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 145167,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/0pCch1eHrjCXON48LoZDCY"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1s Original Que Nunca",
         "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 125533,
       "name": "Te Llegar\u00e1 Mi Olvido",
       "url": "https://open.spotify.com/track/1RFos4pteRCTVxd3jrqbLH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuestra Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 213680,
-      "name": "El Leon de la Sierra",
-      "url": "https://open.spotify.com/track/3Fkxdlxm9VJ2gA4tiZOYn5"
+      "duration_ms": 170586,
+      "name": "El 24 de Junio",
+      "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
     }
   ],
   "unique_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",

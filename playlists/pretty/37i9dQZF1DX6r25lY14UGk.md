@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Peppa Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,488 likes - 164 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,675 likes - 164 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 125 | [APT.](https://open.spotify.com/track/6m58F8A3vrcKGHQMZGtCyl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [APT.](https://open.spotify.com/album/5odVzsmbNhcFtBCpUQ1cc8) | 2:42 |
 | 126 | [We Explore](https://open.spotify.com/track/24rVCSzhS9NFmH0YiXMXes) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [We Explore](https://open.spotify.com/album/7mRiB6zzF4cL0jbwSlkWI4) | 2:02 |
 | 127 | [Follow Your Heart](https://open.spotify.com/track/62g0ZP425BgKzILiIWyhzP) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Barbie & Teresa: Recipe for Friendship](https://open.spotify.com/album/4uJthLoA5QtHpLHRPWMQdX) | 2:22 |
-| 128 | [The Vowel Song](https://open.spotify.com/track/2oE2ftQm75FFiJjCXAtOaB) | [Ambr'e Houston](https://open.spotify.com/artist/7nbZC3O1M3sPxXMpefF7UD) | [Make Learning Fun Again](https://open.spotify.com/album/75UgDmStaBkhl4j4VQWVnM) | 2:33 |
+| 128 | [The Vowel Song](https://open.spotify.com/track/2oE2ftQm75FFiJjCXAtOaB) | [Ms\. Houston](https://open.spotify.com/artist/76DQljUzxmijCsi3AMnOyE) | [Make Learning Fun Again](https://open.spotify.com/album/75UgDmStaBkhl4j4VQWVnM) | 2:33 |
 | 129 | [Let's Go Play](https://open.spotify.com/track/6ni6NFV4XvCi3do4fMLBsa) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Let's Go Play](https://open.spotify.com/album/3g6jyZ3g9B3CF2vcALVqWs) | 2:42 |
 | 130 | [Rockstar Kid](https://open.spotify.com/track/5ZxNI13c08AgYNZGbHyD1m) | [Badanamu](https://open.spotify.com/artist/09t6Csbwd7F1skAFowJIIM) | [Badanamu Party & Dance Songs for Kids](https://open.spotify.com/album/2aBRz2LhkMM6qt7RA3KAZU) | 2:02 |
 | 131 | [Let's Go!](https://open.spotify.com/track/6DvjkISFmzW5ba69F0odYb) | [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Let's Go!](https://open.spotify.com/album/3Z6kCD2E31N0QBbNfrk7RR) | 1:52 |
