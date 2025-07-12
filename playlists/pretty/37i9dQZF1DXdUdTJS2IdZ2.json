@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG/jlQAAAAByC78ayHJiPvLRrT1Z1kaz",
+  "snapshot_id": "aHCrkgAAAABNVfNuVM8UUGZ40JGBi8H2",
   "tracks": [
     {
       "added_at": "2025-07-10 16:00:21",
@@ -227,6 +227,30 @@
       "duration_ms": 175500,
       "name": "search",
       "url": "https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE"
+    },
+    {
+      "added_at": "2025-07-11 06:13:38",
+      "album": {
+        "name": "In The Air Tonight",
+        "url": "https://open.spotify.com/album/2YZxRnCqanN1yM3CohHDrw"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        },
+        {
+          "name": "KIARA",
+          "url": "https://open.spotify.com/artist/5o81g40kQP3AywWJR0OkDB"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/3ZpMbB1ve0HryawfuaRuEa"
     },
     {
       "added_at": "2025-07-10 16:00:21",

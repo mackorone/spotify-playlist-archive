@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Counting Candles",
+        "url": "https://open.spotify.com/album/66S6SJA4svHbAALcaayedK"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202151,
+      "name": "Counting Candles",
+      "url": "https://open.spotify.com/track/7otmtaq5GIEvaMUxDIwR9K"
+    },
+    {
+      "album": {
         "name": "Crashmat",
         "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
       },

@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Probame",
+        "url": "https://open.spotify.com/album/7lVtD74Hhay5GHEC74kEsP"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/1rvg63zCuXz8gLYDnASEmK"
+    },
+    {
+      "album": {
         "name": "Cuchillos y Escudos",
         "url": "https://open.spotify.com/album/5a63Im2wu5TKzoPsf8zbNn"
       },

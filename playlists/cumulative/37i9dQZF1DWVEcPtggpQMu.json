@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: HENNYBELIT",
+  "description": "Only the hottest South African rap. \nCover: Blue Pappi",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -960,6 +960,24 @@
       "duration_ms": 160000,
       "name": "ALRIGHT",
       "url": "https://open.spotify.com/track/5NPVb2mvDB4RXx8IvhHPno"
+    },
+    {
+      "album": {
+        "name": "Ama N*gga",
+        "url": "https://open.spotify.com/album/3uFIflG9UCYc7KaZqIoyQu"
+      },
+      "artists": [
+        {
+          "name": "Stilo Magolide",
+          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Ama N*gga",
+      "url": "https://open.spotify.com/track/0cV3zY8OaTOBgQAnd1Lc85"
     },
     {
       "album": {
@@ -3110,7 +3128,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 145968,
       "name": "BUS",
       "url": "https://open.spotify.com/track/37nlQBxvXPQL0fX0hNJTvk"
@@ -4235,6 +4253,32 @@
     },
     {
       "album": {
+        "name": "Culture.",
+        "url": "https://open.spotify.com/album/56RkbBWjswlc9ONuenOkQv"
+      },
+      "artists": [
+        {
+          "name": "ol.floww",
+          "url": "https://open.spotify.com/artist/1cz6VVSjAhAghXHArS8zua"
+        },
+        {
+          "name": "Julian Vogue",
+          "url": "https://open.spotify.com/artist/1wV3eDSiZqOEzE5AbtWJIf"
+        },
+        {
+          "name": "Nxvy",
+          "url": "https://open.spotify.com/artist/4QocMKmC5WYDXnpDOMB90r"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285464,
+      "name": "Culture.",
+      "url": "https://open.spotify.com/track/6TUFX4WwE6I8UgDSvIyJ2f"
+    },
+    {
+      "album": {
         "name": "Current State Of Mind",
         "url": "https://open.spotify.com/album/3XTwECwTavv0evdNXEF2pz"
       },
@@ -4316,6 +4360,28 @@
       "duration_ms": 243017,
       "name": "D.G.U",
       "url": "https://open.spotify.com/track/3d1zBeKqeSru6s3yWw8XdN"
+    },
+    {
+      "album": {
+        "name": "Dairy (feat. Kane Keid)",
+        "url": "https://open.spotify.com/album/64fF8IIEmWqu4fYMfX2fQJ"
+      },
+      "artists": [
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        },
+        {
+          "name": "Kane Keid",
+          "url": "https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192048,
+      "name": "Dairy (feat. Kane Keid)",
+      "url": "https://open.spotify.com/track/6K8C2A17okx5cFU6dG0nud"
     },
     {
       "album": {
@@ -5342,7 +5408,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 253658,
       "name": "Emzini Wezinsizwa (Remix) (feat. Dando, Bravo Le Roux, Lowfeye & Anzo)",
       "url": "https://open.spotify.com/track/1iQyCQGhe88wHQYrrwvkeV"
@@ -5926,7 +5992,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 162235,
       "name": "Fell in Love with You",
       "url": "https://open.spotify.com/track/2qckLbifoRDMYM9rPydLWT"
@@ -9325,6 +9391,32 @@
     },
     {
       "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/6AQbYU29wxmpVzuATbw1UA"
+      },
+      "artists": [
+        {
+          "name": "Rouge",
+          "url": "https://open.spotify.com/artist/3fv7gh6JODBTpz7uS0aTnS"
+        },
+        {
+          "name": "Nadia Nakai",
+          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+        },
+        {
+          "name": "Moozlie",
+          "url": "https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/1WCpEyjjDF6qqzxVtuVcoR"
+    },
+    {
+      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/6IlQ7Z50jNNPKlibH479jf"
       },
@@ -9568,7 +9660,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 198974,
       "name": "Khukhumele",
       "url": "https://open.spotify.com/track/633atCw2V4NjU8M5j4D6Py"
@@ -11235,6 +11327,28 @@
     },
     {
       "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/0vVa7iEUHZnwLvbS1tUPkf"
+      },
+      "artists": [
+        {
+          "name": "Cloudy Muro",
+          "url": "https://open.spotify.com/artist/62y7vK083kkrtqlq5WQlYr"
+        },
+        {
+          "name": "ol.floww",
+          "url": "https://open.spotify.com/artist/1cz6VVSjAhAghXHArS8zua"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/05QOnsNemuaHGvu7s3JTBi"
+    },
+    {
+      "album": {
         "name": "Mashamplane",
         "url": "https://open.spotify.com/album/60FPSwQTmqVcXN0FpzEujM"
       },
@@ -11272,6 +11386,36 @@
       "duration_ms": 204631,
       "name": "Mashaya",
       "url": "https://open.spotify.com/track/3QfJG1goDIP89ra2Vj6lPE"
+    },
+    {
+      "album": {
+        "name": "MASINCOKOLE (Freestyle)",
+        "url": "https://open.spotify.com/album/1u5mMDXPbvuqSbL0lzrJSh"
+      },
+      "artists": [
+        {
+          "name": "PRXNCE ICIS",
+          "url": "https://open.spotify.com/artist/3FxSuK09DqdlxhBl6RND9A"
+        },
+        {
+          "name": "Barblee",
+          "url": "https://open.spotify.com/artist/7ic8AaZPv0LH7pHwgAAwjX"
+        },
+        {
+          "name": "Lizzy Lane",
+          "url": "https://open.spotify.com/artist/7y8im3fDIFsRSK6YxfeM7F"
+        },
+        {
+          "name": "Lay Toz",
+          "url": "https://open.spotify.com/artist/6SQ3bYudz9GagAMB45w87t"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102530,
+      "name": "MASINCOKOLE - Freestyle",
+      "url": "https://open.spotify.com/track/02hInYc1DGNnEzm6KQEcDY"
     },
     {
       "album": {
@@ -12640,7 +12784,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 211017,
       "name": "Nguwe",
       "url": "https://open.spotify.com/track/2LuYjn8M0mEtpPwTXZMDmz"
@@ -17360,7 +17504,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 195251,
       "name": "Stick With You (feat. Nana Atta & Rhea Blek)",
       "url": "https://open.spotify.com/track/2U3qc1MebhRjkXu2mmaAFF"

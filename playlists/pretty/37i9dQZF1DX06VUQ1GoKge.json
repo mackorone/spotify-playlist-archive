@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553668,
+  "num_followers": 553693,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Disobedient",
-        "url": "https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H"
-      },
-      "artists": [
-        {
-          "name": "Stick To Your Guns",
-          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
-        }
-      ],
-      "duration_ms": 185879,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "The End of All We Know",
         "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 251512,
       "name": "The End of All We Know",
       "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Disobedient",
+        "url": "https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "duration_ms": 185879,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK"
     },
     {
       "added_at": "2024-11-26 17:39:01",

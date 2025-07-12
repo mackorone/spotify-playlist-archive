@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,089 songs - 3 day 6 hr 34 min
+1,090 songs - 3 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 | 2021-07-23 | 2023-04-29 |
 | [Electric Counterpoint](https://open.spotify.com/track/3vKRwlgJ0KHvoP1wyKONr7) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Electric Counterpoint](https://open.spotify.com/album/0ckBbNNCgXOkOuOx6i6QUv) | 4:23 | 2021-07-23 | 2022-07-28 |
 | [Eleven](https://open.spotify.com/track/51ut6Hl3648UeCIuqMHymx) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD) | [Eleven](https://open.spotify.com/album/5UlJ4RNYYDfK9xVH9dIRQK) | 4:28 | 2019-06-19\* | 2022-04-21 |
+| [Emandulo \(Ode to uMageba\)](https://open.spotify.com/track/0q9GfOsdm04274pe5rNtfi) | [Son Of Nguni](https://open.spotify.com/artist/130qq1ptjWR60uyjiBVofN) | [Emandulo \(Ode to uMageba\)](https://open.spotify.com/album/49rA8zccpmH3M5Bi4KnpX1) | 6:25 | 2025-07-11 |  |
 | [Embers](https://open.spotify.com/track/3w9ALKovRO9Tc29DPiMzGi) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [The Secret Language of Trees](https://open.spotify.com/album/6EzTA98y6TGi3o2b3zJkdP) | 5:10 | 2025-02-14 | 2025-04-05 |
 | [Embrace](https://open.spotify.com/track/1EDueL4DmDnPDYmxFZb54V) | [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I) | [Embrace](https://open.spotify.com/album/5vD0muiLazbhIk0QxNNm8M) | 2:01 | 2019-07-25 |  |
 | [Empathy](https://open.spotify.com/track/5J89tAo7DU0cA0OdNWLaw1) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM), [ALOO](https://open.spotify.com/artist/1qXJ6BaHGtjqSKnc8rdTMm) | [Empathy](https://open.spotify.com/album/63EWGBwfZQukH1wrnZSizs) | 6:19 | 2023-09-29 |  |
@@ -951,7 +952,7 @@
 | [The Longest Night](https://open.spotify.com/track/6mnqGJKrRVJfyrzxnvoOeo) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [The Longest Night](https://open.spotify.com/album/3nEU9bN4Hyg4wvtreQu7j9) | 4:50 | 2021-01-08 | 2022-06-16 |
 | [the memories we have made](https://open.spotify.com/track/40tfbWWnbdn7286lVfEfKe) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [GROUP 1](https://open.spotify.com/album/0lLLyFI2VoLEhPnfiQ6KPC) | 1:38 | 2024-03-29 | 2024-05-12 |
 | [The Milky Way](https://open.spotify.com/track/6wmjXJSNbPrm3sqPuMQQ47) | [Androm](https://open.spotify.com/artist/4e0hkGJ86D7I16d4vBnx3j) | [The Milky Way](https://open.spotify.com/album/5XdHFNNBpYwYBrKqMRj8jp) | 4:30 | 2019-05-26\* | 2020-08-26 |
-| [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 | 2024-11-22 |  |
+| [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 | 2024-11-22 | 2025-07-12 |
 | [The Mountain Will Fall](https://open.spotify.com/track/2zFdB0tHEumsFa5Z6tLuBM) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/3OSeqyUWmkngEhQTTkdTSA) | 4:36 | 2023-12-06 | 2023-12-10 |
 | [The Mountain Will Fall](https://open.spotify.com/track/7fKjt9lQRrbi7JaqfIsjIH) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O) | 4:36 | 2019-06-22 | 2022-04-21 |
 | [The Muse](https://open.spotify.com/track/6weh7iGLagI2lFYHuGuIcb) | [Lux Prima](https://open.spotify.com/artist/5fNO1btmBpMwi44ULZlWtO) | [Divisional Articulations](https://open.spotify.com/album/1qbxSL0REGz0hyipR5vjil) | 4:25 | 2019-07-25 | 2020-10-21 |

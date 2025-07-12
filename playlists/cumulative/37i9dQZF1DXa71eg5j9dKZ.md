@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Barry Can't Swim
 
-1,226 songs - 3 day 11 hr 39 min
+1,227 songs - 3 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [All my friends know \- Anz Remix](https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 5:11 | 2022-01-28 | 2022-06-17 |
 | [ALL MY PEOPLE](https://open.spotify.com/track/0r56lpZulrcqJxi0kA9wM2) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [ALL MY PEOPLE](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 4:28 | 2024-10-24 | 2025-04-18 |
 | [All Night Long](https://open.spotify.com/track/36dAiNzoMiYkP5DCRY7m4A) | [Sage Introspekt](https://open.spotify.com/artist/4ekpVu17mXNnTLJ61iow2T) | [All Thru The Night \(Locked On Vol 4\)](https://open.spotify.com/album/2jqtWThfb36fQEIi7LQLGE) | 4:43 | 2023-03-30 | 2023-06-30 |
+| [All Systems Are Lying](https://open.spotify.com/track/6BEv1WwbbwL7SqYU9eowI7) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying / Run Free](https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t) | 3:20 | 2025-07-11 |  |
 | [All the Things We've Been Through](https://open.spotify.com/track/2N7kFL9VM9JrS9XvavwMqd) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [All the Things We've Been Through](https://open.spotify.com/album/0OVCOixuhs9hfIvTGoIGbD) | 4:55 | 2022-09-08 | 2023-02-04 |
 | [Allude](https://open.spotify.com/track/2z6a3MLNATHbLvlRNjDksC) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl), [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Allude](https://open.spotify.com/album/1PexHvyN3m7qT0WkK9jWKH) | 6:42 | 2022-04-15 | 2022-07-22 |
 | [Alone \- Edit](https://open.spotify.com/track/2FBin20nrPK6TCU4LCnKlA) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [Alone](https://open.spotify.com/album/3NW0j2YQJlmmicgexJETWN) | 3:29 | 2022-01-21 | 2022-05-06 |

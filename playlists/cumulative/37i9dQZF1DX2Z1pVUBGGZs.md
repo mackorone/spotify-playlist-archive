@@ -2,7 +2,7 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring Liang Lawrence 🚀
+> a playlist without boundaries, featuring Liang Lawrence 💐
 
 515 songs - 1 day 1 hr 53 min
 

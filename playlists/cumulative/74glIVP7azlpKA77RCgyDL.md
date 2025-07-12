@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Frayle.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Deftones.
 
-1,034 songs - 2 day 16 hr 53 min
+1,040 songs - 2 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [God Complex](https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [God Complex](https://open.spotify.com/album/3uYcGEKaKcofblWnPWz25N) | 4:05 | 2025-02-28 |  |
 | [God Under Fingernails](https://open.spotify.com/track/6rTiRiuhMjowousSPe4Bhu) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [God Under Fingernails](https://open.spotify.com/album/1Q4UfATj3O0UhjFoAXmpId) | 2:55 | 2024-03-29 | 2025-04-11 |
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 | 2023-07-15 |
+| [Gore Of Being](https://open.spotify.com/track/7a7Sb9JRZzAabOotJ1e5Ww) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Gore Of Being](https://open.spotify.com/album/3Nns8PYQz8QGOQrveu25Up) | 3:51 | 2025-07-11 |  |
 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 | 2024-07-19 | 2025-04-11 |
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-01-20 | 2024-02-03 |
 | [Gravity](https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Gravity](https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw) | 4:03 | 2025-01-10 |  |
@@ -552,6 +553,7 @@
 | [Mother Fucking Liar](https://open.spotify.com/track/2iu3j0Gumnc0aTUhuGjJAR) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Mother Fucking Liar](https://open.spotify.com/album/5rIBeueszVxOFNhXulxiwb) | 3:12 | 2022-04-29 | 2023-07-15 |
 | [Move](https://open.spotify.com/track/6r8xg4vDHIPBDjCFb70uWn) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Move](https://open.spotify.com/album/3JhCDiTZ095MaNxc6zXrEX) | 2:29 | 2022-06-10 | 2023-07-15 |
 | [My Creator](https://open.spotify.com/track/6KCa6PR3lmRFrOTzG7hkNr) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Demo 2022](https://open.spotify.com/album/0UvDfUynydvwHXS4DSGKqE) | 1:20 | 2022-06-03 | 2023-07-15 |
+| [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-11 |  |
 | [My Will to Live](https://open.spotify.com/track/4sAWFLOCxVfyBvZq9dWy0s) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [My Will to Live](https://open.spotify.com/album/5Jqz6ZgchnSaUNsTbV38pz) | 5:20 | 2023-01-06 | 2024-02-03 |
 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 | 2024-04-12 | 2025-04-11 |
 | [names](https://open.spotify.com/track/4keVU1iG5gKDkp3gFnIMsM) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2), [Record Setter](https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT) | [names](https://open.spotify.com/album/4UDjMHGSpHxfRm6ABUsiCF) | 1:16 | 2022-04-01 | 2023-07-15 |
@@ -563,6 +565,7 @@
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-04-11 |  |
 | [NEVER TO RETURN](https://open.spotify.com/track/4kD1tYemtyj7jYvH3lqKGQ) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [NEVER TO RETURN](https://open.spotify.com/album/6Q7IJoP0aqEhAxbMJivSv7) | 3:42 | 2023-11-10 | 2024-02-03 |
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-06-10 | 2023-07-15 |
+| [New Age Cannibal](https://open.spotify.com/track/1eqRJoujusZIptrlWpGbQV) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [New Age Cannibal](https://open.spotify.com/album/6wXFGn4umGGJiXyBoQfn1W) | 2:42 | 2025-07-11 |  |
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-01 | 2023-07-15 |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2022-09-16 | 2023-07-15 |
 | [New Reality](https://open.spotify.com/track/5Mz72qEJk1btZmPCasmS7Z) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [New Reality](https://open.spotify.com/album/6KPHDHJ2nRjyGHwICBkorf) | 4:41 | 2022-03-18 | 2023-07-15 |
@@ -839,6 +842,7 @@
 | [The Abysmal Eye](https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Abysmal Eye](https://open.spotify.com/album/0TEywpRjtQ68lwnUO0uHSa) | 4:55 | 2022-01-28 | 2023-07-15 |
 | [The Acres/The Ache](https://open.spotify.com/track/22qntLdbNRmTxaMOeQUqlJ) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [The Acres/The Ache](https://open.spotify.com/album/7r9YsbBFxRAmXwxqa92B2B) | 8:36 | 2022-02-04 | 2023-07-15 |
 | [The Agony Seeping Storm](https://open.spotify.com/track/0dcPQd2zMC9AzmW1Ga5IWm) | [Job For A Cowboy](https://open.spotify.com/artist/5L3QTPofDwMPGlNnQkyHK1) | [The Agony Seeping Storm](https://open.spotify.com/album/2378MgxGy5oTbUOfvuyq4H) | 4:11 | 2023-09-01 | 2024-02-03 |
+| [The Beat](https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:43 | 2025-07-11 |  |
 | [The Black](https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy) | 6:10 | 2024-03-15 | 2025-04-11 |
 | [The Black Curtain](https://open.spotify.com/track/2uSQwNx0A61vBI2XePH1a8) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [The Black Curtain](https://open.spotify.com/album/48SXD0hFVhLJfICQMVIz3x) | 3:18 | 2024-03-15 | 2025-04-11 |
 | [The Bough](https://open.spotify.com/track/6gQ1LiHTZ42Luk9EG7MlNk) | [Black Math Horseman](https://open.spotify.com/artist/6Pqqs38vVtfObyyoUaD5E5) | [The Bough](https://open.spotify.com/album/6rHvNkGI7UyJ7oGNJ8fBpG) | 7:09 | 2022-08-26 | 2023-07-15 |
@@ -868,6 +872,7 @@
 | [The Gallows](https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Gallows](https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH) | 3:50 | 2024-09-13 | 2025-04-11 |
 | [The Great Deceiver](https://open.spotify.com/track/1rnNJckSOjUlvoCw3gV5ob) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [The Great Deceiver](https://open.spotify.com/album/7z9CvBMKxahud7VulgomWT) | 3:45 | 2022-08-05 | 2023-07-15 |
 | [The Great Heathen Army](https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/2Ge7U7lz8QrfTEI9RmBEhc) | 4:04 | 2022-07-08 | 2023-07-15 |
+| [The Great Unknown](https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Great Unknown](https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP) | 3:01 | 2025-07-11 |  |
 | [The Grey](https://open.spotify.com/track/7KqOpWKmzXLEcqwVy7P0td) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [The Grey](https://open.spotify.com/album/5Rzc2I5iMMQGs0Pqp8vFsZ) | 6:07 | 2023-08-18 | 2024-02-03 |
 | [The Half Rising Man](https://open.spotify.com/track/6tammuqjdqFjxYCg4eY9u8) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [Plague God](https://open.spotify.com/album/5z0ali2A2jp4RI70VlvBfr) | 8:10 | 2022-03-25 | 2023-07-15 |
 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 | 2022-02-04 | 2023-07-15 |
@@ -898,6 +903,7 @@
 | [The Wretched; The Ruinous](https://open.spotify.com/track/2r7hqnJ4jVQRrT5A5oBF9B) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/5I9RcuaXY3BwAYYNYhVlTL) | 4:20 | 2023-01-27 | 2024-02-03 |
 | [The X Has Yet To Fade](https://open.spotify.com/track/4mEnRuBGdWiD2Uz3BisemP) | [Divine Right](https://open.spotify.com/artist/2qPMC6I8zGYtZrsL0pJsV1) | [Salvation Ends](https://open.spotify.com/album/3v9ntlo61W8tG2VanDmCYw) | 3:08 | 2024-02-02 | 2025-04-11 |
 | [Thermal Runaway](https://open.spotify.com/track/4CBDr82fX76y2sflS6Mb7d) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk), [Cara Drolshagen](https://open.spotify.com/artist/0ZaE2bBAU8bnB8tIN4bZkB) | [Thermal Runaway](https://open.spotify.com/album/2MzUgcAHyVNt30g63NweXV) | 4:01 | 2022-02-04 | 2023-07-15 |
+| [They Circle Below](https://open.spotify.com/track/1bKEfhrBwtGnk3L2xTL4ZC) | [Terminal Sleep](https://open.spotify.com/artist/4ahzetH2uUpYI8of4wDnaN) | [They Circle Below](https://open.spotify.com/album/06MfPdcynow89C5ouj0AP4) | 3:49 | 2025-07-11 |  |
 | [They Fear Us](https://open.spotify.com/track/4AoCVndz22Nf7nCag0pvSO) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3Jv1c7grobLidRkAE8PRA0) | 4:10 | 2022-02-04 | 2023-07-15 |
 | [They'll Just Love You \(feat\. Poppy & Danny Elfman\)](https://open.spotify.com/track/2JhJYs96INURqXbVi0reKJ) | [Stu Brooks](https://open.spotify.com/artist/7lRFeVa0GvTB0hm28TKT9M), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [They'll Just Love You \(feat\. Poppy & Danny Elfman\)](https://open.spotify.com/album/5zryXm1YMVVqalObTXXQI1) | 4:02 | 2023-06-16 | 2024-02-03 |
 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 | 2024-09-20 | 2025-04-11 |

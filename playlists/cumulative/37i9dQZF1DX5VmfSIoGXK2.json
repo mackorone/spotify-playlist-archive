@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Because of You",
+        "url": "https://open.spotify.com/album/5XviObYgWnXvqwUymw9Zmx"
+      },
+      "artists": [
+        {
+          "name": "Rumorous",
+          "url": "https://open.spotify.com/artist/2XKWm3Uk9YQ418fqTUx7pp"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139838,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1TAQSiBoxONckukXzCorKI"
+    },
+    {
+      "album": {
         "name": "Belle",
         "url": "https://open.spotify.com/album/6405dSaBJmxm2tMEDaeBbz"
       },
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 166504,
       "name": "Hotspot",
       "url": "https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy"

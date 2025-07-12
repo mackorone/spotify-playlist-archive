@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Emiway Bantai",
+  "description": "India's Rap Scene. Cover - Hanumankind",
   "name": "RAP 91",
   "tracks": [
     {
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 184800,
       "name": "Buss Down",
       "url": "https://open.spotify.com/track/6iimPfgGSNCtpSs0oALaX5"
@@ -4919,6 +4919,28 @@
     },
     {
       "album": {
+        "name": "Poothiri",
+        "url": "https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240875,
+      "name": "Poothiri",
+      "url": "https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7"
+    },
+    {
+      "album": {
         "name": "Powerplay",
         "url": "https://open.spotify.com/album/5uLNF8MhgDplsMBEeFftLE"
       },
@@ -5478,7 +5500,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 212000,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/6esAptCMkyEwYxdDAnD03c"
@@ -5548,6 +5570,32 @@
       "duration_ms": 171268,
       "name": "Shoe Drill (THWF)",
       "url": "https://open.spotify.com/track/2Y6Hk783GcO9iucydYBG1P"
+    },
+    {
+      "album": {
+        "name": "Shoes Off",
+        "url": "https://open.spotify.com/album/3DdWTfPbTgtEiP95BDFctH"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Iqbal",
+          "url": "https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229787,
+      "name": "Shoes Off",
+      "url": "https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn"
     },
     {
       "album": {
@@ -6356,10 +6404,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 142500,
       "name": "Vidhi",
       "url": "https://open.spotify.com/track/6SQJSUTpV19eAvK5UHlVU6"
+    },
+    {
+      "album": {
+        "name": "Villainous Freestyle",
+        "url": "https://open.spotify.com/album/48h2Tlyquz569oCnSVmbkq"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Villainous Freestyle",
+      "url": "https://open.spotify.com/track/6yqSbzeBZzsANKGBompjMX"
     },
     {
       "album": {

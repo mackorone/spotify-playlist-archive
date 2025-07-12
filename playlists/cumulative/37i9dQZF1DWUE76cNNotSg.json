@@ -2775,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/1Z27SzwBoFMwIrh6crcVWN"
+      },
+      "artists": [
+        {
+          "name": "Gourmet Groove",
+          "url": "https://open.spotify.com/artist/3aOSAaJGgJoMM44sekh3aG"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154512,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/333JphECeA2WEG7ioqRl7A"
+    },
+    {
+      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -3838,7 +3860,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 261264,
       "name": "GLOWIN'",
       "url": "https://open.spotify.com/track/6FbAXOSnc5uPQgx2JRly2h"
@@ -4849,6 +4871,24 @@
     },
     {
       "album": {
+        "name": "In the Nightclub",
+        "url": "https://open.spotify.com/album/0i9q5Og1Tnoql7YzzvDASh"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "In The Nightclub",
+      "url": "https://open.spotify.com/track/5NnlfYPuWIdebXXeuEmBn1"
+    },
+    {
+      "album": {
         "name": "Infield (Young & Sick Remix)",
         "url": "https://open.spotify.com/album/1kTRU2NEv60y4JYGUwuvNt"
       },
@@ -5248,6 +5288,24 @@
       "duration_ms": 164510,
       "name": "Keep On Moving (All Night Long)",
       "url": "https://open.spotify.com/track/35G2b6JZTfvSE7RxVCyM1s"
+    },
+    {
+      "album": {
+        "name": "Kiki, I Wanna Dance With You",
+        "url": "https://open.spotify.com/album/4NMcOpDQVEo3pJaUgoicZ5"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "Kiki, I Wanna Dance With You",
+      "url": "https://open.spotify.com/track/2ZKSx4bbF4R4JKBaAKyb00"
     },
     {
       "album": {
@@ -6749,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/1nKbm1qYmxHKXHplTVna51"
+      },
+      "artists": [
+        {
+          "name": "Florian Hope",
+          "url": "https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190606,
+      "name": "Motions",
+      "url": "https://open.spotify.com/track/3D81x9iBQu5Q0Xqhr5k8JV"
+    },
+    {
+      "album": {
         "name": "Move You",
         "url": "https://open.spotify.com/album/6eLtqlfzQJwz5o0bOYrtNg"
       },
@@ -7534,7 +7610,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 156688,
       "name": "open this wall",
       "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
@@ -7574,7 +7650,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 165000,
       "name": "Our Way - Edit",
       "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
@@ -10750,7 +10826,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 188822,
       "name": "Under Water / In Air - feat. Ruth Radelet",
       "url": "https://open.spotify.com/track/3KoRqwC6xGerhN8gwYf0hY"

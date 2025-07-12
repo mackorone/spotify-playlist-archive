@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Find the mix series on SoundCloud —&gt; Bassline Therapy Radio
 
-736 songs - 1 day 14 hr 51 min
+737 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Broke](https://open.spotify.com/track/3MPZQ2WMnCYKWTbTrChc7l) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [Broke](https://open.spotify.com/album/5VI7gSQ2bussOvm9vxVapg) | 2:36 | 2024-09-16 | 2024-10-29 |
 | [Bump Bump](https://open.spotify.com/track/0FzbwOZf7421xneO8cr2o8) | [Leopard Step](https://open.spotify.com/artist/0TzWFTDdgr4q0Bd1FpaAwI) | [Play at ADE 2024](https://open.spotify.com/album/7dcD5GHyAZDMkSpC76VyQt) | 4:22 | 2024-11-04 | 2025-01-26 |
 | [Bump The Sub](https://open.spotify.com/track/2aHRWLHfXFL7HKwttMLcJY) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [PR!CE](https://open.spotify.com/artist/3DbWBIwP02mSq2mk70VmIR) | [Caller ID Vol\. 2](https://open.spotify.com/album/2b0b35UUqd9m1P1K2WhouJ) | 2:38 | 2023-11-20 | 2024-04-30 |
-| [Bumper](https://open.spotify.com/track/6rnKUsfpnb7hN7IfMpuzLP) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [DawgSide](https://open.spotify.com/artist/6ZVWub3NuJFt4rOCqmizZn) | [Bumper](https://open.spotify.com/album/22lMymkYJkTiYtiVmm9LLI) | 2:16 | 2025-04-27 |  |
+| [Bumper](https://open.spotify.com/track/6rnKUsfpnb7hN7IfMpuzLP) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [DawgSide](https://open.spotify.com/artist/6ZVWub3NuJFt4rOCqmizZn) | [Bumper](https://open.spotify.com/album/22lMymkYJkTiYtiVmm9LLI) | 2:16 | 2025-04-27 | 2025-07-12 |
 | [Burnin'](https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Burnin'](https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U) | 3:10 | 2023-12-31 | 2024-01-16 |
 | [Butterflies](https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies](https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo) | 2:49 | 2025-03-29 | 2025-06-08 |
 | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh) | 2:18 | 2024-09-21 | 2024-11-05 |
@@ -146,6 +146,7 @@
 | [Dancefloor](https://open.spotify.com/track/4dfhKJo55TLlKlq6Mh1tmr) | [dhuss](https://open.spotify.com/artist/0VCdowS9c0KjYcVJAZCvBd) | [Dancefloor EP](https://open.spotify.com/album/4lSZzzNPHmYxETXGqp5mEM) | 4:18 | 2024-02-05 | 2024-06-24 |
 | [Dancefloor](https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Dancefloor](https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa) | 3:26 | 2024-01-08 | 2024-01-22 |
 | [Dancefloor Queen \- Lokmann Remix](https://open.spotify.com/track/1lqxrMy6jaPYxmims8mPz5) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [LOKMANN](https://open.spotify.com/artist/7tE9xU2dMobjboG2JYnJq9) | [Neo Disco 4 remixes](https://open.spotify.com/album/24vmyPwzBo6MuSnnVnoPU1) | 3:31 | 2024-12-01 | 2025-02-17 |
+| [Dancing](https://open.spotify.com/track/4SElyILhlzo6DOVjCGJbvk) | [LEROSE](https://open.spotify.com/artist/6s0ex8bSZduFjuHlhkjQzA) | [Dancing](https://open.spotify.com/album/0I4k5hjXmJF8NCZHaMUWhI) | 2:45 | 2025-07-11 |  |
 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 | 2023-12-31 | 2024-01-16 |
 | [Dansez](https://open.spotify.com/track/5RDZkc1ZRgE099feiRQOl2) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Dansez](https://open.spotify.com/album/2gmvOSuAgFJZiY3lmUB1jr) | 2:49 | 2025-06-01 |  |
 | [Dark Dizko](https://open.spotify.com/track/1agM2jIDeSD7DXx7k2I4lB) | [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO) | [Dark Dizko](https://open.spotify.com/album/49ywpMTLKoACLghIDJ5dzb) | 3:24 | 2024-10-28 | 2025-01-13 |

@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Diquenza, JayKoppig & Equalz✨
 
-1,436 songs - 2 day 16 hr 8 min
+1,437 songs - 2 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Ahora Me Dice](https://open.spotify.com/track/4bDn037NB3Cn3KljyNISyP) | [Alex Sargo](https://open.spotify.com/artist/2rzmi9GgvLsfDZwMLRkNEG), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Nicole Manzo](https://open.spotify.com/artist/2xMWVkr64dpJLZY8LRGUdb) | [Ahora Me Dice](https://open.spotify.com/album/1ps1Jf65nJUnzmokz4uiMo) | 2:28 | 2023-03-09 | 2023-05-12 |
 | [AI](https://open.spotify.com/track/2v0AUzRztascWZuebWb9hB) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [AI](https://open.spotify.com/album/1hKGYkJkWa0T3HJaB9SOLC) | 2:14 | 2025-05-15 | 2025-06-27 |
 | [Ai Ai Ai](https://open.spotify.com/track/0O1aOVz2AHByG9fM5ggg9W) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [Ai Ai Ai](https://open.spotify.com/album/75flqZ7CwXhFXJ7DxjvyQw) | 2:20 | 2023-01-05 | 2023-03-18 |
-| [Aii](https://open.spotify.com/track/033zYqCz9UHffERFmLh0Z5) | [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS) | [Aii](https://open.spotify.com/album/1t01LR22VKMQtcOmV4fnb5) | 2:05 | 2025-05-15 |  |
+| [Aii](https://open.spotify.com/track/033zYqCz9UHffERFmLh0Z5) | [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS) | [Aii](https://open.spotify.com/album/1t01LR22VKMQtcOmV4fnb5) | 2:05 | 2025-05-15 | 2025-07-12 |
 | [Air Max](https://open.spotify.com/track/5G65Qm4RBZM7VzsiP8tZ0P) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [Koning Met Principes](https://open.spotify.com/album/4u9j22MWqT44ICoxWoV9nc) | 2:46 | 2022-10-11 | 2022-11-18 |
 | [Aisha Aisha](https://open.spotify.com/track/6OUIrI4gbPurOB7ufw5rSj) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Aisha Aisha](https://open.spotify.com/album/2mbYaVLUt6wa5MVtyIq8xo) | 2:20 | 2025-02-27 | 2025-05-09 |
 | [Ajena](https://open.spotify.com/track/4v7jRO3iw5Wcy8IVPF4JNy) | [JM Fuego](https://open.spotify.com/artist/3NclztAZJKINqZ2m6anhQk), [JBigss](https://open.spotify.com/artist/26wDc3VG393s6Ta4W88AGX) | [Ajena](https://open.spotify.com/album/07tCBCAEuWiPg3tNvtxhsQ) | 2:42 | 2023-06-08 | 2023-06-23 |
@@ -175,6 +175,7 @@
 | [Big Poppa \(feat\. Sam J'taime & Bartofso\)](https://open.spotify.com/track/7A8saQHtibJkuv5t8civXN) | [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Big Poppa \(feat\. Sam J'taime & Bartofso\)](https://open.spotify.com/album/4N1xOqqWvbRTa9aWhoxHQg) | 2:07 | 2023-06-29 | 2023-08-18 |
 | [Big Up](https://open.spotify.com/track/2FoayXADnf4Zl2GaglxGHW) | [Vurra](https://open.spotify.com/artist/2Qm7GttqaAhxHCgj1vTUOk), [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa), [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM) | [Big Up](https://open.spotify.com/album/7Crfgy4Plz4qIexmdkRa5x) | 2:48 | 2023-11-16 | 2024-02-02 |
 | [Big Woman Thing](https://open.spotify.com/track/6j8NRVBuVs5IGr9AKuw3vp) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Big Woman Thing](https://open.spotify.com/album/115Wut67FRFDrDIM2CXFpY) | 2:35 | 2022-12-22 | 2023-01-20 |
+| [Bigi Bakka](https://open.spotify.com/track/0cAEbGFpjQCWpkfmcq4wy4) | [Romeo Donk](https://open.spotify.com/artist/1sYqtLf2UW19ZjKhmdPAY0) | [Bigi Bakka](https://open.spotify.com/album/3U3OYjTd9CKjiojHps5xzE) | 2:35 | 2025-07-11 |  |
 | [Bij Je Zijn](https://open.spotify.com/track/3PbHkeCvPDwlHObIWkt5aR) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Bij Je Zijn](https://open.spotify.com/album/1adQzuk9Fas8UEjq1dwTUX) | 2:37 | 2024-10-10 | 2025-02-14 |
 | [Bij Jou](https://open.spotify.com/track/4uh4iZAe7nFBiUWI55XWib) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Bij Jou](https://open.spotify.com/album/1KSShe3h6ORfb22SYeyd5e) | 2:32 | 2023-07-27 | 2023-09-15 |
 | [Bij Jou](https://open.spotify.com/track/6VxT6SoJbls60iDNSi3RLK) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg \(Deluxe\)](https://open.spotify.com/album/22Gy1naJdrn2Blmj71VbAs) | 2:46 | 2024-07-19 | 2024-11-29 |

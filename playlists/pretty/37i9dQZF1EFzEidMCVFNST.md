@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 185 | [Amnésia](https://open.spotify.com/track/2VYDaBGNvw98OrDLSj55Zx) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Vibrations](https://open.spotify.com/album/73q2GIJ0bC6zb3AjobpNUX) | 2:37 |
 | 186 | [Nunca Foi Tão Gostoso \- Ao Vivo](https://open.spotify.com/track/5RpAYFxIR8vMfdRBIeVTDF) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:42 |
 | 187 | [Lado Bom \- Ao Vivo](https://open.spotify.com/track/6u0rhQWzH2PoinGrMuinm6) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA), [Léo Moreira](https://open.spotify.com/artist/1wUxFuBWym6vKgn1akEUY9) | [Ao Vivo em Goiânia](https://open.spotify.com/album/3zjKPkYelG8ItxX9yMNOTo) | 2:44 |
-| 188 | [Vida de Solteiro \- Ao Vivo](https://open.spotify.com/track/0gFuMjx6xR1zHxrcPwfdrz) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Quem Sabe Faz ao Vivo](https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp) | 2:50 |
-| 189 | [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 |
+| 188 | [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 |
+| 189 | [Vida de Solteiro \- Ao Vivo](https://open.spotify.com/track/0gFuMjx6xR1zHxrcPwfdrz) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Quem Sabe Faz ao Vivo](https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp) | 2:50 |
 | 190 | [Beijão](https://open.spotify.com/track/4edZCJCx5PLEqpKMrxNesS) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Emocionadin da Vida](https://open.spotify.com/album/6fFHUxOeBbOH9xY7QnjFlr) | 2:34 |
 | 191 | [Imunidade Baixa \- Ao Vivo](https://open.spotify.com/track/77vUhk306lufu1uFaVOV5V) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Duas Vidas E Um Sonho \(Ao Vivo\)](https://open.spotify.com/album/4ns0ND3iEHNlmXSawzsSgz) | 2:54 |
 | 192 | [Olha Como Eu To Sofrendo](https://open.spotify.com/track/0pfYQm6OtKriyRDZfAMNB7) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Tour Cê Ta Doido](https://open.spotify.com/album/5w8WuthAAtuDY43j1b1cje) | 2:36 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 300 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 301 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `Ab2byAAAAABBcAYtQ/oM3ZYOZubkmQM8`
+Snapshot ID: `Ab2haAAAAAB/PAIxC7CwFElqbgRFWsi0`

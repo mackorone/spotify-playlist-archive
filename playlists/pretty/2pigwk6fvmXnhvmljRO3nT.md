@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,376 songs - 19 day 4 hr 6 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,379 songs - 19 day 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7384,5 +7384,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7374 | [on the precipice of defeat](https://open.spotify.com/track/32SYEk2ksN8iQtz50AtHYj) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:57 |
 | 7375 | [never meant to belong](https://open.spotify.com/track/0CCt7uzp4MBYR85wugmkGa) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 5:26 |
 | 7376 | [Treachery](https://open.spotify.com/track/6a7su3dkJJXidSuFiowJC2) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 3:22 |
+| 7377 | [총 맞은 것처럼](https://open.spotify.com/track/1eKB7VHL8NmM64993UY1rE) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Timeless : The Best](https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2) | 3:59 |
+| 7378 | [Rough](https://open.spotify.com/track/75vepksethG7GrRn815ZYH) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [SNOWFLAKE](https://open.spotify.com/album/1kQatXJwulYhEIvotff9D1) | 3:29 |
+| 7379 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
 
-Snapshot ID: `AAAHiIEpVB1cH12jQXy14mrEA60bJspG`
+Snapshot ID: `AAAHi7HtT9XQL/aPvi5cU/WAZr/g7SFd`

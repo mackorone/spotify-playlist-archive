@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Tokyo Machine  \\m/
 
-506 songs - 1 day 4 hr 28 min
+507 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Colourfast](https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Colourfast](https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq) | 3:46 | 2023-09-08 |  |
 | [Come Alive](https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Come Alive](https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ) | 3:53 | 2021-12-10 | 2023-06-01 |
 | [Come Alive](https://open.spotify.com/track/5VNd1hDPumxU02ckWEPguk) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Elemental](https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U) | 3:53 | 2023-06-02 | 2024-04-19 |
-| [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 | 2021-12-10 |  |
+| [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 | 2021-12-10 | 2025-07-12 |
 | [Come Clean \- Spotify Singles](https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 2:39 | 2022-11-11 | 2023-02-16 |
 | [Come With Me](https://open.spotify.com/track/3h7nvdG9vOZPfMX0P7oKeZ) | [FJØRA](https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk) | [Come With Me](https://open.spotify.com/album/1JsV1sy5wUYIGHtFDBkVP1) | 2:21 | 2021-12-10 | 2022-06-21 |
 | [Comfort Food](https://open.spotify.com/track/2fQRakxrM46CSScy1tw6tM) | [MDK](https://open.spotify.com/artist/4AFmCAFHwoV2o3QR1Wgup4) | [Comfort Food](https://open.spotify.com/album/3i8TmJpi7BeON4IHuMjEAP) | 3:28 | 2024-08-26 | 2024-10-26 |
@@ -462,6 +462,7 @@
 | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 | 2022-07-01 | 2024-08-27 |
 | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/album/0c7bLm2cqhAWQ4BhovOUdm) | 2:38 | 2021-12-10 | 2022-11-12 |
 | [TOO CLOSE](https://open.spotify.com/track/0EM4q5dEEJJsjBuqsZIQJ2) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [TOO CLOSE](https://open.spotify.com/album/2Y1rWA9NdmjHNM4rCj1wx7) | 3:12 | 2025-02-07 | 2025-04-09 |
+| [Too Far Gone \(Demons\)](https://open.spotify.com/track/14CkVXwXQHjpRmCIhuTmn6) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Too Far Gone \(Demons\)](https://open.spotify.com/album/1cFNcVYwZGXFfeDfDwqFFB) | 3:14 | 2025-07-11 |  |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-24 |  |
 | [Tormenta](https://open.spotify.com/track/5FMhAFg7cJqXsBxZ50e59O) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Tormenta](https://open.spotify.com/album/76T2WNMoqGig23FC6ZEwEh) | 3:19 | 2021-12-10 | 2022-06-25 |
 | [TORN EXISTENCE](https://open.spotify.com/track/01PPuwQEVdmada0GbgaPcK) | [BLUPILL](https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac), [KILL PHIL](https://open.spotify.com/artist/6SBSreBUv5VbKzFfEVH0o3) | [TORN EXISTENCE](https://open.spotify.com/album/6U4rG382e1UH6oIi1v3pAf) | 3:12 | 2024-02-23 | 2024-05-11 |

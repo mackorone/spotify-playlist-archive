@@ -436,7 +436,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 288973,
       "name": "Bright (Fast)",
       "url": "https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 168000,
       "name": "Building Momentum",
       "url": "https://open.spotify.com/track/3lU3XxNcxJcDpu8nDnNi7n"
@@ -2385,6 +2385,28 @@
     },
     {
       "album": {
+        "name": "My Generation (From \"Just For One Day - The Live Aid Musical\")",
+        "url": "https://open.spotify.com/album/7HONyghLMIla5wCjC8dgIe"
+      },
+      "artists": [
+        {
+          "name": "The Live Aid Musical - Original Cast",
+          "url": "https://open.spotify.com/artist/7FPolpRntG8ycUABs3lsGu"
+        },
+        {
+          "name": "Naomi Katiyo",
+          "url": "https://open.spotify.com/artist/0MIhnjVKrPejrX1IygqcO2"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145737,
+      "name": "My Generation (From \"Just For One Day - The Live Aid Musical\")",
+      "url": "https://open.spotify.com/track/2gCG5sYdP6oTTjJpe2EJVO"
+    },
+    {
+      "album": {
         "name": "Roaring On / My Green Light / Past is Catching Up to Me | The Great Gatsby - A New Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/0WOb0bOotTCHNGDsnLjpUL"
       },
@@ -2498,7 +2520,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 278345,
       "name": "No One (From the New Broadway Musical \"Hell's Kitchen\")",
       "url": "https://open.spotify.com/track/2olxF7NN4aArCeNSUsw2vO"
@@ -3492,10 +3514,48 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 204200,
       "name": "The March (We Demand Equality) [from the Broadway musical \u201cSuffs\u201d]",
       "url": "https://open.spotify.com/track/1ODYl4yWYox1r2UsHFjIpD"
+    },
+    {
+      "album": {
+        "name": "The Pantomime (Live)",
+        "url": "https://open.spotify.com/album/64JbvcaNOhClr9LeiqKUfS"
+      },
+      "artists": [
+        {
+          "name": "Hadley Fraser",
+          "url": "https://open.spotify.com/artist/72iF8bXdjmcjZnDWSedhNv"
+        },
+        {
+          "name": "Robert Finlayson",
+          "url": "https://open.spotify.com/artist/0Ea2is9EbuG9l0KBNRMIWq"
+        },
+        {
+          "name": "Daniel Forrester",
+          "url": "https://open.spotify.com/artist/69aMVneLsMbbjQdwq3zxz7"
+        },
+        {
+          "name": "Jennifer Hepburn",
+          "url": "https://open.spotify.com/artist/3eO5ML0YgqdXSvUvmXUYTA"
+        },
+        {
+          "name": "Issy Khogali",
+          "url": "https://open.spotify.com/artist/39STqfXNF72pchL1VFPlH2"
+        },
+        {
+          "name": "Chrissie Perkins",
+          "url": "https://open.spotify.com/artist/5CRNgTBNF10YH8uRmFhPDj"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197002,
+      "name": "The Pantomime - Live",
+      "url": "https://open.spotify.com/track/7DGXvp8bQzG2chQqRx5d3t"
     },
     {
       "album": {

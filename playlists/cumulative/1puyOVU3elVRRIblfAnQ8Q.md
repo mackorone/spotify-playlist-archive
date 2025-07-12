@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-214 songs - 12 hr 27 min
+215 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Own Style](https://open.spotify.com/track/2cMlNEt4sHPPhci9ddp9zD) | [NOISES](https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp) | [WYA](https://open.spotify.com/album/3e0YYtHBlZ2Tw28SrWoFA3) | 2:50 | 2023-06-28 | 2023-11-09 |
 | [Parabellum](https://open.spotify.com/track/0Uy2wbMiudT1PmJCpyxo1x) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt) | [LYSS EP](https://open.spotify.com/album/28TxwayUhN9PaKQ5Obnqqv) | 3:40 | 2024-08-05 | 2024-08-24 |
 | [Pechanga](https://open.spotify.com/track/4O4Hre1uaXnS5lp9Lz1t63) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Pechanga](https://open.spotify.com/album/0Ig6ULjCG2q9q2OXOq6tMf) | 2:44 | 2023-06-21 | 2023-11-09 |
+| [Pelican](https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Pelican](https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8) | 2:34 | 2025-07-11 |  |
 | [PRESSURE](https://open.spotify.com/track/66DHk2u2skPCoKT6N3oe8b) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Zoobstool](https://open.spotify.com/artist/5VYznroahJC80vjoIRk8Eu) | [PRESSURE](https://open.spotify.com/album/0kRZhS82llRFhFYRP7fzxs) | 2:58 | 2023-02-24 | 2023-11-09 |
 | [Pressure](https://open.spotify.com/track/4tbO0VeLT9fVcKxLXCrqy5) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Brutalist](https://open.spotify.com/album/7z3rpvdW5ptqjSSMwxNHhd) | 3:11 | 2023-02-03 | 2023-11-09 |
 | [PREY](https://open.spotify.com/track/0Yk6JcL183ULQMmDQPc3f6) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [PREY](https://open.spotify.com/album/4V1sFZ6ipjNyBLwDH71MJU) | 2:46 | 2024-08-16 |  |

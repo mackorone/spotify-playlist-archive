@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 331176,
+  "num_followers": 331393,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -560,8 +560,8 @@
           "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
         },
         {
-          "name": "Julie Mc Knight",
-          "url": "https://open.spotify.com/artist/1gkiCyDciLTLxiAjH1j808"
+          "name": "Julie McKnight",
+          "url": "https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f"
         }
       ],
       "duration_ms": 315826,
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Canoa",
         "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 546791,
       "name": "Canoa",
       "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB"
     },
     {
       "added_at": "2024-03-22 15:59:52",

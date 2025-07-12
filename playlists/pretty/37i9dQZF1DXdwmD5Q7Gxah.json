@@ -1,12 +1,12 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/which-______-summer-are-you-having\">Check out our June newsletter!</a> Cover: Shelly",
-  "num_followers": 1183031,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/which-______-summer-are-you-having\">Check out our June newsletter!</a> Cover: Geese",
+  "num_followers": 1183075,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG/s+QAAAAANlH3NQrzn4Ej4ylKigMHY",
+  "snapshot_id": "aHGC9QAAAADKpEkOEQE9E516nubsppS2",
   "tracks": [
     {
       "added_at": "2025-07-08 16:59:40",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
     },
     {
+      "added_at": "2025-07-11 04:00:24",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-07-11 04:00:24",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
       "added_at": "2025-07-02 04:00:05",
       "album": {
         "name": "Shelly 2",
@@ -73,24 +105,20 @@
       "url": "https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N"
     },
     {
-      "added_at": "2025-06-27 04:02:24",
+      "added_at": "2025-07-11 04:00:24",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 172666,
-      "name": "Post Break Up Beauty",
-      "url": "https://open.spotify.com/track/2sHayl1gSu80Y4nDcRrEfT"
+      "duration_ms": 212960,
+      "name": "405",
+      "url": "https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -107,6 +135,54 @@
       "duration_ms": 202093,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon"
+    },
+    {
+      "added_at": "2025-07-11 21:32:37",
+      "album": {
+        "name": "i saw the light in you",
+        "url": "https://open.spotify.com/album/49guzay3mMBMJt9fZSks2p"
+      },
+      "artists": [
+        {
+          "name": "Sweet Boy",
+          "url": "https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r"
+        }
+      ],
+      "duration_ms": 161702,
+      "name": "i saw the light in you",
+      "url": "https://open.spotify.com/track/6TlW6jA0vV2PgDVesXqdrd"
+    },
+    {
+      "added_at": "2025-07-11 04:00:24",
+      "album": {
+        "name": "Doggy (feat. Love Spells and Truly Young)",
+        "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
+      },
+      "artists": [
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        },
+        {
+          "name": "Truly Young",
+          "url": "https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS"
+        }
+      ],
+      "duration_ms": 172359,
+      "name": "Doggy (feat. Love Spells and Truly Young)",
+      "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
     },
     {
       "added_at": "2025-07-10 16:40:25",
@@ -141,6 +217,26 @@
       "url": "https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI"
     },
     {
+      "added_at": "2025-07-11 04:00:24",
+      "album": {
+        "name": "Tennis Bracelet",
+        "url": "https://open.spotify.com/album/0Jy6YjC6L3BdWKU3GIKSKV"
+      },
+      "artists": [
+        {
+          "name": "Rebounder",
+          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+        },
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Tennis Bracelet",
+      "url": "https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo"
+    },
+    {
       "added_at": "2025-06-20 04:00:55",
       "album": {
         "name": "The woods, vol. 1",
@@ -155,6 +251,22 @@
       "duration_ms": 156578,
       "name": "Wipe your tears",
       "url": "https://open.spotify.com/track/3K5bLOU8pMGrDsPCfdL25g"
+    },
+    {
+      "added_at": "2025-07-11 04:00:24",
+      "album": {
+        "name": "particule",
+        "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
+      },
+      "artists": [
+        {
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "particule",
+      "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -205,26 +317,6 @@
       "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
     },
     {
-      "added_at": "2025-06-27 04:02:24",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "DERBY",
-          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
-        }
-      ],
-      "duration_ms": 127888,
-      "name": "I Wasn\u2019t There",
-      "url": "https://open.spotify.com/track/36GforftaCASOR8kBnhqN8"
-    },
-    {
       "added_at": "2025-07-02 04:00:05",
       "album": {
         "name": "Hate Goodbyes",
@@ -239,6 +331,26 @@
       "duration_ms": 227986,
       "name": "Hate Goodbyes",
       "url": "https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl"
+    },
+    {
+      "added_at": "2025-06-27 04:02:24",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Post Break Up Beauty",
+      "url": "https://open.spotify.com/track/2sHayl1gSu80Y4nDcRrEfT"
     },
     {
       "added_at": "2025-06-21 01:13:28",
@@ -348,17 +460,13 @@
           "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
         },
         {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        },
-        {
-          "name": "Ameer Vann",
-          "url": "https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH"
+          "name": "DERBY",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
         }
       ],
-      "duration_ms": 126320,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4LXBphPZfZQ3wFqep5UtBK"
+      "duration_ms": 127888,
+      "name": "I Wasn\u2019t There",
+      "url": "https://open.spotify.com/track/36GforftaCASOR8kBnhqN8"
     },
     {
       "added_at": "2025-07-02 04:00:05",
@@ -479,26 +587,6 @@
       "duration_ms": 242490,
       "name": "Everyone Falls Asleep In Their Own Time",
       "url": "https://open.spotify.com/track/7sGYT6ewCCJ5KJvWP1n3MP"
-    },
-    {
-      "added_at": "2025-06-13 04:00:47",
-      "album": {
-        "name": "Geezer",
-        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "Geezer",
-      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
       "added_at": "2025-06-20 04:00:55",

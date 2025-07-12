@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125202,
+  "num_followers": 125200,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUUmCo4MRP4Bwr3DTIY/6L9vfklMKO",
+  "snapshot_id": "AAAUVNjRuNJ15AJhbLkmlZQok9G/dVj0",
   "tracks": [
+    {
+      "added_at": "2025-07-11 15:08:21",
+      "album": {
+        "name": "Switch On Em",
+        "url": "https://open.spotify.com/album/4rL8IlLaGiexJNReOAGWWb"
+      },
+      "artists": [
+        {
+          "name": "UZ",
+          "url": "https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Switch On Em",
+      "url": "https://open.spotify.com/track/4ZPU9Q0rSQLO4NZ3Wl6ivr"
+    },
     {
       "added_at": "2025-07-10 17:35:23",
       "album": {
@@ -1135,22 +1155,6 @@
       "duration_ms": 175500,
       "name": "where did you go",
       "url": "https://open.spotify.com/track/38j9LlW18hlTjc9bulORkm"
-    },
-    {
-      "added_at": "2025-04-21 23:37:29",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/1K04Q2pVJiRftAdROfQ8R3"
-      },
-      "artists": [
-        {
-          "name": "Eater",
-          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3lInjgjlce124YrDUc3obI"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

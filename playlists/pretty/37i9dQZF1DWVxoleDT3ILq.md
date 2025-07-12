@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Diego Lorenzini y Simón Campusano
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,977 likes - 104 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,959 likes - 104 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 45 | [Templo](https://open.spotify.com/track/6Z7OnuKzFcWI8FvHr9zjJX) | [Las Olas \(Noispop\)](https://open.spotify.com/artist/7aVl0clu05c7p3TRUfZvgX) | [Perdidxs en el Ruido](https://open.spotify.com/album/5qFNDEJahGLCfOSl3txJbw) | 4:30 |
 | 46 | [Leña](https://open.spotify.com/track/5NPIee2163RPT0OKVDinJf) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Leña](https://open.spotify.com/album/2z4D7dU1dQsRjt4lMqLudG) | 3:36 |
 | 47 | [quiero creer que tienes un buen corazón](https://open.spotify.com/track/62qBQeXsGkn2fytlmvUUvr) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [quiero creer que tienes un buen corazón](https://open.spotify.com/album/2zzufzmGi2DhSSopXrjXlw) | 3:36 |
-| 48 | [Check](https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Check](https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4) | 3:23 |
+| 48 | [Check](https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Check](https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4) | 3:25 |
 | 49 | [anhelo](https://open.spotify.com/track/2082tbABLulK203QC2AXhB) | [Yaima Cat](https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [anhelo](https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ) | 3:58 |
 | 50 | [Fuego](https://open.spotify.com/track/1CmeVB662WNqknJ78htsuB) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7gNdaydtI1DfL8EB5GJxBn) | 4:37 |
 | 51 | [El Sol y Tú](https://open.spotify.com/track/4I2W2aOUJlmaEbW19PxyYj) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3) | [El Sol y Tú](https://open.spotify.com/album/69vYAPeaJrb4j2AY3acJAO) | 3:06 |

@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Lucky Brown & Tobal Mj.
 
-1,041 songs - 2 day 7 hr 20 min
+1,042 songs - 2 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-12-24 | 2022-02-26 |
 | [Dile A Tu Novio](https://open.spotify.com/track/7fimHYMLABSbHn9jiopBUI) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Dile A Tu Novio](https://open.spotify.com/album/61NUyiB4csYajoNSlYpGa1) | 3:04 | 2021-12-24 | 2022-03-12 |
 | [Dile a ÉL](https://open.spotify.com/track/6cIqskfnJeXgfltCuas8lx) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sunshine](https://open.spotify.com/album/31Msggk5KAwDs5xCLflufg) | 3:12 | 2025-02-28 | 2025-03-15 |
+| [Dile A ÉL \(Remix\)](https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Dile A ÉL \(Remix\)](https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI) | 3:40 | 2025-07-11 |  |
 | [DILF](https://open.spotify.com/track/5byCxJix5CnVFDcHlJd9mz) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [DILF](https://open.spotify.com/album/3yKfUu5fokxV9pSEz40QGx) | 2:48 | 2024-10-04 | 2024-11-30 |
 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-07-07 | 2024-06-29 |
 | [DISPO](https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:13 | 2023-08-11 | 2023-12-09 |

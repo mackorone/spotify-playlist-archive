@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Jäde
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,148 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,158 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 44 | [Better](https://open.spotify.com/track/5FmZBIrc2ebHrcPvtUw8E7) | [Haïlé Dästa](https://open.spotify.com/artist/38WuES2LwGfbLssRdC8TPG) | [Better](https://open.spotify.com/album/4nJqQuRO2EeD0ouPhd3BBb) | 2:54 |
 | 45 | [Cinq Étoiles](https://open.spotify.com/track/3l5xazk89vOmVCnnw1Zx3n) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Cinq Étoiles](https://open.spotify.com/album/4Rugw8pUP5n7DWQJ7ouOQa) | 3:21 |
 | 46 | [Coração](https://open.spotify.com/track/0m5xiqgNCuLFQsq52Bey9V) | [Soless](https://open.spotify.com/artist/5B0bNvzDNblvSEp9T0s20L) | [Soleil de Minuit](https://open.spotify.com/album/1iobpPQiqPlHgIQrIzuBVk) | 2:21 |
-| 47 | [Ma future](https://open.spotify.com/track/0LTXb68COHGvLXwvdJrR84) | [C2AM](https://open.spotify.com/artist/1acO9gERaiQD0BiOOdBrlG) | [Ma future](https://open.spotify.com/album/25Vhqki2J6JjqxvFa65CH0) | 2:56 |
+| 47 | [Ma future](https://open.spotify.com/track/0LTXb68COHGvLXwvdJrR84) | [C2AM](https://open.spotify.com/artist/1acO9gERaiQD0BiOOdBrlG), [Chacha](https://open.spotify.com/artist/6tUmRWffYXhZ7bA7tmKdK7) | [Ma future](https://open.spotify.com/album/25Vhqki2J6JjqxvFa65CH0) | 2:56 |
 | 48 | [LVA](https://open.spotify.com/track/2DsP34yb6fajwEVo8NXvYo) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [LVA](https://open.spotify.com/album/5i6Zo1VvDwelIUaTRXI1Ie) | 2:34 |
 | 49 | [Oh Pardon](https://open.spotify.com/track/2mPxtgvLD2lBvcmHpeybZC) | [Erianne](https://open.spotify.com/artist/5IDv5kxCyUJSvIfwFqP77l) | [Oh Pardon](https://open.spotify.com/album/1U4mr5OGIWZYb4n0xgM7Fq) | 2:49 |
 | 50 | [Des heures \- Radio Edit](https://open.spotify.com/track/6K3goFMy3vC30cpd3RcEMX) | [Ana](https://open.spotify.com/artist/2bvIIuEI2nMvfpTUIkbrYH) | [Des heures \(Radio Edit\)](https://open.spotify.com/album/4gD7Df71w2rZ2jpNQmgVcM) | 3:19 |

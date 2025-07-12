@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 257623,
+  "num_followers": 257599,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "Christmas Joy",
+        "url": "https://open.spotify.com/album/6avDqTUUdYbR79ChwhXqsw"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "duration_ms": 141733,
+      "name": "Christmas Joy",
+      "url": "https://open.spotify.com/track/3Rs2Fic9WvAyXhMhzpNsLO"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 207560,
       "name": "Honest",
       "url": "https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Christmas Joy",
-        "url": "https://open.spotify.com/album/6avDqTUUdYbR79ChwhXqsw"
-      },
-      "artists": [
-        {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
-        }
-      ],
-      "duration_ms": 141733,
-      "name": "Christmas Joy",
-      "url": "https://open.spotify.com/track/3Rs2Fic9WvAyXhMhzpNsLO"
     },
     {
       "added_at": "2024-12-13 04:00:30",

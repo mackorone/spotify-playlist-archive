@@ -54,7 +54,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 348740,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
@@ -1422,6 +1422,24 @@
       "duration_ms": 367453,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3XSf8Unnnx22syZW9ILEtR"
+      },
+      "artists": [
+        {
+          "name": "Kieran Brown",
+          "url": "https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200327,
+      "name": "I'll Love You Just The Same",
+      "url": "https://open.spotify.com/track/55UPUHJa2r4j1ePS071Hik"
     },
     {
       "album": {

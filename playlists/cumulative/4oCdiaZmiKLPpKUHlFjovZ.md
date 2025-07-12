@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Ski Mask The Slump God, XXXTENTACION, Money Man &amp; Rio Da Yung Og.
 
-163 songs - 7 hr 11 min
+164 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2023-06-23 | 2024-01-20 |
 | [Let's Go](https://open.spotify.com/track/76TJAFvcsT53qPU0bAR4an) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Let's Go](https://open.spotify.com/album/4D0xJxkAhrO1mFJBDR0UQO) | 2:20 | 2024-01-19 | 2024-04-25 |
 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 | 2024-04-24 |  |
+| [Light It Up](https://open.spotify.com/track/4WqqEI17dnY2UhKrckXyfc) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Light It Up](https://open.spotify.com/album/4l8OSFStfoqtKozWoaOmpO) | 2:15 | 2025-07-11 |  |
 | [MADE BY RICH GOD](https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [MADE BY RICH GOD](https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ) | 1:54 | 2024-06-01 | 2025-02-01 |
 | [Major \(feat\. Key Glock\)](https://open.spotify.com/track/3Yt2ph8Ko0JBANpdawzSF2) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Role Model](https://open.spotify.com/album/27YzHBsMfq6RvPQxWiK9sC) | 3:15 | 2024-01-19 |  |
 | [Make & Model](https://open.spotify.com/track/2dkZzVGgJh6AWAlzinjwzL) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Insomnia](https://open.spotify.com/album/4VDFKsron5xLCkREXXmFjD) | 2:25 | 2025-03-21 |  |

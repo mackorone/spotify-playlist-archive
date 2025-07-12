@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. K4OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,568 likes - 62 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,567 likes - 62 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [no es amor](https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [no es amor](https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm) | 3:14 |
 | 50 | [Hijo de Puta](https://open.spotify.com/track/57scDcITcx6puXDWHzZpPY) | [Mala Juarez](https://open.spotify.com/artist/7hOkDEegx8SLLfYzRHfPqb), [MYMBA malabú](https://open.spotify.com/artist/57AL7Z2zCAfyq7KQNfneGS) | [Hijo de Puta](https://open.spotify.com/album/0OZDFzXBcH8stCmtz7I7cC) | 3:03 |
 | 51 | [Drama](https://open.spotify.com/track/4cvviKvcAJ0xHCcaBeo971) | [Cornuda Posting](https://open.spotify.com/artist/6S55BI9rMcZJFtBnCvyg5D) | [Drama](https://open.spotify.com/album/5blrHcFmGcYSgb3oLz4bdk) | 2:13 |
-| 52 | [CORAZÓN CALIENTE, Pt.2](https://open.spotify.com/track/5v8gSBZHcuowBqrq9TrWQs) | [TERRA](https://open.spotify.com/artist/2ZO4ka6Jjy4hukXzifTEmA), [Cimarrón](https://open.spotify.com/artist/55RsSMUUEc7iMzXQcRSHnI) | [HEROÍNA LATINA II](https://open.spotify.com/album/2rPQI7VE4MlV1ieLig5JUu) | 2:26 |
-| 53 | [namorada brasileira](https://open.spotify.com/track/2LbocN89t2oWloRNFeipMJ) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [namorada brasileira](https://open.spotify.com/album/29I1x4sSkFhv9pDIB5SjT7) | 2:00 |
+| 52 | [namorada brasileira](https://open.spotify.com/track/2LbocN89t2oWloRNFeipMJ) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [namorada brasileira](https://open.spotify.com/album/29I1x4sSkFhv9pDIB5SjT7) | 2:00 |
+| 53 | [CORAZÓN CALIENTE, Pt.2](https://open.spotify.com/track/5v8gSBZHcuowBqrq9TrWQs) | [TERRA](https://open.spotify.com/artist/2ZO4ka6Jjy4hukXzifTEmA), [Cimarrón](https://open.spotify.com/artist/55RsSMUUEc7iMzXQcRSHnI) | [HEROÍNA LATINA II](https://open.spotify.com/album/2rPQI7VE4MlV1ieLig5JUu) | 2:26 |
 | 54 | [CREMA \- Ice Burz Remix](https://open.spotify.com/track/6Ln6sq8t3yoetTNeVNZBsS) | [baby cashy](https://open.spotify.com/artist/0brMkFToopZg9JuMOhGeYR), [Ice Burz](https://open.spotify.com/artist/6SsObOdnJiemnnXen3whsm) | [CREMA \(Ice Burz Remix\)](https://open.spotify.com/album/07h1cXSpgELXBD8aYrjl9F) | 1:48 |
 | 55 | [No Vaya a la Fiesta](https://open.spotify.com/track/7dmHWIrEt8fshzuCVcTEi7) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [No Vaya a la Fiesta](https://open.spotify.com/album/35Dw7nFmy4Ss47WznyOHWL) | 2:49 |
 | 56 | [Puta](https://open.spotify.com/track/1Ckm84P3YA0OHp4fgOrGDQ) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Puta](https://open.spotify.com/album/3OgATgCeOhZICDDVyX1cLK) | 2:03 |
 | 57 | [ya fue](https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [ya fue](https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR) | 3:22 |
-| 58 | [Ficción](https://open.spotify.com/track/0oKxlcsVtxwNl7SNKQ8MDH) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 4:06 |
-| 59 | [Sirviendo](https://open.spotify.com/track/23ots7LHKlxar4csIjEeNy) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Sirviendo](https://open.spotify.com/album/4f2fxSEPnxFcbIIgUVKkfT) | 2:45 |
-| 60 | [Te Gusta lo Mío](https://open.spotify.com/track/63xOm2OcMeu1l0CyWJc1Nu) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [Te Gusta lo Mío](https://open.spotify.com/album/6QFFWWqcEsgplGK2aEu1Xm) | 2:43 |
+| 58 | [Te Gusta lo Mío](https://open.spotify.com/track/63xOm2OcMeu1l0CyWJc1Nu) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [Te Gusta lo Mío](https://open.spotify.com/album/6QFFWWqcEsgplGK2aEu1Xm) | 2:43 |
+| 59 | [Ficción](https://open.spotify.com/track/0oKxlcsVtxwNl7SNKQ8MDH) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 4:06 |
+| 60 | [Sirviendo](https://open.spotify.com/track/23ots7LHKlxar4csIjEeNy) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Sirviendo](https://open.spotify.com/album/4f2fxSEPnxFcbIIgUVKkfT) | 2:45 |
 | 61 | [Condena](https://open.spotify.com/track/02NtOIiNaOxvZEMsv0bm3g) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Http](https://open.spotify.com/artist/5RYwJweQOBFMR2sQZmN4WW) | [Condena](https://open.spotify.com/album/32wxeMJVIzkuOJ8aOW3HIo) | 2:34 |
 | 62 | [Distraída](https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Distraída](https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ) | 2:42 |
 

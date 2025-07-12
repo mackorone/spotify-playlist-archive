@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "i saw the light in you",
+        "url": "https://open.spotify.com/album/49guzay3mMBMJt9fZSks2p"
+      },
+      "artists": [
+        {
+          "name": "Sweet Boy",
+          "url": "https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161702,
+      "name": "i saw the light in you",
+      "url": "https://open.spotify.com/track/6TlW6jA0vV2PgDVesXqdrd"
+    },
+    {
+      "album": {
         "name": "i still think about you",
         "url": "https://open.spotify.com/album/4hZmFxYP6Av5sAHrSuEwF3"
       },

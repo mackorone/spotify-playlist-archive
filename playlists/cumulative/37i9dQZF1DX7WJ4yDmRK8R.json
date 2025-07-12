@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the best of ska, new and classic. Cover: Tokyo Ska Paradise Orchestra ",
+  "description": "This is the best of ska, new and classic. Araceli Julio FOR EVER! Viva el Ska Latino! Viva Sat\u00e9lite Kingston!",
   "name": "The Essential Ska",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 221887,
       "name": "Al Final - The Romaphonic Session",
       "url": "https://open.spotify.com/track/15b5DnRHBUjq8gHaKvWGd4"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 254720,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 209594,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri"
@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "La \u00daltima Carta",
+      "url": "https://open.spotify.com/track/2A66FBk36QAMcOychXojNS"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/5ubvjtSzbJwZ4mv46SrIed"
       },
@@ -2576,7 +2594,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 213754,
       "name": "LONELY BOY",
       "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
@@ -3478,6 +3496,24 @@
       "duration_ms": 148936,
       "name": "Parallelograms",
       "url": "https://open.spotify.com/track/7bi2zhU91Ln6ZfLsHAR3Tb"
+    },
+    {
+      "album": {
+        "name": "Algo Tiene Que Pasar",
+        "url": "https://open.spotify.com/album/1DnsTcyBOm6D5inOroI1Yd"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Pens\u00e1ndolo Bien",
+      "url": "https://open.spotify.com/track/43ujqpuF6Z8ryGKz4slZVd"
     },
     {
       "album": {
@@ -4945,6 +4981,28 @@
     },
     {
       "album": {
+        "name": "The Slash",
+        "url": "https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr"
+      },
+      "artists": [
+        {
+          "name": "Aurelio Voltaire",
+          "url": "https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241185,
+      "name": "The Slash",
+      "url": "https://open.spotify.com/track/5G5s543gsx1B4bqo85vn0n"
+    },
+    {
+      "album": {
         "name": "Nice Things",
         "url": "https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T"
       },
@@ -5400,7 +5458,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 214000,
       "name": "University",
       "url": "https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl"

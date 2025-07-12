@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.\n",
-  "num_followers": 7413,
+  "num_followers": 11033,
   "original_name": "Editors' Picks: Best Songs of the Year So Far",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
+        "name": "BOTH WAYS",
+        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "WHIM WHAMIEE (feat. YKNIECE)",
+      "url": "https://open.spotify.com/track/177s589pGfNvcIX07n2Ecl"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
         "name": "PAPOTA",
         "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 157937,
       "name": "IMPOSTOR",
       "url": "https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
-        "name": "BOTH WAYS",
-        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "YKNIECE",
-          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "WHIM WHAMIEE (feat. YKNIECE)",
-      "url": "https://open.spotify.com/track/177s589pGfNvcIX07n2Ecl"
     },
     {
       "added_at": "2025-06-30 01:25:23",

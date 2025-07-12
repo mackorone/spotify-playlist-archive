@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Chinna, Cheema Y,  Harkirat Sangha and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,904 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,982 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 17 | [King](https://open.spotify.com/track/3DCpJ4ItY62i4UoNcpAsko) | [Vicky Dhillon](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Sukh Bohanwala](https://open.spotify.com/artist/2tVAyhV9tSFiSgYOBxnUhL), [Acid](https://open.spotify.com/artist/1xEOhnps7IjqOQwOzk3qKB) | [Scars To Stars](https://open.spotify.com/album/2GHkgfjjrUM9X2du12hC8x) | 2:36 |
 | 18 | [Defender](https://open.spotify.com/track/437V4XGufH1ihlR6RpBlCY) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Inderbir Sidhu](https://open.spotify.com/artist/13OwxGA9oZ2lfD0okFH46g), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Defender](https://open.spotify.com/album/2t7GYKilGPmRbCfwYrZGxS) | 3:10 |
 | 19 | [HIGH EARNINGS](https://open.spotify.com/track/7o3bBa578WzjQJXJ4bpDDt) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [4 Shots](https://open.spotify.com/album/4vnsOWih1SSzGA2V4t7F2m) | 3:02 |
-| 20 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Jagdeep Sangala](https://open.spotify.com/artist/11yV8UErIJ7UgqtNmUBJB8), [Mann](https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
+| 20 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Jagdeep Sangala](https://open.spotify.com/artist/11yV8UErIJ7UgqtNmUBJB8), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
 | 21 | [President](https://open.spotify.com/track/1DfnN5DuxC927Gwh6W3Ob1) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [The College Dropout](https://open.spotify.com/album/06um4lMf63KYf6nj8p4MO8) | 1:51 |
 | 22 | [Fumble](https://open.spotify.com/track/2WHxYYgqy4kqiOstQaEiOP) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Hukam](https://open.spotify.com/artist/1V6b071RjchShsUMJP0hB3) | [Fumble](https://open.spotify.com/album/2Wa2KTVyuTqEBazhjqVuEP) | 2:31 |
 | 23 | [Take Notes](https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:36 |

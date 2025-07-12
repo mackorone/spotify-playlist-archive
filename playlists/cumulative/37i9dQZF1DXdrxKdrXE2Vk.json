@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. Cover: Sons of Sunday",
+  "description": "Experience the best of live worship here. Cover: JWLKRS Worship",
   "name": "Best of Live Worship",
   "tracks": [
     {
@@ -228,6 +228,24 @@
       "duration_ms": 234874,
       "name": "Age To Age",
       "url": "https://open.spotify.com/track/4hz9JIeosKjU79sR9M8Xsh"
+    },
+    {
+      "album": {
+        "name": "Build An Altar (Live)",
+        "url": "https://open.spotify.com/album/0vX9hjLUGsl2ujFycJTYyn"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278685,
+      "name": "Alabaster Jar - Live",
+      "url": "https://open.spotify.com/track/6CKLTrkkWN5Qd4zYS9vjZ7"
     },
     {
       "album": {
@@ -870,7 +888,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 410331,
       "name": "Because He Lives - Live",
       "url": "https://open.spotify.com/track/7AIpmKaaF4UUjJNOTFGyXM"
@@ -3338,7 +3356,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 300138,
       "name": "Here Is Our Hallelujah - Live",
       "url": "https://open.spotify.com/track/6oSxwAZN0ce6iDYI891eL7"
@@ -3648,7 +3666,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 449891,
       "name": "Holy Spirit Come - Live",
       "url": "https://open.spotify.com/track/2TesdD6dq76FpAAN5qv2kf"
@@ -4256,6 +4274,32 @@
       "duration_ms": 324000,
       "name": "In The Hands Of Christ My King - Edit",
       "url": "https://open.spotify.com/track/2TJ4z4dZh9vGzOwngU5EPE"
+    },
+    {
+      "album": {
+        "name": "In The Name of Jesus (Jesus Is The Way Spontaneous) (feat. Chandler Moore)",
+        "url": "https://open.spotify.com/album/7K5CbMLVRJt4WLMEKxVBcd"
+      },
+      "artists": [
+        {
+          "name": "JWLKRS Worship",
+          "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455400,
+      "name": "In The Name of Jesus (Jesus Is The Way Spontaneous) (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/7fkWuneCeC7VIcjXsLjF5r"
     },
     {
       "album": {
@@ -5684,7 +5728,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 287658,
       "name": "My Father\u2019s House - Live",
       "url": "https://open.spotify.com/track/5LIJPxsVeoHI7xOoZQvfZe"
@@ -6368,7 +6412,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 625955,
       "name": "Open (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
@@ -8165,6 +8209,28 @@
     },
     {
       "album": {
+        "name": "The Perfect Love of Jesus (Live)",
+        "url": "https://open.spotify.com/album/0t6mPMKBtiYM0BRfYW0TIM"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473198,
+      "name": "The Perfect Love of Jesus - Live",
+      "url": "https://open.spotify.com/track/5R7MwLBKlUPzRptEuQFY1I"
+    },
+    {
+      "album": {
         "name": "The Praise Is Yours (Live)",
         "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
@@ -9275,6 +9341,32 @@
     },
     {
       "album": {
+        "name": "Worship You Forever (Live)",
+        "url": "https://open.spotify.com/album/69kq9MBksNnBiXZjozRvbz"
+      },
+      "artists": [
+        {
+          "name": "Gas Street Music",
+          "url": "https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG"
+        },
+        {
+          "name": "Taku Mudere",
+          "url": "https://open.spotify.com/artist/0vwGmATjvSL1WFEFBOxBxP"
+        },
+        {
+          "name": "Liv Glenny",
+          "url": "https://open.spotify.com/artist/2SKJKPnvWGBcgvD36Dyp48"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495224,
+      "name": "Worship You Forever - Live",
+      "url": "https://open.spotify.com/track/73UurtEXXHMNMcmrFjy1QI"
+    },
+    {
+      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/7CI1fzZMwZuP1MKqyGYPBU"
       },
@@ -9550,6 +9642,28 @@
       "duration_ms": 390373,
       "name": "You Are - Live",
       "url": "https://open.spotify.com/track/0BnK6oUXeOo8f7bP8mY6oP"
+    },
+    {
+      "album": {
+        "name": "You Came (Lazarus) [Live]",
+        "url": "https://open.spotify.com/album/1RmXKqaj24Nznnu6IRhSdk"
+      },
+      "artists": [
+        {
+          "name": "Damascus Worship",
+          "url": "https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI"
+        },
+        {
+          "name": "Olivia Parker",
+          "url": "https://open.spotify.com/artist/1pz9COAroxf4sIonu7T1XV"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306710,
+      "name": "You Came (Lazarus) - Live",
+      "url": "https://open.spotify.com/track/2yhTgPuKglbiDrAWZJj0mi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Parque Simón Bolívar, Marzo 27, 28, 29 y 30\. Foto: Olivia Rodrigo
 
-325 songs - 19 hr 30 min
+326 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 | 2025-03-28 |  |
 | [Desire](https://open.spotify.com/track/5SqRowxFjgPMvGMPzJAGw6) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Jardín Phantom](https://open.spotify.com/album/2pd1kVBQvwAecDy4Glqwkr) | 2:46 | 2025-03-28 |  |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2023-03-01 | 2024-02-22 |
-| [Después de la Tormenta \- Deluxe Version](https://open.spotify.com/track/7LXYHeqNNeLfJkn4B2Y6QY) | [Ángel Dumile](https://open.spotify.com/artist/4ZzO86sXj3tDSszrlCdL9o), [Sa!koro](https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa), [juanflac](https://open.spotify.com/artist/5Ip2SwSRZrCIVbU4kyonZ1) | [Evangelion \(Deluxe Version\)](https://open.spotify.com/album/0zdDf2k6EMHsH1Rt1XCapl) | 2:35 | 2025-03-28 |  |
+| [Después de la Tormenta \- Deluxe Version](https://open.spotify.com/track/7LXYHeqNNeLfJkn4B2Y6QY) | [Ángel Dumile](https://open.spotify.com/artist/4ZzO86sXj3tDSszrlCdL9o), [Sa!koro](https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa), [juanflac](https://open.spotify.com/artist/5Ip2SwSRZrCIVbU4kyonZ1) | [Evangelion \(Deluxe Version\)](https://open.spotify.com/album/0zdDf2k6EMHsH1Rt1XCapl) | 2:35 | 2025-03-28 | 2025-07-12 |
 | [Destiny](https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 4:53 | 2023-03-01 | 2024-02-22 |
 | [DESTRAVE](https://open.spotify.com/track/3PhgDLklX4M2mDeWOOqPzZ) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [DESTRAVE](https://open.spotify.com/album/6KcEdAl4mKTEYxCijrKPuL) | 2:17 | 2023-03-01 | 2024-02-22 |
 | [Die For You \- Zedd Remix](https://open.spotify.com/track/4iwzQQ0Y8c7kM3wmgAVCrq) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Die For You \(Zedd Remix\)](https://open.spotify.com/album/7JFN9X5gWCHhgfUJwJmlmt) | 2:41 | 2025-03-28 |  |
@@ -199,6 +199,7 @@
 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 | 2025-03-28 |  |
 | [My Love \(feat\. T.I.\)](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 4:36 | 2025-03-28 |  |
 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 | 2023-03-01 | 2024-02-22 |
+| [Natural Gas \- Deluxe Version](https://open.spotify.com/track/6P9wQdTdUPtO6wcJZr6BI2) | [Ángel Dumile](https://open.spotify.com/artist/4ZzO86sXj3tDSszrlCdL9o), [bodybagdiego](https://open.spotify.com/artist/7BBzrzwoCpfIIKQysYHg4y), [juanflac](https://open.spotify.com/artist/5Ip2SwSRZrCIVbU4kyonZ1) | [Evangelion \(Deluxe Version\)](https://open.spotify.com/album/0zdDf2k6EMHsH1Rt1XCapl) | 1:36 | 2025-03-28 |  |
 | [Nena](https://open.spotify.com/track/60b8tQWerjRSSDk6CvyNNj) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ), [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [No Es Tan Simple](https://open.spotify.com/album/7AOTGfAah3ni08RZbNcBP8) | 4:00 | 2024-02-21 | 2025-03-29 |
 | [NIDI](https://open.spotify.com/track/1P2HKI4FQmVe2ieEmhnWMk) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [Muchachito Roto](https://open.spotify.com/album/59EbB1Kyy8ThhlY9QJFPev) | 3:20 | 2024-02-21 | 2025-03-29 |
 | [Niebla, Fuego y Silencio](https://open.spotify.com/track/35bzG35qBX0VpLqF9EkJgT) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Niebla, Fuego y Silencio](https://open.spotify.com/album/6Gq3Sq4opb9J8ziRx6hqWn) | 4:19 | 2023-03-01 | 2024-02-22 |

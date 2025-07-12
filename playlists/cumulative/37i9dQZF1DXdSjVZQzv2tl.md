@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Ana Castela
 
-322 songs - 15 hr 7 min
+323 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Ciumentalmente \- Ao Vivo](https://open.spotify.com/track/3TjIlPeN80uNPLe42XaiGa) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Resolve Seus B.O \(Ao Vivo\)](https://open.spotify.com/album/6h5XIRAL67YuON2bQ7iYi0) | 2:16 | 2024-04-05 | 2024-10-04 |
 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \(Ao Vivo\)](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 | 2024-08-30 | 2025-06-07 |
 | [Como Um Beijo](https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8) | [Como Um Beijo](https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4) | 3:25 | 2024-06-07 | 2024-07-06 |
-| [Copo Americano \- Ao Vivo](https://open.spotify.com/track/0XOpqlDxoxTSXaYkCVvC4d) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Copo Americano \(Ao Vivo\)](https://open.spotify.com/album/3BYZ59rzRqGbaAcnJsVLPC) | 2:23 | 2025-01-31 |  |
+| [Copo Americano \- Ao Vivo](https://open.spotify.com/track/0XOpqlDxoxTSXaYkCVvC4d) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Copo Americano \(Ao Vivo\)](https://open.spotify.com/album/3BYZ59rzRqGbaAcnJsVLPC) | 2:23 | 2025-01-31 | 2025-07-12 |
 | [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 3:29 | 2022-08-12 | 2022-11-19 |
 | [Coração de Isca](https://open.spotify.com/track/2Nlf97QqqcZ2x9Qb4h1Qt2) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Último Beijo](https://open.spotify.com/album/4dI1v0jzbH7DsaxcfhEYpf) | 2:27 | 2021-12-31 | 2022-03-26 |
 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 | 2021-12-31 | 2022-03-05 |
@@ -311,6 +311,7 @@
 | [Um Mês E Pouco \- Ao Vivo](https://open.spotify.com/track/3PqU6gHWUaBTtIZi5oxEJ7) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:51 | 2023-06-30 | 2024-05-25 |
 | [UM PALMO \- Ao Vivo](https://open.spotify.com/track/2M2eRVCQbC3rHFSm9oT3YD) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [UM PALMO \(Ao Vivo\)](https://open.spotify.com/album/3RhkeMBMeTY5PPy0MwTnAf) | 2:18 | 2025-01-17 | 2025-03-15 |
 | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ) | 3:38 | 2021-12-31 | 2022-03-24 |
+| [Vacilona \- Ao Vivo](https://open.spotify.com/track/0EfOfW72dE43humkvijiYq) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Vacilona \(Ao Vivo\)](https://open.spotify.com/album/5ZzS1sHF60IsFGFcEsTD51) | 2:16 | 2025-07-11 |  |
 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 | 2021-12-31 | 2022-04-09 |
 | [Vagabundo Chora \- Ao Vivo](https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vagabundo Chora \(Ao Vivo\)](https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk) | 2:41 | 2022-02-18 | 2023-06-10 |
 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão EP 01 \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm) | 2:20 | 2024-10-04 |  |

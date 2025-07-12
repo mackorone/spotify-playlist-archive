@@ -2,9 +2,9 @@
 
 ### [New Music Friday NL](https://open.spotify.com/playlist/37i9dQZF1DXb5BKLTO7ULa)
 
-> Nieuwe muziek: AFROJACK, David Guetta & Martin Garrix, Burna Boy, Olivia Dean en meer
+> Nieuwe muziek: AFROJACK, Justin Bieber, Burna Boy, Olivia Dean en meer
 
-11,783 songs - 25 day 15 hr 28 min
+11,785 songs - 25 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2213,6 +2213,7 @@
 | [Dagoose](https://open.spotify.com/track/4JWpDtSsSgzMtEzUjzaqbO) | [Broken Brass](https://open.spotify.com/artist/7Ky58iVg3Ek77CZB0yYoSt) | [Dancing Critters](https://open.spotify.com/album/2ZhwFls3ePzgx5Ha4nnd8R) | 3:29 | 2025-04-10 | 2025-04-18 |
 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-19 | 2024-07-27 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-07-12 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
 | [Dakkie Open](https://open.spotify.com/track/0AdtOEkY2yw0r4dU5nasSd) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Dakkie Open](https://open.spotify.com/album/4fdBY1p8awy4SvM1O9pbtB) | 3:14 | 2023-08-31 | 2023-09-08 |
 | [Dale Mambo](https://open.spotify.com/track/6BNGj62ODkdNWxjg95koAf) | [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh), [Jones Suave](https://open.spotify.com/artist/0lui1pVpLAap3nxrMXmFwo) | [Dale Mambo](https://open.spotify.com/album/0Foj37xQp5g60jeiZ0cXo0) | 2:53 | 2025-05-22 | 2025-05-30 |
 | [DALIA](https://open.spotify.com/track/1cvaWa3yUprEFJE7LHSwYs) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/3R2jNXD3phm411Luzlz1DJ) | 3:32 | 2024-01-11 | 2024-01-19 |
@@ -5429,6 +5430,7 @@
 | [JUJU \(with Smur Lee & Shallipopi\)](https://open.spotify.com/track/4OnCrs3h948Ee4yLLTcaRx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:37 | 2025-04-03 | 2025-04-11 |
 | [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 | 2023-12-01 | 2023-12-09 |
 | [Jumanji](https://open.spotify.com/track/0eXooFEiS5060vL0fbNjGi) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Foxii](https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv) | [Jumanji](https://open.spotify.com/album/2s2lyCzwBXOiGFkrmzHbmP) | 2:33 | 2025-02-06 | 2025-02-14 |
+| [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2025-07-11 |  |
 | [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 | 2025-03-13 | 2025-03-21 |
 | [Jump](https://open.spotify.com/track/5xbDu8CkhxVqCH1bwAu5nk) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Jump](https://open.spotify.com/album/5IdAx6YL1PaXE2oCe8N8lO) | 3:24 | 2023-03-24 | 2023-03-31 |
 | [Jump In The Water](https://open.spotify.com/track/1SMJ52lQhmDNt8GD9W2NNG) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Jump In The Water](https://open.spotify.com/album/65ek4Ypw59nCVOyTjIaSP3) | 3:56 | 2023-06-15 | 2023-06-23 |
@@ -10272,7 +10274,7 @@
 | [Time Flies](https://open.spotify.com/track/3NpDqNtIREopwkx09dIYEp) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Time Flies](https://open.spotify.com/album/1aNGbWueLOW3SHTM5Z49j9) | 3:33 | 2025-03-20 | 2025-03-28 |
 | [Time For Change](https://open.spotify.com/track/466syx0prC2aa1NQ0XQV39) | [JOHAN](https://open.spotify.com/artist/0RBuJpjFEGVDZ7CWq3UcdQ) | [Time For Change](https://open.spotify.com/album/5DNpJ2GsNJOs2RWypomsLz) | 3:40 | 2024-01-04 | 2024-01-12 |
 | [Time for Love](https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [Time for Love](https://open.spotify.com/album/5la69AsSpd40RNEmgojJ3p) | 3:41 | 2023-04-20 | 2023-04-28 |
-| [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:17 | 2025-07-10 |  |
+| [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:18 | 2025-07-10 |  |
 | [Time Looks Good On You](https://open.spotify.com/track/4w4nHAj28NFRuCGkw6dJ1J) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Time Looks Good On You](https://open.spotify.com/album/14l2wSAtCrRbB92pO48J98) | 2:49 | 2023-04-27 | 2023-05-05 |
 | [Time Machine](https://open.spotify.com/track/4JvPyKngvZgNFuGuICk4RD) | [Klyne](https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7) | [Castles](https://open.spotify.com/album/0kFCAtu30EAk2FjkUHE7kY) | 2:19 | 2025-06-06 | 2025-06-13 |
 | [Time Of Your Life \(feat\. The Game\)](https://open.spotify.com/track/4Dcc5CltqV7Y98Ez2Sgikl) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Time Of Your Life \(feat\. The Game\)](https://open.spotify.com/album/3ypfnonWGugNoaySzQ5mJs) | 2:50 | 2023-07-27 | 2023-08-04 |

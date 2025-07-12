@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: E.V.P
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,892 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,890 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 17 | [KAMASHIKATA](https://open.spotify.com/track/1X6KaVJHXKiAVlsfzIJgFx) | [Y1ee Coyote](https://open.spotify.com/artist/5VOVkqbK1WHNI58t4sVNFH) | [KAMASHIKATA](https://open.spotify.com/album/7kKqQwYg18wDzGGTOZDfys) | 2:12 |
 | 18 | [NONE](https://open.spotify.com/track/033XLUF0JKchTq8esT2clY) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [NONE](https://open.spotify.com/album/7t7jVf67S6dFMvqPBpc9kX) | 3:36 |
 | 19 | [Landscape](https://open.spotify.com/track/1fueh4THH0z9BP757rWmeI) | [interplay](https://open.spotify.com/artist/3aqzl6USx71Kd6SxlOsNz0) | [Landscape](https://open.spotify.com/album/4iknMMIeNLt87crIZIaB46) | 3:27 |
-| 20 | [After the Rain](https://open.spotify.com/track/2AkSZpZuUrFngA5S9rowa2) | [JINJI](https://open.spotify.com/artist/6YhoQYTlRcp1IwOexIPG5Z), [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60) | [After the Rain](https://open.spotify.com/album/1IvpUsRk3riRtfJA3ADFjx) | 2:24 |
+| 20 | [After the Rain](https://open.spotify.com/track/2AkSZpZuUrFngA5S9rowa2) | [JINJI](https://open.spotify.com/artist/1l2nBYk7oC3GoCcnKj78Mw), [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60) | [After the Rain](https://open.spotify.com/album/1IvpUsRk3riRtfJA3ADFjx) | 2:24 |
 | 21 | [Diamond & Pearl](https://open.spotify.com/track/1AbK30qwkWpYCGp4TPTxtS) | [Yan Reo](https://open.spotify.com/artist/1GsogabTGRXGrW7PNXGJrx), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Diamond & Pearl](https://open.spotify.com/album/3Ta6xKt0bzsi2nV4YvjfhH) | 1:59 |
 | 22 | [akumaka tenshi](https://open.spotify.com/track/3ksjgZVQA4L80jA68BcCyI) | [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c) | [FAR EASTERN BAT 1.5](https://open.spotify.com/album/206YYUOxvQAAUwZo2TvQo6) | 2:27 |
 | 23 | [$$$](https://open.spotify.com/track/48vj4qmnSRXTGc5OcfTnLe) | [SEIJU](https://open.spotify.com/artist/3SsUvY5AjXGvBiGe1JulyK), [Adem](https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b) | [$$$](https://open.spotify.com/album/0FfnOQdY4N0hRLIbOjKi4w) | 3:06 |

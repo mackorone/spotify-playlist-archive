@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Lord Huron",
+  "description": "Explore all things indie rock right now. Featuring music from Jay Som",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -2236,10 +2236,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 242480,
       "name": "As Two People Drift Apart",
       "url": "https://open.spotify.com/track/56BnRYMVVAKtvkIZIQbfCq"
+    },
+    {
+      "album": {
+        "name": "The Yips",
+        "url": "https://open.spotify.com/album/6sWgSbyVRgGCdRM2dQtut6"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Ask Someone Else",
+      "url": "https://open.spotify.com/track/1aBYi3eh45AFdGtlnSLvGc"
     },
     {
       "album": {
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 144918,
       "name": "Bitch Heart",
       "url": "https://open.spotify.com/track/1CU65NgKvZxUagOiq5m3fd"
@@ -5878,7 +5896,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 207813,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/6xErF43Ru9Y0r21iHWaj0J"
@@ -6040,7 +6058,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 491696,
       "name": "CCF (I'm Gonna Stay With You)",
       "url": "https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ"
@@ -6282,7 +6300,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 188417,
       "name": "Chapel of Salt",
       "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
@@ -6570,7 +6588,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 232866,
       "name": "Clean Heart",
       "url": "https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS"
@@ -8314,7 +8332,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 233496,
       "name": "Dead Beat City",
       "url": "https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb"
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 233500,
       "name": "Eat Quiche, Sleep, Repeat",
       "url": "https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj"
@@ -11734,6 +11752,28 @@
       "duration_ms": 188898,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT"
+    },
+    {
+      "album": {
+        "name": "Float / A Million Reasons Why",
+        "url": "https://open.spotify.com/album/6YbYRwtycQYZIDYEd6nV45"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        },
+        {
+          "name": "Jim Adkins",
+          "url": "https://open.spotify.com/artist/0Zh8szcqjar4shjPoWJHTc"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207568,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/6ynbkLsqAK1SslGNE2ql1l"
     },
     {
       "album": {
@@ -17546,7 +17586,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 193182,
       "name": "Just Around the Corner",
       "url": "https://open.spotify.com/track/5Mxmje3T8MAEGBnIEl0k1b"
@@ -18202,7 +18242,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 318949,
       "name": "Lead Up",
       "url": "https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg"
@@ -19044,7 +19084,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 235015,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q"
@@ -19983,6 +20023,24 @@
     },
     {
       "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "album": {
         "name": "Manipulator",
         "url": "https://open.spotify.com/album/1A681Tjkt5UucbyHeLoFIO"
       },
@@ -20762,7 +20820,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 182616,
       "name": "million times",
       "url": "https://open.spotify.com/track/14ecReKKTaW1TTTwm2wq00"
@@ -21238,7 +21296,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 274609,
       "name": "Moonglade",
       "url": "https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a"
@@ -30251,6 +30309,24 @@
     },
     {
       "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -34211,6 +34287,24 @@
     },
     {
       "album": {
+        "name": "The Pit (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187731,
+      "name": "What's In My Head",
+      "url": "https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW"
+    },
+    {
+      "album": {
         "name": "What's the Rush",
         "url": "https://open.spotify.com/album/71fQg0YnqJhqMSTnMHrV1u"
       },
@@ -35290,7 +35384,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 310266,
       "name": "Year of the Snake",
       "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
@@ -35344,7 +35438,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 182133,
       "name": "Yellowish Sunbeam",
       "url": "https://open.spotify.com/track/4NH8w4K6EBhXPwwmaACILV"

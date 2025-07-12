@@ -4,13 +4,13 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : TKS 2G
 
-617 songs - 1 day 2 hr 56 min
+617 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Ofcourse](https://open.spotify.com/track/0Drfj8Up1EMkQIK216sL1a) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [\#Ofcourse](https://open.spotify.com/album/2CRRoL9ytm1OHo886HJLPj) | 3:19 | 2024-04-25 | 2024-05-24 |
 | [10 / 10](https://open.spotify.com/track/2YB3aHdfTB6SZpYp1iBCfI) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [10 / 10](https://open.spotify.com/album/4YUT7LYDMFCxtE9v1q93EQ) | 2:53 | 2021-12-22 | 2022-03-18 |
-| [4 SAISONS](https://open.spotify.com/track/56BVEDrRj3aEuSPY38lMLQ) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Lifestyle Melody](https://open.spotify.com/album/6dengxjbXezqaCBi8imQCY) | 2:11 | 2025-07-10 |  |
+| [4 SAISONS](https://open.spotify.com/track/56BVEDrRj3aEuSPY38lMLQ) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Lifestyle Melody](https://open.spotify.com/album/6dengxjbXezqaCBi8imQCY) | 2:12 | 2025-07-10 |  |
 | [420](https://open.spotify.com/track/19KLlE2v5E4AMvushL8EHf) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Team DAMP](https://open.spotify.com/artist/3SPO1zOMgh106pZzibM1sP) | [420](https://open.spotify.com/album/3R502v16PmUz1mXEjEsKch) | 2:53 | 2024-04-18 | 2024-05-10 |
 | [4X4](https://open.spotify.com/track/3pPaDgIy9dLxmxcMEhKQNG) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [4X4](https://open.spotify.com/album/74yYmSPOHl96Wt9ygsVbB8) | 2:54 | 2025-05-01 | 2025-05-23 |
 | [6ex In The Morning](https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:40 | 2022-11-17 | 2023-01-06 |

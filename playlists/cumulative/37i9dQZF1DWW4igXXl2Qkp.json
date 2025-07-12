@@ -1868,7 +1868,7 @@
       },
       "artists": [
         {
-          "name": "quinn",
+          "name": "osquinn",
           "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 131990,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/1dIMTeqm90ngA8YIgiYaQ1"
@@ -15751,6 +15751,28 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/0DPVHxNMS2ey3Eno7qMd4h"
+      },
+      "artists": [
+        {
+          "name": "DEMIYAA",
+          "url": "https://open.spotify.com/artist/2VFnxZPBUoglahI0kc6dvc"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173635,
+      "name": "Ik I Look Good (feat. Anycia)",
+      "url": "https://open.spotify.com/track/3lug6FkOt0yrBTV4D7Nc7I"
+    },
+    {
+      "album": {
         "name": "ILBB2",
         "url": "https://open.spotify.com/album/52i6crTmc33EctIHuDPKif"
       },
@@ -19446,6 +19468,28 @@
       "duration_ms": 182805,
       "name": "Mad Again",
       "url": "https://open.spotify.com/track/1cNFwJ8hvTCz4k2BJCDyBW"
+    },
+    {
+      "album": {
+        "name": "MAD MAX",
+        "url": "https://open.spotify.com/album/14AwR3P4psPdlKNg3CXXBu"
+      },
+      "artists": [
+        {
+          "name": "Dane Simon",
+          "url": "https://open.spotify.com/artist/3FT57ALouwzL91GJN4ZmL3"
+        },
+        {
+          "name": "Jonah Raine",
+          "url": "https://open.spotify.com/artist/22keuHocrrms6xy0poTKCC"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185946,
+      "name": "MAD MAX",
+      "url": "https://open.spotify.com/track/5PnsNsaEFRcEAFxbYi1FkG"
     },
     {
       "album": {
@@ -25590,7 +25634,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 269024,
       "name": "Pookie Lean",
       "url": "https://open.spotify.com/track/2kIU0TblZjK5HtCaqjxD6d"

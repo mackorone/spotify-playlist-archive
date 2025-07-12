@@ -1,44 +1,28 @@
 {
-  "description": "New music from your favorite women.  Cover: AKIA",
-  "num_followers": 224117,
+  "description": "New music from your favorite women.  Cover: Girlfriend",
+  "num_followers": 224123,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XcwAAAADK7Yw/5O8dvKNuJ+VAlmSx",
+  "snapshot_id": "aHDGfQAAAADrOBRZBmpV7yGyB41cQcW5",
   "tracks": [
     {
-      "added_at": "2025-06-27 04:00:50",
+      "added_at": "2025-06-20 04:00:55",
       "album": {
-        "name": "DUMBCRAZY",
-        "url": "https://open.spotify.com/album/0EVrJ2VEFhjMeuYa0UC7LW"
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo"
       },
       "artists": [
         {
-          "name": "AKIA",
-          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
         }
       ],
-      "duration_ms": 146086,
-      "name": "Back In Bed",
-      "url": "https://open.spotify.com/track/46nmFflkXHOsvROPEMsxGr"
-    },
-    {
-      "added_at": "2025-06-27 04:00:50",
-      "album": {
-        "name": "Bed of Roses",
-        "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 149503,
-      "name": "Bed of Roses",
-      "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
+      "duration_ms": 160476,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -57,6 +41,58 @@
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
+      "added_at": "2025-07-11 08:08:29",
+      "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 172081,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
+    },
+    {
+      "added_at": "2025-07-11 08:08:29",
+      "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+    },
+    {
+      "added_at": "2025-07-11 08:08:29",
+      "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
+    {
       "added_at": "2025-06-20 04:00:55",
       "album": {
         "name": "Why Not More?",
@@ -71,6 +107,54 @@
       "duration_ms": 267833,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx"
+    },
+    {
+      "added_at": "2025-07-11 08:08:29",
+      "album": {
+        "name": "Sweet Serotonin",
+        "url": "https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 181310,
+      "name": "Sweet Serotonin",
+      "url": "https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa"
+    },
+    {
+      "added_at": "2025-06-27 04:00:50",
+      "album": {
+        "name": "Bed of Roses",
+        "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 149503,
+      "name": "Bed of Roses",
+      "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
+    },
+    {
+      "added_at": "2025-06-27 04:00:50",
+      "album": {
+        "name": "DUMBCRAZY",
+        "url": "https://open.spotify.com/album/0EVrJ2VEFhjMeuYa0UC7LW"
+      },
+      "artists": [
+        {
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Back In Bed",
+      "url": "https://open.spotify.com/track/46nmFflkXHOsvROPEMsxGr"
     },
     {
       "added_at": "2025-06-27 04:00:50",
@@ -133,20 +217,20 @@
       "url": "https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ"
     },
     {
-      "added_at": "2025-06-27 04:00:50",
+      "added_at": "2025-07-11 08:08:29",
       "album": {
-        "name": "10AM",
-        "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
+        "name": "It's Me, Not You",
+        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
         }
       ],
-      "duration_ms": 216223,
-      "name": "10AM",
-      "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
+      "duration_ms": 248045,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/36UBEKa5kVWmWW7JxDmyvm"
     },
     {
       "added_at": "2025-05-16 14:39:08",
@@ -199,18 +283,54 @@
     {
       "added_at": "2025-06-20 04:00:55",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+        "name": "WHEN",
+        "url": "https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+      "duration_ms": 153962,
+      "name": "Mic On",
+      "url": "https://open.spotify.com/track/5XLm5kdumFNGnnXgkFsSJ2"
+    },
+    {
+      "added_at": "2025-07-11 08:08:29",
+      "album": {
+        "name": "Instructions",
+        "url": "https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 136159,
+      "name": "Instructions",
+      "url": "https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E"
+    },
+    {
+      "added_at": "2025-07-11 08:08:29",
+      "album": {
+        "name": "9PM IN PARIS",
+        "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "duration_ms": 159322,
+      "name": "Touch me (feat. Ya Levis)",
+      "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -283,42 +403,6 @@
     {
       "added_at": "2025-06-27 04:00:50",
       "album": {
-        "name": "Stare at Me",
-        "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
-      },
-      "artists": [
-        {
-          "name": "JANE HANDCOCK",
-          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 235658,
-      "name": "Stare at Me",
-      "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
-        "name": "WHEN",
-        "url": "https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Mic On",
-      "url": "https://open.spotify.com/track/5XLm5kdumFNGnnXgkFsSJ2"
-    },
-    {
-      "added_at": "2025-06-27 04:00:50",
-      "album": {
         "name": "FEEL SOMETHING",
         "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
       },
@@ -351,6 +435,38 @@
       "duration_ms": 245951,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
+    },
+    {
+      "added_at": "2025-07-11 08:08:29",
+      "album": {
+        "name": "FLUX",
+        "url": "https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 125893,
+      "name": "Phuckups (Hold Me)",
+      "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:50",
+      "album": {
+        "name": "10AM",
+        "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 216223,
+      "name": "10AM",
+      "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -491,22 +607,6 @@
     {
       "added_at": "2025-06-20 04:00:55",
       "album": {
-        "name": "Materialists (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/20fuKKdQbvoDR93W19PtYf"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 206961,
-      "name": "That\u2019s All",
-      "url": "https://open.spotify.com/track/6c0z37TaF7YLmdLhMNFLbe"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
         "name": "JOURNEY",
         "url": "https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC"
       },
@@ -555,22 +655,6 @@
       "duration_ms": 221953,
       "name": "Soar",
       "url": "https://open.spotify.com/track/70TG24YZzgb1fmoot4XlI4"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 160476,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -639,22 +723,6 @@
     {
       "added_at": "2025-06-20 04:00:55",
       "album": {
-        "name": "means to an end.",
-        "url": "https://open.spotify.com/album/7jIVgHnUYr3UF9ldAS8wKb"
-      },
-      "artists": [
-        {
-          "name": "Malaya",
-          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
-        }
-      ],
-      "duration_ms": 112944,
-      "name": "means to an end.",
-      "url": "https://open.spotify.com/track/1NclHHaX9gt09ifwgEQEXJ"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
         "name": "Crossfaded",
         "url": "https://open.spotify.com/album/3oTgCAHMTZs9Nu298dAj8S"
       },
@@ -683,6 +751,22 @@
       "duration_ms": 211865,
       "name": "In My Skin",
       "url": "https://open.spotify.com/track/2yhA25f6B1mh8YD1LcMMf5"
+    },
+    {
+      "added_at": "2025-06-20 04:00:55",
+      "album": {
+        "name": "Deus Deus",
+        "url": "https://open.spotify.com/album/24nI20pGu764BE49WzxMqn"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 243232,
+      "name": "Deus Deus",
+      "url": "https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -803,26 +887,6 @@
     {
       "added_at": "2025-06-20 04:00:55",
       "album": {
-        "name": "FREEDOM (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 160455,
-      "name": "FREEDOM (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
         "name": "Hope You Understand Me",
         "url": "https://open.spotify.com/album/40BuVcBOhEeXmyJpR3LtIF"
       },
@@ -855,22 +919,6 @@
     {
       "added_at": "2025-06-20 04:00:55",
       "album": {
-        "name": "Deus Deus",
-        "url": "https://open.spotify.com/album/24nI20pGu764BE49WzxMqn"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 243232,
-      "name": "Deus Deus",
-      "url": "https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -883,22 +931,6 @@
       "duration_ms": 273132,
       "name": "More Than Twice",
       "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
-    },
-    {
-      "added_at": "2025-06-20 04:00:55",
-      "album": {
-        "name": "Luvhiii",
-        "url": "https://open.spotify.com/album/7Kz00oH0yPQZ4IlYaBH3te"
-      },
-      "artists": [
-        {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
-        }
-      ],
-      "duration_ms": 183908,
-      "name": "Luvhiii",
-      "url": "https://open.spotify.com/track/1eR3CaVELn0OBPQnUTAS99"
     }
   ],
   "unique_name": "Queen",

@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/6prn7C5RFk0pBbwW8DyY3C"
+      },
+      "artists": [
+        {
+          "name": "Sam Vazquez",
+          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161868,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/6H48kSzWqhaZvpjLvGSIiu"
+    },
+    {
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 203906,
       "name": "Astros",
       "url": "https://open.spotify.com/track/0EHjeBjck1oNsCoKixkTlt"
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 149304,
       "name": "Ciudad de M\u00e9xico",
       "url": "https://open.spotify.com/track/23XJDQ3BhNMJZA3vl0PHNz"
@@ -7583,6 +7601,24 @@
     },
     {
       "album": {
+        "name": "Mulan",
+        "url": "https://open.spotify.com/album/2w6ztvZf7vg4rxQGuNZh0u"
+      },
+      "artists": [
+        {
+          "name": "KOK\u00d4 CEC\u00ca",
+          "url": "https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256334,
+      "name": "Mulan",
+      "url": "https://open.spotify.com/track/7gM9Qnr6tz7gWNJ40euegS"
+    },
+    {
+      "album": {
         "name": "Mundo Fungi",
         "url": "https://open.spotify.com/album/1eIZG284wSaIwlIdeEpQhA"
       },
@@ -9511,6 +9547,24 @@
     },
     {
       "album": {
+        "name": "q nos paso?",
+        "url": "https://open.spotify.com/album/5n3UDZmF1jRhaB6TCin8KX"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "q nos paso?",
+      "url": "https://open.spotify.com/track/78yE1Acti9tNW62p43H7fY"
+    },
+    {
+      "album": {
         "name": "QTVB",
         "url": "https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a"
       },
@@ -11055,6 +11109,28 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1os rotos",
+        "url": "https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI"
+      },
+      "artists": [
+        {
+          "name": "RAMSI",
+          "url": "https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK"
+        },
+        {
+          "name": "ni\u00f1o viejo",
+          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159795,
+      "name": "Suenos Rotos",
+      "url": "https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1o",
         "url": "https://open.spotify.com/album/28odkuShEsUNTXuoC5psDo"
       },
@@ -11844,7 +11920,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 162081,
       "name": "Todo y Nada",
       "url": "https://open.spotify.com/track/1MYDZMlIwAUrHpvOX7vgsd"
@@ -13086,7 +13162,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 165925,
       "name": "Yo Nunca Fui Tu Flaco",
       "url": "https://open.spotify.com/track/4NQCngk0WSnf47q5Ql3sAX"

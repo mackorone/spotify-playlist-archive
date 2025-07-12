@@ -6381,6 +6381,24 @@
     },
     {
       "album": {
+        "name": "cabrio",
+        "url": "https://open.spotify.com/album/4jwKIStmHaZboAhagSGaDc"
+      },
+      "artists": [
+        {
+          "name": "Visino Bianco",
+          "url": "https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "cabrio",
+      "url": "https://open.spotify.com/track/5SYtim5w78OnsGy1YKH8vr"
+    },
+    {
+      "album": {
         "name": "CACAZZA",
         "url": "https://open.spotify.com/album/4TYCYKy7CnBhdt4lIwDdBy"
       },

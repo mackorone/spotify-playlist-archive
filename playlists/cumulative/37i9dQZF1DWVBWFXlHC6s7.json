@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Boogie Brasil",
+        "url": "https://open.spotify.com/album/4pluecQjfURMeDXDgi3xjT"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177315,
+      "name": "Boogie Brasil",
+      "url": "https://open.spotify.com/track/2Kt6AV8QR7dsn9fdZukoxr"
+    },
+    {
+      "album": {
         "name": "Maria Fuma\u00e7a (Remasterizado)",
         "url": "https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG"
       },
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 197013,
       "name": "Sucesso Sexual",
       "url": "https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ"

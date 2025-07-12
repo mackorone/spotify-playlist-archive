@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Rafa G& Vado Más Ki Ás entram na zona.
+> Rafa G, Vado Más Ki Ás & Timor YSF entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,152 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,187 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Teu Mundo](https://open.spotify.com/track/4b95PHdxgzYNQkTgDWRK7D) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [Teu Mundo](https://open.spotify.com/album/3pfAqq5SBurNsS0VbFblQb) | 3:09 |
 | 70 | [Olhar de Diamante](https://open.spotify.com/track/2RISeRJA1kUbEeRzYUrI5U) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Caco Por Dentro](https://open.spotify.com/album/5QvEQeoK5ZEZ4NurnFbt19) | 2:22 |
 
-Snapshot ID: `aHBF+gAAAACVQifVX/uExWO7Vp3yETY4`
+Snapshot ID: `aHDSWAAAAABLPZHBchzYDyMU62qIthB0`

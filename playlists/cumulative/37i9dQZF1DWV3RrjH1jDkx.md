@@ -2,9 +2,9 @@
 
 ### [New Music Friday Norway](https://open.spotify.com/playlist/37i9dQZF1DWV3RrjH1jDkx)
 
-> Ny musikk fra Sigrid, Victoria Nadine, Anna of the North og mange flere!🎵
+> Endelig fredag!🎵
 
-6,512 songs - 13 day 23 hr 24 min
+6,516 songs - 13 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,6 +1142,7 @@
 | [Could You Imagine?](https://open.spotify.com/track/4kOcbXyQipN80BAvraTBTh) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Mood Booster](https://open.spotify.com/album/4ypqq6QKzSCFLxu1Wnab7A) | 3:37 | 2024-08-01 | 2024-08-09 |
 | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ) | 2:25 | 2024-05-09 | 2024-05-17 |
 | [Count On My Love](https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Daniel Wilson](https://open.spotify.com/artist/0LHsUOtcrTFzM7YJ7HoZUv), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Count On My Love](https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs) | 5:56 | 2024-06-13 | 2024-06-21 |
+| [Counting Candles](https://open.spotify.com/track/7otmtaq5GIEvaMUxDIwR9K) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Counting Candles](https://open.spotify.com/album/66S6SJA4svHbAALcaayedK) | 3:22 | 2025-07-11 |  |
 | [Country legends](https://open.spotify.com/track/3xgpOEZ4KdlSsErrJ83n1q) | [Henry Boots](https://open.spotify.com/artist/1DiPACEqG7MkVB8ja8W0qR) | [Country legends](https://open.spotify.com/album/6V1vX42KZCGJe8PE5NtKlW) | 3:11 | 2025-04-17 | 2025-04-25 |
 | [Countryfestival](https://open.spotify.com/track/1LWFAtPQOa2YSglIgseDxg) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Countryfestival](https://open.spotify.com/album/7xiXiEw6ApsURjf2mAHMrw) | 4:01 | 2025-06-19 | 2025-06-27 |
 | [COUTURE](https://open.spotify.com/track/55U1NwmDzrJcRhoiQYj1Ca) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [COUTURE](https://open.spotify.com/album/3UkaTpmazdfhV7a8NjWn07) | 2:59 | 2025-02-06 | 2025-02-14 |
@@ -1199,6 +1200,7 @@
 | [Daggers](https://open.spotify.com/track/0vyOox9JgtqHMYqmTofFgx) | [Lemi](https://open.spotify.com/artist/6z7Xu7QkD7cqJ8brVwtb1c) | [Daggers](https://open.spotify.com/album/7cDgFT6OBIEmCKgKqjSNlp) | 2:39 | 2025-03-07 | 2025-03-14 |
 | [DAHMER 2026](https://open.spotify.com/track/3uzhnuuKaiQkbzC11pl4Es) | [Lille Saus](https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0), [Proto](https://open.spotify.com/artist/3Qo0rzR5mSyn9eQyWUqwfH), [Herr Grann](https://open.spotify.com/artist/1XDfZitzqQHwkhJsUYb9MP) | [DAHMER 2026](https://open.spotify.com/album/0CEz3PqpHo06KZ38uwZmhl) | 2:44 | 2024-11-14 | 2024-11-22 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-07-12 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
 | [Dalarna](https://open.spotify.com/track/5tY9A3fWz0p3Y0RylWZSCE) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [Dalarna](https://open.spotify.com/album/4y4SxMpyV8X7nQmVyVNMzS) | 2:14 | 2024-05-23 | 2024-06-01 |
 | [Dali](https://open.spotify.com/track/6I4bQGctGMBlbVl5XQld7Y) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Dali](https://open.spotify.com/album/4bgbvsSoJR3A8YNobJqEV8) | 2:13 | 2025-04-24 | 2025-05-02 |
 | [Dama di](https://open.spotify.com/track/60vTaqiPSBNhSc5ESURZwq) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky) | [Her og Nå](https://open.spotify.com/album/0EUSpnMQiM9kF8AL5Lxy9j) | 3:11 | 2025-02-06 | 2025-02-14 |
@@ -3178,6 +3180,7 @@
 | [Juletrerov](https://open.spotify.com/track/0WS55ig672IWFr5OsyBJ5A) | [Staut](https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P) | [Juletrerov](https://open.spotify.com/album/76mJ4fSZGyYa0GP3JcwEVz) | 5:27 | 2024-11-14 | 2024-11-22 |
 | [Juli](https://open.spotify.com/track/2bFeVr8AgoDLo9D9dPCCp6) | [EMÍL](https://open.spotify.com/artist/1unKeYt2c6KgL0MQEOxuom) | [Juli](https://open.spotify.com/album/066iORNXCsMlQ25fYZS5F7) | 2:16 | 2024-06-27 | 2024-07-05 |
 | [Julisol](https://open.spotify.com/track/1uPzHzJQ9Ct7IX4rLlmIeW) | [INGEBORG](https://open.spotify.com/artist/6EIfyNW2D4d6sOLWqFpxE0) | [Julisol](https://open.spotify.com/album/2StaV8p17trQ8isiAOhWQd) | 2:48 | 2025-07-10 |  |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-11 |  |
 | [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 | 2025-03-13 | 2025-03-21 |
 | [Jump In The Ride](https://open.spotify.com/track/6yT0MPnwIpdCTe6UeaRSxz) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Jump In The Ride](https://open.spotify.com/album/7FBYSUIq54IzZF1puJpjw1) | 3:50 | 2024-10-31 | 2024-11-08 |
 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 | 2024-09-26 | 2024-10-04 |
@@ -5765,6 +5768,7 @@
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-17 | 2024-10-25 |
 | [Think Of Me](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Think Of Me](https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH) | 2:50 | 2025-05-01 | 2025-05-09 |
 | [Thinking About](https://open.spotify.com/track/4iRrxvOMyxohtr6lHi3iIC) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Thinking About](https://open.spotify.com/album/0NSrTnbJD6zooobjncEonX) | 3:56 | 2025-05-29 | 2025-06-06 |
+| [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 | 2025-07-11 |  |
 | [This Is Love](https://open.spotify.com/track/0COWLxxADg1zozNPm0WPy6) | [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde) | [This Is Love](https://open.spotify.com/album/54OvJUAZmznw49fwqsICNL) | 2:43 | 2025-07-03 | 2025-07-11 |
 | [This Is The Kaizer Family!](https://open.spotify.com/track/6pT8UmnFFBTnW3qZxDC5Tp) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [This Is The Kaizer Family!](https://open.spotify.com/album/0QMNJgTjx6etPeSzFU58mk) | 4:46 | 2024-10-10 | 2024-10-18 |
 | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/album/4pKUbAVt6sF3cqjc3nM8Gp) | 3:28 | 2024-06-27 | 2024-07-05 |

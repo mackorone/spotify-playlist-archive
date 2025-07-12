@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "Lizzo's got that big energy. ",
+  "description": "Rochelle Jordan's got that big energy. ",
   "name": "Bounce",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 215459,
       "name": "ALIEN SUPERSTAR",
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
+    },
+    {
+      "album": {
+        "name": "House of LION BABE (Deluxe)",
+        "url": "https://open.spotify.com/album/7mpy8j9XiGZILJ4VCWSrPQ"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "Alignment",
+      "url": "https://open.spotify.com/track/1bJevbgUI8LfV0TnuGGWQk"
     },
     {
       "album": {
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 206360,
       "name": "Crave",
       "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
@@ -3514,7 +3532,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 161563,
       "name": "Freekish",
       "url": "https://open.spotify.com/track/62UwqCyhu8Hnf68xTGnDBG"
@@ -7991,6 +8009,28 @@
     },
     {
       "album": {
+        "name": "Repare",
+        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202245,
+      "name": "Repare",
+      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
+    },
+    {
+      "album": {
         "name": "REVIVAL",
         "url": "https://open.spotify.com/album/3jmh03udiBqXtV9CfhoSSd"
       },
@@ -9937,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235026,
+      "name": "Through The Wall",
+      "url": "https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO"
+    },
+    {
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/01prUxpvHyLvBO8qhMnaou"
       },
@@ -11310,7 +11368,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 232804,
       "name": "Young Rich & In Love - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"

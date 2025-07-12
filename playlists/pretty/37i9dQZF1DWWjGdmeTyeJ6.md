@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: Double Virgo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,009 likes - 250 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,017 likes - 250 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

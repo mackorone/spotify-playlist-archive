@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Adventure Club, Flight School &amp; Reve.
 
-243 songs - 12 hr 49 min
+245 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Right Now](https://open.spotify.com/track/5A6THhEv9lW5UrRH5hTwxZ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/5Qr1d04bprXY3KwqQddj1p) | 3:11 | 2023-12-08 | 2023-12-16 |
 | [Right Now Feat\. Parson James](https://open.spotify.com/track/3y4pboOTQUlgaTMI13nUyb) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Right Now \(with Parson James\)](https://open.spotify.com/album/35Ckf7m3jdVIbLdz15DOuw) | 2:52 | 2023-12-15 | 2024-07-13 |
 | [Ring \(feat\. Ketty Perry\)](https://open.spotify.com/track/0OjqYDzRNTjomeKgeHj5qT) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP), [Ketty Perry](https://open.spotify.com/artist/5keJKClEeVlLsueWlr6tmw) | [Ring \(feat\. Ketty Perry\)](https://open.spotify.com/album/2iFQyncZJyBLfYfBEDIQGO) | 3:17 | 2024-11-15 |  |
+| [Riptide \(feat\. Ilan Kidron\)](https://open.spotify.com/track/3zAQQXsqLkD7ji4pQzKD0v) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Ilan Kidron](https://open.spotify.com/artist/2h4XAkDeP79wkwWE4eXzTT) | [Riptide \(feat\. Ilan Kidron\)](https://open.spotify.com/album/7rbmeEbejlnvBxsGq3PcCE) | 2:18 | 2025-07-11 |  |
 | [Save Me \(feat\. Justin Jesso\)](https://open.spotify.com/track/0pHNp6UD9iImHrwCjrv3sT) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Save Me \(feat\. Justin Jesso\)](https://open.spotify.com/album/2gKYtPqTbomUPD3VmIZRFM) | 2:26 | 2024-11-15 |  |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-12-08 | 2024-03-16 |
 | [Saving Up \- Loods Remix](https://open.spotify.com/track/16BIjTqG2R5PV2BrMOjU3y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Saving Up \(Loods Remix\)](https://open.spotify.com/album/4dQRmXBtksya2s35MxRxNF) | 3:30 | 2023-12-08 | 2024-06-15 |
@@ -241,6 +242,7 @@
 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 | 2023-12-08 | 2024-02-03 |
 | [When You're Lonely](https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [When You're Lonely](https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW) | 2:39 | 2023-12-08 | 2024-01-20 |
 | [WHISTLE](https://open.spotify.com/track/2g0lcbepYzcfts6khNOUpL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [WHISTLE](https://open.spotify.com/album/76oXPkkbhtHmG0UkuZZqDW) | 2:11 | 2025-01-17 |  |
+| [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 | 2025-07-11 |  |
 | [Will You Be There](https://open.spotify.com/track/2A2gax6c7FmxhERVEDipsY) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Will You Be There](https://open.spotify.com/album/0FsRj2MTn1gMsqUmSwN7x5) | 2:51 | 2024-08-16 | 2025-03-01 |
 | [Willing To Let You Go \(feat\. Anella Herim & Abby Anderson\)](https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Diplo Presents Thomas Wesley: The Mixtape](https://open.spotify.com/album/2YEVAviqPGlcnc2ruyXcPE) | 3:12 | 2024-04-26 | 2024-12-04 |
 | [With You](https://open.spotify.com/track/4WBPFtI9ZNTlLZRXTVySJb) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [With You](https://open.spotify.com/album/3j8YtwuhvmzlKPNIxH9dsU) | 2:24 | 2024-12-06 |  |

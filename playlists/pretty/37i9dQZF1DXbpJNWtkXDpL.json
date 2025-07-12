@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Doony Graff ",
-  "num_followers": 91464,
+  "num_followers": 91478,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "FLOR marchita",
+        "url": "https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9rida",
+          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
+        }
+      ],
+      "duration_ms": 209473,
+      "name": "FLOR marchita",
+      "url": "https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "All I See",
         "url": "https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 189024,
       "name": "All I See",
       "url": "https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "FLOR marchita",
-        "url": "https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9rida",
-          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
-        }
-      ],
-      "duration_ms": 209473,
-      "name": "FLOR marchita",
-      "url": "https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "todo sali\u00f3 mal",
+        "url": "https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR"
+      },
+      "artists": [
+        {
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "todo sali\u00f3 mal",
+      "url": "https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "veranito2k",
         "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
       },
@@ -703,30 +719,6 @@
       "duration_ms": 160800,
       "name": "veranito2k",
       "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "Tu Consentido",
-        "url": "https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J"
-      },
-      "artists": [
-        {
-          "name": "Dimelow Pro",
-          "url": "https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m"
-        },
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        },
-        {
-          "name": "Ibarra",
-          "url": "https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Tu Consentido",
-      "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -751,18 +743,26 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "todo sali\u00f3 mal",
-        "url": "https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR"
+        "name": "Tu Consentido",
+        "url": "https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J"
       },
       "artists": [
         {
-          "name": "The Space Ocean",
-          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+          "name": "Dimelow Pro",
+          "url": "https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m"
+        },
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        },
+        {
+          "name": "Ibarra",
+          "url": "https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY"
         }
       ],
-      "duration_ms": 167293,
-      "name": "todo sali\u00f3 mal",
-      "url": "https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS"
+      "duration_ms": 190515,
+      "name": "Tu Consentido",
+      "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
-      },
-      "artists": [
-        {
-          "name": "La Texana",
-          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "De Tepito Pa'La Calle",
         "url": "https://open.spotify.com/album/0BxPmyGd6fUA6vzg4NnQoX"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 146400,
       "name": "TOMI",
       "url": "https://open.spotify.com/track/5HGLJDt8i6tlNbSxgyo84p"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "Voz en el Mar",
+        "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
+      },
+      "artists": [
+        {
+          "name": "Ele Suarez",
+          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
+        }
+      ],
+      "duration_ms": 194694,
+      "name": "Voz en el Mar",
+      "url": "https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "DAYDRMN / MOTION",
         "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 139500,
       "name": "DAYDRMN",
       "url": "https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "Voz en el Mar",
-        "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
-      },
-      "artists": [
-        {
-          "name": "Ele Suarez",
-          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
-        }
-      ],
-      "duration_ms": 194694,
-      "name": "Voz en el Mar",
-      "url": "https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "KAWAGHI freestyle",
+        "url": "https://open.spotify.com/album/4cPlU6ILcL747MyOlXvOXm"
+      },
+      "artists": [
+        {
+          "name": "Mikeanyway",
+          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        }
+      ],
+      "duration_ms": 98400,
+      "name": "KAWAGHI freestyle",
+      "url": "https://open.spotify.com/track/1a0VN10KkRNWFlgZ9cQ7Ys"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "PECAR O MORIR",
         "url": "https://open.spotify.com/album/2ygx4LSExZk8R0fLHyHdXk"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 304109,
       "name": "PECAR O MORIR",
       "url": "https://open.spotify.com/track/3IszEykw0GCI400DKnNiLU"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "KAWAGHI freestyle",
-        "url": "https://open.spotify.com/album/4cPlU6ILcL747MyOlXvOXm"
-      },
-      "artists": [
-        {
-          "name": "Mikeanyway",
-          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
-        },
-        {
-          "name": "Tzunami",
-          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
-        }
-      ],
-      "duration_ms": 98400,
-      "name": "KAWAGHI freestyle",
-      "url": "https://open.spotify.com/track/1a0VN10KkRNWFlgZ9cQ7Ys"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "desintoxicar",
+        "url": "https://open.spotify.com/album/3yegZNxgoCqKNeuTG8j3nk"
+      },
+      "artists": [
+        {
+          "name": "Montecarlo",
+          "url": "https://open.spotify.com/artist/0cVSnXQu9AcTb6JvsgkbI0"
+        },
+        {
+          "name": "INTTI FR",
+          "url": "https://open.spotify.com/artist/1eMe5uZzCa1kpBVdTn7mRB"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "desintoxicar",
+      "url": "https://open.spotify.com/track/3PjgeNbJtNnbfTgNNwN4PG"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "Demasiado Tarde",
         "url": "https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 152097,
       "name": "Vecinos",
       "url": "https://open.spotify.com/track/7zFT9RAdZE4ZG5EPttrm3A"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "desintoxicar",
-        "url": "https://open.spotify.com/album/3yegZNxgoCqKNeuTG8j3nk"
-      },
-      "artists": [
-        {
-          "name": "Montecarlo",
-          "url": "https://open.spotify.com/artist/0cVSnXQu9AcTb6JvsgkbI0"
-        },
-        {
-          "name": "INTTI FR",
-          "url": "https://open.spotify.com/artist/1eMe5uZzCa1kpBVdTn7mRB"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "desintoxicar",
-      "url": "https://open.spotify.com/track/3PjgeNbJtNnbfTgNNwN4PG"
     },
     {
       "added_at": "2025-06-27 06:00:26",

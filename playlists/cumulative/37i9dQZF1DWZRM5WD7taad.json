@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 189045,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv"
@@ -5136,7 +5136,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 310115,
       "name": "Nosotras",
       "url": "https://open.spotify.com/track/5MwNADUq1AXBoJ2b4ytwir"
@@ -5818,6 +5818,36 @@
       "duration_ms": 144997,
       "name": "RACE",
       "url": "https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP"
+    },
+    {
+      "album": {
+        "name": "Africa Express Presents... Bahidor\u00e1",
+        "url": "https://open.spotify.com/album/3KMZGvFIB8djCFognOb1Op"
+      },
+      "artists": [
+        {
+          "name": "Africa Express",
+          "url": "https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm"
+        },
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        },
+        {
+          "name": "Mare Advertencia",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        },
+        {
+          "name": "Seye Adelekan",
+          "url": "https://open.spotify.com/artist/3Xr80iKgYbhiiA5XuJPeK5"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Raise a Glass - feat. Django Django, Mare Advertencia & Seye Adelekan",
+      "url": "https://open.spotify.com/track/5BkmEjkwTAiNYL5QQezy4v"
     },
     {
       "album": {

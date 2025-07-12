@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
+    },
+    {
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
@@ -2007,6 +2025,28 @@
     },
     {
       "album": {
+        "name": "frozen memories",
+        "url": "https://open.spotify.com/album/7aeXiCWP8i2eYXT9Qe0Mhz"
+      },
+      "artists": [
+        {
+          "name": "lost.exe",
+          "url": "https://open.spotify.com/artist/3VGpmkObquEyGMlfYtyMsf"
+        },
+        {
+          "name": "Luke Muzzic",
+          "url": "https://open.spotify.com/artist/2P4sIQzRSbTjwWLApeXamY"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111147,
+      "name": "frozen memories",
+      "url": "https://open.spotify.com/track/5zEiNEPDP8OEnQZ9y3kuab"
+    },
+    {
+      "album": {
         "name": "downpour",
         "url": "https://open.spotify.com/album/10rELaMTzCjp7h1n4qFG6O"
       },
@@ -2984,6 +3024,24 @@
       "duration_ms": 98322,
       "name": "loyalty",
       "url": "https://open.spotify.com/track/1OYrYL2SxZGTG566YtEDCz"
+    },
+    {
+      "album": {
+        "name": "Luster(Ambient)",
+        "url": "https://open.spotify.com/album/3yC30xgXS2hBTp0REgLdlC"
+      },
+      "artists": [
+        {
+          "name": "Inner Science",
+          "url": "https://open.spotify.com/artist/3h2z9q9RhVXgX2c7QAZdO5"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1661311,
+      "name": "Luster(Ambient)",
+      "url": "https://open.spotify.com/track/70QHTYPSRhJ6k2kmMuGniB"
     },
     {
       "album": {

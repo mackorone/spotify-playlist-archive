@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-367 songs - 18 hr 45 min
+368 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Fly](https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 4:06 | 2022-06-23 | 2024-04-19 |
 | [Galatta \- From "Aavesham"](https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Galatta \(From "Aavesham"\)](https://open.spotify.com/album/4OqRjbYHNCSKXkh7wnvez8) | 2:10 | 2024-04-17 | 2025-03-27 |
 | [Gang](https://open.spotify.com/track/7J9oMy41nNhNxuEUDHaXxD) | [Slaya](https://open.spotify.com/artist/1gHrrXq8gRv3gBIxOgOdcD), [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Gang](https://open.spotify.com/album/6L6dOgEB7Q14QvYaPSZjSF) | 2:42 | 2025-06-23 |  |
-| [Gathi](https://open.spotify.com/track/4XStrxB7WfHlQAMSr0ZTDP) | [ARK Musical](https://open.spotify.com/artist/2lGT71dQWIXkQIviTTJ5Zd), [Zaamoodri](https://open.spotify.com/artist/0x0qCVNyVZdyNKpWLASN2o) | [Gathi](https://open.spotify.com/album/1SSjZQowSpWQ6RNJz6PYQa) | 2:31 | 2025-05-16 |  |
+| [Gathi](https://open.spotify.com/track/4XStrxB7WfHlQAMSr0ZTDP) | [ARK Musical](https://open.spotify.com/artist/2lGT71dQWIXkQIviTTJ5Zd), [Zaamoodri](https://open.spotify.com/artist/0x0qCVNyVZdyNKpWLASN2o) | [Gathi](https://open.spotify.com/album/1SSjZQowSpWQ6RNJz6PYQa) | 2:31 | 2025-05-16 | 2025-07-12 |
 | [God complex](https://open.spotify.com/track/10CKbT3G5G37oiHJh6cAPx) | [Khorri](https://open.spotify.com/artist/3iJGWYmXlIXt4YpZ6m3m1t), [JoozBoi](https://open.spotify.com/artist/5ItUqOqMzREwyVLXQfunk9) | [God complex](https://open.spotify.com/album/7aWlyMWtqdaHblPxKkxfm0) | 3:26 | 2025-04-11 | 2025-05-24 |
 | [Halakintae Ahankari](https://open.spotify.com/track/1mfJm0ryIDGZKaGgS2988K) | [BillaX](https://open.spotify.com/artist/4mboOfbwQYpKP7dSvOHRiA) | [Halakintae Ahankari](https://open.spotify.com/album/7N3gM7yk6gCn6qUTnbQBeK) | 2:28 | 2025-03-11 | 2025-04-17 |
 | [Haraamperapp](https://open.spotify.com/track/1Sv7DKIYP9CMtqgqIbTcEL) | [RMJ](https://open.spotify.com/artist/5WhTYRZ1BAzAaMdYBRPtEG) | [Haraamperapp](https://open.spotify.com/album/29ZHAH886wRC6pCReDO83T) | 2:31 | 2025-02-17 | 2025-04-05 |
@@ -306,6 +306,7 @@
 | [STHUTHI](https://open.spotify.com/track/1BHkgZdcmyTl6OeQwXPpKF) | [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl) | [STHUTHI](https://open.spotify.com/album/4COcsn1Hxace4Nw3E8qgRD) | 2:17 | 2025-05-09 | 2025-06-14 |
 | [Street Fight](https://open.spotify.com/track/1jY48EnxoV0IK0Y0Oj8TrJ) | [THE JGS](https://open.spotify.com/artist/1flgPX9tG9qslLNwlTXtiE), [FEBIN JACKSON](https://open.spotify.com/artist/1nHy258dDeQFCx5WwCMekU) | [Street Fight](https://open.spotify.com/album/6phUJtFIkQVKLFSnbxRy7h) | 2:31 | 2025-03-26 | 2025-05-17 |
 | [Sulaimani Armani](https://open.spotify.com/track/2cRWdN5z2oqyLURvzV7oiS) | [Hopsta](https://open.spotify.com/artist/0UPVJI8GPZfdxDjJWmqylG), [Dev\-G](https://open.spotify.com/artist/5wFKrwlnPl2lZupnO2oyWB) | [Sulaimani Armani](https://open.spotify.com/album/5wk3bzlAhRJo0N8dB9WfW1) | 3:31 | 2025-05-13 | 2025-06-24 |
+| [Sundara Lokam \- From "Not so Hiphop"](https://open.spotify.com/track/6omswR4MHXOzcF6mmKSPem) | [Rajat Prakash](https://open.spotify.com/artist/3Tju0d02eWwa4FDcqR643X), [Hatsmyth](https://open.spotify.com/artist/1TnWgtL7dTSCAsBpYvCzbQ) | [Sundara Lokam \(From "Not so Hiphop"\)](https://open.spotify.com/album/4jmK3sfAihkChR79LuXzBC) | 4:32 | 2025-07-11 |  |
 | [T SHIRT](https://open.spotify.com/track/0mxRgAGZjAgEtw4yvBnE9R) | [Fready](https://open.spotify.com/artist/5BKoMWBBfYOS05BIZV5jxp), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9) | [T SHIRT](https://open.spotify.com/album/3Ooo36cYxR20s6XarUS697) | 2:40 | 2025-03-11 | 2025-05-01 |
 | [Tapori](https://open.spotify.com/track/59f6jkhWKrOqIEeJ0vVMfV) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Tapori](https://open.spotify.com/album/2K0WzWYpRaw3bHUZwD5cZr) | 3:02 | 2025-01-09 | 2025-03-18 |
 | [Thaakeeth](https://open.spotify.com/track/1YCYnKT1R8SzaFIa7MB9gq) | [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Tholla](https://open.spotify.com/album/2ydeDhlQINZjlZKYE3pO3U) | 3:25 | 2025-01-09 | 2025-02-22 |

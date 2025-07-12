@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Zara Larsson is having a main pop girl emergency \ud83c\udd98 \n",
+  "description": "AD\u00c9LA is having a main pop girl emergency \ud83c\udd98 \n",
   "name": "OBSESSED",
   "tracks": [
     {
@@ -696,7 +696,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 180310,
       "name": "Aftersun",
       "url": "https://open.spotify.com/track/59uOpmo1HJq3yhcdxx1epC"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 155596,
       "name": "Animal",
       "url": "https://open.spotify.com/track/4ujhwNDDxyYWizFbWr3OgX"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 114000,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj"
@@ -3086,10 +3086,32 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 148619,
       "name": "BOY CRAZY.",
       "url": "https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n"
+    },
+    {
+      "album": {
+        "name": ". (...)",
+        "url": "https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "BOY CRAZY. (feat. JADE)",
+      "url": "https://open.spotify.com/track/39QvuWaRVyyLT9yQKn8Qy0"
     },
     {
       "album": {
@@ -4120,7 +4142,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 160942,
       "name": "CHOOSE UR FIGHTER (Emeline's Version)",
       "url": "https://open.spotify.com/track/2YYaIJSMt5qeWPgbPupOWS"
@@ -5279,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "DeathByDevotion",
+        "url": "https://open.spotify.com/album/3GukAKxHvoWMo1lbM9csAs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196646,
+      "name": "DeathByDevotion",
+      "url": "https://open.spotify.com/track/79oIHHPKpgAWMSxGZU0lQa"
+    },
+    {
+      "album": {
         "name": "DECLINED/BLUFFIN",
         "url": "https://open.spotify.com/album/2fAAtw2DJlLcSh0tgbjPQ6"
       },
@@ -5824,7 +5864,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 123559,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7BY3cDT9ARKMB7ECDhfKCj"
@@ -8630,7 +8670,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 236893,
       "name": "Girl Feels Good",
       "url": "https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV"
@@ -9470,7 +9510,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
@@ -10540,7 +10580,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 143797,
       "name": "HOT (English ver.) (feat. JADE)",
       "url": "https://open.spotify.com/track/6MZ8oSuvqMjnvCvwniPNPc"
@@ -10710,6 +10750,28 @@
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "album": {
+        "name": "Hotel Rock Bottom (Deluxe)",
+        "url": "https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu"
+      },
+      "artists": [
+        {
+          "name": "Frankie Grande",
+          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195705,
+      "name": "Hotel Rock Bottom (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW"
     },
     {
       "album": {
@@ -12582,6 +12644,24 @@
     {
       "album": {
         "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "album": {
+        "name": "JUMP",
         "url": "https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1"
       },
       "artists": [
@@ -12672,7 +12752,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 202901,
       "name": "Just Two",
       "url": "https://open.spotify.com/track/5v87abdR3eU3shVkq1agjK"
@@ -13038,6 +13118,24 @@
       "duration_ms": 234853,
       "name": "Kissing In the Cold",
       "url": "https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB"
+    },
+    {
+      "album": {
+        "name": "Kissing It",
+        "url": "https://open.spotify.com/album/1iNgXieGf8CeHRzrqSSO8K"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171057,
+      "name": "Kissing It",
+      "url": "https://open.spotify.com/track/3abL5Xh5bP0dz8RreFFsXJ"
     },
     {
       "album": {
@@ -13990,7 +14088,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 147248,
       "name": "Location",
       "url": "https://open.spotify.com/track/69NfFzYlQHz3VpjoCzzTsL"
@@ -14363,6 +14461,24 @@
     },
     {
       "album": {
+        "name": "Love Has Got Me Dancing",
+        "url": "https://open.spotify.com/album/5BgQeLaAXdTqkgeu07Ivzk"
+      },
+      "artists": [
+        {
+          "name": "Leslie Clio",
+          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Love Has Got Me Dancing",
+      "url": "https://open.spotify.com/track/6tWSQe7gclsQmA7H35HXDJ"
+    },
+    {
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T"
       },
@@ -14700,7 +14816,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 156440,
       "name": "MACHINE GIRL",
       "url": "https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO"
@@ -17961,6 +18077,24 @@
     },
     {
       "album": {
+        "name": "Malibu Drift",
+        "url": "https://open.spotify.com/album/7pwucSLMR3Er8o8b7NuOyx"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190926,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/5T1XbCkiQlobUQnmXTZ3q6"
+    },
+    {
+      "album": {
         "name": "PINK LIKE SUKI",
         "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
       },
@@ -20119,6 +20253,24 @@
     },
     {
       "album": {
+        "name": "Shook",
+        "url": "https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176357,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe"
+    },
+    {
+      "album": {
         "name": "shoreline",
         "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
       },
@@ -21077,6 +21229,28 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219749,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
+    },
+    {
+      "album": {
         "name": "Stars Are Blind (Paris' Version) [feat. Kim Petras]",
         "url": "https://open.spotify.com/album/5dEiXfnGyPT4FhM7eJ4I1H"
       },
@@ -21170,6 +21344,28 @@
       "duration_ms": 146007,
       "name": "Steady Pace",
       "url": "https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM"
+    },
+    {
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147451,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M"
     },
     {
       "album": {
@@ -21796,6 +21992,24 @@
       "duration_ms": 176098,
       "name": "SWEET (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
+    },
+    {
+      "album": {
+        "name": "Sweet Serotonin",
+        "url": "https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181310,
+      "name": "Sweet Serotonin",
+      "url": "https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa"
     },
     {
       "album": {
@@ -22898,6 +23112,24 @@
       "duration_ms": 190413,
       "name": "The Same Mistake",
       "url": "https://open.spotify.com/track/5hPecn0mRsCHWBfU1kWrji"
+    },
+    {
+      "album": {
+        "name": "The Shiver",
+        "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167677,
+      "name": "The Shiver",
+      "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
     },
     {
       "album": {
@@ -25350,6 +25582,24 @@
       "duration_ms": 178760,
       "name": "Worship You",
       "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/0xhEFd2ho7aRNpFN8X1mlS"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182154,
+      "name": "Worst Person In The World",
+      "url": "https://open.spotify.com/track/0TRDbUttY6W44UL9xwURPC"
     },
     {
       "album": {

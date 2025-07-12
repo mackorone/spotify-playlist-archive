@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Morgan Wallen & Tate McRae",
+  "description": "The home of Canadian country music. Cover: The Reklaws",
   "name": "North Country",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 168319,
       "name": "All Roads Lead To You",
       "url": "https://open.spotify.com/track/4WAjW3T2fTS4RjX8UHIjVS"
@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Bourbon",
+        "url": "https://open.spotify.com/album/2PPKl3Tl9e69ub8MJr0jjc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Griffiths",
+          "url": "https://open.spotify.com/artist/01rGBVJvFssZjs5soni9Cw"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223882,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/5c0ppzyyMEYFaYeGaR9qfU"
+    },
+    {
+      "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
       },
@@ -523,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Buckle Rubbin'",
+        "url": "https://open.spotify.com/album/3mK3F7kRefmg4EKuzVkcHK"
+      },
+      "artists": [
+        {
+          "name": "Dan Davidson",
+          "url": "https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Buckle Rubbin'",
+      "url": "https://open.spotify.com/track/1S8PIcSLRurRgtr8FWdL2O"
+    },
+    {
+      "album": {
         "name": "Burn the Boats",
         "url": "https://open.spotify.com/album/0b2pYSIafKMLboovEJ6dzt"
       },
@@ -534,7 +570,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 225764,
       "name": "Burn the Boats",
       "url": "https://open.spotify.com/track/2KrEkvgkkqQo0PapU8OCm9"
@@ -556,7 +592,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 210026,
       "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
@@ -866,7 +902,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 195026,
       "name": "Cowboys Were Kings",
       "url": "https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU"
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 161919,
       "name": "Easy Man",
       "url": "https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF"
@@ -1216,7 +1252,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 227170,
       "name": "Every Once In a While",
       "url": "https://open.spotify.com/track/43qxCAP9QX3HoCVxRPUZdC"
@@ -1278,7 +1314,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 187787,
       "name": "First Love",
       "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
@@ -1412,7 +1448,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 197907,
       "name": "Gettin' By",
       "url": "https://open.spotify.com/track/4RrNZfwHpJO5Stb1xAOnij"
@@ -1542,6 +1578,24 @@
       "duration_ms": 204704,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/6J4GbwXrFpvb7Dn7iBUwdq"
+    },
+    {
+      "album": {
+        "name": "Good To Drive",
+        "url": "https://open.spotify.com/album/1nuGJOj0oP74peYWg9Lk8X"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188891,
+      "name": "Good To Drive",
+      "url": "https://open.spotify.com/track/2ZfToR0LzuBGd59gdqdwYG"
     },
     {
       "album": {
@@ -1864,6 +1918,24 @@
       "duration_ms": 166673,
       "name": "High On You",
       "url": "https://open.spotify.com/track/3Sbf3VHkyZSTiHCZUhPHHY"
+    },
+    {
+      "album": {
+        "name": "Highway Money",
+        "url": "https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa"
+      },
+      "artists": [
+        {
+          "name": "Josh Stumpf",
+          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "Highway Money",
+      "url": "https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi"
     },
     {
       "album": {
@@ -2232,7 +2304,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 192883,
       "name": "I've Learned",
       "url": "https://open.spotify.com/track/0JpfPOgw7MU1io1tUpPXSF"
@@ -2254,6 +2326,24 @@
       "duration_ms": 171228,
       "name": "If I Drink Enough",
       "url": "https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm"
+    },
+    {
+      "album": {
+        "name": "If We Want To",
+        "url": "https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "If We Want To",
+      "url": "https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM"
     },
     {
       "album": {
@@ -2293,6 +2383,28 @@
     },
     {
       "album": {
+        "name": "It's All Coming Back To Me Now",
+        "url": "https://open.spotify.com/album/5y0YwazMDIbmdBTiTY2wgO"
+      },
+      "artists": [
+        {
+          "name": "Dan Young",
+          "url": "https://open.spotify.com/artist/4cEhqUT7opRvHQ87dHpqO9"
+        },
+        {
+          "name": "Brooklyn Blackmore",
+          "url": "https://open.spotify.com/artist/23JDhcj7ldZ2oaZviflnRw"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258251,
+      "name": "It's All Coming Back To Me Now",
+      "url": "https://open.spotify.com/track/1CCbjeTKdaVXr7EsDtvhfJ"
+    },
+    {
+      "album": {
         "name": "Jealous Of Jesus",
         "url": "https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj"
       },
@@ -2326,6 +2438,24 @@
       "duration_ms": 183926,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/38ShN5IsaQSmKTSbvij0Qg"
+    },
+    {
+      "album": {
+        "name": "This Ol' Way",
+        "url": "https://open.spotify.com/album/27cg3junq7poQIJoWeiSDu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229200,
+      "name": "Just The Same",
+      "url": "https://open.spotify.com/track/6PAkQjnygwuTV7iDmPtK82"
     },
     {
       "album": {
@@ -2412,7 +2542,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 186654,
       "name": "Leave the Tab Open",
       "url": "https://open.spotify.com/track/2magbsrEX1TSYoCTO1Zocl"
@@ -2622,7 +2752,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 167058,
       "name": "Love and Hate",
       "url": "https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37"
@@ -2684,6 +2814,24 @@
       "duration_ms": 180342,
       "name": "Lyin' To Me",
       "url": "https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt"
+    },
+    {
+      "album": {
+        "name": "magic",
+        "url": "https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv"
     },
     {
       "album": {
@@ -2916,7 +3064,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 221462,
       "name": "My Expense",
       "url": "https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i"
@@ -2988,7 +3136,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 149854,
       "name": "Never Drinking Again",
       "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"
@@ -3107,6 +3255,28 @@
     },
     {
       "album": {
+        "name": "Night Diving (feat. Cameron Whitcomb)",
+        "url": "https://open.spotify.com/album/53eOgC0QJEmQ7QoEFK37Pn"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214678,
+      "name": "Night Diving (feat. Cameron Whitcomb)",
+      "url": "https://open.spotify.com/track/4Qn5FKe3I2pNL64so6gvX3"
+    },
+    {
+      "album": {
         "name": "Nobody Dies Anymore",
         "url": "https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr"
       },
@@ -3176,6 +3346,24 @@
       "duration_ms": 166026,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/6Vecr80tnNQJmyoIMWkiCq"
+    },
+    {
+      "album": {
+        "name": "On Rolls the Wheel",
+        "url": "https://open.spotify.com/album/06yirzfYrQC1bQaicU9n7L"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232302,
+      "name": "On Rolls the Wheel",
+      "url": "https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv"
     },
     {
       "album": {
@@ -3356,7 +3544,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 266403,
       "name": "PICTURE [feat. Marie-Mai]",
       "url": "https://open.spotify.com/track/0wOZIDRrEEM2GCo1JN9gEH"
@@ -3623,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/4nGtXwoFXTdIJ73vySkkAR"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/0TYydMAKPBYjZB0jgGCN7h"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138994,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/3TSw1YzzkWSuHfgx0DY13g"
+    },
+    {
+      "album": {
         "name": "Ride It Out",
         "url": "https://open.spotify.com/album/0spG2WeYDG5WVPHhs8DF0K"
       },
@@ -3861,6 +4067,28 @@
     },
     {
       "album": {
+        "name": "Woman In The Mirror",
+        "url": "https://open.spotify.com/album/0A3QpA8kHi8QrInv4RYEPu"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        },
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185562,
+      "name": "Shooting Star (with Restless Road)",
+      "url": "https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI"
+    },
+    {
+      "album": {
         "name": "Shouldn't Drink No More",
         "url": "https://open.spotify.com/album/28oQSClPcThd1YJ7CgvNBB"
       },
@@ -3944,7 +4172,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 201415,
       "name": "Slow Go the Days",
       "url": "https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip"
@@ -4002,7 +4230,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 195959,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
@@ -4265,6 +4493,24 @@
     },
     {
       "album": {
+        "name": "Take The Money (Take Back My Last Name)",
+        "url": "https://open.spotify.com/album/2Smh3G8hjfnyBzsvZPVEZ1"
+      },
+      "artists": [
+        {
+          "name": "Nicole Sumerlyn",
+          "url": "https://open.spotify.com/artist/0LNuRsYq6ZR4MoxEA4gm5t"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Take The Money (Take Back My Last Name)",
+      "url": "https://open.spotify.com/track/43du1hSri3Sm9AIfloTGfz"
+    },
+    {
+      "album": {
         "name": "Takes Me Back",
         "url": "https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd"
       },
@@ -4294,7 +4540,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 166400,
       "name": "Tears That You'll Never Find",
       "url": "https://open.spotify.com/track/4yWUtE6IG23QQozUMqkUa2"
@@ -4330,7 +4576,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 184218,
       "name": "Tequila Knows Me",
       "url": "https://open.spotify.com/track/5j8IqsMA9wFn7zRuVfh22E"
@@ -4388,6 +4634,24 @@
       "duration_ms": 299596,
       "name": "The Call",
       "url": "https://open.spotify.com/track/2eyhcmJHSEbdakGBBDsiqE"
+    },
+    {
+      "album": {
+        "name": "the circus",
+        "url": "https://open.spotify.com/album/0rfVdoSRGxGwahF05E4XBX"
+      },
+      "artists": [
+        {
+          "name": "Mallory Johnson",
+          "url": "https://open.spotify.com/artist/56A5s2TH3rRBgnrts1YLy3"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "the circus",
+      "url": "https://open.spotify.com/track/44e7qHUBE9zvd2WYV6H6AX"
     },
     {
       "album": {
@@ -4536,6 +4800,24 @@
       "duration_ms": 170397,
       "name": "Til I Don't",
       "url": "https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD"
+    },
+    {
+      "album": {
+        "name": "Till I Get To Heaven",
+        "url": "https://open.spotify.com/album/0Nv8TTXDUNOLfWU5PzGx9L"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Till I Get To Heaven",
+      "url": "https://open.spotify.com/track/11keHpMPuloSDRF7iEAm8a"
     },
     {
       "album": {
@@ -4864,7 +5146,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 172823,
       "name": "Western Wind",
       "url": "https://open.spotify.com/track/5FuDbCYf4LAn3BjMMN85Y1"
@@ -4922,7 +5204,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
@@ -5081,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/1kxBDv8EZP84fpagF10KoW"
+      },
+      "artists": [
+        {
+          "name": "Brettyn Rose",
+          "url": "https://open.spotify.com/artist/6nWt7zuZMhRyN0ZTx47dVn"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211468,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/3ivvrPzqU2biwqkY8Tfgke"
+    },
+    {
+      "album": {
         "name": "Wish I Was",
         "url": "https://open.spotify.com/album/3pT6k4q90XQgDPJkZrbQZj"
       },
@@ -5128,7 +5428,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 179546,
       "name": "Woman In The Mirror",
       "url": "https://open.spotify.com/track/3wqgVvpgIt2bqlDP4T65kU"
@@ -5284,6 +5584,24 @@
       "duration_ms": 179626,
       "name": "You Fight Dirty",
       "url": "https://open.spotify.com/track/55YiHh9QWQKwF5OH0CLwBB"
+    },
+    {
+      "album": {
+        "name": "You Had To Be There",
+        "url": "https://open.spotify.com/album/0RyKfb0Ex8kCMgkL6cOzM8"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172907,
+      "name": "You Had To Be There",
+      "url": "https://open.spotify.com/track/14i984cKjuw6x5ubdfaHIu"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> Today's Hip\-Hop with JID, Drake, Offset, Cardi B, Central Cee and Lil Tecca.
+> Today's Hip\-Hop with Drake, JID, Offset, Smiley, Cardi B and Lil Wayne.
 
 1,366 songs - 2 day 19 hr 45 min
 

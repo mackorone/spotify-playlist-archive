@@ -800,7 +800,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 191907,
       "name": "2 Mazza (feat. Drake)",
       "url": "https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 182868,
       "name": "6 Months Later",
       "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
@@ -5924,7 +5924,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -8444,7 +8444,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 188641,
       "name": "Billyeoon Goyangi (Do the Dance)",
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
@@ -37207,6 +37207,32 @@
     },
     {
       "album": {
+        "name": "Kick Out",
+        "url": "https://open.spotify.com/album/3A2ioJ2iA8kUuXEMIt2dBN"
+      },
+      "artists": [
+        {
+          "name": "M3G4",
+          "url": "https://open.spotify.com/artist/08WwJeQk9jYYOAxxSuBQjj"
+        },
+        {
+          "name": "surelynotsibi42",
+          "url": "https://open.spotify.com/artist/6kQZyWgAMsM7U7vRlWLYd2"
+        },
+        {
+          "name": "ciaffa",
+          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116790,
+      "name": "Kick Out",
+      "url": "https://open.spotify.com/track/5x3QYMOW85TDp8x1CAvSHQ"
+    },
+    {
+      "album": {
         "name": "KICK OUT",
         "url": "https://open.spotify.com/album/4J10DO7uTTS5AXDwvmPBQ9"
       },
@@ -37230,7 +37256,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 116296,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/043HhYu1p36Kara5p0oGuw"
@@ -47301,6 +47327,24 @@
     },
     {
       "album": {
+        "name": "My Name Is Not Susan",
+        "url": "https://open.spotify.com/album/0EV54V6dms4dGFmeGCPzur"
+      },
+      "artists": [
+        {
+          "name": "DJ Katch",
+          "url": "https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137449,
+      "name": "My Name Is Not Susan",
+      "url": "https://open.spotify.com/track/21hiNC6GWG7QJBpDO2mG3Y"
+    },
+    {
+      "album": {
         "name": "suburban daredevil",
         "url": "https://open.spotify.com/album/2HrbzfA5VoFhQtXpHsT1qQ"
       },
@@ -47522,7 +47566,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 247071,
       "name": "Naiilang",
       "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
@@ -58713,6 +58757,24 @@
     },
     {
       "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190098,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
+    },
+    {
+      "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
       },
@@ -59406,7 +59468,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 175070,
       "name": "Scornful Woman",
       "url": "https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96"
@@ -72112,7 +72174,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 163930,
       "name": "Touch Me Like a Gangster",
       "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"
@@ -80566,7 +80628,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/42GKyvz5KBsHTBaLpo3cqJ"

@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-97 songs - 11 hr 58 min
+98 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/1Euo5hXtaDZNzwJ6jbRFxK) | 21:10 | 2023-02-15 | 2025-04-09 |
 | [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/0Ibco1p94QkiiZ7NE8qmci) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/0UiADrDM427r2gBguo8Rg5) | 21:10 | 2023-12-18 | 2024-04-19 |
 | [Kyon Rukha Rukha Bolna](https://open.spotify.com/track/4cBkTMciTLDqKmwVLTIccP) | [Shaukat Ali](https://open.spotify.com/artist/5BPicaWEOTTLJXrUCTtSWq) | [Has Bol Ve](https://open.spotify.com/album/5R7s3zRWle2nkoeGYq6wXe) | 5:02 | 2025-02-01 | 2025-05-14 |
-| [Lag Gaye Nain Awarey](https://open.spotify.com/track/4jxr7cQ61h1ojNxHJhx9ho) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 10:12 | 2024-04-24 |  |
+| [Lag Gaye Nain Awarey](https://open.spotify.com/track/4jxr7cQ61h1ojNxHJhx9ho) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 10:12 | 2024-04-24 | 2025-07-12 |
 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 | 2023-02-15 | 2025-05-14 |
 | [Mahiya Tere Vekan Nu](https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb) | [Aakash kandiara](https://open.spotify.com/artist/0JDYLIDGgqFN492T5InWjT), [The Rish](https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0), [Sharry Shayar](https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8) | [Mahiya Tere Vekan Nu](https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh) | 3:41 | 2025-05-28 |  |
 | [Mainda Ishq](https://open.spotify.com/track/1ZJkw6snt1ZLNHYQKEGufx) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Maye Ni Maye, Vol\. 1 & 2](https://open.spotify.com/album/4aN0vkJ7ZRQYycv6ITdZTs) | 5:15 | 2025-05-13 |  |
@@ -70,6 +70,7 @@
 | [Nazaraa](https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX) | [Puranchand Wadali](https://open.spotify.com/artist/4Ya6sj5W70ZEa0ghrJYk8h), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO), [Aar Bee](https://open.spotify.com/artist/1ztfAE52RW11rNYUZaINIc), [Sufi Bhatt](https://open.spotify.com/artist/0p3gHGl9hJrATChGbWrbe4) | [Nazaraa](https://open.spotify.com/album/5iCcHyEBQZgTVScHW89gf3) | 5:10 | 2025-05-13 |  |
 | [Neendar Nain Aawndi](https://open.spotify.com/track/2rlxA33dXhCL6XGBYMz0Ce) | [Noor Jehan](https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh) | [Meri Pasand](https://open.spotify.com/album/6ZAFPHUK38sQGNeLoqFl76) | 3:17 | 2024-04-24 | 2025-02-28 |
 | [Ni Uthan Waley](https://open.spotify.com/track/3x8r2uTRILoLmbLOz8PIQk) | [Attaullah Khan Essakhelvi](https://open.spotify.com/artist/0UJeYZQqhmJT9706RaFOzj) | [Meri Pasand, Vol\. 1](https://open.spotify.com/album/44WjmR6pmbOcZ0bxt3CXcZ) | 5:26 | 2025-02-27 | 2025-05-14 |
+| [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 | 2025-07-11 |  |
 | [Nit Khair Manga Sohneya](https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Big Boss Of Sufi Nusrat Fateh Ali Khan](https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN) | 15:19 | 2023-12-18 |  |
 | [Nit Khair Mangan Sohnia Main Teri](https://open.spotify.com/track/59uJINektNnYnbMTd1IxAy) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Nit Khair Mangan Vol\. 17](https://open.spotify.com/album/5GcDQZI62w1Wf7napXHxwE) | 15:17 | 2023-02-15 | 2024-04-19 |
 | [Nitt De Vichhore Saada Sukh Chain](https://open.spotify.com/track/29351vA9iRgtYyDsXbrMOp) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 14:29 | 2023-02-15 |  |

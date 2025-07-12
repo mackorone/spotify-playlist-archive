@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-415 songs - 1 day 2 hr 49 min
+416 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Man Undercover](https://open.spotify.com/track/3Dl7MbQO2lwkCfYNzAxWwG) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Welcome To Our World](https://open.spotify.com/album/26ugzomGsgADdMdcRxHk1o) | 4:41 | 2025-05-31 |  |
 | [Max Julien](https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Max Julien](https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z) | 2:50 | 2024-01-12 |  |
 | [Meltdown](https://open.spotify.com/track/3YqgabBYii4YaybPLnzpE4) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 4:16 | 2023-12-30 |  |
+| [Mentally Unstable \(feat\. CEO Trayle & K Wales\)](https://open.spotify.com/track/1gBjYqjUX7UUnP1JKQ19Ai) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [K Wales](https://open.spotify.com/artist/78XL6kUIkkhNxRFfl9U0IM) | [CASH RULES](https://open.spotify.com/album/2aiukIV0Qlw8RI9yCVhwJq) | 2:35 | 2025-07-11 |  |
 | [Merlin’s Staff](https://open.spotify.com/track/3qVOLPO3RJZrggh1Is3lnZ) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Sin City The Mixtape](https://open.spotify.com/album/60Od32zDXklGhsYo6ADaPG) | 2:04 | 2023-12-30 |  |
 | [Million](https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Million](https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU) | 4:31 | 2023-12-30 |  |
 | [Missy's Finale \- Spoken Word](https://open.spotify.com/track/3BgwOI1jT8l6dFeAiESJVM) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 0:24 | 2023-12-30 |  |

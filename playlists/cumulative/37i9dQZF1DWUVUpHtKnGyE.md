@@ -4,7 +4,7 @@
 
 > When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero\. Now streaming on Netflix.
 
-48 songs - 3 hr 2 min
+50 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [London Bridge](https://open.spotify.com/track/7K2IeEefMiK8sDL8RBvXw2) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz) | 4:01 | 2025-07-10 |  |
 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 | 2025-07-10 |  |
 | [Massachusetts](https://open.spotify.com/track/4GIRtMKQ8h4OyLugNbz1JX) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 3:38 | 2025-07-10 |  |
+| [Massachusetts \- Stripped Version](https://open.spotify.com/track/1oaWw1XLQkIIDjkano6INF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts \(Stripped Version\)](https://open.spotify.com/album/0wX23hilHVl7NC7RWa5EMu) | 3:37 | 2025-07-11 |  |
 | [No Bad Energy](https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Bad Energy](https://open.spotify.com/album/2SIpildhIlKFKx0eULa3dN) | 3:13 | 2025-07-10 |  |
 | [No Limitations](https://open.spotify.com/track/24WM96p4EDsOjwCoG9ojm7) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD) | [Experience](https://open.spotify.com/album/7kY0wAn6cxSzNyWGURBn0N) | 3:29 | 2025-07-10 |  |
 | [Old Recliners](https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:41 | 2025-07-10 |  |
@@ -54,6 +55,7 @@
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2025-07-10 |  |
 | [True Love Trajectory](https://open.spotify.com/track/64ZjBDF8b4dJJj5DYMdJ7N) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD) | [Experience](https://open.spotify.com/album/7kY0wAn6cxSzNyWGURBn0N) | 3:29 | 2025-07-10 |  |
 | [When the Ship Comes In](https://open.spotify.com/track/7hMhO4oenpVkVaM5bNkEbz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:14 | 2025-07-10 |  |
+| [You Found Me \(From the Netflix Series "Too Much"\)](https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [You Found Me](https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ) | 4:13 | 2025-07-11 |  |
 | [You Know More Than I Know](https://open.spotify.com/track/5J7aILM0273RGHm7czdLxx) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:35 | 2025-07-10 |  |
 | [明日あたりはきっと春](https://open.spotify.com/track/4FKSfYF3jDwVHVzsbID9UG) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [HAPPY END](https://open.spotify.com/album/4nm0IN2hUxftqWUq5Xlj5W) | 4:03 | 2025-07-10 |  |
 

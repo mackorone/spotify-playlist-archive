@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-396 songs - 17 hr 37 min
+397 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 | 2024-10-15 | 2025-04-01 |
 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 | 2023-10-06 | 2024-01-20 |
 | [LIE TO MY FACE](https://open.spotify.com/track/0B4W3eGxTCLVkdqQH2lYLN) | [Damedot](https://open.spotify.com/artist/5OHfcsZ8fneKjS64QqFST0) | [LIE TO MY FACE](https://open.spotify.com/album/0D94rxjSMYd3JHzhhyhcun) | 2:31 | 2024-02-20 | 2024-05-21 |
+| [Light It Up](https://open.spotify.com/track/4WqqEI17dnY2UhKrckXyfc) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Light It Up](https://open.spotify.com/album/4l8OSFStfoqtKozWoaOmpO) | 2:15 | 2025-07-11 |  |
 | [Like Me \(feat\. Mozzy\)](https://open.spotify.com/track/4wN9nSOyk6tapK8fPXh39M) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [8 to Infinity](https://open.spotify.com/album/54zbUx3xGm14kZ3I5vf1HF) | 2:53 | 2023-10-30 | 2024-02-13 |
 | [Lil Mo](https://open.spotify.com/track/4lpYDPtkcyxXc8StYnqe1E) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Lil Mo](https://open.spotify.com/album/7kV86VajOjgkskeUhwc2xX) | 2:22 | 2023-09-29 | 2024-01-13 |
 | [Lit Bitch Shit](https://open.spotify.com/track/11yC4PE507xsPTGuF3L0rL) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [Lit Bitch Shit](https://open.spotify.com/album/5scykgS0ebezH1NQLpTSUe) | 2:26 | 2025-04-29 |  |

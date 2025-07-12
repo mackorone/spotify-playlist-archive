@@ -2,7 +2,7 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Rafa G& Vado Más Ki Ás entram na zona.
+> Rafa G, Vado Más Ki Ás & Timor YSF entram na zona.
 
 830 songs - 1 day 19 hr 53 min
 

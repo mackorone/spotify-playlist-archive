@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-125 songs - 7 hr 48 min
+126 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Fool](https://open.spotify.com/track/4loDVfneBX3ezG86mwToP0) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 3:49 | 2023-05-26 | 2024-04-19 |
 | [Fool](https://open.spotify.com/track/5OKT7iKJqQAjTK2Q3BLxHY) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Fool](https://open.spotify.com/album/37hBvmWBhITeg8dYwzBWhN) | 3:49 | 2023-05-26 |  |
 | [Fool](https://open.spotify.com/track/6Jc3ep7zW6mgLKg0ZJhbnZ) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Fool](https://open.spotify.com/album/6LNtiLvgjUpGFSHA5RZFAR) | 3:49 | 2023-05-26 | 2023-08-07 |
+| [Forget You](https://open.spotify.com/track/5bA0aMV01KfFnjvkB74SQQ) | [Sean Bertram](https://open.spotify.com/artist/6l8QxpDCZkxVOUsrASqEWM), [Shirsha](https://open.spotify.com/artist/77kAKRKSDOVjmSE5VwXUPH) | [Forget You \(Feat\. Shirsha\)](https://open.spotify.com/album/1xly1xL1enLrEfsm7Tf6GX) | 3:31 | 2025-07-11 |  |
 | [Four In The Morning](https://open.spotify.com/track/5LnDdFPjJkrUDt9BOoJMfS) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist](https://open.spotify.com/album/7IfMDEwQODVi1NBKFJlcNp) | 4:40 | 2024-11-29 |  |
 | [Free](https://open.spotify.com/track/6kAOOamDflxqkrAWI6wZRR) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 5:27 | 2022-10-21 |  |
 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 |  |
@@ -92,7 +93,7 @@
 | [Show You The Way](https://open.spotify.com/track/6LzsF8g3MnyspvcPvlBcC3) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Show You The Way](https://open.spotify.com/album/4BSz8driu2eSZekb2ChJHH) | 3:34 | 2022-10-21 | 2022-11-14 |
 | [Simple Love Songs \- Extended Version](https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Simple Love Songs \- Extended Version](https://open.spotify.com/album/2APkE3JslirvBHQxbz5Iop) | 2:51 | 2023-06-30 | 2023-10-14 |
 | [Sleeptalking](https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Sleeptalking](https://open.spotify.com/album/0XRYj8uyEJMzUKM60gZjAP) | 3:00 | 2024-02-02 |  |
-| [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 | 2022-10-21 |  |
+| [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 | 2022-10-21 | 2025-07-12 |
 | [Somebody's Watching You](https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 3:35 | 2022-10-21 |  |
 | [Somebody's Watching You](https://open.spotify.com/track/2zz7F5w83J4MySb9RX8WWY) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 3:35 | 2022-10-21 | 2024-04-19 |
 | [Somewhere in New York](https://open.spotify.com/track/7aDCH8TKuA5auDD5nmSexb) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Somewhere in New York](https://open.spotify.com/album/3vnZq5RfAud6eglpxcc035) | 2:31 | 2022-11-18 | 2024-05-03 |

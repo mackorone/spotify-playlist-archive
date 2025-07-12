@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Hot Chip
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,232 likes - 74 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,192 likes - 74 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 73 | [Iajo](https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Iajo](https://open.spotify.com/album/00D70fYsAp00LqwJuh6214) | 4:38 |
 | 74 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 |
 
-Snapshot ID: `aHA4AQAAAAAq+3WQ0+rnNOF5ikl7Gh0a`
+Snapshot ID: `aHC7JQAAAABeWfYzXE8Q0hF0llOMfIak`

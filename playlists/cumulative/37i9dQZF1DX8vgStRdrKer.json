@@ -4825,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Karamin Haske",
+        "url": "https://open.spotify.com/album/3qbjUn1047WuW54oehNbBM"
+      },
+      "artists": [
+        {
+          "name": "Moses Eze",
+          "url": "https://open.spotify.com/artist/4S4H6Q2AjmqM9tEIeFRbMm"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Karamin Haske",
+      "url": "https://open.spotify.com/track/5VeXbNPYuhvoWQYMFZtix7"
+    },
+    {
+      "album": {
         "name": "BETHEL",
         "url": "https://open.spotify.com/album/50MpjTelBNmWQ1UDB40RIv"
       },
@@ -7978,7 +7996,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 666000,
       "name": "Speechless (Spanglish)",
       "url": "https://open.spotify.com/track/1IBXkMbEaSIFSOE6HVmqCW"

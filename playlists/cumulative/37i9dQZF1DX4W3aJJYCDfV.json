@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-01",
-  "description": "Brand new music from Olivia Dean, Wolf Alice and more!",
+  "description": "Brand new music from Justin Bieber, Olivia Dean, Wolf Alice and more!",
   "name": "New Music Friday UK",
   "tracks": [
     {
@@ -24482,8 +24482,8 @@
           "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
         },
         {
-          "name": "Jack Marlow",
-          "url": "https://open.spotify.com/artist/3xuVyzcGbOFTySc2VeynSO"
+          "name": "JACK MARLOW",
+          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
         }
       ],
       "date_added": "2025-07-10",
@@ -64360,6 +64360,24 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "album": {
@@ -129007,7 +129025,7 @@
     },
     {
       "album": {
-        "name": "Hide & Seek",
+        "name": "hide & seek",
         "url": "https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2"
       },
       "artists": [
@@ -129020,7 +129038,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187995,
-      "name": "Hide & Seek",
+      "name": "hide & seek",
       "url": "https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC"
     },
     {
@@ -156934,6 +156952,24 @@
       "duration_ms": 158769,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1BnoG2KaNRuf7mZ88bFE0C"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -248329,7 +248365,7 @@
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 313826,
+      "duration_ms": 313746,
       "name": "Saoirse",
       "url": "https://open.spotify.com/track/6u5Xa32hIeKiBaWaITVoQE"
     },

@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-303 songs - 17 hr 48 min
+304 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Coração](https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [É o Que Temos](https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ) | 4:08 | 2021-10-15 | 2024-04-19 |
 | [Coração](https://open.spotify.com/track/3oIe9L4v2pHOnk5wUJECZG) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l), [Davi Bernardo](https://open.spotify.com/artist/3DjCP7P7D1eTcszAiM4gsb), [Regis Damasceno](https://open.spotify.com/artist/0NvcwI0dIDknvJZZmOo1Mp), [Astronauta Pinguim](https://open.spotify.com/artist/61QT3O3yrKyhEBJ95rLnkT) | [É o Que Temos](https://open.spotify.com/album/1TF9vUeHRuh4hwClprgc1X) | 4:08 | 2021-10-15 | 2022-07-29 |
 | [Corra, Tatiana](https://open.spotify.com/track/56nIbFmHcIeZYn12tO7MOa) | [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8) | [Tatiana](https://open.spotify.com/album/1HqrMsjQuXKVh6l3rayUyk) | 3:46 | 2021-10-15 | 2022-07-19 |
+| [Covarde](https://open.spotify.com/track/5e1qwugRLDFpIU9ccGgsiG) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Suanny Batidão](https://open.spotify.com/artist/6CORseMwKZPTq5dHcB5ogK) | [Covarde](https://open.spotify.com/album/2yrlUWv6v6IoaYVFeWZpnd) | 2:29 | 2025-07-11 |  |
 | [Cunhataiporã](https://open.spotify.com/track/3TzN21WzwMq73UdAwM8SaT) | [Tetê Espíndola](https://open.spotify.com/artist/6cOiaEg6UzuxJPrMV4ceQM) | [Pássaros Na Garganta e Asas do Etéreo](https://open.spotify.com/album/4nxnsECcTwOP3K3JR8nzJM) | 3:07 | 2021-10-15 | 2022-07-29 |
 | [Céu Azul](https://open.spotify.com/track/6vujCNtjd9nJoj4xbEN7cR) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Setenta Vezes Sete](https://open.spotify.com/album/2Mxe3iJpNa7pjcTG3e3gED) | 3:11 | 2021-10-15 | 2022-07-08 |
 | [Céu Azul](https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs) | [Céu Azul](https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD) | 3:24 | 2021-10-15 | 2024-10-23 |
@@ -168,7 +169,7 @@
 | [Meteoro](https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:36 | 2024-10-22 |  |
 | [Meu Choro](https://open.spotify.com/track/1kHb7AHIJtWPPHV0BDYXTH) | [Ná Ozetti](https://open.spotify.com/artist/2CUAJZgMaVXkBoaGc583AJ) | [Rubens Lisboa por Tantas Vozes](https://open.spotify.com/album/0ZjCudqOTwR3erdEP7dbRN) | 2:14 | 2021-10-15 | 2022-07-27 |
 | [Meu São Jorge](https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 3:20 | 2021-10-15 | 2024-10-23 |
-| [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 | 2025-02-28 |  |
+| [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 | 2025-02-28 | 2025-07-12 |
 | [Mina](https://open.spotify.com/track/1bpT0SG7ppxMvCcVmCsKql) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Raízes](https://open.spotify.com/album/3OjEAkgujukkD6mD5WT7gg) | 3:23 | 2021-10-15 | 2022-07-29 |
 | [Minha Felicidade](https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte \(álbum Comentado\)](https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS) | 3:49 | 2021-10-15 | 2024-10-23 |
 | [Morena De Angola](https://open.spotify.com/track/2197m72oqAuxBiSIV5cQ72) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Brasil Mestiço](https://open.spotify.com/album/3IByK5jqmLWKhrtjrb8xun) | 3:26 | 2021-10-15 | 2024-10-23 |

@@ -4167,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "bby",
+        "url": "https://open.spotify.com/album/5OS6rp19HK4UzyRYHW5aIZ"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "bby",
+      "url": "https://open.spotify.com/track/2KTphepOrFID6IcWQEQhU1"
+    },
+    {
+      "album": {
         "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
         "url": "https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC"
       },
@@ -6446,7 +6464,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 202055,
       "name": "Britpop",
       "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
@@ -7150,7 +7168,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 180033,
       "name": "Canela",
       "url": "https://open.spotify.com/track/5838N1oJNKdXfAVaoSQ4aT"
@@ -10764,7 +10782,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 137826,
       "name": "Digital Sex",
       "url": "https://open.spotify.com/track/7CXKDR1R6chTmixAh6z3rY"
@@ -15037,6 +15055,32 @@
     },
     {
       "album": {
+        "name": "FORSAKEN",
+        "url": "https://open.spotify.com/album/6dRbC7BP42GVlNo1rj6557"
+      },
+      "artists": [
+        {
+          "name": "Braxton Knight",
+          "url": "https://open.spotify.com/artist/6UJNjW9qNBTqn1Z5g8TKs6"
+        },
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        },
+        {
+          "name": "levi",
+          "url": "https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "FORSAKEN",
+      "url": "https://open.spotify.com/track/5Qf3ppIcILwdlAACTNAai5"
+    },
+    {
+      "album": {
         "name": "SPIRAL",
         "url": "https://open.spotify.com/album/10qWPkPkr3hstmzIaVHtRN"
       },
@@ -15848,7 +15892,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 162839,
       "name": "G.I.R.L.",
       "url": "https://open.spotify.com/track/5vpC87nKOdqAXHEzM4X4BL"
@@ -17321,6 +17365,24 @@
     },
     {
       "album": {
+        "name": "GOSSIP GIRL",
+        "url": "https://open.spotify.com/album/5C3gU76Ru06RkMuSWHA7wp"
+      },
+      "artists": [
+        {
+          "name": "samxemma",
+          "url": "https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "GOSSIP GIRL",
+      "url": "https://open.spotify.com/track/1z68IZmNgAZEHY57VxGSRM"
+    },
+    {
+      "album": {
         "name": "gossip girls",
         "url": "https://open.spotify.com/album/0Q5Qzp1jkMJWwd1IynikA4"
       },
@@ -18186,6 +18248,24 @@
       "duration_ms": 160069,
       "name": "Harajuku Girls",
       "url": "https://open.spotify.com/track/1rG2SzFexnRoWdhK4CRuxD"
+    },
+    {
+      "album": {
+        "name": "Hard Refresh",
+        "url": "https://open.spotify.com/album/55tdckUQly6YmPJBPwiFCi"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "Hard Refresh",
+      "url": "https://open.spotify.com/track/0RJbtBExI8If2wURyvbnQl"
     },
     {
       "album": {
@@ -22462,7 +22542,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 266105,
       "name": "IRS Love",
       "url": "https://open.spotify.com/track/4X09R2gp6bSJ9fSExhh5a6"
@@ -23480,7 +23560,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 114986,
       "name": "keep it up",
       "url": "https://open.spotify.com/track/0QihOt3PvTC50rZKTc7CU0"
@@ -24280,7 +24360,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 180157,
       "name": "Lavender Town",
       "url": "https://open.spotify.com/track/3Fn2y02qGuYdftsSkPGhJ2"
@@ -25337,6 +25417,24 @@
     },
     {
       "album": {
+        "name": "lose control",
+        "url": "https://open.spotify.com/album/6b2JrtPqD43prrSF7Ibebd"
+      },
+      "artists": [
+        {
+          "name": "Joey Cash",
+          "url": "https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184961,
+      "name": "lose control",
+      "url": "https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4"
+    },
+    {
+      "album": {
         "name": "comfort noise",
         "url": "https://open.spotify.com/album/0xdxVPOEDH8DUbpV0O6srR"
       },
@@ -25826,7 +25924,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 184000,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/6SiuoXT6PWWOJIB4HIM58d"
@@ -26216,7 +26314,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 133312,
       "name": "Magic Clock",
       "url": "https://open.spotify.com/track/1XzmDchjeqwC0VVjHuxKFz"
@@ -27947,6 +28045,24 @@
     },
     {
       "album": {
+        "name": "MOVIE STAR",
+        "url": "https://open.spotify.com/album/1R3K5mJt6wBOA7y1npEplA"
+      },
+      "artists": [
+        {
+          "name": "Greta Isaac",
+          "url": "https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125347,
+      "name": "MOVIE STAR",
+      "url": "https://open.spotify.com/track/3iDIXnTTy0xOiyAalKFPtJ"
+    },
+    {
+      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/4957sJfqFx4kPR2pqrfXlL"
       },
@@ -28034,7 +28150,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 156923,
       "name": "MR BUS DRIVER",
       "url": "https://open.spotify.com/track/5F1X26OJ1qD886ReIRsLgq"
@@ -31921,6 +32037,24 @@
     },
     {
       "album": {
+        "name": "Malibu Drift",
+        "url": "https://open.spotify.com/album/7pwucSLMR3Er8o8b7NuOyx"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190926,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/5T1XbCkiQlobUQnmXTZ3q6"
+    },
+    {
+      "album": {
         "name": "Pink flame",
         "url": "https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ"
       },
@@ -34902,6 +35036,24 @@
       "duration_ms": 129882,
       "name": "ROCKNROLL",
       "url": "https://open.spotify.com/track/70l5mHS0QinO0UMs2VtDzI"
+    },
+    {
+      "album": {
+        "name": "ROCKNROLL",
+        "url": "https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149549,
+      "name": "ROCKNROLL",
+      "url": "https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3"
     },
     {
       "album": {
@@ -38845,6 +38997,32 @@
     },
     {
       "album": {
+        "name": "Spencer Needs A Ladder",
+        "url": "https://open.spotify.com/album/2NzfmCURODIHigaOhXhwEr"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209307,
+      "name": "Spencer Needs A Ladder",
+      "url": "https://open.spotify.com/track/51T76WhQ9wtp8DsZZx0hjg"
+    },
+    {
+      "album": {
         "name": "Spending all my time",
         "url": "https://open.spotify.com/album/16FgJ80Z3rjPHtxXuvksi5"
       },
@@ -39226,6 +39404,28 @@
       "duration_ms": 114947,
       "name": "STARING AT THE SUN",
       "url": "https://open.spotify.com/track/7rtUWgeSs798smh0Z3HAuH"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219749,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
     },
     {
       "album": {
@@ -40042,7 +40242,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 174296,
       "name": "Sugar Water Cyanide",
       "url": "https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN"
@@ -41636,6 +41836,24 @@
       "duration_ms": 144138,
       "name": "THE BLAZE (feat. SEBii)",
       "url": "https://open.spotify.com/track/5EBVrGoXd1yJ6l2BvMTNci"
+    },
+    {
+      "album": {
+        "name": "Amour: The Jean Paul Deluxe",
+        "url": "https://open.spotify.com/album/0IcWdyTYie3tKmkEhuWJ8H"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The Boys & The Girls",
+      "url": "https://open.spotify.com/track/6yjblvUzkc87LqooJOi1DU"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Adri\u00e1n Quesada en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Porter en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Al Mal Paso Darle Prisa",
+        "url": "https://open.spotify.com/album/7olyrrnzqmK9DPN7sMmb9D"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152115,
+      "name": "Al Mal Paso Darle Prisa",
+      "url": "https://open.spotify.com/track/7LKjqTzl7odiaRUJC5eIwn"
+    },
+    {
+      "album": {
         "name": "Aleluya",
         "url": "https://open.spotify.com/album/1YUyVKfP4DG2mj4KaShZCB"
       },
@@ -682,6 +700,24 @@
       "duration_ms": 140117,
       "name": "Amygdalae",
       "url": "https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz"
+    },
+    {
+      "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/2fWjoLzejtJ8nm3iA56Rub"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200732,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2nqez4c6Yo1GrOSMR6PMBo"
     },
     {
       "album": {
@@ -1095,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Bah\u00eda Bar",
+        "url": "https://open.spotify.com/album/2okzNr7T5rw0vLgBznXI5O"
+      },
+      "artists": [
+        {
+          "name": "O Tortuga",
+          "url": "https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204501,
+      "name": "Bah\u00eda Bar",
+      "url": "https://open.spotify.com/track/16X0jzglOyf3T1S3DsJBwj"
+    },
+    {
+      "album": {
         "name": "+52 55 6461 7366",
         "url": "https://open.spotify.com/album/6aGlwLCVlWRtWJ9T1E7TtI"
       },
@@ -1342,7 +1396,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 196416,
       "name": "B\u00f3tox en el Cora",
       "url": "https://open.spotify.com/track/3K1lcQK8aifX0aBGj40nA1"
@@ -1516,7 +1570,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 250241,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe"
@@ -5700,7 +5754,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 330843,
       "name": "La Noche Eterna (Portal Sessions)",
       "url": "https://open.spotify.com/track/1NSgsMDyyRWVUMcfDRerEg"

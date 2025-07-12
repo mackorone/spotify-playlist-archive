@@ -366,7 +366,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 172800,
       "name": "5 Giorni",
       "url": "https://open.spotify.com/track/7k5YDkLbk9JzADWDwjkaMO"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 164840,
       "name": "Ain't No Money To Me",
       "url": "https://open.spotify.com/track/0dkUmCcsXnKflxBVSMl8vf"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 228340,
       "name": "Creed",
       "url": "https://open.spotify.com/track/7hPenGR0AKp8RgsuM01udu"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 174545,
       "name": "eisgek\u00fchlter Bommerlunder",
       "url": "https://open.spotify.com/track/0wWSNoPALTwBa4AsIVZJHP"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 342857,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0szyootmNHZeYFlUS032rx"
@@ -4248,7 +4248,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 131362,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1oPA8J9IytAMdaxnTYr903"
@@ -5570,7 +5570,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 147487,
       "name": "Juiced",
       "url": "https://open.spotify.com/track/0Qyee97v31Z2UwHs0L3VwX"
@@ -7381,6 +7381,28 @@
     },
     {
       "album": {
+        "name": "M\u00f3 Reala",
+        "url": "https://open.spotify.com/album/7ewRLdH5z69vSPiKwQEyCc"
+      },
+      "artists": [
+        {
+          "name": "NIK",
+          "url": "https://open.spotify.com/artist/1uyMMoRxYmedpLD8kNUuA9"
+        },
+        {
+          "name": "$koop",
+          "url": "https://open.spotify.com/artist/4EQpdrnmGA6hXrRaZgiQiL"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166573,
+      "name": "M\u00f3 Reala",
+      "url": "https://open.spotify.com/track/44wY4gUfY9WuJ5yw9nSi6J"
+    },
+    {
+      "album": {
         "name": "Nash Freestyle",
         "url": "https://open.spotify.com/album/2cyhT5E5ShsNTBv2unISYR"
       },
@@ -7562,7 +7584,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 119040,
       "name": "No Mo",
       "url": "https://open.spotify.com/track/6PjU3fk35C41MZLHhjrE0c"
@@ -8304,7 +8326,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 123324,
       "name": "Petty Bitch",
       "url": "https://open.spotify.com/track/582qfeOvXJgMXqf4FxzPn6"
@@ -8746,6 +8768,24 @@
       "duration_ms": 208695,
       "name": "Rap Entity",
       "url": "https://open.spotify.com/track/1O1oBYKAMEiRggcvHFzQto"
+    },
+    {
+      "album": {
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/2RidULWyEUbeaiqP7jjEG3"
+      },
+      "artists": [
+        {
+          "name": "Ken Bluntz",
+          "url": "https://open.spotify.com/artist/13FWRHpDERYCXvORRhy4bB"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144428,
+      "name": "Ready Fight",
+      "url": "https://open.spotify.com/track/5vn8QUs55pp3au8crgkxNa"
     },
     {
       "album": {
@@ -9959,6 +9999,24 @@
     },
     {
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2CfwWbLdPIIqGLKwiFftw3"
+      },
+      "artists": [
+        {
+          "name": "Diggydash",
+          "url": "https://open.spotify.com/artist/0qdCTg7Z9Tq37x5CXonyEn"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207504,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/6xusUfCiFkFb91WXULdSly"
+    },
+    {
+      "album": {
         "name": "Swarovski 1960",
         "url": "https://open.spotify.com/album/3hoffDsWyaUvIAwVdsahnF"
       },
@@ -10079,6 +10137,24 @@
     },
     {
       "album": {
+        "name": "Talking To Me",
+        "url": "https://open.spotify.com/album/6K7PIC2NV0YLTetQBpB037"
+      },
+      "artists": [
+        {
+          "name": "Almaze",
+          "url": "https://open.spotify.com/artist/7gH2i8GSl04GzEO6kY6hXd"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184576,
+      "name": "Talking To Me",
+      "url": "https://open.spotify.com/track/3vZ02Ggpcyr4Kwwk4sPM7k"
+    },
+    {
+      "album": {
         "name": "NEPTUNE",
         "url": "https://open.spotify.com/album/5ksZqdiiMSlDJMFUenmSq4"
       },
@@ -10184,7 +10260,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 116114,
       "name": "Tell Em Yo Name",
       "url": "https://open.spotify.com/track/03IIpGBJgs9aXoJxqAHAHZ"
@@ -10242,6 +10318,24 @@
       "duration_ms": 199706,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/5bm8kbrv3AB2NJtogTLdAX"
+    },
+    {
+      "album": {
+        "name": "That Bounce",
+        "url": "https://open.spotify.com/album/44kuUqUiA95CgBNint3cgl"
+      },
+      "artists": [
+        {
+          "name": "Jarid Baker",
+          "url": "https://open.spotify.com/artist/0xqThvBfAE03VRDt7sBrPI"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127805,
+      "name": "That Bounce",
+      "url": "https://open.spotify.com/track/6DbwJL2yVPRJ0xNqch4th9"
     },
     {
       "album": {
@@ -10928,7 +11022,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 187924,
       "name": "Trump",
       "url": "https://open.spotify.com/track/0LmSBxjCw9VyZr91uaDdfb"

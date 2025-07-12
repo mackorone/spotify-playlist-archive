@@ -14121,6 +14121,28 @@
     },
     {
       "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/4DR8zDPJ0G5Ce6ibjMNGPk"
+      },
+      "artists": [
+        {
+          "name": "MRJay",
+          "url": "https://open.spotify.com/artist/24PhFqIM2MOH9oAVnPzfRe"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242086,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/6gOmVillgjmFq9sHTcv3oi"
+    },
+    {
+      "album": {
         "name": "Vida Nova",
         "url": "https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y"
       },

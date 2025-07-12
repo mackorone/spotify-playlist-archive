@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : TKS 2G
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,590 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,724 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 3 | [Shake It To The Max \(FLY\) \- Kalash & Maureen Remix](https://open.spotify.com/track/6J9aDPnmDkiPAxWhwLV8Zr) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Shake It To The Max \(FLY\) \(Kalash & Maureen Remix\)](https://open.spotify.com/album/6bwAGOb3zI1RJBBd9e0Vle) | 3:01 |
 | 4 | [Pran On Pyé](https://open.spotify.com/track/0iDP0gAN511CCDafoFf9Ft) | [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i), [QWANN](https://open.spotify.com/artist/3e2szSG8XrOQ3wFSMQ5eCh) | [Pran On Pyé](https://open.spotify.com/album/2rXM4BzCVJMZc3HCHLLQQn) | 2:32 |
 | 5 | [Ta meuf](https://open.spotify.com/track/17709i83p9cPzoPaPCq9jm) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [Ta meuf](https://open.spotify.com/album/2Q7fKtZMhmXi6PV4tDSH2o) | 1:49 |
-| 6 | [4 SAISONS](https://open.spotify.com/track/56BVEDrRj3aEuSPY38lMLQ) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Lifestyle Melody](https://open.spotify.com/album/6dengxjbXezqaCBi8imQCY) | 2:11 |
+| 6 | [4 SAISONS](https://open.spotify.com/track/56BVEDrRj3aEuSPY38lMLQ) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Lifestyle Melody](https://open.spotify.com/album/6dengxjbXezqaCBi8imQCY) | 2:12 |
 | 7 | [Whine](https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Whine](https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB) | 2:44 |
 | 8 | [Bouwéy](https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr) | [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [Theomaa](https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6) | [CHORD](https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc) | 2:37 |
 | 9 | [Arrête Ça](https://open.spotify.com/track/5cTa6P1quWLaowvnW26EHk) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Arrête Ça](https://open.spotify.com/album/7skH28li6NGYsKdil3YDHZ) | 2:28 |

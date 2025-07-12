@@ -3610,13 +3610,13 @@
           "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         },
         {
-          "name": "Bruses",
+          "name": "BRUSES",
           "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 132300,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"
@@ -5940,7 +5940,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 197169,
       "name": "Una sensaci\u00f3n",
       "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"

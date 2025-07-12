@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: KID FRESINO\*👉 <a href="https://spice.eplus.jp/articles/339199">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,314 likes - 89 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,365 likes - 89 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2025/7/9 KID FRESINOが新曲をリリース！Creepy Nutsの新曲、PUNPEE & BIMのコラボEPも！Furui Riho初のアニメ主題歌や、RADWIMPSの野田洋次郎が書き下ろしたSixTONES の新曲もピックアップ！](https://open.spotify.com/episode/4K4HDQ9M5k7yNTP05FAxlF) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:53 |
+| 1 | [2025/7/9 KID FRESINOが新曲をリリース！Creepy Nutsの新曲、PUNPEE & BIMのコラボEPも！Furui Riho初のアニメ主題歌や、RADWIMPSの野田洋次郎が書き下ろしたSixTONES の新曲もピックアップ！jo0jiからメッセージも到着！](https://open.spotify.com/episode/4K4HDQ9M5k7yNTP05FAxlF) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:53 |
 | 2 | [hikari](https://open.spotify.com/track/15WwIDmvJi1f4CRdduBbrr) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [hikari](https://open.spotify.com/album/2Md8hYlmgPWzNBR051fKkP) | 3:09 |
 | 3 | [慶びの種](https://open.spotify.com/track/1Xj5ZS6bpYPt87m09JbFPb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 5:36 |
 | 4 | [SHAMPOO](https://open.spotify.com/track/2fLYzEtbn6dbzWbFktucui) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Iced Out](https://open.spotify.com/album/77rr7iUaH5RvqMtJAgO5JS) | 3:24 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 75 | [Sparkle Summer](https://open.spotify.com/track/69dL4ZFvQFW0Aq0OHnMkTu) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4jA7yKF3SEALY8YmmCPzw1) | 3:10 |
 | 76 | [P.S.](https://open.spotify.com/track/3zt0So3ZjEUH2Kr6A0ZtIJ) | [MASHIHO](https://open.spotify.com/artist/0pxEGHaPCDvpHEyXGc7xlc) | [P.S.](https://open.spotify.com/album/1zVrgQi71gc8dl04yRQ8av) | 3:22 |
 | 77 | [Glam Up](https://open.spotify.com/track/7jBB49sLtnuigwWSbf1dVr) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Glam Up](https://open.spotify.com/album/5HL7sWBxJrwuNAWCdTc9xb) | 2:42 |
-| 78 | [SHOGUN \(feat\. Kamiyada+, Braxton Knight & Hezron\)](https://open.spotify.com/track/0PVBLPcCCVVXekGUlfFWfU) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Braxton Knight](https://open.spotify.com/artist/6UJNjW9qNBTqn1Z5g8TKs6), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [SHOGUN \(feat\. Kamiyada+, Braxton Knight & Hezron\)](https://open.spotify.com/album/5Ym6p309IArL8Dj3b0wOnl) | 3:31 |
+| 78 | [SHOGUN](https://open.spotify.com/track/0PVBLPcCCVVXekGUlfFWfU) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Braxton Knight](https://open.spotify.com/artist/6UJNjW9qNBTqn1Z5g8TKs6), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [SHOGUN](https://open.spotify.com/album/5Ym6p309IArL8Dj3b0wOnl) | 3:31 |
 | 79 | [暴れNIGHT](https://open.spotify.com/track/0KAMMeOMUjlQE8icdFzNnk) | [KOMOREBI](https://open.spotify.com/artist/1T7UDf2UKWE7gsvwvsuxRD) | [ORBIS](https://open.spotify.com/album/3yV1B9weaNDo28tCEbVy3X) | 2:54 |
 | 80 | [One More Chance](https://open.spotify.com/track/4gbKLnQNH5UTLrazEKUd1X) | [HONEST](https://open.spotify.com/artist/59iGba2GaoFVPVlnwy5J1G) | [One More Chance](https://open.spotify.com/album/7Co48ms4HxPby1g5lArPd6) | 2:39 |
 | 81 | [疲れちゃった](https://open.spotify.com/track/3QrgJ2UZtCr7hj9oKaaW1p) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [白昼夢、結んだ言葉は花束に](https://open.spotify.com/album/1FtRY10kTG51GIhEZ0rn7T) | 3:02 |

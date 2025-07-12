@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Ed Sheeran",
-  "num_followers": 209303,
+  "num_followers": 209418,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR0AAAAACIvh6JeZkMwmni6nmUdeD0",
+  "snapshot_id": "aHDzQwAAAADgoAfUNhTqiu/zxXOvPcCn",
   "tracks": [
     {
       "added_at": "2025-06-08 20:02:07",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
     },
     {
+      "added_at": "2025-07-11 04:00:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 167295,
+      "name": "That's So True - Spotify Singles",
+      "url": "https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW"
+    },
+    {
       "added_at": "2025-06-08 20:02:07",
       "album": {
         "name": "Take Me Home, Country Roads",
@@ -119,6 +135,22 @@
       "duration_ms": 151446,
       "name": "Rewrite the Stars",
       "url": "https://open.spotify.com/track/6MmBZEU7zbWwPP32XJQPoI"
+    },
+    {
+      "added_at": "2025-07-11 11:19:31",
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/0rnDWT5koPSq9Mm8C9BEfZ"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+        }
+      ],
+      "duration_ms": 172156,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5oUX3qrbsrvmVrmidcbZIR"
     },
     {
       "added_at": "2025-06-08 20:02:07",
@@ -875,22 +907,6 @@
       "duration_ms": 252716,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
-    },
-    {
-      "added_at": "2025-06-08 20:02:07",
-      "album": {
-        "name": "RUNNING UP THAT HILL",
-        "url": "https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg"
-      },
-      "artists": [
-        {
-          "name": "Betty Who",
-          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
-        }
-      ],
-      "duration_ms": 199841,
-      "name": "RUNNING UP THAT HILL",
-      "url": "https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v"
     },
     {
       "added_at": "2025-06-08 20:02:07",

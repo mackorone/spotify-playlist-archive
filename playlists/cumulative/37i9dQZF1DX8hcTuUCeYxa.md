@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Good Neighbours
 
-1,640 songs - 3 day 22 hr 12 min
+1,642 songs - 3 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-07-25 | 2024-08-23 |
 | [Child of Mine](https://open.spotify.com/track/2CShJyrf1JMBYdVBhjuTle) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Child of Mine](https://open.spotify.com/album/0nWkIJZCHME0A12B5qyuYG) | 4:12 | 2024-09-26 | 2024-10-18 |
 | [Ciao Paris!](https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Ciao Paris!](https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX) | 3:25 | 2024-06-28 | 2024-07-19 |
+| [Cider and Black](https://open.spotify.com/track/7GzN1E0iHDJPorZhHVSHgJ) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Seriously Love, Go Home](https://open.spotify.com/album/0WXE7yBvev0eKfnomaadBq) | 3:43 | 2025-07-11 |  |
 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 | 2025-02-27 | 2025-03-07 |
 | [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-08 | 2025-06-06 |
 | [Circles](https://open.spotify.com/track/0m9jXBoFxuSNOprcNlpoHM) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Circles](https://open.spotify.com/album/1zucdD8kDPMHK80Fyo23UN) | 3:01 | 2025-01-30 | 2025-02-28 |
@@ -329,6 +330,7 @@
 | [Cool Breeze](https://open.spotify.com/track/7BqrdLAjBXFyvUCr7hoty6) | [Masha Qrella](https://open.spotify.com/artist/0ozlTmp6BHcqNEqleu3AEb) | [Cool Breeze](https://open.spotify.com/album/33vsjXKOFIHowx3vsn0lJZ) | 3:33 | 2024-11-07 | 2024-12-06 |
 | [Cool Kids](https://open.spotify.com/track/2RuMU3DJOPS9v30MjOVQoF) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [Cool Kids](https://open.spotify.com/album/59qBaw9jxov7eq242QVVGQ) | 3:55 | 2025-07-03 |  |
 | [Corners](https://open.spotify.com/track/0LfNGxDPKVQG5EY9Ulh55a) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Unreleased Pt\. 1](https://open.spotify.com/album/5sM5nF5lB1oJrXVgNGtMkd) | 3:09 | 2024-10-24 | 2024-11-22 |
+| [Counting Candles](https://open.spotify.com/track/7otmtaq5GIEvaMUxDIwR9K) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Counting Candles](https://open.spotify.com/album/66S6SJA4svHbAALcaayedK) | 3:22 | 2025-07-11 |  |
 | [Cowbella](https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Cowbella](https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH) | 4:23 | 2025-06-19 | 2025-07-04 |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 | 2025-06-27 |
 | [Crazy Heart](https://open.spotify.com/track/2b7uPetm5pDLtRv1nIsL0H) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Crazy Heart](https://open.spotify.com/album/4QM6NDuuxJIyY1YR5rlN4t) | 2:56 | 2025-01-30 | 2025-02-28 |
@@ -574,7 +576,7 @@
 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 | 2025-04-03 | 2025-04-11 |
 | [goodbye and good luck](https://open.spotify.com/track/2JkcKchN1kyhSQeShwuNV4) | [jupiter flynn](https://open.spotify.com/artist/22pvoqQ30AljyB7Vxi0F0U) | [villain to my story](https://open.spotify.com/album/4snynUoJpak9fXT7pzqjRL) | 3:16 | 2024-06-28 | 2024-07-19 |
 | [Goodmorning Babe](https://open.spotify.com/track/0Tkunac7c989q2fGetVk7c) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Notes To Self](https://open.spotify.com/album/2kvu7ItaqbEGRjczYjmd0b) | 2:10 | 2024-08-15 | 2024-08-23 |
-| [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-20 |  |
+| [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-20 | 2025-07-12 |
 | [Goodthing](https://open.spotify.com/track/0k7BOLRG5thWvkOgTujjN0) | [Wargirl](https://open.spotify.com/artist/7eoJsJZip1IYk8p5o9fvsO) | [Goodthing](https://open.spotify.com/album/6oAMwfxkrrXNEBb1qigMhC) | 3:56 | 2025-06-19 |  |
 | [gossip](https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [gossip](https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF) | 3:47 | 2024-11-21 | 2024-12-06 |
 | [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 | 2025-05-22 | 2025-06-20 |

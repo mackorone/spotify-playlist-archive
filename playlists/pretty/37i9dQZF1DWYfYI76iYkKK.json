@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 129867,
+  "num_followers": 129875,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-07-10 16:00:18",
       "album": {
-        "name": "\u60f3\u81ea\u7531",
-        "url": "https://open.spotify.com/album/0ThGbiZgtDmXPARkCXMTBV"
-      },
-      "artists": [
-        {
-          "name": "\u738b\u5b89\u5b87",
-          "url": "https://open.spotify.com/artist/75CDjVdcyafrJRwNITgluf"
-        }
-      ],
-      "duration_ms": 268605,
-      "name": "\u60f3\u81ea\u7531",
-      "url": "https://open.spotify.com/track/2fLoz0Qd1sgcHVkrBAzAHn"
-    },
-    {
-      "added_at": "2025-07-10 16:00:18",
-      "album": {
         "name": "Miserable",
         "url": "https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 193693,
       "name": "Miserable",
       "url": "https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz"
+    },
+    {
+      "added_at": "2025-07-10 16:00:18",
+      "album": {
+        "name": "\u60f3\u81ea\u7531",
+        "url": "https://open.spotify.com/album/0ThGbiZgtDmXPARkCXMTBV"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u5b89\u5b87",
+          "url": "https://open.spotify.com/artist/75CDjVdcyafrJRwNITgluf"
+        }
+      ],
+      "duration_ms": 268605,
+      "name": "\u60f3\u81ea\u7531",
+      "url": "https://open.spotify.com/track/2fLoz0Qd1sgcHVkrBAzAHn"
     },
     {
       "added_at": "2025-07-10 16:00:18",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-07-10 16:00:18",
       "album": {
+        "name": "\u7a7a\u62cd / \u7c73\u87f2 (Pause ll / Bugtato)",
+        "url": "https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3"
+      },
+      "artists": [
+        {
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "\u7a7a\u62cd (Pause ll)",
+      "url": "https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs"
+    },
+    {
+      "added_at": "2025-07-10 16:00:18",
+      "album": {
         "name": "\u5de6\u908a\u7684\u4eba",
         "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 189000,
       "name": "\u79b1\u6587 - OT\uff1a\u8a00\u4e0d\u7531\u8877",
       "url": "https://open.spotify.com/track/1rmOhrRj8cFpb7KEDqtdVc"
-    },
-    {
-      "added_at": "2025-07-10 16:00:18",
-      "album": {
-        "name": "\u7a7a\u62cd / \u7c73\u87f2 (Pause ll / Bugtato)",
-        "url": "https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3"
-      },
-      "artists": [
-        {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "\u7a7a\u62cd (Pause ll)",
-      "url": "https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs"
     },
     {
       "added_at": "2025-07-10 16:00:18",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-07-10 16:00:18",
       "album": {
-        "name": "Say You\u2019re Sorry",
-        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Say You\u2019re Sorry",
-      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
-    },
-    {
-      "added_at": "2025-07-10 16:00:18",
-      "album": {
         "name": "\u4e00\u8d77\u6d6a\u8cbb\u6642\u5149\u7684\u5b89\u5168\u611f",
         "url": "https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 208000,
       "name": "\u4e00\u8d77\u6d6a\u8cbb\u6642\u5149\u7684\u5b89\u5168\u611f",
       "url": "https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ"
+    },
+    {
+      "added_at": "2025-07-10 16:00:18",
+      "album": {
+        "name": "Say You\u2019re Sorry",
+        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Say You\u2019re Sorry",
+      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
     },
     {
       "added_at": "2025-07-10 16:00:18",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-07-10 16:00:18",
       "album": {
+        "name": "\u7b54\u6848\u662f\u4f60",
+        "url": "https://open.spotify.com/album/3nxIxsZVH1LsUVLknPkKN0"
+      },
+      "artists": [
+        {
+          "name": "Ray \u9ec3\u9706\u777f",
+          "url": "https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "\u7b54\u6848\u662f\u4f60 (\u6232\u5287\u300a\u9748\u9b42\u7d04\u5b9a\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/4JzSTAQH9SlSAYaTXv9xfB"
+    },
+    {
+      "added_at": "2025-07-10 16:00:18",
+      "album": {
         "name": "CHIN UP!",
         "url": "https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 270227,
       "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
       "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
-    },
-    {
-      "added_at": "2025-07-10 16:00:18",
-      "album": {
-        "name": "\u7b54\u6848\u662f\u4f60",
-        "url": "https://open.spotify.com/album/3nxIxsZVH1LsUVLknPkKN0"
-      },
-      "artists": [
-        {
-          "name": "Ray \u9ec3\u9706\u777f",
-          "url": "https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "\u7b54\u6848\u662f\u4f60 (\u6232\u5287\u300a\u9748\u9b42\u7d04\u5b9a\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/4JzSTAQH9SlSAYaTXv9xfB"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

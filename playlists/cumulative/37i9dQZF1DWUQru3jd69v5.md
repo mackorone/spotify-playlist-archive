@@ -4,7 +4,7 @@
 
 > IvanBi in cover della playlist con il futuro del rap italiano.
 
-1,924 songs - 3 day 9 hr 48 min
+1,925 songs - 3 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [BVLGARI](https://open.spotify.com/track/1WibnlA9JXDEOewy0mr71I) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [BVLGARI](https://open.spotify.com/album/1959Xf6EJPqYLaxFJxsYXD) | 2:24 | 2023-10-12 | 2023-11-17 |
 | [BYE BYE](https://open.spotify.com/track/3ShpGGdrnqUwnh920D70MD) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [BYE BYE](https://open.spotify.com/album/4WwPRLJRXXlWDLEXVVXoik) | 2:14 | 2023-02-22 | 2023-03-25 |
 | [C'est la rue](https://open.spotify.com/track/4uAbCVyHM56DlMM7qYj1AY) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [C'est la rue](https://open.spotify.com/album/7eWZqUMC43TaQgu4TW2KAN) | 2:17 | 2022-05-10 | 2022-06-23 |
+| [cabrio](https://open.spotify.com/track/5SYtim5w78OnsGy1YKH8vr) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [cabrio](https://open.spotify.com/album/4jwKIStmHaZboAhagSGaDc) | 1:30 | 2025-07-11 |  |
 | [CACAZZA](https://open.spotify.com/track/2WUpwRSTMRhgp2yEYcrLJP) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CACAZZA](https://open.spotify.com/album/4TYCYKy7CnBhdt4lIwDdBy) | 2:34 | 2024-04-18 | 2024-05-03 |
 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 | 2024-09-05 | 2024-12-06 |
 | [CAGOUL E ASICS](https://open.spotify.com/track/46afjKwG5mhLuJIC9u8KJf) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [CAGOUL E ASICS](https://open.spotify.com/album/6Wvlaq8oTOtFG1YwFggQ3K) | 2:05 | 2022-05-10 | 2022-05-27 |

@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "5G",
+        "url": "https://open.spotify.com/album/79nZhu9My4y3JRzooOkCoL"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206684,
+      "name": "5G",
+      "url": "https://open.spotify.com/track/08j2Jh51yVfb9sD33TAPYJ"
+    },
+    {
+      "album": {
         "name": "Snotty World (Deluxe)",
         "url": "https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido"
       },
@@ -458,6 +476,24 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "album": {
+        "name": "Club Siberia",
+        "url": "https://open.spotify.com/album/6PAjRoxVTG2dEdcnSnxTzl"
+      },
+      "artists": [
+        {
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142221,
+      "name": "Club Siberia",
+      "url": "https://open.spotify.com/track/0ltPQEEW1aC1pKqt68DIqV"
     },
     {
       "album": {
@@ -871,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Get Out My Way!",
+        "url": "https://open.spotify.com/album/5jvnXox1rfma5Z9eyag3Zq"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142027,
+      "name": "Get Out My Way!",
+      "url": "https://open.spotify.com/track/3PjaLvrmPhg3tdJ9xeXuaO"
+    },
+    {
+      "album": {
         "name": "Gimme Da Lite",
         "url": "https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx"
       },
@@ -1064,7 +1118,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 170886,
       "name": "Headrush",
       "url": "https://open.spotify.com/track/6DO3EWwZc2wBBS2wJgl4fs"
@@ -1890,7 +1944,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 185750,
       "name": "New Jeep",
       "url": "https://open.spotify.com/track/2CcWirzG271UsU4Eb9jcPx"
@@ -2332,7 +2386,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/3EMBskBjzvlVBviiLUPv6U?si=mZi6tvdjSmGyHvQZ1O90fg">IRohn Dwgs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,645 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,684 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 18 | [Umvandedwaa](https://open.spotify.com/track/0iamMezZkeHUbvztzwSTPb) | [DjTroyEL](https://open.spotify.com/artist/2C3FdmLePq3xAlnfy4k9bC), [Danger Shayumthetho & K\-zin Isgebengu](https://open.spotify.com/artist/1tgT2bAkPKKZQ6GPzdrVae) | [Umvandedwaa](https://open.spotify.com/album/1uAuUiZ6r6vInS6Gy8rh6q) | 6:13 |
 | 19 | [FOMO](https://open.spotify.com/track/7ir1pK0mSBVZLoqUPbmous) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH) | [FOMO](https://open.spotify.com/album/5T7HjJfRNBLJg8zqkLPPeD) | 4:33 |
 | 20 | [Happy Mood](https://open.spotify.com/track/3li46AapZs1XgfxZaeONyN) | [DJ LOOPZz](https://open.spotify.com/artist/3aQF4q2S8tlTQjB0Pka8O8), [Team U'stonner](https://open.spotify.com/artist/2SYHNxVkeBMm13HRrlvezD), [Dreka WT](https://open.spotify.com/artist/7oSLt8LDsNXp1YzpbtlUma) | [Happy Mood](https://open.spotify.com/album/0iGybQcRyDoxikTCHfqyye) | 5:50 |
-| 21 | [Clunky Bass](https://open.spotify.com/track/2g5i5XnxJTModmEzzPGE5a) | [Dlala Savage](https://open.spotify.com/artist/3QC7a8eJCjRQlsAcFvjYQa), [Moonlight Boyz](https://open.spotify.com/artist/1YodWaSsAtPgvzjAa9fUoy), [Malindela](https://open.spotify.com/artist/22Q5VN5fgQsro60ojxfSxp) | [Savage Explorer Two](https://open.spotify.com/album/3DQ6nmAX1W7iSv2hMYzTwl) | 5:10 |
+| 21 | [Clunky Bass](https://open.spotify.com/track/2g5i5XnxJTModmEzzPGE5a) | [Dlala Savage](https://open.spotify.com/artist/3QC7a8eJCjRQlsAcFvjYQa), [MoonLight Boyz](https://open.spotify.com/artist/6fvvUielqcVZilh2MMQ0ci), [Malindela](https://open.spotify.com/artist/22Q5VN5fgQsro60ojxfSxp) | [Savage Explorer Two](https://open.spotify.com/album/3DQ6nmAX1W7iSv2hMYzTwl) | 5:10 |
 | 22 | [Bass Onika](https://open.spotify.com/track/0vyCdkoYRwLuqJq02H12hh) | [P Lastozi](https://open.spotify.com/artist/2tNRXNs15bPmyPACRXeKlQ), [Wa Wah Pman](https://open.spotify.com/artist/12lUCqYECR6IApTly41xYb) | [Eloquent Sqinsi 3](https://open.spotify.com/album/4pjgLfk6xEqGTtjtsvnepD) | 4:20 |
 | 23 | [Endlini Ka Fanie](https://open.spotify.com/track/2bkkyKMrrr1UZ8qcg2K3ha) | [Abangani Bethu](https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT), [Melodic Fam](https://open.spotify.com/artist/3rGXMeVbMBVl8ZzPyeHSah) | [Endlini Ka Fanie](https://open.spotify.com/album/1rWoC5jWp4sg6Yco6OAm14) | 5:35 |
 | 24 | [Last Dance](https://open.spotify.com/track/4UDysN1OGxyovYsOm6nUGt) | [Afro Tech Boyz](https://open.spotify.com/artist/79FvZ8T3TzuN1bDoEZuSlB) | [Last Dance](https://open.spotify.com/album/1F0mYbxstDi7z9qgQ1joky) | 5:07 |

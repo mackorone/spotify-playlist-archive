@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: KAFFKIEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,570 likes - 74 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,827 likes - 74 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [Isar](https://open.spotify.com/track/3GGRoEdpCINzqIGs9fSGZ8) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Isar](https://open.spotify.com/album/4NsVJ3lui5cPD1OGB2NBW6) | 2:30 |
 | 74 | [Verlieben](https://open.spotify.com/track/1tHnYCUqIsTE7Gm5iTpSPt) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb), [DJ8080](https://open.spotify.com/artist/6Q9FyxLr2DWH9G4hN491uS) | [Verlieben](https://open.spotify.com/album/4lb0Rp9rM42upmmb1t8JYu) | 1:55 |
 
-Snapshot ID: `aHA3+AAAAAD6WCivYWgthVY6Tp2OUHdX`
+Snapshot ID: `aHC6XwAAAACDCla4A6nCwNERctpj6sO3`

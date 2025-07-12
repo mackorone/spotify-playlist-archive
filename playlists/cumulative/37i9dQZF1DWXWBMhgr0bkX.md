@@ -4,7 +4,7 @@
 
 > Homegrown talent feat\. Jessica Winter
 
-591 songs - 1 day 6 hr 15 min
+593 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Homesick](https://open.spotify.com/track/3ZDSlJWK1LMIH9WkMRZaKb) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/6Sw2bTrONIk5z6nXp9R5k8) | 3:15 | 2025-04-17 | 2025-05-16 |
 | [Homesick](https://open.spotify.com/track/1ax7tTDbK3L1iBAfs0GN9r) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Homesick](https://open.spotify.com/album/5bKRJPE9CVj6kFXh9NLRYw) | 2:50 | 2025-04-17 | 2025-05-09 |
 | [Homewrecker](https://open.spotify.com/track/3SV4LInoqgVmkDtFKv0QS0) | [Sir Jude](https://open.spotify.com/artist/1okdhcXCnhCsMGzPmDmDzG) | [Homewrecker](https://open.spotify.com/album/2sKXaTnJiL2A5uAoLOpwvE) | 3:07 | 2025-06-26 |  |
+| [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 | 2025-07-11 |  |
 | [Hotline to Heaven](https://open.spotify.com/track/5hG33unSA3Adwy9HpdQYt2) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [Hotline to Heaven](https://open.spotify.com/album/2ltkKv2tundHOFAUFFYjN5) | 3:45 | 2025-02-21 | 2025-03-21 |
 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 | 2024-10-10 | 2025-01-17 |
 | [how'd you end up here tonight?](https://open.spotify.com/track/3QhQG4xIxiUov9SMEl2h8G) | [iggy](https://open.spotify.com/artist/0FQgaV4hZPHVwrVFHzZfcN) | [how'd you end up here tonight?](https://open.spotify.com/album/1P3gk441WmsEfijAGynd9y) | 2:38 | 2025-04-10 | 2025-05-02 |
@@ -419,7 +420,7 @@
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-06-04 | 2024-09-20 |
 | [Passing By](https://open.spotify.com/track/2HXgKL0MZLoC8fzBKCS5dF) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Deeper Than You](https://open.spotify.com/album/6PicBIElmmrG3gycZAnUxH) | 3:31 | 2025-05-01 | 2025-05-30 |
 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 | 2025-07-09 |  |
-| [People, Places and Things](https://open.spotify.com/track/0I34I6v9Va1L4cLFaUc8we) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [People, Places and Things](https://open.spotify.com/album/59t5ZqnKCDq2kD6T7SL3zp) | 3:24 | 2025-06-12 |  |
+| [People, Places and Things](https://open.spotify.com/track/0I34I6v9Va1L4cLFaUc8we) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [People, Places and Things](https://open.spotify.com/album/59t5ZqnKCDq2kD6T7SL3zp) | 3:24 | 2025-06-12 | 2025-07-12 |
 | [Pest](https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:06 | 2025-05-15 | 2025-06-06 |
 | [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 | 2025-04-03 | 2025-04-25 |
 | [Placeholder](https://open.spotify.com/track/6KOsYQ838Oj3pFkLdmmVkm) | [Niamh Evans](https://open.spotify.com/artist/1dpHLLXAn9isdaN15qcGLk) | [Placeholder](https://open.spotify.com/album/07ecydcRbFGRfYKd4BvBqO) | 3:11 | 2025-04-03 | 2025-04-18 |
@@ -538,6 +539,7 @@
 | [That Could Be Me](https://open.spotify.com/track/6f8IO8eT70DlP1JsN2bjcm) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [That Could Be Me](https://open.spotify.com/album/2zzGDctvygFHOKpEQBS3MN) | 3:17 | 2025-06-19 |  |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-10 | 2025-04-25 |
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-15 | 2025-06-06 |
+| [The Boys & The Girls](https://open.spotify.com/track/6yjblvUzkc87LqooJOi1DU) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Amour: The Jean Paul Deluxe](https://open.spotify.com/album/0IcWdyTYie3tKmkEhuWJ8H) | 3:00 | 2025-07-11 |  |
 | [The Garden](https://open.spotify.com/track/5V6dYUrFOrRBH86n6OVtDF) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [The Garden](https://open.spotify.com/album/4VapTMsZr8tsnmjpYir7tN) | 4:10 | 2025-04-17 | 2025-05-09 |
 | [The Highlands](https://open.spotify.com/track/30ytgFw6dKIvuzfrgK4Nhd) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [Forgiveness](https://open.spotify.com/album/20DhWiUjiS5xziDIXcds4E) | 3:13 | 2025-07-10 |  |
 | [The Kicks](https://open.spotify.com/track/2eGqXOC5ewnP7XGlojcQI5) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [The Kicks](https://open.spotify.com/album/74RXGok0luwOxqPZw4ZgLF) | 2:23 | 2025-04-24 | 2025-05-23 |

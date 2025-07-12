@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-116 songs - 7 hr 58 min
+121 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,8 @@
 | [Cumulus Revisited](https://open.spotify.com/track/2ez9u28AzhRDfvjg3PHaro) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:54 | 2023-01-31 |  |
 | [Detropia Theme Pt\. 2 \- Original Mix](https://open.spotify.com/track/6gBoS2GWFPjv8ysRszX2Se) | [Blair French](https://open.spotify.com/artist/7IRQwSJSMH7eQkLAezNZKQ) | [Detropia](https://open.spotify.com/album/3EE4WBaI3wbzbLCsUKp4Sc) | 2:47 | 2023-01-31 |  |
 | [Dewdrops](https://open.spotify.com/track/55fhFHnHvTlkxetEhrfdpR) | [Atephis](https://open.spotify.com/artist/7wLT6L68giSFZDvgaotGIU) | [Dewdrops](https://open.spotify.com/album/566HmZ8sTxnoJ0CAmXlECy) | 3:13 | 2025-05-02 |  |
+| [Dreamswept EMDR](https://open.spotify.com/track/1pm2NByStw6o5v0nSGxHDz) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Dreamswept EMDR](https://open.spotify.com/album/3Tka75HuqaHbF12ZCkfoF7) | 3:32 | 2025-07-11 |  |
+| [Dusk](https://open.spotify.com/track/1MPDncDf3d7CkFaqDvUDPW) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Dusk](https://open.spotify.com/album/27qSG3KXFQyhIf1SWRHa8W) | 3:03 | 2025-07-11 |  |
 | [Dust](https://open.spotify.com/track/0SVkJnFaT6y5eCMosHwvVZ) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Shikasta](https://open.spotify.com/album/0IONJPCk2P7ym03G3RGwh9) | 4:47 | 2023-01-31 |  |
 | [Echo](https://open.spotify.com/track/1v57YftYtPtqI7HPPBIj2c) | [Lennon Hutton](https://open.spotify.com/artist/1zRbXAxKsGfip1PbJfggLJ) | [The Connection](https://open.spotify.com/album/2V8xXCTr5pZfa1YoQOGKu8) | 2:09 | 2023-04-14 |  |
 | [Electric Pulses](https://open.spotify.com/track/5EPNlsmQpNiE3AQZMsMaDs) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 2:58 | 2023-04-14 |  |
@@ -54,7 +56,10 @@
 | [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 | 2023-01-31 |  |
 | [Lavender](https://open.spotify.com/track/1htwBX3EQI0Yn4mRxqa3Ex) | [Ali Neroli](https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR) | [Lavender](https://open.spotify.com/album/7IRB6MzhikdomeqICBAUUW) | 2:09 | 2025-01-10 |  |
 | [Light Candles, To Mark The Way](https://open.spotify.com/track/4okNkZuyAEjqWP1HMM2G4l) | [Carrier](https://open.spotify.com/artist/1ah87EalVGzB4AEfY7zm2u) | [Tender Spirits](https://open.spotify.com/album/0SMHAas5Ll8Y6Rdp7L8mtL) | 8:18 | 2025-05-02 |  |
+| [Look Inside](https://open.spotify.com/track/10or7qxHVKgePHCIM7erOi) | [spcejnk](https://open.spotify.com/artist/3Apvi7QA59smLOrPGcI5g8) | [Look Inside](https://open.spotify.com/album/667s9T5dCsWCbzlZCsfEFB) | 3:10 | 2025-07-11 |  |
+| [Loop 5](https://open.spotify.com/track/1a9ejtUeQgDVxJ9dLkaBFd) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Melodic Loops to Relax to \(Loops 1\-10\)](https://open.spotify.com/album/0gc7IO1HmORugjwkALHoBG) | 7:37 | 2025-07-11 |  |
 | [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 | 2025-01-10 |  |
+| [Memories Collide](https://open.spotify.com/track/0WmNmMNmzy4IXOJhfNXIRx) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Memories Collide](https://open.spotify.com/album/27l1uX8Mjl3FATWzQzHxQF) | 5:05 | 2025-07-11 |  |
 | [Mesa](https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mesa](https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30) | 4:48 | 2023-01-31 |  |
 | [Na](https://open.spotify.com/track/0igayHoCeYUH4KuZubiq4u) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/6Vco7xYNpXBhgHkANMHQXb) | 4:55 | 2023-01-31 |  |
 | [Night Hammer](https://open.spotify.com/track/661gdtPwxBK9pYp3nulHoS) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Golden Age of Dereliction](https://open.spotify.com/album/29gXtFxpaHQZIC3Ab13Q5s) | 5:24 | 2023-01-31 |  |

@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 Santiago Motorizado.
 
-403 songs - 1 day 1 hr 0 min
+404 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-21 |  |
 | [Cotillón](https://open.spotify.com/track/34raiVdzCIF5JvhHidN6mN) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:39 | 2025-05-16 |  |
 | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL) | 3:17 | 2025-01-31 | 2025-03-08 |
+| [Cuando Me Muera](https://open.spotify.com/track/1rvg63zCuXz8gLYDnASEmK) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame](https://open.spotify.com/album/7lVtD74Hhay5GHEC74kEsP) | 2:57 | 2025-07-11 |  |
 | [Cuchillos y Escudos](https://open.spotify.com/track/4Kr7A6YCXPcsjGy4iPpOYU) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Cuchillos y Escudos](https://open.spotify.com/album/5a63Im2wu5TKzoPsf8zbNn) | 3:54 | 2024-04-12 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 | 2025-05-17 |
 | [Dale Angelito](https://open.spotify.com/track/3oEGswg4NkoxtoDyDshBCn) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Dale Angelito](https://open.spotify.com/album/45H9ccDS5ocqhQU75km44B) | 4:10 | 2024-12-20 | 2025-04-26 |

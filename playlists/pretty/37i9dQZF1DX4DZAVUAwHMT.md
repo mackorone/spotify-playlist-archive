@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Deftones
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,689 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,651 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 50 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
 | 51 | [Flowers & Dirt](https://open.spotify.com/track/0mnUcuIMHiKQyHkkNNeKRr) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Flowers & Dirt](https://open.spotify.com/album/6dwzFHYwgGP9vL9Aod6U8P) | 2:07 |
 | 52 | [Tell Me](https://open.spotify.com/track/6IChUv8zQHDHFUJndu3i21) | [crysometimes](https://open.spotify.com/artist/152LeNynRSX8ddAcx8OH3V) | [Tell Me](https://open.spotify.com/album/1Ex50jOTZLtAO6zABhU9Fa) | 2:47 |
-| 53 | [Hide & Seek](https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Hide & Seek](https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2) | 3:07 |
+| 53 | [hide & seek](https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [hide & seek](https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2) | 3:07 |
 | 54 | [Gorilla Panic](https://open.spotify.com/track/5NRVsdXTLb1LpXegpEbINf) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [McCartney, It'll Be OK](https://open.spotify.com/album/72ngHbkK2oI4I3FRqN4cxR) | 6:16 |
 | 55 | [Mountain](https://open.spotify.com/track/4hzzWQqdqoTO48Eh169CVk) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Cryogeyser](https://open.spotify.com/album/6Mlt3SMLODQopH5IqNAtj6) | 2:59 |
 | 56 | [Headstones](https://open.spotify.com/track/4nHFfSDh3pX9uBr86FLVwf) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Headstones](https://open.spotify.com/album/3AscAyjq1SctzFVi1YoC4U) | 3:01 |

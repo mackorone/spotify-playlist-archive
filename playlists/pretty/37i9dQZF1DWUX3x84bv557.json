@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop! Nieuw: Robert van Hemert & Bilal Wahib (cover), Snelle en meer...",
-  "num_followers": 246608,
+  "num_followers": 246655,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHA3+QAAAABkuoKARTKVw6FSA+Rf7YQx",
+  "snapshot_id": "aHDGkgAAAAB6C8KctA0cPrDLjhZPbWdS",
   "tracks": [
     {
       "added_at": "2025-07-10 22:00:25",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-07-10 22:00:25",
       "album": {
+        "name": "Huis van Zwart en Rood / Cederhout",
+        "url": "https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe"
+      },
+      "artists": [
+        {
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "Huis van Zwart en Rood",
+      "url": "https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs"
+    },
+    {
+      "added_at": "2025-07-10 22:00:25",
+      "album": {
         "name": "Alleen in bed",
         "url": "https://open.spotify.com/album/3ZZSk0Ps2BT0gbQVhqD06b"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 186680,
       "name": "Hoe Zit Het Met Ons?",
       "url": "https://open.spotify.com/track/1rN5JHM21poaueaK01se6P"
-    },
-    {
-      "added_at": "2025-07-10 22:00:25",
-      "album": {
-        "name": "Huis van Zwart en Rood / Cederhout",
-        "url": "https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe"
-      },
-      "artists": [
-        {
-          "name": "De Nachtwacht",
-          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
-        }
-      ],
-      "duration_ms": 136874,
-      "name": "Huis van Zwart en Rood",
-      "url": "https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs"
     },
     {
       "added_at": "2025-07-10 22:00:25",

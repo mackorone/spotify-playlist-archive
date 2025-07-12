@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Laufey
 
-1,771 songs - 3 day 21 hr 33 min
+1,772 songs - 3 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,6 +1069,7 @@
 | [More Than Friends \(with HONNE\)](https://open.spotify.com/track/6Bxon4eYGOOwxXtSX9lhQo) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [More Than Friends \(with HONNE\)](https://open.spotify.com/album/6wfpyPte01RTckVpV3W1eq) | 4:09 | 2020-11-20 | 2021-01-27 |
 | [More to Give](https://open.spotify.com/track/0PfOhudjkIlTpw5xUU4Qak) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [More to Give](https://open.spotify.com/album/3rH6eaW5ZahFIMfJcHQL5P) | 2:26 | 2022-12-06 | 2023-02-04 |
 | [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 | 2022-09-23 | 2022-11-26 |
+| [Motel 6](https://open.spotify.com/track/48UjTuQXKI2h99PstOiTQY) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Motel 6](https://open.spotify.com/album/5nP4Z6tvYijPGKGCHBoggS) | 3:31 | 2025-07-11 |  |
 | [Mountain Peaks](https://open.spotify.com/track/3eNSC9m8CukWPWdef8znPg) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:28 | 2022-08-19 | 2022-12-03 |
 | [Movie](https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Movie](https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ) | 4:07 | 2021-09-11 | 2021-10-23 |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-04 | 2022-09-24 |
@@ -1192,7 +1193,7 @@
 | [Patience](https://open.spotify.com/track/32vpm7Lx0g4MCYk7hIBfSc) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [Patience](https://open.spotify.com/album/4hLp6YLEPXhSqnKiSpCwCK) | 2:48 | 2020-10-30 | 2021-02-06 |
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2024-08-09 |  |
 | [Peachi](https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Peachi](https://open.spotify.com/album/0QKRu2MTcmHm3Kkq0WH9MG) | 2:55 | 2021-09-25 | 2021-10-07 |
-| [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 | 2024-05-24 |  |
+| [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 | 2024-05-24 | 2025-07-12 |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-07-17 | 2021-10-23 |
 | [Pepper](https://open.spotify.com/track/4Jns0KelpyPwi9N17PTuBD) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Pepper](https://open.spotify.com/album/5thPPWoasp5LOlMqCWTQ7L) | 2:19 | 2021-03-06 | 2021-03-26 |
 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 | 2022-02-04 | 2022-03-05 |

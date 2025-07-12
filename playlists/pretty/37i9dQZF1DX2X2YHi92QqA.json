@@ -1,6 +1,6 @@
 {
   "description": "\u041f\u0440\u0438\u0454\u043c\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u0441\u043f\u0435\u043a\u043e\u0442\u043d\u0438\u0445 \u0434\u043d\u0456\u0432. \u041e\u0441\u043e\u0431\u043b\u0438\u0432\u043e \u0432 \u043b\u0438\u043f\u043d\u0456 \ud83c\udf4b \ud83c\udf34\ud83d\udca6",
-  "num_followers": 36569,
+  "num_followers": 36580,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u0414\u0456\u0442\u0438",
-        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
-      },
-      "artists": [
-        {
-          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
-          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
-        }
-      ],
-      "duration_ms": 238672,
-      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
-      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
         "url": "https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 213992,
       "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
       "url": "https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "\u0414\u0456\u0442\u0438",
+        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
+          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
+        }
+      ],
+      "duration_ms": 238672,
+      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
+      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
-        "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
-      },
-      "artists": [
-        {
-          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
-          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
-      "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "in the woods",
         "url": "https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 206605,
       "name": "mona melody",
       "url": "https://open.spotify.com/track/7refpl2VkxeIDOTlJfhIwE"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
+        "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
+      "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
     },
     {
       "added_at": "2025-06-03 09:56:43",

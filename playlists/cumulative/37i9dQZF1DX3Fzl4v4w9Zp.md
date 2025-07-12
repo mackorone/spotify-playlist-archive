@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Jesse Welles
 
-820 songs - 2 day 2 hr 27 min
+822 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Beyond Meaning](https://open.spotify.com/track/6HEINDDQ7xXqOaIefO5Gde) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Rituals](https://open.spotify.com/album/2Z8Kl2uftVIRnbLUy8qgaK) | 3:57 | 2025-05-30 |  |
 | [Big Dream](https://open.spotify.com/track/5lo4zC5rGaW50u2vWOAmRK) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Big Dream](https://open.spotify.com/album/4tDLw9FLXRaZI2VFk6iP1F) | 2:23 | 2024-03-22 | 2025-04-12 |
 | [Big Heart Sick Mind](https://open.spotify.com/track/1pG3FSWWJNZupq0MQGocSH) | [The Whitmore Sisters](https://open.spotify.com/artist/6LDUQ8ecAEvFDWE2khOE8h) | [Ghost Stories](https://open.spotify.com/album/2EUFKhiVBVohbP69NZ4ktf) | 2:33 | 2022-02-22 | 2022-08-20 |
+| [BIG MONEY](https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH) | 2:34 | 2025-07-11 |  |
 | [Big Time](https://open.spotify.com/track/0OhZEVzS5iCdPyVANAqGqm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/5cYoVs8TyCVkTUr8vjpIFF) | 4:07 | 2022-05-13 | 2022-07-29 |
 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 | 2022-07-22 | 2023-04-29 |
 | [Bitter Winds](https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Bitter Winds](https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg) | 4:21 | 2024-02-02 | 2025-06-07 |
@@ -320,6 +321,7 @@
 | [Hellbent For Leather](https://open.spotify.com/track/5Xt2Syl11aWO4EPGJP7cVn) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:08 | 2022-07-22 | 2022-08-06 |
 | [Hello Stranger \(feat\. S.G\. Goodman\)](https://open.spotify.com/track/1gWd9YGWMxVoEH9pSVCBon) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Hello Stranger \(feat\. S.G\. Goodman\)](https://open.spotify.com/album/5jzDJVklyWHXCAkSYWuMsc) | 3:46 | 2024-03-01 | 2024-04-06 |
 | [Help Me Remember](https://open.spotify.com/track/4GavZXRXpUzGMT8Gt4VOpG) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [You Get It All](https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT) | 4:55 | 2021-12-17 | 2022-02-23 |
+| [Here Today \(feat\. Jamey Johnson & Kaitlin Butts\)](https://open.spotify.com/track/1ybGM7mWi2HE2mBlfTPaMb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Here Today / Carry Me Home](https://open.spotify.com/album/6GbySLSDCStXg7HR8poDt6) | 2:56 | 2025-07-11 |  |
 | [Here We Go](https://open.spotify.com/track/7aV5jmIXrIVfDzEolpouAu) | [Paul Thorn](https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ) | [Two Tears of Joy](https://open.spotify.com/album/649r0qzpFML43QlQLjT9Lh) | 2:48 | 2021-12-17 | 2022-05-14 |
 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-28 | 2023-09-30 |
 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2022-04-01 | 2023-04-30 |

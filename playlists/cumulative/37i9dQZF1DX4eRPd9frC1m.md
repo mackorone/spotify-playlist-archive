@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-426 songs - 23 hr 1 min
+427 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Fever Dream](https://open.spotify.com/track/7nBFYnnuzZdqc6FN0elfl6) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Fever Dream](https://open.spotify.com/album/6Tj0ZOuQ5lxwtLgwQjErfE) | 3:44 | 2021-11-19 | 2022-01-08 |
 | [Fight Back](https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Fight Back](https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75) | 3:02 | 2021-11-19 | 2024-04-13 |
 | [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 | 2024-11-08 | 2025-04-26 |
+| [Five Hours \- CELO & MACHAKI Remix](https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [Five Hours \(CELO & MACHAKI Remix\)](https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq) | 2:09 | 2025-07-11 |  |
 | [FIX ME UP](https://open.spotify.com/track/5ZMTsepLQto8YblpbgyG5I) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [FIX ME UP](https://open.spotify.com/album/5kAgsu2Yqtc15bjtfNvsXX) | 2:15 | 2025-05-30 |  |
 | [Flat Line](https://open.spotify.com/track/2JmbEZudT2eA3kUp5nXGZf) | [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [All Killer No Filler EP](https://open.spotify.com/album/7HjEb7HP68bpVclylWutsl) | 2:24 | 2022-05-06 | 2023-01-21 |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-13 | 2024-03-02 |
@@ -403,7 +404,7 @@
 | [TYPE SH\*T](https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [TYPE SH\*T](https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g) | 3:32 | 2025-06-06 |  |
 | [U Nasty](https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [U Nasty](https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a) | 3:11 | 2021-11-19 | 2022-01-08 |
 | [Ultrasound](https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Ultrasound](https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w) | 3:05 | 2025-02-28 |  |
-| [Uncaged](https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Prosecute](https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T) | [Uncaged](https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07) | 2:30 | 2024-08-16 |  |
+| [Uncaged](https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Prosecute](https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T) | [Uncaged](https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07) | 2:30 | 2024-08-16 | 2025-07-12 |
 | [Underside](https://open.spotify.com/track/3uYVpgs8C0PFVV8DD4QCX6) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Hypogeal](https://open.spotify.com/album/7ze94wo3XfJSPTKDM5nchQ) | 2:09 | 2021-11-19 | 2022-01-08 |
 | [Undo \- AWAY Remix](https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [NOVA \(The Remixes, Vol\. 1\)](https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE) | 3:32 | 2021-11-19 | 2023-07-15 |
 | [Up Top](https://open.spotify.com/track/69kk00cqircAGyCr4VhSGf) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Up Top](https://open.spotify.com/album/02dhPSTWLTNeVjyplTQBiG) | 3:21 | 2025-05-23 |  |

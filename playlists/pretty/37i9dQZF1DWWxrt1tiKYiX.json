@@ -1,12 +1,12 @@
 {
   "description": "Lovely, acoustic pop. Cover: Ariana Grande",
-  "num_followers": 163642,
+  "num_followers": 163685,
   "original_name": "Acoustic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDUukwAAAACBVxn5SPldYS/+HiXIByOQ",
+  "snapshot_id": "aHCMRgAAAADLsrK8Fzxa74tvnVkPJ4x7",
   "tracks": [
     {
       "added_at": "2024-09-09 19:12:03",
@@ -299,6 +299,22 @@
       "duration_ms": 142363,
       "name": "greedy acoustic",
       "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
+    },
+    {
+      "added_at": "2025-07-11 04:00:06",
+      "album": {
+        "name": "Sapphire (Unplugged)",
+        "url": "https://open.spotify.com/album/1SSAC7Db5LEhTWtVVnvMva"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Sapphire - Unplugged",
+      "url": "https://open.spotify.com/track/1luf2qRRvfP0o35F3g8xqA"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 198568,
       "name": "All That Really Matters - Stripped Version",
       "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 321640,
-      "name": "State Of Grace (Acoustic Version) (Taylor's Version)",
-      "url": "https://open.spotify.com/track/5jAIouBES8LWMiriuNq170"
     },
     {
       "added_at": "2024-08-09 04:00:00",

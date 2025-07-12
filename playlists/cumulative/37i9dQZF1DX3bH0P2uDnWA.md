@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-408 songs - 22 hr 58 min
+409 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Believer \- Electro Swing Version](https://open.spotify.com/track/1e8diwtB6TyGmoL3Y1LHlx) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Simona Molinari](https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq), [Four On Six Band](https://open.spotify.com/artist/2jYXVygeBfAVpwTekUz70T) | [Believer \(Electro Swing Version\)](https://open.spotify.com/album/7hGyjOKjq1UVe4rVz3W3LW) | 3:27 | 2025-01-17 |  |
 | [Big Bad Wolf](https://open.spotify.com/track/5oDng0woFCH1OXJCTUhY1s) | [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Big Bad Wolf](https://open.spotify.com/album/3aXhjfpVZAjBKJsvZNqtt0) | 3:22 | 2022-10-12 | 2024-10-05 |
 | [Big Bad Wolf](https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE) | [Johnny Wright](https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c) | [Big Bad Wolf](https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h) | 3:10 | 2021-10-22 |  |
-| [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 | 2022-02-11 |  |
+| [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 | 2022-02-11 | 2025-07-12 |
 | [Biscuits and Cake](https://open.spotify.com/track/5bYaMq0PL7W3k4wFrm5xMy) | [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Biscuits and Cake](https://open.spotify.com/album/0TzY9qwYjfSEI9JpO3aNs9) | 2:42 | 2024-05-17 | 2025-05-24 |
 | [Black Betty](https://open.spotify.com/track/18WzUm7C5zIco4EvaFIszy) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty](https://open.spotify.com/album/2XJV4GQPAiBVqS1MPSiEo8) | 3:09 | 2023-11-06 | 2024-04-19 |
 | [Black Betty](https://open.spotify.com/track/2erfXuZOAQ8T6FjJPDFpBC) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/3byyWn1AUHzGOjPSxh8uBN) | 3:09 | 2020-10-30 |  |
@@ -323,6 +323,7 @@
 | [Stay \(Electro Swing Remix\)](https://open.spotify.com/track/6ZcdAII7aNBWqq7ZIjzoQe) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Stay \(Electro Swing Remix\)](https://open.spotify.com/album/0MYkQQArOoxc0Kdw88Niad) | 3:19 | 2020-10-30 |  |
 | [Stay Swing](https://open.spotify.com/track/2bBRrsQMO0yVhVX0mWG7G9) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Remote](https://open.spotify.com/album/12cCwjffS7Qxu6hfptUtut) | 4:32 | 2020-10-30 | 2022-07-29 |
 | [Step](https://open.spotify.com/track/72wlXAEF2A1dPfhGzNZSFA) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Don't Mean a Thing](https://open.spotify.com/album/0TdNnnOV3tQmZYggpxI2p5) | 5:13 | 2020-10-30 | 2022-05-15 |
+| [Stepping out with My Baby](https://open.spotify.com/track/1G3WNFjLIYF4hUuJuz2dhc) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Stepping out with My Baby](https://open.spotify.com/album/2ySRME2djXUOGkAo9Pv9Jw) | 2:34 | 2025-07-11 |  |
 | [Still Dancing](https://open.spotify.com/track/39R88egli2YgXq1omv1Io7) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Still Dancing](https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3) | 3:18 | 2020-10-30 |  |
 | [Stormy Night](https://open.spotify.com/track/3yv7S3DWESv8CF52hGglqH) | [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a) | [Stormy Night](https://open.spotify.com/album/4XGIFbYRL1U8MYTLFZsInB) | 2:28 | 2023-08-11 |  |
 | [Street Lamp Swing](https://open.spotify.com/track/4Vjc2hFx7GT7YtyfRmomgR) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Self Portrait in 3 Colors](https://open.spotify.com/album/09g7W6QRRXWNGDvfDtBtJe) | 3:57 | 2020-10-30 |  |

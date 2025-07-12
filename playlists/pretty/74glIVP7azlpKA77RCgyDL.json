@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Frayle.",
-  "num_followers": 8966,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Deftones.",
+  "num_followers": 8969,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAOVOtc0f/3ETDCW8hp+caBdXPN0j3h",
+  "snapshot_id": "AAAOX+Dr3kLbpp0EfAm+HGxS7uR3qWet",
   "tracks": [
+    {
+      "added_at": "2025-07-11 19:01:08",
+      "album": {
+        "name": "my mind is a mountain",
+        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
+    },
+    {
+      "added_at": "2025-07-11 19:01:56",
+      "album": {
+        "name": "They Circle Below",
+        "url": "https://open.spotify.com/album/06MfPdcynow89C5ouj0AP4"
+      },
+      "artists": [
+        {
+          "name": "Terminal Sleep",
+          "url": "https://open.spotify.com/artist/4ahzetH2uUpYI8of4wDnaN"
+        }
+      ],
+      "duration_ms": 229145,
+      "name": "They Circle Below",
+      "url": "https://open.spotify.com/track/1bKEfhrBwtGnk3L2xTL4ZC"
+    },
+    {
+      "added_at": "2025-07-11 19:01:20",
+      "album": {
+        "name": "Gore Of Being",
+        "url": "https://open.spotify.com/album/3Nns8PYQz8QGOQrveu25Up"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 231715,
+      "name": "Gore Of Being",
+      "url": "https://open.spotify.com/track/7a7Sb9JRZzAabOotJ1e5Ww"
+    },
+    {
+      "added_at": "2025-07-11 19:00:56",
+      "album": {
+        "name": "The Beat",
+        "url": "https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT"
+      },
+      "artists": [
+        {
+          "name": "Angel Du$t",
+          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+        }
+      ],
+      "duration_ms": 103066,
+      "name": "The Beat",
+      "url": "https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI"
+    },
+    {
+      "added_at": "2025-07-11 19:01:31",
+      "album": {
+        "name": "The Great Unknown",
+        "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 181956,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
+    },
+    {
+      "added_at": "2025-07-11 19:01:44",
+      "album": {
+        "name": "New Age Cannibal",
+        "url": "https://open.spotify.com/album/6wXFGn4umGGJiXyBoQfn1W"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        }
+      ],
+      "duration_ms": 162809,
+      "name": "New Age Cannibal",
+      "url": "https://open.spotify.com/track/1eqRJoujusZIptrlWpGbQV"
+    },
     {
       "added_at": "2025-07-04 19:17:02",
       "album": {

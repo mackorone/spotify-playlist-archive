@@ -1,13 +1,33 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Juan Mag\u00e1n, Lucho RK",
-  "num_followers": 1045076,
+  "num_followers": 1044817,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG0mdwAAAADfdIhsVHmqIRTC1fOuGLxd",
+  "snapshot_id": "aHDyEgAAAAC4XLoxchEWSm43k8Rom36h",
   "tracks": [
+    {
+      "added_at": "2025-07-08 14:08:55",
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "ANTES",
+      "url": "https://open.spotify.com/track/1SK2Xrd3XvqASmuNuN9ccM"
+    },
     {
       "added_at": "2025-07-08 14:08:55",
       "album": {
@@ -43,26 +63,6 @@
       "duration_ms": 184547,
       "name": "si te pillara",
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
-    },
-    {
-      "added_at": "2025-07-08 14:08:55",
-      "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "ANTES",
-      "url": "https://open.spotify.com/track/1SK2Xrd3XvqASmuNuN9ccM"
     },
     {
       "added_at": "2025-07-08 14:08:55",

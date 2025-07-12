@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-901 songs - 2 day 1 hr 2 min
+906 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 | 2021-02-04 | 2022-06-24 |
 | [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 | 2022-08-19 | 2023-06-03 |
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2021-06-16 | 2023-03-25 |
-| [Beautiful Gear](https://open.spotify.com/track/6aMhKykagnogP02QWgpxfC) | [MON MON](https://open.spotify.com/artist/3GdKUo22eKb2wAB7oEcfp3) | [Beautiful Gear](https://open.spotify.com/album/3wego2W8EQawGBHwujHXfo) | 2:09 | 2023-01-06 |  |
+| [Beautiful Gear](https://open.spotify.com/track/6aMhKykagnogP02QWgpxfC) | [MON MON](https://open.spotify.com/artist/3GdKUo22eKb2wAB7oEcfp3) | [Beautiful Gear](https://open.spotify.com/album/3wego2W8EQawGBHwujHXfo) | 2:09 | 2023-01-06 | 2025-07-12 |
 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2021-06-02 | 2023-05-23 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-09-02 | 2023-03-25 |
 | [Bee](https://open.spotify.com/track/4QcDFEszWjwcSKe7RyBcUC) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Bee](https://open.spotify.com/album/19dVlZ6FW7tePa2r9ZksTT) | 2:13 | 2023-01-20 | 2025-01-11 |
@@ -307,6 +307,7 @@
 | [Give it all](https://open.spotify.com/track/1aUnUW9nPKxjyzYRvr2J3v) | [Fabi.](https://open.spotify.com/artist/0vfz8aLN7UtvWnFlB3DwXG) | [Give it all](https://open.spotify.com/album/2qaIW1D8gFgcKMqLU200tg) | 2:04 | 2024-07-24 |  |
 | [Give It To U](https://open.spotify.com/track/55UOGvAkteFSxr3OiMRXWC) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [Give It To U](https://open.spotify.com/album/3S0bQ0E9LalW3Tt8Wxf4RH) | 2:28 | 2022-06-17 | 2024-08-31 |
 | [Give It Your All](https://open.spotify.com/track/39uperenLlTvIr38cybSU2) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Again Again](https://open.spotify.com/album/64zd8w6rBHX0X9T2JntuoD) | 2:33 | 2022-10-14 | 2024-07-25 |
+| [Give me a kiss](https://open.spotify.com/track/5NGuCJLXA2tj9lhM4sXaoZ) | [Gea](https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU) | [Give me a kiss](https://open.spotify.com/album/0cFTwNQJKeZerF5fFCqPVt) | 2:25 | 2025-07-11 |  |
 | [glacial](https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2) | [Tiriba](https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ) | [glacial](https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g) | 3:35 | 2022-02-10 | 2024-12-14 |
 | [glacial groove](https://open.spotify.com/track/0mdhMQbwDjPZHMkHnYGI05) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [glacial groove](https://open.spotify.com/album/5qS4a7yssrmqkMEmwcvhWx) | 2:33 | 2022-05-27 | 2025-03-22 |
 | [Glass](https://open.spotify.com/track/79wsuSlcsYxA4m8luNdsZ8) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [Glass](https://open.spotify.com/album/6ca75hH3T89df3Sb6RZCwA) | 2:15 | 2022-11-25 | 2024-11-30 |
@@ -421,6 +422,7 @@
 | [Laurier](https://open.spotify.com/track/7cGtbegZZSQNi7PlakMPvj) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [Laurier](https://open.spotify.com/album/57wPEiEcl3ApSWUw6wF8HU) | 2:56 | 2022-01-21 |  |
 | [lava flow](https://open.spotify.com/track/7slAkHLWy4JUosJAIiynDm) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [lava flow](https://open.spotify.com/album/5ZTT0wcucFuL8QxE8CTWET) | 2:08 | 2023-01-06 | 2025-02-22 |
 | [Le Lilo](https://open.spotify.com/track/0hGS08QMuu8V39NrGXwEoY) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [Le Lilo](https://open.spotify.com/album/4nczLStqN6TdpCSK8qDtgy) | 2:07 | 2020-12-24 | 2022-06-24 |
+| [Leaves](https://open.spotify.com/track/7LF4crR3oEPiQDyW7Ww6cr) | [Yavuz Grill](https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA) | [Leaves](https://open.spotify.com/album/6p0Gr3gpR3EJ4frKUVlVkb) | 2:32 | 2025-07-11 |  |
 | [Lekkoo](https://open.spotify.com/track/1jSdFS2JKeAfn0xZTEHksx) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 3:10 | 2021-01-18 | 2022-06-24 |
 | [Lemon Squeeze](https://open.spotify.com/track/6FU1c4BwszLZVOxeRHUJdw) | [Gridlocks](https://open.spotify.com/artist/0UdtexVQoBH5XHUwGEkCZO) | [Lemon Squeeze](https://open.spotify.com/album/6eXXUqP1foUYjU3nwRJMw1) | 3:04 | 2020-04-03\* | 2020-12-02 |
 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 | 2022-09-09 | 2024-12-14 |
@@ -466,7 +468,7 @@
 | [Magic Touch](https://open.spotify.com/track/6K43OgWy4rxmz7iKHij6Ua) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Magic Touch](https://open.spotify.com/album/1ontJHV8Xqor2szB88YxDP) | 2:12 | 2022-09-16 | 2025-03-22 |
 | [Magnolia](https://open.spotify.com/track/02MIc4aHuwUfI7G62gO3kl) | [Bagarn](https://open.spotify.com/artist/7u9VmLWduhshKEs2KOlSYz) | [Magnolia](https://open.spotify.com/album/0zrAYq6lCIqVTvHMh0g90M) | 2:25 | 2024-08-30 |  |
 | [Majestic Diver](https://open.spotify.com/track/5kl9KNQIIV3xPGvBP2xPmw) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Majestic Diver](https://open.spotify.com/album/46HzGw31BxoYlARH6kIspC) | 4:10 | 2020-04-14 | 2020-10-16 |
-| [Mamanuca](https://open.spotify.com/track/3EFMCEcsRrfDiDIEUlBgRi) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Mamanuca](https://open.spotify.com/album/2Ay9ThhhF500zjiEWoXBJm) | 2:16 | 2023-01-13 |  |
+| [Mamanuca](https://open.spotify.com/track/3EFMCEcsRrfDiDIEUlBgRi) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Mamanuca](https://open.spotify.com/album/2Ay9ThhhF500zjiEWoXBJm) | 2:16 | 2023-01-13 | 2025-07-12 |
 | [Mangoes](https://open.spotify.com/track/2oHMysSCTWlnImnzJQl0F1) | [Berner Sen](https://open.spotify.com/artist/78ChEYEGQx7KzLDQJRMpdX) | [Mangoes](https://open.spotify.com/album/3BeLy5onpeai6aj1y6v4Hx) | 2:11 | 2024-03-26 |  |
 | [Marathia](https://open.spotify.com/track/6Vcmffnur4CAIFaV0Z1VHv) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Marathia](https://open.spotify.com/album/3AjVuMTqsXGR7vXNo9OwSu) | 2:13 | 2022-10-28 | 2023-12-02 |
 | [Marbella Sun](https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Marbella Sun](https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC) | 3:44 | 2021-04-15 | 2023-01-20 |
@@ -479,7 +481,7 @@
 | [Metropolis](https://open.spotify.com/track/53VmLMntGkYdCFOgZ5GRxo) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Metropolis](https://open.spotify.com/album/6vOQHMTcqC9syjC360EWXa) | 3:53 | 2024-01-19 | 2025-02-22 |
 | [Mi Amor](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Mi Amor](https://open.spotify.com/album/61UED012ycFtrMV5N13AuT) | 3:18 | 2023-02-03 | 2025-06-25 |
 | [Midding](https://open.spotify.com/track/2jqPyoAGWAaxfjtHj8DZAb) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Midding](https://open.spotify.com/album/09KIZqC3nwi1nWWrb0Z0eL) | 7:32 | 2020-12-16 | 2020-12-24 |
-| [Midnight Snack](https://open.spotify.com/track/3BgBwSOMicBIfxRZpOewrz) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [Midnight Snack](https://open.spotify.com/album/5fC41QDe37WTx5PpcR1b2K) | 2:06 | 2023-09-22 |  |
+| [Midnight Snack](https://open.spotify.com/track/3BgBwSOMicBIfxRZpOewrz) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [Midnight Snack](https://open.spotify.com/album/5fC41QDe37WTx5PpcR1b2K) | 2:06 | 2023-09-22 | 2025-07-12 |
 | [Milano](https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Metropolis](https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW) | 1:59 | 2020-04-03\* | 2021-08-20 |
 | [Milano](https://open.spotify.com/track/11hZsWshuew6ChfGjFUJaZ) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Milano](https://open.spotify.com/album/5hQ3fkQ5WfNvap7WlAAUsd) | 3:35 | 2022-11-25 | 2024-07-25 |
 | [Millenium Drift](https://open.spotify.com/track/0eyfWC4XrqLKmOtuAxNPdj) | [Yoda Swings](https://open.spotify.com/artist/2DYf2Dz8b2oFY7R9ULbpO8) | [Millenium Drift](https://open.spotify.com/album/2C7L9F00xdvZbXRil9HEL7) | 2:36 | 2025-06-13 |  |
@@ -704,6 +706,7 @@
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-02-10 | 2022-04-06 |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2020-11-19 | 2021-07-08 |
 | [Silence of the lamps](https://open.spotify.com/track/7hIF3UGVczrTuKVazZZ5Kc) | [St\. Haze](https://open.spotify.com/artist/17k09aY5QjffK5L943zumG) | [Silence of the lamps](https://open.spotify.com/album/6FhZ3VbRGNSvMhogLSf3JV) | 2:10 | 2022-10-28 | 2025-02-08 |
+| [silkysmooth](https://open.spotify.com/track/2x4o4WaPZRtdkWiJoZ5yYK) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [silkysmooth](https://open.spotify.com/album/2pGNKhitHKrBI8JH37iiL7) | 2:41 | 2025-07-11 |  |
 | [Silver Linings](https://open.spotify.com/track/207O2adbsH3nKtNNSnxv6i) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Silver Linings](https://open.spotify.com/album/5dfBPBGvYWbAwUjVKPfJne) | 2:35 | 2024-01-19 | 2025-06-14 |
 | [Sima Deli](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U) | [Stockset](https://open.spotify.com/artist/2GsMlo9UOvZ2YcVoFtTOpt) | [Sima Deli](https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM) | 2:15 | 2023-06-23 |  |
 | [Skates](https://open.spotify.com/track/6Z0TyMJQSNAVJcLuUMVCPp) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Skates](https://open.spotify.com/album/03cXL0nQ5J3J83Xd4bglkE) | 3:00 | 2022-09-02 | 2024-08-31 |
@@ -820,7 +823,7 @@
 | [The Rush Hour](https://open.spotify.com/track/0KPZLD8jgy1JzoQG4wXHEQ) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [The Rush Hour](https://open.spotify.com/album/07lcKojkUz4DZSL4XpsUwT) | 2:43 | 2024-09-27 |  |
 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 | 2020-12-16 | 2022-04-06 |
 | [The Wait](https://open.spotify.com/track/324pDJfbknuqbfSmOp8p60) | [Alex Dovo](https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL) | [Makes Me Feel](https://open.spotify.com/album/29svWGr4NecSbSwbsLakw6) | 5:18 | 2020-04-14 | 2020-04-29 |
-| [The Year Was 1995](https://open.spotify.com/track/1XQQOghQ0cQvj1LGe5o74d) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [The Year Was 1995](https://open.spotify.com/album/2CvfmhmGbjn0Pyg7PwTTQk) | 3:04 | 2022-12-09 |  |
+| [The Year Was 1995](https://open.spotify.com/track/1XQQOghQ0cQvj1LGe5o74d) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [The Year Was 1995](https://open.spotify.com/album/2CvfmhmGbjn0Pyg7PwTTQk) | 3:04 | 2022-12-09 | 2025-07-12 |
 | [There](https://open.spotify.com/track/01qXAjf3nFvBruXlYs6KXA) | [Jean Caillou](https://open.spotify.com/artist/5SBg90332jOPtNutyYo2Ns) | [Departure Unknown](https://open.spotify.com/album/2BED7q2PoMjs9gXvogPiGM) | 10:42 | 2021-03-18 | 2021-04-21 |
 | [They Were Always Here](https://open.spotify.com/track/79zkDBN7aTXvU9pVRPyO9I) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [They Were Always Here](https://open.spotify.com/album/7298JP39sHxMRN6qYftTn7) | 2:39 | 2022-08-12 | 2025-06-14 |
 | [This is my Island](https://open.spotify.com/track/6jpYu1hpYh7jioilkeRQnz) | [Pure Indigo](https://open.spotify.com/artist/0kuQZf585oUCcp9aIKbgMu) | [Short and Sweet](https://open.spotify.com/album/0s21Rk25Kwhi4xPy8AYDhV) | 2:30 | 2020-08-04 | 2021-03-25 |
@@ -859,6 +862,7 @@
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2021-07-08 | 2025-01-25 |
 | [Until I'm Home](https://open.spotify.com/track/1UA9mnrucrT9yYOscmw1be) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb) | [Until I'm Home](https://open.spotify.com/album/0rDZkSIj0LVNQWrDzXInpu) | 3:18 | 2020-04-03\* | 2021-01-05 |
 | [Uphills](https://open.spotify.com/track/4d3TNDKyQuHKla1p56aLeG) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Uphills](https://open.spotify.com/album/0KRQSCLixeVCIs4Q1ASrzZ) | 2:29 | 2023-11-24 | 2024-12-14 |
+| [Uptown Stroll](https://open.spotify.com/track/4BPv8odp94pGOEV1zZsBbM) | [Half Tone](https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8) | [Uptown Stroll](https://open.spotify.com/album/2BUcmHrUcBXrRGlrr8I2Eu) | 2:45 | 2025-07-11 |  |
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2021-08-20 | 2022-02-11 |
 | [Vacaciones](https://open.spotify.com/track/7qZigaS8Wx6JuBue3JMGzc) | [Sebastian Campos](https://open.spotify.com/artist/6ziUFFJdD7qKJESWP1K1Ee) | [Vacaciones](https://open.spotify.com/album/6S1OAh4LVIhJs9QDDKPZBG) | 2:41 | 2021-02-04 | 2021-08-20 |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2021-11-08 | 2024-08-31 |
@@ -895,6 +899,7 @@
 | [wish u were here](https://open.spotify.com/track/61nH9WsvcwQJio8J2lDGvq) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [wish u were here](https://open.spotify.com/album/1LkWvUprh75G4ZYTqc9Wcv) | 2:12 | 2022-09-09 | 2024-11-30 |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2020-04-03\* | 2022-04-06 |
 | [With You](https://open.spotify.com/track/5kTmzoBxzCfNVYncjgUnPs) | [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [With You](https://open.spotify.com/album/3gV97FIq9Y9DZQEymC8mI4) | 2:49 | 2020-10-27 | 2022-06-24 |
+| [Without You](https://open.spotify.com/track/0ttcARzSdqCcHtIKpeCpjA) | [The Jazz](https://open.spotify.com/artist/2oC0tJT3AwkfUwL95u1Drc) | [Without You](https://open.spotify.com/album/2ZFyf5MHGzT370A9GwvOH0) | 2:06 | 2025-07-11 |  |
 | [Wonder More](https://open.spotify.com/track/6Ex4RotAvWFZ8Gs72DTOGI) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Wonder More](https://open.spotify.com/album/7spk3K6Q5V2mmpNa6x3pF7) | 2:59 | 2024-03-04 | 2025-06-14 |
 | [Wonderland](https://open.spotify.com/track/35NXCV8pnH2PMGBJw4WM6i) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Wonderland](https://open.spotify.com/album/4mUaHKnvqRotURBNspjer4) | 4:23 | 2021-02-10 | 2021-09-22 |
 | [Woodland](https://open.spotify.com/track/7hHrKHSTH6QFoKWl4xdZhx) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Woodland](https://open.spotify.com/album/3jeXBKbRQdPtQm924oDr4t) | 3:37 | 2020-11-27 | 2021-01-05 |

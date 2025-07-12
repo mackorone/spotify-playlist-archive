@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with Chaos In The CBD
 
-124 songs - 8 hr 21 min
+125 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [AWA \- Atjazz Love Soul Mix](https://open.spotify.com/track/5Nwn75vYZCEtTf0bFNT6AT) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [AWA \(Atjazz Remixes\)](https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin) | 6:32 | 2025-02-21 | 2025-05-10 |
 | [Azura](https://open.spotify.com/track/43XuQmyHVzWJkY1AJEnlrX) | [Edmondson](https://open.spotify.com/artist/0Z21z5mCbDZhKD8kOXfo28), [Mahyar Rahmantalab Vaghei](https://open.spotify.com/artist/40pPjLvgdPbPkuOdcgDOIp) | [Azura](https://open.spotify.com/album/6wsH192UPSVkxNC7wqbmLM) | 5:46 | 2025-05-16 |  |
 | [Barcode](https://open.spotify.com/track/4f88T1UG83f1pd3fvSssHw) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r) | [Barcode](https://open.spotify.com/album/6J8ZbmGKSEQdknktSqrzrC) | 4:48 | 2025-04-04 |  |
+| [Because of You](https://open.spotify.com/track/1TAQSiBoxONckukXzCorKI) | [Rumorous](https://open.spotify.com/artist/2XKWm3Uk9YQ418fqTUx7pp) | [Because of You](https://open.spotify.com/album/5XviObYgWnXvqwUymw9Zmx) | 2:19 | 2025-07-11 |  |
 | [Belle](https://open.spotify.com/track/19MuwU5fHAmlSjqXSfILhR) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Belle](https://open.spotify.com/album/6405dSaBJmxm2tMEDaeBbz) | 2:25 | 2025-02-21 | 2025-05-03 |
 | [Ben Days](https://open.spotify.com/track/67hs9rQxAVvq9mfyTOhPQj) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Ben Days](https://open.spotify.com/album/4JSUbHlKDPlHJlu5CxWq8J) | 3:20 | 2025-04-04 |  |
 | [bianca](https://open.spotify.com/track/6220GDztdVktDOvs48Rw0d) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [the wine is ok](https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak) | [bianca](https://open.spotify.com/album/0ClcyQk8ZXFRwPQyNnKQZI) | 2:35 | 2025-05-30 |  |
@@ -57,7 +58,7 @@
 | [high vibrations](https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [high vibrations](https://open.spotify.com/album/7icKH7oDXCA2m6V6tks0XO) | 5:35 | 2025-03-21 |  |
 | [Highway \- Teuteu Remix](https://open.spotify.com/track/6roW4lfkqGDImLNcDyeVLC) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Highway \(Teuteu Remix\)](https://open.spotify.com/album/3P4NlDbWunICUGKBvDVzlJ) | 2:33 | 2025-02-28 |  |
 | [Honest](https://open.spotify.com/track/1PmFdQoJL1gcPutNAJ9tWW) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi) | [Honest](https://open.spotify.com/album/1eg5mGZQAdQU5jLeepc6nS) | 2:25 | 2025-02-28 |  |
-| [Hotspot](https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Hotspot](https://open.spotify.com/album/0XRIt2aMkeOSaaVoZeEySh) | 2:46 | 2025-02-21 |  |
+| [Hotspot](https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Hotspot](https://open.spotify.com/album/0XRIt2aMkeOSaaVoZeEySh) | 2:46 | 2025-02-21 | 2025-07-12 |
 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 | 2025-02-28 | 2025-03-22 |
 | [I'm here.](https://open.spotify.com/track/1xC2XNZCIlmfuCDTF9b2bu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [I'm here.](https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i) | 2:37 | 2025-02-21 |  |
 | [I'M SORRY](https://open.spotify.com/track/17PF2BxCI4klUDl3JgbIIt) | [Your friend daao](https://open.spotify.com/artist/1YK6LlpClehFPoCkFttVdw) | [I'M SORRY](https://open.spotify.com/album/00iQTzEuuPwCFlQGaJb9ub) | 3:53 | 2025-02-28 | 2025-03-22 |

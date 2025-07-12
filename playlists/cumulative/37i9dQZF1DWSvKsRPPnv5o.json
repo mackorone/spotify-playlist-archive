@@ -141,6 +141,32 @@
     },
     {
       "album": {
+        "name": "Until Night Comes",
+        "url": "https://open.spotify.com/album/2ok9fpBrRD9JARHxncBtLk"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo Got Wings",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183406,
+      "name": "100 Bags (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/3Gh8WmWJWjHbyKuX2OD34N"
+    },
+    {
+      "album": {
         "name": "105 West (feat. Ty Dolla $ign, Channel Tres, DJ Quik)",
         "url": "https://open.spotify.com/album/5hQTxZd5TH93SrtETsFB52"
       },
@@ -598,6 +624,28 @@
       "duration_ms": 157107,
       "name": "5 seater",
       "url": "https://open.spotify.com/track/4sPrKPhOFAugXVoGjAoBy6"
+    },
+    {
+      "album": {
+        "name": "Until Night Comes",
+        "url": "https://open.spotify.com/album/2ok9fpBrRD9JARHxncBtLk"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo Got Wings",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "50's in the City",
+      "url": "https://open.spotify.com/track/55Cht4MPlMbJYN5rF1ZPeo"
     },
     {
       "album": {
@@ -2576,7 +2624,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 131473,
       "name": "Ben Aki",
       "url": "https://open.spotify.com/track/7oYIuE3HAInSbIlJwmooHB"
@@ -4038,6 +4086,28 @@
       "duration_ms": 97253,
       "name": "Can't",
       "url": "https://open.spotify.com/track/4Mzw6hzfp3KPfnrdkmENUk"
+    },
+    {
+      "album": {
+        "name": "Can't Check Me",
+        "url": "https://open.spotify.com/album/2RlicTBcSj1RokkP1HKJ8e"
+      },
+      "artists": [
+        {
+          "name": "Younginsosleaze",
+          "url": "https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o"
+        },
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138737,
+      "name": "Can't Check Me",
+      "url": "https://open.spotify.com/track/1dQUvq9imJAclPlg3aTsnB"
     },
     {
       "album": {
@@ -5964,7 +6034,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 225000,
       "name": "DO IT",
       "url": "https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6"
@@ -9090,10 +9160,40 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 227184,
       "name": "Gang Gang (feat. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3)",
       "url": "https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb"
+    },
+    {
+      "album": {
+        "name": "Gang Gang Gangland",
+        "url": "https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg"
+      },
+      "artists": [
+        {
+          "name": "Chef Boy",
+          "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Gang Gang Gangland",
+      "url": "https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z"
     },
     {
       "album": {
@@ -10228,7 +10328,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 134478,
       "name": "Got It on Me",
       "url": "https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K"
@@ -10762,6 +10862,28 @@
       "duration_ms": 303385,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
+    },
+    {
+      "album": {
+        "name": "Havin Or Not",
+        "url": "https://open.spotify.com/album/4X29GaDPXMrlCbk7Ax3bya"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167181,
+      "name": "Havin Or Not",
+      "url": "https://open.spotify.com/track/4Ym4cbJ00tor6Ux1zeV4Rl"
     },
     {
       "album": {
@@ -14010,6 +14132,24 @@
     {
       "album": {
         "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6I5l0sqv49m9ppUd0UfjvR"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162350,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/56FWrhg5xGC7SmhkdOlCzs"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
         "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
       },
       "artists": [
@@ -15588,7 +15728,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 316535,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/1NZsaTXHZ8OrNoHavqQHjx"
@@ -19995,6 +20135,24 @@
     },
     {
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1cbXkQCCUBQitL1upVVrGZ"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/604LvqsdR9GNX5IdPAMUiS"
+    },
+    {
+      "album": {
         "name": "RECKLESS & RATCHET",
         "url": "https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx"
       },
@@ -20050,7 +20208,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 132734,
       "name": "Red Leather",
       "url": "https://open.spotify.com/track/1q6uAE19vAVYA8VClXFCTM"
@@ -20572,6 +20730,24 @@
       "duration_ms": 133608,
       "name": "Rubi Rose",
       "url": "https://open.spotify.com/track/76IAgCCmuXJnx3j4LjJaLm"
+    },
+    {
+      "album": {
+        "name": "Rucci, I Luv U",
+        "url": "https://open.spotify.com/album/4GReRw0auBIg1Dshm80aFB"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143791,
+      "name": "Rucci, I Luv U",
+      "url": "https://open.spotify.com/track/7lVmH2y2WwudeVeqSZYd6C"
     },
     {
       "album": {
@@ -24422,7 +24598,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 196557,
       "name": "The Method",
       "url": "https://open.spotify.com/track/0dFH3oc8wikiyi5p5gLUlP"
@@ -24634,7 +24810,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 207272,
       "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
       "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
@@ -26954,7 +27130,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 224750,
       "name": "Ya Feel Me",
       "url": "https://open.spotify.com/track/6vYcahYlvDglD2q1xAoMOa"
@@ -27054,6 +27230,28 @@
       "duration_ms": 160714,
       "name": "Yaya Vs Everybody",
       "url": "https://open.spotify.com/track/3l4eovBIZQSaSzYXf1zcDR"
+    },
+    {
+      "album": {
+        "name": "Tha Language",
+        "url": "https://open.spotify.com/album/1eR7AfJfPEsLTnkpkTEoi8"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192058,
+      "name": "Yea Yea",
+      "url": "https://open.spotify.com/track/68lvLHNsJlCLAnrskbell4"
     },
     {
       "album": {

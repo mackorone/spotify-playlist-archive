@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "featuring Pocket + Kiki \ud83d\udc9e it's all the best indie dance tracks of the moment",
+  "description": "it's 4am and we're bumping camoufly's debut album \ud83d\udc9a  all the best indie dance tracks of the moment",
   "name": "metropolis",
   "tracks": [
     {
@@ -452,6 +452,28 @@
       "duration_ms": 265505,
       "name": "405 - Metronomy x Biig Piig",
       "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
+    },
+    {
+      "album": {
+        "name": "NEW SKIN",
+        "url": "https://open.spotify.com/album/34cWNhZY4Z8OWtlNoXAbm2"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "Yazida",
+          "url": "https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161196,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/6WbD3aKWfbOQNsrShunW6o"
     },
     {
       "album": {
@@ -5865,6 +5887,24 @@
     },
     {
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231737,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
+    },
+    {
+      "album": {
         "name": "EUSEXUA",
         "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
       },
@@ -7620,7 +7660,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 241996,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/4dXVydA1uwkWnaVtH1IfgH"
@@ -9679,6 +9719,28 @@
     },
     {
       "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/1Z27SzwBoFMwIrh6crcVWN"
+      },
+      "artists": [
+        {
+          "name": "Gourmet Groove",
+          "url": "https://open.spotify.com/artist/3aOSAaJGgJoMM44sekh3aG"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154512,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/333JphECeA2WEG7ioqRl7A"
+    },
+    {
+      "album": {
         "name": "Ecstasy (Over & Over)",
         "url": "https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb"
       },
@@ -9974,7 +10036,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 398000,
       "name": "ENTROPIA",
       "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
@@ -11832,7 +11894,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 249120,
       "name": "Flying Away With You",
       "url": "https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL"
@@ -17045,6 +17107,24 @@
     },
     {
       "album": {
+        "name": "In the Nightclub",
+        "url": "https://open.spotify.com/album/0i9q5Og1Tnoql7YzzvDASh"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "In The Nightclub",
+      "url": "https://open.spotify.com/track/5NnlfYPuWIdebXXeuEmBn1"
+    },
+    {
+      "album": {
         "name": "Over & Over",
         "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
       },
@@ -19966,7 +20046,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 156184,
       "name": "llamando",
       "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
@@ -22728,6 +22808,24 @@
       "duration_ms": 202391,
       "name": "Moth Love",
       "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
+    },
+    {
+      "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/1nKbm1qYmxHKXHplTVna51"
+      },
+      "artists": [
+        {
+          "name": "Florian Hope",
+          "url": "https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190606,
+      "name": "Motions",
+      "url": "https://open.spotify.com/track/3D81x9iBQu5Q0Xqhr5k8JV"
     },
     {
       "album": {
@@ -27796,7 +27894,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 230964,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/1t3man2DnIBOEZLp6UD38a"
@@ -30406,7 +30504,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 213466,
       "name": "Song for You",
       "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
@@ -37019,6 +37117,28 @@
     },
     {
       "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/1ywWvvGKD1tr5CysgqTyDD"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183130,
+      "name": "Who Loves You",
+      "url": "https://open.spotify.com/track/0c57OvZwYt8JpvlGYVfJu6"
+    },
+    {
+      "album": {
         "name": "Who's Gonna Love You Tonight (with Tinashe)",
         "url": "https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu"
       },
@@ -37649,6 +37769,24 @@
     },
     {
       "album": {
+        "name": "YOU & I",
+        "url": "https://open.spotify.com/album/73m0ey9PE0N21PGx5j0UGX"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165227,
+      "name": "YOU & I",
+      "url": "https://open.spotify.com/track/3RzWcLaQTJwv0Q3j0t1Z5w"
+    },
+    {
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -37842,7 +37980,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 214638,
       "name": "you loved me like a fool",
       "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"

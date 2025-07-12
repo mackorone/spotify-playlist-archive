@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: William Murphy
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Pastor Mike Jr.
 
-686 songs - 2 day 10 hr 43 min
+687 songs - 2 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 | 2024-02-23 | 2024-07-13 |
 | [Breathe \(feat\. Chandler Moore, Jonathan McReynolds, DOE & Mav City Gospel Choir\) \- Studio Version](https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Breathe \- EP](https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA) | 5:26 | 2022-02-18 | 2022-05-20 |
 | [Bridge Over Troubled Water \(with CeCe Winans\) \- Live VH1 Honors \- June 22, 1995](https://open.spotify.com/track/767NCpvhtPBaQKsHWEGbHh) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [I Go To The Rock: The Gospel Music Of Whitney Houston](https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn) | 5:34 | 2023-03-24 | 2023-06-10 |
-| [BYE](https://open.spotify.com/track/2B9aV8yQhiapL4rl7hz9zN) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God Showing Out](https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW) | 2:13 | 2025-06-06 |  |
+| [BYE](https://open.spotify.com/track/2B9aV8yQhiapL4rl7hz9zN) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God Showing Out](https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW) | 2:13 | 2025-06-06 | 2025-07-12 |
 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 | 2022-04-08 | 2023-03-25 |
 | [Call on the Name](https://open.spotify.com/track/2oqgLDeDlMurQzhCJ7WQOa) | [Marcus Jordan](https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva) | [Call on the Name](https://open.spotify.com/album/2bvdmfQXkSi7LRy6ZcbX2g) | 5:15 | 2023-02-10 | 2024-02-03 |
 | [Canvas & Clay \(King of My Heart\) \[feat\. DOE & Jonathan Traylor\]](https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:42 | 2022-04-29 | 2023-04-29 |
@@ -603,6 +603,7 @@
 | [Trust And Obey](https://open.spotify.com/track/2WejXaH5aMxcd0AEb6dsC0) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Trust And Obey](https://open.spotify.com/album/7v8jeOwumU7aGUbEt84srF) | 3:36 | 2023-08-25 | 2023-09-16 |
 | [Trusting God](https://open.spotify.com/track/2IwAiKFnyflwHLSrElGUTl) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Trusting God](https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO) | 4:51 | 2023-03-03 | 2023-05-27 |
 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 | 2023-08-25 | 2023-09-09 |
+| [Turn It Around](https://open.spotify.com/track/511ZzubAccO7n3hAwhY3EW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Confetti & Conspiracies: The Amen Mixtape](https://open.spotify.com/album/3n1ZcpEmjNKXc7M5VPmkZX) | 2:17 | 2025-07-11 |  |
 | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 | 2023-12-08 | 2025-04-26 |
 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 | 2023-09-29 | 2023-10-21 |
 | [Up Up Up \- Single Version](https://open.spotify.com/track/08Gac8vZ7kfxJSkDXFqXa8) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Up Up Up](https://open.spotify.com/album/0CylFxmZ1kFfUKmkyemBb7) | 3:28 | 2024-04-19 | 2025-01-11 |

@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Cash Cobain
 
-129 songs - 5 hr 56 min
+130 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,11 +74,11 @@
 | [lemme get ya \#](https://open.spotify.com/track/3PU4l9xwLw7jqjazooLqL1) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 3:45 | 2025-02-14 | 2025-03-08 |
 | [Lexy Sove](https://open.spotify.com/track/28xIKL8bPz0xsyAkNpyQpp) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BIRTHDAY MIX 6](https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX) | 2:52 | 2025-02-28 | 2025-06-07 |
 | [Lifted](https://open.spotify.com/track/0zMzOp7GY9yBrTFB8ZKtpK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:50 | 2024-12-26 |  |
-| [Like Aaliyah](https://open.spotify.com/track/43D85hB9carOI2zSfSqVTG) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [Lights, Camera, Action](https://open.spotify.com/album/2jGAugOutckWYBOpNhVNAq) | 2:24 | 2025-06-06 |  |
+| [Like Aaliyah](https://open.spotify.com/track/43D85hB9carOI2zSfSqVTG) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [Lights, Camera, Action](https://open.spotify.com/album/2jGAugOutckWYBOpNhVNAq) | 2:24 | 2025-06-06 | 2025-07-12 |
 | [Like This \(Remix\) \[feat\. Bay Swag and wolfacejoeyy\]](https://open.spotify.com/track/09VSVEnGU1QDktP3WBRQRF) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [2 Sides of the Story \(Deluxe\)](https://open.spotify.com/album/4448e2jWEMcHjOQJKQk2u9) | 3:10 | 2024-12-13 | 2025-01-18 |
 | [Loopy](https://open.spotify.com/track/1FQ4gFzY4SAsvVtqqzBcOW) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Loopy](https://open.spotify.com/album/6HzhPQQ81iZ8wMLhmDBjGS) | 2:21 | 2024-10-25 |  |
 | [LUV U](https://open.spotify.com/track/5RLKu8UORU150aRLREflOK) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [LUV U](https://open.spotify.com/album/7eQ7lfwB8uHZMs1KpOKsWx) | 2:15 | 2025-04-18 | 2025-05-30 |
-| [Lyin'](https://open.spotify.com/track/3iwHtBrb7BV03RkmCHuVXV) | [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [Lyin'](https://open.spotify.com/album/1AiGt6FH47Bt58JvGAiF1B) | 2:44 | 2025-06-19 |  |
+| [Lyin'](https://open.spotify.com/track/3iwHtBrb7BV03RkmCHuVXV) | [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [Lyin'](https://open.spotify.com/album/1AiGt6FH47Bt58JvGAiF1B) | 2:44 | 2025-06-19 | 2025-07-12 |
 | [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 | 2024-10-25 |  |
 | [Make It](https://open.spotify.com/track/5Kruw5nxEp8kP9PSENCs2j) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Make It](https://open.spotify.com/album/2ALakB56cdxPOLT3jByPcn) | 3:00 | 2024-11-22 | 2024-11-30 |
 | [Masterpiece](https://open.spotify.com/track/6tnpw5No4aPQaYvh53AiPJ) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MR\. R2R](https://open.spotify.com/album/3wayBXXQkgzlcK2LDVsJlv) | 2:27 | 2024-10-25 | 2024-12-27 |
@@ -114,6 +114,7 @@
 | [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 | 2024-11-29 |  |
 | [Sundress \(with Bay Swag\)](https://open.spotify.com/track/1qMNISVgQ05XfjFLj7wRCb) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Sundress](https://open.spotify.com/album/1AyhqvL8aCOP8sTpwfk4jC) | 2:04 | 2025-03-28 |  |
 | [Superstar Status](https://open.spotify.com/track/3ZhzMJnMGNkUT6qc9XpvkN) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Superstar Status](https://open.spotify.com/album/3KNL12GpIKkM0Jt3zM6DDZ) | 2:56 | 2025-03-28 |  |
+| [SWAG](https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:30 | 2025-07-11 |  |
 | [swag it!](https://open.spotify.com/track/09Hd4FJEuSAWVvv4W152Wg) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [swag it!](https://open.spotify.com/album/2LBEpxENc2U91CV2bHA8bP) | 3:17 | 2025-02-28 | 2025-05-10 |
 | [swag it! \- Remix](https://open.spotify.com/track/7u8eXlHIWOLGqOjp6XnM3x) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 3:11 | 2024-10-25 |  |
 | [Tat My Name](https://open.spotify.com/track/5ctdeiIEDzeYxeKAPmTU9y) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Read This When You Wake Up](https://open.spotify.com/album/12jOMUVgZAPZefVHeivVrL) | 3:04 | 2024-12-13 |  |

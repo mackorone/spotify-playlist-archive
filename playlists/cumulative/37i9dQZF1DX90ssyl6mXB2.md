@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Maz B
+> late night vibes – notifications off\. cover: Karri
 
-229 songs - 10 hr 37 min
+230 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 | 2024-10-19 |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-02 |  |
 | [Sinner](https://open.spotify.com/track/7fuDGYEbVcW9fJUhrDeOXV) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1legD3bkAr8HutjWGJ2ZS3) | 1:39 | 2024-02-02 | 2024-04-19 |
+| [slauson ave](https://open.spotify.com/track/5JoHFViqTBsyqkrcNgI7Rl) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [slauson ave](https://open.spotify.com/album/0L5oEuJ5DiYLE73IeQp0vl) | 2:45 | 2025-07-11 |  |
 | [Smoke + Mirrors \(Remix\)](https://open.spotify.com/track/2llhKemeYEaIH5gOiE9o4R) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Smoke + Mirrors \(Remix\)](https://open.spotify.com/album/4Q5IBAmOTbs1O0IZsEWkIU) | 2:48 | 2024-10-25 |  |
 | [Someday](https://open.spotify.com/track/243MZdDZaiZwNw5UMIUcMn) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Someday](https://open.spotify.com/album/6m1UOy8xyZBjmz33YPuWwY) | 3:27 | 2024-06-28 |  |
 | [Soul On Fire](https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Soul On Fire](https://open.spotify.com/album/76MCbADCF4wMTika7FpgZK) | 2:13 | 2024-10-25 |  |

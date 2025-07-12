@@ -3139,6 +3139,32 @@
     },
     {
       "album": {
+        "name": "Monica (From \"Coolie\") (Tamil)",
+        "url": "https://open.spotify.com/album/0JVeWlWdj13Q8PdEFmsjqX"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217627,
+      "name": "Monica (From \"Coolie\") (Tamil)",
+      "url": "https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv"
+    },
+    {
+      "album": {
         "name": "Mosalo Mosalu (From \"The Legend\")",
         "url": "https://open.spotify.com/album/2yKqahOc07iCMLcQmpY4LZ"
       },
@@ -3418,7 +3444,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 215489,
       "name": "Namma Satham",
       "url": "https://open.spotify.com/track/1ozc22BE86sSLTdoUjmN6W"

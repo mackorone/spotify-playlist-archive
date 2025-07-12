@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Mello Buckzz",
+  "description": "The Midwest is always on time. Cover: Chicken P",
   "name": "CST",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 100075,
       "name": "1017 (feat. Bloodhound Lil Jeff)",
       "url": "https://open.spotify.com/track/4ebmksi7E2ei9mp9sHKaD6"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 131851,
       "name": "2-Double-O Dash",
       "url": "https://open.spotify.com/track/50YIryYZfcbdqTt20Lb0F1"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 97081,
       "name": "At The Light",
       "url": "https://open.spotify.com/track/7nFoyOOHaIf5M7J0wlYO90"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 136296,
       "name": "Bathing Ape",
       "url": "https://open.spotify.com/track/1JFyLFBa8kJHM08oUCWUQb"
@@ -3623,6 +3623,28 @@
     },
     {
       "album": {
+        "name": "Boring (feat. Nino Paid)",
+        "url": "https://open.spotify.com/album/6cRZGEt5seC5dJdr9AacGi"
+      },
+      "artists": [
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139006,
+      "name": "Boring (feat. Nino Paid)",
+      "url": "https://open.spotify.com/track/1zgdLsKsrTenOciccB8Atl"
+    },
+    {
+      "album": {
         "name": "Born By the River (feat. Sukihana)",
         "url": "https://open.spotify.com/album/7oBeYzlVYicGw7eovQGLxy"
       },
@@ -4132,7 +4154,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 222184,
       "name": "Can\u2019t Be Crete Boy",
       "url": "https://open.spotify.com/track/6azLIBwMsR99vcd360aoGE"
@@ -6742,7 +6764,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 142177,
       "name": "Fairy",
       "url": "https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U"
@@ -8803,6 +8825,24 @@
     },
     {
       "album": {
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/1t4PKLoXYU9PSXdlSvzqq7"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191351,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/5iSdtklaHGhsLtWZDgFUiB"
+    },
+    {
+      "album": {
         "name": "Green Carpet",
         "url": "https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef"
       },
@@ -9852,7 +9892,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 205483,
       "name": "Hood Cry",
       "url": "https://open.spotify.com/track/04hszpzZPMijTmaknHOyL4"
@@ -9994,7 +10034,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 182137,
       "name": "Hotseat",
       "url": "https://open.spotify.com/track/6ZUi0NzAIED3uJEPuSI3LW"
@@ -14215,6 +14255,24 @@
     },
     {
       "album": {
+        "name": "Mourning Money",
+        "url": "https://open.spotify.com/album/1pi7hJ049FMPxJt0u37Zys"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139036,
+      "name": "Mourning Money",
+      "url": "https://open.spotify.com/track/5Vj6Vr9deVpxHZsGqaVKki"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/3jnK7XBAoJtFW414uuxEVy"
       },
@@ -14798,6 +14856,24 @@
       "duration_ms": 153691,
       "name": "Need4Speed",
       "url": "https://open.spotify.com/track/1G1iwWjnbctKpb0LhcX93Q"
+    },
+    {
+      "album": {
+        "name": "Netflix & Chill",
+        "url": "https://open.spotify.com/album/2RqOufNzPUbK79GrGdUrnm"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226131,
+      "name": "Netflix & Chill",
+      "url": "https://open.spotify.com/track/6XRgm5ugonEcPhwKqCTiQa"
     },
     {
       "album": {
@@ -16020,7 +16096,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 171212,
       "name": "Out the Roof",
       "url": "https://open.spotify.com/track/4rDbPbGCQghPrL2CY5r6gX"
@@ -18182,7 +18258,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 168607,
       "name": "RIP LU MIKE",
       "url": "https://open.spotify.com/track/0vGUa6VvIh3enBdBQ8unAh"
@@ -18472,6 +18548,28 @@
       "duration_ms": 130000,
       "name": "Roll Up Hot",
       "url": "https://open.spotify.com/track/6uGe0mI2O24OYW6hkUy8DZ"
+    },
+    {
+      "album": {
+        "name": "Rollie",
+        "url": "https://open.spotify.com/album/7a3zUiCpeGKP301mNa6xft"
+      },
+      "artists": [
+        {
+          "name": "Myaap",
+          "url": "https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ"
+        },
+        {
+          "name": "414Jungle Baby",
+          "url": "https://open.spotify.com/artist/3TFyq714PjLQ9qtsCiC1GM"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Rollie",
+      "url": "https://open.spotify.com/track/2doZY58YmUIYF5gXdWaxFp"
     },
     {
       "album": {
@@ -20570,7 +20668,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 109488,
       "name": "Splash Bros 2",
       "url": "https://open.spotify.com/track/2msonM6zwDG2Cq1ZvVwFmV"
@@ -20913,6 +21011,24 @@
     },
     {
       "album": {
+        "name": "Still Outside",
+        "url": "https://open.spotify.com/album/4IUWmiZN9siz1bT7TPBC1z"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114503,
+      "name": "Still Outside",
+      "url": "https://open.spotify.com/track/28wOg9MxyrFiOJ3yf5sJPQ"
+    },
+    {
+      "album": {
         "name": "Stl Finest",
         "url": "https://open.spotify.com/album/5kwOC8z4ymxcLd7UBT0uLY"
       },
@@ -21237,6 +21353,24 @@
     },
     {
       "album": {
+        "name": "Hollyhood",
+        "url": "https://open.spotify.com/album/4wAO8YhcscTjmhOdFR6mQy"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126467,
+      "name": "Super P",
+      "url": "https://open.spotify.com/track/7h1vyu38eNzLsqq4u9bBRa"
+    },
+    {
+      "album": {
         "name": "Super Slime",
         "url": "https://open.spotify.com/album/6bGaotdTfYK29YKl62mYac"
       },
@@ -21525,6 +21659,28 @@
     },
     {
       "album": {
+        "name": "Target",
+        "url": "https://open.spotify.com/album/6rOZ5RNRHvyxEVgXRrkVRX"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        },
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230851,
+      "name": "Target",
+      "url": "https://open.spotify.com/track/6everQAWrWqcf63uFpZKa2"
+    },
+    {
+      "album": {
         "name": "Tee Shirt",
         "url": "https://open.spotify.com/album/4M8KWSnyQxXGTkGqu751rf"
       },
@@ -21566,6 +21722,24 @@
       "duration_ms": 177976,
       "name": "Teflon",
       "url": "https://open.spotify.com/track/4e7MKSoUZSHG3r1kZe4psM"
+    },
+    {
+      "album": {
+        "name": "I Live, I Die, I Live Again",
+        "url": "https://open.spotify.com/album/0pSIFVPHDByTEX6LztYz9M"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Tell It All",
+      "url": "https://open.spotify.com/track/2422xGJLZQNWLxQYB01kYn"
     },
     {
       "album": {
@@ -22132,6 +22306,50 @@
       "duration_ms": 155138,
       "name": "The Warm Up",
       "url": "https://open.spotify.com/track/6bLLiQAShrb742zp2sdoai"
+    },
+    {
+      "album": {
+        "name": "Legends Never Die (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230502,
+      "name": "The Way (with XXXTENTACION)",
+      "url": "https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh"
+    },
+    {
+      "album": {
+        "name": "Late to My Own Funeral",
+        "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198368,
+      "name": "The Whole Shabang",
+      "url": "https://open.spotify.com/track/5HrnHNSNjxXpU6j6B75PxZ"
     },
     {
       "album": {
@@ -22879,6 +23097,24 @@
     },
     {
       "album": {
+        "name": "Too Ez",
+        "url": "https://open.spotify.com/album/0Up6hOKfgW0LsWmx5JEOSl"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149693,
+      "name": "Too Ez",
+      "url": "https://open.spotify.com/track/4EmyZdpV9izqCEnbNdbbEU"
+    },
+    {
+      "album": {
         "name": "Too Much (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
       },
@@ -23616,7 +23852,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 122321,
       "name": "Unhealthy Meals Only",
       "url": "https://open.spotify.com/track/2KhNuErW3x2PD63trodyOl"
@@ -23750,7 +23986,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 123154,
       "name": "Vanish Mode",
       "url": "https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y"
@@ -24556,7 +24792,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 196341,
       "name": "whoa (mind in awe) - Remix",
       "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
@@ -24766,6 +25002,24 @@
       "duration_ms": 135201,
       "name": "Wingz (feat. Cardo Got Wings)",
       "url": "https://open.spotify.com/track/1jFOUeZoR9YCAiirsxnB3y"
+    },
+    {
+      "album": {
+        "name": "Wish You Could",
+        "url": "https://open.spotify.com/album/4PmClvE0aKJBbaUB0pvyGk"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Wish You Could",
+      "url": "https://open.spotify.com/track/4UoxHeaXUodjeml2wEMf2D"
     },
     {
       "album": {

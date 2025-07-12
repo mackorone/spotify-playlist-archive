@@ -1,32 +1,80 @@
 {
-  "description": "The home of Canadian country music. Cover: Morgan Wallen & Tate McRae",
-  "num_followers": 81285,
+  "description": "The home of Canadian country music. Cover: The Reklaws",
+  "num_followers": 81293,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR1AAAAACtqnb6mCV3aKnxWqtKISXL",
+  "snapshot_id": "aHFguAAAAACIAHTDFA+CjRmE7e33iM9+",
   "tracks": [
     {
-      "added_at": "2025-07-04 04:00:20",
+      "added_at": "2025-07-11 04:01:06",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+        "name": "You Had To Be There",
+        "url": "https://open.spotify.com/album/0RyKfb0Ex8kCMgkL6cOzM8"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
         }
       ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+      "duration_ms": 172907,
+      "name": "You Had To Be There",
+      "url": "https://open.spotify.com/track/14i984cKjuw6x5ubdfaHIu"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Highway Money",
+        "url": "https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa"
+      },
+      "artists": [
+        {
+          "name": "Josh Stumpf",
+          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Highway Money",
+      "url": "https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Woman In The Mirror",
+        "url": "https://open.spotify.com/album/0A3QpA8kHi8QrInv4RYEPu"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        },
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 185562,
+      "name": "Shooting Star (with Restless Road)",
+      "url": "https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Somebody I Know",
+        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 180633,
+      "name": "Somebody I Know",
+      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -49,20 +97,120 @@
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
-      "added_at": "2025-07-04 04:00:20",
+      "added_at": "2025-07-11 04:01:06",
       "album": {
-        "name": "Somebody I Know",
-        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
+        "name": "Till I Get To Heaven",
+        "url": "https://open.spotify.com/album/0Nv8TTXDUNOLfWU5PzGx9L"
       },
       "artists": [
         {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
         }
       ],
-      "duration_ms": 180633,
-      "name": "Somebody I Know",
-      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
+      "duration_ms": 150000,
+      "name": "Till I Get To Heaven",
+      "url": "https://open.spotify.com/track/11keHpMPuloSDRF7iEAm8a"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Buckle Rubbin'",
+        "url": "https://open.spotify.com/album/3mK3F7kRefmg4EKuzVkcHK"
+      },
+      "artists": [
+        {
+          "name": "Dan Davidson",
+          "url": "https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Buckle Rubbin'",
+      "url": "https://open.spotify.com/track/1S8PIcSLRurRgtr8FWdL2O"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "magic",
+        "url": "https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "This Ol' Way",
+        "url": "https://open.spotify.com/album/27cg3junq7poQIJoWeiSDu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Just The Same",
+      "url": "https://open.spotify.com/track/6PAkQjnygwuTV7iDmPtK82"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "On Rolls the Wheel",
+        "url": "https://open.spotify.com/album/06yirzfYrQC1bQaicU9n7L"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 232302,
+      "name": "On Rolls the Wheel",
+      "url": "https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Night Diving (feat. Cameron Whitcomb)",
+        "url": "https://open.spotify.com/album/53eOgC0QJEmQ7QoEFK37Pn"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 214678,
+      "name": "Night Diving (feat. Cameron Whitcomb)",
+      "url": "https://open.spotify.com/track/4Qn5FKe3I2pNL64so6gvX3"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -79,6 +227,134 @@
       "duration_ms": 148031,
       "name": "Drink Around",
       "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
+    },
+    {
+      "added_at": "2025-07-11 19:06:32",
+      "album": {
+        "name": "Good To Drive",
+        "url": "https://open.spotify.com/album/1nuGJOj0oP74peYWg9Lk8X"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "duration_ms": 188891,
+      "name": "Good To Drive",
+      "url": "https://open.spotify.com/track/2ZfToR0LzuBGd59gdqdwYG"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/4nGtXwoFXTdIJ73vySkkAR"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/0TYydMAKPBYjZB0jgGCN7h"
+        }
+      ],
+      "duration_ms": 138994,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/3TSw1YzzkWSuHfgx0DY13g"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Love and Hate",
+        "url": "https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "duration_ms": 167058,
+      "name": "Love and Hate",
+      "url": "https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/1kxBDv8EZP84fpagF10KoW"
+      },
+      "artists": [
+        {
+          "name": "Brettyn Rose",
+          "url": "https://open.spotify.com/artist/6nWt7zuZMhRyN0ZTx47dVn"
+        }
+      ],
+      "duration_ms": 211468,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/3ivvrPzqU2biwqkY8Tfgke"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Bourbon",
+        "url": "https://open.spotify.com/album/2PPKl3Tl9e69ub8MJr0jjc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Griffiths",
+          "url": "https://open.spotify.com/artist/01rGBVJvFssZjs5soni9Cw"
+        }
+      ],
+      "duration_ms": 223882,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/5c0ppzyyMEYFaYeGaR9qfU"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Doin' What She Does",
+        "url": "https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Doin' What She Does",
+      "url": "https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "the circus",
+        "url": "https://open.spotify.com/album/0rfVdoSRGxGwahF05E4XBX"
+      },
+      "artists": [
+        {
+          "name": "Mallory Johnson",
+          "url": "https://open.spotify.com/artist/56A5s2TH3rRBgnrts1YLy3"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "the circus",
+      "url": "https://open.spotify.com/track/44e7qHUBE9zvd2WYV6H6AX"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "If We Want To",
+        "url": "https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "If We Want To",
+      "url": "https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -113,20 +389,20 @@
       "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
     },
     {
-      "added_at": "2025-07-04 04:00:20",
+      "added_at": "2025-07-11 04:01:06",
       "album": {
-        "name": "Never Drinking Again",
-        "url": "https://open.spotify.com/album/6cIFKlwoPIhIaEohKz99Py"
+        "name": "Take The Money (Take Back My Last Name)",
+        "url": "https://open.spotify.com/album/2Smh3G8hjfnyBzsvZPVEZ1"
       },
       "artists": [
         {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+          "name": "Nicole Sumerlyn",
+          "url": "https://open.spotify.com/artist/0LNuRsYq6ZR4MoxEA4gm5t"
         }
       ],
-      "duration_ms": 149854,
-      "name": "Never Drinking Again",
-      "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"
+      "duration_ms": 188500,
+      "name": "Take The Money (Take Back My Last Name)",
+      "url": "https://open.spotify.com/track/43du1hSri3Sm9AIfloTGfz"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -227,6 +503,38 @@
     {
       "added_at": "2025-07-04 04:00:20",
       "album": {
+        "name": "Heartbreak Rodeo",
+        "url": "https://open.spotify.com/album/5CsPQZX5z0cgIUW5TR9jG8"
+      },
+      "artists": [
+        {
+          "name": "Elyse Saunders",
+          "url": "https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk"
+        }
+      ],
+      "duration_ms": 160768,
+      "name": "Heartbreak Rodeo",
+      "url": "https://open.spotify.com/track/2rWuh8EBT4fCzFzDnmAR2W"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Middle Of The Bed",
+        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Middle Of The Bed - Single Version",
+      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
         "name": "Outta the Bar",
         "url": "https://open.spotify.com/album/3KF7JlHe1YEVsMhyAjiW3c"
       },
@@ -263,38 +571,6 @@
     {
       "added_at": "2025-07-04 04:00:20",
       "album": {
-        "name": "Woman In The Mirror",
-        "url": "https://open.spotify.com/album/269aSTuFbQ4tyn7JhyjUS5"
-      },
-      "artists": [
-        {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
-        }
-      ],
-      "duration_ms": 179546,
-      "name": "Woman In The Mirror",
-      "url": "https://open.spotify.com/track/3wqgVvpgIt2bqlDP4T65kU"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Heartbreak Rodeo",
-        "url": "https://open.spotify.com/album/5CsPQZX5z0cgIUW5TR9jG8"
-      },
-      "artists": [
-        {
-          "name": "Elyse Saunders",
-          "url": "https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk"
-        }
-      ],
-      "duration_ms": 160768,
-      "name": "Heartbreak Rodeo",
-      "url": "https://open.spotify.com/track/2rWuh8EBT4fCzFzDnmAR2W"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/0pxs1IYZuNx6olT6kyP6vj"
       },
@@ -311,18 +587,38 @@
     {
       "added_at": "2025-07-04 04:00:20",
       "album": {
-        "name": "Middle Of The Bed",
-        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
+        "name": "Airplane Bottle",
+        "url": "https://open.spotify.com/album/6KRroYi7h81O1Aqg0DFsMR"
       },
       "artists": [
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Middle Of The Bed - Single Version",
-      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
+      "duration_ms": 203107,
+      "name": "Airplane Bottle",
+      "url": "https://open.spotify.com/track/4WLBwTpJGtdgQajrx3p27V"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "It's All Coming Back To Me Now",
+        "url": "https://open.spotify.com/album/5y0YwazMDIbmdBTiTY2wgO"
+      },
+      "artists": [
+        {
+          "name": "Dan Young",
+          "url": "https://open.spotify.com/artist/4cEhqUT7opRvHQ87dHpqO9"
+        },
+        {
+          "name": "Brooklyn Blackmore",
+          "url": "https://open.spotify.com/artist/23JDhcj7ldZ2oaZviflnRw"
+        }
+      ],
+      "duration_ms": 258251,
+      "name": "It's All Coming Back To Me Now",
+      "url": "https://open.spotify.com/track/1CCbjeTKdaVXr7EsDtvhfJ"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -343,6 +639,22 @@
     {
       "added_at": "2025-07-04 04:00:20",
       "album": {
+        "name": "Rally Around",
+        "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 159468,
+      "name": "Rally Around",
+      "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/0HFWQXxhxtlJ4ztZUIkjpW"
       },
@@ -355,6 +667,38 @@
       "duration_ms": 184155,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Feels Country To Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI"
+      },
+      "artists": [
+        {
+          "name": "Zach McPhee",
+          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
+        }
+      ],
+      "duration_ms": 195959,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "I Ain't Country",
+        "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "duration_ms": 163895,
+      "name": "I Ain't Country",
+      "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -371,26 +715,6 @@
       "duration_ms": 200066,
       "name": "I Saw the Devil",
       "url": "https://open.spotify.com/track/44ehKJU7RkPnu9O3oWy5Wd"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "PICTURE [feat. Marie-Mai]",
-        "url": "https://open.spotify.com/album/42l9D8nuCx9jxheZeQSDDG"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment Jacques",
-          "url": "https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM"
-        },
-        {
-          "name": "Marie-Mai",
-          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
-        }
-      ],
-      "duration_ms": 266403,
-      "name": "PICTURE [feat. Marie-Mai]",
-      "url": "https://open.spotify.com/track/0wOZIDRrEEM2GCo1JN9gEH"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -427,18 +751,18 @@
     {
       "added_at": "2025-07-04 04:00:20",
       "album": {
-        "name": "Airplane Bottle",
-        "url": "https://open.spotify.com/album/6KRroYi7h81O1Aqg0DFsMR"
+        "name": "Worth The Double",
+        "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
       },
       "artists": [
         {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
         }
       ],
-      "duration_ms": 203107,
-      "name": "Airplane Bottle",
-      "url": "https://open.spotify.com/track/4WLBwTpJGtdgQajrx3p27V"
+      "duration_ms": 171657,
+      "name": "Worth The Double",
+      "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -475,22 +799,6 @@
     {
       "added_at": "2025-07-04 04:00:20",
       "album": {
-        "name": "Tequila Knows Me",
-        "url": "https://open.spotify.com/album/4hCnVX8rygqrjc1SBnC1hH"
-      },
-      "artists": [
-        {
-          "name": "Shawnee Kish",
-          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
-        }
-      ],
-      "duration_ms": 184218,
-      "name": "Tequila Knows Me",
-      "url": "https://open.spotify.com/track/5j8IqsMA9wFn7zRuVfh22E"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
         "name": "7 Words",
         "url": "https://open.spotify.com/album/6BuB9ZxCxGsYZV0iSkv1xv"
       },
@@ -503,150 +811,6 @@
       "duration_ms": 207899,
       "name": "7 Words",
       "url": "https://open.spotify.com/track/1DXBG86wW6xaOoaEryBaAa"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "I Ain't Country",
-        "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
-      },
-      "artists": [
-        {
-          "name": "Jess Moskaluke",
-          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
-        }
-      ],
-      "duration_ms": 163895,
-      "name": "I Ain't Country",
-      "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Leave the Tab Open",
-        "url": "https://open.spotify.com/album/6m3N5BjxA8SxB47RrTPGCN"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        }
-      ],
-      "duration_ms": 186654,
-      "name": "Leave the Tab Open",
-      "url": "https://open.spotify.com/track/2magbsrEX1TSYoCTO1Zocl"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "My Expense",
-        "url": "https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 221462,
-      "name": "My Expense",
-      "url": "https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
-      "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "I've Learned",
-        "url": "https://open.spotify.com/album/0RSR5g34ZYX9i8XkVcuU8V"
-      },
-      "artists": [
-        {
-          "name": "Matt Lang",
-          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
-        }
-      ],
-      "duration_ms": 192883,
-      "name": "I've Learned",
-      "url": "https://open.spotify.com/track/0JpfPOgw7MU1io1tUpPXSF"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L"
-      },
-      "artists": [
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        },
-        {
-          "name": "Jake Etheridge",
-          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
-        },
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 187787,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Western Wind",
-        "url": "https://open.spotify.com/album/5zh5UmVMhLKwa1yJX8pSq7"
-      },
-      "artists": [
-        {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
-        }
-      ],
-      "duration_ms": 172823,
-      "name": "Western Wind",
-      "url": "https://open.spotify.com/track/5FuDbCYf4LAn3BjMMN85Y1"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Easy Man",
-        "url": "https://open.spotify.com/album/5CYzJyJn3mc2qyhUdUdK6g"
-      },
-      "artists": [
-        {
-          "name": "The Prairie States",
-          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
-        }
-      ],
-      "duration_ms": 161919,
-      "name": "Easy Man",
-      "url": "https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -667,186 +831,6 @@
       "duration_ms": 182862,
       "name": "How Do You Miss Me (feat. Alexandra Kay)",
       "url": "https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Burn the Boats",
-        "url": "https://open.spotify.com/album/0b2pYSIafKMLboovEJ6dzt"
-      },
-      "artists": [
-        {
-          "name": "The Martin Boys",
-          "url": "https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k"
-        }
-      ],
-      "duration_ms": 225764,
-      "name": "Burn the Boats",
-      "url": "https://open.spotify.com/track/2KrEkvgkkqQo0PapU8OCm9"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Worth The Double",
-        "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 171657,
-      "name": "Worth The Double",
-      "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Tears That You'll Never Find",
-        "url": "https://open.spotify.com/album/207ZWbh7bQe4q7nr9RzYXI"
-      },
-      "artists": [
-        {
-          "name": "Zach McPhee",
-          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Tears That You'll Never Find",
-      "url": "https://open.spotify.com/track/4yWUtE6IG23QQozUMqkUa2"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Rally Around",
-        "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
-      },
-      "artists": [
-        {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
-        }
-      ],
-      "duration_ms": 159468,
-      "name": "Rally Around",
-      "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Cowboys Were Kings",
-        "url": "https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep"
-      },
-      "artists": [
-        {
-          "name": "Gord Bamford",
-          "url": "https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "Cowboys Were Kings",
-      "url": "https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Slow Go the Days",
-        "url": "https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg"
-      },
-      "artists": [
-        {
-          "name": "Tim & The Glory Boys",
-          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
-        }
-      ],
-      "duration_ms": 201415,
-      "name": "Slow Go the Days",
-      "url": "https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Every Once In a While",
-        "url": "https://open.spotify.com/album/5j71tQSZuhWVTjEntqM992"
-      },
-      "artists": [
-        {
-          "name": "River Town Saints",
-          "url": "https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo"
-        }
-      ],
-      "duration_ms": 227170,
-      "name": "Every Once In a While",
-      "url": "https://open.spotify.com/track/43qxCAP9QX3HoCVxRPUZdC"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Gettin' By",
-        "url": "https://open.spotify.com/album/3GE8zt1rkVQXcpYudJq4TI"
-      },
-      "artists": [
-        {
-          "name": "Dan Young",
-          "url": "https://open.spotify.com/artist/4cEhqUT7opRvHQ87dHpqO9"
-        }
-      ],
-      "duration_ms": 197907,
-      "name": "Gettin' By",
-      "url": "https://open.spotify.com/track/4RrNZfwHpJO5Stb1xAOnij"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Doin' What She Does",
-        "url": "https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Doin' What She Does",
-      "url": "https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "All Roads Lead To You",
-        "url": "https://open.spotify.com/album/6mHyBVGp4Xa0hCoNCGEnFG"
-      },
-      "artists": [
-        {
-          "name": "Andy Colonico",
-          "url": "https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO"
-        },
-        {
-          "name": "Peter Alexander",
-          "url": "https://open.spotify.com/artist/2oEakQ9UqnaXtgn1RRqa9W"
-        }
-      ],
-      "duration_ms": 168319,
-      "name": "All Roads Lead To You",
-      "url": "https://open.spotify.com/track/4WAjW3T2fTS4RjX8UHIjVS"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 169331,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
     }
   ],
   "unique_name": "North Country",

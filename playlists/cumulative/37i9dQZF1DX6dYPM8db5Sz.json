@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Words Left Unsaid",
+        "url": "https://open.spotify.com/album/7t4irKfXHpqbtOqxBsCB4W"
+      },
+      "artists": [
+        {
+          "name": "DANNII",
+          "url": "https://open.spotify.com/artist/1liL6dIM5JNQfo1l4xQPF5"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "A Strange Pairing",
+      "url": "https://open.spotify.com/track/0bEDqhAL5uvNrgf5iQ6m6H"
+    },
+    {
+      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
       },

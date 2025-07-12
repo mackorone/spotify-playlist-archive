@@ -11,22 +11,6 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Drive (For Daddy Gene)",
-      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
         "name": "Verities & Balderdash",
         "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
       },
@@ -39,6 +23,22 @@
       "duration_ms": 222951,
       "name": "Cat's in the Cradle",
       "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Drive (For Daddy Gene)",
+      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
     },
     {
       "added_at": "2024-06-16 15:20:38",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk"
     },
     {
-      "added_at": "2025-06-13 17:51:35",
-      "album": {
-        "name": "Eighteen",
-        "url": "https://open.spotify.com/album/3pUADbetgIPJIlzDMyJJoE"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Eighteen",
-      "url": "https://open.spotify.com/track/1JLeJoguGKO9HKxEIDzABJ"
-    },
-    {
       "added_at": "2024-06-16 15:20:38",
       "album": {
         "name": "Hannah Montana",
@@ -575,6 +559,22 @@
       "duration_ms": 203680,
       "name": "I Learned From You",
       "url": "https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv"
+    },
+    {
+      "added_at": "2025-06-13 17:51:35",
+      "album": {
+        "name": "Eighteen",
+        "url": "https://open.spotify.com/album/3pUADbetgIPJIlzDMyJJoE"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Eighteen",
+      "url": "https://open.spotify.com/track/1JLeJoguGKO9HKxEIDzABJ"
     },
     {
       "added_at": "2024-06-16 15:20:38",

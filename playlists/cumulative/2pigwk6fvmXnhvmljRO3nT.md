@@ -4,7 +4,7 @@
 
 > 
 
-7,430 songs - 19 day 7 hr 5 min
+7,433 songs - 19 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3520,6 +3520,7 @@
 | [Lucifer](https://open.spotify.com/track/05VHidqx1tV6V7MsCdAIby) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 3:12 | 2025-01-03 |  |
 | [Luckily I’m Having \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/5ugcpEprRXs0HnZ1iMFXed) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:14 | 2025-01-03 |  |
 | [Lucky](https://open.spotify.com/track/6fkIvgz1nfuImshSAo40Ag) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 2:13 | 2025-01-15 |  |
+| [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 | 2025-07-12 |  |
 | [Luh You](https://open.spotify.com/track/7bcFjy9JRa6DDkctTVGZ6E) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Venice](https://open.spotify.com/album/2Wl2eLBIbjAt6AZwd07IxG) | 3:30 | 2024-12-05 |  |
 | [Lumidouce's Repose](https://open.spotify.com/track/4JtLDLJVROlPS65UnwHEui) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Pelagic Primaevality \(Original Game Soundtrack\)](https://open.spotify.com/album/66LefdTRwCA7Mj7LCcCGk3) | 1:19 | 2025-03-23 |  |
 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 | 2025-04-19 |  |
@@ -4748,6 +4749,7 @@
 | [Roses](https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 4:05 | 2025-01-03 |  |
 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 | 2025-01-15 |  |
 | [ROT](https://open.spotify.com/track/70zTbQd3yYeNwA75CF2fcd) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:49 | 2025-04-19 |  |
+| [Rough](https://open.spotify.com/track/75vepksethG7GrRn815ZYH) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [SNOWFLAKE](https://open.spotify.com/album/1kQatXJwulYhEIvotff9D1) | 3:29 | 2025-07-11 |  |
 | [Round and Around](https://open.spotify.com/track/1h7S5xFqtKsh4Lqy2UInH9) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Major](https://open.spotify.com/album/1EAzLUzatSBIs8tA047f5f) | 1:19 | 2025-03-17 |  |
 | [Roundhere](https://open.spotify.com/track/5WSZNB69XDMDZ1s6U4GjIo) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Meek, Vol\. 5](https://open.spotify.com/album/34gyzMBDvSv9EPu5CX8VQC) | 1:21 | 2025-01-03 |  |
 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2024-12-05 |  |
@@ -7398,6 +7400,7 @@
 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 | 2025-01-03 |  |
 | [초등학교 동창회 가던 날](https://open.spotify.com/track/2CdmBpegNWpHX3Wcy3fJcz) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 4:09 | 2025-06-03 |  |
 | [촛불하나](https://open.spotify.com/track/2APM0MB4txhD5Oir3Ahae2) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 3](https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn) | 3:31 | 2025-01-03 |  |
+| [총 맞은 것처럼](https://open.spotify.com/track/1eKB7VHL8NmM64993UY1rE) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Timeless : The Best](https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2) | 3:59 | 2025-07-11 |  |
 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 | 2024-12-10 |  |
 | [최선의 고백](https://open.spotify.com/track/4K43bjV6fxfdAzuEPjKdyl) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:42 | 2025-01-03 |  |
 | [취미는 사랑](https://open.spotify.com/track/3kNeVQowXmRBGh4elxryd6) | [Autumn Vacation](https://open.spotify.com/artist/6OSMGFNb20nNBw4a2vWxMT) | [가을방학](https://open.spotify.com/album/1dulWkmJSItilAHwYGuINt) | 2:56 | 2024-12-07 |  |

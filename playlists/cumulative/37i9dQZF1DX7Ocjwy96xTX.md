@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-329 songs - 19 hr 32 min
+330 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 | 2023-08-18 | 2023-11-11 |
 | [Too Far Gone](https://open.spotify.com/track/7BLPxgH9czQRbWLkLIIqpT) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Count The Clock](https://open.spotify.com/artist/3zJVj6smZ1DmBQNNeR5flg), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Too Far Gone](https://open.spotify.com/album/3Abk3HPBpVt8U8b5U8M7qA) | 4:24 | 2025-05-02 |  |
 | [Too Late](https://open.spotify.com/track/6KYsdBZ0077Vf37ZL1ozrT) | [Lilts](https://open.spotify.com/artist/1FIiuU3QEVE9BolZFEL5FG) | [Waiting Around](https://open.spotify.com/album/1LO0pYpUdVmbRWESTKMx0d) | 3:20 | 2023-10-13 |  |
+| [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-07-11 |  |
 | [Toxoplasma](https://open.spotify.com/track/1Z525RBZrBwIqGBHKjxawa) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Toxoplasma](https://open.spotify.com/album/27orn2kKrM2nNd7JYjUnty) | 2:38 | 2025-02-05 |  |
 | [Trickster](https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Debunker](https://open.spotify.com/album/7CV16uMpp4OJrur72BruwV) | 3:41 | 2025-02-05 |  |
 | [Under the Same Name](https://open.spotify.com/track/4HvvHSzR1fAS653pHO5XTu) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Feels Like You](https://open.spotify.com/album/1fyZK4ivI8xZCOdOuOgPa7) | 4:39 | 2023-10-31 |  |

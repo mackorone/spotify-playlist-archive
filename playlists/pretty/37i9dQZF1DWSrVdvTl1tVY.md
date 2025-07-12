@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Chloé Caillet, Luke Alessi
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,785 likes - 97 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,874 likes - 97 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 12 | [Love On](https://open.spotify.com/track/5LWP5htLN2JrBKuOa15P1I) | [Elliot Schooling](https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu) | [Love On](https://open.spotify.com/album/3Kuylm8FXxgyA59PgwG8Ic) | 3:27 |
 | 13 | [Seen It All Before](https://open.spotify.com/track/13aCXkjg3tGFIHxqv8rYGQ) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Seen It All Before](https://open.spotify.com/album/4p3YuS9AMmwHspc1VW3jy2) | 3:28 |
 | 14 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 |
-| 15 | [Sweat Couture](https://open.spotify.com/track/4PilxRwgRgEliuW5fk8OIq) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Sweat Couture](https://open.spotify.com/album/5hoNLzCgltbatTcharSKOF) | 2:35 |
+| 15 | [Sweat Couture \- Edit](https://open.spotify.com/track/4PilxRwgRgEliuW5fk8OIq) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Sweat Couture \(Edit\)](https://open.spotify.com/album/5hoNLzCgltbatTcharSKOF) | 2:35 |
 | 16 | [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 |
 | 17 | [Sin Pero](https://open.spotify.com/track/00cZ6btKe7o8TECVLBpIXR) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Sin Pero](https://open.spotify.com/album/08fzl82SQEQttAUCUhw5lo) | 2:39 |
 | 18 | [Ocean](https://open.spotify.com/track/7kyRganwIohcGBSqiB0AYP) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Ocean](https://open.spotify.com/album/6AkXJoBJfzVEiLESZs785K) | 3:30 |

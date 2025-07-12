@@ -4,7 +4,7 @@
 
 > freshly squeezed indie pop 🥤 cover: anna of the north
 
-309 songs - 16 hr 51 min
+310 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [COMING HOME 2 U](https://open.spotify.com/track/7cRBPefk7PJ1ARS0NRm4t6) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [girlhood.](https://open.spotify.com/album/6pLO5gFGkmR3dUAx8EEtqS) | 4:08 | 2025-04-12 | 2025-06-13 |
 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 | 2024-06-14 | 2025-01-24 |
 | [congratulations for getting off the drink](https://open.spotify.com/track/3OKDCLcs8N2NBviZttpnGY) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [congratulations for getting off the drink](https://open.spotify.com/album/0adEa6tzGFSbF60RmNyI0w) | 2:31 | 2024-06-14 | 2024-07-13 |
+| [Counting Candles](https://open.spotify.com/track/7otmtaq5GIEvaMUxDIwR9K) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Counting Candles](https://open.spotify.com/album/66S6SJA4svHbAALcaayedK) | 3:22 | 2025-07-10 |  |
 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 | 2024-09-20 | 2025-05-02 |
 | [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2025-01-24 | 2025-05-08 |
 | [Crowded House](https://open.spotify.com/track/0UDA73orG6ZNKH6nH44VjL) | [Karis Taylor](https://open.spotify.com/artist/4DkCeWLigLWQeefMEQ5Iq1) | [Crowded House](https://open.spotify.com/album/3QrDOWvMgkSaUyrcQQ0NDu) | 4:10 | 2025-05-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 29355,
+  "num_followers": 29359,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG2xAAAAAAB3fA/d5IyFJxTxhj7noX/o",
+  "snapshot_id": "aG8CgAAAAAA7sydlZC/oYAAN3/8DQkO0",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 226146,
-      "name": "Loose Booty",
-      "url": "https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG"
+      "duration_ms": 162440,
+      "name": "The Same Thing (Makes You Laugh, Makes You Cry)",
+      "url": "https://open.spotify.com/track/5FuDvELQSwjYo36HORMqiy"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 162440,
-      "name": "The Same Thing (Makes You Laugh, Makes You Cry)",
-      "url": "https://open.spotify.com/track/5FuDvELQSwjYo36HORMqiy"
+      "duration_ms": 226146,
+      "name": "Loose Booty",
+      "url": "https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
       "duration_ms": 200333,
       "name": "Somebody's Watching You",
       "url": "https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Time For Livin'",
-      "url": "https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Time For Livin'",
+      "url": "https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Color Me True",
-      "url": "https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM"
+      "duration_ms": 265240,
+      "name": "I Ain't Got Nobody (For Real)",
+      "url": "https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 265240,
-      "name": "I Ain't Got Nobody (For Real)",
-      "url": "https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u"
+      "duration_ms": 188293,
+      "name": "Color Me True",
+      "url": "https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM"
     },
     {
       "added_at": null,

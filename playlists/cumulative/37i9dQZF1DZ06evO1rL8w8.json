@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146013,
+      "name": "Mi Clave Es El 20",
+      "url": "https://open.spotify.com/track/5NzcSu4Dhhiljni7PNu8j0"
+    },
+    {
+      "album": {
         "name": "Mujer Enamorada",
         "url": "https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY"
       },
@@ -1049,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "Los Reyes Del Movimiento Alterado",
+        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
+      },
+      "artists": [
+        {
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168146,
+      "name": "Orden Exigido",
+      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
+    },
+    {
+      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -1064,7 +1104,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 168133,
       "name": "Orden Exigido (Feat. Buknas De Culiacan)",
       "url": "https://open.spotify.com/track/0krRIU2PNSKjYrYXLadazM"
@@ -1114,7 +1154,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 167299,
       "name": "Parrandero (feat. Grupo Recluta, Perdidos De Sinaloa, Banda Cuisillos, Los Nuevos Ilegales, La Decima Banda & Banda Los Coyulitos) - Remix",
       "url": "https://open.spotify.com/track/56uGm0jqTWGwHnoNRUWKs2"

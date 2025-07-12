@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Vizinhos
+> Uma playlist de pura alma pop! Foto: Catarina Filipe
 
-285 songs - 15 hr 9 min
+286 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Raspão](https://open.spotify.com/track/726Wj3tCY1A4vIrwHlQyRZ) | [Beatriz Rosário](https://open.spotify.com/artist/1IJF0z5AWZ3GF0If3CrWvl) | [Raspão](https://open.spotify.com/album/4jZqzziNQ6o9K6S4IV8zFH) | 2:24 | 2025-02-07 |  |
 | [Re\-Começo \(feat\. BISPO\)](https://open.spotify.com/track/37o3U6VTkiwlzKeIJAPvUn) | [João Pedro Pais](https://open.spotify.com/artist/3Pjj7heoGNSFE6S3kPQsex), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Amigo Improvável](https://open.spotify.com/album/1leVLqDizSzXJlFBAfusZW) | 4:00 | 2025-03-21 | 2025-06-27 |
 | [Respirar](https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Respirar](https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H) | 4:14 | 2025-02-28 |  |
+| [Ride or Die](https://open.spotify.com/track/1j4kYsMuewIYAYqtKfyTwj) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [Ride or Die](https://open.spotify.com/album/0WVxIbOT1EOAqGVrEZhXr9) | 2:28 | 2025-07-11 |  |
 | [Riqueza](https://open.spotify.com/track/7uAPXH7RXCpfoT1jez4ASm) | [GNTK](https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0) | [Riqueza](https://open.spotify.com/album/6J1fR0ADIjsYAUabOVy9am) | 3:49 | 2024-10-24 | 2025-03-07 |
 | [Ritinha](https://open.spotify.com/track/2wtV8sHeYkZTfKiUGQPX1c) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Grupo Académico Seistetos \(Universidade Évora\)](https://open.spotify.com/artist/6UytzMPJfPy7zHhPXTDMvr) | [Ritinha](https://open.spotify.com/album/3YM8Dt8trP0u9B4nQlHYel) | 2:36 | 2024-07-25 | 2025-03-14 |
 | [Romance de Balcão](https://open.spotify.com/track/0Vr8RTAqZ4uhG9FbokA7cG) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Grupo Académico Seistetos \(Universidade Évora\)](https://open.spotify.com/artist/6UytzMPJfPy7zHhPXTDMvr) | [Romance de Balcão](https://open.spotify.com/album/4grSwzCLsST0N5UUgsUiHi) | 2:54 | 2024-06-27 | 2025-01-17 |

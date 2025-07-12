@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Neue Musik von Jazeek, Esther Graf, BLACKPINK und mehr!",
+  "description": "Neue Musik von Justin Bieber, Jazeek, Esther Graf, BLACKPINK und mehr!",
   "name": "New Music Friday Deutschland",
   "tracks": [
     {
@@ -21213,6 +21213,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "album": {
         "name": "EUROSPORT",
         "url": "https://open.spotify.com/album/6Bkx66OfElcoOtkxp043SR"
       },
@@ -23262,6 +23280,28 @@
       "duration_ms": 161122,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2guutJwUpKFFdpmzoRlc3q"
+    },
+    {
+      "album": {
+        "name": "Desire (Official FIFA Anthem) (feat. Laura Pausini)",
+        "url": "https://open.spotify.com/album/4idwkC0yHkciuQ6v0VkNU5"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223987,
+      "name": "Desire (Official FIFA Anthem) (feat. Laura Pausini)",
+      "url": "https://open.spotify.com/track/4cE1UKQ5RvZlo53dL2qtzr"
     },
     {
       "album": {
@@ -30418,6 +30458,40 @@
       "duration_ms": 248075,
       "name": "Family Tree",
       "url": "https://open.spotify.com/track/0lwy4DWy3Mu3SFIZ8dUy4k"
+    },
+    {
+      "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/4Ova54Zs3am6IXPXsMfDks"
+      },
+      "artists": [
+        {
+          "name": "Shorty",
+          "url": "https://open.spotify.com/artist/4vAQghcnpz5V7zsPKy9Jpy"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/4v5wVxA4LvaUTWqje4s68N"
     },
     {
       "album": {
@@ -46167,6 +46241,24 @@
     },
     {
       "album": {
+        "name": "I WANNA WIN (from the Short Film \"Red Clay\")",
+        "url": "https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168066,
+      "name": "I WANNA WIN - from the Short Film \"Red Clay\"",
+      "url": "https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi"
+    },
+    {
+      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn"
       },
@@ -51246,6 +51338,24 @@
       "duration_ms": 135573,
       "name": "Juliusstra\u00dfe",
       "url": "https://open.spotify.com/track/0nCVfuPPE47zWWnSCH10kH"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -93529,6 +93639,28 @@
     },
     {
       "album": {
+        "name": "Legends Never Die (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230502,
+      "name": "The Way (with XXXTENTACION)",
+      "url": "https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh"
+    },
+    {
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
       },
@@ -94619,7 +94751,7 @@
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 197837,
+      "duration_ms": 198137,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi"
     },

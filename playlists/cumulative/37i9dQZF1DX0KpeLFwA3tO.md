@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Angel Du$t
 
-2,577 songs - 5 day 8 hr 41 min
+2,578 songs - 5 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1663,6 +1663,7 @@
 | [Over My Shoulder](https://open.spotify.com/track/5VqNNR1OGQ6Nf7diNaEC3L) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Twenty](https://open.spotify.com/album/3g35plLoI2cNlWpPPlyFW1) | 3:29 | 2022-10-13 | 2023-01-13 |
 | [Over The Edge](https://open.spotify.com/track/6Thvx1ybJkLoLP23swTxqT) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Over The Edge](https://open.spotify.com/album/40bucb3Q7ZwcBEHmAEXtAT) | 3:13 | 2024-08-29 | 2024-10-25 |
 | [Overthinking](https://open.spotify.com/track/3nMPhjxLBiodhLgfpMQ3UN) | [The Anti\-Queens](https://open.spotify.com/artist/1CX0fdiDs9n9HSJs1PRSy3) | [Disenchanted](https://open.spotify.com/album/3iLVA7v1iKHY2SC62DnIOF) | 3:17 | 2024-05-16 | 2024-06-28 |
+| [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [Out in Front](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 | 2025-07-10 |  |
 | [Paint My Lips](https://open.spotify.com/track/3p0h0odkJaUS230iSRJQgS) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [told ya.](https://open.spotify.com/album/3ANkgNrOZQLbZjvVr2mf9P) | 2:15 | 2022-08-25 | 2022-10-14 |
 | [Pale Horse](https://open.spotify.com/track/5hO3KJK46mFRhqNU3fxB0l) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Pale Horse](https://open.spotify.com/album/3ZF6gDtVd7l3xMV4rP6Upk) | 1:12 | 2025-06-27 |  |
 | [Panic Attack](https://open.spotify.com/track/3LI1iEaWR4oVIcCP4WH7Uw) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Panic Attack](https://open.spotify.com/album/35A5BlxNo9P89zsIQrAZ0x) | 3:10 | 2021-12-17 | 2022-02-04 |

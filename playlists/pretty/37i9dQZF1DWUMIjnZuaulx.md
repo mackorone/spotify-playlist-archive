@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: William Murphy
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Pastor Mike Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,295 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,329 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Failure \- Live](https://open.spotify.com/track/3M0yx7w2xV6BeBxZlYnAk6) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Payback \(Live\)](https://open.spotify.com/album/1DU9sVDdYQJdxijVlF7zgZ) | 5:05 |
-| 2 | [Have Your Way](https://open.spotify.com/track/5gmb3a65EiGRf8OwKSPySK) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Have Your Way](https://open.spotify.com/album/0dm4lK615hGGrei2NqTQ28) | 6:53 |
-| 3 | [Promise Keeper \- Live](https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Tiffany Andrews](https://open.spotify.com/artist/6v7gnhOk1fjAft80LHaYLP) | [The Live Reunion: Washington, DC](https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs) | 7:55 |
-| 4 | [BYE](https://open.spotify.com/track/2B9aV8yQhiapL4rl7hz9zN) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God Showing Out](https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW) | 2:13 |
-| 5 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |
+| 1 | [Turn It Around](https://open.spotify.com/track/511ZzubAccO7n3hAwhY3EW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Confetti & Conspiracies: The Amen Mixtape](https://open.spotify.com/album/3n1ZcpEmjNKXc7M5VPmkZX) | 2:17 |
+| 2 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |
+| 3 | [Have Your Way](https://open.spotify.com/track/5gmb3a65EiGRf8OwKSPySK) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Have Your Way](https://open.spotify.com/album/0dm4lK615hGGrei2NqTQ28) | 6:53 |
+| 4 | [No Failure \- Live](https://open.spotify.com/track/3M0yx7w2xV6BeBxZlYnAk6) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Payback \(Live\)](https://open.spotify.com/album/1DU9sVDdYQJdxijVlF7zgZ) | 5:05 |
+| 5 | [Promise Keeper \- Live](https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Tiffany Andrews](https://open.spotify.com/artist/6v7gnhOk1fjAft80LHaYLP) | [The Live Reunion: Washington, DC](https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs) | 7:55 |
 | 6 | [Don’t Find It Strange \- Live at First Avenue](https://open.spotify.com/track/32XuKpROrtXZFKJRO9F4NT) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Live At First Avenue](https://open.spotify.com/album/3XQNaT4W4uhAcws5KDvyJr) | 5:29 |
 | 7 | [The Hand That Keeps Holding Me](https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Hand That Keeps Holding Me](https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm) | 4:51 |
 | 8 | [He Answered \- Live](https://open.spotify.com/track/4EEC8J8qEeKc7J9B5uexWu) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Kira Daffin](https://open.spotify.com/artist/5HibYdtT0tsLJjEJIo64Wi) | [Worship Restored \(Live\)](https://open.spotify.com/album/18W5T8rYRk64EYoo3n4dI4) | 5:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Do It Anyway](https://open.spotify.com/track/2rF5K9wMGwaiwsTwVjDrDq) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Do It Anyway](https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx) | 2:57 |
 | 100 | [Hosanna \(Blessed Be The Rock\) \- Live](https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof) | [Randy Weston](https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Testimony Service \(Live\)](https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0) | 4:09 |
 
-Snapshot ID: `aGdtdgAAAAAMlnovll1RiSoSDk1svdq7`
+Snapshot ID: `aHD9rQAAAACu+WXiaPXPoEUM2W0tsElf`

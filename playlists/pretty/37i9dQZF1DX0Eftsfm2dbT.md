@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JUMADIBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,804 likes - 96 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,822 likes - 96 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 12 | [NISSAN](https://open.spotify.com/track/6bzgGBkc2RAmZPlf4822BT) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [NISSAN](https://open.spotify.com/album/5LwsbVpyc7yuxYUrdKNw2A) | 3:20 |
 | 13 | [Freed Up](https://open.spotify.com/track/12e12RaJoIvGlAPHUtbXvc) | [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [Freed Up](https://open.spotify.com/album/0yHfDkCPd3LmkPScjtwNIw) | 3:25 |
 | 14 | [Spotlight](https://open.spotify.com/track/1apk1NLMkVRJhTdUk1dV11) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Spotlight](https://open.spotify.com/album/7nGI2OQ5jZosc6Ezew6Lye) | 2:58 |
-| 15 | [SHOGUN \(feat\. Kamiyada+, Braxton Knight & Hezron\)](https://open.spotify.com/track/0PVBLPcCCVVXekGUlfFWfU) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Braxton Knight](https://open.spotify.com/artist/6UJNjW9qNBTqn1Z5g8TKs6), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [SHOGUN \(feat\. Kamiyada+, Braxton Knight & Hezron\)](https://open.spotify.com/album/5Ym6p309IArL8Dj3b0wOnl) | 3:31 |
+| 15 | [SHOGUN](https://open.spotify.com/track/0PVBLPcCCVVXekGUlfFWfU) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Braxton Knight](https://open.spotify.com/artist/6UJNjW9qNBTqn1Z5g8TKs6), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [SHOGUN](https://open.spotify.com/album/5Ym6p309IArL8Dj3b0wOnl) | 3:31 |
 | 16 | [+81 Connect Call\_Awich](https://open.spotify.com/track/7MOWu8PkBIMQjTIaH9WOqs) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [+81 Connect Call\_Awich](https://open.spotify.com/album/1XAHXNcIfN2rv6ZlaHfpZk) | 0:05 |
 | 17 | [Zutto konna Life \(feat\. kZm, JNKMN, MonyHorse, PETZ & Awich\)](https://open.spotify.com/track/4553W0p7uJzhSayrM0su61) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Y.E.N.](https://open.spotify.com/album/1lgmevmniw6caC26ODhfHP) | 3:34 |
 | 18 | [NEVEREST \- Remix](https://open.spotify.com/track/2iad20ILDCloXQXJUbdKpU) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [NEVEREST \(feat\. ANARCHY\) \[Remix\]](https://open.spotify.com/album/0KlwMYsFzAOxGCQUiRHuYc) | 3:19 |

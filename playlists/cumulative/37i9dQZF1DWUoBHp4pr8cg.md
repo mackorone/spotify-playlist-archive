@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from KindlyNxsh, HENNYBELIT, Indigo Stella and more.
+> The hottest Hip Hop from Rouge with Moozlie & Nadia Nakai, KindlyNxsh and more.
 
-405 songs - 21 hr 36 min
+407 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2 Step Gliding](https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Michael Carpenter](https://open.spotify.com/artist/2zxCiaufpb0PVlWb9iRBDz), [lloco](https://open.spotify.com/artist/2WTWVfASuVDEfdKWjTomXH), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [2 Step Gliding](https://open.spotify.com/album/6ZnGv3LJi8W90QoaqNlMRh) | 1:44 | 2022-10-06 | 2022-10-14 |
 | [2007](https://open.spotify.com/track/6KNNqqLaousABh4LeVhdJ9) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 7:26 | 2022-11-03 | 2022-12-13 |
 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:20 | 2023-01-23 | 2023-02-24 |
-| [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2024-10-11 |  |
+| [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2024-10-11 | 2025-07-12 |
 | [3AM on Glenwood](https://open.spotify.com/track/1MTXYvJ9TSqg9x6WPCDx2n) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:58 | 2022-11-14 | 2022-12-13 |
 | [4 Steps Back](https://open.spotify.com/track/73hwgztIzXR9ROMc6o4Yx6) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [4 Steps Back](https://open.spotify.com/album/37BBmXyLG2uRENzwbIN4My) | 4:03 | 2022-09-01 | 2022-11-04 |
 | [48 Glizzy](https://open.spotify.com/track/3dX1Z5KuNfwLaeB8YpSn7w) | [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k) | [Msotra Don't Die](https://open.spotify.com/album/6cKEy8loEIT1fgIZjk7N1Z) | 4:45 | 2023-12-01 | 2024-07-19 |
@@ -28,6 +28,7 @@
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-06-23 | 2023-09-23 |
 | [Allez Tobina](https://open.spotify.com/track/47W4qjBTy2E7N7x0p6y2P9) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allez Tobina](https://open.spotify.com/album/1qxHpIueABpUg2Hqm4r0JK) | 1:40 | 2025-06-13 | 2025-06-28 |
 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:10 | 2024-10-03 | 2025-05-13 |
+| [Ama N\*gga](https://open.spotify.com/track/0cV3zY8OaTOBgQAnd1Lc85) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [Ama N\*gga](https://open.spotify.com/album/3uFIflG9UCYc7KaZqIoyQu) | 3:48 | 2025-07-11 |  |
 | [Amadlozi](https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [LOOKATUPS](https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER) | [Amadlozi](https://open.spotify.com/album/1wHEl0itEyhRHNDdIh0UCN) | 2:48 | 2022-11-10 | 2023-05-06 |
 | [AMANGA \(READ THE ROOM\)](https://open.spotify.com/track/0JLSRUSwxUJf3mYQkZ4x1X) | [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [DIY 3](https://open.spotify.com/album/4T51wSiqn804oHNUfkImOS) | 3:13 | 2024-10-31 |  |
 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 | 2022-08-04 | 2022-10-22 |
@@ -180,6 +181,7 @@
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-09-22 | 2024-02-17 |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-10-12 | 2024-06-28 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2023-05-05 | 2024-02-09 |
+| [Juicy](https://open.spotify.com/track/1WCpEyjjDF6qqzxVtuVcoR) | [Rouge](https://open.spotify.com/artist/3fv7gh6JODBTpz7uS0aTnS), [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [Juicy](https://open.spotify.com/album/6AQbYU29wxmpVzuATbw1UA) | 3:51 | 2025-07-11 |  |
 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 | 2023-06-23 | 2024-02-09 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-10 | 2024-02-09 |
 | [KABUTEY FLOW](https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KABUTEY FLOW](https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx) | 2:17 | 2024-01-04 | 2024-07-19 |

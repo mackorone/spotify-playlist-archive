@@ -2,9 +2,9 @@
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: Kesha
+> Neues aus der Welt des Pop\. Cover: BLACKPINK
 
-1,238 songs - 2 day 14 hr 26 min
+1,245 songs - 2 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 | 2024-06-28 | 2024-07-19 |
 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 | 2024-10-31 | 2024-11-22 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-08-02 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
 | [Dance By Myself](https://open.spotify.com/track/2GXmdnHGi6miwQNS9rdqEb) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [TEARS DON'T FALL IN SPACE](https://open.spotify.com/album/7nZB2j3QoZyKF91w56mKxs) | 2:12 | 2025-02-14 | 2025-03-14 |
 | [Dance With Me](https://open.spotify.com/track/0KCqe6I4jJ4nrrvp2qUy6R) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dance With Me](https://open.spotify.com/album/6hSLtNZWkDxCESz8zE7mhP) | 2:24 | 2025-04-03 | 2025-05-02 |
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-28 | 2024-07-19 |
@@ -260,6 +261,7 @@
 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 | 2025-04-03 | 2025-05-02 |
 | [DELUSIONAL](https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [DELUSIONAL](https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe) | 3:15 | 2024-11-28 | 2025-01-03 |
 | [Demise](https://open.spotify.com/track/5exv0bDkEoKX0307raOYRQ) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Demise](https://open.spotify.com/album/5X9IKbLGPLoz5aa7Zjnd9u) | 2:24 | 2025-06-26 |  |
+| [Desire \(Official FIFA Anthem\) \(feat\. Laura Pausini\)](https://open.spotify.com/track/4cE1UKQ5RvZlo53dL2qtzr) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Desire \(Official FIFA Anthem\) \(feat\. Laura Pausini\)](https://open.spotify.com/album/4idwkC0yHkciuQ6v0VkNU5) | 3:43 | 2025-07-11 |  |
 | [Desperate Guy](https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Desperate Guy](https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9) | 2:36 | 2024-09-12 | 2024-10-11 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-15 | 2024-09-13 |
 | [Dicen](https://open.spotify.com/track/7giO5LPF9hDzkE2zxKWOSK) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Dicen](https://open.spotify.com/album/3bauE6t9KXAbh4080WE7VI) | 2:34 | 2024-11-21 | 2024-12-20 |
@@ -355,6 +357,7 @@
 | [Find Me Somebody](https://open.spotify.com/track/4SVJXOC4pWWB24an1kbOfw) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Find Me Somebody](https://open.spotify.com/album/7ssdvx1BCPUxP7xYViIwvr) | 3:02 | 2025-01-16 | 2025-01-31 |
 | [Fire](https://open.spotify.com/track/5463KFscU5D2yWL1dVuW3L) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole](https://open.spotify.com/album/1xyO6rgO44G5BYpljc11l4) | 3:45 | 2025-02-13 | 2025-03-14 |
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-12 | 2024-10-11 |
+| [FIRST PLACE](https://open.spotify.com/track/4ZZJ7S4Z1pEIvTUgN1oRzS) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:20 | 2025-07-11 |  |
 | [FIRST TIME](https://open.spotify.com/track/2q0SOAtujlcW1OQWYGGpyK) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [FIRST TIME](https://open.spotify.com/album/4MhPVsGhkghlW57IgpbwfK) | 3:21 | 2025-05-01 | 2025-05-30 |
 | [Fit Together](https://open.spotify.com/track/4VQX00qfrlMOWYQVXbyLO8) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Fit Together](https://open.spotify.com/album/23prbztUNWORtIovJbaOFp) | 2:32 | 2025-03-27 | 2025-04-25 |
 | [Five Minutes](https://open.spotify.com/track/5gYzeQpVYllBvZFoNpHS2E) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [The Process Of Elimination \(Deluxe\)](https://open.spotify.com/album/6gEPkOO1u2VbbNDq9tbjyR) | 2:36 | 2025-02-27 | 2025-03-28 |
@@ -408,6 +411,7 @@
 | [Gloria](https://open.spotify.com/track/7uguYtHdK6qwuxiUlzgrU1) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Gloria](https://open.spotify.com/album/6ZD3guVXCEBQbqZntbxiHP) | 3:41 | 2025-05-08 | 2025-06-06 |
 | [Glow](https://open.spotify.com/track/6XaRzGJgCgh7XHl5vnYbEW) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Glow](https://open.spotify.com/album/5cmCT8H9mFi0EmJIalBh7k) | 3:07 | 2024-11-07 | 2024-12-06 |
 | [Glow In The Dark](https://open.spotify.com/track/1V2ND6AWTXlzCnZ1s2klMH) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Glow In The Dark](https://open.spotify.com/album/4aA15kykB2RrixWL4m7MFP) | 2:58 | 2024-06-28 | 2024-07-19 |
+| [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 | 2025-07-11 |  |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-03 | 2025-05-02 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-07-04 |
 | [God's Favorite](https://open.spotify.com/track/5EHT5ZuRyX6kKNAnFGmLKE) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [God's Favorite](https://open.spotify.com/album/19sl9kdCQby9R0B7bGfbGs) | 2:48 | 2025-03-13 | 2025-04-11 |
@@ -537,6 +541,7 @@
 | [i don’t know](https://open.spotify.com/track/1MZTlZNS0GraKJ8EpIkqb7) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [i don’t know](https://open.spotify.com/album/0cdUGguCYuLTgkY2f2K2Qw) | 3:52 | 2025-04-04 | 2025-05-02 |
 | [I Follow You](https://open.spotify.com/track/3DfpFaIhrWW2RmvqfYXUxR) | [Iggi Kelly](https://open.spotify.com/artist/4SrQdK7LahnrRiz1g10kNN) | [I Follow You](https://open.spotify.com/album/6OnA26lzi4tr8iKmo1oSaq) | 3:06 | 2025-06-19 |  |
 | [I Found \(with Freya Ridings\)](https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU), [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [I Found \(with Freya Ridings\)](https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c) | 4:34 | 2025-05-15 | 2025-06-13 |
+| [i gave you the world \(but you didn't want it\)](https://open.spotify.com/track/5UiFntPquzN68JOT4BUV0Z) | [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [you're just a boy](https://open.spotify.com/album/6fhoaS8T5GUKSkuCusBTnj) | 3:20 | 2025-07-11 |  |
 | [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 | 2024-09-12 | 2024-09-14 |
 | [I Give Up I Love You](https://open.spotify.com/track/1sNrEwP2DkCi3eUCYyBuyY) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Aamor](https://open.spotify.com/artist/6d3iU65scdjVgRQqkgcNog) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:45 | 2024-09-13 | 2024-10-11 |
 | [i hate texas](https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [i hate texas](https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55) | 3:38 | 2024-07-25 | 2024-08-09 |
@@ -603,6 +608,7 @@
 | [Joanna](https://open.spotify.com/track/6fwXcoCCisSb2NzIPKH8GI) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Joanna](https://open.spotify.com/album/2egZYswyIlO4lwO7s0Qudc) | 2:53 | 2024-11-28 | 2025-01-03 |
 | [josie](https://open.spotify.com/track/48iE8EnH8L9ZHnpDtkovwg) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [josie](https://open.spotify.com/album/3KFvqxdQSAnmJCsbToEzEk) | 2:56 | 2025-05-22 | 2025-06-20 |
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-08 | 2025-06-06 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-11 |  |
 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 | 2024-09-26 | 2024-10-25 |
 | [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 | 2025-03-13 | 2025-04-11 |
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-08-22 | 2024-09-20 |
@@ -1162,6 +1168,7 @@
 | [Wait](https://open.spotify.com/track/6rKHTlqK0LJ9V76T3fGYsG) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wait](https://open.spotify.com/album/5ebu0GKRW20mNxLwz0MrCk) | 2:51 | 2025-04-24 | 2025-05-23 |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 | 2024-09-20 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-28 | 2024-07-27 |
+| [WALKING AWAY](https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 4:04 | 2025-07-11 |  |
 | [Walking On The Moon](https://open.spotify.com/track/3Q07bD6SUED8pTHVCO1yJG) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Walking On The Moon](https://open.spotify.com/album/6DeVhylS7YCnwbexBBOoBw) | 3:00 | 2025-02-27 | 2025-03-28 |
 | [Walkman](https://open.spotify.com/track/5fY4Ny98j9wUDvSSRj6GaC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Walkman](https://open.spotify.com/album/34JIzutThrueQUSwHArBty) | 2:46 | 2025-05-22 | 2025-06-20 |
 | [Walla Walla](https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Walla Walla](https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi) | 2:52 | 2024-10-31 | 2024-11-15 |

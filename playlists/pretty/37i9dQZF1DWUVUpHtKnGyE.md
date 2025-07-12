@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVUpHtKnGyE.md) - [plain]
 
 > When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero\. Now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 48 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVUpHtKnGyE.md) - [plain]
 | 46 | [Free](https://open.spotify.com/track/1beef3EsmgcMo3JsuijK9S) | [Nrvs](https://open.spotify.com/artist/3UEeyUnkTpXJSWVPSYbfEW) | [Free](https://open.spotify.com/album/3VveATWY5hOFW09cNy9lcP) | 3:58 |
 | 47 | [No Limitations](https://open.spotify.com/track/24WM96p4EDsOjwCoG9ojm7) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD) | [Experience](https://open.spotify.com/album/7kY0wAn6cxSzNyWGURBn0N) | 3:29 |
 | 48 | [True Love Trajectory](https://open.spotify.com/track/64ZjBDF8b4dJJj5DYMdJ7N) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD) | [Experience](https://open.spotify.com/album/7kY0wAn6cxSzNyWGURBn0N) | 3:29 |
+| 49 | [Massachusetts \- Stripped Version](https://open.spotify.com/track/1oaWw1XLQkIIDjkano6INF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts \(Stripped Version\)](https://open.spotify.com/album/0wX23hilHVl7NC7RWa5EMu) | 3:37 |
+| 50 | [You Found Me \(From the Netflix Series "Too Much"\)](https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [You Found Me](https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ) | 4:13 |
 
-Snapshot ID: `aG/HZAAAAABbz2s8jfcMJ8JaiYa37lr5`
+Snapshot ID: `aHEmSwAAAAAd365d+M4ZX1d9lRUaTD+Z`

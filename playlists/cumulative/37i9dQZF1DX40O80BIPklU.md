@@ -2,9 +2,9 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Ali Aka Mind en portada.
+> Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Duki en portada.
 
-564 songs - 1 day 7 hr 5 min
+566 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [7 De Mayo](https://open.spotify.com/track/48wkz2E0apRJr6E4zQyDpx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [7 De Mayo](https://open.spotify.com/album/1nKovORSFiC5BVIhuZAHBP) | 3:29 | 2021-12-30 | 2022-03-16 |
 | [999](https://open.spotify.com/track/48kQ0yFpqszCTRbUrCq9FH) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [999](https://open.spotify.com/album/7mDsBQmtx9hBoPBOWeaLhA) | 3:24 | 2024-04-12 | 2024-09-14 |
 | [999 \(Goer\)](https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa) | [999 \(Goer\)](https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb) | 2:40 | 2025-03-14 | 2025-07-05 |
+| [\[FREE\] 5202 Type Beat](https://open.spotify.com/track/7v6TT7EUEYAX1S7RZaZOkG) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 2:38 | 2025-07-11 |  |
 | [A 120](https://open.spotify.com/track/5UaxYPAJvLc5uuV9sbTZjP) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [A 120](https://open.spotify.com/album/1d7B2L3w06kkI7Y8WXNYkx) | 3:53 | 2021-12-30 | 2023-09-09 |
 | [A Machete](https://open.spotify.com/track/0JIaMMiCaqelZVhTRQYolM) | [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [El Jose](https://open.spotify.com/artist/2fNq5sXccbJ8I644s9UWTF) | [A Machete](https://open.spotify.com/album/6QYWrddb1jtDNmcWilA7nJ) | 3:02 | 2025-05-23 |  |
 | [A Mi Lado](https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [A Mi Lado](https://open.spotify.com/album/2EKFnG7NaqYgZOkCAi7MBP) | 2:58 | 2021-12-30 | 2022-02-01 |
@@ -262,6 +263,7 @@
 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 | 2021-12-30 | 2022-04-22 |
 | [LA CALLE ESTA DURA](https://open.spotify.com/track/6cvxh8Yb5TVTRLAaFeC1CM) | [Lopes](https://open.spotify.com/artist/2C1KWrmE57M3riWQArK4kz), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [LA CALLE ESTA DURA](https://open.spotify.com/album/5HUfDQC8j7TOSYfM9hhPnh) | 3:35 | 2025-03-14 |  |
 | [La Canción Que Todos Bailan](https://open.spotify.com/track/6kLCS66Lpqln8uH7HwxAp6) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [La Canción Que Todos Bailan](https://open.spotify.com/album/5fLLBCD2tVuUqqV4b55xig) | 3:10 | 2021-12-30 | 2022-03-08 |
+| [La Cascada](https://open.spotify.com/track/5R9xtR4mpX2OdcbqirHjUD) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [La Cascada](https://open.spotify.com/album/4F7gmDdN1ZTmplwbMRC8Hq) | 3:36 | 2025-07-11 |  |
 | [La Cone \- Remix](https://open.spotify.com/track/797tr1SLB3YJe9ff2AwQWN) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Cone \(Remix\)](https://open.spotify.com/album/5MCrjSyYNt43WgQ5BFzzat) | 4:05 | 2023-11-24 | 2024-03-16 |
 | [La Cuadra](https://open.spotify.com/track/2rC7SeiSdTXyOEjireVlnf) | [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Isaac S.A](https://open.spotify.com/artist/0QNBeVFXhd6ikB88erZU1j), [Adam Walsh](https://open.spotify.com/artist/23ozeFYmYIu8TdzcHnfeVI), [Barbatos Beats](https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh), [Diavlitx](https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g) | [La Cuadra](https://open.spotify.com/album/1hD8pS5opSkvrEpXar8sbT) | 3:27 | 2024-08-02 | 2024-08-24 |
 | [LA ELITE](https://open.spotify.com/track/2Fn7ArECH8Sgy4uXQYp4lh) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [KUSTOM](https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp) | 2:10 | 2024-10-25 | 2025-03-15 |

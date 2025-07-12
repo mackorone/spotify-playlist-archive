@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "2019",
+        "url": "https://open.spotify.com/album/6g4eyoBXydjgecxElEgxMM"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh"
+    },
+    {
+      "album": {
         "name": "20something",
         "url": "https://open.spotify.com/album/3oNpunZbbJ85TMqLrxlrck"
       },
@@ -570,7 +588,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 240000,
       "name": "All at once",
       "url": "https://open.spotify.com/track/12fyTBfSQPdyQg11oiZJFM"
@@ -892,6 +910,24 @@
       "duration_ms": 203650,
       "name": "Alright (feat. Pamungkas)",
       "url": "https://open.spotify.com/track/5h06OzkIQRFtGupTTiishT"
+    },
+    {
+      "album": {
+        "name": "amazing grace",
+        "url": "https://open.spotify.com/album/0JnvZXIaasyAGt1kbGtYzH"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212857,
+      "name": "amazing grace",
+      "url": "https://open.spotify.com/track/31JQLlX86J62OspqfVfaRj"
     },
     {
       "album": {
@@ -4826,7 +4862,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 186807,
       "name": "dream. (\uc88b\uc740 \ubd84\uc704\uae30)",
       "url": "https://open.spotify.com/track/5WmamrCOl3XGANufD9WmOe"
@@ -5902,7 +5938,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 182340,
       "name": "fool me twice",
       "url": "https://open.spotify.com/track/2pTiZDWLDQjucMaCqiJnTW"
@@ -6325,6 +6361,24 @@
     },
     {
       "album": {
+        "name": "Girl Best Friend",
+        "url": "https://open.spotify.com/album/64ANfKq5VkwcITUdHa7vj3"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167022,
+      "name": "Girl Best Friend",
+      "url": "https://open.spotify.com/track/7Mq1rOsaaAlZWk94ZLQ6jp"
+    },
+    {
+      "album": {
         "name": "Boo Boo",
         "url": "https://open.spotify.com/album/7oXDoQxFfRETeqsyvSHtzn"
       },
@@ -6524,7 +6578,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
@@ -7744,7 +7798,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 201000,
       "name": "Honey Pancake",
       "url": "https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc"
@@ -8614,6 +8668,32 @@
       "duration_ms": 210584,
       "name": "I'll Be Mine",
       "url": "https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO"
+    },
+    {
+      "album": {
+        "name": "I'll Imagine",
+        "url": "https://open.spotify.com/album/02LSkC7iArNKSv5YI1WzYN"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        },
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219230,
+      "name": "I'll Imagine",
+      "url": "https://open.spotify.com/track/3BzFJIS74OGmlTiSWfA6oa"
     },
     {
       "album": {
@@ -10499,6 +10579,24 @@
     },
     {
       "album": {
+        "name": "orchids (lullabies)",
+        "url": "https://open.spotify.com/album/5xAs8lHAgIS31jlaXBnYYD"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154671,
+      "name": "like an orchid / kembali - Baila's Lullaby",
+      "url": "https://open.spotify.com/track/0Pvg96gOZIBHrlcWfXivQm"
+    },
+    {
+      "album": {
         "name": "THE REAPER",
         "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
       },
@@ -10532,7 +10630,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 149680,
       "name": "like i never",
       "url": "https://open.spotify.com/track/2yn4VxCSbNggOeQLFSMpMf"
@@ -11050,7 +11148,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 232279,
       "name": "Love me still",
       "url": "https://open.spotify.com/track/2v8iem31YAuBu79aXdwe5s"
@@ -11180,6 +11278,24 @@
       "duration_ms": 222546,
       "name": "Lovely Holiday",
       "url": "https://open.spotify.com/track/7nUAvcjkOYEoFR5yQkuQXv"
+    },
+    {
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
     },
     {
       "album": {
@@ -12533,6 +12649,24 @@
     },
     {
       "album": {
+        "name": "Never A Waste Of Time",
+        "url": "https://open.spotify.com/album/5uxCdlKoyKofMfKm6CBWh4"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228618,
+      "name": "Never A Waste Of Time",
+      "url": "https://open.spotify.com/track/0tx994lxYbZrefbRphz5ra"
+    },
+    {
+      "album": {
         "name": "never be enough",
         "url": "https://open.spotify.com/album/1Jve46w0D7RhC9tIQNVQ2x"
       },
@@ -13778,7 +13912,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 203000,
       "name": "PANIC",
       "url": "https://open.spotify.com/track/5YSQoSiK7pm49nIxUGoAxc"
@@ -14042,7 +14176,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 282334,
       "name": "phases of the moon",
       "url": "https://open.spotify.com/track/7kmuy7PgxxXxavSCn1rGwj"
@@ -15431,6 +15565,28 @@
     },
     {
       "album": {
+        "name": "Secret Codes",
+        "url": "https://open.spotify.com/album/2kUJIRdImIgOpENlfguslI"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        },
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "Secret Codes",
+      "url": "https://open.spotify.com/track/1BSvCKeSJFGkynbhQVWsqw"
+    },
+    {
+      "album": {
         "name": "BINIverse",
         "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
       },
@@ -15963,6 +16119,24 @@
     },
     {
       "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "SICK WITH IT",
+      "url": "https://open.spotify.com/track/6ZBQ9fevUeMyDumDHPgOeH"
+    },
+    {
+      "album": {
         "name": "Sights",
         "url": "https://open.spotify.com/album/68aaWS6579noGSQbCC0LuF"
       },
@@ -16014,7 +16188,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 240480,
       "name": "Sink",
       "url": "https://open.spotify.com/track/2YgkzkCXMHLUAlCyomymc7"
@@ -16072,7 +16246,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
@@ -17265,6 +17439,24 @@
     },
     {
       "album": {
+        "name": "Sunset & Moon",
+        "url": "https://open.spotify.com/album/6OUZEknbGteX5Zn0Zaxx4o"
+      },
+      "artists": [
+        {
+          "name": "Adrianna Cinta",
+          "url": "https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168661,
+      "name": "Sunset & Moon",
+      "url": "https://open.spotify.com/track/667mphLhxdbeeGrsTuGAdn"
+    },
+    {
+      "album": {
         "name": "Sunset Sensory",
         "url": "https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG"
       },
@@ -18452,7 +18644,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 155499,
       "name": "Tidy It Up",
       "url": "https://open.spotify.com/track/2IMApMqroeh14nmD6ZTC5I"
@@ -19326,6 +19518,24 @@
       "duration_ms": 240000,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/4TF8goaI3qmoRHTq61qmtx"
+    },
+    {
+      "album": {
+        "name": "Useless Magic",
+        "url": "https://open.spotify.com/album/2VmhhqQ6iisZgqAu0TIcpd"
+      },
+      "artists": [
+        {
+          "name": "Rose Tinted Press",
+          "url": "https://open.spotify.com/artist/3FTUadOZbGZAtGI2XWVUhV"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265058,
+      "name": "Useless Magic",
+      "url": "https://open.spotify.com/track/2blFCBKlpvJGcczr4trdrA"
     },
     {
       "album": {
@@ -20268,6 +20478,24 @@
       "duration_ms": 256336,
       "name": "Why Don't You Stay (WorldTour Ver.)",
       "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+    },
+    {
+      "album": {
+        "name": "why won't you love me",
+        "url": "https://open.spotify.com/album/7jBHIlBf09auOVEqMVnNWY"
+      },
+      "artists": [
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "why won't you love me",
+      "url": "https://open.spotify.com/track/54yizuONsN8sVt5P7SSjvr"
     },
     {
       "album": {

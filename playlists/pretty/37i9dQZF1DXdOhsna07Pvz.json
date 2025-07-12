@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 93019,
+  "num_followers": 93078,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Bom Demais",
-        "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
-      },
-      "artists": [
-        {
-          "name": "Ara Ketu",
-          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Ara Ketu Bom Demais",
-      "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Conto de Areia",
         "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 178613,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Bom Demais",
+        "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
+      },
+      "artists": [
+        {
+          "name": "Ara Ketu",
+          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Ara Ketu Bom Demais",
+      "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Feiti\u00e7o Caboclo",
-        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
-      },
-      "artists": [
-        {
-          "name": "Dona Onete",
-          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
-        }
-      ],
-      "duration_ms": 267120,
-      "name": "Jamburana",
-      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Mais Que Um Momento",
         "url": "https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 252147,
       "name": "O Amigo De Nova York",
       "url": "https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Feiti\u00e7o Caboclo",
+        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
+      },
+      "artists": [
+        {
+          "name": "Dona Onete",
+          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
+        }
+      ],
+      "duration_ms": 267120,
+      "name": "Jamburana",
+      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
     }
   ],
   "unique_name": "Baile Maravilha",

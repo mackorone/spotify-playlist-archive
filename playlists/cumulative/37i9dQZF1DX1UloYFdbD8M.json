@@ -5777,6 +5777,32 @@
     },
     {
       "album": {
+        "name": "Poyidum Kaalame",
+        "url": "https://open.spotify.com/album/3lxQGNalGRGOWRmHNcgxFl"
+      },
+      "artists": [
+        {
+          "name": "Derby Tomhills",
+          "url": "https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8"
+        },
+        {
+          "name": "Kavya S Chandra",
+          "url": "https://open.spotify.com/artist/39ZeUmal47Ovg1oksPfyCj"
+        },
+        {
+          "name": "Javad Ali",
+          "url": "https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Poyidum Kaalame",
+      "url": "https://open.spotify.com/track/2kj948pj6cnDVwrCPdeZ07"
+    },
+    {
+      "album": {
         "name": "Pranayam",
         "url": "https://open.spotify.com/album/2HKtcIQXADZBD3k3MZue0F"
       },
@@ -7396,7 +7422,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 144000,
       "name": "Vandine thedum (Studio jam session)",
       "url": "https://open.spotify.com/track/2ueMmiEapO80Idyn6kRjVE"

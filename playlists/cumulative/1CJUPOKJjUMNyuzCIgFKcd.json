@@ -4333,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/4l8OSFStfoqtKozWoaOmpO"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135944,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/4WqqEI17dnY2UhKrckXyfc"
+    },
+    {
+      "album": {
         "name": "8 to Infinity",
         "url": "https://open.spotify.com/album/54zbUx3xGm14kZ3I5vf1HF"
       },

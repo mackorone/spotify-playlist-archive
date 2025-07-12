@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Russell Dickerson",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Dasha",
   "name": "New Boots",
   "tracks": [
     {
@@ -3196,6 +3196,24 @@
       "duration_ms": 209932,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/0QTBbr4C6yoaGKSFtZt05j"
+    },
+    {
+      "album": {
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193534,
+      "name": "Bartender In Destin - Acoustic",
+      "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
     },
     {
       "album": {
@@ -8434,7 +8452,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 209213,
       "name": "Dads Don't Die",
       "url": "https://open.spotify.com/track/0GSGiPdXx7y29uMYjW17Xw"
@@ -10299,6 +10317,24 @@
     },
     {
       "album": {
+        "name": "Dreams to Dream",
+        "url": "https://open.spotify.com/album/6RtokMlLAc6ifZcFV5Lks3"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "Dreams to Dream",
+      "url": "https://open.spotify.com/track/1JgWKoJDSOzwYnEtBvHENv"
+    },
+    {
+      "album": {
         "name": "Robert Counts - EP",
         "url": "https://open.spotify.com/album/0ziYHrVJ0aQJNOZeVjEvdg"
       },
@@ -12046,7 +12082,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 201653,
       "name": "Feather In My Hat (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
@@ -14306,7 +14342,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 212011,
       "name": "Girls on Guys",
       "url": "https://open.spotify.com/track/6H9yrJXk98OoGWYC2DdEC7"
@@ -18013,6 +18049,36 @@
     },
     {
       "album": {
+        "name": "Here Today / Carry Me Home",
+        "url": "https://open.spotify.com/album/6GbySLSDCStXg7HR8poDt6"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176728,
+      "name": "Here Today (feat. Jamey Johnson & Kaitlin Butts)",
+      "url": "https://open.spotify.com/track/1ybGM7mWi2HE2mBlfTPaMb"
+    },
+    {
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/2XcBhNn09YlqGjxUhQyVkj"
       },
@@ -18620,7 +18686,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 163320,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/04pkjL5c3BaPvrQQIl5r1B"
@@ -18732,7 +18798,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 135133,
       "name": "Home (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
@@ -19022,7 +19088,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 195732,
       "name": "Honky Tonk Hell",
       "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
@@ -19260,7 +19326,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 182862,
       "name": "How Do You Miss Me (feat. Alexandra Kay)",
       "url": "https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n"
@@ -20066,6 +20132,24 @@
       "duration_ms": 163871,
       "name": "I Deserve a Heartbreak",
       "url": "https://open.spotify.com/track/0R6lnjGCnNToW1B9m7ETms"
+    },
+    {
+      "album": {
+        "name": "I Didn't Come Here To Leave",
+        "url": "https://open.spotify.com/album/4j9huybUuIGLZESaXeR0bi"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "I Didn't Come Here To Leave",
+      "url": "https://open.spotify.com/track/447tgGkTJH8szI0kxbFy9q"
     },
     {
       "album": {
@@ -23839,6 +23923,24 @@
     },
     {
       "album": {
+        "name": "Leaving Carolina",
+        "url": "https://open.spotify.com/album/5LXXVatilaIfc7XayYVhMe"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225374,
+      "name": "Leaving Carolina",
+      "url": "https://open.spotify.com/track/5smjahcnDCjHK53UeG4YRt"
+    },
+    {
+      "album": {
         "name": "Run, Run, Baby",
         "url": "https://open.spotify.com/album/5el3z43Bnf5ebDM5UDTipi"
       },
@@ -23998,6 +24100,24 @@
       "duration_ms": 178680,
       "name": "Let Me Be Your Whiskey",
       "url": "https://open.spotify.com/track/7LgZLepO0ZehC36CpKDg6S"
+    },
+    {
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/4d6vxBaMkwAqEPRu7eH8j2"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227340,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/3NgFlvOUSPL6wxRS1IjlGK"
     },
     {
       "album": {
@@ -26352,7 +26472,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 176398,
       "name": "Me & A Beer",
       "url": "https://open.spotify.com/track/4GodBlY6DtC8oIM3JBwLYZ"
@@ -26464,7 +26584,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 159853,
       "name": "Me Most Nights",
       "url": "https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh"
@@ -30158,6 +30278,24 @@
       "duration_ms": 244286,
       "name": "Oh Susannah",
       "url": "https://open.spotify.com/track/21olHYu651XrLmMql9mxPW"
+    },
+    {
+      "album": {
+        "name": "Oh, Anna!",
+        "url": "https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246746,
+      "name": "Oh, Anna!",
+      "url": "https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY"
     },
     {
       "album": {
@@ -34738,7 +34876,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 164266,
       "name": "Seein' Blue",
       "url": "https://open.spotify.com/track/3uABwBswkimD0qYdS3OAjX"
@@ -40118,7 +40256,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 152006,
       "name": "the f word",
       "url": "https://open.spotify.com/track/1nRCcVKEMrt29M1go9lMTn"
@@ -40274,6 +40412,24 @@
       "duration_ms": 204048,
       "name": "The Heart",
       "url": "https://open.spotify.com/track/5j5znsAdVoUwgaLklJzf7X"
+    },
+    {
+      "album": {
+        "name": "the hell you are",
+        "url": "https://open.spotify.com/album/5yqBQUm3a7jXyfM3OMw5rJ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174462,
+      "name": "the hell you are",
+      "url": "https://open.spotify.com/track/6E02wi9oGn2EvKiLc2cuMv"
     },
     {
       "album": {
@@ -41175,6 +41331,24 @@
     },
     {
       "album": {
+        "name": "Thinkin' Bout That",
+        "url": "https://open.spotify.com/album/2Zv3vYPXH01Q0uwVnvP7U6"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191798,
+      "name": "Thinkin' Bout That",
+      "url": "https://open.spotify.com/track/1qF4gsQbJQiUHToLcg3MaE"
+    },
+    {
+      "album": {
         "name": "Thinkin' We're In Love",
         "url": "https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww"
       },
@@ -41754,7 +41928,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 196628,
       "name": "Til The Last One Dies",
       "url": "https://open.spotify.com/track/4VYbJg6FL2hvG7XqzUm5dl"
@@ -43709,6 +43883,24 @@
     },
     {
       "album": {
+        "name": "Water At A Wedding",
+        "url": "https://open.spotify.com/album/2Kjy6rn4SiL3N4tnMpHbHE"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213315,
+      "name": "Water At A Wedding",
+      "url": "https://open.spotify.com/track/6h1vhmOA7RdRQACZ0yjGDq"
+    },
+    {
+      "album": {
         "name": "Water Down the Whiskey",
         "url": "https://open.spotify.com/album/4i8oXzNSE9NvGwzaI3nPMq"
       },
@@ -45582,7 +45774,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 190400,
       "name": "Whiskey Drink",
       "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
@@ -48204,6 +48396,24 @@
       "duration_ms": 184184,
       "name": "Youth",
       "url": "https://open.spotify.com/track/30UeZ2MgSOtWX9LcDIdnKW"
+    },
+    {
+      "album": {
+        "name": "You\u2019re Breaking My Heart (Cecilia)",
+        "url": "https://open.spotify.com/album/0PupRg6JNRJDOlaWuNuXZm"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "You\u2019re Breaking My Heart (Cecilia)",
+      "url": "https://open.spotify.com/track/4eQ9tFefGRZ4oE9leQT4di"
     },
     {
       "album": {

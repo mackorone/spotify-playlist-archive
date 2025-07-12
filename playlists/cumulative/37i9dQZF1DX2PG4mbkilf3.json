@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with RUSSELL! from Brampton, ON.",
+  "description": "This is R&B in Canada. Elevate your aura with Dylan Sinclair from Thornhill, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -2415,6 +2415,28 @@
     },
     {
       "album": {
+        "name": "Jubilate",
+        "url": "https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163631,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH"
+    },
+    {
+      "album": {
         "name": "Benchmark",
         "url": "https://open.spotify.com/album/0nDORNahzyOzSM4jBwNMEz"
       },
@@ -2824,6 +2846,28 @@
       "duration_ms": 213956,
       "name": "Bleeding Me Dry - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D"
+    },
+    {
+      "album": {
+        "name": "LATE NIGHT THOUGHTS 2",
+        "url": "https://open.spotify.com/album/692KxXllC4pCqZk0nvYX80"
+      },
+      "artists": [
+        {
+          "name": "OVI WOOD",
+          "url": "https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183402,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/5dzz1rUl4TL7INXHoORH2f"
     },
     {
       "album": {
@@ -8507,6 +8551,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "GO BABY",
+      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
+    },
+    {
+      "album": {
         "name": "Formed",
         "url": "https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc"
       },
@@ -9108,7 +9170,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 147027,
       "name": "HBD",
       "url": "https://open.spotify.com/track/4pm4HsOqJFTvOSv5rhiNMD"
@@ -9696,7 +9758,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 214000,
       "name": "Holy Grail",
       "url": "https://open.spotify.com/track/1Z8koFPdLYMkxCGibkAkuW"
@@ -10692,7 +10754,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 155149,
       "name": "If I Say I Hate U I Mean It",
       "url": "https://open.spotify.com/track/6IumWBzpQyBCIkxo0aKZo3"
@@ -15304,7 +15366,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 208109,
       "name": "Never That",
       "url": "https://open.spotify.com/track/4hbWznNDeEtbI9BuVA2VmX"
@@ -15326,6 +15388,24 @@
       "duration_ms": 184933,
       "name": "Next Man",
       "url": "https://open.spotify.com/track/1bZGBaMyZg7GBPlrHYIf5r"
+    },
+    {
+      "album": {
+        "name": "Next Sign Of Love",
+        "url": "https://open.spotify.com/album/31bkOZfr9DwqdDMSruWg4l"
+      },
+      "artists": [
+        {
+          "name": "Salome",
+          "url": "https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198202,
+      "name": "Next Sign Of Love",
+      "url": "https://open.spotify.com/track/7BKXyAZim0Tw0Iui0rAV0g"
     },
     {
       "album": {
@@ -20748,7 +20828,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
@@ -21732,6 +21812,24 @@
       "duration_ms": 186382,
       "name": "Stay A While",
       "url": "https://open.spotify.com/track/4tvmLiIsx7QlSbrgQjHBpR"
+    },
+    {
+      "album": {
+        "name": "Stay Home",
+        "url": "https://open.spotify.com/album/2K5izQrAm5MsXpiZIGbiGi"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157021,
+      "name": "Stay Home",
+      "url": "https://open.spotify.com/track/7EHpanFygP4PvGj1XK5ZdZ"
     },
     {
       "album": {
@@ -25534,7 +25632,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 96048,
       "name": "What I Gotta Do",
       "url": "https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ"
@@ -26398,6 +26496,24 @@
       "duration_ms": 208695,
       "name": "you and me",
       "url": "https://open.spotify.com/track/6rVf6E7uSYUQ45O5LqUSoW"
+    },
+    {
+      "album": {
+        "name": "ELEMENTS Vol. 2",
+        "url": "https://open.spotify.com/album/0Ign7x9QgYkG3sDMZhMAqY"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173483,
+      "name": "You Did That",
+      "url": "https://open.spotify.com/track/3JHkfxv005qSKitkgJFy8h"
     },
     {
       "album": {

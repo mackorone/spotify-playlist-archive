@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-67 songs - 4 hr 10 min
+68 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bate Macumba](https://open.spotify.com/track/6ISimr3dsVcqYbq4rr3Qb3) | [Nu Azeite](https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE) | [Bate Macumba](https://open.spotify.com/album/6F6X3MjxvpIDp8n1C9rIoh) | 4:13 | 2024-02-22 |  |
 | [Batebca](https://open.spotify.com/track/7GxzwWe1sMhvoLpgs7wUVM) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Déjà Vu](https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ) | 5:47 | 2023-09-01 |  |
 | [Bicicleta](https://open.spotify.com/track/6Ox8Zj7kJbqg05Jt7ljFwY) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Bicicleta / Beta Menina \- Single](https://open.spotify.com/album/20ObPCdWc08A2cNdc7mlP4) | 3:49 | 2023-01-20 |  |
+| [Boogie Brasil](https://open.spotify.com/track/2Kt6AV8QR7dsn9fdZukoxr) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Boogie Brasil](https://open.spotify.com/album/4pluecQjfURMeDXDgi3xjT) | 2:57 | 2025-07-11 |  |
 | [Casa forte](https://open.spotify.com/track/7ulVAlO3bUBZQXZQqLOSMP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 2:22 | 2023-01-20 |  |
 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 | 2023-01-20 | 2024-04-19 |
 | [Cascavel](https://open.spotify.com/track/7AV5LpOE7uqTz8qq3Dq7qh) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/3NceM2zFLNbpPtUYtjHit1) | 2:56 | 2024-02-22 |  |
@@ -65,7 +66,7 @@
 | [Sem Essa](https://open.spotify.com/track/2Rprdj1SMhNKMG1Barkggm) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Déjà Vu](https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ) | 3:34 | 2023-09-01 |  |
 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 | 2023-01-20 | 2024-04-19 |
 | [Sossego](https://open.spotify.com/track/0uaCGneNilNKLSTppA4Ytz) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 3:42 | 2024-02-22 |  |
-| [Sucesso Sexual](https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [A Vida É Mesmo Assim](https://open.spotify.com/album/2eds2m7S6XeralhbluMYa3) | 3:17 | 2023-01-20 |  |
+| [Sucesso Sexual](https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [A Vida É Mesmo Assim](https://open.spotify.com/album/2eds2m7S6XeralhbluMYa3) | 3:17 | 2023-01-20 | 2025-07-12 |
 | [Suspira](https://open.spotify.com/track/1qNxA7OrDL6goGPUHJQSzD) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Suspira](https://open.spotify.com/album/0eVReGkyVanuKovMwN9lve) | 5:38 | 2023-06-30 |  |
 | [Toque de cuica](https://open.spotify.com/track/2Su9jcqo1pzOOr2pdhoDPn) | [Airto Moreira](https://open.spotify.com/artist/3poGT6mQeOlXOdJwvXz5T1) | [Touching You, Touching Me](https://open.spotify.com/album/4mi30bHSnw8wexBoEi2VNM) | 3:55 | 2023-01-20 |  |
 | [Trem da Central](https://open.spotify.com/track/2mCDv73NQlObobNjntqKxx) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/7eBRD6tCaMVuAQGXJ01AJc) | 4:02 | 2024-02-22 |  |

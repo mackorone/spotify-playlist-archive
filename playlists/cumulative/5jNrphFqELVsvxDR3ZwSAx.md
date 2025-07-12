@@ -4,13 +4,14 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-319 songs - 20 hr 31 min
+320 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(All Along The\) Watchtower](https://open.spotify.com/track/0SBk0hNSPQ3KcROw5KLR7f) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Moving Picture](https://open.spotify.com/album/0PtnGAyE4TaGabmhy7YIfq) | 4:32 | 2025-02-21 | 2025-06-14 |
 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2022-05-18 | 2024-05-02 |
 | [30 Days In The Hole](https://open.spotify.com/track/4fRMPTD4ZLDFBRnUT2VhBc) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [30 Days In The Hole / Jealous Guy](https://open.spotify.com/album/71GWEia7DkMUFXYMscOO38) | 3:46 | 2022-05-18 | 2024-05-02 |
+| [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 | 2025-07-11 |  |
 | [A Fool For You](https://open.spotify.com/track/2c9lPbORJwDyBT9NigRfn1) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Soulsation!](https://open.spotify.com/album/2rjfG3QrxiGHW5d7jYXcDX) | 4:35 | 2025-04-26 |  |
 | [Accidentally In Love \- From "Shrek 2" Soundtrack](https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Accidentally In Love \(From Shrek 2 S/T\)](https://open.spotify.com/album/2VuCWE3A2QXpC7vECziDsh) | 3:08 | 2024-05-01 |  |
 | [Across The Universe \- 2021 Mix](https://open.spotify.com/track/3ZidhXz4c2cmg9iy83TKbd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Get Back \(Take 8\)](https://open.spotify.com/album/7jdqXhvQ9oqseZI0M9uNIL) | 3:48 | 2022-05-18 | 2024-05-02 |

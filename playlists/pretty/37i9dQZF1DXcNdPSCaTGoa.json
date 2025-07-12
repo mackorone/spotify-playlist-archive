@@ -1,6 +1,6 @@
 {
   "description": "Southern African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ?si=hjrsvkP8TLO9Cs-gba5VNQ\">Oliver Mtukudzi</a> ",
-  "num_followers": 89598,
+  "num_followers": 89649,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
+        "name": "Vintage Sounds of Johannesburg",
+        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
+        }
+      ],
+      "duration_ms": 292034,
+      "name": "Fester",
+      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
+    },
+    {
+      "added_at": "2025-06-27 07:22:38",
+      "album": {
         "name": "Family Values",
         "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 274053,
       "name": "Sondela (feat. Zano)",
       "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
-    },
-    {
-      "added_at": "2025-06-27 07:22:38",
-      "album": {
-        "name": "Vintage Sounds of Johannesburg",
-        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
-      },
-      "artists": [
-        {
-          "name": "Jacknife",
-          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
-        }
-      ],
-      "duration_ms": 292034,
-      "name": "Fester",
-      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
     },
     {
       "added_at": "2025-06-27 07:22:38",

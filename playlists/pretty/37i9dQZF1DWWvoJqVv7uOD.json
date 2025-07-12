@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Lewis Capaldi",
-  "num_followers": 474983,
+  "num_followers": 475113,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XcAAAAAAum3elfK6GaIiEpEzaLZJW",
+  "snapshot_id": "aHCMXAAAAADJQbRNbovH1xGube1NuoHK",
   "tracks": [
     {
       "added_at": "2025-06-27 04:00:48",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo"
     },
     {
+      "added_at": "2025-07-11 04:00:28",
+      "album": {
+        "name": "she got a thing about her",
+        "url": "https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 138646,
+      "name": "she got a thing about her",
+      "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Somebody Else's",
@@ -1143,22 +1159,6 @@
       "duration_ms": 224000,
       "name": "Somebody Else's",
       "url": "https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 196752,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
     },
     {
       "added_at": "2025-02-07 05:00:38",

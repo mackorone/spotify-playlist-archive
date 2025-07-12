@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,996 likes - 54 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,003 likes - 54 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 18 | [Moments In Love](https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [\(Who's Afraid Of\) The Art Of Noise? \[Remastered\]](https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR) | 10:15 |
 | 19 | [Vibe Catcher](https://open.spotify.com/track/0JhWSndXoTT6SOVhHkMOj3) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Vibe Catcher](https://open.spotify.com/album/1eyP4K1Oj4rT0wyBMXZjGI) | 6:07 |
 | 20 | [Vixen House](https://open.spotify.com/track/67rW3sURHwamxZNF3FUbGq) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 3:12 |
-| 21 | [Aston](https://open.spotify.com/track/0F3O5aPpF30lw1NkC8Vm3j) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM) | [Aston](https://open.spotify.com/album/39JtI95D6Q7tsVpqHTYmxR) | 2:32 |
+| 21 | [Aston](https://open.spotify.com/track/0F3O5aPpF30lw1NkC8Vm3j) | [HOUSEWIFE9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM) | [Aston](https://open.spotify.com/album/39JtI95D6Q7tsVpqHTYmxR) | 2:32 |
 | 22 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 |
 | 23 | [Digital World](https://open.spotify.com/track/3H9SvLEsW0vOItmOREgZrm) | [Locked Groove](https://open.spotify.com/artist/0Dc7CbTE5mcvrprttS6GDs) | [Nautiluss](https://open.spotify.com/album/73q9HeJy1LaVJ6qU6O5vN8) | 6:43 |
 | 24 | [Element](https://open.spotify.com/track/4P3aMyIZgpQF3xlUbU73FE) | [Parasense](https://open.spotify.com/artist/5RvzadMMtdwFV3bMUiilJH) | [Apple](https://open.spotify.com/album/4RHqVGRoPy8zcio6GyVShs) | 6:41 |

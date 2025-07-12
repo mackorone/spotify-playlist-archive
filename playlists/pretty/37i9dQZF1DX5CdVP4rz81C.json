@@ -1,13 +1,29 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: Laufey",
-  "num_followers": 1315805,
+  "num_followers": 1315704,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XcQAAAAAnlHvLwfbIG8qB1p9RfBBz",
+  "snapshot_id": "aHCMXwAAAACkbDgh5r+DIrPsbmLmCSyv",
   "tracks": [
+    {
+      "added_at": "2025-07-11 04:00:31",
+      "album": {
+        "name": "Motel 6",
+        "url": "https://open.spotify.com/album/5nP4Z6tvYijPGKGCHBoggS"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Motel 6",
+      "url": "https://open.spotify.com/track/48UjTuQXKI2h99PstOiTQY"
+    },
     {
       "added_at": "2025-06-27 04:00:49",
       "album": {
@@ -1555,22 +1571,6 @@
       "duration_ms": 146876,
       "name": "bad 4 u",
       "url": "https://open.spotify.com/track/2wYbz8CZCl2px8fruLPvqC"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "All For Something",
-        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 256245,
-      "name": "People Always Change",
-      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
     },
     {
       "added_at": "2024-09-06 04:00:00",

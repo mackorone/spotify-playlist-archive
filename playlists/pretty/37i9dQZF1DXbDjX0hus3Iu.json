@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 525369,
+  "num_followers": 525454,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTeKgAAAAA9OlYYq8s+hm9kD5SBMq7J",
+  "snapshot_id": "aHFNGwAAAAC1hPYDOVXwI7wKU6GjR0+S",
   "tracks": [
     {
       "added_at": "2025-06-20 04:06:02",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Stacked Deck (Remastered)",
+        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
+      },
+      "artists": [
+        {
+          "name": "Amazing Rhythm Aces",
+          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Third Rate Romance - Remastered",
+      "url": "https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Georgia Satellites",
         "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 209373,
       "name": "Oh, Atlanta",
       "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Stacked Deck (Remastered)",
-        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
-      },
-      "artists": [
-        {
-          "name": "Amazing Rhythm Aces",
-          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Third Rate Romance - Remastered",
-      "url": "https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
         }
       ],
-      "duration_ms": 147666,
-      "name": "Feats Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
+      "duration_ms": 277960,
+      "name": "Left Turn on a Red Light",
+      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Feats Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "The Whippoorwill",
         "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 214866,
       "name": "Pretty Little Lie",
       "url": "https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Left Turn on a Red Light",
-      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz"
+      },
+      "artists": [
+        {
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "Uneasy Rider",
+      "url": "https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Open All Night",
         "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
       },
@@ -861,20 +877,24 @@
       "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
     },
     {
-      "added_at": "2025-06-20 04:06:02",
+      "added_at": "2025-07-11 17:42:51",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz"
+        "name": "Ain't Rocked in a While",
+        "url": "https://open.spotify.com/album/0Kr5O6qIDaPt4K9m2eTUzU"
       },
       "artists": [
         {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        },
+        {
+          "name": "The Fixin's",
+          "url": "https://open.spotify.com/artist/7p0Qfaqk7McuS5iRrxYyLH"
         }
       ],
-      "duration_ms": 318800,
-      "name": "Uneasy Rider",
-      "url": "https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp"
+      "duration_ms": 281160,
+      "name": "Ain't Rocked in a While",
+      "url": "https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -943,22 +963,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Marshall Tucker Band",
-        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Get Right With The Man",
         "url": "https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp"
       },
@@ -971,6 +975,22 @@
       "duration_ms": 165320,
       "name": "Takin' Up Space",
       "url": "https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1235,18 +1255,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Southern Delight/Barefoot Jerry",
-        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
       },
       "artists": [
         {
-          "name": "Barefoot Jerry",
-          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
         }
       ],
-      "duration_ms": 279266,
-      "name": "Castle Rock",
-      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
+      "duration_ms": 242106,
+      "name": "Can't Keep Running",
+      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1267,18 +1287,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
+        "name": "Southern Delight/Barefoot Jerry",
+        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
       },
       "artists": [
         {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+          "name": "Barefoot Jerry",
+          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
         }
       ],
-      "duration_ms": 242106,
-      "name": "Can't Keep Running",
-      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
+      "duration_ms": 279266,
+      "name": "Castle Rock",
+      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1599,22 +1619,6 @@
       "duration_ms": 309666,
       "name": "Saturday Night Special",
       "url": "https://open.spotify.com/track/0ZQmpf5gk4k5VMopcAtyAc"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Searchin' for a Rainbow",
-      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     }
   ],
   "unique_name": "Southern Rock",

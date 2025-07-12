@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Max Carra & Lira.",
-  "num_followers": 1161186,
+  "num_followers": 1161007,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -551,38 +551,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Hasta La Luna (feat. Meri Deal, Marama) [Remix]",
-        "url": "https://open.spotify.com/album/5GRyz97ijU9BAWfueLY8MU"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 157520,
-      "name": "Hasta La Luna (feat. Meri Deal, Marama) - Remix",
-      "url": "https://open.spotify.com/track/4HnFARgZZdzuXSWLhfoRp1"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "Somos o no somos?",
         "url": "https://open.spotify.com/album/2WZMuMeSmu4RQyGx5fWGLU"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "Hasta La Luna (feat. Meri Deal, Marama) [Remix]",
+        "url": "https://open.spotify.com/album/5GRyz97ijU9BAWfueLY8MU"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 157520,
+      "name": "Hasta La Luna (feat. Meri Deal, Marama) - Remix",
+      "url": "https://open.spotify.com/track/4HnFARgZZdzuXSWLhfoRp1"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 131947,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 131947,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
+        "name": "QUE ES ESO?",
+        "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
+      },
+      "artists": [
+        {
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+        }
+      ],
+      "duration_ms": 145847,
+      "name": "QUE ES ESO?",
+      "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
         "name": "Quiero Creer",
         "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "QUE ES ESO?",
-        "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
-      },
-      "artists": [
-        {
-          "name": "VIUS",
-          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
-        }
-      ],
-      "duration_ms": 145847,
-      "name": "QUE ES ESO?",
-      "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/7vQDq7RBLz0hgGK3jJNaaI"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 131062,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0Lb1srW9JidPuK0pmVRQcZ"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
-        "name": "Te extra\u00f1o bb",
-        "url": "https://open.spotify.com/album/2zGo1N5ktB9y6qvupvosWC"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 212435,
-      "name": "Te extra\u00f1o bb",
-      "url": "https://open.spotify.com/track/2lx4ERMUBS5XH9FSEf2RX0"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1115,6 +1095,26 @@
       "duration_ms": 211238,
       "name": "Sin Cadenas",
       "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "Te extra\u00f1o bb",
+        "url": "https://open.spotify.com/album/2zGo1N5ktB9y6qvupvosWC"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Te extra\u00f1o bb",
+      "url": "https://open.spotify.com/track/2lx4ERMUBS5XH9FSEf2RX0"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/33dMDftJA5fKYj5StW5iPH"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 140645,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
         "name": "Chica Brasile\u00f1a Remix",
         "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
       },
@@ -1279,22 +1299,26 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/33dMDftJA5fKYj5StW5iPH"
+        "name": "VAS A VOLVER",
+        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
       "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
         {
           "name": "Roze Oficial",
           "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         },
         {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
         }
       ],
-      "duration_ms": 140645,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7"
+      "duration_ms": 144666,
+      "name": "VAS A VOLVER",
+      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1319,30 +1343,6 @@
       "duration_ms": 163529,
       "name": "Todo Comenz\u00f3 Bailando - Remix",
       "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
-        "name": "VAS A VOLVER",
-        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Fauna Music",
-          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "VAS A VOLVER",
-      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Me toc\u00f3 perder",
-        "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
-      },
-      "artists": [
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 126477,
-      "name": "Me toc\u00f3 perder",
-      "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "Me toc\u00f3 perder",
+        "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
+      },
+      "artists": [
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 126477,
+      "name": "Me toc\u00f3 perder",
+      "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "No Me Ense\u00f1aste",
         "url": "https://open.spotify.com/album/60rNhUilqoMluUK1skNtPg"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 190449,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/58Bus8hzPubXFBYelGrVMZ"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1887,22 +1887,18 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Tu Favorito",
-        "url": "https://open.spotify.com/album/6Ts25jGXnk9bPswAuUbv0M"
+        "name": "CUANDO SALE EL SOL",
+        "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
       },
       "artists": [
         {
           "name": "Roze Oficial",
           "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 176229,
-      "name": "Tu Favorito",
-      "url": "https://open.spotify.com/track/1ybAexrk6lpUW0xqssj9Ph"
+      "duration_ms": 176000,
+      "name": "CUANDO SALE EL SOL",
+      "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1919,6 +1915,26 @@
       "duration_ms": 176864,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "Noche de Party",
+        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 152942,
+      "name": "Noche de Party",
+      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1951,26 +1967,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Noche de Party",
-        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 152942,
-      "name": "Noche de Party",
-      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "Los Vagos",
         "url": "https://open.spotify.com/album/2qqxELPkyx4l9X492OrD7A"
       },
@@ -1991,18 +1987,22 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "CUANDO SALE EL SOL",
-        "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
+        "name": "Tu Favorito",
+        "url": "https://open.spotify.com/album/6Ts25jGXnk9bPswAuUbv0M"
       },
       "artists": [
         {
           "name": "Roze Oficial",
           "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 176000,
-      "name": "CUANDO SALE EL SOL",
-      "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
+      "duration_ms": 176229,
+      "name": "Tu Favorito",
+      "url": "https://open.spotify.com/track/1ybAexrk6lpUW0xqssj9Ph"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -2023,22 +2023,18 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Miau",
-        "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
       },
       "artists": [
         {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Leo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 205613,
-      "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
-      "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
+      "duration_ms": 182599,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

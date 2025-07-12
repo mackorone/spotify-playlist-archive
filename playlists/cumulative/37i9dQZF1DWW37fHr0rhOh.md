@@ -2,9 +2,9 @@
 
 ### [Faithful Melodies](https://open.spotify.com/playlist/37i9dQZF1DWW37fHr0rhOh)
 
-> Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Karen Peck & New River
+> Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Gaither Vocal Band
 
-195 songs - 12 hr 15 min
+197 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [No Bones About It](https://open.spotify.com/track/0jrbL1mvRUpTaxvUDlPlrt) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/2mK1OSCYxXpeHgh4kUZm0D) | 2:51 | 2021-08-13 | 2024-08-10 |
 | [No Bones About It](https://open.spotify.com/track/7IdjRdGpf5aLXrZfh9cUFl) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/3KoNQ5R7a9Yz7MEzqyQtE7) | 2:51 | 2021-08-13 | 2024-04-19 |
 | [No One Greater](https://open.spotify.com/track/2o8GNK8ydsmYvQxCrs17wT) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Breakthrough](https://open.spotify.com/album/5MT0vqFrhs9mRUzvT8feKb) | 4:16 | 2024-07-04 |  |
-| [Now Lazarus Can Sing](https://open.spotify.com/track/38Voi2itip2fwW1FI0fALD) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [Now Lazarus Can Sing](https://open.spotify.com/album/0lk5K25ECMvAiDlsKbNVQJ) | 3:27 | 2025-05-16 |  |
+| [Now Lazarus Can Sing](https://open.spotify.com/track/38Voi2itip2fwW1FI0fALD) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [Now Lazarus Can Sing](https://open.spotify.com/album/0lk5K25ECMvAiDlsKbNVQJ) | 3:27 | 2025-05-16 | 2025-07-12 |
 | [On Jordan's Stormy Banks](https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [On Jordan's Stormy Banks](https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E) | 4:36 | 2024-07-04 |  |
 | [One More Hallelujah](https://open.spotify.com/track/384RrrnhTnjcHKqv6o6eRs) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [By The Riverside \(Deluxe\)](https://open.spotify.com/album/0KsRZ282ajaz9v7kPJOEaD) | 4:00 | 2025-02-07 |  |
 | [Pass Me Not Oh Gentle Saviour](https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sings Greatest Country Gospel Hits](https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db) | 2:37 | 2024-07-04 |  |
@@ -171,6 +171,8 @@
 | [There Is A Love](https://open.spotify.com/track/0Gqo3QNcrrkCXPXPTSfMN3) | [Soul'd Out Quartet](https://open.spotify.com/artist/1nCT9uoN7dBI1vXtcGvE9m) | [Great Life](https://open.spotify.com/album/6NcCjEtZ6wakLRRKC1Kp57) | 2:51 | 2021-08-13 | 2024-04-19 |
 | [There Is A Love](https://open.spotify.com/track/5WWpf8gDtQ3gxFGLvNugz4) | [Soul'd Out Quartet](https://open.spotify.com/artist/1nCT9uoN7dBI1vXtcGvE9m) | [Great Life](https://open.spotify.com/album/1UVoAj6uNcI387Fd4679ct) | 2:51 | 2021-08-13 | 2024-07-04 |
 | [There's A Hole in the Heart](https://open.spotify.com/track/4mHjtYE0c51pFxHkgVJeRH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [There's A Hole in the Heart](https://open.spotify.com/album/1BxJsXl0vw15BRmbNFQdf6) | 3:21 | 2024-07-19 | 2024-08-31 |
+| [There's A Hole In The Heart Of This Country](https://open.spotify.com/track/2aJ5NVUTwygdI1aoXUJEW1) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [There's A Hole In The Heart Of This Country](https://open.spotify.com/album/1gmev2OhyLBI1wRemnYPp1) | 3:09 | 2025-07-11 |  |
+| [There's a Medicine for That](https://open.spotify.com/track/56FlVcErsldpsCHePXb0qQ) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [There's a Medicine for That](https://open.spotify.com/album/2ML845CbiW8K1tH1LP133c) | 5:26 | 2025-07-11 |  |
 | [Thinking 'Bout Home \- Live](https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Thinking 'Bout Home \(Live\)](https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940) | 4:05 | 2021-08-13 | 2024-07-04 |
 | [This Storm](https://open.spotify.com/track/4LC1Ykr1vVF1mDshUoVHIf) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [This Storm \(Single\)](https://open.spotify.com/album/4mqWPtWLNt05DoJRj8Wzss) | 3:18 | 2021-08-13 | 2024-07-04 |
 | [Three Nails Instead](https://open.spotify.com/track/2rHNG8ox5sPcB2ZBoZhj2t) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Three Nails Instead](https://open.spotify.com/album/6mgkQz623Cw8aznU8t0pp4) | 3:48 | 2024-08-30 |  |
@@ -201,7 +203,7 @@
 | [You Can Find What I Found](https://open.spotify.com/track/6RjPfdvN9rkSyQGpH6KGBL) | [The Blackwood Brothers Quartet](https://open.spotify.com/artist/2v4MKSLzjnfGStyx4Csi1Y) | [Forever: 80th Anniversary Recording](https://open.spotify.com/album/5KgVsadQm4ksLuNSitVcTl) | 2:12 | 2021-08-13 | 2024-07-04 |
 | [You'll Find Him There \- Live](https://open.spotify.com/track/75kw62TR6z5CEfynWUbBO3) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Live In Memphis](https://open.spotify.com/album/6999L6XkvhdlpSrlyfoGb5) | 3:06 | 2024-12-11 | 2025-03-15 |
 | [You've Already Won](https://open.spotify.com/track/29KMpdBMgH8zPRMYF7Erzy) | [Chosen Road](https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh) | [You've Already Won](https://open.spotify.com/album/4PzFcJxB40QOAp4kEemBMU) | 5:40 | 2025-06-13 |  |
-| [Your Grace And Mercy \- Live](https://open.spotify.com/track/3uE1egd58paXeWi8cba9ct) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o), [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [Heavenly Love: A Southern Convention Sing\-Along \(Live\)](https://open.spotify.com/album/2gyVhoHR0LPPrC55KWF6Ki) | 7:09 | 2025-05-16 |  |
+| [Your Grace And Mercy \- Live](https://open.spotify.com/track/3uE1egd58paXeWi8cba9ct) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o), [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [Heavenly Love: A Southern Convention Sing\-Along \(Live\)](https://open.spotify.com/album/2gyVhoHR0LPPrC55KWF6Ki) | 7:09 | 2025-05-16 | 2025-07-12 |
 | [Your Ways Are Higher Than Mine](https://open.spotify.com/track/3AgH9cu0oUrVQUb99TyAEi) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc) | [Mercy & Love](https://open.spotify.com/album/5efaQ2tF2R8HkroQ9rB3ew) | 4:00 | 2021-08-13 | 2024-07-04 |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

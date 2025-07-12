@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Trúc
 
-2,140 songs - 5 day 5 hr 28 min
+2,141 songs - 5 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,6 +798,7 @@
 | [Hạnh Phúc Mới](https://open.spotify.com/track/7MqBESTeRdYeAFYTOT0t3p) | [Erin](https://open.spotify.com/artist/2KFqKJvmyR5FRdW2Ww8YeY) | [Hạnh Phúc Mới](https://open.spotify.com/album/35VklGLk1ovDfPTb11krbL) | 4:54 | 2022-11-30 | 2023-01-06 |
 | [Hạnh phúc tròn](https://open.spotify.com/track/1ZCCXfXl7FFeYMuMXm4bqn) | [Lang Tăng](https://open.spotify.com/artist/2IWMsFbcKo1eb4gtgCuOmV) | [HẠNH PHÚC TRÒN](https://open.spotify.com/album/2Xo823O8Hy7wGUFrQGc9m5) | 4:17 | 2022-11-15 | 2023-12-30 |
 | [Hạnh Phúc Xa Rời Em](https://open.spotify.com/track/5pzo8dYxbW1HttMXAQqrID) | [Ngân Ngân](https://open.spotify.com/artist/2ukex9mJuIbR6msM02Flwf) | [Hạnh Phúc Xa Rời Em](https://open.spotify.com/album/3GBi30kZabThamvkE81a8q) | 4:52 | 2024-06-06 | 2024-06-18 |
+| [HẠT NẮNG](https://open.spotify.com/track/1O6pzHLHv08jXpapnZ1I6t) | [Xoxad](https://open.spotify.com/artist/7CirIWsF6Zm9SLjGdg1n0S) | [HẠ](https://open.spotify.com/album/3ZU4ZXYqq1upQE6c8RNSIQ) | 3:52 | 2025-07-09 |  |
 | [Hậu Phương \- Cân Cả Thế Giới Ballad Version](https://open.spotify.com/track/4jS3iySuJ0LETVZhEYigDc) | [Dương Hoàng Yến](https://open.spotify.com/artist/3bbdXNYZbTMzxskrE4wIFQ) | [Hậu Phương \(Cân Cả Thế Giới Ballad Version\)](https://open.spotify.com/album/4L4aqj0qMvUTsjDZVq1bbc) | 5:13 | 2023-05-25 | 2023-06-26 |
 | [Hẳn Là Yêu](https://open.spotify.com/track/1PVJIfxrT8NuDDsGwuOIhT) | [Keyo](https://open.spotify.com/artist/3v51tz8QfvAyKbA6rE6kTm) | [Hẳn Là Yêu](https://open.spotify.com/album/2Hcx9u7PhuJGF9Thicanec) | 3:53 | 2024-06-20 | 2024-07-05 |
 | [Hẹn Em Kiếp Sau](https://open.spotify.com/track/4tLlCe4nJVY5ABsBOWV2mF) | [Duy Phúc](https://open.spotify.com/artist/5Pr8iHV1XeQXqFH0Ereo2e), [Lã.](https://open.spotify.com/artist/3Rzk8SHIIq6aAdfosxPgMe), [TiB](https://open.spotify.com/artist/12oQKizOm2rS2LjvWjfUXY) | [Hẹn Em Kiếp Sau](https://open.spotify.com/album/2qjGggrWQi8PZ9WLUguZMs) | 3:28 | 2022-01-06 | 2022-02-24 |

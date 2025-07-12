@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: TESTIMONY JAGA
 
-5,685 songs - 17 day 6 hr 49 min
+5,687 songs - 17 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3304,6 +3304,7 @@
 | [My Life Defined By Jesus](https://open.spotify.com/track/2V9ixu4jWhRIcE3x2m67ik) | [Tanasoa Pastore](https://open.spotify.com/artist/22pneTFdoJAEXGNUaG96Yk), [Chantal Kristos](https://open.spotify.com/artist/3ve44Cwzo81lZeoa191juf) | [My Life Defined By Jesus](https://open.spotify.com/album/2S7ssfdbMxruC4dEYaUnGw) | 3:39 | 2024-02-23 | 2024-03-08 |
 | [My Life Is in Your Hands \(Live\)](https://open.spotify.com/track/13yUEj8wXt7QSZWe8mHsC7) | [Purist Ogboi](https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE) | [My Life Is in Your Hands \(Live\)](https://open.spotify.com/album/0ZukMbSiu13MbW18d7KyQn) | 5:59 | 2024-03-15 | 2024-03-29 |
 | [my Light](https://open.spotify.com/track/1Yu55Al0TiS5YdSrMl7cWX) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Jesus is Lord](https://open.spotify.com/album/00MR3DsfzyVVJPGUMz0oWP) | 2:51 | 2024-01-19 | 2024-01-26 |
+| [My Light \- Live](https://open.spotify.com/track/0NMCdMucfhqmFmB7mrYdx3) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [My Light \(Live\)](https://open.spotify.com/album/3RueNJFVQ8lozoKnqINFLL) | 8:50 | 2025-07-11 |  |
 | [My Light Has Come](https://open.spotify.com/track/70CJ9ZTgeXYv67yXhyIkfA) | [Obed Flames](https://open.spotify.com/artist/3zcRPJjUIXHBPa2QEUgEtr) | [My Light Has Come](https://open.spotify.com/album/1wCsbPQP7vLGq7H97xh1fb) | 3:19 | 2023-08-04 | 2023-08-18 |
 | [My Lord \(Isaiah 2:11\)](https://open.spotify.com/track/7vjSZuqvoGd9KJ7XazdkHu) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [My Lord \(Isaiah 2:11\)](https://open.spotify.com/album/26lCJiZGnBkRU4c0OybPXW) | 2:35 | 2023-11-03 | 2023-11-17 |
 | [My Lord is Good](https://open.spotify.com/track/6AEQOLEYTFQlorjhbr0e75) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [My Lord Is Good](https://open.spotify.com/album/6FWH09Kwodt4ReIiCRIUi5) | 2:10 | 2024-10-11 | 2024-10-25 |
@@ -3400,6 +3401,7 @@
 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 | 2024-07-05 | 2024-07-19 |
 | [Need You More](https://open.spotify.com/track/6gPSmwygABNYVEG7q0umky) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Need You More](https://open.spotify.com/album/26IUZXIl4p6MOloWfucHlv) | 3:51 | 2025-03-20 | 2025-04-04 |
 | [Needs](https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Needs](https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi) | 3:27 | 2023-09-08 | 2023-09-22 |
+| [Neem die wêreld, gee my Jesus](https://open.spotify.com/track/20hvpxz9huGDcSRIAPRWal) | [Die Lekker Crew](https://open.spotify.com/artist/5QrMxygemSDMjHJGLegMdh) | [Neem die wêreld, gee my Jesus](https://open.spotify.com/album/1cfk5z1JROnMUjO5RHvQyt) | 6:24 | 2025-07-11 |  |
 | [Net Een Naam](https://open.spotify.com/track/578ejxjcublbBj2IJ9bKly) | [Retief Burger](https://open.spotify.com/artist/38SqGSrjDDkrsjicMn5vLl) | [Net Een Naam](https://open.spotify.com/album/2FMPMpKV6UBsKvalipOWtJ) | 3:41 | 2023-06-02 | 2023-06-09 |
 | [Never](https://open.spotify.com/track/3IQdVOoiyUFhW00lDwJn8g) | [Chad Prins](https://open.spotify.com/artist/0Pw2kX5DUyKzek3ClK1Dvg), [Seve MusicKid](https://open.spotify.com/artist/7rc5DX7anRXeXWjgDEAdbn) | [Never](https://open.spotify.com/album/3H0raKStqrLreTil7aNlDM) | 3:38 | 2025-03-20 | 2025-03-28 |
 | [NeVeR](https://open.spotify.com/track/5ubJeMF2mU09jiE91IsIRB) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [NeVeR](https://open.spotify.com/album/3omiFMtOK5ha3MmA6wYW3X) | 2:55 | 2024-09-20 | 2024-10-04 |

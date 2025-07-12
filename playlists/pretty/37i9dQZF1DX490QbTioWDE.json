@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
-  "num_followers": 757730,
+  "num_followers": 757900,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
-        "url": "https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
-      "url": "https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "El Que Se Enamora Pierde",
         "url": "https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 144868,
       "name": "El Que Se Enamora Pierde",
       "url": "https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
+      "url": "https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "JULIETA & ROMEO (En Vivo)",
-        "url": "https://open.spotify.com/album/4j657q1CkL6b2KudaL5qS4"
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
       },
       "artists": [
         {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 163468,
-      "name": "JULIETA & ROMEO (En Vivo)",
-      "url": "https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG"
+      "duration_ms": 245000,
+      "name": "La Cita (La Carta)",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+        "name": "JULIETA & ROMEO (En Vivo)",
+        "url": "https://open.spotify.com/album/4j657q1CkL6b2KudaL5qS4"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 245000,
-      "name": "La Cita (La Carta)",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+      "duration_ms": 163468,
+      "name": "JULIETA & ROMEO (En Vivo)",
+      "url": "https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
+        "name": "A Toda Fiesta",
+        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Amor Infiel",
+      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 275888,
       "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
       "url": "https://open.spotify.com/track/24ZIP2V3URiRalLiuiDshf"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
-        "name": "A Toda Fiesta",
-        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Amor Infiel",
-      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Como Te Va Mi Amor - Hasta Hoy",
-        "url": "https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 327488,
-      "name": "Como Te Va Mi Amor - Hasta Hoy",
-      "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "Te extra\u00f1o",
         "url": "https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 183502,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "Como Te Va Mi Amor - Hasta Hoy",
+        "url": "https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 327488,
+      "name": "Como Te Va Mi Amor - Hasta Hoy",
+      "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1663,30 +1663,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Princesa (En Vivo)",
-        "url": "https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 170062,
-      "name": "Princesa - En Vivo",
-      "url": "https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "No me restes (En Vivo)",
         "url": "https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW"
       },
@@ -1719,22 +1695,26 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Buena Vida",
-        "url": "https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu"
+        "name": "Princesa (En Vivo)",
+        "url": "https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
         }
       ],
-      "duration_ms": 142463,
-      "name": "Buena Vida",
-      "url": "https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV"
+      "duration_ms": 170062,
+      "name": "Princesa - En Vivo",
+      "url": "https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1751,6 +1731,26 @@
       "duration_ms": 366368,
       "name": "Loca de Amor - Vestido Azul",
       "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "Buena Vida",
+        "url": "https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 142463,
+      "name": "Buena Vida",
+      "url": "https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV"
     },
     {
       "added_at": "2025-07-11 03:00:05",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-07-11 03:00:05",
       "album": {
-        "name": "Adelantos (Live)",
-        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Marquez",
-          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
-        }
-      ],
-      "duration_ms": 239726,
-      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
-      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
-    },
-    {
-      "added_at": "2025-07-11 03:00:05",
-      "album": {
         "name": "Luis",
         "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 263986,
       "name": "Luis",
       "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
+    },
+    {
+      "added_at": "2025-07-11 03:00:05",
+      "album": {
+        "name": "Adelantos (Live)",
+        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+        }
+      ],
+      "duration_ms": 239726,
+      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
     },
     {
       "added_at": "2025-07-11 03:00:05",

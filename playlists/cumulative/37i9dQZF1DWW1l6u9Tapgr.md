@@ -4,7 +4,7 @@
 
 > 8月16日\(土\)\~17日\(日\)、SUMMER SONIC 2025 @幕張メッセにて<a href="https://spotify\-earlynoise.jp/">Spotify Stage</a>開催決定！出演アーティストをプレイリストでチェック。
 
-249 songs - 13 hr 50 min
+250 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Control](https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Logic 2](https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r) | 3:01 | 2024-08-18 | 2025-01-10 |
 | [cuz u just memories](https://open.spotify.com/track/1sNouYLvrE9zHwR2hdYGc1) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [cuz u just memories](https://open.spotify.com/album/56JzeYpkCaCPWpVyUHvpzh) | 2:04 | 2025-05-08 |  |
 | [Cyberpunk](https://open.spotify.com/track/0UZRXABdwGsTW8IFpI7AB1) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 3:01 | 2024-08-18 | 2025-01-10 |
-| [CYM](https://open.spotify.com/track/1YkmFVXNwCsLkKRvSiYmkq) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/65mSxA3nkN5r3iOTSYooWO) | 4:09 | 2025-05-08 |  |
+| [CYM](https://open.spotify.com/track/1YkmFVXNwCsLkKRvSiYmkq) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/65mSxA3nkN5r3iOTSYooWO) | 4:09 | 2025-05-08 | 2025-07-12 |
 | [Dance With Me](https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dance With Me](https://open.spotify.com/album/5PQwDjqe2iz3Brdami9y40) | 1:24 | 2025-05-08 |  |
 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2025-01-23 | 2025-03-20 |
 | [Defunk](https://open.spotify.com/track/78t6rxBhtvByO89ai1yvqs) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Defunk](https://open.spotify.com/album/60qNvrDTkiueMaT0F9Q46U) | 4:03 | 2025-01-09 | 2025-01-24 |
@@ -69,6 +69,7 @@
 | [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 | 2025-01-09 | 2025-01-24 |
 | [For a long time](https://open.spotify.com/track/3gYBa8w5iUYWJBtuN1keYB) | [TRIPPYHOUSING](https://open.spotify.com/artist/4pdZ66BsPUNzMSqlC1r9YN) | [For a long time](https://open.spotify.com/album/1hADWIvMFHjFmV3AoM3VGV) | 3:42 | 2025-05-08 |  |
 | [Forever Young \(feat\. BIM & WILYWNKA\)](https://open.spotify.com/track/5O6IuSFuukOKv8S9xDLDrb) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 3:35 | 2024-08-18 | 2025-01-10 |
+| [Funky Lovely Girl](https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z) | 3:45 | 2025-07-11 |  |
 | [Games](https://open.spotify.com/track/10towp6DM9ZtVlP8RyPAGn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 3:02 | 2025-01-31 | 2025-02-19 |
 | [Ginger](https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:22 | 2024-08-18 | 2025-01-10 |
 | [GOLD](https://open.spotify.com/track/21Qk5888Ac0pe1PihX7vKH) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [LOGIC](https://open.spotify.com/album/5ftRmSBjH02fMedZmn1alL) | 2:52 | 2024-08-18 | 2025-01-10 |

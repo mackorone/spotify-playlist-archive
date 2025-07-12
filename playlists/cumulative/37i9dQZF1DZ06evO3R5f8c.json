@@ -1823,6 +1823,36 @@
     },
     {
       "album": {
+        "name": "Maturo",
+        "url": "https://open.spotify.com/album/3QzA2IsFBMCjThvKDxvS7H"
+      },
+      "artists": [
+        {
+          "name": "Andy Keys",
+          "url": "https://open.spotify.com/artist/5DrHquZcRH9wEDNPCXmCt7"
+        },
+        {
+          "name": "KingTouch",
+          "url": "https://open.spotify.com/artist/19mB8PdWAm23SETJac3rOG"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480005,
+      "name": "Superman - Club Mix",
+      "url": "https://open.spotify.com/track/5rBDK9SA9qa5yJra1iCPuV"
+    },
+    {
+      "album": {
         "name": "Africa Rising",
         "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
       },

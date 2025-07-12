@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 35739,
+  "num_followers": 35749,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG2xAAAAAABYJWyNhso+kG9iCj8zZ5oq",
+  "snapshot_id": "aG8CgAAAAABE4K78DOjB1gWXzXOMI22S",
   "tracks": [
     {
       "added_at": null,
@@ -495,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+        "name": "Barata y Descont\u00f3n",
+        "url": "https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u"
       },
       "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 269106,
-      "name": "Vivir por Vivir",
-      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
+      "duration_ms": 250011,
+      "name": "Barata y Descont\u00f3n",
+      "url": "https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ"
     },
     {
       "added_at": null,
@@ -559,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barata y Descont\u00f3n",
-        "url": "https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u"
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
       },
       "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 250011,
-      "name": "Barata y Descont\u00f3n",
-      "url": "https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ"
+      "duration_ms": 269106,
+      "name": "Vivir por Vivir",
+      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1nimas",
-        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trenes y Gatos",
         "url": "https://open.spotify.com/album/0HSSCXp1CGTQFOIQMP2bjV"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c1nimas",
+        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
         "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico en Vivo",
-        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 326133,
-      "name": "En los A\u00f1os 30 - En Vivo",
-      "url": "https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 267059,
       "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ac\u00fastico en Vivo",
+        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 326133,
+      "name": "En los A\u00f1os 30 - En Vivo",
+      "url": "https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3"
     },
     {
       "added_at": null,

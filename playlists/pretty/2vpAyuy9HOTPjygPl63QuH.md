@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,729 likes - 61 songs - 3 hr 16 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,745 likes - 68 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,12 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 59 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
 | 60 | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/track/58JdlahcAaLgM7ftInMf4M) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/album/0saGsR6TeTVKV7rJHOYgR8) | 2:49 |
 | 61 | [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cash Out](https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR) | 3:02 |
+| 62 | [Pump Time](https://open.spotify.com/track/5WP4Ko2emJXWOX64cimlEW) | [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Pump Time](https://open.spotify.com/album/2pF4FGAnxQbNScUTi8fd5x) | 3:29 |
+| 63 | [Ride](https://open.spotify.com/track/5deeydtChxT8ZYJnTCGr8l) | [Micah Baxter](https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje) | [Ride](https://open.spotify.com/album/6p9agVICY5OJFMHNAIeZ7H) | 6:49 |
+| 64 | [Blue Monday](https://open.spotify.com/track/1RMhO8CQw025Jppf3yULwh) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Blue Monday](https://open.spotify.com/album/6F0NbhJKw2adEJlUbJPQWX) | 3:00 |
+| 65 | [Double Dutch](https://open.spotify.com/track/10LCFChcEluNFZXVFVDanE) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Double Dutch](https://open.spotify.com/album/11jp3aD89IP5YOWU0axfpN) | 3:22 |
+| 66 | [Forbidden Fruit](https://open.spotify.com/track/2O2qDKPqS7SIU9OsI4Rk7c) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Forbidden Fruit](https://open.spotify.com/album/7GnTlRiJC8e2NG6oNkm8FL) | 2:59 |
+| 67 | [Front 2 Back](https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Front 2 Back](https://open.spotify.com/album/0GjU9EI6COpbjnLEh049Ct) | 2:59 |
+| 68 | [No Sucker](https://open.spotify.com/track/0AS16BRzJAAEx1Rjm7dpBA) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [No Sucker](https://open.spotify.com/album/1CSZzD1R0p8unpukTR9bEe) | 2:22 |
 
-Snapshot ID: `AAAmRpMA1/MPk1YFDs7+Qn3c8nLLS3HC`
+Snapshot ID: `AAAmTU1iKpKeiCCe+cIpoM4T/BxuouwU`

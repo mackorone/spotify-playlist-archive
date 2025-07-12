@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-730 songs - 1 day 12 hr 45 min
+731 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,6 +676,7 @@
 | [VBM](https://open.spotify.com/track/13pYqH006kvuspL8ugXoMO) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [VBM](https://open.spotify.com/album/2SpSpaeK47KsZg8R5QuARt) | 2:15 | 2023-12-13 | 2024-07-19 |
 | [Vem Lenta!](https://open.spotify.com/track/5ivlqPm3UjpaGu1eBl2tAT) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Eluvo](https://open.spotify.com/artist/5d8FB3RYehI8dzHDX9LIQd), [KPHK](https://open.spotify.com/artist/3xJiemGM1VxCDi2QhGU08l) | [Vem Lenta!](https://open.spotify.com/album/7GSqL5FH32qRTI101iUuX4) | 1:14 | 2025-06-06 |  |
 | [Vibe](https://open.spotify.com/track/25Pk28XXDZL3MFwQ4NhkXy) | [Spicyverse](https://open.spotify.com/artist/1z7TqqEGp09sWiGRpsVfyD) | [Vibe](https://open.spotify.com/album/14lPbRLedj0B2d2zNRPEUq) | 2:59 | 2024-04-23 | 2024-11-20 |
+| [Victim](https://open.spotify.com/track/6gOmVillgjmFq9sHTcv3oi) | [MRJay](https://open.spotify.com/artist/24PhFqIM2MOH9oAVnPzfRe), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Victim](https://open.spotify.com/album/4DR8zDPJ0G5Ce6ibjMNGPk) | 4:02 | 2025-07-11 |  |
 | [Vida Nova](https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [Vida Nova](https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y) | 1:56 | 2024-04-25 | 2024-11-20 |
 | [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 | 2023-12-29 | 2024-07-19 |
 | [Vision](https://open.spotify.com/track/1G3sEIZJQpPtsPNTLlWSzs) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [Vision](https://open.spotify.com/album/1KIMzdcNaxOXmlCH63HR96) | 2:25 | 2023-01-13 | 2023-04-28 |

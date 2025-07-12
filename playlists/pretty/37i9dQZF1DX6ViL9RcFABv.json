@@ -1,28 +1,28 @@
 {
-  "description": "Uma playlist de pura alma pop! Foto: Vizinhos",
-  "num_followers": 119183,
+  "description": "Uma playlist de pura alma pop! Foto: Catarina Filipe",
+  "num_followers": 119206,
   "original_name": "Pop PT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBTyAAAAACczpWCcttw/DqlstcVCfdH",
+  "snapshot_id": "aHDEhwAAAADm6UqFxaVK2MHohVcSwrxU",
   "tracks": [
     {
-      "added_at": "2025-07-10 23:00:10",
+      "added_at": "2025-07-11 08:00:07",
       "album": {
-        "name": "Pobre Ex-Namorado",
-        "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/0WVxIbOT1EOAqGVrEZhXr9"
       },
       "artists": [
         {
-          "name": "Vizinhos",
-          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+          "name": "Catarina Filipe",
+          "url": "https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8"
         }
       ],
-      "duration_ms": 173613,
-      "name": "Pobre Ex-Namorado",
-      "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
+      "duration_ms": 148311,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/1j4kYsMuewIYAYqtKfyTwj"
     },
     {
       "added_at": "2025-07-10 23:00:10",
@@ -51,6 +51,22 @@
       "duration_ms": 209962,
       "name": "Beijo",
       "url": "https://open.spotify.com/track/3303s19agScDaCsPYdCu7i"
+    },
+    {
+      "added_at": "2025-07-10 23:00:10",
+      "album": {
+        "name": "Pobre Ex-Namorado",
+        "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "duration_ms": 173613,
+      "name": "Pobre Ex-Namorado",
+      "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
     },
     {
       "added_at": "2025-07-10 23:00:10",

@@ -1,12 +1,12 @@
 {
   "description": "The home for alternative electronic music. Cover: Barry Can't Swim",
-  "num_followers": 533633,
+  "num_followers": 533643,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBF9wAAAADd4APp4VeEIm2oLUhD9DzX",
+  "snapshot_id": "aHDWdAAAAABapJNnUnTfSKNrpNWDf0R0",
   "tracks": [
     {
       "added_at": "2025-07-10 23:00:07",
@@ -379,6 +379,22 @@
       "duration_ms": 164461,
       "name": "Not Checkers",
       "url": "https://open.spotify.com/track/0phTA5cDBB3ighHgjUDYyK"
+    },
+    {
+      "added_at": "2025-07-11 09:16:36",
+      "album": {
+        "name": "All Systems Are Lying / Run Free",
+        "url": "https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "All Systems Are Lying",
+      "url": "https://open.spotify.com/track/6BEv1WwbbwL7SqYU9eowI7"
     },
     {
       "added_at": "2025-07-10 23:00:07",

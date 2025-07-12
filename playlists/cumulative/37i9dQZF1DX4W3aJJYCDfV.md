@@ -2,9 +2,9 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Olivia Dean, Wolf Alice and more!
+> Brand new music from Justin Bieber, Olivia Dean, Wolf Alice and more!
 
-17,200 songs - 38 day 17 hr 35 min
+17,202 songs - 38 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1264,7 +1264,7 @@
 | [Bad Bassline \(feat\. DJ Luck & MC Neat\)](https://open.spotify.com/track/5EVnjzIr0WpuZVFDGXIaTU) | [SAINT](https://open.spotify.com/artist/2XzayuOUUjbWK65LzwHKuX), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline \(feat\. DJ Luck & MC Neat\)](https://open.spotify.com/album/5Sf5Purje1nUFi9b3DsURp) | 2:31 | 2023-12-08 | 2023-12-15 |
 | [Bad Bitch](https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Bad Bitch](https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ) | 2:57 | 2023-09-14 | 2023-09-22 |
 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 | 2025-04-24 | 2025-05-02 |
-| [Bad Boi Selecta](https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Jack Marlow](https://open.spotify.com/artist/3xuVyzcGbOFTySc2VeynSO) | [Bad Boi Selecta](https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS) | 2:48 | 2025-07-10 |  |
+| [Bad Boi Selecta](https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Bad Boi Selecta](https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS) | 2:48 | 2025-07-10 |  |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2024-12-13 | 2024-12-20 |
 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 | 2023-11-10 | 2023-11-17 |
 | [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 | 2025-03-28 | 2025-04-04 |
@@ -3295,6 +3295,7 @@
 | [Daily Duppy!](https://open.spotify.com/track/4yo72X7x0g54QFN1g7zg40) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Daily Duppy!](https://open.spotify.com/album/2e8hSQYuYOh3SaWdfYSYuI) | 3:08 | 2024-07-18 | 2024-07-27 |
 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-18 | 2024-07-27 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-07-12 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 | 2023-06-15 | 2023-06-23 |
 | [Daisy Chains](https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Daisy Chains \(The Summer EP\)](https://open.spotify.com/album/0N9G9tvD1yueaWjpHSVvSQ) | 3:20 | 2024-07-04 | 2024-07-12 |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-01-19 | 2024-01-26 |
@@ -6593,7 +6594,7 @@
 | [Hi!](https://open.spotify.com/track/4qnEWaFBLZc62RFLKyCid6) | [Greta Jaime](https://open.spotify.com/artist/2L5LSUhkLo20iqPTNA5aC5) | [Hi!](https://open.spotify.com/album/5IwUIN1BIAmOw3X6hTJIeK) | 3:28 | 2023-02-24 | 2023-03-03 |
 | [hiatus](https://open.spotify.com/track/7cbvHeOb1SjNxkbqDuilw2) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [hiatus](https://open.spotify.com/album/1xpdm7VyOyj3QlfyyfASyP) | 2:22 | 2024-02-16 | 2024-02-23 |
 | [HIATUS](https://open.spotify.com/track/6nqbRuwvrdz4vaTs2rGmGf) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [HIATUS](https://open.spotify.com/album/2PT4Q1NL28S5TmqqxRwFib) | 2:59 | 2023-01-13 | 2023-01-20 |
-| [Hide & Seek](https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Hide & Seek](https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2) | 3:07 | 2025-07-10 |  |
+| [hide & seek](https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [hide & seek](https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2) | 3:07 | 2025-07-10 |  |
 | [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 | 2023-01-06 | 2023-01-13 |
 | [Hide And Seek \(feat\. Digga D\)](https://open.spotify.com/track/2RFkLlsHRjcnZA0fHCOTKA) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Hide And Seek \(feat\. Digga D\)](https://open.spotify.com/album/1m7zPPaHd40gsbUXThzpE7) | 2:05 | 2023-09-28 | 2023-10-06 |
 | [Hide Behind](https://open.spotify.com/track/0e0eg9m08uI1s8y8gWeWYR) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Hide Behind](https://open.spotify.com/album/4ESqcvNKgRsF25ObnmHoRJ) | 3:59 | 2023-03-24 | 2023-03-31 |
@@ -8032,6 +8033,7 @@
 | [July](https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [July](https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC) | 4:08 | 2024-05-16 | 2024-05-24 |
 | [Jumoke](https://open.spotify.com/track/5L8dHIMUXtDD3j46d05TqA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Jumoke](https://open.spotify.com/album/6WX4WjbumSDgllaiFTVCit) | 3:06 | 2023-10-05 | 2023-10-13 |
 | [Jump](https://open.spotify.com/track/1BnoG2KaNRuf7mZ88bFE0C) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Jump](https://open.spotify.com/album/3CO33y1tZPt41lPMrFDToY) | 2:38 | 2023-08-31 | 2023-09-08 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-11 |  |
 | [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 | 2025-03-14 | 2025-03-21 |
 | [Jump](https://open.spotify.com/track/0xZgodB4I27zu3nzJKcCWN) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 2:52 | 2022-12-09 | 2022-12-16 |
 | [Jump \(with blackwave.\)](https://open.spotify.com/track/7wDZpwp26CpLDbU3PIBsbo) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [Jump \(with blackwave.\)](https://open.spotify.com/album/6PhSO0OZnVpC9aYTx0u5QI) | 3:13 | 2023-03-17 | 2023-03-25 |

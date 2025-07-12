@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVbcsQ9UlQH.md) - [plain]
 
 > Music from "BLUE GIANT THE MOVIE"\. <a href="https://bluegiant\-movie.jp/">映画「BLUE GIANT」</a>の楽曲を1つのプレイリストで。©2023 BGP ©2013 S.I, S
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,924 likes - 34 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,940 likes - 34 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

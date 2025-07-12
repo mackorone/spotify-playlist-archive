@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Sal Gason",
+        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
+      },
+      "artists": [
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138897,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
+    },
+    {
+      "album": {
         "name": "DAP (Drink and Party)",
         "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
       },
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 240309,
       "name": "Don't Show Off",
       "url": "https://open.spotify.com/track/6g1OFTxXHuWE1kJQ8qlXhH"
@@ -3327,6 +3345,28 @@
     },
     {
       "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/3RfyH6dNvlEJGpByBj7uz9"
+      },
+      "artists": [
+        {
+          "name": "Popeye Caution",
+          "url": "https://open.spotify.com/artist/6c3XdLzp5XDjz3FVn4c3dZ"
+        },
+        {
+          "name": "Team DAMP",
+          "url": "https://open.spotify.com/artist/3SPO1zOMgh106pZzibM1sP"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134720,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/0QcTSw3i8w3KL3ls0QaQHy"
+    },
+    {
+      "album": {
         "name": "High Street Riddim",
         "url": "https://open.spotify.com/album/4oHMfkHxT3nEEKkvNwW2Jr"
       },
@@ -4076,6 +4116,32 @@
       "duration_ms": 153182,
       "name": "Humans",
       "url": "https://open.spotify.com/track/3p49RQe2zEzDecznhuznrD"
+    },
+    {
+      "album": {
+        "name": "Hustling In My Blood",
+        "url": "https://open.spotify.com/album/2RBVosWbf5PCDS0b44NiaK"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255221,
+      "name": "Hustling In My Blood",
+      "url": "https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ"
     },
     {
       "album": {
@@ -5954,7 +6020,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 159211,
       "name": "Outside Behavior - No Drums & Percussions",
       "url": "https://open.spotify.com/track/0Ge3TTT92PENBkEKxm1pKf"
@@ -7940,7 +8006,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 212070,
       "name": "Things You Do",
       "url": "https://open.spotify.com/track/6uH6V2cJpc2j9Go5Zei0B7"

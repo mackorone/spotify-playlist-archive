@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Sherman Zhuo
 
-818 songs - 1 day 20 hr 32 min
+819 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [ignore me](https://open.spotify.com/track/3LzBpyaUVydbwLz1GM1Nul) | [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [ignore me](https://open.spotify.com/album/7m5ppbIjPd6fy3Ch1F9GDb) | 3:56 | 2025-02-20 | 2025-04-12 |
 | [Imtro](https://open.spotify.com/track/2d8AYrL39DsnQApCzk8zli) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Sila Ambil Perhatian](https://open.spotify.com/album/2z2z8HFxfC3S1C52yvD6Jm) | 2:56 | 2025-06-05 | 2025-06-20 |
 | [In My Mind](https://open.spotify.com/track/3wfWfzxLvt6nL0vzy47LYa) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [In My Mind](https://open.spotify.com/album/5YmgojXWQJxxp1e1ZXBXHD) | 2:47 | 2024-10-03 | 2024-11-01 |
+| [In The Air Tonight](https://open.spotify.com/track/3ZpMbB1ve0HryawfuaRuEa) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC), [KIARA](https://open.spotify.com/artist/5o81g40kQP3AywWJR0OkDB) | [In The Air Tonight](https://open.spotify.com/album/2YZxRnCqanN1yM3CohHDrw) | 3:05 | 2025-07-11 |  |
 | [In The Water](https://open.spotify.com/track/1XxK4kQql9BBRRafbo8jkZ) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Joanna Dong](https://open.spotify.com/artist/6uxDuPWsZwqC5tLhmoaAFZ) | [In The Water](https://open.spotify.com/album/7MA5utin1q5gQxuLt9dG6I) | 2:43 | 2025-05-15 | 2025-07-11 |
 | [In Yishun](https://open.spotify.com/track/7fbIUXLxePfE8NRXpttqH0) | [Wild Rice](https://open.spotify.com/artist/1xFFXhUxaRoGDaK0wQJIcD), [Benjamin Chow](https://open.spotify.com/artist/2nNlis5173PLyeIQd7p4gs), [Rebecca Dass](https://open.spotify.com/artist/4ZJ5N8MeY0a0vWfgUygOEw), [Dwayne Lau](https://open.spotify.com/artist/6EmRGh6BGvqfyws2hKt6DX), [Siti Khalijah Zainal](https://open.spotify.com/artist/4UM3t2hNSQOlOp117vv3fg), [Karen Tan](https://open.spotify.com/artist/30KTbAxtPJzxF5kHOgWIBs), [Timothy Wan](https://open.spotify.com/artist/5x0qUWA9rLmeQGn5tJ1Jes), [First Stage Kids](https://open.spotify.com/artist/5hYRmjwahueERokuFT2vh3) | [The Wizard of Oz](https://open.spotify.com/album/12mMjvP9jtLgdUeTBwMbul) | 5:34 | 2024-11-21 | 2025-02-21 |
 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 | 2024-07-25 | 2024-10-04 |

@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Burna Boy
 
-1,561 songs - 3 day 6 hr 49 min
+1,562 songs - 3 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,6 +886,7 @@
 | [Midas Touch](https://open.spotify.com/track/0ZcGPQYJbFXOZ5zd4xfoSb) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 3:19 | 2024-02-23 | 2024-04-19 |
 | [Midas Touch](https://open.spotify.com/track/6UF0IMJyAYyoLxOhYnOO0q) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [ADMT](https://open.spotify.com/artist/6ksk9LbK2gyhtXOFNNJYXi) | [Midas Touch](https://open.spotify.com/album/6pot9ikG8APyn1dErbdkAf) | 3:19 | 2024-02-22 | 2024-02-24 |
 | [Midnight Calls](https://open.spotify.com/track/4lPMcQjIX701F1kwBerOC4) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Midnight Calls](https://open.spotify.com/album/1vtFz0wCx0SFYDQdY7wQ7E) | 3:04 | 2025-06-12 |  |
+| [Midnight in Balans \- A COLORS SHOW](https://open.spotify.com/track/3CmWD1uaT9mi4bzyaU06yF) | [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Midnight in Balans \- A COLORS SHOW](https://open.spotify.com/album/1EMBKcKnhb6pEzcBYVf44h) | 3:35 | 2025-07-10 |  |
 | [Militant](https://open.spotify.com/track/5HqBdMWyYi0I2xVbkDzo9S) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Militant](https://open.spotify.com/album/0F8IMTbcpQB5u1mz564mth) | 3:23 | 2022-03-08 | 2022-03-09 |
 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 | 2023-07-13 | 2023-10-24 |
 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL) | 3:13 | 2023-07-13 | 2023-07-15 |

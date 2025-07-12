@@ -4,7 +4,7 @@
 
 > Music from "DAN DA DAN"! ©龍幸伸／集英社・ダンダダン製作委員会
 
-36 songs - 1 hr 26 min
+37 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [tiger and flower](https://open.spotify.com/track/5bfQICINl3QcAg4qNHjrX3) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック Lead Trax](https://open.spotify.com/album/60HdGnL9QqES8iziaG8piJ) | 1:49 | 2024-12-23 |  |
 | [turbo granny](https://open.spotify.com/track/3C2R1hyXF7PhoR77C0rXBR) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 2:48 | 2024-12-23 |  |
 | [william hell overture](https://open.spotify.com/track/2eZ1Mh0MMKDZZHwk9AlZfc) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 3:22 | 2024-12-23 |  |
+| [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 | 2025-07-11 |  |
 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-12-23 |  |
 | [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 | 2025-07-03 |  |
 

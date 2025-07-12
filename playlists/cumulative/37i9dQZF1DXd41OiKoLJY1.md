@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  VVINK Artwork: Isu Kim
 
-3,430 songs - 8 day 8 hr 54 min
+3,431 songs - 8 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2556,6 +2556,7 @@
 | [Resshin](https://open.spotify.com/track/7lhybbM7Lt8OgpMSyAsB4l) | [Eros Tongco](https://open.spotify.com/artist/0Is1wlI54oHToqxIqckefQ), [Vurse](https://open.spotify.com/artist/3ADIDyjxLvs5BK9uiU5LGb) | [Resshin](https://open.spotify.com/album/4GWyIDud3uQa0MiQeKBDWt) | 3:17 | 2023-02-16 | 2023-02-24 |
 | [Rest My Case](https://open.spotify.com/track/0T49tYHlwfuyQRgBdM92kV) | [E\-Kove](https://open.spotify.com/artist/1oy5G3wIJcMmPqOSaWzndE) | [Rest My Case](https://open.spotify.com/album/2Z5scCFRkrEWfchGNZXqfF) | 2:54 | 2023-09-28 | 2023-10-13 |
 | [Resume \- Remix](https://open.spotify.com/track/02NJG9Tu6rcWouAaLH3Et0) | [MJ.G](https://open.spotify.com/artist/7GP7pyoLjDnm7N1V9WkT1Z), [Rhon](https://open.spotify.com/artist/2w2b70N2dixTIFsBwQgVu3) | [Resume \(Remix\)](https://open.spotify.com/album/3WzhMSgKnRMmHXQaezHXdb) | 3:14 | 2023-02-09 | 2023-02-24 |
+| [Retro Sin City](https://open.spotify.com/track/1tvSKUKRwn56j8LoD0vjDq) | [Sejo](https://open.spotify.com/artist/4YUaR9qa7tsNgFfZ0PuMqu), [J\. Blaze](https://open.spotify.com/artist/359rMfsFjnJHLrkSB61xP2), [Aud](https://open.spotify.com/artist/0XUAq6mwMlrsRzEysedzRq) | [Retro Sin City](https://open.spotify.com/album/1ODIW8BdvMvFHGU7Jr8mO3) | 3:21 | 2025-07-10 |  |
 | [Revival](https://open.spotify.com/track/00Oglw1GsvoTF9aPezy09R) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Revival](https://open.spotify.com/album/0JhahxgVnxfX37roRNCx0Y) | 2:30 | 2024-02-29 | 2024-03-29 |
 | [Reyna](https://open.spotify.com/track/6u8AEUICbMfg3kGt6PtaD2) | [The Kin Serotonin Geeks](https://open.spotify.com/artist/2FMOMbrklxqTwAtUvp19YA) | [Reyna](https://open.spotify.com/album/6lHI7OpN21Zw3n9lakneYf) | 3:30 | 2022-03-10 | 2022-04-01 |
 | [Rhythm](https://open.spotify.com/track/5A160kSVFpIrcpZ3wrMT6K) | [Yes My Love](https://open.spotify.com/artist/2ySp44kTR0uNVfilvTdyuX) | [Rhythm](https://open.spotify.com/album/7HHET7F7cVbDrdkn9Djwc0) | 3:15 | 2023-03-16 | 2023-04-07 |

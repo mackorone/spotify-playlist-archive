@@ -5257,6 +5257,24 @@
     },
     {
       "album": {
+        "name": "Seriously Love, Go Home",
+        "url": "https://open.spotify.com/album/0WXE7yBvev0eKfnomaadBq"
+      },
+      "artists": [
+        {
+          "name": "Charlotte OC",
+          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223482,
+      "name": "Cider and Black",
+      "url": "https://open.spotify.com/track/7GzN1E0iHDJPorZhHVSHgJ"
+    },
+    {
+      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh"
       },
@@ -5888,6 +5906,24 @@
       "duration_ms": 189874,
       "name": "Corners",
       "url": "https://open.spotify.com/track/0LfNGxDPKVQG5EY9Ulh55a"
+    },
+    {
+      "album": {
+        "name": "Counting Candles",
+        "url": "https://open.spotify.com/album/66S6SJA4svHbAALcaayedK"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202151,
+      "name": "Counting Candles",
+      "url": "https://open.spotify.com/track/7otmtaq5GIEvaMUxDIwR9K"
     },
     {
       "album": {
@@ -10440,7 +10476,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 193182,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"

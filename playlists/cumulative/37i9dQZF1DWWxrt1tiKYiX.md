@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Ariana Grande
 
-273 songs - 15 hr 7 min
+274 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Sad Tonight \- Acoustic](https://open.spotify.com/track/1aXIgw5xYdFSZhoK1f6VbI) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sad Tonight \(Original + Acoustic\)](https://open.spotify.com/album/3NkEzmCBqHZiLjoJsRpG5L) | 3:13 | 2022-01-28 | 2023-06-10 |
 | [Safe Inside \- Acoustic](https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Safe Inside \(Acoustic\)](https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0) | 3:52 | 2022-01-28 | 2023-05-10 |
 | [Safe With Me \(with Audrey Mika\) \- Acoustic](https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Safe With Me \(with Audrey Mika\) \[Acoustic\]](https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv) | 3:23 | 2022-01-28 | 2025-03-22 |
+| [Sapphire \- Unplugged](https://open.spotify.com/track/1luf2qRRvfP0o35F3g8xqA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire \(Unplugged\)](https://open.spotify.com/album/1SSAC7Db5LEhTWtVVnvMva) | 2:56 | 2025-07-11 |  |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-09-22 | 2024-03-16 |
 | [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 | 2024-04-26 | 2024-05-18 |
 | [Share That Love \- Acoustic](https://open.spotify.com/track/31BOrBVgxuqUFOQwaa4s40) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Share That Love \(Acoustic\)](https://open.spotify.com/album/49WG3joqPsDgkN5rmAgCBG) | 2:37 | 2022-01-28 | 2022-03-18 |
@@ -235,7 +236,7 @@
 | [Something That I Want \- Acoustic](https://open.spotify.com/track/3g0chn7yapw8EHxmamgETJ) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Something That I Want \(Acoustic\)](https://open.spotify.com/album/2eRc4iO2mrMtAXqSrBT1j5) | 2:55 | 2024-03-15 |  |
 | [South Dakota](https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [South Dakota](https://open.spotify.com/album/0DWGKx6P8SrWT1wHH1Yamj) | 2:58 | 2023-05-09 | 2023-12-09 |
 | [Start Walking \- Acoustic Version](https://open.spotify.com/track/7gFoo5dFwUmy219QoPEjAR) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking \(Acoustic Version\)](https://open.spotify.com/album/2WtZ6nN30t7FmI4JXYAVAN) | 3:24 | 2022-01-28 | 2022-10-09 |
-| [State Of Grace \(Acoustic Version\) \(Taylor's Version\)](https://open.spotify.com/track/5jAIouBES8LWMiriuNq170) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:21 | 2022-01-28 |  |
+| [State Of Grace \(Acoustic Version\) \(Taylor's Version\)](https://open.spotify.com/track/5jAIouBES8LWMiriuNq170) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:21 | 2022-01-28 | 2025-07-12 |
 | [Stay \- Acoustic](https://open.spotify.com/track/1EXxVBTTTzjgon6hWh3TuD) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay \(Acoustic\)](https://open.spotify.com/album/33I53O0BDLOUyecefvTf2R) | 3:15 | 2022-01-28 |  |
 | [STRINGS \(feat\. JVKE & Bazzi\) \- Stripped Version](https://open.spotify.com/track/4VfnCDIo9jJpURfQ2mlImk) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [STRINGS \(feat\. JVKE & Bazzi\) \[Stripped Version\]](https://open.spotify.com/album/2WiZ4BUTVALB9f61XmI3cP) | 2:31 | 2023-08-18 | 2024-08-10 |
 | [Stupid Cupid \- Acoustic Version](https://open.spotify.com/track/5TwVQJeh2k2ED1LHrCUl50) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Stupid Cupid \(Acoustic Version\)](https://open.spotify.com/album/7la8OQJ5dzgJ5oQFSeeTzk) | 2:52 | 2023-04-14 | 2023-07-08 |

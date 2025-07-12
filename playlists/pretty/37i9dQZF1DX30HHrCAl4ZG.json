@@ -1,28 +1,80 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Lord Huron",
-  "num_followers": 825914,
+  "description": "Explore all things indie rock right now. Featuring music from Jay Som",
+  "num_followers": 825802,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR3AAAAAAqJUJ09dMpKQgGmMMhElPZ",
+  "snapshot_id": "aHCMVgAAAAC+zBW2Swjgz+k92k49iWHu",
   "tracks": [
     {
-      "added_at": "2025-07-04 04:00:28",
+      "added_at": "2025-07-11 04:00:22",
       "album": {
-        "name": "Bag of Bones",
-        "url": "https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl"
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
         }
       ],
-      "duration_ms": 244661,
-      "name": "Bag of Bones",
-      "url": "https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K"
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "added_at": "2025-07-11 04:00:22",
+      "album": {
+        "name": "Float / A Million Reasons Why",
+        "url": "https://open.spotify.com/album/6YbYRwtycQYZIDYEd6nV45"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        },
+        {
+          "name": "Jim Adkins",
+          "url": "https://open.spotify.com/artist/0Zh8szcqjar4shjPoWJHTc"
+        }
+      ],
+      "duration_ms": 207568,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/6ynbkLsqAK1SslGNE2ql1l"
+    },
+    {
+      "added_at": "2025-07-11 04:00:22",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "added_at": "2025-07-11 04:00:22",
+      "album": {
+        "name": "The Yips",
+        "url": "https://open.spotify.com/album/6sWgSbyVRgGCdRM2dQtut6"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Ask Someone Else",
+      "url": "https://open.spotify.com/track/1aBYi3eh45AFdGtlnSLvGc"
     },
     {
       "added_at": "2025-07-04 04:00:28",
@@ -43,6 +95,38 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
+        "name": "Right Back",
+        "url": "https://open.spotify.com/album/0xlZcUNifMX35nyyfkC4ta"
+      },
+      "artists": [
+        {
+          "name": "Poolhouse",
+          "url": "https://open.spotify.com/artist/39xTxKuPXu1TfS06onbNVK"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Right Back",
+      "url": "https://open.spotify.com/track/00g9FpnPpWq9D6pSlazJy3"
+    },
+    {
+      "added_at": "2025-07-11 04:00:22",
+      "album": {
+        "name": "The Pit (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 187731,
+      "name": "What's In My Head",
+      "url": "https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:28",
+      "album": {
         "name": "car",
         "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
       },
@@ -59,34 +143,18 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
-        "name": "Right Back",
-        "url": "https://open.spotify.com/album/0xlZcUNifMX35nyyfkC4ta"
+        "name": "Bag of Bones",
+        "url": "https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl"
       },
       "artists": [
         {
-          "name": "Poolhouse",
-          "url": "https://open.spotify.com/artist/39xTxKuPXu1TfS06onbNVK"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Right Back",
-      "url": "https://open.spotify.com/track/00g9FpnPpWq9D6pSlazJy3"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Dog",
-        "url": "https://open.spotify.com/album/7bAF7iBRtYTLSk3kzxRhdH"
-      },
-      "artists": [
-        {
-          "name": "Daisy the Great",
-          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
-        }
-      ],
-      "duration_ms": 243390,
-      "name": "Dog",
-      "url": "https://open.spotify.com/track/7klqS8ANxWfwFatHuDsL49"
+      "duration_ms": 244661,
+      "name": "Bag of Bones",
+      "url": "https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K"
     },
     {
       "added_at": "2025-07-04 04:00:28",
@@ -103,6 +171,22 @@
       "duration_ms": 256066,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy"
+    },
+    {
+      "added_at": "2025-07-04 04:00:28",
+      "album": {
+        "name": "Dog",
+        "url": "https://open.spotify.com/album/7bAF7iBRtYTLSk3kzxRhdH"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        }
+      ],
+      "duration_ms": 243390,
+      "name": "Dog",
+      "url": "https://open.spotify.com/track/7klqS8ANxWfwFatHuDsL49"
     },
     {
       "added_at": "2025-07-04 04:00:28",
@@ -1127,70 +1211,6 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
-        "name": "Looking Back",
-        "url": "https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 235015,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "As Two People Drift Apart",
-        "url": "https://open.spotify.com/album/39RaADaRlWnM4QrEchGzHy"
-      },
-      "artists": [
-        {
-          "name": "Petey USA",
-          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
-        }
-      ],
-      "duration_ms": 242480,
-      "name": "As Two People Drift Apart",
-      "url": "https://open.spotify.com/track/56BnRYMVVAKtvkIZIQbfCq"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Dead Beat City",
-        "url": "https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl"
-      },
-      "artists": [
-        {
-          "name": "Kids That Fly",
-          "url": "https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX"
-        }
-      ],
-      "duration_ms": 233496,
-      "name": "Dead Beat City",
-      "url": "https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Bitch Heart",
-        "url": "https://open.spotify.com/album/4OR108JUFbFuyjdTNVuYIG"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 144918,
-      "name": "Bitch Heart",
-      "url": "https://open.spotify.com/track/1CU65NgKvZxUagOiq5m3fd"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
         "name": "SEEIN\u2019 STARS / BIRDS",
         "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
@@ -1315,70 +1335,6 @@
       "duration_ms": 283253,
       "name": "Metal",
       "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Moonglade",
-        "url": "https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 274609,
-      "name": "Moonglade",
-      "url": "https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/6ZYFQTxkwpg0A1wTTTjRU8"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/6xErF43Ru9Y0r21iHWaj0J"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 193182,
-      "name": "Just Around the Corner",
-      "url": "https://open.spotify.com/track/5Mxmje3T8MAEGBnIEl0k1b"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Eat Quiche, Sleep, Repeat",
-        "url": "https://open.spotify.com/album/2S6TrWfjwEl2a47o5TMtqi"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Eat Quiche, Sleep, Repeat",
-      "url": "https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj"
     },
     {
       "added_at": "2025-07-04 04:00:28",
@@ -1623,22 +1579,6 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
-        "name": "Clean Heart",
-        "url": "https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Clean Heart",
-      "url": "https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
         "name": "Tomatoes/Bullshit",
         "url": "https://open.spotify.com/album/19RCDxuDIPoxhQWF9qQmEX"
       },
@@ -1707,70 +1647,6 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
-        "name": "Permanent Pleasure (Deluxe)",
-        "url": "https://open.spotify.com/album/51kq5TG31lDlnH7IGfMnYR"
-      },
-      "artists": [
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Yellowish Sunbeam",
-      "url": "https://open.spotify.com/track/4NH8w4K6EBhXPwwmaACILV"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Year of the Snake",
-        "url": "https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "Year of the Snake",
-      "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Ginkgo",
-        "url": "https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 188417,
-      "name": "Chapel of Salt",
-      "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "CCF (I'm Gonna Stay With You)",
-        "url": "https://open.spotify.com/album/0wc4SXmvSckUR402cSg9AK"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 491696,
-      "name": "CCF (I'm Gonna Stay With You)",
-      "url": "https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36"
       },
@@ -1803,22 +1679,6 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
-        "name": "million times",
-        "url": "https://open.spotify.com/album/6qbhyEtynN54ogfCjJBEtf"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 182616,
-      "name": "million times",
-      "url": "https://open.spotify.com/track/14ecReKKTaW1TTTwm2wq00"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
         "name": "Your Direction",
         "url": "https://open.spotify.com/album/5WEiSxfRD9m86UKEjOFhfs"
       },
@@ -1847,22 +1707,6 @@
       "duration_ms": 218272,
       "name": "Burnout Days",
       "url": "https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Lead Up",
-        "url": "https://open.spotify.com/album/5RhCEqk9Hmw5xWaLdjo2Ge"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 318949,
-      "name": "Lead Up",
-      "url": "https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg"
     },
     {
       "added_at": "2025-07-04 04:00:28",

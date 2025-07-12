@@ -1201,6 +1201,28 @@
     },
     {
       "album": {
+        "name": "Holy Shuffle (feat. Billy Porter)",
+        "url": "https://open.spotify.com/album/4zfe6wVvotlRowFFsvBjqe"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160679,
+      "name": "Holy Shuffle (feat. Billy Porter)",
+      "url": "https://open.spotify.com/track/4Y6x385r5gUr5Ey57Mp9z6"
+    },
+    {
+      "album": {
         "name": "Hope Floats",
         "url": "https://open.spotify.com/album/2b9NvHkvqvPJxN4XKYmv8G"
       },
@@ -2452,7 +2474,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 219000,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs"

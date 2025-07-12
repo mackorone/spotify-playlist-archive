@@ -4,7 +4,7 @@
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-60 songs - 3 hr 29 min
+62 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Meeting Again \- 堤博明](https://open.spotify.com/track/3RrEB1S97b7vFsZJcgmb2U) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 3:46 | 2023-09-28 |  |
 | [New Chrome Expedition Team! \- 堤博明](https://open.spotify.com/track/2trsFK2jWwyEcS0ZnbHpux) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 2:35 | 2023-09-28 |  |
 | [NEW WORLD MAP \- 堤博明](https://open.spotify.com/track/6azLGKvrZmS1YTCzslEqxK) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 1:32 | 2023-09-28 |  |
+| [no man's world](https://open.spotify.com/track/0npLIMzLVGzRlzTKuyq48u) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [no man's world](https://open.spotify.com/album/5WDwjIJ4FnIOpsOsoZnm12) | 4:18 | 2025-07-11 |  |
 | [One Small Step](https://open.spotify.com/track/0wvi4qO9vQ0HkkKrMAdoTA) | [リリアン・ワインバーグ\(Song Performed by Laura Pitt\-Pulford\)](https://open.spotify.com/artist/1JyA4TFld3mybh8Viy3Nmc), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 4:11 | 2023-09-28 |  |
 | [One Small Step \- EP24 Mix](https://open.spotify.com/track/28bbfgQVUgNFELnAyKTHQ1) | [リリアン・ワインバーグ\(Song Performed by Laura Pitt\-Pulford\)](https://open.spotify.com/artist/1JyA4TFld3mybh8Viy3Nmc), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 3:19 | 2023-09-28 |  |
 | [Operation Treasure Island \- YUKI KANESAKA](https://open.spotify.com/track/34H6BJU1y9ijMDjSSFPgAf) | [Yuki Kanesaka](https://open.spotify.com/artist/5BKlOr5JarZWKvdEjfUTq0), [Paranom](https://open.spotify.com/artist/0ktM7PMneJlD9FdEX9SSpZ), [Jessica Gelinas](https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 2:55 | 2023-09-28 |  |
@@ -48,6 +49,7 @@
 | [STONE WORLD \- Rock Ver.](https://open.spotify.com/track/1wITZNpQnerKdjtI6SeVHn) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 3:29 | 2023-09-28 |  |
 | [Strong Desire](https://open.spotify.com/track/2whjQnbNi42IErv0WtKcy3) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック](https://open.spotify.com/album/7rphokb5ngFoll2nGwvcEY) | 2:17 | 2023-09-28 |  |
 | [Suika's So Sorry!](https://open.spotify.com/track/1y3jlORtjsAza4jlu0f4CA) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 2:06 | 2023-09-28 |  |
+| [SUPERNOVA](https://open.spotify.com/track/6rYWQKiaIJ5UatZEgv5OmM) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [SUPERNOVA](https://open.spotify.com/album/11OlKLbFRb0CndndaqmRrO) | 3:27 | 2025-07-11 |  |
 | [TALE FOR THE AGES On The Piano](https://open.spotify.com/track/0gfbZywLXzkCfOMJsfpuDF) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 2:29 | 2023-09-28 |  |
 | [The 100th ”Senku Ishigami”](https://open.spotify.com/track/5DSddpnLH0uqaSNGo7KZeY) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 2:18 | 2023-09-28 |  |
 | [The Plan](https://open.spotify.com/track/02fUFgv7KTqG0KHCCE2kul) | [CHICA](https://open.spotify.com/artist/1MUCRhYScXed2MxMT3nrh4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』オリジナル・サウンドトラック 3](https://open.spotify.com/album/0RhXuxpS9QBdLWzsgspYyB) | 3:36 | 2023-09-28 | 2024-04-19 |

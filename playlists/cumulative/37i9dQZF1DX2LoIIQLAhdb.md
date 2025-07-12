@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Wejdene
 
-514 songs - 1 day 0 hr 22 min
+515 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Tell me](https://open.spotify.com/track/4MNbrLnpXppygkZJL7BzVB) | [Asma](https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB) | [Tell me](https://open.spotify.com/album/7tGpXXG4o3WHnIo7lXCUNG) | 3:17 | 2025-05-22 | 2025-06-27 |
 | [Tenez\-les](https://open.spotify.com/track/37ESM3vFbqd9AufCc2Lo8E) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Tenez\-les](https://open.spotify.com/album/33rtoexxM8t9yLuqCIJOO9) | 3:03 | 2023-01-26 | 2023-04-21 |
 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-01-25 | 2024-03-29 |
+| [Terminé \- Summer Version](https://open.spotify.com/track/1BpS9FmfbNuMeufyBJgM2u) | [Fallon Mikado](https://open.spotify.com/artist/4FiU3JAQ5RicVZV1YwBqrW) | [Terminé \(Summer Version\)](https://open.spotify.com/album/78U3ufc3lkUfLlwLk5vo8Z) | 2:19 | 2025-07-10 |  |
 | [Ti Ki Da](https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Ti Ki Da](https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV) | 2:41 | 2023-10-05 | 2023-12-08 |
 | [TIKI](https://open.spotify.com/track/1OllFSK8xhYTE0x0BCJb6B) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [TIKI](https://open.spotify.com/album/5hgEGdVbCxx6caMeRxeS5U) | 2:12 | 2024-09-12 | 2024-11-08 |
 | [Titulaire](https://open.spotify.com/track/2jshKJivTkiIOF4T7AumgA) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Titulaire](https://open.spotify.com/album/1NuU0IRn8DO8SDE699JTaS) | 3:06 | 2025-04-17 |  |

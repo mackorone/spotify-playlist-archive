@@ -1,13 +1,77 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Devon Gabriella",
-  "num_followers": 218577,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Storm Henshaw",
+  "num_followers": 218613,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR2AAAAAC8Ub2jCTnbaq9QBMCo3uEj",
+  "snapshot_id": "aHCMUQAAAAAp0BiwjCC0L/2MmovaD9MM",
   "tracks": [
+    {
+      "added_at": "2025-07-11 04:00:17",
+      "album": {
+        "name": "feel again",
+        "url": "https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4"
+      },
+      "artists": [
+        {
+          "name": "Storm Henshaw",
+          "url": "https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs"
+        }
+      ],
+      "duration_ms": 205530,
+      "name": "feel again",
+      "url": "https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv"
+    },
+    {
+      "added_at": "2025-07-11 04:00:17",
+      "album": {
+        "name": "Basis of a Pinky Promise",
+        "url": "https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 170955,
+      "name": "Better in Person",
+      "url": "https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU"
+    },
+    {
+      "added_at": "2025-07-11 04:00:17",
+      "album": {
+        "name": "Your Villain",
+        "url": "https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ"
+      },
+      "artists": [
+        {
+          "name": "Molly Millington",
+          "url": "https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF"
+        }
+      ],
+      "duration_ms": 165011,
+      "name": "Your Villain",
+      "url": "https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx"
+    },
+    {
+      "added_at": "2025-07-11 04:00:17",
+      "album": {
+        "name": "Sweet Satin Boy",
+        "url": "https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka"
+      },
+      "artists": [
+        {
+          "name": "hannah bahng",
+          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "Sweet Satin Boy",
+      "url": "https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ"
+    },
     {
       "added_at": "2025-06-27 04:00:39",
       "album": {

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-709 songs - 1 day 6 hr 24 min
+716 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [C'mon My Friend](https://open.spotify.com/track/5QG6fzHI2A0PizUmDkVGvB) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [C'mon My Friend](https://open.spotify.com/album/1HAiOS2VNV2bpIyuoF0CxE) | 2:36 | 2021-11-10 | 2023-01-13 |
 | [Cabana](https://open.spotify.com/track/0ZTWIZ2Avw0El0ZPCRV1ka) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 1:52 | 2021-11-10 | 2023-02-10 |
 | [Cabin House](https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Cabin House \(Lofi Hip Hop\)](https://open.spotify.com/album/6BXMZHSTUqvCYdCS8WOGHy) | 3:04 | 2022-04-15 | 2024-12-21 |
+| [Cafe Organico](https://open.spotify.com/track/4ARrmjMpAW7spFkfRbQYE4) | [Dr\. Stu](https://open.spotify.com/artist/5GlVlEMBULr4iUAjL4cT1R) | [Cafe Organico](https://open.spotify.com/album/4TRzPFkioLgSx8BQHl9ZDb) | 2:20 | 2025-07-11 |  |
 | [Café Nocturne](https://open.spotify.com/track/1LKoAmLMnNJ4Dwr77unc0h) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [Café Nocturne](https://open.spotify.com/album/0gsjqGZCtxEgk2KnLr7Za4) | 2:10 | 2025-03-21 |  |
 | [Calm Idle](https://open.spotify.com/track/0x63Et1eXjwD5ZdFdQAsSn) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Calm Idle](https://open.spotify.com/album/4LppqAEzldIVT3bSyozpgu) | 2:49 | 2023-06-09 | 2024-11-23 |
 | [Calm Morning](https://open.spotify.com/track/79UTgOcBQ7GBXCXhAacWMl) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Calm Morning](https://open.spotify.com/album/7xfI7LvjjlI7TT2Ebzr5mB) | 1:56 | 2022-07-08 | 2023-07-29 |
@@ -118,6 +119,7 @@
 | [Cocktails and Dreams](https://open.spotify.com/track/5E8nrwSe8JNLNEf9Kwkvld) | [Dexter & The Disciples](https://open.spotify.com/artist/3ztAnOhxxrr7L2zvANjI7M) | [Cocktails and Dreams](https://open.spotify.com/album/7dleJme0IlCedZpOhKUsd2) | 2:50 | 2022-07-29 | 2022-10-29 |
 | [coconut milk](https://open.spotify.com/track/5jd5mt4HrrIrBFGZtNqFMd) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [coastal](https://open.spotify.com/album/69vGEggn8CFnHT0aZNQwHS) | 2:22 | 2021-11-10 | 2022-07-01 |
 | [Coffee Stains](https://open.spotify.com/track/7bIsfpQdz9021OFeh9zhYB) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Coffee Stains](https://open.spotify.com/album/5P6CotqB9NZv1WZaKEpP9P) | 2:42 | 2021-11-10 | 2022-07-08 |
+| [Cold Rain](https://open.spotify.com/track/3LghTGGH0RiVEEHsqFWrMh) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Cold Rain](https://open.spotify.com/album/7Kx1XsWTTpQJzfDzR33D6O) | 2:36 | 2025-07-11 |  |
 | [Coloring Book](https://open.spotify.com/track/0V820qf0s6EES7VDxR3vi7) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Coloring Book](https://open.spotify.com/album/5iWXKx09E9WAsRiGUBULCL) | 2:51 | 2022-12-16 | 2024-11-23 |
 | [Come Alive](https://open.spotify.com/track/6EY8GTREw2nQWUR6rkZMqJ) | [Antuigo](https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd) | [Come Alive](https://open.spotify.com/album/70FBJICtGpHQKyUKs1WKHi) | 3:20 | 2021-11-10 |  |
 | [Competitive Edge](https://open.spotify.com/track/2737XH7tnOWNXkOBZnS3Sa) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Competitive Edge](https://open.spotify.com/album/1NbogqagW3lDTVRVVtZ032) | 2:25 | 2024-12-20 |  |
@@ -141,6 +143,7 @@
 | [Deep Meaning](https://open.spotify.com/track/5PLhPQX56pD9C21PoPFJG7) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Deep Meaning](https://open.spotify.com/album/2dGnQPpPb7gn4qyawD9CU5) | 3:00 | 2022-12-09 |  |
 | [Deep Whispers](https://open.spotify.com/track/5y7Gi8XUtInGKz18QsIYgP) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Deep Whispers](https://open.spotify.com/album/171aXGnW92mHtxim98gUnK) | 3:38 | 2023-04-21 | 2025-04-12 |
 | [Departure](https://open.spotify.com/track/4RXvT4yndTczEZFmCo6J4b) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Departure](https://open.spotify.com/album/3iTN7tZcBKpDYjgx8PF61K) | 3:41 | 2021-11-10 | 2022-07-08 |
+| [Des\(s\)ert](https://open.spotify.com/track/3fT4MtKuCS3GkEAxkET76J) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Des\(s\)ert](https://open.spotify.com/album/0HK6DfznPddSkNIh7ypqjc) | 2:42 | 2025-07-11 |  |
 | [desert days](https://open.spotify.com/track/59PI1yLKqsJKTrTbW2st4H) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [Trankilo](https://open.spotify.com/artist/1n2Ze3zEdTYw5nc8yq4ukP) | [desert days](https://open.spotify.com/album/2az23kSrvKgdQaNJYks1wF) | 2:32 | 2022-05-20 | 2023-02-25 |
 | [Dial In](https://open.spotify.com/track/74UYdNAk3qSD6U4V5DShef) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Call Me](https://open.spotify.com/album/6MD0V6Ap6pdO6trtrG8Vhg) | 2:59 | 2022-12-09 |  |
 | [Diffuser](https://open.spotify.com/track/1GELFfaprYpuF5iqleQ0H9) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Diffuser](https://open.spotify.com/album/1vcuZSxwSyWkHwyyMtxKci) | 4:48 | 2021-11-10 | 2022-07-08 |
@@ -260,6 +263,7 @@
 | [Hawei](https://open.spotify.com/track/5fNHPeMkAdlt07nLMJQtwc) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Hawei](https://open.spotify.com/album/2lIzsSZr1utumIB9mDPXNk) | 2:18 | 2024-06-13 |  |
 | [Haze](https://open.spotify.com/track/1t1LV5GROdzRNTwAhPAfz9) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Haze](https://open.spotify.com/album/2xlrz75D6hTMtJheY9CeDc) | 2:37 | 2025-01-17 |  |
 | [Haze](https://open.spotify.com/track/2eEamAkO1cFzLiUVnMrlGy) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Haze](https://open.spotify.com/album/4KL2OyY3m1qum4FA63ws8l) | 3:26 | 2022-10-28 | 2025-02-15 |
+| [hazy peaks](https://open.spotify.com/track/71HR6c5gKTszh7vGrvqQ0l) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [hazy peaks](https://open.spotify.com/album/4XrZyePoiLZl8MYJBTxLMH) | 2:09 | 2025-07-11 |  |
 | [Heartbeat](https://open.spotify.com/track/6GRpj6J1fpVqtUgnsth0Ea) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Heartbeat](https://open.spotify.com/album/2avjmz9VXH5vcXrjrHy1Yv) | 4:25 | 2021-11-10 | 2022-07-29 |
 | [Hearts](https://open.spotify.com/track/0eZJfUknR9uigunQEpNyuh) | [Arnos Grove](https://open.spotify.com/artist/70yqS0ADu1EIsaHcn8ebKf) | [Hearts](https://open.spotify.com/album/0GcBhx6XomVtvS4C2nD48y) | 2:09 | 2024-04-08 | 2024-09-21 |
 | [Heaven](https://open.spotify.com/track/6X35WKQ3YgELrIj3CT3NOt) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Heaven](https://open.spotify.com/album/0C6hqHyCFgiH1OEdWWOLyM) | 3:06 | 2022-01-21 | 2024-11-23 |
@@ -390,6 +394,7 @@
 | [Mockingbirds](https://open.spotify.com/track/6kfFIKQp1CWCq7BLCsdJ0L) | [Natasha Fierce](https://open.spotify.com/artist/281dPcxZwBbfyWO1foC6bV) | [Mockingbirds](https://open.spotify.com/album/4oQqeJyd6TLiJEgh2pDSls) | 2:12 | 2024-12-20 |  |
 | [mode station](https://open.spotify.com/track/12BJChhHFzQDnT8FnrGHXb) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [mode station](https://open.spotify.com/album/3D9xQpxQ1snGCQtqU6rZXb) | 3:06 | 2022-06-24 | 2025-02-01 |
 | [Moist](https://open.spotify.com/track/5tksNcpfwHBDXo3xufof0P) | [Blacc Keys](https://open.spotify.com/artist/50GnA7N9EkfJ3PivwXwa8m) | [Moist](https://open.spotify.com/album/4Mn79gFmJ3SEx50s4esIDu) | 2:08 | 2022-07-08 | 2023-10-03 |
+| [Mojito Breeze](https://open.spotify.com/track/02ISCe89PcXX5gsNOwSiUw) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Mojito Breeze](https://open.spotify.com/album/1sjFuk7qg1R2PyMGfwtqdp) | 2:51 | 2025-07-11 |  |
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2021-11-10 | 2022-04-15 |
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 | 2022-07-01 |
 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 | 2023-01-13 |  |
@@ -438,6 +443,7 @@
 | [odd mission.](https://open.spotify.com/track/4mX3OJPLl9cZjSgf1NJskT) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/09qPZN3vWFh7ffSjr2GIZZ) | 2:09 | 2022-09-16 | 2024-12-21 |
 | [Old Growth](https://open.spotify.com/track/1jX3ykVPxUJCzK3DNg6Isq) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [Old Growth](https://open.spotify.com/album/0qyN50yW5ZMMXgFvKlH4qT) | 3:35 | 2024-12-20 |  |
 | [On My Mind](https://open.spotify.com/track/5uIenunrFU6khy80tPYxKL) | [Martin Bloumy](https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h) | [On My Mind](https://open.spotify.com/album/7p4K7RC9odTj5d9HAwqJrt) | 2:37 | 2025-01-17 | 2025-06-25 |
+| [On Time](https://open.spotify.com/track/0LqsZFFmoXxAK1enJcBqmS) | [Tilja](https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4) | [On Time](https://open.spotify.com/album/1PJGtuDYV6buD1ZcbivZ3A) | 1:47 | 2025-07-11 |  |
 | [One More Chance](https://open.spotify.com/track/74u8Oi33nb7F0rT3QUEOxD) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [One More Chance](https://open.spotify.com/album/30pyUMMvt5woLa1GzSKl5g) | 1:28 | 2022-10-07 | 2023-07-29 |
 | [One More Night](https://open.spotify.com/track/5p5LL70T1CZzKt543otFg0) | [Chatterjee](https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G) | [One More Night](https://open.spotify.com/album/0UAEjxNR74o5X6Qe9Ugthg) | 3:27 | 2022-11-25 | 2023-03-10 |
 | [Only Through Enlightenment](https://open.spotify.com/track/4YK0viVtLMNg58qQs10rF1) | [Spinning Eye](https://open.spotify.com/artist/1bBb8bJslH6Z4JUr2DgaCU) | [Old School Beats](https://open.spotify.com/album/2ImM3in9ITJOxD3euym4tN) | 1:41 | 2022-04-15 | 2023-07-29 |
@@ -447,6 +453,7 @@
 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 | 2021-11-10 | 2022-01-22 |
 | [out to sea](https://open.spotify.com/track/0nOwu86Ng6UtnnovLh9hpP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [out to sea](https://open.spotify.com/album/2ISmy0vWGQEwofWjLbITW6) | 2:28 | 2023-09-15 | 2024-08-22 |
 | [Outlines](https://open.spotify.com/track/3xp0lOdtZuczuq7cZFVYBK) | [Luigi Valentino](https://open.spotify.com/artist/5we8GkSvBODzF7t0TLaiOS) | [Outlines](https://open.spotify.com/album/3nf6Yp27qmRCzusFEEgChh) | 1:57 | 2021-11-10 | 2022-01-22 |
+| [Outlook](https://open.spotify.com/track/1shNG5TbWzcUsAnWqaiS4H) | [Closest Cloud](https://open.spotify.com/artist/2QfBfWsylKXit3b3yugeMP) | [Outlook](https://open.spotify.com/album/5gIWPjieo8Ax1EMg86Td0u) | 2:29 | 2025-07-11 |  |
 | [Outside Rain](https://open.spotify.com/track/66ATSTJt7wrixymgMeQS3J) | [Left Foote](https://open.spotify.com/artist/3ucdGmQW0HQLPi6zqpYDl2) | [Outside Rain](https://open.spotify.com/album/1wNo7PIK16HMuevt6tUUz5) | 2:16 | 2021-11-10 | 2022-05-11 |
 | [pacific stars](https://open.spotify.com/track/0sDJcl9cf4ir3HBwAtVBTM) | [Phet Kharma](https://open.spotify.com/artist/4iAzEYiC4HuGDyzGVcq4B6) | [pacific stars](https://open.spotify.com/album/0xPYPTXQbXQxsG6H4YDi1g) | 2:45 | 2021-11-10 | 2022-07-01 |
 | [Pandemic](https://open.spotify.com/track/7IYY79uC7AN3EyjGx8x8eR) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Liquid Blue](https://open.spotify.com/album/3yOIYcv0ddD4F12PfKIfho) | 1:55 | 2021-11-10 | 2022-04-15 |

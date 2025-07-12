@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofia Reyes en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Paloma Mami en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 180923,
       "name": "$$$ mis l\u00e1grimas",
       "url": "https://open.spotify.com/track/5qj3yJlsxm8ChVxg3ws3AJ"
@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "ASTROS",
+        "url": "https://open.spotify.com/album/4XTVEZqrJv8wBMMZJZmwsp"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158052,
+      "name": "ASTROS",
+      "url": "https://open.spotify.com/track/5mPHerqBng78VtnLT2VTWl"
+    },
+    {
+      "album": {
         "name": "Aunque Digan",
         "url": "https://open.spotify.com/album/4yfVjYikNqAH8liyfw3n7K"
       },
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 168919,
       "name": "Better Than Sex",
       "url": "https://open.spotify.com/track/4jdkOxKzo8kD8CgnLXUfaL"
@@ -1978,6 +1996,28 @@
       "duration_ms": 167355,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5Hb3UidmAF1veAx2vhQ2kr"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157021,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
     },
     {
       "album": {
@@ -3728,6 +3768,24 @@
       "duration_ms": 195075,
       "name": "Fetiche",
       "url": "https://open.spotify.com/track/09hUwQCau24tHaTVKgLiFn"
+    },
+    {
+      "album": {
+        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
+        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
+      },
+      "artists": [
+        {
+          "name": "Pambo",
+          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212326,
+      "name": "Fondo",
+      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
     },
     {
       "album": {
@@ -8883,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "Te lo pido por el mar",
+        "url": "https://open.spotify.com/album/0leeCG1sRh78JQA3Qgckfl"
+      },
+      "artists": [
+        {
+          "name": "Sofi Mayen",
+          "url": "https://open.spotify.com/artist/17fzKflH2VygyK3LCCN6Cn"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217620,
+      "name": "Te lo pido por el mar",
+      "url": "https://open.spotify.com/track/0gMzCsQyHc4Q0IsKPm0Q5P"
+    },
+    {
+      "album": {
         "name": "Te Odio / Te Amo",
         "url": "https://open.spotify.com/album/2JUUJ0VasUnOkaosHgYAAv"
       },
@@ -9728,7 +9804,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 171000,
       "name": "Verano Cruel",
       "url": "https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9"
@@ -9746,7 +9822,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 186617,
       "name": "Verano En NY",
       "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"

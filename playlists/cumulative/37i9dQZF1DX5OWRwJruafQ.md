@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-662 songs - 1 day 7 hr 32 min
+663 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [My World 2](https://open.spotify.com/track/18mupiDOivCDs7lviTVaTO) | [Raman Lakhesar](https://open.spotify.com/artist/13D2fLGET14YoWFecILMTh) | [My World 2](https://open.spotify.com/album/4EQ9zabvxMea4355kQpNgM) | 3:02 | 2025-06-19 |  |
 | [Naa Lai Ke](https://open.spotify.com/track/3vXHs1USJvUYpFsuxZGTiS) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naa Lai Ke](https://open.spotify.com/album/4bqStg9FJ3mbIrTdYh1vtC) | 2:32 | 2023-08-23 | 2024-04-12 |
 | [Naal Jehde Vekhe](https://open.spotify.com/track/4hqgW0mTab07LxOLcvuv6E) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:21 | 2023-06-09 | 2023-10-10 |
+| [Naal Te Khilaaf](https://open.spotify.com/track/2ekzpv3xcC4LGoK7xMIyDB) | [Yeah Cheif](https://open.spotify.com/artist/53ck2MWfzBjUNv3lFa3WEW), [Dollar Sidhu](https://open.spotify.com/artist/18MteKpvzovkdzlw0AzbYY), [Ranveer Sidhu](https://open.spotify.com/artist/2jKNW5yNTOH9G9yhWYuv94) | [Naal Te Khilaaf](https://open.spotify.com/album/09ojkod7xnluA6S19IGHbP) | 2:34 | 2025-07-11 |  |
 | [Naam Jatt Da](https://open.spotify.com/track/6TjqQuqXmXOfHIsCcYvBaI) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Naam Jatt Da](https://open.spotify.com/album/0wG8O5Y2b4UHAHgyQ6EJKl) | 2:08 | 2023-03-29 | 2023-04-21 |
 | [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 | 2023-03-29 | 2025-02-27 |
 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 | 2023-06-30 | 2024-04-19 |
@@ -432,7 +433,7 @@
 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 | 2024-12-13 |  |
 | [No Complaints](https://open.spotify.com/track/6UCA9U9yzgw2ZCNXIeXAfQ) | [Simu Dhillon](https://open.spotify.com/artist/4J6ZAQTOOrnXrbo5Wffly1), [Dark Noise](https://open.spotify.com/artist/1EBUCOWmx3MM6QVeTWH5N3) | [No Complaints](https://open.spotify.com/album/0OtLOnVWbSfusWi7Zt0nu0) | 2:17 | 2024-08-14 | 2024-08-23 |
 | [No Fake](https://open.spotify.com/track/4BKx5bluk9JK84PkzjIe4h) | [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr) | [No Fake](https://open.spotify.com/album/4wxbtYf37aiM1RF0Q1iGS2) | 3:01 | 2023-09-12 | 2024-03-14 |
-| [No Fluke](https://open.spotify.com/track/7BxjfUQbxoSSUewPey7S02) | [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [No Fluke](https://open.spotify.com/album/3OvjeBSGJnX2QAQKjGhz4n) | 2:55 | 2025-06-20 |  |
+| [No Fluke](https://open.spotify.com/track/7BxjfUQbxoSSUewPey7S02) | [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [No Fluke](https://open.spotify.com/album/3OvjeBSGJnX2QAQKjGhz4n) | 2:55 | 2025-06-20 | 2025-07-12 |
 | [No Fucx Given](https://open.spotify.com/track/1d5Ov723H4HOGLxqR4YGI3) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [No Fucx Given](https://open.spotify.com/album/4zrNk8uBQ6rclwZqXYlI5r) | 3:42 | 2024-07-08 | 2024-07-19 |
 | [No Hook](https://open.spotify.com/track/1Z9mKIJMiylFpj2qX3nnTZ) | [Navvy](https://open.spotify.com/artist/4NVo8UFva38BznrSxDaicu) | [No Hook](https://open.spotify.com/album/49lkZH95JiNXfDnDe3h9TA) | 3:13 | 2025-03-27 | 2025-04-18 |
 | [No Link Up](https://open.spotify.com/track/3TMtRuNbUcQDz4ZJ9wIj0q) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [No Link Up](https://open.spotify.com/album/3RtZ2O8pcP69Byub2oFelr) | 2:30 | 2025-06-10 | 2025-06-28 |

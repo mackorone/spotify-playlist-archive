@@ -7382,7 +7382,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/4KW66ZVoSyUN0TJXdL9mLc"
@@ -21788,7 +21788,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 164571,
       "name": "KC, LECZ... BEZ PRZESADY",
       "url": "https://open.spotify.com/track/6G6GgEPWHJDvr1szJzmbVh"
@@ -30335,6 +30335,24 @@
     },
     {
       "album": {
+        "name": "Next Day",
+        "url": "https://open.spotify.com/album/6l02BTm1AIcZlcdatgdkQA"
+      },
+      "artists": [
+        {
+          "name": "Dajczman",
+          "url": "https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113076,
+      "name": "Next Day",
+      "url": "https://open.spotify.com/track/4To98R4h3sNhdnGkWlkPMH"
+    },
+    {
+      "album": {
         "name": "NIC DO STRACENIA",
         "url": "https://open.spotify.com/album/1dVrp8wcOOKEpJDSAM89N3"
       },
@@ -31092,7 +31110,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 242694,
       "name": "NIE \u017bYCZ\u0118 CI \u0179LE",
       "url": "https://open.spotify.com/track/6L7ylNa39Wh4BktveY7vsF"

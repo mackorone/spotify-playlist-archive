@@ -2,9 +2,9 @@
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> New music from Burna Boy, Soulwax, Olivia Dean, AFROJACK and more...
+> New music from Burna Boy, Justin Bieber, Soulwax, Olivia Dean, AFROJACK and more...
 
-5,450 songs - 12 day 0 hr 16 min
+5,452 songs - 12 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,6 +1091,7 @@
 | [Dag en Dauw](https://open.spotify.com/track/0nCFXZDhA9oIgKWdsFRrEv) | [Jokke](https://open.spotify.com/artist/4ummdBaZOvtjtGQHLLa7se) | [Dag en Dauw](https://open.spotify.com/album/01tsvR4RQual77bSNUdLzq) | 2:32 | 2025-01-30 | 2025-02-07 |
 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-19 | 2024-07-27 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-07-12 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
 | [Dak Terras](https://open.spotify.com/track/2lOB0WoD1nGO5tmn1U4g5D) | [De Twins](https://open.spotify.com/artist/7mX70r181nFRZXuMRkKdDv), [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Dak Terras](https://open.spotify.com/album/16k1OmPlfp8blEYSlDoyoa) | 2:01 | 2024-08-29 | 2024-09-06 |
 | [DALLAX](https://open.spotify.com/track/4cZiqNmLWLoAx67ENn53YG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DALLAX](https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM) | 2:30 | 2025-03-27 | 2025-04-04 |
 | [Damage](https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Damage](https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk) | 2:10 | 2024-10-24 | 2024-11-01 |
@@ -2450,6 +2451,7 @@
 | [Judging Eyes](https://open.spotify.com/track/4NuvZNQPFly9xaICGKIEBg) | [Emma Sorgato](https://open.spotify.com/artist/6GULYuXogP41olhTResCmC) | [Judging Eyes](https://open.spotify.com/album/2P0D96lODHwIjRPbnwzrME) | 2:47 | 2025-03-20 | 2025-03-28 |
 | [JUJU \(with Smur Lee & Shallipopi\)](https://open.spotify.com/track/4OnCrs3h948Ee4yLLTcaRx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:37 | 2025-04-03 | 2025-04-11 |
 | [Jumanji](https://open.spotify.com/track/0eXooFEiS5060vL0fbNjGi) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Foxii](https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv) | [Jumanji](https://open.spotify.com/album/2s2lyCzwBXOiGFkrmzHbmP) | 2:33 | 2025-02-06 | 2025-02-14 |
+| [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2025-07-11 |  |
 | [Jump](https://open.spotify.com/track/685ut3k74gNgPaS47Tav6j) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Jump](https://open.spotify.com/album/7gbnqbscoQn6gjClOSDh05) | 2:45 | 2025-05-29 | 2025-06-06 |
 | [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 | 2025-03-13 | 2025-03-21 |
 | [Jump Right In](https://open.spotify.com/track/1W89lDI2ELorocAEH1Ttyc) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Jump Right In](https://open.spotify.com/album/7jPP5NG0VlgANDItDOZWJO) | 2:48 | 2025-07-10 |  |
@@ -4786,7 +4788,7 @@
 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 | 2024-11-15 | 2024-11-22 |
 | [Time Bomb](https://open.spotify.com/track/6tCXZJNJUb8K0PH0uMRlnu) | [Eyemèr](https://open.spotify.com/artist/68A1tXqAVvbSsXjZKklxwN) | [Time Bomb](https://open.spotify.com/album/14BsEJNWq5wbxC2afKLrMl) | 2:30 | 2025-03-13 | 2025-03-21 |
 | [Time Flies](https://open.spotify.com/track/3NpDqNtIREopwkx09dIYEp) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Time Flies](https://open.spotify.com/album/1aNGbWueLOW3SHTM5Z49j9) | 3:33 | 2025-03-20 | 2025-03-28 |
-| [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:17 | 2025-07-10 |  |
+| [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:18 | 2025-07-10 |  |
 | [Time To Go](https://open.spotify.com/track/3I869WklmJFnotXmrbK7TI) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Time To Go](https://open.spotify.com/album/4LX5sa5K7rhIB3N3v6sqMC) | 3:33 | 2024-09-05 | 2024-09-13 |
 | [time to go](https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [time to go](https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p) | 3:29 | 2025-06-19 | 2025-06-27 |
 | [Time Well Wasted](https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Time Well Wasted](https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45) | 2:50 | 2024-07-26 | 2024-08-02 |

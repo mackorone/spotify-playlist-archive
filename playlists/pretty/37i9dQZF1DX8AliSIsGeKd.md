@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Paradoks
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,693 likes - 89 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,969 likes - 90 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 4 | [Fired Up](https://open.spotify.com/track/7BG8yFa83TIObs3OhNkKGp) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fired Up](https://open.spotify.com/album/3mtDYxW8IQTkvJEC0wYLAK) | 3:09 |
 | 5 | [Don't Waste My Time](https://open.spotify.com/track/2fczhPC8VXDGpDJDzesG3e) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY), [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [Don't Waste My Time](https://open.spotify.com/album/67BwVlmIaEtIz8z9dWMdbz) | 3:46 |
 | 6 | [Give You My Love](https://open.spotify.com/track/0oBEWb88pWa0Hwl543Fczo) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Give You My Love](https://open.spotify.com/album/5XQUJOu8uKFOZF4e5Xpdct) | 3:01 |
-| 7 | [All Systems Are Lying](https://open.spotify.com/track/6BEv1WwbbwL7SqYU9eowI7) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying / Run Free](https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t) | 3:20 |
+| 7 | [Run Free](https://open.spotify.com/track/6FpGarU82UbiZXyI7Dyh6M) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying / Run Free](https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t) | 4:40 |
 | 8 | [Blaze](https://open.spotify.com/track/4IDzPgSdZVZox6P8i56hbX) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn), [Tommahawk](https://open.spotify.com/artist/6deJlUUgK1ACBgDP9Q9oAu) | [Blaze](https://open.spotify.com/album/2wChPFYvbr7jsH6htltPYX) | 4:03 |
 | 9 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 |
 | 10 | [I Wanna Be Me \- Edit](https://open.spotify.com/track/1YxUZqv1Fy60NBZdHYDMcy) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz) | [I Wanna Be Me \(Edit\)](https://open.spotify.com/album/35kCtmEeeQFXVz6jXZ27UN) | 3:52 |
@@ -97,5 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Sleaze](https://open.spotify.com/track/0B2152BtEBl4iEgWZiWVnj) | [Lady Tazz](https://open.spotify.com/artist/0cl645HHNlA8HZeey3S3TY) | [Sleaze](https://open.spotify.com/album/1EFAaNUgf2OqVTxBXk1PXD) | 6:10 |
 | 88 | [Magna Carta](https://open.spotify.com/track/0Tj44TtkI50OqP9LrGec28) | [Paul Anthonee](https://open.spotify.com/artist/7gliQ1In7BFQxmitKCdyD8) | [Magna Carta](https://open.spotify.com/album/7a2HYiVYjDarZ0vGkTqhy9) | 3:23 |
 | 89 | [Arrhythmia](https://open.spotify.com/track/4DzvIBXYxxG0xse31YdNOW) | [Body Clinic](https://open.spotify.com/artist/6yDOr6Z8ADMUhr9fsi2dgl), [Wigs](https://open.spotify.com/artist/1KJG30IJKq8xoQahiZ0cZr), [MITMISCHEN](https://open.spotify.com/artist/02BkREPofdRZIVYBPDaHgc) | [Arrhythmia](https://open.spotify.com/album/0KOCkhwdH6PgTZkzqQ4tPb) | 5:53 |
+| 90 | [Desolate Lands](https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Desolate Lands](https://open.spotify.com/album/2KLiLQvguVwRpcLqL74Huc) | 4:18 |
 
-Snapshot ID: `aHA3/wAAAABnMfDnpUtQvu9twpa1vbA8`
+Snapshot ID: `aHEIsgAAAAAL8O1UlnMFgRqmfpFI11w+`

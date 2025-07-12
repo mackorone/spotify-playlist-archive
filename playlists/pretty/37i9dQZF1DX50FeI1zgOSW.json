@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Keethan",
-  "num_followers": 15391,
+  "num_followers": 15394,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGzERgAAAAD2bqK5WujoaAq5yH8SqKY4",
+  "snapshot_id": "aHEExQAAAADxu79pnt0qLHG6BUjc8z4L",
   "tracks": [
     {
       "added_at": "2025-06-30 11:07:31",
@@ -37,6 +37,26 @@
       "url": "https://open.spotify.com/track/49vNDLnRyxawpBHGKLLaLh"
     },
     {
+      "added_at": "2025-07-11 12:34:13",
+      "album": {
+        "name": "Origin Story",
+        "url": "https://open.spotify.com/album/44qxu9d0VuzUeLplnt8LlO"
+      },
+      "artists": [
+        {
+          "name": "Manasa",
+          "url": "https://open.spotify.com/artist/0VKsmKqSTMBQ6jzUUwYJ3X"
+        },
+        {
+          "name": "Bhuvanesh Selvanesan",
+          "url": "https://open.spotify.com/artist/6Zv8qFORCOlUV0pogS2vP4"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Origin Story",
+      "url": "https://open.spotify.com/track/779aAw1mmWwlit2D48nshG"
+    },
+    {
       "added_at": "2025-05-06 10:25:16",
       "album": {
         "name": "Uyir Ponaalum",
@@ -59,6 +79,94 @@
       "duration_ms": 205479,
       "name": "Kaettu Paaru",
       "url": "https://open.spotify.com/track/6QHs1itvQeNRQ9C1AN2vhU"
+    },
+    {
+      "added_at": "2025-07-11 12:31:24",
+      "album": {
+        "name": "Poi Kadhal",
+        "url": "https://open.spotify.com/album/6kJk5uwtoLjY7EstFncLOd"
+      },
+      "artists": [
+        {
+          "name": "Paal Payasam",
+          "url": "https://open.spotify.com/artist/3KjtDuNzR7qDPXc0mtGBPn"
+        },
+        {
+          "name": "Sushil-Nikhil",
+          "url": "https://open.spotify.com/artist/1nfbcLQburXvoNubnvpF9S"
+        },
+        {
+          "name": "Varun Chandrasekar",
+          "url": "https://open.spotify.com/artist/5jzg5OpWjQBgi2LzgsC2mJ"
+        },
+        {
+          "name": "Pavan Adithya",
+          "url": "https://open.spotify.com/artist/5KtHxJCUaPWXGszr44J33s"
+        },
+        {
+          "name": "Vasumathy Vic",
+          "url": "https://open.spotify.com/artist/48hKCiRcieZKTNQNYnhwLk"
+        }
+      ],
+      "duration_ms": 208252,
+      "name": "Poi Kadhal",
+      "url": "https://open.spotify.com/track/3dLhDLdUwUFeiDquvenigi"
+    },
+    {
+      "added_at": "2025-07-11 12:30:39",
+      "album": {
+        "name": "Oru Vina",
+        "url": "https://open.spotify.com/album/7KdyXKENxyjJPhhwSAQAfi"
+      },
+      "artists": [
+        {
+          "name": "Kenny Roy",
+          "url": "https://open.spotify.com/artist/6fslDBbv64YjU15jafPFbx"
+        },
+        {
+          "name": "Sensaaayyy",
+          "url": "https://open.spotify.com/artist/0VTWhw0OefeXM9Gefh2CJu"
+        }
+      ],
+      "duration_ms": 91500,
+      "name": "Oru Vina",
+      "url": "https://open.spotify.com/track/6GZn9kBgICX6JBjpSbgHSq"
+    },
+    {
+      "added_at": "2025-07-11 12:29:52",
+      "album": {
+        "name": "Endhen Kadhali",
+        "url": "https://open.spotify.com/album/6kDZJtY4bEpr1MoJMXkWa0"
+      },
+      "artists": [
+        {
+          "name": "ASHWIN EDAKKUDI",
+          "url": "https://open.spotify.com/artist/53qL8tuMQxez8ya4IvjkUN"
+        },
+        {
+          "name": "DJ LEM\"ON\"",
+          "url": "https://open.spotify.com/artist/5x6cjBMUDQBJqk2X1oBoCU"
+        },
+        {
+          "name": "PD MUSIQ",
+          "url": "https://open.spotify.com/artist/5wx19z578bcqiK8hTU3Icg"
+        },
+        {
+          "name": "Thiraiyan",
+          "url": "https://open.spotify.com/artist/6khZoRA9gHZZUhpKexKuli"
+        },
+        {
+          "name": "JAGATH KRISHNA",
+          "url": "https://open.spotify.com/artist/5SW2V2dQu1qZrclocdBsP7"
+        },
+        {
+          "name": "ATHIRA DIVAKARAN",
+          "url": "https://open.spotify.com/artist/6nDjTxcGCCGiOoVfceOyis"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Endhen Kadhali",
+      "url": "https://open.spotify.com/track/7hcIWT9NwJT5uM2hAGOk9a"
     },
     {
       "added_at": "2025-06-16 13:39:20",
@@ -911,90 +1019,6 @@
       "duration_ms": 280227,
       "name": "Vaanaai Naam",
       "url": "https://open.spotify.com/track/7bnvjefUzxgtIqGxyQcqsR"
-    },
-    {
-      "added_at": "2025-05-02 05:13:10",
-      "album": {
-        "name": "Confusion",
-        "url": "https://open.spotify.com/album/5GsZ8K3gmCOK0RlPBauhJ0"
-      },
-      "artists": [
-        {
-          "name": "Rozario",
-          "url": "https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz"
-        }
-      ],
-      "duration_ms": 203854,
-      "name": "Confusion",
-      "url": "https://open.spotify.com/track/0Br3wZ1LuZQVupbmolxfy3"
-    },
-    {
-      "added_at": "2025-04-25 04:11:21",
-      "album": {
-        "name": "Thean Aruvi",
-        "url": "https://open.spotify.com/album/7rnC5gYOoFWddvbE99fmat"
-      },
-      "artists": [
-        {
-          "name": "Vishakh Chandran",
-          "url": "https://open.spotify.com/artist/66xZT319U6s2rmmu8rq6YL"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Thean Aruvi",
-      "url": "https://open.spotify.com/track/6ImKfKnGadzcmOrgoYNy9u"
-    },
-    {
-      "added_at": "2025-04-24 14:44:20",
-      "album": {
-        "name": "Life Until 23",
-        "url": "https://open.spotify.com/album/5zjjOgr3KgPlfREtqWtMu1"
-      },
-      "artists": [
-        {
-          "name": "Nishad G",
-          "url": "https://open.spotify.com/artist/4TFk73Ah5yIrc6fSamHkF6"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Sreekanth Hariharan",
-          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
-        },
-        {
-          "name": "Pa Hariharan",
-          "url": "https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI"
-        }
-      ],
-      "duration_ms": 359230,
-      "name": "Uyir Peralaiye",
-      "url": "https://open.spotify.com/track/05ONYU2LgxbiLSTtNk8gvH"
-    },
-    {
-      "added_at": "2025-04-24 14:44:20",
-      "album": {
-        "name": "Vennilavaai Vandhaale",
-        "url": "https://open.spotify.com/album/5WT8YCt48vk8rDj0BPfFW3"
-      },
-      "artists": [
-        {
-          "name": "Nikhil Babu",
-          "url": "https://open.spotify.com/artist/6TPGxT8g78X6vuRsSnTws5"
-        },
-        {
-          "name": "Unnimaya Nambeesan",
-          "url": "https://open.spotify.com/artist/0TZGMs6fsn4cdwJqwk4gX2"
-        },
-        {
-          "name": "Divyavalli Santhosh",
-          "url": "https://open.spotify.com/artist/5nAN46NfWgmicMH2vMPaHD"
-        }
-      ],
-      "duration_ms": 294164,
-      "name": "Vennilavaai Vandhaale",
-      "url": "https://open.spotify.com/track/0tIlact95s381sOKIbwjAZ"
     }
   ],
   "unique_name": "RADAR Tamil",

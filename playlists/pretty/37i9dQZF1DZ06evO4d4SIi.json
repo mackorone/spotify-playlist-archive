@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 48058,
+  "num_followers": 48096,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG2xAAAAAAAnoVYts9uThJjaCqCDcq5w",
+  "snapshot_id": "aG8CgAAAAADwMtIaaAAIf9v0+fNo5Rui",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Leaving New Orleans",
+      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cool Anymore",
         "url": "https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 200415,
       "name": "Cool Anymore",
       "url": "https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "Leaving New Orleans",
-      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
     },
     {
       "added_at": null,

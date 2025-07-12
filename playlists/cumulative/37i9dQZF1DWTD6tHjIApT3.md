@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 椎名林檎 Shiina Ringo
 
-3,188 songs - 8 day 11 hr 41 min
+3,190 songs - 8 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Anata No STORY \- Yaiko Band ver.](https://open.spotify.com/track/09TCJw1wvUjWRrPBVizAgD) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [Anata No STORY \(Yaiko Band ver.\)](https://open.spotify.com/album/3yTcBlLUZ4u0LzQSxaYiGg) | 3:45 | 2023-12-07 | 2023-12-13 |
 | [Anata No STORY \- Yaiko Band ver.](https://open.spotify.com/track/6aH0kKRYvKcdPsNCHPczZN) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [Anata No STORY \(Yaiko Band ver.\)](https://open.spotify.com/album/7y4ZNVPHBbp0wsTDfNKAO0) | 3:45 | 2023-12-05 | 2023-12-08 |
 | [ANEMoNE](https://open.spotify.com/track/3EguDMHGL6ZkXTUfmLMn7b) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [ANEMoNE](https://open.spotify.com/album/5YGd3k8Yu8Gaq9fgnfJhYn) | 3:47 | 2024-05-21 | 2024-05-29 |
-| [Angel](https://open.spotify.com/track/191F1vd7Gk40CiiS4QIccM) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Angel](https://open.spotify.com/album/2rfDAkxdDFt2HzwoS3RTqq) | 3:29 | 2025-06-17 |  |
+| [Angel](https://open.spotify.com/track/191F1vd7Gk40CiiS4QIccM) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Angel](https://open.spotify.com/album/2rfDAkxdDFt2HzwoS3RTqq) | 3:29 | 2025-06-17 | 2025-07-12 |
 | [Angel’s Fake](https://open.spotify.com/track/50irF70TpepGqUAZAeLY1q) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Angel’s Fake](https://open.spotify.com/album/7bSE2p3wyC1vnOtn9vgXxw) | 2:47 | 2023-09-26 | 2023-10-05 |
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 | 2023-04-19 |
@@ -339,7 +339,7 @@
 | [CONMAN](https://open.spotify.com/track/3A4xPOxlnfb4QfaNSLzEMv) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [Sumire](https://open.spotify.com/artist/3ie7Kl4oUITfThdgrDSHFS) | [CONMAN](https://open.spotify.com/album/3K9mZFUwEV5ABwo93sDjK3) | 3:12 | 2022-06-02 | 2022-07-08 |
 | [Continue](https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Continue](https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB) | 3:25 | 2023-11-28 | 2023-12-13 |
 | [Contrast](https://open.spotify.com/track/7xsztWMVvAzfNVyaCqW2Tj) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Contrast](https://open.spotify.com/album/6vptFPctTJu6HtY1yAwZPI) | 4:18 | 2025-01-07 | 2025-04-16 |
-| [Count on me](https://open.spotify.com/track/56CPNmonxxiliVcTlbw08i) | [EIKO](https://open.spotify.com/artist/5LK4fwi1YX9hHocTLR1ss1) | [Count on me](https://open.spotify.com/album/63IS5d659B7nQQMrlXeCDY) | 4:01 | 2025-07-08 |  |
+| [Count on me](https://open.spotify.com/track/56CPNmonxxiliVcTlbw08i) | [EIKO](https://open.spotify.com/artist/5LK4fwi1YX9hHocTLR1ss1) | [Count on me](https://open.spotify.com/album/63IS5d659B7nQQMrlXeCDY) | 4:01 | 2025-07-08 | 2025-07-12 |
 | [Countman](https://open.spotify.com/track/60wfUIUw8AK9XpxiorYD2C) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [HER](https://open.spotify.com/album/64WGXusBvhOljpqw8ZvBku) | 4:43 | 2022-06-07 | 2022-06-14 |
 | [Crave](https://open.spotify.com/track/2jKde4rJLq26vZH9pjslgQ) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [Crave](https://open.spotify.com/album/3EbHyLkV7coWopV3Lu2Oqx) | 3:57 | 2024-03-05 | 2024-03-20 |
 | [Crazy About Her..](https://open.spotify.com/track/6b9mAqI9Poae4nXSQLUlZX) | [Yousuke Kobayashi](https://open.spotify.com/artist/3l6v4F7Ngu7FuMhU27pYoH), [Sho Asano](https://open.spotify.com/artist/7oNLOW0qxiKDZnG9xkP6CX), [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE) | [Crazy About Her..](https://open.spotify.com/album/17VMU8zcqhrv6YsQ6xWSB6) | 4:35 | 2022-06-28 | 2022-07-06 |
@@ -930,6 +930,7 @@
 | [LOVE NEVER DIES](https://open.spotify.com/track/5xf2AmdKX0iZnH4aYCvkB9) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [LOVE NEVER DIES](https://open.spotify.com/album/7dP8Db0pdqk73Od5LP5ljV) | 3:50 | 2025-04-29 | 2025-05-07 |
 | [Love Package](https://open.spotify.com/track/09vinkNaFu3LCUpSYNA8Th) | [AISHA](https://open.spotify.com/artist/2ZaCjRExBrJiwBJ6dfhwqw) | [Love Package](https://open.spotify.com/album/55tkoYFbVyizDjSGPK01o7) | 4:23 | 2022-07-14 | 2022-07-23 |
 | [Love Sick](https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Love Sick](https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw) | 3:42 | 2024-07-30 | 2024-09-18 |
+| [Love Syndrome](https://open.spotify.com/track/5vz9Mt6ssUXU2yAyRySza9) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [Love Syndrome](https://open.spotify.com/album/7zclHBdRYGqdE9yWurx9kU) | 2:52 | 2025-07-11 |  |
 | [Love This Hard](https://open.spotify.com/track/6H2VSJ2OaIDPWJJNhkRvj1) | [karashikoume](https://open.spotify.com/artist/3GrSCAiyEuXmxZ3v6OJhq5) | [Love This Hard](https://open.spotify.com/album/19ghTQIr3vCnRPbGXzz3xI) | 3:04 | 2024-04-30 | 2024-05-08 |
 | [Love U](https://open.spotify.com/track/4iIMfHTphhf2OBXhEN7YGh) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Love U](https://open.spotify.com/album/0eLwyZhtxWTOmkX6tkk64n) | 3:29 | 2023-11-14 | 2023-11-22 |
 | [Love When I Cry](https://open.spotify.com/track/29k3ZcMyvb5H3ZGd33DxHe) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Walkin' In My Lane](https://open.spotify.com/album/0LBO1KTMTKbwsZEU30o0im) | 3:28 | 2022-06-07 | 2022-07-25 |
@@ -2855,6 +2856,7 @@
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 | 2023-06-21 |
 | [月は今でも明るいが](https://open.spotify.com/track/64iq9RkRASwf2W6UDZzUPS) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [月は今でも明るいが](https://open.spotify.com/album/5JKyex0alhL1zW3TyvW3Yj) | 3:53 | 2022-08-23 | 2022-08-31 |
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2023-10-12 | 2025-05-14 |
+| [月蝕](https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [月蝕](https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC) | 3:17 | 2025-07-11 |  |
 | [月面着陸計画 \- Moon Landing Plan](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-07 | 2025-07-09 |
 | [朗朗](https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [朗朗](https://open.spotify.com/album/5y8wWPaqLkppnC7nmrR5Um) | 3:33 | 2025-01-07 | 2025-01-15 |
 | [朗読](https://open.spotify.com/track/6sXTKn32WA0r7zK7GVDZTh) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [ラブソング史のはじめに](https://open.spotify.com/album/72Jry5CwXocJkNLABgKKr5) | 4:47 | 2024-04-16 | 2024-04-24 |

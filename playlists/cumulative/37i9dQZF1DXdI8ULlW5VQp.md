@@ -2,9 +2,9 @@
 
 ### [Pop Folk](https://open.spotify.com/playlist/37i9dQZF1DXdI8ULlW5VQp)
 
-> Sueña lindo, corazón..\. 💖✨ Silvana Estrada en portada.
+> Sueña lindo, corazón..\. 💖✨ Jaxho en portada.
 
-436 songs - 1 day 0 hr 34 min
+438 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Corazón Partió](https://open.spotify.com/track/5hUpgQJlhmbUM80QiGE1Wq) | [Luis Catalán](https://open.spotify.com/artist/1H9zU2hjrw02Bx0F265xe0) | [Corazón Partió](https://open.spotify.com/album/13qxWmAs5vSxp6qGnly0cQ) | 2:43 | 2025-04-11 | 2025-05-24 |
 | [Cositas Que Haciamos \(feat\. Farruko\)](https://open.spotify.com/track/6V2Y0Anhyq538bSVyWVt47) | [Musicologo Y Menes](https://open.spotify.com/artist/0xf0KaVp6AMWgesiBh6fee), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Los De La Nazza the Collection, Vol\. 1](https://open.spotify.com/album/7CKHPPrMD8WHybUhrykhjk) | 4:04 | 2023-02-08 | 2023-03-11 |
 | [creo que todo estará bien](https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [creo que todo estará bien](https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR) | 3:40 | 2022-02-04 | 2022-07-02 |
+| [Crónica de una vida](https://open.spotify.com/track/1o5UADYohmOUBoqe38SNGk) | [Jaxho](https://open.spotify.com/artist/0KEOYaMwjec0pNYa19P8Gt), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Crónica de una vida](https://open.spotify.com/album/6SkRkWajha2kNA5yoOs96t) | 4:15 | 2025-07-11 |  |
 | [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-06-02 | 2023-01-14 |
 | [ctrl\-z](https://open.spotify.com/track/2if0tp2wHjVb8b9n5ReF2w) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:16 | 2022-07-01 | 2022-07-23 |
 | [Cuando La Vida Sea Trago](https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cuando La Vida Sea Trago](https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x) | 2:53 | 2024-04-19 | 2025-02-08 |
@@ -120,7 +121,7 @@
 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 | 2023-01-13 | 2024-12-07 |
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-17 | 2025-05-17 |
 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 | 2022-07-01 | 2024-12-07 |
-| [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 | 2023-06-16 |  |
+| [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 | 2023-06-16 | 2025-07-12 |
 | [disfraz](https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [disfraz](https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY) | 2:58 | 2024-05-03 | 2024-10-05 |
 | [Donde Debo Estar](https://open.spotify.com/track/4sscXIg64lskHbo0L2fmFq) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Donde Debo Estar](https://open.spotify.com/album/5DQkIKb8Cvb2XGIfHZ4oN4) | 3:41 | 2025-04-25 | 2025-05-24 |
 | [Donde Nadie](https://open.spotify.com/track/0f0Cxn4cO6dViHACpGjp4a) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Donde Nadie](https://open.spotify.com/album/0lOYCiJQk1S53KWUAh35tT) | 2:32 | 2022-07-22 | 2024-04-20 |
@@ -366,12 +367,13 @@
 | [Soñé](https://open.spotify.com/track/2d6R7kgl5nhJLn71ErZAtv) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Soñé](https://open.spotify.com/album/5Fq4RZOFCKPFWBete3tCJM) | 2:50 | 2022-02-25 | 2022-04-19 |
 | [Su Mejor Versión](https://open.spotify.com/track/5JASLi669KvQAAhc0lQz6Z) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [SERENATAS](https://open.spotify.com/album/7zWxZXyqSzHHBV5pEUBNcC) | 2:59 | 2024-08-23 | 2024-09-14 |
 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 | 2022-07-01 | 2025-03-08 |
+| [Suenos Rotos](https://open.spotify.com/track/66nJmbwRrvcRec2JvgWcNH) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK), [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Sueños rotos](https://open.spotify.com/album/5sRhy8Zd3BIrXL5n2uHTRI) | 2:39 | 2025-07-11 |  |
 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 | 2025-02-04 | 2025-04-26 |
 | [T.E.D.M.](https://open.spotify.com/track/7hv8qZBDfWAIpQox8MZVUa) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [T.E.D.M.](https://open.spotify.com/album/2wFY5v9Cqv5qhiQWTWVGwj) | 1:41 | 2025-06-20 | 2025-07-05 |
 | [Tal Vez el Amor](https://open.spotify.com/track/2FI0vtqngEsBJZ5XMf2B0c) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Tal Vez el Amor](https://open.spotify.com/album/2gTPi6ug6exBm7J9tHV03F) | 3:39 | 2022-02-04 | 2022-03-12 |
 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 | 2023-01-13 | 2024-07-27 |
 | [Tan Bonita](https://open.spotify.com/track/7kAiuVi660DGkT67MHVIwh) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tan Bonita](https://open.spotify.com/album/0FFTHBdD5AP5XkVXSdMpEP) | 3:17 | 2024-07-11 | 2024-08-24 |
-| [TANTO PARA NADA](https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [RUBEDO](https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8) | 2:40 | 2024-05-10 |  |
+| [TANTO PARA NADA](https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [RUBEDO](https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8) | 2:40 | 2024-05-10 | 2025-07-12 |
 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 | 2022-03-11 | 2024-05-04 |
 | [Te Acuerdas](https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Te Acuerdas](https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1) | 3:25 | 2023-09-26 | 2024-04-20 |
 | [Te Fallé](https://open.spotify.com/track/2GPhbolY4K922QO0qSsTDH) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Te Fallé](https://open.spotify.com/album/6RXWk1hfL2mGbJz2To1Wz0) | 4:21 | 2022-02-04 | 2022-06-30 |

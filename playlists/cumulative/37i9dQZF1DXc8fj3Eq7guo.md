@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-95 songs - 6 hr 9 min
+96 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Maputo](https://open.spotify.com/track/5dknvijgexsIkQDeTsnAkN) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Healing The Wounds](https://open.spotify.com/album/3OVyrIbZ6lmvG9rUfKRSOR) | 6:25 | 2023-09-08 | 2024-08-09 |
 | [MBALE CITY](https://open.spotify.com/track/1ePyC63y34VSzFByfabdfu) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH) | [MBALE CITY](https://open.spotify.com/album/1EH3Wi6xkujGtZus3VEcHq) | 4:39 | 2023-09-08 | 2023-10-10 |
 | [Megalo](https://open.spotify.com/track/0tvJEr9OT2FzOYsyI8tdmh) | [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Spura](https://open.spotify.com/artist/1QmaPvApssw6VkdOq7AP50), [Classic Deep](https://open.spotify.com/artist/1rbnrcQsBvYBgtDub77NGe) | [Megalo](https://open.spotify.com/album/58yUEDGNFmuI0ezfpiAO8D) | 5:43 | 2023-09-08 |  |
+| [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-11 |  |
 | [Mombasa](https://open.spotify.com/track/3CtfRT0hfvNGhEivMI4CCY) | [Safari Sound Band](https://open.spotify.com/artist/2mCLJWF0Fy3eEHPvgRCEFM) | [The Best Of African Songs](https://open.spotify.com/album/1i6Xt02mq2p85ywAei5f58) | 4:09 | 2023-09-08 | 2024-03-16 |
 | [Mombasa After Midnight](https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Exotic Moods Of Les Baxter](https://open.spotify.com/album/2ht6iWCY9PPVS4CuBYVcD1) | 2:10 | 2023-09-08 | 2023-12-09 |
 | [Morocco](https://open.spotify.com/track/2ljF7c0hX2YU2K5BOzC5LU) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:06 | 2023-09-08 |  |

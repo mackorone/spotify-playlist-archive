@@ -1,18 +1,66 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2518,
+  "num_followers": 2519,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAENEzJ/GtJZbmyW9APDGSArG02iGL1",
+  "snapshot_id": "AAAENusHnieERwgDa0KB5eyqrrowiHQT",
   "tracks": [
     {
-      "added_at": "2025-07-04 13:38:48",
+      "added_at": "2025-07-11 12:47:37",
       "album": {
-        "name": "Himmelen Ska Gr\u00e5ta M\u00e5nga T\u00e5rar",
-        "url": "https://open.spotify.com/album/3q3ZGYVjC4Eb6AHQrRXKTp"
+        "name": "Kettinki peti",
+        "url": "https://open.spotify.com/album/3pvGYySiQFL2yd5UqnUlbU"
+      },
+      "artists": [
+        {
+          "name": "Huge L",
+          "url": "https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB"
+        }
+      ],
+      "duration_ms": 190203,
+      "name": "Kettinki peti",
+      "url": "https://open.spotify.com/track/1qWTGJRzPIUzscJJjz0Yoi"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "imy everyday",
+        "url": "https://open.spotify.com/album/2c8AuIygkDOKCNE71MzXft"
+      },
+      "artists": [
+        {
+          "name": "TeYo",
+          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
+        }
+      ],
+      "duration_ms": 196950,
+      "name": "imy everyday",
+      "url": "https://open.spotify.com/track/0mk5RqjOkMTLTdO980YLQr"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/5WTyFIhZIEphZr9kWbEE2N"
+      },
+      "artists": [
+        {
+          "name": "Renata Queli",
+          "url": "https://open.spotify.com/artist/2LLPL2Pvq1UeuBhgVvUmny"
+        }
+      ],
+      "duration_ms": 196124,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/5upWcLRwZ9u7WabxoTTGyE"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "Kaos [Sista T\u00e5get]",
+        "url": "https://open.spotify.com/album/603SmrsM8Qz0Unfqyx6eqC"
       },
       "artists": [
         {
@@ -20,193 +68,197 @@
           "url": "https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3"
         }
       ],
-      "duration_ms": 253426,
-      "name": "Himmelen Ska Gr\u00e5ta M\u00e5nga T\u00e5rar",
-      "url": "https://open.spotify.com/track/5b7y7yw10GeOu2gxWU5ILh"
+      "duration_ms": 198640,
+      "name": "Kaos [Sista T\u00e5get]",
+      "url": "https://open.spotify.com/track/0dBFp3rJaYwoGnF4IWUiqA"
     },
     {
-      "added_at": "2025-07-04 13:38:48",
+      "added_at": "2025-07-11 12:47:37",
       "album": {
-        "name": "Mas Malalim",
-        "url": "https://open.spotify.com/album/5UbUdgHACY19yLU2hn3X4O"
+        "name": "You",
+        "url": "https://open.spotify.com/album/403gYGDlzy47ocO39HB1we"
       },
       "artists": [
         {
-          "name": "Doulos Worship",
-          "url": "https://open.spotify.com/artist/7pAZRbuC51YWEGtazqDrUi"
+          "name": "TRIP RGAZZI",
+          "url": "https://open.spotify.com/artist/0SK8CcodNPQb6on1zFWq5e"
         }
       ],
-      "duration_ms": 446370,
-      "name": "Mas Malalim",
-      "url": "https://open.spotify.com/track/1AyJGBcDSXSl3R0QZG55JR"
+      "duration_ms": 246681,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3U4dZoulX2luqz9xf1VJhk"
     },
     {
-      "added_at": "2025-07-04 13:38:48",
+      "added_at": "2025-07-11 12:47:37",
       "album": {
-        "name": "Hope is not enough, Vol. 1",
-        "url": "https://open.spotify.com/album/4GarzJKzy0s3cgk0B6BZf8"
+        "name": "Bitter Bitch",
+        "url": "https://open.spotify.com/album/4wLz8lKVbgssUcDzud1zfh"
       },
       "artists": [
         {
-          "name": "Joshua Santospirito",
-          "url": "https://open.spotify.com/artist/5qR6y7J9yKc0GMxrwJElP5"
+          "name": "Jasmine Kara",
+          "url": "https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj"
         }
       ],
-      "duration_ms": 197185,
-      "name": "Anger and other combinations",
-      "url": "https://open.spotify.com/track/0voIhn0mpmz7ForrPu8nAt"
+      "duration_ms": 156000,
+      "name": "Bitter Bitch",
+      "url": "https://open.spotify.com/track/0y8SM4VavK65kuHw3IDwYv"
     },
     {
-      "added_at": "2025-07-04 13:38:48",
+      "added_at": "2025-07-11 12:47:37",
       "album": {
-        "name": "The Great American Lucid Dream",
-        "url": "https://open.spotify.com/album/13VU4AV2dXrL5ahlE9JeqN"
+        "name": "Darkened Apathy",
+        "url": "https://open.spotify.com/album/0Gs3AFIYJpfAhEFV8lEo99"
       },
       "artists": [
         {
-          "name": "EyeOweTheChrist",
-          "url": "https://open.spotify.com/artist/0w61nXyLOqUpSK6ceZcFiS"
+          "name": "Grand Cadaver",
+          "url": "https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC"
+        }
+      ],
+      "duration_ms": 294172,
+      "name": "Darkened Apathy",
+      "url": "https://open.spotify.com/track/42dhuD9TOhPkg2ysJVCESL"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "Flyttar ut p\u00e5 landet",
+        "url": "https://open.spotify.com/album/6P6vvyvRDjkF0MIvo7AM0x"
+      },
+      "artists": [
+        {
+          "name": "Amanda Warren",
+          "url": "https://open.spotify.com/artist/5IXA2Evm4dcj8KLg7ZzayA"
         },
         {
-          "name": "BeatsByBunk",
-          "url": "https://open.spotify.com/artist/3O3800iIfcmJiy2N9aQWd4"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Slip Slide Suicide",
-      "url": "https://open.spotify.com/track/7uXZKcCSXIKUnXIJWFwlD7"
-    },
-    {
-      "added_at": "2025-07-04 13:38:48",
-      "album": {
-        "name": "The Video Store at the End of the World",
-        "url": "https://open.spotify.com/album/2XpZUUyqva6yoFWEFB9vx5"
-      },
-      "artists": [
-        {
-          "name": "The Habs Studio Orchestra",
-          "url": "https://open.spotify.com/artist/0d2uFBUbxcA0JaQL32qkkR"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Another Perfect Day",
-      "url": "https://open.spotify.com/track/26izbAaR5FcmdrEAWQpL57"
-    },
-    {
-      "added_at": "2025-07-04 13:38:48",
-      "album": {
-        "name": "Come Ride with Me",
-        "url": "https://open.spotify.com/album/2WQQ6QaYObnlb7HzyUuiY6"
-      },
-      "artists": [
-        {
-          "name": "Seasons of Solitude",
-          "url": "https://open.spotify.com/artist/4b1G9i7bIjEiVjGMw47Wuf"
-        }
-      ],
-      "duration_ms": 418730,
-      "name": "Come Ride with Me",
-      "url": "https://open.spotify.com/track/4kjNWJbaqC2OpfqT5wq5SN"
-    },
-    {
-      "added_at": "2025-07-04 13:38:48",
-      "album": {
-        "name": "Innanf\u00f6r muren",
-        "url": "https://open.spotify.com/album/5jtIWvjRoA6aRL6kzFBdCV"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00f6st",
-          "url": "https://open.spotify.com/artist/6mK0tTwRa66p8BsyYqno1G"
-        }
-      ],
-      "duration_ms": 199919,
-      "name": "Jul i juli",
-      "url": "https://open.spotify.com/track/77vbMLDqXsnavmWC37LNZy"
-    },
-    {
-      "added_at": "2025-07-04 13:38:48",
-      "album": {
-        "name": "Vykort till framtiden",
-        "url": "https://open.spotify.com/album/6fCYVHUmwkOKm63oQy15nm"
-      },
-      "artists": [
-        {
-          "name": "Kim K\u00e4rnfalk",
-          "url": "https://open.spotify.com/artist/43qhxGIqwBQZ0BZbtDVCDP"
-        }
-      ],
-      "duration_ms": 224880,
-      "name": "Leva Nu",
-      "url": "https://open.spotify.com/track/5CUZO0T5jRjyKeRqBxKPud"
-    },
-    {
-      "added_at": "2025-07-04 13:38:48",
-      "album": {
-        "name": "Nothing To Something",
-        "url": "https://open.spotify.com/album/6fFthW4ugfDByuymBp2aUJ"
-      },
-      "artists": [
-        {
-          "name": "Kaplan Dayhill",
-          "url": "https://open.spotify.com/artist/5ZolRUt0vZTGkcVsEcWRxT"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Nothing To Something",
-      "url": "https://open.spotify.com/track/24zBlgZestPylD7yZ7XqDp"
-    },
-    {
-      "added_at": "2025-07-04 13:38:48",
-      "album": {
-        "name": "Ce qu'on laisse",
-        "url": "https://open.spotify.com/album/4DptUpPTqqa751ZNAqC7Lv"
-      },
-      "artists": [
-        {
-          "name": "Laurent Buratti",
-          "url": "https://open.spotify.com/artist/4j73WszgCQSdT0rsohD0jJ"
-        }
-      ],
-      "duration_ms": 258902,
-      "name": "Une bonne journ\u00e9e",
-      "url": "https://open.spotify.com/track/4Z6lUKEGAhcbycr5htXivi"
-    },
-    {
-      "added_at": "2025-07-04 13:38:48",
-      "album": {
-        "name": "The doubting is always around the beautiful",
-        "url": "https://open.spotify.com/album/3K3BZAKEOvlvLMqFjyQDPT"
-      },
-      "artists": [
-        {
-          "name": "Robert Trout",
-          "url": "https://open.spotify.com/artist/2ctIYLyIaAGBeFK1TOHqCN"
-        }
-      ],
-      "duration_ms": 190728,
-      "name": "The doubting is always around the beautiful",
-      "url": "https://open.spotify.com/track/4G3iMBeDPPQd0npcbUV64o"
-    },
-    {
-      "added_at": "2025-07-04 13:38:48",
-      "album": {
-        "name": "Darkness Dance within the mind",
-        "url": "https://open.spotify.com/album/0qrUcNgeSYuMioPFJnjyf1"
-      },
-      "artists": [
-        {
-          "name": "Sally",
-          "url": "https://open.spotify.com/artist/6JBgBO9EvtItFXobMnbx2V"
+          "name": "Hugo Den Fete",
+          "url": "https://open.spotify.com/artist/0u6YesByZo3nVghHwGFPwX"
         },
         {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/6LMs5hrRa5DkSKj74keKhV"
+          "name": "West11",
+          "url": "https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK"
         }
       ],
-      "duration_ms": 167694,
-      "name": "Darkness Dance within the mind",
-      "url": "https://open.spotify.com/track/5CakhdFZ1aPbO4NQlNB8uI"
+      "duration_ms": 208715,
+      "name": "Flyttar ut p\u00e5 landet",
+      "url": "https://open.spotify.com/track/7f2DupV0pss4fpccqgbZjw"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "Sweet M16",
+        "url": "https://open.spotify.com/album/6aTcxjKkRauqWoz7aHFeuF"
+      },
+      "artists": [
+        {
+          "name": "I Am Low",
+          "url": "https://open.spotify.com/artist/0VLxzSdK1g4pL3U0aaiFMu"
+        }
+      ],
+      "duration_ms": 282996,
+      "name": "Sweet M16",
+      "url": "https://open.spotify.com/track/6eYxcHBJkjiWN7fPVsCjy3"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "Race Cars",
+        "url": "https://open.spotify.com/album/0r0QOZV2GzEYOKnn4pAgSO"
+      },
+      "artists": [
+        {
+          "name": "Paul Allen",
+          "url": "https://open.spotify.com/artist/1ewhAtkWJhsTs8GsseqBft"
+        }
+      ],
+      "duration_ms": 135279,
+      "name": "Race Cars",
+      "url": "https://open.spotify.com/track/1hZ1vQh8X8Tp60lFmGJyuh"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "When the angel came",
+        "url": "https://open.spotify.com/album/1cfoKVPTAXwF0OYlBTB81P"
+      },
+      "artists": [
+        {
+          "name": "Alain Picard",
+          "url": "https://open.spotify.com/artist/0Ib8HAyJqte4QkjQosNqXO"
+        }
+      ],
+      "duration_ms": 220959,
+      "name": "When the angel came",
+      "url": "https://open.spotify.com/track/74Lpeet7NjokS5ao4xM3vm"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "Kulot!",
+        "url": "https://open.spotify.com/album/1ERGNG6LyUUsf3fpFSje3h"
+      },
+      "artists": [
+        {
+          "name": "Dino Santos",
+          "url": "https://open.spotify.com/artist/0OKuaRwk6gjqtgr8vBQzW3"
+        }
+      ],
+      "duration_ms": 276827,
+      "name": "Kulot!",
+      "url": "https://open.spotify.com/track/7o8tcwGNQSRAx1Q3Th8ikz"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/5Cjzooqlhy5LOGNDiecCBJ"
+      },
+      "artists": [
+        {
+          "name": "Dakota Chappy",
+          "url": "https://open.spotify.com/artist/2wSuwnAjR8ofGWbE1sbtNn"
+        }
+      ],
+      "duration_ms": 164858,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/7xr3jzj35OtI8tQURYG75o"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "blush",
+        "url": "https://open.spotify.com/album/1PihOA9YdCU0rXFF94m7VN"
+      },
+      "artists": [
+        {
+          "name": "Wildflower",
+          "url": "https://open.spotify.com/artist/0PTceGyYgxGaCjChdXxaqq"
+        }
+      ],
+      "duration_ms": 187596,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/40DpkRFaKuGMpvuUE4FFBG"
+    },
+    {
+      "added_at": "2025-07-11 12:47:37",
+      "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/4xXQmE80OxvXZr0nnaoWQU"
+      },
+      "artists": [
+        {
+          "name": "The Night Owls Project",
+          "url": "https://open.spotify.com/artist/48eiBKVOggxFyr1O8fdT3l"
+        },
+        {
+          "name": "LAEL",
+          "url": "https://open.spotify.com/artist/6u0N8dav5uO0AdKr6l9EFp"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/1cgrdVynbKJsCaZ1a8vItk"
     }
   ],
   "unique_name": "Independent Music Friday",

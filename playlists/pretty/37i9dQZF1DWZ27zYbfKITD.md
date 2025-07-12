@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,878 likes - 108 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,925 likes - 108 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 34 | [Ragnar Dreams of Home](https://open.spotify.com/track/3nVc5ARjS5gpGOV34QkTlw) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings IV \(Music from the TV Series\)](https://open.spotify.com/album/5zJORKvOIkroj9fmKdUPZI) | 1:41 |
 | 35 | [里の見学](https://open.spotify.com/track/3MxjsosG7fcCBtfItfNyJM) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 1:05 |
 | 36 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
-| 37 | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/track/6EECg7sQ7hepoC0V9k0Lbo) | [Yu\-Peng Chen](https://open.spotify.com/artist/4DD6LTHmvZVeLD5umO5Yvi), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/album/6ab8afxMKM66rnuOIW8Hdw) | 1:22 |
+| 37 | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/track/6EECg7sQ7hepoC0V9k0Lbo) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/album/6ab8afxMKM66rnuOIW8Hdw) | 1:22 |
 | 38 | [Outside Intro](https://open.spotify.com/track/3chpe83mkZt7cq4sOV7QwR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2) | [Inside Out 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD) | 0:55 |
 | 39 | [Tokyo Ghoul: Unravel \- Piano Version](https://open.spotify.com/track/0xBtceEvb9G2XvpKQwd32w) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Tokyo Ghoul: Unravel \(Piano Version\)](https://open.spotify.com/album/3FLbMAhMJ4yNpvZpUSOQbw) | 2:13 |
 | 40 | [Chichina](https://open.spotify.com/track/2szSxMQxwXSy5ShzYZQH0Z) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/2JOWWIWGueUaTZFBvdvES9) | 1:31 |

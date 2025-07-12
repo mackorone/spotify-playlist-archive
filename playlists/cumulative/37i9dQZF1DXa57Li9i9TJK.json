@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 186559,
       "name": "Amiga Date Cuenta",
       "url": "https://open.spotify.com/track/5No3KTQrLiCIBgG1r0r9TO"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 157920,
       "name": "Besos Robados",
       "url": "https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 152083,
       "name": "Che Vato",
       "url": "https://open.spotify.com/track/3FqGt2Rxs72TodiIzOMIvP"
@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/49gmcMb9dbeV9cpKLbhzst"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/3tiLsr8coKCWXIbqLLCyd4"
+    },
+    {
+      "album": {
         "name": "Llorar Por Ella",
         "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
       },
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 193312,
       "name": "Mejor Nada",
       "url": "https://open.spotify.com/track/70URoP0VcnaqVRNn8SU9AC"
@@ -2332,6 +2350,24 @@
       "duration_ms": 178039,
       "name": "Mis Amigas Las Flores",
       "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+    },
+    {
+      "album": {
+        "name": "Modo Triste",
+        "url": "https://open.spotify.com/album/1jaq0GaRzABajbYTcvVcUe"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160843,
+      "name": "Modo Triste",
+      "url": "https://open.spotify.com/track/4ys9K9wqfkooHZhXhpl6iX"
     },
     {
       "album": {
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 213762,
       "name": "No Me Aprovechaste",
       "url": "https://open.spotify.com/track/1bIop0kq6LmElfwkAt4LeD"
@@ -2882,7 +2918,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 182513,
       "name": "Para Que Seas Feliz",
       "url": "https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ"
@@ -3234,7 +3270,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 170000,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
@@ -3792,6 +3828,24 @@
       "duration_ms": 187400,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
+    },
+    {
+      "album": {
+        "name": "Por Puro Amor (Remasterizado 2025/30 Aniversario)",
+        "url": "https://open.spotify.com/album/1LKyOYpdKvhlIMDgbdJjo0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Te Aprovechas - Remasterizado 2025/30 Aniversario",
+      "url": "https://open.spotify.com/track/1HXGerqnLJIvqGNMP4jW7A"
     },
     {
       "album": {

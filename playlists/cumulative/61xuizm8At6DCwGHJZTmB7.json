@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/1Jo60eMZvIK1tlh9KrIyUH"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Desperate - Studio",
+      "url": "https://open.spotify.com/track/09sSn60F2fLYrfPz0Xs4C9"
+    },
+    {
+      "album": {
         "name": "Different (Live at Mosaic, Los Angeles, 2023)",
         "url": "https://open.spotify.com/album/28geG9hJyX8JtkEqDLTyow"
       },
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 223629,
       "name": "Fortress",
       "url": "https://open.spotify.com/track/0k6tb2OphQjr3i2Fc96rts"
@@ -5458,6 +5476,24 @@
       "duration_ms": 251741,
       "name": "House Of The Lord",
       "url": "https://open.spotify.com/track/6QHLLowPOgsmh8P8NUdLdu"
+    },
+    {
+      "album": {
+        "name": "How Good It Is",
+        "url": "https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236189,
+      "name": "How Good It Is",
+      "url": "https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg"
     },
     {
       "album": {
@@ -9840,7 +9876,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 226315,
       "name": "Same Jesus",
       "url": "https://open.spotify.com/track/1MzHif37jMiFwZHazy8im1"

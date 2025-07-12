@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-340 songs - 16 hr 5 min
+341 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A New Day \(by a Forest Stream\)](https://open.spotify.com/track/5Gx8X9lJUJy8QfFzo61DMM) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Forest Sunrise](https://open.spotify.com/album/4iIlz2x6TrEeGimx3idJy5) | 3:44 | 2024-03-01 |  |
 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 | 2023-10-26 |  |
 | [Adrift \(Meditation\)](https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Adrift \(Meditation\)](https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh) | 2:25 | 2023-09-01 | 2023-10-02 |
+| [Aere](https://open.spotify.com/track/71eaxB56hq5BteDIs7fztC) | [Allowe](https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0) | [Aere](https://open.spotify.com/album/7LtlzafUp8ro6oVduFe5gW) | 3:04 | 2025-07-09 |  |
 | [Aimless \(Meditation\)](https://open.spotify.com/track/53HxHnrk7SBhZSpHLlnCXk) | [Elevated Ground](https://open.spotify.com/artist/1RzaYiehVD1lcOsYtuY1NV) | [Aimless \(Meditation\)](https://open.spotify.com/album/7Ctf04HyAe3s7Kjos4UILf) | 2:28 | 2023-09-18 |  |
 | [Alcaria Hot Springs](https://open.spotify.com/track/5CSBbRQ01ZLGVJhz70K5Ch) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Alcaria Hot Springs](https://open.spotify.com/album/2MCRcVAOym1PlQKcaUJt8V) | 2:38 | 2023-10-26 |  |
 | [Allegro](https://open.spotify.com/track/36jgt8ZFkqy2nqiD8DGdSz) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegro](https://open.spotify.com/album/4eykRomPItwi8yylcsHXC9) | 2:11 | 2023-03-13 | 2023-03-21 |
@@ -62,7 +63,7 @@
 | [Citrus](https://open.spotify.com/track/7M1jq7PiPbElU1P1n3SvPe) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Sage & Citrus](https://open.spotify.com/album/0nfpjBVQFTRpwZ6ypSoqS1) | 2:50 | 2023-10-26 |  |
 | [Clarity](https://open.spotify.com/track/06H8kGJm3IIGOUXacNVWLi) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Clarity](https://open.spotify.com/album/3Hfd3gaDa5zt0gqmZZzyqQ) | 2:57 | 2023-12-18 | 2025-04-30 |
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2023-12-18 | 2025-04-02 |
-| [Close To Nature](https://open.spotify.com/track/70EsGjutJDUTtPuERSHOlv) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Close To Nature](https://open.spotify.com/album/1mMXcypi1O7IqShfiy4oFC) | 2:52 | 2025-07-01 |  |
+| [Close To Nature](https://open.spotify.com/track/70EsGjutJDUTtPuERSHOlv) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Close To Nature](https://open.spotify.com/album/1mMXcypi1O7IqShfiy4oFC) | 2:52 | 2025-07-01 | 2025-07-12 |
 | [Close Your Eyes](https://open.spotify.com/track/2bwDS1XzL0yNHyMEZxbRsI) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Close Your Eyes](https://open.spotify.com/album/40951TFlj3CPsvl1Xtx8Wa) | 3:16 | 2023-03-13 | 2024-12-05 |
 | [Columbine](https://open.spotify.com/track/3rz7MWh1x9HIw8D4pXAFJy) | [L'air](https://open.spotify.com/artist/48mOczJJlQ7xa3UuJeOnAd) | [Columbine](https://open.spotify.com/album/1T2627bpX1w6NDCGk86amb) | 2:50 | 2024-06-03 | 2024-10-04 |
 | [Conscious Jorney](https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Conscious Jorney](https://open.spotify.com/album/5CfoAkeqrKd46Jy8m4cza3) | 2:43 | 2023-04-24 | 2025-04-02 |

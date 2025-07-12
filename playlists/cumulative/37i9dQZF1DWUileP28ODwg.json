@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Tenth Avenue North",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: 7eventh Time Down",
   "name": "Top Christian Contemporary",
   "tracks": [
+    {
+      "album": {
+        "name": "King Of Hearts (Full Deck Deluxe)",
+        "url": "https://open.spotify.com/album/58h0AZmXG7bYxk7gBxIWu0"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202458,
+      "name": "1,000,000 Reasons Why",
+      "url": "https://open.spotify.com/track/30ENhWMCzVNC0aaVW7gaHu"
+    },
     {
       "album": {
         "name": "24/7",
@@ -548,7 +566,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 248467,
       "name": "As I Go Your Way (Aleph)",
       "url": "https://open.spotify.com/track/3eLcb4TcQLr1MC2w3iBFZD"
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 210533,
       "name": "choirs",
       "url": "https://open.spotify.com/track/5RwHKaZRI1z78HEZSO6zZn"
@@ -1616,6 +1634,28 @@
     {
       "album": {
         "name": "Desperate",
+        "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210785,
+      "name": "Desperate (with Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
+    },
+    {
+      "album": {
+        "name": "Desperate",
         "url": "https://open.spotify.com/album/6hz2shRyNC1PanglDzTcdz"
       },
       "artists": [
@@ -1626,7 +1666,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 219142,
       "name": "Desperate - Studio Session",
       "url": "https://open.spotify.com/track/5pUGIHoH0EPJhBgZDSWWo0"
@@ -1882,7 +1922,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 171067,
       "name": "EMPTY THREATS",
       "url": "https://open.spotify.com/track/4EJYP92P930plei6Y6oJ7g"
@@ -2770,6 +2810,24 @@
       "duration_ms": 355278,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y"
+    },
+    {
+      "album": {
+        "name": "God Story",
+        "url": "https://open.spotify.com/album/58oNXHgb7gR5PEO3CYvUVd"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187770,
+      "name": "God Story",
+      "url": "https://open.spotify.com/track/4PymotViKd6S2o4uShdnUw"
     },
     {
       "album": {
@@ -3691,6 +3749,28 @@
     },
     {
       "album": {
+        "name": "Help",
+        "url": "https://open.spotify.com/album/0NSEvVMqqAK6WYtyH92RJC"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        },
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223148,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/62ItymwQ2tQkqBOmOEs0ek"
+    },
+    {
+      "album": {
         "name": "How Far",
         "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
       },
@@ -4323,6 +4403,28 @@
     },
     {
       "album": {
+        "name": "Chapel Sessions Vol. 3",
+        "url": "https://open.spotify.com/album/10VRVYhmTzHDGWcGRciaeH"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        },
+        {
+          "name": "Chase & Co.",
+          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "I Know a Name",
+      "url": "https://open.spotify.com/track/3nbDLLi0LgLcMJn0PsAlTf"
+    },
+    {
+      "album": {
         "name": "I Love Jesus",
         "url": "https://open.spotify.com/album/596PxhjTOrMpb9O9bAZn45"
       },
@@ -4446,6 +4548,24 @@
       "duration_ms": 239335,
       "name": "I See Heaven On Earth",
       "url": "https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab"
+    },
+    {
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/48fGDFesLKfVtTj4zQhc3I"
+      },
+      "artists": [
+        {
+          "name": "Amanda Nolan",
+          "url": "https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261471,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/6nGGAMlrlKGy7U6XWiHVab"
     },
     {
       "album": {
@@ -5266,7 +5386,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 268590,
       "name": "King Of Hearts",
       "url": "https://open.spotify.com/track/53OAAIHd2q0lz5tmtpVndI"
@@ -5350,6 +5470,24 @@
       "duration_ms": 241893,
       "name": "Lead of Love",
       "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
+    },
+    {
+      "album": {
+        "name": "Leaning On",
+        "url": "https://open.spotify.com/album/2Fnh6Ib1QuQYBZ15OspmvP"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259547,
+      "name": "Leaning On",
+      "url": "https://open.spotify.com/track/2FvtyxkhtFou0RZlI7uHwA"
     },
     {
       "album": {
@@ -5516,7 +5654,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 220608,
       "name": "Light Inside You",
       "url": "https://open.spotify.com/track/0fxM1E1J7TtWkIqCFKLhMS"
@@ -6494,7 +6632,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 187653,
       "name": "Never Running Out",
       "url": "https://open.spotify.com/track/21EYrKeGlqNTIZ7FdbnYLb"
@@ -6726,7 +6864,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 210973,
       "name": "Oh Death",
       "url": "https://open.spotify.com/track/1U8KGvV3UNBYomNP7taETr"
@@ -7661,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits (Acoustic)",
+        "url": "https://open.spotify.com/album/2bwstN2RquejYuJvxz8lZK"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216624,
+      "name": "Remind Me Who I Am - Acoustic",
+      "url": "https://open.spotify.com/track/1rvB0BJ6JxbnwlmDPBrDae"
+    },
+    {
+      "album": {
         "name": "Rescue",
         "url": "https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk"
       },
@@ -7824,7 +7980,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 208828,
       "name": "Roses",
       "url": "https://open.spotify.com/track/13j56vvhMv42EYRlG3EJ7x"
@@ -8091,6 +8247,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/74yVQv7tnnKINqKgYtwRdP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5uYR8Fm4aTxx3zmTy7XJnf"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0krZJCkuOSX8IrsFrpF5bc"
       },
@@ -8150,6 +8324,24 @@
       "duration_ms": 181646,
       "name": "Since Jesus",
       "url": "https://open.spotify.com/track/65QRRHctNDru7cMg80Jxd5"
+    },
+    {
+      "album": {
+        "name": "Sing (Like You\u2019ve Already Won)",
+        "url": "https://open.spotify.com/album/3XjjJemUAghjiNv1Dxv9Gw"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230036,
+      "name": "Sing (Like You've Already Won)",
+      "url": "https://open.spotify.com/track/5GlP9pAtAffZZFBfsXqV4T"
     },
     {
       "album": {
@@ -8226,6 +8418,24 @@
       "duration_ms": 226083,
       "name": "Somebody Prayed",
       "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
+    },
+    {
+      "album": {
+        "name": "Somebody Say Amen",
+        "url": "https://open.spotify.com/album/2QnqHgKwK091L1KRLzjHaF"
+      },
+      "artists": [
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180548,
+      "name": "Somebody Say Amen",
+      "url": "https://open.spotify.com/track/2IiEE4036d75hCR3afgQmH"
     },
     {
       "album": {
@@ -8418,7 +8628,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 222408,
       "name": "Stand In Your Love",
       "url": "https://open.spotify.com/track/7kNzdlOYkZo3qqs53eUoin"
@@ -8952,7 +9162,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 228285,
       "name": "That's Who I Praise",
       "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
@@ -9028,7 +9238,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 219692,
       "name": "The Church",
       "url": "https://open.spotify.com/track/6r71GI3mbJzpoUFqbGTOC6"
@@ -9144,7 +9354,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 219216,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/1N0IgXz9ataDdUVgqxXAQo"
@@ -9986,7 +10196,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 226146,
       "name": "Victory",
       "url": "https://open.spotify.com/track/5gmhL3SnmnGVVi0cBVh76Z"
@@ -10094,10 +10304,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 220019,
       "name": "Watch What God Can Do",
       "url": "https://open.spotify.com/track/0082DGHpaawqnVyoOZklqz"
+    },
+    {
+      "album": {
+        "name": "We Praise You",
+        "url": "https://open.spotify.com/album/6USACvw2JPVtJt346aReam"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237758,
+      "name": "We Praise You",
+      "url": "https://open.spotify.com/track/3hV0y1xVtdmVW6XKmuUPyC"
     },
     {
       "album": {
@@ -10142,7 +10370,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 186466,
       "name": "We're Gonna Make It",
       "url": "https://open.spotify.com/track/6L9sPIBo4WOEJE6IPs6bva"
@@ -10294,6 +10522,24 @@
       "duration_ms": 233799,
       "name": "When I Found You",
       "url": "https://open.spotify.com/track/4szrZ5eNjkeoSKdpZ4ju73"
+    },
+    {
+      "album": {
+        "name": "The Waiting Room",
+        "url": "https://open.spotify.com/album/0MMYUxSaY8R6MMVBKy9dwT"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Rosado",
+          "url": "https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "When I Meet Jesus",
+      "url": "https://open.spotify.com/track/7AqYCTyrIRiXs0lgSVbLKy"
     },
     {
       "album": {
@@ -10891,6 +11137,24 @@
     },
     {
       "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/3OGu7hRk9AmV0GvBDXIJZA"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198774,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp"
+    },
+    {
+      "album": {
         "name": "New Creation (Deluxe)",
         "url": "https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI"
       },
@@ -10906,6 +11170,24 @@
       "duration_ms": 176099,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
+    },
+    {
+      "album": {
+        "name": "You Are I Am",
+        "url": "https://open.spotify.com/album/0a5dSDQbcL1vPn821CYcF0"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233910,
+      "name": "You Are I Am",
+      "url": "https://open.spotify.com/track/3AcT5dawDnFalcBILMAwvv"
     },
     {
       "album": {
@@ -11080,6 +11362,24 @@
       "duration_ms": 278256,
       "name": "Your Name - Reimagined",
       "url": "https://open.spotify.com/track/1ZLU9KXEOCZDENc2ZgmziP"
+    },
+    {
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/1KS8wbOx2wWw1ce0VdcMgV"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209372,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/5SobIeMqDzWxrBpQPkx7Tj"
     },
     {
       "album": {

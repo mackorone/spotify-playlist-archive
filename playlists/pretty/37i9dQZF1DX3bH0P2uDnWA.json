@@ -1,13 +1,29 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 384239,
+  "num_followers": 384245,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y5QAAAACSuMQgM+jzdJf6/LFBz8S3",
+  "snapshot_id": "aHCMRgAAAADwtEIoojhJfO4PaMz5gAOY",
   "tracks": [
+    {
+      "added_at": "2025-07-11 04:00:06",
+      "album": {
+        "name": "Stepping out with My Baby",
+        "url": "https://open.spotify.com/album/2ySRME2djXUOGkAo9Pv9Jw"
+      },
+      "artists": [
+        {
+          "name": "Tape Five",
+          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+        }
+      ],
+      "duration_ms": 154418,
+      "name": "Stepping out with My Baby",
+      "url": "https://open.spotify.com/track/1G3WNFjLIYF4hUuJuz2dhc"
+    },
     {
       "added_at": "2025-05-23 04:00:36",
       "album": {
@@ -2211,22 +2227,6 @@
       "duration_ms": 228993,
       "name": "Code Red",
       "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
-    },
-    {
-      "added_at": "2024-11-04 16:02:20",
-      "album": {
-        "name": "Big Blue Swing",
-        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
-      },
-      "artists": [
-        {
-          "name": "Tape Five",
-          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
-        }
-      ],
-      "duration_ms": 227127,
-      "name": "Big Blue Swing",
-      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
     },
     {
       "added_at": "2024-11-04 16:02:20",

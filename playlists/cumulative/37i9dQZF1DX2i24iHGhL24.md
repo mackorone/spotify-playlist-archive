@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-446 songs - 1 day 1 hr 41 min
+448 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Believe](https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm) | 4:12 | 2021-12-17 |  |
 | [Believe](https://open.spotify.com/track/0dq8XHrYcusGvwXmda53v1) | [Beatrich](https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W) | [Believe](https://open.spotify.com/album/4JRsIxxToO1yQAxVcXcrMF) | 3:45 | 2021-12-24 | 2022-10-13 |
 | [Believe](https://open.spotify.com/track/61FD9qllUEjEopoBfngusF) | [Beatrich](https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W) | [Believe](https://open.spotify.com/album/5IgTsKqq63FsI9X8dy5Kx2) | 3:45 | 2022-09-23 | 2022-12-30 |
+| [Bette Davis Eyes](https://open.spotify.com/track/5oUX3qrbsrvmVrmidcbZIR) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Bette Davis Eyes](https://open.spotify.com/album/0rnDWT5koPSq9Mm8C9BEfZ) | 2:52 | 2025-07-11 |  |
 | [Better Now \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Spotify Singles](https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7) | 3:50 | 2021-12-17 |  |
 | [Big Yellow Taxi](https://open.spotify.com/track/1EPM0ttuTgfboT4MclZnQv) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [PALMR](https://open.spotify.com/artist/2Yvsv6cg9Ir9iWDbXfKuG7) | [Big Yellow Taxi](https://open.spotify.com/album/3lVUKvR0ilXpgFCE7atpp7) | 2:52 | 2021-12-17 | 2022-12-30 |
 | [Black Velvet \- Junos 365 Sessions](https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Black Velvet \(Junos 365 Sessions\)](https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41) | 3:38 | 2021-12-17 | 2022-12-30 |
@@ -323,7 +324,7 @@
 | [Rewrite the Stars](https://open.spotify.com/track/6MmBZEU7zbWwPP32XJQPoI) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Rewrite the Stars](https://open.spotify.com/album/1SA55aT60plxlyPRErTCRw) | 2:31 | 2023-12-08 |  |
 | [River](https://open.spotify.com/track/2jqvNMwGblEUNMwTMBhXMV) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [River](https://open.spotify.com/album/4i1B3n7MJsMwGapAjOxvBF) | 3:45 | 2022-03-25 | 2022-04-16 |
 | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN) | 2:23 | 2025-05-27 |  |
-| [RUNNING UP THAT HILL](https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg) | 3:19 | 2023-02-17 |  |
+| [RUNNING UP THAT HILL](https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg) | 3:19 | 2023-02-17 | 2025-07-12 |
 | [RUNNING UP THAT HILL](https://open.spotify.com/track/4NfjZe19Gsnm4pto3oJ8zb) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/3k5d8t2nSAr7saw6yqm5vC) | 3:19 | 2023-10-18 | 2024-04-19 |
 | [Same Drugs](https://open.spotify.com/track/6eYUnN80DcA0KgR4eWnLAL) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Same Drugs](https://open.spotify.com/album/35haKLfTGFWlHuvbRA4q7d) | 4:01 | 2022-03-25 | 2022-04-21 |
 | [Same Drugs](https://open.spotify.com/track/6CTTipcCa8RZX8aY0mttHa) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Same Drugs](https://open.spotify.com/album/5Cm0jOtMleDMQXb2R7p0cI) | 4:24 | 2022-03-25 | 2022-04-16 |
@@ -386,6 +387,7 @@
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2022-03-18 |  |
 | [Thank You](https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Thank You \(SOLOMON VERSION\)](https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz) | 2:18 | 2023-01-12 | 2023-10-17 |
 | [That's Just The Way It Is \(Changes\)](https://open.spotify.com/track/7b2ZGVLH01Cw4MU9LuSGDq) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [That's Just The Way It Is \(Changes\)](https://open.spotify.com/album/1SCIK63b2bCbC5yhcyKmV6) | 2:46 | 2021-12-17 | 2022-05-02 |
+| [That's So True \- Spotify Singles](https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Spotify Singles](https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE) | 2:47 | 2025-07-11 |  |
 | [the 1 \(acoustic\)](https://open.spotify.com/track/2L1rmY3reJAgy0SbGnJWL2) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [the 1 \(acoustic\)](https://open.spotify.com/album/0a4DaF6bmBrrJrMg7rtG5u) | 3:00 | 2021-12-17 | 2022-10-29 |
 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 | 2021-12-17 | 2023-10-17 |
 | [The Middle](https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [The Middle](https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44) | 3:12 | 2023-01-12 | 2023-10-17 |

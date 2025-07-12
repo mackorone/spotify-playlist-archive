@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 46820,
+  "num_followers": 46838,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XWgAAAADJpPDKYCN75s8PlJSubocL",
+  "snapshot_id": "aHCMVAAAAADAIqkeD4CMyHRcmLjTOT51",
   "tracks": [
     {
       "added_at": "2025-06-27 04:00:26",
@@ -39,6 +39,26 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2025-07-11 04:00:19",
+      "album": {
+        "name": "Holy Shuffle (feat. Billy Porter)",
+        "url": "https://open.spotify.com/album/4zfe6wVvotlRowFFsvBjqe"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "Holy Shuffle (feat. Billy Porter)",
+      "url": "https://open.spotify.com/track/4Y6x385r5gUr5Ey57Mp9z6"
     },
     {
       "added_at": "2025-06-20 04:00:33",
@@ -1219,22 +1239,6 @@
       "duration_ms": 224573,
       "name": "Try",
       "url": "https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Stand By You",
-      "url": "https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs"
     },
     {
       "added_at": "2024-10-11 13:41:50",

@@ -15255,6 +15255,24 @@
     },
     {
       "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/58mKKCSrebioH3JkRYKfcq"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/1X9kEJ1M3ZxcGdckUbb47w"
+    },
+    {
+      "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
       },
@@ -24757,6 +24775,28 @@
     },
     {
       "album": {
+        "name": "Midnight in Balans - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1EMBKcKnhb6pEzcBYVf44h"
+      },
+      "artists": [
+        {
+          "name": "Bashy",
+          "url": "https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215201,
+      "name": "Midnight in Balans - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3CmWD1uaT9mi4bzyaU06yF"
+    },
+    {
+      "album": {
         "name": "Drop 6",
         "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
       },
@@ -33022,7 +33062,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 205813,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/6AfCumk0TY0uV1pyFbsDIR"

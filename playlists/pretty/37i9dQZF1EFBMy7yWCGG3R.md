@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,160 likes - 256 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,163 likes - 256 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 255 | [Call Me When You Break Up](https://open.spotify.com/track/10wKwz06sCCymdiH8kRhlr) | [Mia Love](https://open.spotify.com/artist/2DK7rIPTasJI0R2oRQdk28) | [Call Me When You Break Up](https://open.spotify.com/album/7d50j9y7Yo4GIU0HRyfxNu) | 2:07 |
 | 256 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `Ab2bvgAAAACwgU9jWos29mm7DgHmk/1V`
+Snapshot ID: `Ab2hVAAAAADW0GUhVBQpweLOFfsglN4O`

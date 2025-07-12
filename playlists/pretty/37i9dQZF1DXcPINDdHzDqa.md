@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPINDdHzDqa.md) - [plain]
 
 > Los grandes éxitos de Prince Royce y Romeo Santos en un mismo lugar\. Can't choose between the two? Listen to both!
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,153 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,338 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

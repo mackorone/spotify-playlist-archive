@@ -1,32 +1,44 @@
 {
-  "description": "Soul to brighten up your day. Cover: Jane Handcock",
-  "num_followers": 102391,
+  "description": "Soul to brighten up your day. Cover: Kokoroko",
+  "num_followers": 102451,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XbgAAAAB3tgePLN8G5xucj9QRQaty",
+  "snapshot_id": "aHCyswAAAABmfdDvOw7LehaPXxBcIb+M",
   "tracks": [
     {
-      "added_at": "2025-06-27 04:00:46",
+      "added_at": "2025-07-11 06:44:02",
       "album": {
-        "name": "Stare at Me",
-        "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
+        "name": "Tuff Times Never Last",
+        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 228385,
+      "name": "Da Du Dah",
+      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
+    },
+    {
+      "added_at": "2025-07-11 06:44:02",
+      "album": {
+        "name": "It's Me, Not You",
+        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
       },
       "artists": [
         {
           "name": "JANE HANDCOCK",
           "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 235658,
-      "name": "Stare at Me",
-      "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
+      "duration_ms": 282444,
+      "name": "Same Ol\u2019 Love",
+      "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -47,6 +59,26 @@
       "duration_ms": 182143,
       "name": "Thursday Disco",
       "url": "https://open.spotify.com/track/4E2gR7kaQpiCp4GqAr04Z8"
+    },
+    {
+      "added_at": "2025-07-11 06:44:02",
+      "album": {
+        "name": "Make It Hot (feat. Eryn Allen Kane) [from \"The Pickup\"]",
+        "url": "https://open.spotify.com/album/7bTreLtLjeZyMt1gePo4y4"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Make It Hot (feat. Eryn Allen Kane) - from \"The Pickup\"",
+      "url": "https://open.spotify.com/track/6xbbXuX8196SAinbEZ3ESn"
     },
     {
       "added_at": "2025-06-20 04:00:56",
@@ -137,20 +169,20 @@
       "url": "https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip"
     },
     {
-      "added_at": "2025-06-14 14:56:22",
+      "added_at": "2025-07-11 06:44:02",
       "album": {
-        "name": "Work it Out",
-        "url": "https://open.spotify.com/album/46XVvIZNMuXdfaFvuC9GGH"
+        "name": "It's Me, Not You",
+        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
       },
       "artists": [
         {
-          "name": "Elijah Blake",
-          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
         }
       ],
-      "duration_ms": 179438,
-      "name": "Work it Out",
-      "url": "https://open.spotify.com/track/0prfGgEUQBSdeZCuhaOswM"
+      "duration_ms": 98106,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3N0rr1gykVtY9q43UnQfj6"
     },
     {
       "added_at": "2025-02-21 07:15:25",
@@ -169,20 +201,20 @@
       "url": "https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q"
     },
     {
-      "added_at": "2025-04-21 15:39:41",
+      "added_at": "2025-06-14 14:56:22",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
+        "name": "Work it Out",
+        "url": "https://open.spotify.com/album/46XVvIZNMuXdfaFvuC9GGH"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Elijah Blake",
+          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
         }
       ],
-      "duration_ms": 196723,
-      "name": "K.T.Y.W.S.",
-      "url": "https://open.spotify.com/track/1u3g9logKPJbG92rtABCR1"
+      "duration_ms": 179438,
+      "name": "Work it Out",
+      "url": "https://open.spotify.com/track/0prfGgEUQBSdeZCuhaOswM"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -201,22 +233,6 @@
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
-      "added_at": "2024-09-13 09:26:37",
-      "album": {
-        "name": "Let's Go Back",
-        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 169651,
-      "name": "Let's Go Back",
-      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
-    },
-    {
       "added_at": "2025-05-16 15:23:54",
       "album": {
         "name": "Lil' Obsession",
@@ -233,20 +249,36 @@
       "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
     },
     {
-      "added_at": "2025-04-05 18:32:05",
+      "added_at": "2025-05-16 15:23:54",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+        "name": "RATHER BE",
+        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+      "duration_ms": 171873,
+      "name": "RATHER BE",
+      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
+    },
+    {
+      "added_at": "2024-09-13 09:26:37",
+      "album": {
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 169651,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -263,6 +295,22 @@
       "duration_ms": 263845,
       "name": "Love In The Middle - Live",
       "url": "https://open.spotify.com/track/1gzmQd8rqhwGIUfKHIy8VZ"
+    },
+    {
+      "added_at": "2025-04-21 15:39:41",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2025-02-21 07:15:25",
@@ -283,8 +331,8 @@
     {
       "added_at": "2025-04-05 18:32:05",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
       "artists": [
         {
@@ -292,25 +340,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 226118,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
-    },
-    {
-      "added_at": "2025-06-20 04:00:56",
-      "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH"
-      },
-      "artists": [
-        {
-          "name": "JONES",
-          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "In The Moment",
-      "url": "https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY"
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2025-04-25 07:26:24",
@@ -329,38 +361,6 @@
       "url": "https://open.spotify.com/track/2YkphfHUaCLKAltzRqBtsS"
     },
     {
-      "added_at": "2025-04-21 15:39:41",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
-    },
-    {
-      "added_at": "2025-05-16 15:23:54",
-      "album": {
-        "name": "RATHER BE",
-        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171873,
-      "name": "RATHER BE",
-      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Mahogany Soul",
@@ -377,20 +377,20 @@
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
-      "added_at": "2025-02-21 07:15:25",
+      "added_at": "2025-04-05 18:32:05",
       "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
       },
       "artists": [
         {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 323249,
-      "name": "BLAST!",
-      "url": "https://open.spotify.com/track/7xx3527Fl3pHphCZ74aK5e"
+      "duration_ms": 226118,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -407,6 +407,38 @@
       "duration_ms": 345975,
       "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
+    },
+    {
+      "added_at": "2025-06-20 04:00:56",
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/6QvdMd39Vywf87kHx03xgX"
     },
     {
       "added_at": "2025-01-24 09:08:15",
@@ -441,6 +473,22 @@
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
+      "added_at": "2025-04-21 15:39:41",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
       "added_at": "2025-01-24 09:08:15",
       "album": {
         "name": "Live For You - A COLORS SHOW",
@@ -461,36 +509,36 @@
       "url": "https://open.spotify.com/track/7whZdZMFCIe4d790dDjqnS"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
+      "added_at": "2025-05-16 15:23:54",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+        "name": "Southern Soul",
+        "url": "https://open.spotify.com/album/5MVebc75SBfscLBim87bhR"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
         }
       ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/6QvdMd39Vywf87kHx03xgX"
+      "duration_ms": 129310,
+      "name": "Girl Of Mine",
+      "url": "https://open.spotify.com/track/3QMkTG4GIY8xuKiV6XIzWN"
     },
     {
-      "added_at": "2025-04-21 15:39:41",
+      "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+      "duration_ms": 246773,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
     },
     {
       "added_at": "2025-04-21 15:39:41",
@@ -525,22 +573,6 @@
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
-    },
-    {
       "added_at": "2025-03-07 06:27:51",
       "album": {
         "name": "The Hash Brown Demos",
@@ -573,20 +605,40 @@
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
-      "added_at": "2025-04-21 15:39:41",
+      "added_at": "2025-03-07 06:27:51",
       "album": {
-        "name": "Sweetie",
-        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
         }
       ],
-      "duration_ms": 244049,
-      "name": "Sweetie",
-      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
+      "duration_ms": 186279,
+      "name": "Another Man's Life",
+      "url": "https://open.spotify.com/track/06iGEMC0OkfUJyQ4g9Cprs"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "Stare at Me",
+        "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 235658,
+      "name": "Stare at Me",
+      "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
     },
     {
       "added_at": "2025-04-25 07:26:24",
@@ -609,20 +661,20 @@
       "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
     },
     {
-      "added_at": "2025-03-07 06:27:51",
+      "added_at": "2025-04-21 15:39:41",
       "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+        "name": "Sweetie",
+        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
       },
       "artists": [
         {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 186279,
-      "name": "Another Man's Life",
-      "url": "https://open.spotify.com/track/06iGEMC0OkfUJyQ4g9Cprs"
+      "duration_ms": 244049,
+      "name": "Sweetie",
+      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -657,22 +709,6 @@
       "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
     },
     {
-      "added_at": "2025-05-16 15:23:54",
-      "album": {
-        "name": "Southern Soul",
-        "url": "https://open.spotify.com/album/5MVebc75SBfscLBim87bhR"
-      },
-      "artists": [
-        {
-          "name": "TA Thomas",
-          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
-        }
-      ],
-      "duration_ms": 129310,
-      "name": "Girl Of Mine",
-      "url": "https://open.spotify.com/track/3QMkTG4GIY8xuKiV6XIzWN"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Gossip in the Grain",
@@ -700,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 196814,
-      "name": "Son Shine",
-      "url": "https://open.spotify.com/track/2Ohu1ERZnAuaCzi7N5ngRK"
+      "duration_ms": 305829,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -767,6 +803,22 @@
       "duration_ms": 194826,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
+    },
+    {
+      "added_at": "2025-04-21 15:39:41",
+      "album": {
+        "name": "Untitled (Rise)",
+        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 196814,
+      "name": "Son Shine",
+      "url": "https://open.spotify.com/track/2Ohu1ERZnAuaCzi7N5ngRK"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -873,22 +925,6 @@
       "url": "https://open.spotify.com/track/78fJOZkbhtIdFvIvvO8Mu0"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Live For You",
-        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
-    },
-    {
       "added_at": "2025-04-21 15:39:41",
       "album": {
         "name": "Three Piece Suit (feat. Azekel)",
@@ -907,6 +943,22 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+    },
+    {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
       "added_at": "2025-05-16 15:23:54",
@@ -1003,6 +1055,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 415742,
+      "name": "...Til the Cops Come Knockin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -1019,22 +1087,6 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 415742,
-      "name": "...Til the Cops Come Knockin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1067,6 +1119,26 @@
       "duration_ms": 194333,
       "name": "I Got Sunshine",
       "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 236546,
+      "name": "Stay Together",
+      "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
     },
     {
       "added_at": "2025-01-24 09:08:15",
@@ -1103,26 +1175,6 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Pieces Of Me",
-        "url": "https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "Stay Together",
-      "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
     },
     {
       "added_at": "2025-03-07 06:27:51",
@@ -1205,22 +1257,6 @@
       "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
     },
     {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
-        "name": "You're Gonna Win",
-        "url": "https://open.spotify.com/album/5rw7HWiDUbhtItRD1aNOdP"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 295092,
-      "name": "You're Gonna Win",
-      "url": "https://open.spotify.com/track/3r58Tf6QrGtIPNTHMhk2Dd"
-    },
-    {
       "added_at": "2025-03-07 06:27:51",
       "album": {
         "name": "Entries",
@@ -1235,38 +1271,6 @@
       "duration_ms": 177573,
       "name": "Out My Hair",
       "url": "https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva"
-    },
-    {
-      "added_at": "2025-06-14 14:56:22",
-      "album": {
-        "name": "Kill Switch",
-        "url": "https://open.spotify.com/album/2jESbKIGLtz7rRO38a9SFi"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        }
-      ],
-      "duration_ms": 184259,
-      "name": "Kill Switch",
-      "url": "https://open.spotify.com/track/1uLxsQ0X6utcJEV5qE5w88"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Cornbread, Fish & Collard Greens",
-      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     }
   ],
   "unique_name": "Soulful Day",

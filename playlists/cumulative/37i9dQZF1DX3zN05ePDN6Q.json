@@ -4911,6 +4911,32 @@
     },
     {
       "album": {
+        "name": "Par\u00e1bola das Ruas",
+        "url": "https://open.spotify.com/album/2NrAiTklwYqC5p2qU48pML"
+      },
+      "artists": [
+        {
+          "name": "GTA",
+          "url": "https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75180,
+      "name": "ERA UMA VEZ",
+      "url": "https://open.spotify.com/track/130uohxjGoGw425jYFK8tW"
+    },
+    {
+      "album": {
         "name": "Escola da Vida",
         "url": "https://open.spotify.com/album/4RwjsNrTHlsj2ixEhtjIPY"
       },
@@ -8886,7 +8912,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 252857,
       "name": "M\u00e1 Fase",
       "url": "https://open.spotify.com/track/4Y7WXxhgHDNctcO9MzA2e7"

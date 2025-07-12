@@ -1,6 +1,6 @@
 {
   "description": "Discover the multifaceted creativity of the Black queer community. Cover: The Arti$t",
-  "num_followers": 80223,
+  "num_followers": 80232,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
@@ -829,6 +829,26 @@
       "url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
     },
     {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "Dirty Computer",
@@ -867,26 +887,6 @@
       "duration_ms": 144324,
       "name": "P.B.S.",
       "url": "https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d"
-    },
-    {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-05-07 20:24:43",
       "album": {
+        "name": "Look What You've Done",
+        "url": "https://open.spotify.com/album/6l7W1g0ELm06veGU9g4Ps7"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 144589,
+      "name": "Proper",
+      "url": "https://open.spotify.com/track/2YiRMyG1lDI6UCbztq44Gi"
+    },
+    {
+      "added_at": "2025-05-07 20:24:43",
+      "album": {
         "name": "Mirror (feat. Jessy Lanza & Yaeji)",
         "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 168500,
       "name": "Mirror (feat. Jessy Lanza & Yaeji)",
       "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
-    },
-    {
-      "added_at": "2025-05-07 20:24:43",
-      "album": {
-        "name": "Look What You've Done",
-        "url": "https://open.spotify.com/album/6l7W1g0ELm06veGU9g4Ps7"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 144589,
-      "name": "Proper",
-      "url": "https://open.spotify.com/track/2YiRMyG1lDI6UCbztq44Gi"
     },
     {
       "added_at": "2023-05-25 04:09:32",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/4TdNha99Qw51SxsKjTa4nU"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "ARIZONA BABY",
-        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 216070,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a"
-    },
-    {
       "added_at": "2025-05-07 20:24:43",
       "album": {
         "name": "Forget U",
@@ -1183,6 +1167,22 @@
       "duration_ms": 153600,
       "name": "Forget U",
       "url": "https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5"
+    },
+    {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 216070,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a"
     },
     {
       "added_at": "2023-10-05 17:45:18",

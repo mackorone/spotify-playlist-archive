@@ -1,29 +1,13 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 18700,
+  "num_followers": 18714,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR0gAAAAAvHSspBslMds9TkcoT0cdm",
+  "snapshot_id": "aHCMRwAAAADvNrfEizmilLNUAkdhypwa",
   "tracks": [
-    {
-      "added_at": "2025-07-04 04:00:18",
-      "album": {
-        "name": "Upon Arrival",
-        "url": "https://open.spotify.com/album/0i4qVBoh5czpvFAzezcrFU"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 204832,
-      "name": "Upon Arrival",
-      "url": "https://open.spotify.com/track/5AqO5MfeOGIgjnjgUaiSOt"
-    },
     {
       "added_at": "2025-07-04 04:00:18",
       "album": {
@@ -39,6 +23,42 @@
       "duration_ms": 195000,
       "name": "2019",
       "url": "https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh"
+    },
+    {
+      "added_at": "2025-07-11 04:00:07",
+      "album": {
+        "name": "Forget You (Feat. Shirsha)",
+        "url": "https://open.spotify.com/album/1xly1xL1enLrEfsm7Tf6GX"
+      },
+      "artists": [
+        {
+          "name": "Sean Bertram",
+          "url": "https://open.spotify.com/artist/6l8QxpDCZkxVOUsrASqEWM"
+        },
+        {
+          "name": "Shirsha",
+          "url": "https://open.spotify.com/artist/77kAKRKSDOVjmSE5VwXUPH"
+        }
+      ],
+      "duration_ms": 211284,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/5bA0aMV01KfFnjvkB74SQQ"
+    },
+    {
+      "added_at": "2025-07-04 04:00:18",
+      "album": {
+        "name": "Upon Arrival",
+        "url": "https://open.spotify.com/album/0i4qVBoh5czpvFAzezcrFU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 204832,
+      "name": "Upon Arrival",
+      "url": "https://open.spotify.com/track/5AqO5MfeOGIgjnjgUaiSOt"
     },
     {
       "added_at": "2025-05-30 04:00:21",
@@ -775,22 +795,6 @@
       "duration_ms": 242787,
       "name": "Shorebreak (From Now On)",
       "url": "https://open.spotify.com/track/2TuHrjiUrpAOGde9vZyT52"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Slide Don't Make a Cruise",
-        "url": "https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP"
-      },
-      "artists": [
-        {
-          "name": "Jet Vesper",
-          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
-        }
-      ],
-      "duration_ms": 148345,
-      "name": "Slide Don't Make a Cruise",
-      "url": "https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72"
     },
     {
       "added_at": "2023-09-01 04:00:00",

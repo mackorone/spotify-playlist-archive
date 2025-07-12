@@ -2,9 +2,9 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Veigh e os maiores hits do país\. O que tá bombando tá aqui.
+> Felipe Amorim, Vitão, BIN e os maiores hits do país\. O que tá bombando tá aqui.
 
-608 songs - 1 day 6 hr 25 min
+609 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Oi Vida \- Ao Vivo](https://open.spotify.com/track/4lL0M9HzNFspnIwj2WfU6c) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Oi Vida \(Ao Vivo\)](https://open.spotify.com/album/7lxRjlrkKb1dn5kgtAY09M) | 2:12 | 2023-08-10 | 2023-12-01 |
 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 | 2022-02-24 | 2022-05-20 |
 | [Olha Onde Eu Tô](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:01 | 2025-06-06 |  |
-| [Olha pra Cara de Quem Te...](https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Olha pra Cara de Quem Te...](https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41) | 2:00 | 2025-03-21 |  |
+| [Olha pra Cara de Quem Te...](https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Olha pra Cara de Quem Te...](https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41) | 2:00 | 2025-03-21 | 2025-07-12 |
 | [Opa Cadê Eu \- Ao Vivo](https://open.spotify.com/track/3R8dmcSyROSR73XsdeSd7g) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo em Brasília \(Vol.2\)](https://open.spotify.com/album/0kVr8PFSSxtjM4AxdY0WFV) | 2:34 | 2025-04-04 |  |
 | [Os Bico Tão Se Perguntando \(Let’s Go 3\)](https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Os Bico Tão Se Perguntando \(Let’s Go 3\)](https://open.spotify.com/album/7bdWZHUJyzQAzV0qbBrZ4J) | 2:57 | 2023-04-20 | 2023-06-02 |
 | [Os Menino da Nova](https://open.spotify.com/track/1okn8NTTHVQuP4hghJi2Ec) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Os Menino da Nova](https://open.spotify.com/album/60YBXfUxCUhklWqyPULaY0) | 2:17 | 2024-09-05 | 2024-09-20 |
@@ -503,6 +503,7 @@
 | [Se Essa Bunda For Uma Empresa](https://open.spotify.com/track/3CvpnVAV75lKCcaTtUTpgW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Se Essa Bunda For Uma Empresa](https://open.spotify.com/album/5RnXjWZ6rCEjxtuXUgvfOa) | 2:42 | 2025-03-21 | 2025-06-14 |
 | [Sei Que Tu Me Odeia](https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:40 | 2025-01-31 | 2025-06-14 |
 | [Sei Tocar Violão \- Ao Vivo](https://open.spotify.com/track/2KdyhL41F9solmRiyLQ3yl) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP3\)](https://open.spotify.com/album/6pSEJeeQ50tN0zfSx8sXrg) | 2:44 | 2024-10-24 | 2025-03-14 |
+| [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 | 2025-07-11 |  |
 | [Sem Aliança no Dedo](https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO) | [MC Xenon](https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs) | [Sem Aliança no Dedo](https://open.spotify.com/album/1jrzYloHK7zn8n66qulEjn) | 2:00 | 2023-02-17 | 2023-05-19 |
 | [Sem Dó](https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Sem Dó](https://open.spotify.com/album/3sQwZ1Bu0Qhzn2XeJwQW9E) | 4:27 | 2022-01-17 | 2022-03-04 |
 | [Sem Sentimento](https://open.spotify.com/track/4XiFqfUXyTwOChvMLKKi0T) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Sem Sentimento](https://open.spotify.com/album/6Eo6ocCnlyJ6E5MwVi61ND) | 2:11 | 2022-01-17 | 2022-02-04 |

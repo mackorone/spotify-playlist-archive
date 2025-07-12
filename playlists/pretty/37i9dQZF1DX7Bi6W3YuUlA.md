@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: Miles Minnick and Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,298 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,343 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 61 | [In the Dark](https://open.spotify.com/track/2N2evyRAcyycER6sTD11q6) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD), [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [In the Dark](https://open.spotify.com/album/6sFXGdULpofckvX4rZ6IcU) | 2:15 |
 | 62 | [Throne](https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [Throne](https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ) | 2:42 |
 | 63 | [Blessings from You](https://open.spotify.com/track/6nSwLd1Bfw7P2U0wKa8skc) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Blessings from You](https://open.spotify.com/album/33zun5PDGGOUHjtJ6lD11c) | 3:26 |
-| 64 | [POSSIBLE](https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs) | [KATALAYI](https://open.spotify.com/artist/2LxNotaSxtfn4X78ksdvc6) | [POSSIBLE](https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0) | 3:07 |
+| 64 | [POSSIBLE](https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs) | [Katalayi](https://open.spotify.com/artist/7deGMusaCfCPX9KOF9F5YV) | [POSSIBLE](https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0) | 3:07 |
 | 65 | [Never Scared](https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt) | 3:16 |
 | 66 | [CLEAR SKIES](https://open.spotify.com/track/4MIpHdVgSMCngmwUmSgW1q) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Bigg J Bless](https://open.spotify.com/artist/3rgL08vwzgLID396Gv2Ydk) | [CLEAR SKIES](https://open.spotify.com/album/6TyAJnWKr8kMBZo9L9EWy7) | 2:06 |
 | 67 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |

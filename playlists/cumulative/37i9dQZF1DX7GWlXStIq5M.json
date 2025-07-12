@@ -8681,6 +8681,36 @@
     },
     {
       "album": {
+        "name": "I Love You (feat. Micael)",
+        "url": "https://open.spotify.com/album/1CPMBJSG62LxSHFJwCMFKA"
+      },
+      "artists": [
+        {
+          "name": "Kysha e Mine",
+          "url": "https://open.spotify.com/artist/7rYnbZAF39lmH90aJV3bXw"
+        },
+        {
+          "name": "Argentino",
+          "url": "https://open.spotify.com/artist/6J0NbDaGJpsftTp4hbnGkj"
+        },
+        {
+          "name": "Jin Min",
+          "url": "https://open.spotify.com/artist/5sbARh6kj0xXGrDG8DBjPc"
+        },
+        {
+          "name": "Micael",
+          "url": "https://open.spotify.com/artist/6GebSQv9yjXJND5hHIaQfY"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130981,
+      "name": "I Love You (feat. Micael)",
+      "url": "https://open.spotify.com/track/188z68lCGkuA59rYjzQAEj"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
         "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
       },
@@ -11572,7 +11602,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"

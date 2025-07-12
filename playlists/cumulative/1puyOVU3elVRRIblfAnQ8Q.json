@@ -3017,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "Pelican",
+        "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Pelican",
+      "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
+    },
+    {
+      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/0kRZhS82llRFhFYRP7fzxs"
       },

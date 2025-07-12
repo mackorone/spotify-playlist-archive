@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ekka",
-  "num_followers": 63549,
+  "num_followers": 63569,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG4vfAAAAAA4aj0g8pg22QhZvJ2nv8+Z",
+  "snapshot_id": "aHD3nwAAAABf/md7nIS/gaP1KqnpsTCI",
   "tracks": [
     {
       "added_at": "2025-06-09 12:18:40",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/1VRKawwrmQgH3Pc9xKvJ2b"
     },
     {
+      "added_at": "2025-07-11 11:35:38",
+      "album": {
+        "name": "Abbabbabba (From \"Love Matteru\")",
+        "url": "https://open.spotify.com/album/2HDaVcYu0e7jTvldW3wlVG"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "duration_ms": 238864,
+      "name": "Abbabbabba - From \"Love Matteru\"",
+      "url": "https://open.spotify.com/track/2YeK8AOFztFcfpCdMUnwFR"
+    },
+    {
       "added_at": "2025-07-08 13:46:19",
       "album": {
         "name": "Nee Nanna (From \"Nidradevi Next Door\")",
@@ -85,6 +101,34 @@
       "url": "https://open.spotify.com/track/6uSbmEEL7Ra5PimuaWI7fU"
     },
     {
+      "added_at": "2025-07-11 11:36:43",
+      "album": {
+        "name": "Yaavurig Hokkiye Hudugi (From \"Seetha Payanam\") (Kannada)",
+        "url": "https://open.spotify.com/album/6pVUs501dCiApouoVvKsAW"
+      },
+      "artists": [
+        {
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        },
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Shruthi Prahlada",
+          "url": "https://open.spotify.com/artist/1KW5uuc8ZpuVbpnAnopYpi"
+        },
+        {
+          "name": "Bharatha Janani",
+          "url": "https://open.spotify.com/artist/1UqKke6O890osGMU9u8pPJ"
+        }
+      ],
+      "duration_ms": 255789,
+      "name": "Yaavurig Hokkiye Hudugi (From \"Seetha Payanam\") (Kannada)",
+      "url": "https://open.spotify.com/track/5YtQbiETTLIHiRRZ2avguf"
+    },
+    {
       "added_at": "2025-06-29 13:39:27",
       "album": {
         "name": "Vidyapati (Original Motion Picture Soundtrack)",
@@ -107,6 +151,42 @@
       "duration_ms": 253440,
       "name": "Ayyo Vidhiye (From \"Vidyapati\")",
       "url": "https://open.spotify.com/track/3wzJLHsdYJVhZdKMLjZW8c"
+    },
+    {
+      "added_at": "2025-07-11 11:38:07",
+      "album": {
+        "name": "Yaarivanu Yaarivanu ( From \"Hari Hara Veera Mallu\") [Kannada]",
+        "url": "https://open.spotify.com/album/1AzN8x1guAScuNcRCNRUvn"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Hymath Mohammed",
+          "url": "https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV"
+        },
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 95083,
+      "name": "Yaarivanu Yaarivanu ( From \"Hari Hara Veera Mallu\") [Kannada]",
+      "url": "https://open.spotify.com/track/5dS0gtplaOQXt5tH6Nti13"
     },
     {
       "added_at": "2025-07-09 08:56:34",
@@ -1093,38 +1173,6 @@
       "url": "https://open.spotify.com/track/5NafTv0QZjZhcnf5GUNGhr"
     },
     {
-      "added_at": "2025-05-05 09:46:27",
-      "album": {
-        "name": "Muevelo (From \"Kadhalikka Neramillai\") [KANNADA]",
-        "url": "https://open.spotify.com/album/6svD8a0rHVv9SiuIGvNdx5"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "A. R. Ameen",
-          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
-        },
-        {
-          "name": "Suba",
-          "url": "https://open.spotify.com/artist/3QZfQ7Y4Ryh67pzgApuE0g"
-        },
-        {
-          "name": "Pavan Bhat",
-          "url": "https://open.spotify.com/artist/5LrMAdiDw5Z1vv0J8Ik42T"
-        },
-        {
-          "name": "Thoughtsfornow",
-          "url": "https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG"
-        }
-      ],
-      "duration_ms": 151064,
-      "name": "Muevelo (From \"Kadhalikka Neramillai\") [KANNADA]",
-      "url": "https://open.spotify.com/track/0GjjzMEWb6nKbumMwI97ca"
-    },
-    {
       "added_at": "2025-04-21 10:39:31",
       "album": {
         "name": "Hogi Baa Geleya (From \"Kuberaa\")(Kannada)",
@@ -1203,54 +1251,6 @@
       "duration_ms": 165697,
       "name": "Empuraane (From \"L2: Empuraan\") - Kannada Version",
       "url": "https://open.spotify.com/track/12Kjz60UjloftKASBO8Mfv"
-    },
-    {
-      "added_at": "2025-05-05 09:46:27",
-      "album": {
-        "name": "Lavender Kaalave (From \"Kadhalikka Neramillai\")",
-        "url": "https://open.spotify.com/album/7h1TEobdhKktvkl81xiAPT"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Alexandra Joy",
-          "url": "https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79"
-        },
-        {
-          "name": "Pavan Bhat",
-          "url": "https://open.spotify.com/artist/5LrMAdiDw5Z1vv0J8Ik42T"
-        }
-      ],
-      "duration_ms": 162121,
-      "name": "Lavender Kaalave (From \"Kadhalikka Neramillai\")",
-      "url": "https://open.spotify.com/track/6Y3qAecIx3zliqjXUsVQiu"
-    },
-    {
-      "added_at": "2025-04-23 06:27:30",
-      "album": {
-        "name": "Abki Baar Arjun Sarkaar (From \"Hit - 3\") (Kannada)",
-        "url": "https://open.spotify.com/album/5EpC6SrPsGfezg9isELiFY"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        }
-      ],
-      "duration_ms": 246501,
-      "name": "Abki Baar Arjun Sarkaar (From \"Hit - 3\") (Kannada)",
-      "url": "https://open.spotify.com/track/4BOUuep7Ti8rETAQk745hu"
     }
   ],
   "unique_name": "Latest Kannada",

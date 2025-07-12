@@ -1,6 +1,6 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 112132,
+  "num_followers": 112138,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Time Brings Change EP",
-        "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
-      },
-      "artists": [
-        {
-          "name": "C4C",
-          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "blue bird",
         "url": "https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 134703,
       "name": "blue bird",
       "url": "https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Time Brings Change EP",
+        "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -195,38 +195,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Stellar Journey",
-        "url": "https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hall",
-          "url": "https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu"
-        }
-      ],
-      "duration_ms": 187164,
-      "name": "Stellar Journey",
-      "url": "https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Starfew Alley",
-        "url": "https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V"
-      },
-      "artists": [
-        {
-          "name": "JoJo Mojo",
-          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
-        }
-      ],
-      "duration_ms": 129423,
-      "name": "Starfew Alley",
-      "url": "https://open.spotify.com/track/4j647icCpXJcRES7szthoM"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "On The Ropes",
         "url": "https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN"
       },
@@ -243,6 +211,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Stellar Journey",
+        "url": "https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hall",
+          "url": "https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu"
+        }
+      ],
+      "duration_ms": 187164,
+      "name": "Stellar Journey",
+      "url": "https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Rocking Chair",
         "url": "https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 140800,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Starfew Alley",
+        "url": "https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "duration_ms": 129423,
+      "name": "Starfew Alley",
+      "url": "https://open.spotify.com/track/4j647icCpXJcRES7szthoM"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Soul Charger",
-        "url": "https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv"
-      },
-      "artists": [
-        {
-          "name": "Lo Aesthetic",
-          "url": "https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU"
-        },
-        {
-          "name": "Nick's chill factory",
-          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
-        }
-      ],
-      "duration_ms": 140029,
-      "name": "Soul Charger",
-      "url": "https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Bodega",
         "url": "https://open.spotify.com/album/45vk5hApZ4h6nATFQvfoSI"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 105000,
       "name": "Bodega",
       "url": "https://open.spotify.com/track/0QROEXzx4Rkk5vupV1cCg0"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Soul Charger",
+        "url": "https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv"
+      },
+      "artists": [
+        {
+          "name": "Lo Aesthetic",
+          "url": "https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "duration_ms": 140029,
+      "name": "Soul Charger",
+      "url": "https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Kamada",
-        "url": "https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh"
-      },
-      "artists": [
-        {
-          "name": "Butterscotch",
-          "url": "https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD"
-        }
-      ],
-      "duration_ms": 114392,
-      "name": "Kamada",
-      "url": "https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Imaginary",
         "url": "https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA"
       },
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "poppy",
-        "url": "https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 153291,
-      "name": "poppy",
-      "url": "https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "End Of Day Bop",
         "url": "https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2"
       },
@@ -1167,6 +1135,38 @@
       "duration_ms": 160000,
       "name": "End Of Day Bop",
       "url": "https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Kamada",
+        "url": "https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh"
+      },
+      "artists": [
+        {
+          "name": "Butterscotch",
+          "url": "https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD"
+        }
+      ],
+      "duration_ms": 114392,
+      "name": "Kamada",
+      "url": "https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "poppy",
+        "url": "https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 153291,
+      "name": "poppy",
+      "url": "https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Spotify Singles (Recorded at Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu"
+        "name": "Cerveza",
+        "url": "https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel"
       },
       "artists": [
         {
-          "name": "Sam Barsh",
-          "url": "https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER"
-        },
-        {
-          "name": "The Deli",
-          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
         }
       ],
-      "duration_ms": 115856,
-      "name": "Constellations - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4UVPZVegkvVUEytaViWdym"
+      "duration_ms": 179250,
+      "name": "Cerveza",
+      "url": "https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6"
     }
   ],
   "unique_name": "Sunset Chill",

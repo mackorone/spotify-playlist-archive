@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4?si=TmKqmj82Q8\-Y0haMjzfZjw">Fade Evare</a>
 
-1,294 songs - 3 day 1 hr 55 min
+1,295 songs - 3 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 | 2023-10-12 | 2023-12-22 |
 | [A Scene from Some Old Poem](https://open.spotify.com/track/6i6L08iGEYcUBvF32n4hQf) | [Daniel Gadd](https://open.spotify.com/artist/7yjQG2WkOptNRfNKcZUUOJ) | [A Scene from Some Old Poem](https://open.spotify.com/album/5pzNFoJ5N9F5ygVheE9ykL) | 2:39 | 2023-08-11 | 2023-11-10 |
 | [A Stone in the Mouth of the Ocean](https://open.spotify.com/track/4wO4ACUZ6O4kyRUXzkslvW) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V), [Last Year's Man](https://open.spotify.com/artist/56XJ4jcK8kaqy6jbJbGs2M) | [A Stone in the Mouth of the Ocean](https://open.spotify.com/album/3XR4d44NxvJvu8QBDUslsG) | 3:32 | 2023-08-04 | 2023-11-10 |
+| [A Strange Pairing](https://open.spotify.com/track/0bEDqhAL5uvNrgf5iQ6m6H) | [DANNII](https://open.spotify.com/artist/1liL6dIM5JNQfo1l4xQPF5) | [Words Left Unsaid](https://open.spotify.com/album/7t4irKfXHpqbtOqxBsCB4W) | 2:10 | 2025-07-10 |  |
 | [A Thousand Years](https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [A Thousand Years](https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv) | 3:32 | 2024-10-10 | 2025-01-17 |
 | [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 | 2024-10-10 | 2025-01-17 |
 | [Above Water](https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Above Water](https://open.spotify.com/album/11XACNsDwFVgxVQkiKhvdT) | 2:20 | 2023-01-19 | 2023-04-15 |

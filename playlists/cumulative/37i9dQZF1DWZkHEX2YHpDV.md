@@ -2,9 +2,9 @@
 
 ### [The Scene](https://open.spotify.com/playlist/37i9dQZF1DWZkHEX2YHpDV)
 
-> pop punk, alt, emo, post\-hardcore & more\. Cover: Mayday Parade
+> pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,387 songs - 3 day 1 hr 15 min
+1,389 songs - 3 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Angry Cry](https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Angry Cry](https://open.spotify.com/album/0Pm7zqgIXzwlBzvT8Px466) | 2:55 | 2024-11-08 | 2025-02-01 |
 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 | 2023-07-14 | 2024-01-01 |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2024-01-19 | 2024-12-07 |
-| [Antidote](https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 3:11 | 2023-10-27 |  |
+| [Antidote](https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 3:11 | 2023-10-27 | 2025-07-12 |
 | [Antidote](https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [The Witching Hour](https://open.spotify.com/album/28izFr04hNwIUy1XQNwKqE) | 3:11 | 2023-10-10 | 2023-10-28 |
 | [Antitype](https://open.spotify.com/track/21vbuLEqhFGoZUciOhDbPj) | [The Intersphere](https://open.spotify.com/artist/7GGtuvcBdHQYVbXi9B8YnY) | [Antitype](https://open.spotify.com/album/245bFEq19BqpogiQtkWY6v) | 5:28 | 2022-03-25 | 2022-04-21 |
 | [ANXIETY](https://open.spotify.com/track/2OBWPvxRkPHw898IApdrwe) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ANXIETY](https://open.spotify.com/album/7kbCg4mVLUrbiVlEgDA3wM) | 3:14 | 2022-09-09 | 2022-10-08 |
@@ -171,7 +171,7 @@
 | [Bois Lie](https://open.spotify.com/track/14td7C4K7BX8jsSYtgtQqy) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/5yLayeW2yw7QpH06QVIpiv) | 2:43 | 2022-02-25 | 2022-07-29 |
 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 | 2022-07-08 | 2023-11-11 |
 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 | 2021-12-10 | 2022-06-18 |
-| [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 | 2024-02-23 |  |
+| [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 | 2024-02-23 | 2025-07-12 |
 | [Bot Lobby](https://open.spotify.com/track/3x6D6Va2TevX1lv6HIjhh1) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Bot Lobby](https://open.spotify.com/album/3g7lpyviHEw5x17KwHw1WN) | 2:56 | 2022-11-04 | 2024-07-14 |
 | [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 | 2024-07-12 | 2024-11-06 |
 | [Box for My Organs](https://open.spotify.com/track/3x3pgmn0vj4bpRl0QmMlJS) | [Barely Civil](https://open.spotify.com/artist/74dHRGIRdRKjzmxl4yF0Ig) | [Box for My Organs](https://open.spotify.com/album/2vASoXhqCVl6AlMghPPbtZ) | 3:40 | 2022-04-01 | 2022-04-19 |
@@ -1148,6 +1148,7 @@
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-12-10 | 2022-10-08 |
 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-04-10 |  |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-09-15 | 2023-12-09 |
+| [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 | 2025-07-11 |  |
 | [TALK](https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:42 | 2025-02-14 |  |
 | [Talking In Your Sleep](https://open.spotify.com/track/2I8IEJxcTDJpNszohSbnb6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Talking In Your Sleep](https://open.spotify.com/album/0NNmXVhEmeyEE3EWSKo6lx) | 3:45 | 2022-02-04 | 2022-06-15 |
 | [Tattoo](https://open.spotify.com/track/7rIa6qgEMBCsYkvEDNlcZf) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Tattoo](https://open.spotify.com/album/2GNOnmStAcHi9TbvkoZ3TQ) | 2:39 | 2021-12-10 | 2022-05-20 |
@@ -1270,6 +1271,7 @@
 | [Upside Down](https://open.spotify.com/track/6trJelO46qKNUso5FtqgzG) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Upside Down](https://open.spotify.com/album/7HFSSWViGV3f6FvIY8evex) | 3:51 | 2022-02-04 | 2022-05-19 |
 | [ur a <stranger> \- Live](https://open.spotify.com/track/0dz9WWF0rYChuh0FubVYGl) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW: Live At Electric Lady](https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w) | 2:17 | 2023-04-10 | 2023-04-12 |
 | [use me](https://open.spotify.com/track/0KNLFtX4moDQ4jcuziocBQ) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [use me](https://open.spotify.com/album/4JUtkSVltrPsPmpEkadMK7) | 3:01 | 2023-09-15 | 2024-01-20 |
+| [Vacant](https://open.spotify.com/track/6HjBMeXKFi4KiOVK3TWBwb) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Vacant](https://open.spotify.com/album/3JvUO4BternFEIws235hM9) | 2:57 | 2025-07-11 |  |
 | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/track/78ITp8KLeHWvtjjf42LXck) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/album/7zQFULxk2VKVXrCsOFlGHJ) | 2:28 | 2021-12-10 | 2022-07-29 |
 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-09 | 2023-04-24 |
 | [VANS](https://open.spotify.com/track/0ouhKwWDhTFzCj3ctYOuLR) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [VANS](https://open.spotify.com/album/6wqGT4hSci81XQq1qoXSMD) | 2:37 | 2022-04-01 | 2022-04-21 |

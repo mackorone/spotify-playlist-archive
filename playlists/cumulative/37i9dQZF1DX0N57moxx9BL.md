@@ -2,9 +2,9 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  Demon Hunter
+> Listen to the recent hits of Christian Rock\.  Cover:  Kutless
 
-244 songs - 15 hr 41 min
+247 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Blood On Me](https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1) | [Kid Created Playa](https://open.spotify.com/artist/2CpAiDocx8gIbL9MQG2XIv) | [Blood On Me](https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V) | 3:23 | 2022-01-14 | 2024-06-29 |
 | [Bones](https://open.spotify.com/track/5TbqJifvLitwd5EMiIkcF7) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R) | [Bones](https://open.spotify.com/album/4nKseo8BsYGhRkI6dkYGrS) | 2:33 | 2024-08-30 |  |
 | [Boom \(The Crystal Method Remix\) \- 2021 Remaster](https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Ken Jordan](https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T), [Scott Kirkland](https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07) | [Boom \(The Crystal Method Remix\) \[2021 Remaster\]](https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr) | 3:16 | 2022-01-14 | 2024-06-29 |
+| [Breakthrough](https://open.spotify.com/track/30PmBCzR76Y75XlLbheTM9) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [The Seventh Seal](https://open.spotify.com/album/1osqrxaIWzatwgzDjGuJ74) | 4:34 | 2025-07-11 |  |
 | [Broken Pieces](https://open.spotify.com/track/2g0EC6W3Z7E3WvYhaTMJlX) | [Matt Moore](https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf), [Joshua Bramlett](https://open.spotify.com/artist/15F5yfcPVlRaPa3LAqRxLc) | [Broken Pieces](https://open.spotify.com/album/0XdxaI7uooAExK2VME6cou) | 3:38 | 2022-01-14 | 2022-03-12 |
 | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q) | [Matt Moore](https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl) | 3:53 | 2022-03-11 | 2024-08-10 |
 | [Burn Back the Sun](https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Acoustic \- EP](https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA) | 3:59 | 2021-05-28 | 2025-05-10 |
@@ -74,6 +75,7 @@
 | [Drive](https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS) | [Danger Scene](https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3) | [Futures](https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7) | 4:06 | 2021-05-28 | 2025-03-01 |
 | [End of Days](https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [End of Days](https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc) | 4:20 | 2024-06-28 | 2024-08-10 |
 | [End of the World](https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [End of the World \(feat\. Disciple\)](https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY) | 5:54 | 2023-02-17 | 2024-06-29 |
+| [Enough!](https://open.spotify.com/track/0SuC99M8imUnCwvMsmGiGZ) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Enough!](https://open.spotify.com/album/2ECLXxxCxW08CVMpuXJOAH) | 3:31 | 2025-07-11 |  |
 | [Erase](https://open.spotify.com/track/2YqctNUthRfX4t1KvPXO00) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/156WTxzjwwbhYeCVZkZq4W) | 4:03 | 2021-05-28 | 2024-11-02 |
 | [Erase](https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/15add9fux55wlIQygXNPz9) | 4:03 | 2022-03-11 | 2024-04-19 |
 | [Eternal \- Rerecorded](https://open.spotify.com/track/51MiPUN7frWF7aobcZU6BP) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Eternal \(15th Anniversary Rerecorded Version\)](https://open.spotify.com/album/68S2PQxK7RFnGbWFVOMBxY) | 3:30 | 2025-06-13 |  |
@@ -143,7 +145,7 @@
 | [Make War](https://open.spotify.com/track/5WTEEft8Gx5LVqt1O65Nye) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Skeleton Psalms \(Deluxe Edition\)](https://open.spotify.com/album/1ZoGRhrtfEksvamNtvB52y) | 4:13 | 2025-04-30 |  |
 | [Melancholy Machines](https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4) | 4:20 | 2022-01-14 | 2024-06-29 |
 | [Metanoia](https://open.spotify.com/track/6gNTFlkp51sr8PD6xj1zP9) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God \(Deluxe Edition\)](https://open.spotify.com/album/4YQESxXL4uPV8OegZp3EFs) | 3:09 | 2025-03-14 |  |
-| [Midnight](https://open.spotify.com/track/6EgznE2RneOGazjXOH0lv2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Midnight](https://open.spotify.com/album/0norhv6tu74jWJ0Ep1eVR5) | 3:48 | 2025-05-09 |  |
+| [Midnight](https://open.spotify.com/track/6EgznE2RneOGazjXOH0lv2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Midnight](https://open.spotify.com/album/0norhv6tu74jWJ0Ep1eVR5) | 3:48 | 2025-05-09 | 2025-07-12 |
 | [Mirror Mirror](https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [The Covering](https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP) | 3:26 | 2021-05-28 |  |
 | [My Favorite Part](https://open.spotify.com/track/4PVh2Kbi9yqybmbNIvUq9K) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK), [Daniel Spriggs](https://open.spotify.com/artist/2ZpvE20s1gTpxv4YiRsRto) | [My Favorite Part](https://open.spotify.com/album/6r4t2XkKlFetLXjUdeYmAY) | 3:30 | 2025-03-14 |  |
 | [Narrow Road](https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Narrow Road](https://open.spotify.com/album/3Dd9A3h5WAk7tMGtQQLtg5) | 4:35 | 2023-11-17 | 2024-06-29 |
@@ -167,6 +169,7 @@
 | [PARALLEL \- Live](https://open.spotify.com/track/0zENtJckaa2Nn4XKoKwPZK) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [PARALLEL \(Live\)](https://open.spotify.com/album/4WzVV8wFMiPCPJwLeQ7AK8) | 5:38 | 2024-11-01 |  |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-03-11 | 2024-06-29 |
 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 | 2022-01-14 |  |
+| [Praise With Everything \- Live](https://open.spotify.com/track/1O3NkK3h81fmNyW40GpUof) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Praise With Everything \(Live\)](https://open.spotify.com/album/38QL3vikchBG5Kl8fT7xvF) | 2:34 | 2025-07-11 |  |
 | [Promise](https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Promise](https://open.spotify.com/album/4OK9yH5JyZttlWxvzgRg0G) | 3:50 | 2025-05-09 |  |
 | [Promise to Live](https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Promise to Live](https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h) | 4:53 | 2023-02-17 | 2024-06-29 |
 | [Promise You're Coming Home](https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Stronger Than Death](https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh) | 3:42 | 2023-02-17 |  |
@@ -243,7 +246,7 @@
 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:14 | 2023-08-04 | 2024-04-19 |
 | [When We Were Kings](https://open.spotify.com/track/47c3g3qZVvf1myrVQZTnrf) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [When We Were Kings](https://open.spotify.com/album/60NOmOYT5j53Nh3z7Fl3DE) | 4:01 | 2024-08-30 | 2024-11-02 |
 | [Wild Ones](https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2) | [Crusoe](https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl) | [Wild Ones](https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv) | 3:02 | 2021-05-28 | 2024-08-10 |
-| [WILL YOU SEE GOD?](https://open.spotify.com/track/4il1GBerEw51VHGNjYD84B) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [TOWARDS THE LIGHT](https://open.spotify.com/album/74PmqmD3b2Eo3rlHEihPz9) | 2:01 | 2025-02-07 |  |
+| [WILL YOU SEE GOD?](https://open.spotify.com/track/4il1GBerEw51VHGNjYD84B) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [TOWARDS THE LIGHT](https://open.spotify.com/album/74PmqmD3b2Eo3rlHEihPz9) | 2:01 | 2025-02-07 | 2025-07-12 |
 | [Win Build Send](https://open.spotify.com/track/16yLqDkD0GaBOWT8Vm9WFJ) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Skyler Murray](https://open.spotify.com/artist/2GOIrJCT3ZzhSWeX6fxChI) | [Break Away the Stone](https://open.spotify.com/album/4KKycUXhpamAsV1eIMzWwz) | 4:02 | 2025-03-28 |  |
 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 | 2022-10-29 | 2024-06-29 |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-06-28 | 2025-06-14 |

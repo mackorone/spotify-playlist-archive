@@ -2,9 +2,9 @@
 
 ### [Faith & Folk](https://open.spotify.com/playlist/37i9dQZF1DX0I2w6UmIBm1)
 
-> Uplift your spirit with these faith\-filled folk melodies\. Cover: Henrik
+> Uplift your spirit with these faith\-filled folk melodies\. Cover: Chris Renzema
 
-71 songs - 4 hr 0 min
+77 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,9 @@
 | [Bring You To](https://open.spotify.com/track/7AEsn9IeVBuyUAcIOn7oZ6) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML), [Wyatt Woodley](https://open.spotify.com/artist/7AYwAKqUzY0YHW8WHXafdE), [Troy Corriea](https://open.spotify.com/artist/2Gdwp3UKrywFmyNcqBQPPu) | [Echo Chamber](https://open.spotify.com/album/0DVc1OrXJgkUXs9JcsGhwP) | 3:01 | 2025-06-13 |  |
 | [Can't Steal My Joy \(feat\. Brandon Lake\)](https://open.spotify.com/track/1IrganK1YSvjYDvGNYu3aa) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Can't Steal My Joy \(feat\. Brandon Lake\)](https://open.spotify.com/album/5Fa88waql5QY9FE23Hj9bI) | 3:33 | 2025-06-13 |  |
 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 | 2025-06-13 |  |
-| [Codependent](https://open.spotify.com/track/6AkCoW5ThOoN8t3ki63oYD) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [Codependent](https://open.spotify.com/album/5UKsdjtvdZQ6a8ndTGKnl5) | 2:40 | 2025-06-13 |  |
+| [Codependent](https://open.spotify.com/track/6AkCoW5ThOoN8t3ki63oYD) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [Codependent](https://open.spotify.com/album/5UKsdjtvdZQ6a8ndTGKnl5) | 2:40 | 2025-06-13 | 2025-07-12 |
+| [Cold Blooded \- Acoustic](https://open.spotify.com/track/6U5C2r8NpjgDCN87RFAyZR) | [Noah Baker](https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx) | [I Saw War](https://open.spotify.com/album/3P1yAwAbcBKfJqrFRCnEC0) | 2:47 | 2025-07-11 |  |
+| [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 | 2025-07-11 |  |
 | [Dopamine and Jesus](https://open.spotify.com/track/4iVq3rMJb1QnJXFoSphDy7) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Dopamine and Jesus](https://open.spotify.com/album/4Y4rMsVeJAuiICzHEngfEN) | 3:24 | 2025-06-13 |  |
 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-06-24 |  |
 | [Fight Of My Life](https://open.spotify.com/track/6lifMzePK6K5c5AnfvGMVt) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fight Of My LIfe](https://open.spotify.com/album/4Dz2LjpgWN5CnGBPAC0Dxp) | 2:58 | 2025-06-13 |  |
@@ -31,6 +33,7 @@
 | [Fork in the Road](https://open.spotify.com/track/0dgbQ7OVTpIzCNMf9BxAQ9) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Fork in the Road \(ft\. Trella\)](https://open.spotify.com/album/1HZbGKCMrnZi1V0EQ5NiJg) | 3:27 | 2025-06-13 |  |
 | [Great Big Adventure](https://open.spotify.com/track/61jtxxfHFas4tdyeJwFaxc) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Great Big Adventure](https://open.spotify.com/album/3cJC5B14lTMCTCK2lTLoEm) | 3:50 | 2025-06-13 |  |
 | [Hallow Eyes](https://open.spotify.com/track/3Xn0g503GnpyGYYJhfAho5) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [Hallow Eyes](https://open.spotify.com/album/5LSWsHuk8QaXykpgPVYmqa) | 2:43 | 2025-06-13 |  |
+| [Hand of the Healer, Pt\. 1](https://open.spotify.com/track/1jEDhJtFyBsCqdAB9mrrkc) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Ben Shive](https://open.spotify.com/artist/2HOxXL6fxCe1OAEPw7sgTB) | [Hand of the Healer, Pt\. 1](https://open.spotify.com/album/6XCQZMtJEbBhouRxWJC2MB) | 4:20 | 2025-07-11 |  |
 | [heaven sent](https://open.spotify.com/track/4JjtkDkJWRhb8i1CxNj55B) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [heaven sent](https://open.spotify.com/album/5fQAUWRNfuuV7Q8qA4aE1b) | 2:09 | 2025-06-13 |  |
 | [helene](https://open.spotify.com/track/1FuCyCo2fSlg7rH3aWtrdE) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [helene](https://open.spotify.com/album/74aOAsFh3S4a3oH2xFvpnN) | 3:02 | 2025-06-13 |  |
 | [Here I Am](https://open.spotify.com/track/1mhVnXC0Mf8HUpvj2ZtqEY) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Here I Am](https://open.spotify.com/album/30yJdJF6LgTH5gYqVIgoS7) | 3:18 | 2025-06-13 |  |
@@ -39,7 +42,8 @@
 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 | 2025-06-13 |  |
 | [I Just Want You](https://open.spotify.com/track/1EittqeWdfzsE6y2Zuajsd) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [I Just Want You](https://open.spotify.com/album/0mcmJWcj1cymjvcv1bdT8d) | 3:12 | 2025-06-13 |  |
 | [I Wanna Go \- Acoustic](https://open.spotify.com/track/0Z6VlbxiDvCEpAsVYWfWOz) | [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [I Wanna Go \(Acoustic\)](https://open.spotify.com/album/2ojJv0hX944b3TyezqbLH9) | 3:05 | 2025-06-13 |  |
-| [I Won’t Lose Heart](https://open.spotify.com/track/3eoIVgXqN3rjKIOX8oYlg3) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won’t Lose Heart](https://open.spotify.com/album/3KlWAcAvrsF6yyLfOUBG3Y) | 3:11 | 2025-06-13 |  |
+| [I Won’t Lose Heart](https://open.spotify.com/track/3eoIVgXqN3rjKIOX8oYlg3) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won’t Lose Heart](https://open.spotify.com/album/3KlWAcAvrsF6yyLfOUBG3Y) | 3:11 | 2025-06-13 | 2025-07-12 |
+| [If Everyone Forgot You](https://open.spotify.com/track/16Nr0VIbjJMxzuumj6Nm6s) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [If Everyone Forgot You](https://open.spotify.com/album/5yfkNDuT4SQlmqUZv49Hj2) | 2:51 | 2025-07-11 |  |
 | [If God is Real...](https://open.spotify.com/track/1UESXVQOzyl4gepZOPMqMa) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Kid in Flight](https://open.spotify.com/album/3eTVF06H4gP6gwmMVBYZ6M) | 1:58 | 2025-06-13 |  |
 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 | 2025-06-13 |  |
 | [Image of Love](https://open.spotify.com/track/7yx1qvTUIMmAzj7Zcmk4wI) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Image of Love](https://open.spotify.com/album/15x4tgcWqDeShCla5Ev6jK) | 3:42 | 2025-06-13 |  |
@@ -56,6 +60,7 @@
 | [Only You](https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Only You](https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV) | 3:22 | 2025-06-13 |  |
 | [Roseanne](https://open.spotify.com/track/1NdXyZ5LszDOul0fVZ6iPO) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Roseanne](https://open.spotify.com/album/4qSA4zR0a7mzv46SW9eXJF) | 3:59 | 2025-06-13 |  |
 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/2Gdc4bTh7MYkPQGXbMeyzr) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/1m93X8VpURTvUomirYDWQT) | 4:20 | 2025-06-13 |  |
+| [Set Me Free](https://open.spotify.com/track/5uYR8Fm4aTxx3zmTy7XJnf) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Set Me Free](https://open.spotify.com/album/74yVQv7tnnKINqKgYtwRdP) | 3:31 | 2025-07-11 |  |
 | [Sing to the Lord \- Live](https://open.spotify.com/track/5U72MP3C5YibqEs9hkm1xn) | [Jake MacAdam](https://open.spotify.com/artist/2P70gIAc2Zw5kXIMtbPoaH) | [Sing to the Lord \- Live](https://open.spotify.com/album/2PzA92dFa7knfjOrYKggnx) | 2:45 | 2025-06-13 |  |
 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 | 2025-06-13 |  |
 | [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 | 2025-06-13 |  |
@@ -69,6 +74,7 @@
 | [The Lord Is My Shepherd](https://open.spotify.com/track/06XwBbs5yjVtjHA1vcWbyL) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Valerie Guerra](https://open.spotify.com/artist/5stAPRk6DmzRWm3jCLSzmw) | [Jesus](https://open.spotify.com/album/4jMmHLhkvQToncD10srcty) | 3:24 | 2025-06-13 |  |
 | [The Man Jesus Christ](https://open.spotify.com/track/2rT1qtVWKI5zFt1rJ9U6B6) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Crucified in Christ \(Deluxe Edition\)](https://open.spotify.com/album/1YkxXZFGTmxdTSQcwUbEoH) | 6:49 | 2025-06-13 |  |
 | [The Promise \- Acoustic](https://open.spotify.com/track/6hQURY0zZNovk2TUE0RmIH) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation \(Acoustic Sessions\)](https://open.spotify.com/album/0ByPMrEfxEiStXmLORJQ2g) | 3:04 | 2025-06-13 |  |
+| [Things Jesus Didn't Say](https://open.spotify.com/track/03qGBQopCiCi47Kq2ZPsn2) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Things Jesus Didn't Say](https://open.spotify.com/album/0BqDLIkQKH99l04mD2rkm7) | 2:22 | 2025-07-11 |  |
 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 | 2025-06-13 |  |
 | [true north](https://open.spotify.com/track/5OCFDgJg0sWhE1wGjagdUi) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [true north](https://open.spotify.com/album/4zI2Uz63Zc8Bem3Z35sX00) | 2:41 | 2025-06-13 |  |
 | [Trust In God \- Acoustic](https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Trust In God \(Acoustic\)](https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay) | 5:07 | 2025-06-13 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,023 songs - 2 day 9 hr 25 min
+1,024 songs - 2 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Garden's Edge](https://open.spotify.com/track/1uuTI3HJbxIB08RwfIzbir) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Garden's Edge](https://open.spotify.com/album/495RJ4HV475juBo05YQXBh) | 3:06 | 2022-11-02 | 2023-01-26 |
 | [Gaze](https://open.spotify.com/track/0wDxpyi7AzoZaY6dt0FnXg) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Gaze](https://open.spotify.com/album/0RMBhqzBhd1tQBb6NkTwZI) | 4:34 | 2022-06-08 | 2022-08-20 |
 | [Generation Gap](https://open.spotify.com/track/5FQ9dxFbkBO7tGYNnE8gin) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Generation Gap](https://open.spotify.com/album/0IBU5FmPIBkuqZfvdIJZLE) | 3:01 | 2024-06-03 | 2024-08-23 |
-| [Genesis](https://open.spotify.com/track/3lInjgjlce124YrDUc3obI) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Genesis](https://open.spotify.com/album/1K04Q2pVJiRftAdROfQ8R3) | 2:32 | 2025-04-21 |  |
+| [Genesis](https://open.spotify.com/track/3lInjgjlce124YrDUc3obI) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Genesis](https://open.spotify.com/album/1K04Q2pVJiRftAdROfQ8R3) | 2:32 | 2025-04-21 | 2025-07-12 |
 | [GENESIS](https://open.spotify.com/track/4iGe6FbKTT6oToK5L5ZlOz) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [GENESIS](https://open.spotify.com/album/1GsDZlQC18uiWoGvbKuUtB) | 3:58 | 2024-03-11 | 2024-06-01 |
 | [GET IN THE CAR](https://open.spotify.com/track/3vSYhCUWQ9K1OaUEjQBqfk) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [GET IN THE CAR](https://open.spotify.com/album/575QrauoGUh5a8620xO0bT) | 1:44 | 2023-09-07 | 2024-01-11 |
 | [Get Through](https://open.spotify.com/track/1aByvbcFFDPTCEA4mTVJhW) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Get Through](https://open.spotify.com/album/5iDeNESrto46Zim2KP4bfX) | 3:24 | 2023-01-23 | 2023-04-07 |
@@ -858,6 +858,7 @@
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |
 | [SWEAT!](https://open.spotify.com/track/6Qab7nnQ1JLtpvSvkzB07q) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [SWEAT!](https://open.spotify.com/album/3cKyGMHm0XKQN5Bvx4l0Vu) | 2:39 | 2024-11-22 | 2025-03-04 |
 | [Sweetheart](https://open.spotify.com/track/5RNmbFUSiWxdLq8SiJhQXu) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Equals](https://open.spotify.com/album/2yobtVPdvXpjv5oYzCX46V) | 3:22 | 2024-10-22 | 2025-01-29 |
+| [Switch On Em](https://open.spotify.com/track/4ZPU9Q0rSQLO4NZ3Wl6ivr) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Switch On Em](https://open.spotify.com/album/4rL8IlLaGiexJNReOAGWWb) | 3:05 | 2025-07-11 |  |
 | [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-03 | 2024-01-18 |
 | [Take 2](https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Take 2](https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU) | 3:48 | 2023-11-15 | 2024-02-28 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 | 2022-07-16 |

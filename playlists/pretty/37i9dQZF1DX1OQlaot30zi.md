@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Carla Hero, Mecna, Niky Savage, Marte, Néza e Rhove, Rondodasosa e Byron Messia e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,758 likes - 204 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,788 likes - 204 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 149 | [A SCOPO DI LUCRO](https://open.spotify.com/track/6thLqShpN1PqOZqorc8uZB) | [ATTIKO](https://open.spotify.com/artist/4uoeY5E3dG7B2zzSSE1uLW), [Flextony](https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv) | [A SCOPO DI LUCRO](https://open.spotify.com/album/6iiQ3i6PhnAjU87QiPeELQ) | 3:07 |
 | 150 | [MAYBACH 2](https://open.spotify.com/track/0eAiO6gia3d5KQXaeI7cFa) | [Malsho](https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Stresi](https://open.spotify.com/artist/1xSxx6qkrEac8Ek7puk6FI), [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa) | [MAYBACH 2](https://open.spotify.com/album/29Qh0DBnDRNugq1y3EMHzJ) | 2:52 |
 | 151 | [Hall of fame](https://open.spotify.com/track/1XbbQRTtQMsgZKYb1sBOxm) | [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju) | [Hall of fame](https://open.spotify.com/album/5XxN5aCgo7rQzN7tgjSzDW) | 2:29 |
-| 152 | [MARGIELA, BALENCIAGA \(feat\. Lito\)](https://open.spotify.com/track/2DNRZbLGimRZGCkqvru6qp) | [5ave](https://open.spotify.com/artist/6VPhn9B9eDwCaYCM2dDKVg), [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO), [Fireken](https://open.spotify.com/artist/6VwZ6AVO6J0QW6BnKJWk9F) | [PRIMO PASSO](https://open.spotify.com/album/5wuMXoaZEVcQOiMO48v5L1) | 1:53 |
+| 152 | [MARGIELA, BALENCIAGA](https://open.spotify.com/track/2DNRZbLGimRZGCkqvru6qp) | [5ave](https://open.spotify.com/artist/6VPhn9B9eDwCaYCM2dDKVg), [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO) | [PRIMO PASSO](https://open.spotify.com/album/5wuMXoaZEVcQOiMO48v5L1) | 1:53 |
 | 153 | [NO BUDGET](https://open.spotify.com/track/1320KwUIn1VyJiJD3MYnRD) | [Mated](https://open.spotify.com/artist/7dIGJ7Kx7vyUsszaP2mbxQ) | [NO BUDGET](https://open.spotify.com/album/6m77OrAzcnYXI2mePtlUUV) | 2:35 |
 | 154 | [SAVANA \(feat\. Passa Lzn & Deza JR\)](https://open.spotify.com/track/33BixDGFsCEHUq0TT11RuZ) | [Benii](https://open.spotify.com/artist/2BPa4q78epq6JYvtGBn0IF), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX), [Passa Lzn](https://open.spotify.com/artist/6xMSpxOkrzrQgWu3fOSKBB), [Deza JR](https://open.spotify.com/artist/68iSzOq0nN0hvxjO58j7PH) | [SAVANA \(feat\. Passa Lzn & Deza JR\)](https://open.spotify.com/album/60FepBH13mqiiXIcHSneun) | 2:41 |
 | 155 | [Mia](https://open.spotify.com/track/2CH6GOM8JmoJRyp5CEDCvQ) | [LIUK](https://open.spotify.com/artist/6xfeQJvxB1JE91mbYegsni), [ddyedie](https://open.spotify.com/artist/0kDKRAMKiBJm3iEUhhBFbU) | [Mia](https://open.spotify.com/album/2cTYyiqVQVAcH7aW2pEtc4) | 2:57 |

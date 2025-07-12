@@ -71,6 +71,40 @@
     },
     {
       "album": {
+        "name": "Addicted (Argy & Omnya Remix)",
+        "url": "https://open.spotify.com/album/4ybzfLamUp8HWp3F8YYnoJ"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Addicted - Argy & Omnya Remix",
+      "url": "https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD"
+    },
+    {
+      "album": {
         "name": "Ai Papi",
         "url": "https://open.spotify.com/album/5q36s9vwucIs4XKp03mNVv"
       },
@@ -2534,7 +2568,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 202790,
       "name": "Ibiza Nights",
       "url": "https://open.spotify.com/track/74NA1K3QkfFSHVTBa9UW5A"

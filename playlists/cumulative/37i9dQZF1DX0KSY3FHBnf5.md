@@ -4,7 +4,7 @@
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-271 songs - 11 hr 27 min
+274 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [believe](https://open.spotify.com/track/3sC9JwhFLEIWkYedvhPLTG) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [believe](https://open.spotify.com/album/3d9zz7wizBTlH8mT6SmOhj) | 2:41 | 2025-04-04 |  |
 | [big dreams](https://open.spotify.com/track/35ebR4DqVFQuKKEbfVy5QB) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Memory Tapes](https://open.spotify.com/album/6n6WGu7D7xqEzOD96kXb3N) | 2:56 | 2023-08-14 | 2024-12-13 |
 | [blue horizon](https://open.spotify.com/track/6A6uOOalIOEI7tCR8xPdMh) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy), [Geego Boy](https://open.spotify.com/artist/4lYlJVXSRFSmHOrRct5HsK) | [blue horizon](https://open.spotify.com/album/3t80nbRPyOcY8QF9yqW70O) | 2:08 | 2023-09-22 | 2024-12-13 |
+| [Blues](https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG) | [where??](https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL) | [Blues](https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2) | 2:52 | 2025-07-11 |  |
 | [Breathless](https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Breathless](https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w) | 3:05 | 2024-10-04 | 2025-02-22 |
 | [Broken Memory](https://open.spotify.com/track/1bV6tK6Vv6knANu0bXDGVq) | [Niclas Lundqvist](https://open.spotify.com/artist/5xhXAA1szAltReao2ctWBg) | [Evolving State](https://open.spotify.com/album/2JQVAnrpBqzWeJEiyTU2hQ) | 3:10 | 2025-02-14 |  |
 | [Bubble](https://open.spotify.com/track/62k6Tfmb6kUfKJisnZ6SGs) | [izumo](https://open.spotify.com/artist/6SUV9TOtiXhQQ5aniKJKKX) | [Bubble](https://open.spotify.com/album/5HVskhAGLdiasd2cdTHVRD) | 2:04 | 2023-08-14 | 2025-02-01 |
@@ -109,6 +110,7 @@
 | [forgotten thoughts \- slowed & reverb](https://open.spotify.com/track/1TbF2VK8UEv0Y92YZHYw0O) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:52 | 2023-08-14 | 2025-02-01 |
 | [forsaken](https://open.spotify.com/track/2aQ8wbTd9yDiVJdOnfYCIo) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [forsaken](https://open.spotify.com/album/0NxN5AVfWdOL45hmEgIb45) | 2:19 | 2023-09-22 | 2025-02-22 |
 | [Fragile \(Rework \- Slowed + Reverb\)](https://open.spotify.com/track/3isNY7cxMmORr4uhajCZNC) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Fragile \(Rework \- Slowed + Reverb\)](https://open.spotify.com/album/670hvOiROYlvz03jGeG2P3) | 3:07 | 2023-08-18 | 2025-02-22 |
+| [frozen memories](https://open.spotify.com/track/5zEiNEPDP8OEnQZ9y3kuab) | [lost.exe](https://open.spotify.com/artist/3VGpmkObquEyGMlfYtyMsf), [Luke Muzzic](https://open.spotify.com/artist/2P4sIQzRSbTjwWLApeXamY) | [frozen memories](https://open.spotify.com/album/7aeXiCWP8i2eYXT9Qe0Mhz) | 1:51 | 2025-07-11 |  |
 | [full circle](https://open.spotify.com/track/6hwBdR3mQjo9Z2gwOAPbbi) | [seeyouthere](https://open.spotify.com/artist/3aspJpj1ZByvp1P16mFeRC) | [downpour](https://open.spotify.com/album/10rELaMTzCjp7h1n4qFG6O) | 2:07 | 2023-10-13 | 2025-02-22 |
 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 | 2024-08-30 |  |
 | [granular](https://open.spotify.com/track/2JBZ4mrEymmHGxLU0e4DbV) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Ambient Authority](https://open.spotify.com/artist/6YcpbMf7v0TBvHk0z4l1a1) | [granular](https://open.spotify.com/album/32CQ4YbWsCl1axqcy2iKAj) | 2:54 | 2023-12-01 |  |
@@ -159,6 +161,7 @@
 | [lostness](https://open.spotify.com/track/0JsdpyMKi6R6w8KDouakUy) | [saddenex](https://open.spotify.com/artist/2nUd3WQGSzP0rPMFwSE4UR) | [lostness](https://open.spotify.com/album/2mrVuVF6AxaFWsolVdp878) | 1:51 | 2025-05-23 |  |
 | [Love And The Framed Insects](https://open.spotify.com/track/3uK1I2fCTIvVyRnkcJRuYf) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Mosaic](https://open.spotify.com/album/7FMt32mXfynNCDGwfVa6KN) | 5:54 | 2024-12-12 | 2025-02-22 |
 | [loyalty](https://open.spotify.com/track/1OYrYL2SxZGTG566YtEDCz) | [chylies](https://open.spotify.com/artist/0hVV94BjiauhF4OhfQjUQj), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [loyalty](https://open.spotify.com/album/6RyXkTpBSyRZX3DFf9g9Ro) | 1:38 | 2024-08-30 | 2024-10-05 |
+| [Luster\(Ambient\)](https://open.spotify.com/track/70QHTYPSRhJ6k2kmMuGniB) | [Inner Science](https://open.spotify.com/artist/3h2z9q9RhVXgX2c7QAZdO5) | [Luster\(Ambient\)](https://open.spotify.com/album/3yC30xgXS2hBTp0REgLdlC) | 27:41 | 2025-07-11 |  |
 | [magic feeling](https://open.spotify.com/track/13Uf530cTsAeYx3TwLnwlB) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [magic feeling](https://open.spotify.com/album/0FaQAvcCmeYxzOB8Dn6KPc) | 2:48 | 2023-08-18 | 2025-02-22 |
 | [Malam Suci](https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Malam Suci](https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff) | 4:19 | 2025-01-31 |  |
 | [maps to nowhere](https://open.spotify.com/track/2wvhy8OLnkBfThXvDwrAlj) | [leapyear](https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR), [FutureVille](https://open.spotify.com/artist/5YYDG8J9TC7S9FHyy9qgSE) | [maps to nowhere](https://open.spotify.com/album/4PJjDMSopK3Or8D50B4MFy) | 2:04 | 2023-08-14 | 2025-02-08 |

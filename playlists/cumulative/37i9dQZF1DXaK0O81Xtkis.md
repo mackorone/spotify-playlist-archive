@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop\.  Cover: Aidan Bissett
+> a little indie, a little pop\.  Cover: Fly By Midnight
 
-1,381 songs - 2 day 20 hr 44 min
+1,391 songs - 2 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Again & Again](https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Again & Again](https://open.spotify.com/album/5ctwJQS6cTwdb7y5QPWoQU) | 2:49 | 2021-10-29 | 2022-02-05 |
 | [AIRBNB](https://open.spotify.com/track/76ztGwXiBmW1dTAswuKE1m) | [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [AIRBNB](https://open.spotify.com/album/2ULxhzl3imLp5KGAWyV4B7) | 2:43 | 2022-05-27 | 2022-07-16 |
 | [Alabama](https://open.spotify.com/track/0X3uitVppwidFzK2GUDehH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Alabama](https://open.spotify.com/album/56xF0FLJgE20AhapFNXs6f) | 2:38 | 2024-08-02 | 2024-09-21 |
+| [alibi](https://open.spotify.com/track/1ISuBnU4WRaIPStD2hktp4) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [alibi](https://open.spotify.com/album/5TVyVPNYxo6aEuJcXdhFWc) | 3:33 | 2025-07-11 |  |
 | [Alive](https://open.spotify.com/track/3cujAh2dkSNiQvUXtFUJXi) | [Austin Giorgio](https://open.spotify.com/artist/2NhXno18MV9YbhVmr5QX11) | [Alive](https://open.spotify.com/album/4fujcF9HuECTwxBU1UWQN6) | 3:07 | 2025-01-10 | 2025-03-01 |
 | [Alive!](https://open.spotify.com/track/28cm9uWSKVAfZ0HDBlq4rS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:52 | 2024-01-05 | 2024-02-03 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-04-08 | 2022-07-30 |
@@ -99,6 +100,7 @@
 | [Baby Blue](https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:43 | 2022-04-01 | 2022-04-09 |
 | [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 | 2023-11-17 | 2024-01-13 |
 | [Baby Lay Your Head Down](https://open.spotify.com/track/5fbnIAZDVlcPfKOnYeUn1d) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Baby Lay Your Head Down](https://open.spotify.com/album/0wkGlMn6cgQ3L7LA70dXfl) | 3:44 | 2023-01-27 | 2023-02-25 |
+| [Babygirl](https://open.spotify.com/track/6Yi0pzHS82XDFhbb0m5A5N) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Babygirl](https://open.spotify.com/album/3LZ3I3omuVyAWhl2xSrHqa) | 2:40 | 2025-07-11 |  |
 | [BACK FOR YA](https://open.spotify.com/track/1fdzj3vFjt0GnMv97kjG0O) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [ARE WE THERE YET?](https://open.spotify.com/album/5mYyAO9qTJbSXP5cRMESFr) | 2:22 | 2024-11-15 | 2025-02-01 |
 | [Back in Bed](https://open.spotify.com/track/5ukj5LamvwlSh0cYAkQ5by) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Back in Bed](https://open.spotify.com/album/47bzBG5kB4H9ohJJwbC3dy) | 2:38 | 2022-07-08 | 2022-08-27 |
 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 | 2022-02-04 | 2022-04-16 |
@@ -110,6 +112,7 @@
 | [Baked Alaska](https://open.spotify.com/track/63reuc8nVqfO3bmxCLUKDq) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Baked Alaska](https://open.spotify.com/album/0yRDamj20wKD1LWVIxoFrc) | 2:50 | 2024-09-27 | 2025-01-25 |
 | [ballerina](https://open.spotify.com/track/7iYjdHCh4dgsmiktEaEkOV) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [ballerina](https://open.spotify.com/album/2wMEm63VJKzy3Y9d6nTyeh) | 3:22 | 2024-09-20 | 2025-01-11 |
 | [Bang Bang](https://open.spotify.com/track/7eQ6R9XSNfbLSExXggYbmY) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bang Bang](https://open.spotify.com/album/4ZFKLXH2lTaQn5GxVH6zYg) | 2:54 | 2022-02-04 | 2022-03-26 |
+| [Bare Minimum](https://open.spotify.com/track/0AvQ3HLePDtJgUMDj3UPgM) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Victoria](https://open.spotify.com/album/3gXP5nDUQL7alCa515S62f) | 3:28 | 2025-07-11 |  |
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-24 | 2025-03-22 |
 | [Be Like Her](https://open.spotify.com/track/5rK3OJKGpDz5cy0JT2XYSy) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Be Like Her](https://open.spotify.com/album/4LCv8vqQsAVZpmHWGrPyyY) | 2:46 | 2024-08-16 | 2024-09-28 |
 | [BE MINE](https://open.spotify.com/track/6ZGtpEUJ1Zae5QJIv54dTD) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [BE MINE](https://open.spotify.com/album/5D2Vrd4ZMx5u3R49xOMHnX) | 2:45 | 2025-02-14 | 2025-05-17 |
@@ -126,6 +129,7 @@
 | [Better Off](https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Better Off](https://open.spotify.com/album/57fPsISPRRdVmc57pYWY96) | 2:52 | 2024-11-08 | 2025-01-25 |
 | [Better Off](https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Better Off](https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS) | 2:24 | 2025-01-31 | 2025-04-12 |
 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 | 2022-06-03 | 2022-07-02 |
+| [Betty](https://open.spotify.com/track/2kb638zLMKUHOx4rhd4ttD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Betty](https://open.spotify.com/album/1WbPmLKZwkfrT1tPfTFNku) | 2:43 | 2025-07-11 |  |
 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-01-20 | 2023-03-25 |
 | [Birthmark](https://open.spotify.com/track/0WBkEWQ7evLCkPRLehTJeY) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Birthmark](https://open.spotify.com/album/35GQtom38u5STlcnpDeALd) | 3:22 | 2023-01-20 | 2023-03-25 |
 | [Bittersweet](https://open.spotify.com/track/1iAnZUotftnMCCLPcsoUtx) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Bittersweet](https://open.spotify.com/album/4fa718GM4u2gzw2iHFQZBf) | 2:27 | 2025-01-31 | 2025-03-31 |
@@ -680,6 +684,7 @@
 | [karma](https://open.spotify.com/track/5SCBS0esfqeL54ZCw6Revb) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [karma](https://open.spotify.com/album/5tuUCB6Pgaf8BbS7rPquSJ) | 2:48 | 2022-10-28 | 2023-03-04 |
 | [kassidy](https://open.spotify.com/track/5jrwsc97zyaJrO3I7C2bHQ) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [kassidy](https://open.spotify.com/album/70dj45RyTwssfdSSg9qAUL) | 2:21 | 2022-09-02 | 2022-09-24 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-04-05 | 2024-06-01 |
+| [Keep My Cool](https://open.spotify.com/track/1jVgdNgIRhjCoJ4Pjbee0l) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Cry About It](https://open.spotify.com/album/7a3IwZ4Qiflsi0rrEYIEp9) | 2:41 | 2025-07-11 |  |
 | [Keeping Score](https://open.spotify.com/track/0rfOB4iAlPa5bSluHxZfTf) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Keeping Score](https://open.spotify.com/album/5schDejMf0DBdtxhSgp63Q) | 3:06 | 2025-05-30 |  |
 | [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 | 2023-04-22 |
 | [Kids](https://open.spotify.com/track/6EmYpFjAcFMF5dt2krHSSt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kids](https://open.spotify.com/album/3A7lw3LCydkMHdvFS7nv1K) | 2:58 | 2024-05-03 | 2024-07-06 |
@@ -822,6 +827,7 @@
 | [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 | 2023-10-20 | 2024-01-05 |
 | [Miracle](https://open.spotify.com/track/0RFjIMPz5LJuSjtdx5W8bE) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/3iO9vwhDcD5RBhJRUs6hyF) | 3:02 | 2023-10-13 | 2024-01-05 |
 | [Miss America](https://open.spotify.com/track/5EUFD92nWoRTlNVj7zkwUY) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Miss America](https://open.spotify.com/album/6h6s1KGJDUlApKW75qlArL) | 2:53 | 2025-05-02 | 2025-06-21 |
+| [Miss Me Vendetta](https://open.spotify.com/track/0gxTKWnU4Nw96sA4na2xUN) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Miss Me Vendetta](https://open.spotify.com/album/5WuxJ5z2dRAVEvy3Jzm5p6) | 3:03 | 2025-07-11 |  |
 | [miss misery](https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [miss misery](https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk) | 2:59 | 2023-02-17 | 2023-04-25 |
 | [Miss Sunshine](https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Miss Sunshine](https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq) | 3:23 | 2025-02-24 | 2025-04-12 |
 | [Miss You](https://open.spotify.com/track/6ocMXJqpkBP7KNFNUDLSUN) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Miss You](https://open.spotify.com/album/7h32RpEtJz3qqo4a4AjPet) | 2:47 | 2024-01-05 | 2024-03-30 |
@@ -1005,6 +1011,7 @@
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-03-25 |
 | [Run For Your Money](https://open.spotify.com/track/0pn8aJZkNWO9kOfQRnCQmc) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [Run For Your Money](https://open.spotify.com/album/0uAuIL6x1xZLWGnuyg4Hbq) | 2:39 | 2021-10-29 | 2021-12-25 |
 | [Runaway](https://open.spotify.com/track/5DYZiEZfIKBEEwhiTXhLND) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Runaway](https://open.spotify.com/album/635j5Fdn0ZKF7fhPhJU7e6) | 2:46 | 2022-08-12 | 2022-09-24 |
+| [Running](https://open.spotify.com/track/2sVZmdIZfmUNwn31rQJuxy) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [The Fastest Time Of Our Lives](https://open.spotify.com/album/7r7Q2FOiZugbsWuD9N9ZPl) | 3:07 | 2025-07-11 |  |
 | [RUNNING BACK 2 YOU!](https://open.spotify.com/track/4QmrjOhetgFIAorbown2aB) | [Presence](https://open.spotify.com/artist/1Pq3b64hsWb48FjFPfV5aq) | [RUNNING BACK 2 YOU!](https://open.spotify.com/album/6Ljd8e2grL1ahPm9r4B1zd) | 2:53 | 2024-04-19 | 2024-06-01 |
 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 | 2024-06-28 | 2024-10-26 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-15 | 2025-01-25 |
@@ -1023,6 +1030,7 @@
 | [SATURDAY NIGHT](https://open.spotify.com/track/4r2K4hNxpIc21xw2e7PhdF) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [SATURDAY NIGHT](https://open.spotify.com/album/4EDOoHVfkI7JNsQMfol6sc) | 2:32 | 2024-02-23 | 2024-04-19 |
 | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/track/0ykHYUYiltQo6Xcmdq3Tp5) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/album/1aRvubQxQHM7IqKnmiJvxE) | 2:54 | 2024-10-18 | 2025-01-25 |
 | [Save My Soul](https://open.spotify.com/track/4EcGbkv46bCvSzEPmQvQkj) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 3:10 | 2023-12-01 | 2024-02-10 |
+| [Saying “No”](https://open.spotify.com/track/5F1QktfxOgkz6ZIU6FUPHD) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Saying “No”](https://open.spotify.com/album/4enPd0cof71ZE5VSIi4zQ3) | 3:54 | 2025-07-11 |  |
 | [Scarlett](https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:16 | 2022-04-01 | 2022-04-09 |
 | [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-07-19 | 2024-11-09 |
 | [Searching For The Light](https://open.spotify.com/track/0QVZBtrQavTRm7yqWFwm7n) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Searching For The Light](https://open.spotify.com/album/7GFUOjsy0ae2MH8YqNDR0O) | 3:07 | 2021-10-29 | 2022-01-08 |
@@ -1042,6 +1050,7 @@
 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 | 2022-06-10 | 2022-08-20 |
 | [seventeen](https://open.spotify.com/track/5P4PW71fDmfehRrxBuG9OF) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [seventeen](https://open.spotify.com/album/2jtVwe611s3mqw6Vre4AYx) | 3:01 | 2025-01-24 | 2025-04-12 |
 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 | 2025-01-31 | 2025-03-15 |
+| [she got a thing about her](https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [she got a thing about her](https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy) | 2:18 | 2025-07-11 |  |
 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 | 2022-07-22 | 2022-10-15 |
 | [Sheryl Crow](https://open.spotify.com/track/3YDMI9nKu5mbYYt0ODKkSu) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I hope you're well in these crazy times](https://open.spotify.com/album/4jJpB6oqm4IiyyUYqetD7i) | 3:02 | 2022-08-12 | 2022-09-03 |
 | [Shoe](https://open.spotify.com/track/37IMOr92pqfixF3XH87YS8) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:37 | 2022-05-27 | 2022-06-04 |
@@ -1235,6 +1244,7 @@
 | [This Time](https://open.spotify.com/track/1wMUAnJhrgVa2Q2CkMto4b) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [This Time](https://open.spotify.com/album/5ujq3EIdXLsz6TpXcsd7ze) | 2:13 | 2022-04-29 | 2022-07-16 |
 | [Throwback Tears](https://open.spotify.com/track/68Z7JAEz6ZSFJ9bA4KFGRg) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Throwback Tears](https://open.spotify.com/album/5mNkXsJh0QVVEKIq9Rx1en) | 1:57 | 2023-01-17 | 2023-03-25 |
 | [Thunder](https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [Thunder](https://open.spotify.com/album/71ksMhG7YqwphT30LMElRK) | 2:51 | 2023-02-10 | 2023-04-15 |
+| [Tidal Wave](https://open.spotify.com/track/2h1UMCTfPc3P2ko1D5tbNQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Tidal Wave](https://open.spotify.com/album/2JPBkJNbO1SOO3duRkJ4Md) | 3:04 | 2025-07-11 |  |
 | [TIME!](https://open.spotify.com/track/571eDSnPzwHNL3233ICp6w) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [the greatest hits](https://open.spotify.com/album/6RY9gppYrTRUHBHvPWfPyW) | 3:12 | 2024-03-08 | 2024-04-28 |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-26 | 2024-04-27 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 | 2023-01-14 |

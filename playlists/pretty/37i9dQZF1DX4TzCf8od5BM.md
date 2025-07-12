@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from SuperKitties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,786 likes - 190 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,785 likes - 190 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

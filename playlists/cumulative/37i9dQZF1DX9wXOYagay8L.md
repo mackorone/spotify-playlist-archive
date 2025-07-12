@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=v5rWKr6dTg6Oz11clEYWCQ">Mlindo The Vocalist</a>
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC?si=OLmMmWTlQmahkjHMhJO6OQ">Brenda Mtambo</a>
 
-695 songs - 2 day 1 hr 40 min
+696 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Ntokazi](https://open.spotify.com/track/1cOR2ZdjaTN9Yj0WrlzcvU) | [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [MTB](https://open.spotify.com/artist/2OX6ctm7zzFiwOBC0fgK2Q) | [Ntokazi](https://open.spotify.com/album/2CBWOFD0acarYjYz1aaPOL) | 3:33 | 2022-03-03 | 2022-07-01 |
 | [Ntombazana](https://open.spotify.com/track/6fJlDSuDWB6YEtY9GwtUr4) | [Hassan Mangete](https://open.spotify.com/artist/49MtwqGzcDiLnZ5JnsczYH), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Azmo Nawe](https://open.spotify.com/artist/2KtuL7JwOuuMqjTiAOj75I) | [Ntombazana](https://open.spotify.com/album/3weAjQvgtPGA4XmTeIQDIV) | 2:54 | 2022-09-15 | 2022-10-21 |
 | [Ntombo](https://open.spotify.com/track/5ELqcRmOE9PtoPlVIgAW4I) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Zulu Romance](https://open.spotify.com/album/5SjM0inqx4BSEQ7HP6CFYO) | 4:42 | 2024-03-01 | 2025-02-14 |
+| [NTSOARE](https://open.spotify.com/track/29wP4m0vtVEEAjSzuKhS4k) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [NTSOARE](https://open.spotify.com/album/1p7n7ayM29dtSK7ZZA36qN) | 3:38 | 2025-07-11 |  |
 | [Ntsoare Moo](https://open.spotify.com/track/0wKUAe9I3MUpkH25xE9Etb) | [Irysh Da Princess](https://open.spotify.com/artist/1Vhxd4Vp4qL039MHLynbnm) | [Honour Array EP](https://open.spotify.com/album/5yXEvvUBbJe4wPkgg0lV0T) | 3:27 | 2022-05-26 | 2022-07-01 |
 | [Number 1](https://open.spotify.com/track/0CqLHQqZQHgKrIQLawgEpd) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/7lp0WAJZw1IoMzKyf6P7rh) | 4:17 | 2022-10-20 | 2022-10-22 |
 | [Number 1](https://open.spotify.com/track/28uEOZvK9boEWq4LgxFIuF) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 4:17 | 2022-10-20 | 2023-02-01 |

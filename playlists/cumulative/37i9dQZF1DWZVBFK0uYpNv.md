@@ -4,7 +4,7 @@
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-144 songs - 7 hr 38 min
+146 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Surface Pressure](https://open.spotify.com/track/2YePcRCovlBZ0wIYX7bXAa) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Surface Pressure](https://open.spotify.com/album/7aNLvoaHB7xqpqssKfQuJ2) | 3:14 | 2025-05-21 |  |
 | [Surface Pressure](https://open.spotify.com/track/7lvv3G1HyMfbbq84P0Xs1d) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:50 | 2025-05-21 |  |
 | [Surface Pressure \- From "Encanto"/Alok Remix](https://open.spotify.com/track/4Z6Lox6TdFyN3rGXr5v1An) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Surface Pressure \(From "Encanto"/Alok Remix\)](https://open.spotify.com/album/5OJdz9RHt02n5iaJ6jTU3c) | 2:07 | 2025-05-21 |  |
+| [Take Me Away \- From "Freakier Friday"](https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP) | [Pink Slip](https://open.spotify.com/artist/75sej2Q8NCpG0HofuacIsd), [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Take Me Away \(From "Freakier Friday"\)](https://open.spotify.com/album/18KERjxjpMewx9J7hKVEQE) | 3:06 | 2025-07-11 |  |
 | [The Bare Necessities](https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6) | [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 3:00 | 2025-05-21 |  |
 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/2mHszKdcP0V2DPrv3w1f8P) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/2ObuQ2rZlx0uJbFMSp6f7M) | 2:40 | 2025-05-21 |  |
 | [The Bare Necessities \- From "The Jungle Book"](https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Bare Necessities \(From "The Jungle Book"\)](https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h) | 2:40 | 2025-05-21 |  |
@@ -136,6 +137,7 @@
 | [Under The Sea](https://open.spotify.com/track/2APVreU7PPG721p8xte07l) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:49 | 2025-05-21 |  |
 | [Under The Sea](https://open.spotify.com/track/0k9Cs5wUt7pvXpDuqbhf1U) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [The Best Of Squirrel Nut Zippers](https://open.spotify.com/album/5VaZ409mcFnFjSFBzHJbLV) | 2:52 | 2025-05-21 |  |
 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \(From "Encanto"\)](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 | 2025-05-21 |  |
+| [Welcome to the Clubhouse \(Hot Dog!\) \- From "Disney Jr\. Music: Mickey Mouse Clubhouse+"](https://open.spotify.com/track/0GhJ70rt4cDAUrYWGBPG88) | [Mickey Mouse Clubhouse+ \- Cast](https://open.spotify.com/artist/2tUJ9RmG3zSwctpikuzuzq), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Welcome to the Clubhouse \(Hot Dog!\) \[From "Disney Jr\. Music: Mickey Mouse Clubhouse+"\]](https://open.spotify.com/album/0sHn61de25GeXbJzcWk4Cq) | 2:49 | 2025-07-11 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/6vTzYFOzlxlAWWTV2UP4kU) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [In the Key of Disney](https://open.spotify.com/album/2Xgc5F1OMlpdHjrz3xUlHF) | 2:45 | 2025-05-21 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2025-05-21 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/5rJKoMFSo5RzPBSuHXkYe7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Jazz Loves Disney](https://open.spotify.com/album/6nkLDRZbpuqs04ocXsoADU) | 3:50 | 2025-05-21 |  |

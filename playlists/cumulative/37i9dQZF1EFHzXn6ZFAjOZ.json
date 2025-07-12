@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Braveface",
+        "url": "https://open.spotify.com/album/4rNZwITNBukiT5F6s0KO9X"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183412,
+      "name": "Braveface",
+      "url": "https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ"
+    },
+    {
+      "album": {
         "name": "2 Loutr - 1 Soul",
         "url": "https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q"
       },
@@ -2922,6 +2940,28 @@
       "duration_ms": 337074,
       "name": "Summer Love - Edit",
       "url": "https://open.spotify.com/track/0iHPBEH9FvdevqTxqrSKZ0"
+    },
+    {
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "album": {

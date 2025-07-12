@@ -1,13 +1,45 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 149182,
+  "num_followers": 149158,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAEvJXMeKIvAtlvNYB1rnrD2KcOBSTP",
+  "snapshot_id": "AAAEvqvovQJwWWJGo7i4ezqiL/+bQ58B",
   "tracks": [
+    {
+      "added_at": "2025-04-22 23:10:10",
+      "album": {
+        "name": "Feeling Strangely Fine",
+        "url": "https://open.spotify.com/album/10EiZk1JUeEcIVXHdYkrGp"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI"
+    },
+    {
+      "added_at": "2025-04-22 23:10:10",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
     {
       "added_at": "2025-04-22 23:10:10",
       "album": {
@@ -55,38 +87,6 @@
       "duration_ms": 213493,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4TwaeQT1YTeBUBRB8NeSCo"
-    },
-    {
-      "added_at": "2025-04-22 23:10:10",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
-    },
-    {
-      "added_at": "2025-04-22 23:10:10",
-      "album": {
-        "name": "Feeling Strangely Fine",
-        "url": "https://open.spotify.com/album/10EiZk1JUeEcIVXHdYkrGp"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI"
     },
     {
       "added_at": "2025-04-22 23:10:10",

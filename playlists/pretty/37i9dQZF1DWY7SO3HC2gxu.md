@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music across East Africa\. Cover: DJ Mura & Big Nyagz
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,913 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,920 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 10 | [Rejea](https://open.spotify.com/track/3MjZ6n10mT0wTcPo5vzvU1) | [Dj Mura K.E](https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP), [Big Nyagz](https://open.spotify.com/artist/4xukSlub7BM65K97FD4EAF), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Rejea](https://open.spotify.com/album/4rs8VykAwag9z1bLgt62FQ) | 5:24 |
 | 11 | [Vika La Vika](https://open.spotify.com/track/3xjsBZ53Pth6e37ughLZma) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Vika La Vika](https://open.spotify.com/album/2gB3i2gOMU2Mn3S6INjyPX) | 5:25 |
 | 12 | [Kumbaya](https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Kumbaya](https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO) | 3:02 |
-| 13 | [Tsama \- Afro\-House Version](https://open.spotify.com/track/1Hz1UaD6whGtv8QWgitnSg) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [OTXX](https://open.spotify.com/artist/5tfnHT4DjO0IX5JIWFQpXJ) | [Tsama \(Afro\-House Version\) \[Club Version\]](https://open.spotify.com/album/5GnDWnztb7kjCFnmVxieLA) | 4:15 |
+| 13 | [Tsama \- Afro\-House Version](https://open.spotify.com/track/1Hz1UaD6whGtv8QWgitnSg) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [OTXX](https://open.spotify.com/artist/5tfnHT4DjO0IX5JIWFQpXJ) | [Tsama \(Afro\-House Version\)](https://open.spotify.com/album/5GnDWnztb7kjCFnmVxieLA) | 4:15 |
 | 14 | [Wangui](https://open.spotify.com/track/1tITCqfRxbgxLW4YfytIlr) | [keyløud](https://open.spotify.com/artist/5C4b6m5tGXVChiVSa6JaK2), [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx), [Salim Junior](https://open.spotify.com/artist/5K04mWdbeyhjWcFUiVL5zh) | [Wangui](https://open.spotify.com/album/5mE1CrPOpWF3gST3iKEvXO) | 3:18 |
 | 15 | [Songa Songa](https://open.spotify.com/track/6Fkmp0WvgM0KWFodJQXg7y) | [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Tefo Foxx](https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh), [Fadhilee](https://open.spotify.com/artist/0jrOqe6KcVhhuUl3BsdAZJ) | [Songa Songa](https://open.spotify.com/album/4hiWoWjU84qVDcoERuRRzW) | 3:37 |
 | 16 | [Shauku Bana \- Afro\-House Version](https://open.spotify.com/track/0WVfqwbEIXzwnyo1QBVjLk) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [OTXX](https://open.spotify.com/artist/5tfnHT4DjO0IX5JIWFQpXJ) | [Shauku Bana](https://open.spotify.com/album/7I56t6ACJnGcecrp2OVmVE) | 2:57 |

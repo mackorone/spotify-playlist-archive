@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Jennifer Dias",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: William Araujo, Djodje",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 163199,
       "name": "Ayah",
       "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 225018,
       "name": "Como Eu Demorei",
       "url": "https://open.spotify.com/track/7ivYLq5fAATS4rEqsAl3Xu"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 176248,
       "name": "Drip\u00e9",
       "url": "https://open.spotify.com/track/0q4dCRL7d7CoZnDpKGaNdJ"
@@ -9275,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "Tem Que Saber",
+        "url": "https://open.spotify.com/album/1AhbaZzBNnFYX6omOAD5Va"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228718,
+      "name": "Tem Que Saber",
+      "url": "https://open.spotify.com/track/5V9p06Za7Bi99cFE23J6JE"
+    },
+    {
+      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -9406,7 +9424,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 170548,
       "name": "Teu Corpo",
       "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
@@ -10344,7 +10362,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 226316,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/6iUBQUirgqrDC3k0nIzVB3"
@@ -10710,6 +10728,28 @@
       "duration_ms": 170906,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
+    },
+    {
+      "album": {
+        "name": "Vida Linda",
+        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "Vida Linda",
+      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
     },
     {
       "album": {

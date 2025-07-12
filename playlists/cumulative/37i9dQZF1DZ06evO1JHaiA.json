@@ -148,6 +148,24 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Be on Time",
+      "url": "https://open.spotify.com/track/0dXCOPGfNiYODMtjCkkQ09"
+    },
+    {
+      "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -830,7 +848,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 275040,
       "name": "Jan",
       "url": "https://open.spotify.com/track/6vk4bs3o5EPeRceLmTtGZE"

@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "At The Top",
+        "url": "https://open.spotify.com/album/5qJFa5eVVexl9EDjE7kxXP"
+      },
+      "artists": [
+        {
+          "name": "Kee Nola",
+          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155699,
+      "name": "At The Top",
+      "url": "https://open.spotify.com/track/0xUIitNNkgWVLZusJ4zxby"
+    },
+    {
+      "album": {
         "name": "attain",
         "url": "https://open.spotify.com/album/7McEAOkHVsKKCJDFj3WhrT"
       },
@@ -5144,7 +5162,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 146526,
       "name": "Felt Like Heaven",
       "url": "https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n"
@@ -12013,6 +12031,24 @@
     },
     {
       "album": {
+        "name": "It's Not You, It's Me",
+        "url": "https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4"
+      },
+      "artists": [
+        {
+          "name": "Kee Nola",
+          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139357,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX"
+    },
+    {
+      "album": {
         "name": "patience.",
         "url": "https://open.spotify.com/album/3p8TvJfEMWmd1rM0P1o57z"
       },
@@ -16015,6 +16051,28 @@
     },
     {
       "album": {
+        "name": "Legends Never Die (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230502,
+      "name": "The Way (with XXXTENTACION)",
+      "url": "https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh"
+    },
+    {
+      "album": {
         "name": "the way that you see me (feat. Ayleen Valentine)",
         "url": "https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm"
       },
@@ -17302,7 +17360,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 145503,
       "name": "welcome to my world",
       "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
@@ -18150,7 +18208,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 180001,
       "name": "Worlds A Fuck",
       "url": "https://open.spotify.com/track/6KOgmHp7R9ZXIemshIs1J5"

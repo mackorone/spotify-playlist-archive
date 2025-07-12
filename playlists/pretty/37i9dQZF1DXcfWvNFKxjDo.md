@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Ely Oaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,648 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,752 likes - 99 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 93 | [The Final Countdown 2025](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown 2025](https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC) | 3:02 |
 | 94 | [Beat Of The Drum](https://open.spotify.com/track/3dyTWIExmi3UNPKhhAamlR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Beat Of The Drum](https://open.spotify.com/album/2o0eytnIsDhifromTpINzS) | 3:10 |
 | 95 | [himmel brennt](https://open.spotify.com/track/2VqvCVWB6DtSdzqjKxmNkE) | [OTIS](https://open.spotify.com/artist/5UhU0sGRQAyORoDKIoaoXn), [NØAH](https://open.spotify.com/artist/6aFGdXHBKah1nyrqrGryuE) | [was du für mich bist ep](https://open.spotify.com/album/5O4QJTzM7Rbuu5bMUvTKhT) | 2:50 |
-| 96 | [Children of the Sky](https://open.spotify.com/track/5MLZz0TAv0ZyNgQEngyhXd) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd), [Youth Never Dies](https://open.spotify.com/artist/2zPGFp4GWeCgriWz13XR6r) | [Children of the Sky](https://open.spotify.com/album/0J3kzIYnTBsrZINk7ZZAen) | 2:54 |
-| 97 | [Casser la voix](https://open.spotify.com/track/2bfm0x3JRGOB3F43bmDQZi) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Casser la voix](https://open.spotify.com/album/2Ok40SlLarg78jziTdXvIy) | 3:14 |
-| 98 | [DOUBLE C](https://open.spotify.com/track/7q7rw7lURhzzKdniisNXIW) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:46 |
-| 99 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 |
-| 100 | [Bamboleo](https://open.spotify.com/track/0b25hYIjji2IW3Qv84TuyC) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [Bamboleo](https://open.spotify.com/album/1I3WimvXutvDtk9kwcAuKd) | 1:53 |
+| 96 | [Casser la voix](https://open.spotify.com/track/2bfm0x3JRGOB3F43bmDQZi) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Casser la voix](https://open.spotify.com/album/2Ok40SlLarg78jziTdXvIy) | 3:14 |
+| 97 | [DOUBLE C](https://open.spotify.com/track/7q7rw7lURhzzKdniisNXIW) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:46 |
+| 98 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 |
+| 99 | [Bamboleo](https://open.spotify.com/track/0b25hYIjji2IW3Qv84TuyC) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [Bamboleo](https://open.spotify.com/album/1I3WimvXutvDtk9kwcAuKd) | 1:53 |
 
-Snapshot ID: `aHA3+wAAAAA5ORD514yU8fa10l5TZ7JQ`
+Snapshot ID: `aHDlMgAAAABTLl5i78KYELvczTRWHrIg`

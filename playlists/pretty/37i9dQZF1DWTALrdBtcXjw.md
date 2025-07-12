@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,006 likes - 122 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,997 likes - 122 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 87 | [Monky Donkey](https://open.spotify.com/track/5wjbM7hhv66toC3a1fXdcT) | [Gábor Bolla](https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z) | [Monky Donkey](https://open.spotify.com/album/651fHcUZBplRqdCZihyDzv) | 7:52 |
 | 88 | [My One and Only Love](https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO) | [My One and Only Love](https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa) | 4:50 |
 | 89 | [Summer Night](https://open.spotify.com/track/13OL18QpOtq4YQqV2JSLH1) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/1QB4m0HwnjxgEBC4Azxdtz) | 6:38 |
-| 90 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 |
+| 90 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 |
 | 91 | [How Deep Is the Ocean? \(feat\. Danny Gottlieb & Jacob Jezioro\)](https://open.spotify.com/track/3d8vUViUV2NpB37JhxnTcH) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is the Ocean](https://open.spotify.com/album/4O7jV7aCfbf9vFJEqfWblQ) | 4:40 |
 | 92 | [A Word from the Wise](https://open.spotify.com/track/2wBbbh6C5jyUunEvom98pJ) | [Doxas Brothers](https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5) | [A Word from the Wise](https://open.spotify.com/album/2WwQoU5Zv0lUoUfqwBw46n) | 5:57 |
 | 93 | [Divergence](https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf) | [Alistair Martin](https://open.spotify.com/artist/2fDpiP8x5yGXehZ6WrZFig) | [Oblivion](https://open.spotify.com/album/0ZmP5V1EPnCEVcyy1tV7pF) | 5:43 |

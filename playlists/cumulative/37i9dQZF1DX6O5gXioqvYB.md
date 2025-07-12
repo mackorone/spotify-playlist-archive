@@ -4,7 +4,7 @@
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: IRBIS
 
-677 songs - 1 day 10 hr 6 min
+678 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [codice morse](https://open.spotify.com/track/65F3X4vmeu3j6qAn1tqNJp) | [moha111](https://open.spotify.com/artist/0zInhyakN9jMdmXwCLRUyW) | [codice morse](https://open.spotify.com/album/2zUwAyYhGvM8GaEoju9A4G) | 2:39 | 2025-01-30 | 2025-03-08 |
 | [Colleghi borghesi](https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Colleghi borghesi](https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib) | 2:30 | 2024-07-04 | 2024-10-24 |
 | [COLLISIONE](https://open.spotify.com/track/3E1TuHUDzlbquMmvkzbSqS) | [CARRESE](https://open.spotify.com/artist/0o03kaFDzK8R1hSe3mRepL) | [CRISALIDE](https://open.spotify.com/album/37XoPU9JXgqWCR2pW0utiP) | 3:34 | 2025-05-22 | 2025-06-20 |
+| [colpa nostra](https://open.spotify.com/track/2JiQmYc94zn67jmsuDYufu) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [estate blu](https://open.spotify.com/album/4Y99eudho9kp5J1t48ZnnF) | 2:54 | 2025-07-11 |  |
 | [COLPO DI PISTOLA](https://open.spotify.com/track/7tZ5a5T9NToUr220mNjOld) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [ROCK & ROLL](https://open.spotify.com/album/2ykZYAOl8q2Yn1mBT4qnLw) | 4:44 | 2025-04-24 | 2025-07-04 |
 | [Come i cori](https://open.spotify.com/track/10ktgacapot6Yy0k8pUaT8) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Malpelo](https://open.spotify.com/artist/3yfbIVTJBT6kawT1yjQvOZ), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Come i cori](https://open.spotify.com/album/16jekJc3IR6f5mwvzPu7fn) | 2:29 | 2025-06-19 |  |
 | [come i fiori](https://open.spotify.com/track/1bOIIQUgoxmdCvbIgT2ktR) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [come i fiori](https://open.spotify.com/album/6VKyngUB1rX9WXruFKPKBW) | 2:21 | 2025-03-13 | 2025-04-18 |

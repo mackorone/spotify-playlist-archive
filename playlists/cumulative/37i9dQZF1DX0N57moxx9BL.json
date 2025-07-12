@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Demon Hunter",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Kutless",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -532,6 +532,24 @@
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+    },
+    {
+      "album": {
+        "name": "The Seventh Seal",
+        "url": "https://open.spotify.com/album/1osqrxaIWzatwgzDjGuJ74"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274884,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/30PmBCzR76Y75XlLbheTM9"
     },
     {
       "album": {
@@ -1226,6 +1244,24 @@
       "duration_ms": 354815,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
+    },
+    {
+      "album": {
+        "name": "Enough!",
+        "url": "https://open.spotify.com/album/2ECLXxxCxW08CVMpuXJOAH"
+      },
+      "artists": [
+        {
+          "name": "Wavorly",
+          "url": "https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Enough!",
+      "url": "https://open.spotify.com/track/0SuC99M8imUnCwvMsmGiGZ"
     },
     {
       "album": {
@@ -2574,7 +2610,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 228001,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/6EgznE2RneOGazjXOH0lv2"
@@ -3008,6 +3044,24 @@
       "duration_ms": 255980,
       "name": "Pls Snd Hlp",
       "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+    },
+    {
+      "album": {
+        "name": "Praise With Everything (Live)",
+        "url": "https://open.spotify.com/album/38QL3vikchBG5Kl8fT7xvF"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154427,
+      "name": "Praise With Everything - Live",
+      "url": "https://open.spotify.com/track/1O3NkK3h81fmNyW40GpUof"
     },
     {
       "album": {
@@ -4458,7 +4512,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 121543,
       "name": "WILL YOU SEE GOD?",
       "url": "https://open.spotify.com/track/4il1GBerEw51VHGNjYD84B"

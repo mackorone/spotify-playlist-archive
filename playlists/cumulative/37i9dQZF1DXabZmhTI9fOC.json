@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 217747,
       "name": "All Of The Feelings",
       "url": "https://open.spotify.com/track/0jW5nRV4JFYNbCIbPndHiZ"
@@ -6545,6 +6545,24 @@
     },
     {
       "album": {
+        "name": "I Cry When I Laugh",
+        "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227343,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/3iAD903jI8tHlM6Cn1zMax"
+    },
+    {
+      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -12399,6 +12417,24 @@
     },
     {
       "album": {
+        "name": "Something Burning",
+        "url": "https://open.spotify.com/album/5SicShvCbTp0ZJqjmhjjLA"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183402,
+      "name": "Rockabi",
+      "url": "https://open.spotify.com/track/1EfSgLmaVLirrKf6mL2EYf"
+    },
+    {
+      "album": {
         "name": "Revivals",
         "url": "https://open.spotify.com/album/2rvirCzv2crkdk3ix71vGB"
       },
@@ -12520,6 +12556,24 @@
       "duration_ms": 207750,
       "name": "Run",
       "url": "https://open.spotify.com/track/6UNe4IwUq0fRBQIFWY7cUZ"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5Wx1mFsJ6O0eVC6Vl8oSRO"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279186,
+      "name": "Run - Single Mix",
+      "url": "https://open.spotify.com/track/2GYnOtEAXGmEuJFld68vvb"
     },
     {
       "album": {

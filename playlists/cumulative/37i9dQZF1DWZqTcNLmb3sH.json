@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Abbabbabba (From \"Love Matteru\")",
+        "url": "https://open.spotify.com/album/2HDaVcYu0e7jTvldW3wlVG"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238864,
+      "name": "Abbabbabba - From \"Love Matteru\"",
+      "url": "https://open.spotify.com/track/2YeK8AOFztFcfpCdMUnwFR"
+    },
+    {
+      "album": {
         "name": "Abhimaaniyaagi Hodhe (From \"Just Married\")",
         "url": "https://open.spotify.com/album/5iOjMPEBlEDl68xoxvY2fd"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 246501,
       "name": "Abki Baar Arjun Sarkaar (From \"Hit - 3\") (Kannada)",
       "url": "https://open.spotify.com/track/4BOUuep7Ti8rETAQk745hu"
@@ -19746,7 +19764,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 162121,
       "name": "Lavender Kaalave (From \"Kadhalikka Neramillai\")",
       "url": "https://open.spotify.com/track/6Y3qAecIx3zliqjXUsVQiu"
@@ -23634,7 +23652,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-12",
       "duration_ms": 151064,
       "name": "Muevelo (From \"Kadhalikka Neramillai\") [KANNADA]",
       "url": "https://open.spotify.com/track/0GjjzMEWb6nKbumMwI97ca"
@@ -38577,6 +38595,44 @@
     },
     {
       "album": {
+        "name": "Yaarivanu Yaarivanu ( From \"Hari Hara Veera Mallu\") [Kannada]",
+        "url": "https://open.spotify.com/album/1AzN8x1guAScuNcRCNRUvn"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Hymath Mohammed",
+          "url": "https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV"
+        },
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95083,
+      "name": "Yaarivanu Yaarivanu ( From \"Hari Hara Veera Mallu\") [Kannada]",
+      "url": "https://open.spotify.com/track/5dS0gtplaOQXt5tH6Nti13"
+    },
+    {
+      "album": {
         "name": "Yaaro Naa Kaane (From \"Katle\")",
         "url": "https://open.spotify.com/album/0aMAX6ksvpzCvdgWn3YQqx"
       },
@@ -38740,6 +38796,36 @@
       "duration_ms": 211312,
       "name": "Yaava Swargadinda (From \"One Cut Two Cut\")",
       "url": "https://open.spotify.com/track/7N1VCDhJPQCdyJ9h0f1B7o"
+    },
+    {
+      "album": {
+        "name": "Yaavurig Hokkiye Hudugi (From \"Seetha Payanam\") (Kannada)",
+        "url": "https://open.spotify.com/album/6pVUs501dCiApouoVvKsAW"
+      },
+      "artists": [
+        {
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        },
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Shruthi Prahlada",
+          "url": "https://open.spotify.com/artist/1KW5uuc8ZpuVbpnAnopYpi"
+        },
+        {
+          "name": "Bharatha Janani",
+          "url": "https://open.spotify.com/artist/1UqKke6O890osGMU9u8pPJ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255789,
+      "name": "Yaavurig Hokkiye Hudugi (From \"Seetha Payanam\") (Kannada)",
+      "url": "https://open.spotify.com/track/5YtQbiETTLIHiRRZ2avguf"
     },
     {
       "album": {

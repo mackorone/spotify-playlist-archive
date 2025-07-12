@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Chapo102
 
-2,795 songs - 5 day 10 hr 43 min
+2,797 songs - 5 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1281,6 +1281,7 @@
 | [Juli](https://open.spotify.com/track/7ATT3NKq4loDIZnpMvUK8S) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Hörst du mich](https://open.spotify.com/album/2ZMgHwe3AcY5paMZfbsKNX) | 3:00 | 2024-07-26 | 2024-08-02 |
 | [Julia](https://open.spotify.com/track/7r9NCIrR6ZRHX1jfjAASVv) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:17 | 2024-04-04 | 2024-05-03 |
 | [Jumanji](https://open.spotify.com/track/2VSu92S27IfOZF2WaNBX5j) | [NUGAT](https://open.spotify.com/artist/74yjU6gHx05PeHAokao6DS) | [Jumanji](https://open.spotify.com/album/0WilVksURcWI6aoYZR1uzy) | 2:43 | 2023-08-03 | 2023-08-30 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-10 |  |
 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 | 2023-07-13 | 2023-08-30 |
 | [Jung & dumm](https://open.spotify.com/track/04HhklbQjA1Z5ijLXNTeH6) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Teil vom Ganzen](https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn) | 2:53 | 2023-08-03 | 2023-11-17 |
 | [Jung & dumm](https://open.spotify.com/track/7xB3seU9qIPhm7UpVIEyeO) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Jung & dumm](https://open.spotify.com/album/7dbIYBCmsxbiFxg5BWXwJn) | 2:53 | 2023-08-03 | 2023-08-06 |
@@ -2372,6 +2373,7 @@
 | [The More I Bite](https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX) | [The More I Bite](https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt) | 2:18 | 2023-01-19 | 2023-02-03 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-07-26 | 2023-11-03 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 | 2024-04-18 | 2024-05-10 |
+| [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 | 2025-07-10 |  |
 | [the way i make things feel okay](https://open.spotify.com/track/6cwoWIlnIjELEUroEMLAwl) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [the way i make things feel okay](https://open.spotify.com/album/6wkxWLJyo8jKghJDPiZ9GV) | 4:30 | 2022-07-11 | 2022-09-02 |
 | [Theater★](https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Theater★](https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS) | 2:35 | 2023-08-17 | 2023-10-20 |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-11 | 2024-08-02 |
