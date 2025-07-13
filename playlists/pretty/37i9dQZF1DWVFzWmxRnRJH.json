@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 329990,
+  "num_followers": 330281,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z7PVSAAAAAC1tGM4LPN0rnLsfDbbUl9D",
   "tracks": [
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Forever and Ever, Amen",
-      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
-    },
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Forever and Ever, Amen",
+      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 240866,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+        "name": "Haywire",
+        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+      "duration_ms": 192800,
+      "name": "Why Don't We Just Dance",
+      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Haywire",
-        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
       "artists": [
         {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Why Don't We Just Dance",
-      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Mud On The Tires",
         "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 208266,
       "name": "Mud on the Tires",
       "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1035,6 +1019,22 @@
       "duration_ms": 221333,
       "name": "Redneck Woman",
       "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Be Here",
-        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 224629,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Livin' It Up",
         "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 187000,
       "name": "Love Without End, Amen",
       "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Be Here",
+        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224629,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
       "artists": [
         {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     }
   ],
   "unique_name": "Raised on Country",

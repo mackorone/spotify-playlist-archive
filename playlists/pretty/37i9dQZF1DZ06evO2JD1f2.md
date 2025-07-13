@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,845 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,850 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 31 | [Get Down V2 ext aug8](https://open.spotify.com/track/07yO8pAFqUiJaMwy5WKHj3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:55 |
 | 32 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 |
 | 33 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 |
-| 34 | [I Still Dont Feel Nun](https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:04 |
-| 35 | [Spin](https://open.spotify.com/track/04ZrEsPyVGsahWXTegcO33) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:21 |
-| 36 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 |
+| 34 | [Water Zips \(feat\. Kevin Gates\)](https://open.spotify.com/track/3ckPCrtxs4XEiQ4YFvdirx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 3:02 |
+| 35 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 |
+| 36 | [Spin](https://open.spotify.com/track/04ZrEsPyVGsahWXTegcO33) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:21 |
 | 37 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
-| 38 | [Water Zips \(feat\. Kevin Gates\)](https://open.spotify.com/track/3ckPCrtxs4XEiQ4YFvdirx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 3:02 |
+| 38 | [I Still Dont Feel Nun](https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:04 |
 | 39 | [Balloons \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:36 |
 | 40 | [My Love \(feat\. Veeze & Rylo Rodriguez\)](https://open.spotify.com/track/047PEPAZ1uaAGls8D86gZa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 3:19 |
 | 41 | [Hmhmm \(feat\. EST Gee\)](https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 49 | [Go](https://open.spotify.com/track/70TT79MgD97PaPVk3i3CSG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:06 |
 | 50 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 2:47 |
 
-Snapshot ID: `aG8CgAAAAACT+QKOqzvPfugQLpoXRFD2`
+Snapshot ID: `aHBUAAAAAADrkBZLMZ5qaXf3iKLkJ1cL`

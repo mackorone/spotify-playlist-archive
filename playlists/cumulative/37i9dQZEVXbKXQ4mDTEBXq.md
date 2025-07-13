@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-617 songs - 1 day 13 hr 44 min
+618 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Banana \(Take It Lazy\)](https://open.spotify.com/track/5jrEReDFUjifSCR28hcfBP) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 2:48 | 2024-05-31 | 2024-06-05 |
 | [BE CLASSIC](https://open.spotify.com/track/4ddBsPV13qO8SGaVf6ZQnl) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(Special Edition\)](https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK) | 2:39 | 2025-04-03 | 2025-05-21 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/3pSziKVQ331bLbgHYssZxS) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Billyeoon Goyangi \(Do the Dance\) \(Remixes\)](https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni) | 3:08 | 2025-06-28 | 2025-07-10 |
-| [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-24 |  |
+| [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-24 | 2025-07-13 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-13 | 2025-02-07 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/4LhDEsC2tzaVuZbWAaCLrP) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [LEGION](https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw) | 2:49 | 2025-02-06 | 2025-04-19 |
 | [Blow Your Cover](https://open.spotify.com/track/5O3r5G2SrYQ3rYEUwwziAB) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:39 | 2024-03-07 | 2024-03-14 |
@@ -152,6 +152,7 @@
 | [I’ll Be There](https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 3:01 | 2024-12-08 | 2024-12-24 |
 | [I’m invincible](https://open.spotify.com/track/7yQnZkAxSiAavC0zFRB1NI) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:17 | 2023-06-06 | 2023-06-28 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2022-12-25 | 2024-12-27 |
+| [JUMP](https://open.spotify.com/track/4TbkhyiZjLS2srPUVez9Fm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/5t3RN1l5dn414E49qTe6UC) | 2:44 | 2025-07-12 |  |
 | [Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Kaiju](https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS) | 4:12 | 2025-02-20 | 2025-07-12 |
 | [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 | 2025-07-04 |
 | [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 | 2025-07-12 |

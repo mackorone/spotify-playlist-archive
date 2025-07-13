@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 82125,
+  "num_followers": 82146,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABbhzCHmWtPR6wBEE2Z6htO",
+  "snapshot_id": "aHBUAAAAAACewRspx1Vw8tZlHr2uPd9h",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 178449,
-      "name": "My Sanity",
-      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 107323,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 178449,
+      "name": "My Sanity",
+      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 140306,
-      "name": "Stranger Than Fiction",
-      "url": "https://open.spotify.com/track/6ZCDfhSSqvpM8rW344srSM"
+      "duration_ms": 158906,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 158906,
-      "name": "Better Off Dead",
-      "url": "https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP"
+      "duration_ms": 140306,
+      "name": "Stranger Than Fiction",
+      "url": "https://open.spotify.com/track/6ZCDfhSSqvpM8rW344srSM"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gray Race",
-        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 123666,
-      "name": "Come Join Us",
-      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 100693,
       "name": "Automatic Man",
       "url": "https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 123666,
+      "name": "Come Join Us",
+      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Process Of Belief",
-        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 239813,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Empire Strikes First",
         "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 177680,
       "name": "All There Is",
       "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 239813,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
     },
     {
       "added_at": null,

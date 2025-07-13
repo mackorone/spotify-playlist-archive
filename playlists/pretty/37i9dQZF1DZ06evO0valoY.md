@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,548 likes - 48 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,560 likes - 48 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 7 | [OTRAS 24 HORAS](https://open.spotify.com/track/0pDnaflKbJcMj1TVbDDcH0) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:42 |
 | 8 | [LA DURANGO](https://open.spotify.com/track/5jVExEArvISIYu8mamVgfV) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:22 |
 | 9 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 |
-| 10 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
+| 10 | [VETE A LA FREGADA](https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 2:46 |
 | 11 | [TE ODIO!](https://open.spotify.com/track/5dQwZJPmRoHziPCGmKyxvt) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:11 |
-| 12 | [VETE A LA FREGADA](https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 2:46 |
+| 12 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
 | 13 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
 | 14 | [Me Matas](https://open.spotify.com/track/50g9l7cOUIXt9LVl9eX784) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 3:23 |
 | 15 | [Dime](https://open.spotify.com/track/4oSFRdQOUmIx5y7lSN8UU2) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:03 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 29 | [Diciembre](https://open.spotify.com/track/5kPEpa2Z7jWjfA6YMq9CGE) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 3:42 |
 | 30 | [QUE DIABLOS HICE \(INTERLUDE\)](https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 1:47 |
 | 31 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 |
-| 32 | [Catorce de Febrero](https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:35 |
+| 32 | [Me Prendes](https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:37 |
 | 33 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 6:38 |
 | 34 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 |
 | 35 | [¿Donde Has Estado?](https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:52 |
-| 36 | [Me Prendes](https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:37 |
+| 36 | [Catorce de Febrero](https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:35 |
 | 37 | [La Fresa](https://open.spotify.com/track/0MDIsFaykSb6hYx8UkzkTS) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Amor Perdido](https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL) | 2:54 |
 | 38 | [La Mejor de Todas](https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 3:28 |
 | 39 | [Te Quiero a Ti](https://open.spotify.com/track/5OpHUq6Fo1qaUhU3imV6TK) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 3:40 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 47 | [Ganas Que Te Tengo](https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 3:59 |
 | 48 | [La Diabla](https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:27 |
 
-Snapshot ID: `aG8CgAAAAAAuJ0rAO5fbsBzKfQZymRGU`
+Snapshot ID: `aHBUAAAAAACB5jgnJYDlt4Cz96SbyWr1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,669 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,764 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 76 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 77 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
 | 78 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
-| 79 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
-| 80 | [Try](https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 4:38 |
+| 79 | [Try](https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 4:38 |
+| 80 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
 | 81 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
 | 82 | [Even After All](https://open.spotify.com/track/096O9QxDBQ1xPIyLskGwbq) | [Finley Quaye](https://open.spotify.com/artist/1pf3joSSGlPRxmUoWSsh1W) | [Maverick A Strike](https://open.spotify.com/album/7wvOewuyOTcqyE5Xog0dp8) | 3:54 |
 | 83 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 |

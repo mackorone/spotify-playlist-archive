@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,819 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,831 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 51 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 52 | [I Don't Know Why \(I Just Do\)](https://open.spotify.com/track/0WiIGxBzkA2SvE8clbz3X0) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Still Blooming](https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj) | 3:44 |
 | 53 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
-| 54 | [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 |
-| 55 | [When I Loved You](https://open.spotify.com/track/6uOT7G2JvftdMvPxeSJCW5) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [When I Loved You](https://open.spotify.com/album/2MQmCk9CWJRhSfnnbF0OxM) | 3:28 |
+| 54 | [When I Loved You](https://open.spotify.com/track/6uOT7G2JvftdMvPxeSJCW5) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [When I Loved You](https://open.spotify.com/album/2MQmCk9CWJRhSfnnbF0OxM) | 3:28 |
+| 55 | [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 |
 | 56 | [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 |
 | 57 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 | 58 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 63 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 |
 | 64 | [Dear Me \- From The Original Documentary "Diane Warren: Relentless"](https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Dear Me \(From The Original Documentary "Diane Warren: Relentless"\)](https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH) | 3:20 |
 | 65 | [Cannibal](https://open.spotify.com/track/3Sg6B5YHoP2JvDEj4AndqL) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Cannibal](https://open.spotify.com/album/7M07KVSye8Bj8Qdn4ijnJ7) | 3:11 |
-| 66 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 |
-| 67 | [Only Love](https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/0MMEETFIql7BICSfsIfoBF) | 4:19 |
+| 66 | [Only Love](https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/0MMEETFIql7BICSfsIfoBF) | 4:19 |
+| 67 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 |
 | 68 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
 | 69 | [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 |
 | 70 | [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 |

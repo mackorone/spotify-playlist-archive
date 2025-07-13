@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,599 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,621 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 39 | [Let the Beat Control Your Body](https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP) | [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK), [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW) | [Bromance \#1 \- Single](https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt) | 5:11 |
 | 40 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 |
 | 41 | [TASTY \- Boys Noize Remix](https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 3:50 |
-| 42 | [VSOD \- Velvet Sky of Dreams](https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [VSOD \(Velvet Sky of Dreams\)](https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK) | 5:42 |
-| 43 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
+| 42 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
+| 43 | [VSOD \- Velvet Sky of Dreams](https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [VSOD \(Velvet Sky of Dreams\)](https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK) | 5:42 |
 | 44 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |
 | 45 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 |
 | 46 | [PFW \(Paris Fashion Week\)](https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [PFW \(Paris Fashion Week\)](https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ) | 3:30 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 54 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
 | 55 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 |
 | 56 | [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 |
-| 57 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
-| 58 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
+| 57 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
+| 58 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
 | 59 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
 | 60 | [Composure](https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Composure](https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj) | 2:29 |
 | 61 | [Iron 2021](https://open.spotify.com/track/19VTLxYPvCyYpAWxsfj3ir) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/6WYxdEPp7IVNMR5uBj8dRg) | 8:43 |

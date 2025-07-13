@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 438200,
+  "num_followers": 438596,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAWYA/Y81lq2040k3a73okf",
+  "snapshot_id": "aHBUAAAAAAD/mDOU1cJ/MrFPkzzD/dX3",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 124173,
       "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
       "url": "https://open.spotify.com/track/4HpIh5wWfkq5sSuCLLSwYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "my mind is a mountain",
+        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
     },
     {
       "added_at": null,
@@ -564,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 189760,
-      "name": "Feiticeira",
-      "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
+      "duration_ms": 268026,
+      "name": "Rx Queen",
+      "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
     },
     {
       "added_at": null,
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 268026,
-      "name": "Rx Queen",
-      "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
+      "duration_ms": 189760,
+      "name": "Feiticeira",
+      "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 250893,
       "name": "Hexagram",
       "url": "https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Minus Blindfold",
-      "url": "https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T"
     }
   ],
   "unique_name": "This Is Deftones",

@@ -4,7 +4,7 @@
 
 > ¡Ya huele a sopita! Buen provecho.
 
-281 songs - 16 hr 11 min
+282 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-08-09 | 2022-12-24 |
 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 | 2025-02-01 |  |
 | [Nos Perdimos](https://open.spotify.com/track/3HU3xpciIxqfEZ6P8CznZY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Nos Perdimos](https://open.spotify.com/album/536ir6fCRb02qJbAKF2GmR) | 2:48 | 2023-08-25 | 2025-02-02 |
+| [Nuestro Juramento](https://open.spotify.com/track/0X2tvdSAB6hnZ78UzuwxXQ) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Mítico Julio Jaramillo](https://open.spotify.com/album/0UeR76dAXJCDOPulm6SBj4) | 3:15 | 2025-02-01 |  |
 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 | 2025-02-01 |  |
 | [Ojos Marrones](https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Ojos Marrones](https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb) | 2:43 | 2023-03-05 | 2025-02-02 |
 | [Oro](https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:10 | 2022-05-23 |  |
@@ -184,7 +185,7 @@
 | [Partido En Dos](https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Partido En Dos](https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw) | 3:46 | 2022-05-23 | 2025-02-02 |
 | [Pedazo De Tonto](https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Pedazo De Tonto](https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb) | 2:40 | 2023-02-27 | 2025-02-02 |
 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 | 2022-08-09 |  |
-| [Perfume de Gardenias](https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:12 | 2025-02-01 |  |
+| [Perfume de Gardenias](https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:12 | 2025-02-01 | 2025-07-13 |
 | [Pero La Recuerdo \- Cumbia Santa Maria \-](https://open.spotify.com/track/41amq6NLZaFLUzDfkMYS7V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Inventame Un Amor](https://open.spotify.com/album/2iaW8JmFSzJLkAURPi8A0D) | 3:47 | 2022-05-23 | 2022-07-29 |
 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 | 2022-05-23 | 2025-02-02 |
 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 | 2022-05-23 |  |

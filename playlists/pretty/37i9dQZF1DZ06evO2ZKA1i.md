@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,496 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,513 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 46 | [Nothing at All](https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 4:42 |
 | 47 | [Anya](https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Original Album Classics](https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb) | 6:31 |
 | 48 | [Into the Fire \- 1995 Remaster](https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 |
-| 49 | [A Bit on the Side](https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 4:10 |
-| 50 | [You Can't Do It Right \- 2009 Digital Remaster](https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:25 |
+| 49 | [You Can't Do It Right \- 2009 Digital Remaster](https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:25 |
+| 50 | [A Bit on the Side](https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 4:10 |
 
-Snapshot ID: `aG8CgAAAAABMatXXUyC4jCb5OB2/l1wF`
+Snapshot ID: `aHBUAAAAAABL008mHUlC/feDJSp+R5XM`

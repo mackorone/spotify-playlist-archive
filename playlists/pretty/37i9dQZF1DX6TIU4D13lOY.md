@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,823 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,948 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 26 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
 | 27 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
 | 28 | [Baby Come Back](https://open.spotify.com/track/2eRYuzlSOBk3HlMsCSOLPJ) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Late Night Tales: Music For Pleasure](https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc) | 3:34 |
-| 29 | [I Saw the Light](https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 3:02 |
-| 30 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
+| 29 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
+| 30 | [I Saw the Light](https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 3:02 |
 | 31 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 |
 | 32 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
 | 33 | [I Just Wanna Stop](https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ) | [Gino Vannelli](https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR) | [Brother To Brother](https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc) | 3:38 |
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 47 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
 | 48 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
 | 49 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
-| 50 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
-| 51 | [Make Believe](https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 3:43 |
+| 50 | [Make Believe](https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 3:43 |
+| 51 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
 | 52 | [Smoke from a Distant Fire](https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T) | [Sanford Townsend Band](https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0) | [Smoke From A Distant Fire](https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX) | 3:33 |
 | 53 | [I Was Only Joking](https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Foot Loose & Fancy Free](https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg) | 6:07 |
 | 54 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
 | 55 | [Chevy Van](https://open.spotify.com/track/31S6oGx81hVIjWz6cu5oNw) | [Sammy Johns](https://open.spotify.com/artist/5L2UqkzpfZD5OpdA6fSfVH) | [Sammy Johns](https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z) | 2:59 |
-| 56 | [Midnight at the Oasis](https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:49 |
-| 57 | [Fool \(If You Think It's Over\)](https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini?](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:44 |
+| 56 | [Fool \(If You Think It's Over\)](https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini?](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:44 |
+| 57 | [Midnight at the Oasis](https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:49 |
 | 58 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
 | 59 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
 | 60 | [Imaginary Lover](https://open.spotify.com/track/3qxBN4nWvSDibXmEq5of9E) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 5:07 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 76 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 77 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
 | 78 | [Sometimes When We Touch](https://open.spotify.com/track/2hw2fDtNPkIowTNuQRmlnN) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/68kM51V7P3ys10rx3RDFnH) | 4:12 |
-| 79 | [Little Jeannie](https://open.spotify.com/track/7pgAdesi3gGZO8lAyzOTvu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6di4cgOMxTkS0tUx5l07WW) | 5:17 |
-| 80 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 |
+| 79 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 |
+| 80 | [Little Jeannie](https://open.spotify.com/track/7pgAdesi3gGZO8lAyzOTvu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6di4cgOMxTkS0tUx5l07WW) | 5:17 |
 
 Snapshot ID: `ZowqsgAAAADrOPQBM9ce6zRp133SiwIA`

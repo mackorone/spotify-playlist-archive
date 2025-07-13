@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 11852,
+  "num_followers": 11856,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAJCoSmDkgdVxIPp4Er+DR+",
+  "snapshot_id": "aHBUAAAAAAANC9oDqiF3W69866ys9UmM",
   "tracks": [
     {
       "added_at": null,
@@ -274,11 +274,15 @@
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Tim Bush",
+          "url": "https://open.spotify.com/artist/6ocSlBaa1UpCJoq0hVOAdu"
         }
       ],
-      "duration_ms": 283152,
-      "name": "Immanuel",
-      "url": "https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj"
+      "duration_ms": 641578,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/0iApjJnqkWle223SwRe78D"
     },
     {
       "added_at": null,
@@ -346,15 +350,11 @@
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Tim Bush",
-          "url": "https://open.spotify.com/artist/6ocSlBaa1UpCJoq0hVOAdu"
         }
       ],
-      "duration_ms": 641578,
-      "name": "Saviour",
-      "url": "https://open.spotify.com/track/0iApjJnqkWle223SwRe78D"
+      "duration_ms": 283152,
+      "name": "Immanuel",
+      "url": "https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307986,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
+      "duration_ms": 292813,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 292813,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
+      "duration_ms": 307986,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
       "duration_ms": 198226,
       "name": "1-2 (Victory Check) - Live",
       "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fearless (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 505773,
-      "name": "I Give You Glory",
-      "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fearless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 505773,
+      "name": "I Give You Glory",
+      "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Hallelujah To Your Name - Live",
-      "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 360680,
       "name": "My Joy",
       "url": "https://open.spotify.com/track/00tk3yXvbdngvs5nuTysRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Hallelujah To Your Name - Live",
+      "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
     },
     {
       "added_at": null,

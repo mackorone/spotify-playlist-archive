@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,942 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,663 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 8 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
 | 9 | [Where The River Goes](https://open.spotify.com/track/34ZuYTjotU24xALX5Hi23C) | [House Phone](https://open.spotify.com/artist/4BHMLvxLKkWPL7iuTnUdZC) | [Sunrise / Where The River Goes](https://open.spotify.com/album/2iF7lvvF2n8rX17ItmBeXZ) | 5:31 |
 | 10 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 |
-| 11 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 |
-| 12 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 11 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 12 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 |
 | 13 | [Redemption](https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Redemption \(From the Apple Original Film “Palmer”\)](https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB) | 4:58 |
 | 14 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 15 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 29 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 30 | [Red And Gold](https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:19 |
 | 31 | [Summer Somewhere](https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Summer Somewhere](https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3) | 3:03 |
-| 32 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
-| 33 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 |
+| 32 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 |
+| 33 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
 | 34 | [Old Town](https://open.spotify.com/track/62wUcF268nKH9HcMaY247d) | [Luis Trindade](https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk) | [Dead Leaves](https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ) | 3:07 |
 | 35 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 |
 | 36 | [Oh Ohio](https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Oh Ohio](https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5) | 2:58 |

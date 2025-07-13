@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,632,792 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,632,791 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 26 | [Turn It Around](https://open.spotify.com/track/511ZzubAccO7n3hAwhY3EW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Confetti & Conspiracies: The Amen Mixtape](https://open.spotify.com/album/3n1ZcpEmjNKXc7M5VPmkZX) | 2:17 |
 | 27 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |
 | 28 | [Your Song](https://open.spotify.com/track/5SobIeMqDzWxrBpQPkx7Tj) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Roses](https://open.spotify.com/album/1KS8wbOx2wWw1ce0VdcMgV) | 3:29 |
-| 29 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:43 |
+| 29 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 |
 | 30 | [We Rise And Fall](https://open.spotify.com/track/7wgOJAyT89i2WOcT4a7Z67) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Northstar](https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L) | 3:11 |
 | 31 | [BROOKLYN JAZZ MAN](https://open.spotify.com/track/6UGGJPrVDivoej6suZVdtG) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [THE ONE](https://open.spotify.com/album/7hVSEz1tG1EL6wDk8pgvCV) | 2:39 |
 | 32 | [Pray](https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pray](https://open.spotify.com/album/3F6vpAXVJVrQwQGL6pDFdi) | 2:50 |

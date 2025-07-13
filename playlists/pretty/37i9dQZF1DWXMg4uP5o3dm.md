@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,324 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,345 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 34 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 |
 | 35 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 |
 | 36 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
-| 37 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
+| 37 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
 | 38 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |
-| 39 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
+| 39 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
 | 40 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 | 41 | [¿ \(feat\. Halsey\)](https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Music to listen to\~dance to\~blaze to\~pray to\~feed to\~sleep to\~talk to\~grind to\~trip to\~breathe to\~help to\~hurt to\~scroll to\~roll to\~love to\~hate to\~learn Too\~plot to\~play to\~be to\~feel to\~breed to\~sweat to\~dream to\~hide to\~live to\~die to\~GO TO](https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft) | 5:13 |
 | 42 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 75 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
 | 76 | [Pool Scene](https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Conditions III](https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR) | 4:58 |
 | 77 | [so wrong \(so right!\)](https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EYEBLEACH.](https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb) | 1:46 |
-| 78 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
-| 79 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
+| 78 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
+| 79 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
 | 80 | [Never Like Me](https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Never Like Me](https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT) | 3:14 |
 | 81 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
 | 82 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 |

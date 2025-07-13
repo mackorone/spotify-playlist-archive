@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 285661,
+  "num_followers": 285767,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAChH83O5SF73HqfrnXnjgvo",
+  "snapshot_id": "aHBUAAAAAADoVKScrZvVZ2mlfkd/iPMT",
   "tracks": [
     {
       "added_at": null,
@@ -415,30 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Mexico Song",
-        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Bear Busby",
-          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "De Mexico Song",
-      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aun Te Pienso",
         "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
       },
@@ -723,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
+        "name": "Danzando Con Demonios",
+        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
       },
       "artists": [
         {
@@ -732,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 245562,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
+      "duration_ms": 205007,
+      "name": "Cuchillo en la Yugular",
+      "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
     },
     {
       "added_at": null,
@@ -755,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danzando Con Demonios",
-        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
       },
       "artists": [
         {
@@ -764,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 205007,
-      "name": "Cuchillo en la Yugular",
-      "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
+      "duration_ms": 245562,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
     },
     {
       "added_at": null,
@@ -871,6 +847,22 @@
       "duration_ms": 168000,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danzando Con Demonios",
+        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 223454,
+      "name": "Danzando Con Demonios",
+      "url": "https://open.spotify.com/track/3MLzrmul0cYgGk9infPMRl"
     }
   ],
   "unique_name": "This Is La Santa Grifa",

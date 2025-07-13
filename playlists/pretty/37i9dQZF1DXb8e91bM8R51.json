@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52734,
+  "num_followers": 52731,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2025-07-11 21:07:29",
       "album": {
-        "name": "Neck & Wrist",
-        "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 209314,
-      "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
-      "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
-    },
-    {
-      "added_at": "2025-07-11 21:07:29",
-      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz"
+    },
+    {
+      "added_at": "2025-07-11 21:07:29",
+      "album": {
+        "name": "Neck & Wrist",
+        "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 209314,
+      "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
+      "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
     },
     {
       "added_at": "2025-07-11 21:07:29",

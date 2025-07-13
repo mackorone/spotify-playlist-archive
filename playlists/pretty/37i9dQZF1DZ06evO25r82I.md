@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,911 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,919 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [Thinking, That's All](https://open.spotify.com/track/6woVdVXtPpcw9K7w0LJHBK) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Static Prevails \(Bonus Track Version\)](https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem) | 2:51 |
 | 50 | [Heart Is Hard To Find](https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:18 |
 
-Snapshot ID: `aG8CgAAAAAAuK8qaNIZXlVur1voCSKeK`
+Snapshot ID: `aHBUAAAAAAC3+oI3pMn+oef5mYVGIGur`

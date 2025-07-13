@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Sigrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,627 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,603 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 12 | [Sugar, baby](https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [autonomy](https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE) | 2:36 |
 | 13 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 |
 | 14 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
-| 15 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 15 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 16 | [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 |
 | 17 | [Last Night](https://open.spotify.com/track/4UE5S0lBnSHJTG6k2CCltD) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Last Night](https://open.spotify.com/album/3ElXGkmIueLg6pKTe4HPvv) | 2:50 |
 | 18 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 |

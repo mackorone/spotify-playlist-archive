@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Stepz
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,436 likes - 74 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,475 likes - 74 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 13 | [imposter syndrome](https://open.spotify.com/track/6mEp0iXyD5fjI0mlC4t1mE) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [imposter syndrome](https://open.spotify.com/album/016SROVIQh5iYQiRyuVrjG) | 3:20 |
 | 14 | [Ease Your Mind](https://open.spotify.com/track/6ITMqdUBqzCtPX5mhiOkhb) | [NAOMI](https://open.spotify.com/artist/30JZwBAgqINdgg2zefqwha) | [Ease Your Mind](https://open.spotify.com/album/2tcYrqRgthQ8DDEIRz0XhI) | 2:56 |
 | 15 | [Pray](https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pray](https://open.spotify.com/album/3F6vpAXVJVrQwQGL6pDFdi) | 2:50 |
-| 16 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:43 |
+| 16 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 |
 | 17 | [In The Middle](https://open.spotify.com/track/3cod5M5O36GlZoJzDua7gP) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [In The Middle](https://open.spotify.com/album/3TjBWzuEepDzrxRKOtPHTY) | 2:47 |
 | 18 | [100% \(Live\)](https://open.spotify.com/track/3AjCsbVDv23CRtBfC5xTYz) | [YMBBA](https://open.spotify.com/artist/1MEye2cSB2o3nYgaNIgrcw) | [Live On Mill Street](https://open.spotify.com/album/4EoKx0KS98GlWjDQiwa8Dd) | 5:18 |
 | 19 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |

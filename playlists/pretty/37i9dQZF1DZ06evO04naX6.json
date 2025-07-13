@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 172738,
+  "num_followers": 172744,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABxCS51ovHgNN8bqhGjoB7m",
+  "snapshot_id": "aHBUAAAAAABziJhxHcNZDQIOHPM2JXF3",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HABLAME CLARO",
-        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "HABLAME CLARO",
-      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
         "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 144453,
       "name": "BA\u00daL DE LOS RECUERDOS, PART 1",
       "url": "https://open.spotify.com/track/4eA0BFHcxY2C6O1MORav8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HABLAME CLARO",
+        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
     },
     {
       "added_at": null,

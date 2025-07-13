@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,454 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,568 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 35 | [Oh, Atlanta](https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 3:29 |
 | 36 | [Don't Misunderstand Me](https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU) | [Rossington Collins Band](https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi) | [20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band](https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH) | 3:56 |
 | 37 | [Whipping Post](https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Allman Brothers Band \(Deluxe\)](https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml) | 5:17 |
-| 38 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
-| 39 | [Left Turn on a Red Light](https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 4:37 |
+| 38 | [Left Turn on a Red Light](https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 4:37 |
+| 39 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
 | 40 | [Crazy](https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Right On Time](https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr) | 3:34 |
 | 41 | [Feats Don't Fail Me Now](https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 2:27 |
 | 42 | [Pretty Little Lie](https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:34 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 73 | [Coming Home](https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji) | [Johnny Van Zant Band](https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR) | [The Johnny Van Zant Collection](https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe) | 4:05 |
 | 74 | [Time To Roll](https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP), [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 4:58 |
 | 75 | [Open Road](https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Pullin' Together](https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz) | 4:09 |
-| 76 | [Georgia Rhythm](https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:53 |
-| 77 | [Hit the Nail on the Head \- Remastered](https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 2:22 |
+| 76 | [Hit the Nail on the Head \- Remastered](https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 2:22 |
+| 77 | [Georgia Rhythm](https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:53 |
 | 78 | [Can't Keep Running](https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 4:02 |
 | 79 | [Rock Bottom](https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 5:41 |
 | 80 | [Castle Rock](https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT) | [Barefoot Jerry](https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy) | [Southern Delight/Barefoot Jerry](https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV) | 4:39 |

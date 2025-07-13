@@ -4,7 +4,7 @@
 
 > Snuggling in for the evening with a nice soundtrack
 
-249 songs - 15 hr 2 min
+250 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 | 2024-05-24 | 2025-07-09 |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-12 | 2024-02-02 |
 | [Alaska \- Acoustic](https://open.spotify.com/track/3rST7c7KrUNLAmWGb8ZKUI) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Alaska \(Acoustic\)](https://open.spotify.com/album/74DmjZUfO07W1nBGXmNPmP) | 4:23 | 2022-05-25 | 2022-07-29 |
-| [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-10-01 |  |
+| [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-10-01 | 2025-07-13 |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2022-05-25 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2022-05-25 |  |
@@ -113,6 +113,7 @@
 | [home](https://open.spotify.com/track/6Hl5dmIotzJ28pM5Fpsgq7) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [home](https://open.spotify.com/album/0ar0HuyI7ELptzJi1O0WhF) | 3:39 | 2022-06-24 | 2022-07-28 |
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-28 | 2023-09-30 |
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2022-05-26 | 2022-10-08 |
+| [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 | 2025-07-11 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/6ZDGNoguJ64rxp0dfm60y0) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [I Can't Make You Love Me / Immigrant Song](https://open.spotify.com/album/6zYzeVQ573REqkd2sqodBv) | 4:51 | 2022-05-25 | 2022-05-27 |
 | [I Can't Wait To Get There](https://open.spotify.com/track/0bcZ7xN9IcjSNxLerzR2yl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:08 | 2025-02-03 |  |
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-03-19 | 2024-05-28 |

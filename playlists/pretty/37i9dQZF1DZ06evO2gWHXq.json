@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 226457,
+  "num_followers": 226474,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAR1D8fnA2h6KqqprQ/7DdT",
+  "snapshot_id": "aHBUAAAAAACjl0WulDiSEiyXwc6ltbYU",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Round 2 (feat. MC Davo) - Single",
         "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 201000,
       "name": "Round 2",
       "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Round 7",
         "url": "https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 214864,
       "name": "Round 7",
       "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
-        }
-      ],
-      "duration_ms": 148351,
-      "name": "La Que Dec\u00eda Que No",
-      "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dominio",
         "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
@@ -843,6 +823,30 @@
       "duration_ms": 196880,
       "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
       "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 246605,
+      "name": "Siempre Es Lo Mismo",
+      "url": "https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM"
     },
     {
       "added_at": null,
@@ -891,30 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 246605,
-      "name": "Siempre Es Lo Mismo",
-      "url": "https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dominio",
         "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 198120,
       "name": "Me ir\u00e9",
       "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        }
+      ],
+      "duration_ms": 148351,
+      "name": "La Que Dec\u00eda Que No",
+      "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
     },
     {
       "added_at": null,
@@ -991,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Ya no hay nada",
-      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 194754,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Ya no hay nada",
+      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
     },
     {
       "added_at": null,
@@ -1079,26 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
-        }
-      ],
-      "duration_ms": 190435,
-      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
-      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicosis",
         "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
       },
@@ -1115,18 +1095,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
         }
       ],
-      "duration_ms": 221146,
-      "name": "Andamos De Parranda",
-      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
+      "duration_ms": 190435,
+      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
+      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
     },
     {
       "added_at": null,
@@ -1151,6 +1135,22 @@
       "duration_ms": 216263,
       "name": "Lo Que Antes Eramos",
       "url": "https://open.spotify.com/track/0W9CE8nRywgykCOnz8mVvE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Andamos De Parranda",
+      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
     },
     {
       "added_at": null,

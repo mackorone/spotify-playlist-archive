@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-719 songs - 1 day 10 hr 3 min
+720 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 | 2024-03-04 |
 | [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 | 2023-09-10 |
+| [Dem Dey](https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 3:12 | 2025-07-11 |  |
 | [Denge II](https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Denge II](https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t) | 2:38 | 2023-10-13 | 2023-10-18 |
 | [Designer](https://open.spotify.com/track/7F7KrCYzktQutmPOJC3Ba6) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Designer](https://open.spotify.com/album/7tzvON12MgF7hKK8F5AQQx) | 3:01 | 2022-11-15 | 2022-12-03 |
 | [Devil Wears White](https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Devil Wears White](https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1) | 3:10 | 2024-05-17 | 2025-02-25 |
@@ -619,7 +620,7 @@
 | [Small Money](https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Small Money](https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4) | 2:25 | 2024-04-26 | 2024-10-01 |
 | [SMH](https://open.spotify.com/track/0DVj9NqROYmSFoaa4MUyE4) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [SMH](https://open.spotify.com/album/0MMuMrHpnuJMVJ90ZhMdmQ) | 2:28 | 2025-02-12 | 2025-04-01 |
 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 | 2022-06-09 | 2023-11-01 |
-| [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 | 2025-02-12 |  |
+| [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 | 2025-02-12 | 2025-07-13 |
 | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF) | 2:46 | 2024-03-29 | 2024-04-12 |
 | [Somebody](https://open.spotify.com/track/31YsaUKopejb1gATzVxH5R) | [Luckydchampion](https://open.spotify.com/artist/5z4Lt1d7cy9Gds5VjmB2w3), [Martinsfeelz](https://open.spotify.com/artist/6yDnSctLP418ktCtL1xmgS) | [Somebody](https://open.spotify.com/album/3IBpv3DOoGhbfLK8xFE5td) | 2:50 | 2025-06-20 | 2025-06-28 |
 | [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \(Remix\)](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 | 2024-08-02 | 2025-03-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,476 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,513 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 63 | [No Horse To Ride \- Live From Boston](https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(Live From Boston\)](https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp) | 3:46 |
 | 64 | [Next Thing You Know \- Live From The O2 London](https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know \(Live From The O2 London\)](https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU) | 3:01 |
 | 65 | [Brand New Man \(with Luke Combs\) \- Live from CMT Crossroads](https://open.spotify.com/track/2u2TK3JmzoBXlMQJ1s7Skq) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Brooks & Dunn and Friends \- Live from CMT Crossroads](https://open.spotify.com/album/7kgTfRyCCwAIMFpGRktONm) | 4:14 |
-| 66 | [Forget About It \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 3:18 |
-| 67 | [Bless the Broken Road \- Live / 2011](https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:39 |
+| 66 | [Bless the Broken Road \- Live / 2011](https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:39 |
+| 67 | [Forget About It \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 3:18 |
 | 68 | [Good Hearted Woman \- Live in Texas \- September 1974](https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 3:04 |
 | 69 | [Human \- Live](https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human \(Live\)](https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg) | 3:34 |
 | 70 | [Over Now \- Live From London](https://open.spotify.com/track/0sUzqTXuvRZQGkWb3uhbj1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Live From London](https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch) | 3:34 |

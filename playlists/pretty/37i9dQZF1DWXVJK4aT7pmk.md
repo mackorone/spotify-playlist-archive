@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,875 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,494 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,555 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,569 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 17 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Stuck In The Middle](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 |
 | 18 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 | 19 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
-| 20 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 |
-| 21 | [Tell Me It's Not a Dream](https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 |
+| 20 | [Tell Me It's Not a Dream](https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 |
+| 21 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 |
 | 22 | [How can I love the heartbreak, you're the one I love](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 4:50 |
 | 23 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 |
 | 24 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 54 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
 | 55 | [What If](https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dear Hyeri, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2) | 3:51 |
 | 56 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 |
-| 57 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
-| 58 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 |
+| 57 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 |
+| 58 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
 | 59 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
 | 60 | [If you lovingly call my name](https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [If you lovingly call my name \(GyeongseoYeji x Jeon Gunho\)](https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d) | 3:51 |
 | 61 | [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 73 | [Name](https://open.spotify.com/track/2m4xD0yi8tEFlBuVCBfmSw) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [When Life Gives you Tangerines OST from the Netflix Series \- Chapter 1](https://open.spotify.com/album/49bGEMM6PHLu00mAN2iIqP) | 4:10 |
 | 74 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 |
 | 75 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 |
-| 76 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
-| 77 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 |
+| 76 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 |
+| 77 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
 | 78 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
-| 79 | [By your side](https://open.spotify.com/track/2OAbhTVIWlwoGkhqMuqBEt) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Melo Movie \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5PlWD3jtXFnEGFm00Y6End) | 4:08 |
+| 79 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
 | 80 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 
 Snapshot ID: `aG8cXgAAAABVnPZtssVXeGdpI6ViNTOr`

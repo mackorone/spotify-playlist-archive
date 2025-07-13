@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,798 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,820 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ROCKIN](https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [ROCKIN](https://open.spotify.com/album/44CG52mqjcKpzJL8L4yXkB) | 2:09 |
 | 2 | [pink whitney](https://open.spotify.com/track/5QVD21jVsQd2gbZCSlJxJO) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:02 |
 | 3 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 |
-| 4 | [Gang Gang Gangland](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Gang Gang Gangland](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
+| 4 | [Gang Gang Gangland](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Gang Gang Gangland \(feat\. Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
 | 5 | [Go Bestfriend](https://open.spotify.com/track/1pvMPcQaVP8HuRO3Sa24RP) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Tha Language](https://open.spotify.com/album/1eR7AfJfPEsLTnkpkTEoi8) | 2:35 |
 | 6 | [100 Bags \(feat\. Don Toliver\)](https://open.spotify.com/track/3Gh8WmWJWjHbyKuX2OD34N) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Until Night Comes](https://open.spotify.com/album/2ok9fpBrRD9JARHxncBtLk) | 3:03 |
 | 7 | [HOLLYWOOD](https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [HOLLYWOOD](https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46) | 3:00 |

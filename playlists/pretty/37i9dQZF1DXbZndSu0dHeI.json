@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 233671,
+  "num_followers": 233703,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "{Awayland}",
         "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 223935,
       "name": "Nothing Arrived",
       "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -751,38 +751,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "I can do what I want",
-        "url": "https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 180606,
-      "name": "I can do what I want",
-      "url": "https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "For the Cold Country",
-        "url": "https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 387495,
-      "name": "For the Cold Country",
-      "url": "https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -799,6 +767,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "I can do what I want",
+        "url": "https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 180606,
+      "name": "I can do what I want",
+      "url": "https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "From the Night",
         "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 251821,
       "name": "From the Night",
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "For the Cold Country",
+        "url": "https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 387495,
+      "name": "For the Cold Country",
+      "url": "https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Mac's Omelette",
-        "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 238845,
-      "name": "Mac\u2019s Omelette",
-      "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Guts",
         "url": "https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Mac's Omelette",
+        "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 238845,
+      "name": "Mac\u2019s Omelette",
+      "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Since July",
-        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "See For Miles",
-      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 201111,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Since July",
+        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "See For Miles",
+      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd"
-      },
-      "artists": [
-        {
-          "name": "brand new legs",
-          "url": "https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa"
-        }
-      ],
-      "duration_ms": 159297,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "I Can\u2019t Get My Head Around You",
         "url": "https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 206427,
       "name": "I Can't Get My Head Around You",
       "url": "https://open.spotify.com/track/6SYqfDeq72Y5KJLO3MLbEz"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd"
+      },
+      "artists": [
+        {
+          "name": "brand new legs",
+          "url": "https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa"
+        }
+      ],
+      "duration_ms": 159297,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Jessie's House",
-        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
+        "name": "Where Sky Becomes Sea",
+        "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
       },
       "artists": [
         {
-          "name": "Findlay",
-          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 196892,
-      "name": "Jessie's House",
-      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
+      "duration_ms": 317270,
+      "name": "Where Sky Becomes Sea",
+      "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Where Sky Becomes Sea",
-        "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
+        "name": "Jessie's House",
+        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
         }
       ],
-      "duration_ms": 317270,
-      "name": "Where Sky Becomes Sea",
-      "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
+      "duration_ms": 196892,
+      "name": "Jessie's House",
+      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1379,6 +1379,38 @@
       "duration_ms": 209822,
       "name": "Why",
       "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "a leith ross song",
+        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "a leith ross song",
+      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "What's Dead and Gone",
+        "url": "https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1415,22 +1447,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "What's Dead and Gone",
-        "url": "https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Hole In A Frame / Pants",
         "url": "https://open.spotify.com/album/2UlP6ggb5jkWOOQROaPRaX"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 183392,
       "name": "Hole In A Frame",
       "url": "https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "a leith ross song",
-        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "a leith ross song",
-      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "April's Nectar",
-        "url": "https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv"
-      },
-      "artists": [
-        {
-          "name": "Unflirt",
-          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
-        }
-      ],
-      "duration_ms": 195526,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Slack A",
         "url": "https://open.spotify.com/album/6yhwC2yFrX1js48ITVygoH"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 224121,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "April's Nectar",
+        "url": "https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv"
+      },
+      "artists": [
+        {
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+        }
+      ],
+      "duration_ms": 195526,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Nazareth",
-        "url": "https://open.spotify.com/album/0dGHtn2QNcrxne6aIAm3Lj"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 250162,
-      "name": "Nazareth",
-      "url": "https://open.spotify.com/track/03JgKNVxicoLINfg3q8qBv"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "elsie",
         "url": "https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 203995,
       "name": "elsie",
       "url": "https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Nazareth",
+        "url": "https://open.spotify.com/album/0dGHtn2QNcrxne6aIAm3Lj"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 250162,
+      "name": "Nazareth",
+      "url": "https://open.spotify.com/track/03JgKNVxicoLINfg3q8qBv"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

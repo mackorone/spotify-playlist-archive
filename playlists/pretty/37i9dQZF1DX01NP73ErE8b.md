@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Carl Brave e Sarah Toscano in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,708 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,873 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

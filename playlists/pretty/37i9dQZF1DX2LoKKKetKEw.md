@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Ryan Ofei
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,020 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,045 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:43 |
+| 1 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 |
 | 2 | [In The Middle](https://open.spotify.com/track/3cod5M5O36GlZoJzDua7gP) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [In The Middle](https://open.spotify.com/album/3TjBWzuEepDzrxRKOtPHTY) | 2:47 |
 | 3 | [You Love Me](https://open.spotify.com/track/1CbxScpjh51CYZrgBan8PV) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Light](https://open.spotify.com/album/5YhRtt52IwtF6rWIdvOnYs) | 3:26 |
 | 4 | [Hide N Seek](https://open.spotify.com/track/75m13hkvHWgbKROdLtDjdW) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Hide N Seek](https://open.spotify.com/album/0XxZ3qxxlADvg50goIuTaO) | 2:29 |

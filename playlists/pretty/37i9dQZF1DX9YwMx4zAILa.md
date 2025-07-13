@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Shai Gilgeous\-Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,978 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,070 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 | 2 | [Freestyle](https://open.spotify.com/track/0gjanrCEUxe4DayM2VQxGw) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix \(FLXTRA\)](https://open.spotify.com/album/0KLk3N51EO7CG7d9MdQ2XE) | 1:51 |
 | 3 | [007](https://open.spotify.com/track/2Jc4K4pXwgoma0Q9ZKWy7q) | [DarooBaby](https://open.spotify.com/artist/631XtbDDx9HXgqaAqyDS9f) | [007](https://open.spotify.com/album/0RZQOq8OTQhhw98iPWHkWu) | 3:02 |
 | 4 | [Mister \(Remix\)](https://open.spotify.com/track/5NHw0RWnAQ3c0igmBwLW50) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Mister \(Remix\)](https://open.spotify.com/album/3dwDLZdue1yjUv9J0Ef5ZC) | 2:09 |
-| 5 | [EURO JACK](https://open.spotify.com/track/65tITsOdHBi38v9AH2g6Og) | [GoVanni!](https://open.spotify.com/artist/5CixTI3FXT2FHjc3Uq05sB) | [EURO JACK](https://open.spotify.com/album/2A44krERv8vTbCh6DyjlWu) | 2:00 |
+| 5 | [EURO JACK](https://open.spotify.com/track/65tITsOdHBi38v9AH2g6Og) | [GoVanni](https://open.spotify.com/artist/5CixTI3FXT2FHjc3Uq05sB) | [EURO JACK](https://open.spotify.com/album/2A44krERv8vTbCh6DyjlWu) | 2:00 |
 | 6 | [African king](https://open.spotify.com/track/1Y9pRwqd9axGHQb1VMqz93) | [Diorvsyou](https://open.spotify.com/artist/6EoHLAwai5b3t4VyqadsOj) | [Ashes](https://open.spotify.com/album/0FWmi8yy3q8R9PQTobnmAH) | 2:03 |
 | 7 | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/4YnC3EgoRzP14QXVDBuTfF) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/album/6tz75fOe1tirQPA9UPdu8p) | 2:35 |
 | 8 | [YaTOO](https://open.spotify.com/track/6PktHSguJ14HATLmrt2BAo) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [YaTOO + CHAKRa](https://open.spotify.com/album/3QK5ZieT5dCaTyg39sjdOy) | 2:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,638 likes - 91 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,658 likes - 91 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 61 | [Starlight \(The Fame\)](https://open.spotify.com/track/2Rr9a2sxcTIe9xhfaEmFTL) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Starlight \(The Fame\)](https://open.spotify.com/album/6GNKUJR0OQtwR9xUK6OVE4) | 3:02 |
 | 62 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
 | 63 | [Babygirl](https://open.spotify.com/track/6Yi0pzHS82XDFhbb0m5A5N) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Babygirl](https://open.spotify.com/album/3LZ3I3omuVyAWhl2xSrHqa) | 2:40 |
-| 64 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 64 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 65 | [Demise](https://open.spotify.com/track/5exv0bDkEoKX0307raOYRQ) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Demise](https://open.spotify.com/album/5X9IKbLGPLoz5aa7Zjnd9u) | 2:24 |
 | 66 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
 | 67 | [Looking Up](https://open.spotify.com/track/2L255DSg5DJbmHlFrxp2Nq) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/0t6PMy3FcoonbnnSkxTRyf) | 2:25 |

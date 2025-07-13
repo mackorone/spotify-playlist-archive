@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Justin Bieber, Drake, GIVĒON, FLO & KAYTRANADA, TOBi and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,740 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,939 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 18 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 |
 | 19 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 |
 | 20 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
-| 21 | [Through The Wall](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
+| 21 | [TTW](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TTW](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
 | 22 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 |
-| 23 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 23 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 24 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 |
 | 25 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:18 |
 | 26 | [Night Diving \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/4Qn5FKe3I2pNL64so6gvX3) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Night Diving \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/53eOgC0QJEmQ7QoEFK37Pn) | 3:34 |

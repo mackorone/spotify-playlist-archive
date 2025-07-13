@@ -169,7 +169,7 @@
 | [슬퍼지려하기전에](https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:03 | 2021-03-11 |  |
 | [아리아리](https://open.spotify.com/track/69LcwgtSsa6rPe42V1HatR) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [I Love Natural](https://open.spotify.com/album/5hliZRj6sFdXxLodgGVoHq) | 3:45 | 2024-04-04 | 2025-07-03 |
 | [애상](https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:29 | 2021-03-11 |  |
-| [애수](https://open.spotify.com/track/1auld5LOJw0YBl91S40aK4) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 2](https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D) | 4:08 | 2024-08-05 |  |
+| [애수](https://open.spotify.com/track/1auld5LOJw0YBl91S40aK4) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 2](https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D) | 4:08 | 2024-08-05 | 2025-07-13 |
 | [야야야](https://open.spotify.com/track/3tdjYReotb6TUeDNUl3bRV) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby Vox Ⅱ](https://open.spotify.com/album/49DaLjXDOJTaSoYa4fCXoD) | 3:50 | 2021-03-11 | 2024-04-19 |
 | [어느 째즈바...](https://open.spotify.com/track/1u2GIyfP9dKfkpLiCsYNJx) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [NEW SENSATION](https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD) | 4:13 | 2021-03-11 | 2023-01-24 |
 | [여름 안에서](https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Rhythm Light Beat Black](https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI) | 4:31 | 2021-03-11 | 2024-04-19 |
@@ -193,7 +193,7 @@
 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 | 2024-04-04 |  |
 | [프로와 아마츄어](https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 3:46 | 2021-03-11 |  |
 | [하늘땅 별땅](https://open.spotify.com/track/2uaWQ7tyiIPAWUUYUhjP49) | [비비](https://open.spotify.com/artist/2fdwPdFrxlIm0jVKHVnxbX) | [하늘땅 별땅](https://open.spotify.com/album/3kgkpGjsUJBZNyh2F0JX8i) | 3:36 | 2024-08-05 |  |
-| [하늘색 풍선](https://open.spotify.com/track/0xcKE4dQ8wL8EnRFhA6ahc) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 3](https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn) | 3:37 | 2024-08-05 | 2025-04-11 |
+| [하늘색 풍선](https://open.spotify.com/track/0xcKE4dQ8wL8EnRFhA6ahc) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 3](https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn) | 3:37 | 2024-08-05 |  |
 | [해결사](https://open.spotify.com/track/14L6wWMb636kbjdjrYmFCC) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [해결사 \- The 1st Album](https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob) | 3:42 | 2024-04-04 |  |
 | [해변의 여인](https://open.spotify.com/track/42TBLoQJ4aETzku6qEg3NF) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:39 | 2021-03-11 |  |
 

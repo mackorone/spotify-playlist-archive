@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,245 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,239 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 70 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
 | 71 | [Monton de Tierra](https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Rosa Mexicano](https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw) | 2:44 |
 | 72 | [Las Flores del Camposanto](https://open.spotify.com/track/4C4AqUBRrnibCDPUkOJkNv) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:14 |
-| 73 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
-| 74 | [El Funeral](https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Caracoles](https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv) | 2:25 |
+| 73 | [El Funeral](https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Caracoles](https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv) | 2:25 |
+| 74 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
 | 75 | [La Catrina](https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 3:27 |
 | 76 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 |
 | 77 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 93 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
 | 94 | [Décimas a la Calaca](https://open.spotify.com/track/66q3eL0U5UM3TK8rAwRoh1) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo), [Orquesta Sinfónica del Instituto Politécnico Nacional](https://open.spotify.com/artist/5N2IZwiKhnhblhOdER1hjP) | [De Jolgorios y Velorios](https://open.spotify.com/album/68iNCGhPq5hSPdfa6UMEHO) | 2:38 |
 | 95 | [Cerró Sus Ojitos Cleto](https://open.spotify.com/track/0AZdulPK1zZU0kcEhf3HFF) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:31 |
-| 96 | [Halloween](https://open.spotify.com/track/7BREGQPY6ZABmdfqcNbgEZ) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [XXXI Aniversario \(Ranas\) \(Vol\. 1\)](https://open.spotify.com/album/1pwbacPdUvkRAlibnLpGCD) | 4:01 |
-| 97 | [Como te extraño](https://open.spotify.com/track/3I38Zs63YNsYX6NyTpoGQs) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [XEW La Voz de America Latina](https://open.spotify.com/album/3AKsaYerOVLD95EDIHQwpJ) | 3:03 |
+| 96 | [Como te extraño](https://open.spotify.com/track/3I38Zs63YNsYX6NyTpoGQs) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [XEW La Voz de America Latina](https://open.spotify.com/album/3AKsaYerOVLD95EDIHQwpJ) | 3:03 |
+| 97 | [Halloween](https://open.spotify.com/track/7BREGQPY6ZABmdfqcNbgEZ) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [XXXI Aniversario \(Ranas\) \(Vol\. 1\)](https://open.spotify.com/album/1pwbacPdUvkRAlibnLpGCD) | 4:01 |
 | 98 | [Danza de la Muerte \- Música fúnebre Yokot'anob o Chontal, Tucta, Tabasco](https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W) | [Fredi Román Arias](https://open.spotify.com/artist/1nO7RmunUeFeDEkJvGL4tp), [Martín Hernández](https://open.spotify.com/artist/6xwJg45oEU5NaX5CgdgiSN), [Maximino Esteban Magaña](https://open.spotify.com/artist/4zECOKY69nLvquyzMmt24x) | [La flauta indígena Mexicana\. Grabaciones de Campo de René Villanueva](https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV) | 2:13 |
 | 99 | [Rincón Brujo](https://open.spotify.com/track/28h5wciGoXUmgMPEEc0VeW) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 6:37 |
 | 100 | [La Bruja](https://open.spotify.com/track/7wXtXVOG2Z6LIklL3S4zST) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [El Destino](https://open.spotify.com/album/5SQm5eXqaC5pz9OSOwxk6n) | 3:06 |

@@ -1,13 +1,33 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 11025,
+  "num_followers": 11034,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACxy4nBwUVlfXwYuLAGuODc",
+  "snapshot_id": "aHBUAAAAAAAvlRQ49ie18PnnFP3pql+Z",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 147451,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M"
+    },
     {
       "added_at": null,
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259,946 likes - 75 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,209 likes - 75 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 62 | [Lost It All](https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [Lost It All](https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC) | 4:02 |
 | 63 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 |
 | 64 | [HIT ME](https://open.spotify.com/track/1ClLVL8w0vngTIq7Afrne6) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2), [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [HIT ME](https://open.spotify.com/album/2bW30A7hYvnpkYv9lVYwXp) | 2:41 |
-| 65 | [Abrakadabra](https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b), [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Abrakadabra](https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0) | 2:27 |
+| 65 | [Castles & Moats](https://open.spotify.com/track/3zk0hk2rWjWMApIn83ZfPc) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn) | [Where Are The Traitors?](https://open.spotify.com/album/600ldbD3384nOA3bRDSF0q) | 2:09 |
 | 66 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 |
 | 67 | [RUN UP!](https://open.spotify.com/track/7oDUCu36rMex65tc03C8er) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [RUN UP!](https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5) | 2:19 |
-| 68 | [Castles & Moats](https://open.spotify.com/track/3zk0hk2rWjWMApIn83ZfPc) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn) | [Where Are The Traitors?](https://open.spotify.com/album/600ldbD3384nOA3bRDSF0q) | 2:09 |
-| 69 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
-| 70 | [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 |
+| 68 | [Abrakadabra](https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b), [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Abrakadabra](https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0) | 2:27 |
+| 69 | [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 |
+| 70 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
 | 71 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
 | 72 | [dedd barchetta](https://open.spotify.com/track/19PGCm7eOw4IGTXeAI5Ye9) | [Sugs](https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb) | [dedd barchetta](https://open.spotify.com/album/5oZ9FpKNr2D3HvZrWvBpDL) | 1:20 |
 | 73 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
-| 74 | [Deadshot!](https://open.spotify.com/track/4REoouTIHk0P0ntXa5QHkc) | [MERCYKILL](https://open.spotify.com/artist/5dEKhdqjtKcCo7lxz5ZgHa), [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Deadshot!](https://open.spotify.com/album/38tCM9TbtQNteRTpaMmrnH) | 1:49 |
-| 75 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
+| 74 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
+| 75 | [Deadshot!](https://open.spotify.com/track/4REoouTIHk0P0ntXa5QHkc) | [MERCYKILL](https://open.spotify.com/artist/5dEKhdqjtKcCo7lxz5ZgHa), [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Deadshot!](https://open.spotify.com/album/38tCM9TbtQNteRTpaMmrnH) | 1:49 |
 
 Snapshot ID: `Z7kCpAAAAAAb8YKWSRK5N3VShkdAHdHi`

@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 273137,
+  "num_followers": 273273,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Antes de Que Te Vayas",
-        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 205983,
-      "name": "Antes de Que Te Vayas",
-      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 210680,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Antes de Que Te Vayas",
+        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 205983,
+      "name": "Antes de Que Te Vayas",
+      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
     },
     {
       "added_at": "2025-01-23 17:30:18",

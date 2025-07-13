@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5720,
+  "num_followers": 5721,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADuKE7t2gCIHC1RtnxkDZNK",
+  "snapshot_id": "aHBUAAAAAAD00mnq2TsMxmWKSeXMjDf5",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si No Te Hubieras Ido",
         "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 326330,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHIQUIS - BEE SIDE",
-        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "LA QUE MANDA",
-      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "LA QUE MANDA",
+      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abeja Reina",
         "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 183026,
       "name": "A Lo Menso",
       "url": "https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUERTE",
+        "url": "https://open.spotify.com/album/1AtISppDd4G0ly9zTCDZXX"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "FUERTE",
+      "url": "https://open.spotify.com/track/578MEUSOSlTtp3cZNbazwb"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
       "duration_ms": 141373,
       "name": "Las Destrampadas",
       "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUERTE",
-        "url": "https://open.spotify.com/album/1AtISppDd4G0ly9zTCDZXX"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "FUERTE",
-      "url": "https://open.spotify.com/track/578MEUSOSlTtp3cZNbazwb"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "El Honor",
+      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "El Honor",
-      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "De Lo Que Me Salv\u00e9",
-      "url": "https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 229893,
       "name": "Esa No Soy Yo",
       "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Brindaremos Por \u00c9l",
+      "url": "https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Brindaremos Por \u00c9l",
-      "url": "https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/5VovoV6VIKIAo5Ztn3sQPy"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 230648,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/4e2IC3gZ9KHtxrRee7XLk0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "De Lo Que Me Salv\u00e9",
+      "url": "https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiero Amanecer Con Alguien",
         "url": "https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd"
       },
@@ -767,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Universo",
-        "url": "https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1"
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
       },
       "artists": [
         {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         },
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Devu\u00e9lveme El Amor",
-      "url": "https://open.spotify.com/track/2SfvqP7CmfIBct2KxFEnlp"
+      "duration_ms": 199746,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radio Universo",
+        "url": "https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Devu\u00e9lveme El Amor",
+      "url": "https://open.spotify.com/track/2SfvqP7CmfIBct2KxFEnlp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenaje a la Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "La Que Est\u00e1 De Moda Soy Yo",
-      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque Puedo",
         "url": "https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 136613,
       "name": "Me Mocho Un Huevo",
       "url": "https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "La Que Est\u00e1 De Moda Soy Yo",
+      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
     },
     {
       "added_at": null,

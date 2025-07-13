@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62842,
+  "num_followers": 62853,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADxFgHDqydhvNa5+/lLSvPQ",
+  "snapshot_id": "aHBUAAAAAABdIsWOvqw6zwLvrK6+43UQ",
   "tracks": [
     {
       "added_at": null,
@@ -791,42 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 279826,
-      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra",
-      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gloria A Deus",
         "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
       },
@@ -847,6 +811,42 @@
       "duration_ms": 379803,
       "name": "Maravilhado",
       "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 279826,
+      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
     },
     {
       "added_at": null,
@@ -991,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Incompar\u00e1vel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Mais Escravos",
         "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
       },
@@ -1023,22 +1007,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 427917,
-      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
+      "duration_ms": 265586,
+      "name": "Os Que Esperam - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Incompar\u00e1vel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
     },
     {
       "added_at": null,
@@ -1059,18 +1055,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 265586,
-      "name": "Os Que Esperam - Ao Vivo",
-      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
+      "duration_ms": 427917,
+      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

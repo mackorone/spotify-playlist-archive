@@ -4,7 +4,7 @@
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 19 min
+76 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Call Me](https://open.spotify.com/track/3sPIJzHiDC420uQa8ZitF1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:20 | 2023-09-21 |  |
 | [Can I Get an Outlaw](https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:58 | 2023-09-21 |  |
 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2023-09-21 |  |
-| [Cold Beer Calling My Name](https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:30 | 2023-09-21 |  |
+| [Cold Beer Calling My Name](https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Cold Beer Calling My Name](https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx) | 3:30 | 2025-07-13 |  |
+| [Cold Beer Calling My Name](https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:30 | 2023-09-21 | 2025-07-13 |
 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2023-09-21 | 2024-04-19 |
 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 | 2024-04-19 |  |
 | [Dive \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 4:20 | 2023-09-21 |  |

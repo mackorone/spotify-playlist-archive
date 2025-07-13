@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,095 likes - 79 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,100 likes - 79 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 39 | [Documents](https://open.spotify.com/track/2GZIuPFHBY7yanCa7pzxak) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [VICTORY](https://open.spotify.com/album/5S7fMBF2TiKtLPKgVVAARB) | 2:49 |
 | 40 | [Woke Up](https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Woke Up](https://open.spotify.com/album/77FxQyGZyd38qKM0HKy8Q6) | 2:14 |
 | 41 | [Spin \(feat\. Lil Tjay\)](https://open.spotify.com/track/3J8rODbpQOnHdUydtIrcqB) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Spin \(feat\. Lil Tjay\)](https://open.spotify.com/album/1akr1LrMEcbmmVTM56su9C) | 3:38 |
-| 42 | [Gang Gang Gangland](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Gang Gang Gangland](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
+| 42 | [Gang Gang Gangland](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Gang Gang Gangland \(feat\. Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
 | 43 | [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 |
 | 44 | [Underdog \(From F1® The Movie\)](https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Underdog \(From F1® The Movie\)](https://open.spotify.com/album/5eZ1Y9l73CbY1Q5eu92LvK) | 2:22 |
 | 45 | [Mom & Dad](https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mom & Dad](https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa) | 2:51 |

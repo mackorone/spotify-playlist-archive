@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Ski Mask The Slump God, XXXTENTACION, Money Man &amp; Rio Da Yung Og.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 38,685 likes - 89 songs - 4 hr 9 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 38,643 likes - 89 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 14 | [Titi](https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 3:01 |
 | 15 | [SISTA WIVES \- from the Short Film "Red Clay"](https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SISTA WIVES \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng) | 2:29 |
 | 16 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
-| 17 | [Black Man](https://open.spotify.com/track/4uN65YkcvoHVJdI9Q8zCPj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Black Man](https://open.spotify.com/album/6ILl9Q8JoNZhNkuRkjLPkY) | 2:40 |
+| 17 | [Black Man](https://open.spotify.com/track/4uN65YkcvoHVJdI9Q8zCPj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Black Man](https://open.spotify.com/album/6ILl9Q8JoNZhNkuRkjLPkY) | 2:42 |
 | 18 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 |
 | 19 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 |
 | 20 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |

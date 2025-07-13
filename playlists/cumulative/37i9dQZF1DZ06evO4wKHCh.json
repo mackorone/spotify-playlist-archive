@@ -439,6 +439,28 @@
     },
     {
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147451,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M"
+    },
+    {
+      "album": {
         "name": "RABBITHOLE",
         "url": "https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN"
       },

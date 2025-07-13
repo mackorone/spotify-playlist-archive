@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,753 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,770 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 21 | [Grand](https://open.spotify.com/track/36ckQ6GqvcqeYeiWBnl6uz) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:58 |
 | 22 | [Lose It](https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 2:58 |
 | 23 | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe) | 2:41 |
-| 24 | [Rescue](https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:02 |
-| 25 | [Body Talk](https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Body Talk](https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I) | 2:27 |
+| 24 | [Body Talk](https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Body Talk](https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I) | 2:27 |
+| 25 | [Rescue](https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:02 |
 | 26 | [Short Skirt Weather](https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:14 |
 | 27 | [What's Mine Is Yours](https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:36 |
-| 28 | [Fiddle in the Band](https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 2:52 |
-| 29 | [Used to Love You Sober](https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 3:01 |
+| 28 | [Used to Love You Sober](https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 3:01 |
+| 29 | [Fiddle in the Band](https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 2:52 |
 | 30 | [For My Daughter](https://open.spotify.com/track/2moC0T4mGwmP8dUDostr2g) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:43 |
 | 31 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 |
-| 32 | [I Am](https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:09 |
-| 33 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 |
+| 32 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 |
+| 33 | [I Am](https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:09 |
 | 34 | [Cool Again](https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Cool Again](https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9) | 2:44 |
 | 35 | [Saturday Nights REMIX](https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Saturday Nights REMIX](https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb) | 3:31 |
 | 36 | [Like a Rodeo](https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 50 | [Leave You Alone](https://open.spotify.com/track/3J5UxKE5206of6TwawC4M8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:34 |
 
-Snapshot ID: `aG8CgAAAAABIecNjfNc3UwnZqk/ToAVR`
+Snapshot ID: `aHBUAAAAAADQM2SPFe+uAW62mQv3y5EP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Salle
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,329 likes - 81 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,339 likes - 81 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 2 | [OLAOLUWA](https://open.spotify.com/track/6o6Vu8iObyQW0wzC7LjqcK) | [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [Blue Roses & Red Violets](https://open.spotify.com/album/1G5lsx75BjEYVffrMyOHJn) | 2:45 |
 | 3 | [Sade](https://open.spotify.com/track/2AXGzJKUM7y9rFM4LHUVmz) | [Dera](https://open.spotify.com/artist/0fm0WfnKaOf2C8rdvnHlnj) | [Sade + Any Other Day](https://open.spotify.com/album/5qI89bdgXp4h8XfxXSFGOi) | 3:04 |
 | 4 | [Imagine](https://open.spotify.com/track/7IbsxxISy0r2wLxkstEmue) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [Imagine + Blessing](https://open.spotify.com/album/05kIAyW9B3GjgQ1QhtpE5v) | 2:51 |
-| 5 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [WINNY](https://open.spotify.com/artist/1rNZLEs8N78iZIGqlKndvA) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
+| 5 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
 | 6 | [Babcock](https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH) | [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Babcock](https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L) | 2:23 |
 | 7 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 |
 | 8 | [I Go Nowhere](https://open.spotify.com/track/4e6F0OgG46Fh3mkLBrxoK6) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Master of Ballads](https://open.spotify.com/album/5E9K9Om1ctsEyuI3kPFG6X) | 2:54 |

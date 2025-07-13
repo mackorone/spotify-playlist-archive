@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 214350,
+  "num_followers": 214366,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 150413,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -827,30 +827,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
-        "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Janine Jansen",
-          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
-        },
-        {
-          "name": "Klaus M\u00e4kel\u00e4",
-          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
-        }
-      ],
-      "duration_ms": 47760,
-      "name": "Water Drops, JS 216",
-      "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "I. Allegro moderato",
         "url": "https://open.spotify.com/album/51i7eo6ivT0dQxYx6eHsVx"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 210026,
       "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
       "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "Klaus M\u00e4kel\u00e4",
+          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
+        }
+      ],
+      "duration_ms": 47760,
+      "name": "Water Drops, JS 216",
+      "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 142166,
-      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Alexandre Tharaud: Baroque",
         "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 253413,
       "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 142166,
+      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Clementi: Piano Sonatas",
+        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
+      },
+      "artists": [
+        {
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+        },
+        {
+          "name": "Donatella Failoni",
+          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
+      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Danzi: Music for Clarinet & Orchestra",
         "url": "https://open.spotify.com/album/3QXzf4f90yiUoQAKeXk8Ob"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 169000,
       "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante moderato",
       "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Clementi: Piano Sonatas",
-        "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
-      },
-      "artists": [
-        {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
-          "name": "Donatella Failoni",
-          "url": "https://open.spotify.com/artist/5H4JwAMeW5ztWMSbcwHIJd"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",
-      "url": "https://open.spotify.com/track/2EvSNELkkFmnBsoUXRjVy0"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 93400,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
         "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 241720,
       "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 93400,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 152849,
-      "name": "Tempora",
-      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "I. Thema",
         "url": "https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 65560,
       "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
       "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 152849,
+      "name": "Tempora",
+      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2395,30 +2395,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "A Lionel Tertis Celebration",
-        "url": "https://open.spotify.com/album/6PQmsEvXXCMSTjxkFyqcS2"
-      },
-      "artists": [
-        {
-          "name": "Lionel Tertis",
-          "url": "https://open.spotify.com/artist/299AWVLPvfT2eFjZFlhlOW"
-        },
-        {
-          "name": "Timothy Ridout",
-          "url": "https://open.spotify.com/artist/5Ff3ExmaueX5f8ROQjeB4g"
-        },
-        {
-          "name": "Frank Dupree",
-          "url": "https://open.spotify.com/artist/6njtXkDG0AlF0gO1hpIaqf"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/3z7waGD32zmOs9ndMqPhPl"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Shostakovich: Jazz Suite No. 2, Op. 50b: Waltz",
         "url": "https://open.spotify.com/album/7ClRCdCmBj55itFhTa8LhA"
       },
@@ -2439,6 +2415,30 @@
       "duration_ms": 205813,
       "name": "Shostakovich: Jazz Suite No. 2, Op. 50b: Waltz (Transcr. Kadouch & Moreau for Cello and Piano)",
       "url": "https://open.spotify.com/track/44h6maG4IObZJtcWffAQtk"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "A Lionel Tertis Celebration",
+        "url": "https://open.spotify.com/album/6PQmsEvXXCMSTjxkFyqcS2"
+      },
+      "artists": [
+        {
+          "name": "Lionel Tertis",
+          "url": "https://open.spotify.com/artist/299AWVLPvfT2eFjZFlhlOW"
+        },
+        {
+          "name": "Timothy Ridout",
+          "url": "https://open.spotify.com/artist/5Ff3ExmaueX5f8ROQjeB4g"
+        },
+        {
+          "name": "Frank Dupree",
+          "url": "https://open.spotify.com/artist/6njtXkDG0AlF0gO1hpIaqf"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/3z7waGD32zmOs9ndMqPhPl"
     },
     {
       "added_at": "2025-07-02 09:25:11",

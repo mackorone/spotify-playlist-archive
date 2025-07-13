@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Unknown Mortal Orchestra on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,314 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,461 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 39 | [Joe Frazier](https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Joe Frazier](https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6) | 5:38 |
 | 40 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
 | 41 | [Funeral for Justice \- Injustice Version](https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice \(Injustice Version\)](https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F) | 5:45 |
-| 42 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 |
+| 42 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 43 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 |
-| 44 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
+| 44 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 |
 | 45 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 |
 | 46 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
 | 47 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 51 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 |
 | 52 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
 | 53 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
-| 54 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 |
-| 55 | [Cinnamon Temple](https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Cinnamon Temple](https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ) | 3:20 |
+| 54 | [Cinnamon Temple](https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Cinnamon Temple](https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ) | 3:20 |
+| 55 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 |
 | 56 | [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 |
 | 57 | [WILLING](https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [WILLING](https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE) | 3:03 |
 | 58 | [Casino](https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Django's High](https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq) | 3:03 |

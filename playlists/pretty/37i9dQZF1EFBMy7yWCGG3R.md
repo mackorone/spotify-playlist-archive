@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,163 likes - 256 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,166 likes - 256 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,7 +233,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 223 | [Orange Magic](https://open.spotify.com/track/08Ov5PSmldmPxZDGufK6Pj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:53 |
 | 224 | [Celebration](https://open.spotify.com/track/5D2r5KcaVPuri7xD0FZZJC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Turnt Up, Vol\. 6](https://open.spotify.com/album/4rESAMfV7F2cNSz93OEa2M) | 3:50 |
 | 225 | [Dress](https://open.spotify.com/track/5RPq4WPdn53v53m72dLBBf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 3:26 |
-| 226 | [If The World Was Ending](https://open.spotify.com/track/6AbdpBmVOxchLk1OkwVtKr) | [Denis Kalytovskyi](https://open.spotify.com/artist/2TdyIW2Ol7vpofth27iAZi) | [Acustic Covers of Popular Songs](https://open.spotify.com/album/5iHoV05beKBmnvlvZ1SJ3N) | 3:51 |
+| 226 | [If The World Was Ending](https://open.spotify.com/track/6AbdpBmVOxchLk1OkwVtKr) | [Denis Kalytovskyi](https://open.spotify.com/artist/2TdyIW2Ol7vpofth27iAZi) | [Covers Culture Presents: Acoustic Covers Sessions](https://open.spotify.com/album/5iHoV05beKBmnvlvZ1SJ3N) | 3:51 |
 | 227 | [Getting Warmer](https://open.spotify.com/track/0lvCgY0ZDo6krZgqIxYLHb) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:24 |
 | 228 | [Love Goes On](https://open.spotify.com/track/7ggFrwti59f2wm5aYMxo6O) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 3:20 |
 | 229 | [Prior Warning](https://open.spotify.com/track/0nfcZs5NRpJAUFCn5sraHL) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:30 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 255 | [Call Me When You Break Up](https://open.spotify.com/track/10wKwz06sCCymdiH8kRhlr) | [Mia Love](https://open.spotify.com/artist/2DK7rIPTasJI0R2oRQdk28) | [Call Me When You Break Up](https://open.spotify.com/album/7d50j9y7Yo4GIU0HRyfxNu) | 2:07 |
 | 256 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `Ab2hVAAAAADW0GUhVBQpweLOFfsglN4O`
+Snapshot ID: `Ab2nEgAAAAAV7oyz2BZYZmRazl0l7F7F`

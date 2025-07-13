@@ -4,7 +4,7 @@
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 4 min
+112 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Neon Moon \(with Morgan Wallen\)](https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:11 | 2024-11-19 | 2025-05-21 |
 | [One Thing At A Time](https://open.spotify.com/track/1rXq0uoV4KTgRN64jXzIxo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:26 | 2023-06-17 | 2024-07-24 |
 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 | 2022-12-03 | 2023-06-18 |
-| [Only Thing That’s Gone \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:16 | 2023-12-13 |  |
+| [Only Thing That’s Gone \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:16 | 2023-12-13 | 2025-07-13 |
 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 | 2023-01-21 | 2024-07-27 |
 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 3:25 | 2024-07-27 | 2025-05-22 |
 | [Sand In My Boots](https://open.spotify.com/track/0uRrG2jRR5tuifsYIJHEao) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:22 | 2022-09-08 | 2025-07-08 |
@@ -93,7 +93,8 @@
 | [Tennessee Fan](https://open.spotify.com/track/3Ga7Uele3zN57vQ4F0HPTW) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:18 | 2022-12-03 | 2023-03-18 |
 | [The Way I Talk](https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:28 | 2022-09-08 | 2024-07-27 |
 | [The Way I Talk](https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:28 | 2024-07-27 |  |
-| [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-03-04 |  |
+| [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-03-04 | 2025-07-13 |
+| [Thinkin’ Bout Me](https://open.spotify.com/track/4Sb8neYCkT7lyMIo2kOOEC) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/7c1wEzhXamUm7Lh9zqVMl9) | 2:57 | 2025-07-13 |  |
 | [This Bar](https://open.spotify.com/track/075qcpR3BnxD5CWUIx1HTr) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:05 | 2022-11-10 | 2023-12-14 |
 | [This Side Of A Dust Cloud](https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album \(Bonus\)](https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX) | 3:19 | 2022-09-08 | 2025-05-20 |
 | [Thought You Should Know](https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:35 | 2023-05-31 | 2025-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,365 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,596 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 31 | [Clave Ali](https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:21 |
 | 32 | [El Chore](https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh) | [El Chore](https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh) | 2:50 |
 | 33 | [Nací Para Amarte](https://open.spotify.com/track/0x7VKOWpEJflK0gvy3hTmk) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:32 |
-| 34 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 |
-| 35 | [ROMPE LA DOMPE](https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ROMPE LA DOMPE](https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ) | 2:45 |
-| 36 | [El Rescate](https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin) | 2:34 |
+| 34 | [El Rescate](https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin) | 2:34 |
+| 35 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 |
+| 36 | [ROMPE LA DOMPE](https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ROMPE LA DOMPE](https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ) | 2:45 |
 | 37 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
 | 38 | [MAL DE AMORES](https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [MAL DE AMORES](https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO) | 3:30 |
 | 39 | [El Hombre del Equipo](https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 49 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 |
 | 50 | [No Me Pesa](https://open.spotify.com/track/4YU704KDCv4tyE6qQxliY3) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:41 |
 
-Snapshot ID: `aG8CgAAAAACjc1GItybRqlHwsjQTdCgm`
+Snapshot ID: `aHBUAAAAAAAt8yvu7Ug12zV0B5tcQwaG`

@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 44621,
+  "num_followers": 44655,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAC5/sDdCdo5MWQiWvi2cMym",
+  "snapshot_id": "aHBUAAAAAABfQL9Pv0sxe/F0iK274cgV",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/7dsHqJqqvS4IY7XMAfk4pG"
       },
@@ -259,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ciudad Peligrosa",
-        "url": "https://open.spotify.com/album/1F5GpSmnkJrhzBYSjCCbPW"
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Ciudad Peligrosa",
-      "url": "https://open.spotify.com/track/6sI3A0IW1QN6gyrMtEaoQu"
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
     },
     {
       "added_at": null,
@@ -291,6 +271,26 @@
       "duration_ms": 224166,
       "name": "Muchachita De Ojos Tristes - En Vivo",
       "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciudad Peligrosa",
+        "url": "https://open.spotify.com/album/1F5GpSmnkJrhzBYSjCCbPW"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Ciudad Peligrosa",
+      "url": "https://open.spotify.com/track/6sI3A0IW1QN6gyrMtEaoQu"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy El Pirata",
-        "url": "https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 168670,
-      "name": "Yo Soy El Pirata",
-      "url": "https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 122583,
       "name": "Que Chulada - En Vivo",
       "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Soy El Pirata",
+        "url": "https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 168670,
+      "name": "Yo Soy El Pirata",
+      "url": "https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 142357,
-      "name": "En Los Puritos Huesos - En Vivo",
-      "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 180083,
       "name": "Las Edades - En Vivo",
       "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 142357,
+      "name": "En Los Puritos Huesos - En Vivo",
+      "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 201258,
-      "name": "Sentimientos De Carton - En Vivo",
-      "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 150950,
       "name": "Paz En Este Amor - En Vivo",
       "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 201258,
+      "name": "Sentimientos De Carton - En Vivo",
+      "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Houston (En Vivo)",
-        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "El Caballero - En Vivo",
-      "url": "https://open.spotify.com/track/2LBlj7rQADMqVfss93FgRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Botecitos",
         "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 188138,
       "name": "Botecitos",
       "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "El Caballero - En Vivo",
+      "url": "https://open.spotify.com/track/2LBlj7rQADMqVfss93FgRE"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Cambio la Suerte",
-        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "Me Cambio la Suerte",
-      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 191477,
       "name": "El De La 31",
       "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Cambio la Suerte",
+        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171430,
+      "name": "Me Cambio la Suerte",
+      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bronco Raptor",
-        "url": "https://open.spotify.com/album/1wvNskhYrVLbNd6UNk3SfB"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 218295,
-      "name": "La Bronco Raptor",
-      "url": "https://open.spotify.com/track/763c8f06SuDgOhCSzlPv92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Bronco Raptor",
+        "url": "https://open.spotify.com/album/1wvNskhYrVLbNd6UNk3SfB"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 218295,
+      "name": "La Bronco Raptor",
+      "url": "https://open.spotify.com/track/763c8f06SuDgOhCSzlPv92"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 215061,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "Los 5 Pesos",
+      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "Los 5 Pesos",
-      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
     },
     {
       "added_at": null,

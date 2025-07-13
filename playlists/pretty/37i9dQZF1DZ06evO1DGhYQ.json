@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9031,
+  "num_followers": 9033,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACWRK5iANtdwG+fPNPjrBuS",
+  "snapshot_id": "aHBUAAAAAACowa6c2Ou2v5Wm/fa9UntJ",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6728\u6751\u6634",
-          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 246839,
-      "name": "Whole Lotta Love",
-      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
+      "duration_ms": 189466,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
     },
     {
       "added_at": null,
@@ -667,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6728\u6751\u6634",
+          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+      "duration_ms": 246839,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8e0a\u6551\u6025\u7bb1",
-        "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
-      },
-      "artists": [
-        {
-          "name": "s**t kingz",
-          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
-        },
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "KID feat. LEO (ALI)",
-      "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INGLOURIOUS EASTERN COWBOY",
         "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 289306,
       "name": "FOUND BLUE",
       "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8e0a\u6551\u6025\u7bb1",
+        "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
+      },
+      "artists": [
+        {
+          "name": "s**t kingz",
+          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
+        },
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "KID feat. LEO (ALI)",
+      "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
     },
     {
       "added_at": null,

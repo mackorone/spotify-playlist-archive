@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,052 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,068 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 21 | [Fuera Ropa](https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:19 |
 | 22 | [Santa Ursula](https://open.spotify.com/track/2fZnIhx4KNOsmImwM6Ad4L) | [Carrion Kids](https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu) | [Santa Ursula](https://open.spotify.com/album/6iKFX0Mi8dftGut3AkZfVc) | 2:50 |
 | 23 | [Ferryboat of the Mind](https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d) | [Clinic](https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj) | [Wheeltappers and Shunters](https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux) | 2:09 |
-| 24 | [Qué Divertido](https://open.spotify.com/track/6WKzHKnJhlD5aNAxfRLsER) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [El Jugador](https://open.spotify.com/album/6smHJpUz67QCkxAgtUAkP2) | 3:03 |
-| 25 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 |
+| 24 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 |
+| 25 | [Qué Divertido](https://open.spotify.com/track/6WKzHKnJhlD5aNAxfRLsER) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [El Jugador](https://open.spotify.com/album/6smHJpUz67QCkxAgtUAkP2) | 3:03 |
 | 26 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 |
 | 27 | [Jaley Jaley](https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cera Perdida](https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh) | 3:09 |
 | 28 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 69 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
 | 70 | [Fathom This!](https://open.spotify.com/track/7fiTe4XWrQbJpAhnxqmM4U) | [The Fathoms](https://open.spotify.com/artist/0doqn5jnYAYSpkhmafrmkl) | [Fathom This!](https://open.spotify.com/album/2o0iSopA79scEHq1vvNasA) | 3:15 |
 | 71 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 |
-| 72 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
-| 73 | [Wet Girls](https://open.spotify.com/track/1odCtYicHYC8EYwGAEyYwy) | [The Kilaueas](https://open.spotify.com/artist/1rGWPfYfcQb9k3CyZ6JhNZ) | [Wiki Waki Woooo](https://open.spotify.com/album/3ZZII0H7lLQ7chvgvOSQDu) | 2:39 |
+| 72 | [Wet Girls](https://open.spotify.com/track/1odCtYicHYC8EYwGAEyYwy) | [The Kilaueas](https://open.spotify.com/artist/1rGWPfYfcQb9k3CyZ6JhNZ) | [Wiki Waki Woooo](https://open.spotify.com/album/3ZZII0H7lLQ7chvgvOSQDu) | 2:39 |
+| 73 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
 | 74 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 |
 | 75 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
 

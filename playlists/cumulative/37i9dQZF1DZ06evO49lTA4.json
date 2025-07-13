@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "Cold Beer Calling My Name",
+        "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Cold Beer Calling My Name",
+      "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+    },
+    {
+      "album": {
         "name": "Bet You're from a Small Town",
         "url": "https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo"
       },
@@ -360,7 +382,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 210560,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9"

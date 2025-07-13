@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Con Cachirula y LOOJAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,587 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,884 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nostalgia.0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia.0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
+| 1 | [Nostalgia .0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia .0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
 | 2 | [Cuando No Era Cantante](https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:31 |
 | 3 | [MTY](https://open.spotify.com/track/3fT8Xnj4T4gtKUSmIPXZL6) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [MTY](https://open.spotify.com/album/1F5BssS4Z96oE0U7kn1U97) | 2:10 |
 | 4 | [SUPREME](https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [SUPREME](https://open.spotify.com/album/3xMzcA2wx69GXCwHAK8ydm) | 2:35 |

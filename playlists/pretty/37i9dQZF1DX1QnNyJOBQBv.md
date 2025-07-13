@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Danny Ocean & Kenia OS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,967,664 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,967,615 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 32 min
+84 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 | 2023-08-13 | 2023-09-16 |
 | [Coffee Shop Soundtrack](https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up Or Shut Up](https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt) | 3:01 | 2023-03-19 |  |
 | [Coffee Shop Soundtrack \- ATL's Version](https://open.spotify.com/track/2aC1jd0ehB0Zh8WYxwFZQ4) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Forever Sessions \(Vol\. 1\)](https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE) | 2:56 | 2024-08-26 | 2025-02-04 |
-| [Crashed The Wedding 2.0](https://open.spotify.com/track/17vZdUGKVSMpg3pvi4Tmtn) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Greatest Hits 2.0 \(Guest Features Edition\)](https://open.spotify.com/album/2XWO1jEuigClyJgkMvk3rx) | 2:40 | 2023-11-10 |  |
+| [Crashed The Wedding 2.0](https://open.spotify.com/track/17vZdUGKVSMpg3pvi4Tmtn) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Greatest Hits 2.0 \(Guest Features Edition\)](https://open.spotify.com/album/2XWO1jEuigClyJgkMvk3rx) | 2:40 | 2023-11-10 | 2025-07-13 |
 | [Crashed The Wedding 2.0](https://open.spotify.com/track/4DuUOYH15hqgaewjLvBUzR) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Crashed The Wedding 2.0](https://open.spotify.com/album/5GXTkl0pETPZJ0i2hlbWF9) | 2:40 | 2023-06-24 | 2023-11-11 |
 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 | 2023-03-19 |  |
 | [Dark Side of Your Room](https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:26 | 2023-03-19 |  |
@@ -84,6 +84,7 @@
 | [The Reckless And The Brave](https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 | 2023-03-22 | 2025-02-17 |
 | [The Sound of Letting Go](https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:39 | 2023-03-19 |  |
 | [The Way You Miss Me](https://open.spotify.com/track/6Gu9DQoTMkJGVwnewBo2ij) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:40 | 2024-05-11 | 2024-07-19 |
+| [The Weather](https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Weather](https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9) | 2:51 | 2025-07-13 |  |
 | [Therapy](https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:44 | 2023-03-19 |  |
 | [Time\-Bomb](https://open.spotify.com/track/0ydyPs14G4gAp2L1fWIhpV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/4LShkr6gPRWh5v0VUVNW0q) | 3:29 | 2023-03-19 | 2023-06-09 |
 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 | 2023-06-08 |  |

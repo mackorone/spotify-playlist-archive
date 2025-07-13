@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,517 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,808 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 31 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
 | 32 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 |
 | 33 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
-| 34 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
-| 35 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
+| 34 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
+| 35 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 36 | [Dreadlock Holiday](https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Bloody Tourists](https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG) | 4:27 |
 | 37 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
 | 38 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 48 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
 | 49 | [Shy Guy](https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo) | [Diana King](https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1) | [Tougher Than Love](https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b) | 4:18 |
 | 50 | [People Everyday \- Metamorphosis Mix](https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Extended Revolution](https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU) | 4:58 |
-| 51 | [Pure Shores](https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Pure Shores](https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV) | 4:28 |
-| 52 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 |
+| 51 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 |
+| 52 | [Pure Shores](https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Pure Shores](https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV) | 4:28 |
 | 53 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 |
 | 54 | [Wild World](https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [John Gallen](https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH) | [Maxi](https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1) | 3:38 |
 | 55 | [Get Free](https://open.spotify.com/track/4p4hyqRFdoiw4EMbEsqBdA) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber of Dirty Projectors](https://open.spotify.com/artist/6ZNxsFRXMi2yGGgOtVZsrr) | [Free the Universe](https://open.spotify.com/album/1MGMwkEuzCHda8lE3GA4RR) | 4:49 |

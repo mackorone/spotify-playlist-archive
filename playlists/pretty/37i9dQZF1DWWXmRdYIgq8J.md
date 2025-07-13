@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,137 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,150 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 14 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 |
 | 15 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/6cdpdaVlpkJculgkHz5WRE) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
 | 16 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
-| 17 | [Bend](https://open.spotify.com/track/0g7wbLkY6PV1or9n6oIskt) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [DJ Puffy](https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr) | [Bend](https://open.spotify.com/album/37rSCs6ZzJegxd4645i67x) | 2:48 |
-| 18 | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/track/5sn0V3nw7iS42hrj2mQ0Sl) | [Nisha B](https://open.spotify.com/artist/6IajZXjeim787TECOi1vLR), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/album/1tWzdyvTgq5XXoN5KXJZxE) | 4:16 |
+| 17 | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/track/5sn0V3nw7iS42hrj2mQ0Sl) | [Nisha B](https://open.spotify.com/artist/6IajZXjeim787TECOi1vLR), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/album/1tWzdyvTgq5XXoN5KXJZxE) | 4:16 |
+| 18 | [Bend](https://open.spotify.com/track/0g7wbLkY6PV1or9n6oIskt) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [DJ Puffy](https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr) | [Bend](https://open.spotify.com/album/37rSCs6ZzJegxd4645i67x) | 2:48 |
 | 19 | [Prescription](https://open.spotify.com/track/4LKcY2x9F64lJmr3qeNhBm) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Soca Gold 2013](https://open.spotify.com/album/3P4NsDb4H3rL9YSiLoFuSS) | 3:31 |
 | 20 | [Love You Again](https://open.spotify.com/track/1yH3Gb72AWXlTpJbbr4Amf) | [Ki & the Band](https://open.spotify.com/artist/0z79pZtEi1CkDICY4Q5ZxW) | [Love You Again](https://open.spotify.com/album/1yPhTWthx8zbzFfI9CxOmC) | 3:16 |
 | 21 | [Cya Come \(feat\. Skinny Fabulous\)](https://open.spotify.com/track/1WXJZK7uTn3iRrbfaXYZ6n) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Rise of a New King](https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq) | 5:11 |

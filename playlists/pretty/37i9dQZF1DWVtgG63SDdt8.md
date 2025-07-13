@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Katy Nichole
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,430 likes - 172 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,470 likes - 172 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 24 | [HOLY \(IS HE\)](https://open.spotify.com/track/6OKxZI1shDDQiCvfWGnRfs) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [HOLY \(IS HE\)](https://open.spotify.com/album/0ciEOUEbmCid0Q2FrPKpCQ) | 2:36 |
 | 25 | [This Ain't Anything Like Him](https://open.spotify.com/track/5dSf7g78iXDynhbmk2tkb6) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [This Ain't Anything Like Him](https://open.spotify.com/album/3bLh1Dfmk02ZOBIWDYnz8D) | 3:03 |
 | 26 | [Traveling Light](https://open.spotify.com/track/1rceaTOtGwPo5COnime1bg) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Traveling Light](https://open.spotify.com/album/7I34nDUU5kQAWX9zR8suxl) | 3:07 |
-| 27 | [Good Work](https://open.spotify.com/track/37Do5avUOTDhaW1PeprRqC) | [Taranda Greene](https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein) | [Good Work](https://open.spotify.com/album/7evBeynalmRTXOgrpwlQhE) | 3:02 |
+| 27 | [Good Work](https://open.spotify.com/track/37Do5avUOTDhaW1PeprRqC) | [TaRanda Greene](https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein) | [Good Work](https://open.spotify.com/album/7evBeynalmRTXOgrpwlQhE) | 3:02 |
 | 28 | [Hand of the Healer, Pt\. 1](https://open.spotify.com/track/1jEDhJtFyBsCqdAB9mrrkc) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Ben Shive](https://open.spotify.com/artist/2HOxXL6fxCe1OAEPw7sgTB) | [Hand of the Healer, Pt\. 1](https://open.spotify.com/album/6XCQZMtJEbBhouRxWJC2MB) | 4:20 |
 | 29 | [Face to Face](https://open.spotify.com/track/5VNGIuWQoupmG0qM6nhZT5) | [Hope Harding](https://open.spotify.com/artist/3fYSZUjRkhyFiTP12kJtcb) | [Face to Face](https://open.spotify.com/album/6gbaORNejFL6hhGqBxPXgN) | 4:18 |
 | 30 | [In The Name of Jesus \(Jesus Is The Way Spontaneous\) \(feat\. Chandler Moore\)](https://open.spotify.com/track/7fkWuneCeC7VIcjXsLjF5r) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [In The Name of Jesus \(Jesus Is The Way Spontaneous\) \(feat\. Chandler Moore\)](https://open.spotify.com/album/7K5CbMLVRJt4WLMEKxVBcd) | 7:35 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 50 | [Running](https://open.spotify.com/track/4UaiZg22Wc9vOcdm39TDA0) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Carley Davis](https://open.spotify.com/artist/3sZwroILm5VuXRvxJM2h4U) | [EDEN](https://open.spotify.com/album/30mX3XKsSzViSkBh7yHvD3) | 2:31 |
 | 51 | [Tell The World](https://open.spotify.com/track/5WDIeNqJWRNyzUCnLCsJ57) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Tell The World](https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs) | 3:13 |
 | 52 | [Love Theory](https://open.spotify.com/track/0bZk2SKsbkdeWskMZ3fPUQ) | [Judy Jay](https://open.spotify.com/artist/5q8RThTZw42cwyqNGBnUIA), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX) | [Love Theory](https://open.spotify.com/album/6zEA4NTSlgfwDCPgLCX2iL) | 8:02 |
-| 53 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:43 |
+| 53 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 |
 | 54 | [Titanic](https://open.spotify.com/track/3u0qKeWXEDx9uNzfqkSeVU) | [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Titanic](https://open.spotify.com/album/34SaCTNbV2gRAY7kkBsgHB) | 2:20 |
 | 55 | [BEG](https://open.spotify.com/track/1HRfKLtaX6TgJRWGt9TlSK) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [BEG](https://open.spotify.com/album/2yVIP489gtrWCmp3tSHxcp) | 2:14 |
 | 56 | [Give It to Jesus](https://open.spotify.com/track/64fH2h8KmkBNeOHGOHPz6H) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Give It to Jesus](https://open.spotify.com/album/72y3OhHuCzhhpB3ZCkmZSF) | 3:49 |

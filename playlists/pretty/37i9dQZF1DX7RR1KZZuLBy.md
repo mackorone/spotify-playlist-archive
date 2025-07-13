@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,041 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,056 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 27 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
 | 28 | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 |
 | 29 | [I Smile](https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:07 |
-| 30 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 |
+| 30 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 31 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 |
-| 32 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
+| 32 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 |
 | 33 | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N), [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb) | 5:50 |
 | 34 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 35 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,138 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,150 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 32 | [Bosses Don't Speak](https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:01 |
 | 33 | [Drip \(feat\. Migos\)](https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:22 |
 | 34 | [Deadz \(feat\. 2 Chainz\)](https://open.spotify.com/track/3sTsxjv7yb0cM3rWvQdVan) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:34 |
-| 35 | [Key to the Streets](https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC) | [Wish Me Well 2](https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR) | 4:41 |
-| 36 | [We Set The Trends \(feat\. Migos & ‎Juelz Santana\) \- Remix](https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [We Set The Trends \(Remix\) \[feat\. ‎Migos & Juelz Santana\]](https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE) | 3:37 |
+| 35 | [We Set The Trends \(feat\. Migos & ‎Juelz Santana\) \- Remix](https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [We Set The Trends \(Remix\) \[feat\. ‎Migos & Juelz Santana\]](https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE) | 3:37 |
+| 36 | [Key to the Streets](https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC) | [Wish Me Well 2](https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR) | 4:41 |
 | 37 | [How We Coming](https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:49 |
 | 38 | [Versace \(Remix\)](https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Versace \(feat\. Drake\) \[Remix\] \- Single](https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f) | 4:06 |
 | 39 | [Freak No More](https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Menace 2 \(Migos, Lil Yachty\)](https://open.spotify.com/track/4XRABck4iyZrh5yJ7nOWOi) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:24 |
 | 50 | [Antidote](https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:42 |
 
-Snapshot ID: `aG8CgAAAAADomemm9CZZIhXCxgAcOW7B`
+Snapshot ID: `aHBUAAAAAADMXxqYmPErlKRE2g2YjBcx`

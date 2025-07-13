@@ -4,13 +4,13 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: フレンズ Friends
 
-2,520 songs - 6 day 13 hr 19 min
+2,521 songs - 6 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Cause It's Too Cold To Walk Alone](https://open.spotify.com/track/0PtuDrWfQ2qLIqQgFDAPni) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [From Dusk Till Dawn](https://open.spotify.com/album/4BaECxtVHz4fwfpJX0LLpv) | 3:47 | 2024-03-07 | 2024-03-20 |
 | [\(Da Da Da\) Day Ones \- feat\. Sagiri Sól](https://open.spotify.com/track/0LA15b3Bs8tuTnIA8KeNJn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [\(Da Da Da\) Day Ones](https://open.spotify.com/album/0JtKzPOrwgHIZVjZruHN38) | 3:02 | 2023-03-30 | 2023-04-28 |
-| [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV) | 2:44 | 2025-05-13 |  |
+| [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV) | 2:44 | 2025-05-13 | 2025-07-13 |
 | [\(許\)](https://open.spotify.com/track/1xs6WitcjTsWEhmGtWFbog) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [だ](https://open.spotify.com/album/5JcQoeSebNsxWEF3Pu5FiO) | 4:15 | 2023-03-21 | 2023-03-29 |
 | [0.5のおっさん](https://open.spotify.com/track/56NEgUhDzcuXJNVGf8wc6i) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [0.5のおっさん](https://open.spotify.com/album/0yFu1vPravdhwiFqaiOIHG) | 2:42 | 2023-06-27 | 2023-07-05 |
 | [1/2 SLEEP \-半分寝てる\-](https://open.spotify.com/track/5Fm7NT5HjWONIM00j8ht2R) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [1/2 SLEEP \-半分寝てる\-](https://open.spotify.com/album/7zD8nN4p6Qsvg0E8CLPH7Y) | 2:51 | 2023-02-14 | 2023-02-22 |
@@ -2196,6 +2196,7 @@
 | [平凡](https://open.spotify.com/track/0DcKHYVZQJtBSkiGuXB60u) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [平凡](https://open.spotify.com/album/6A1rYXpwKejNgbkmsA2rul) | 4:05 | 2024-05-07 | 2024-05-22 |
 | [平和](https://open.spotify.com/track/1xFILrBQBn67qprImezB0I) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [在ライフ](https://open.spotify.com/album/2bbfZQbPszzs9CIww7UNn3) | 5:07 | 2023-10-31 | 2023-12-08 |
 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 | 2024-09-18 |
+| [幸福の培養](https://open.spotify.com/track/4MgFKwyW9pzNIZBzv6woPP) | [kinoue64](https://open.spotify.com/artist/1m3xhZ4CN3hm4F3lK8Rw5C) | [幸福の培養](https://open.spotify.com/album/5gtgznEYDKC80pT91UQN0I) | 2:55 | 2025-07-08 |  |
 | [幻](https://open.spotify.com/track/1IgxmXN91aYEfa2BEyiQaL) | [小田奈都美](https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP) | [幻](https://open.spotify.com/album/2tTnaSiZcSOaiEYVFD8Ntd) | 3:45 | 2023-12-19 | 2024-01-24 |
 | [幼なじみになりそう！ \- 北村蕗 Remix](https://open.spotify.com/track/0y9D1gx1DtNWdu481D1FvZ) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA) | [生まれ変わらない私を！？](https://open.spotify.com/album/7pw9Qao1SdbVUBOCv3EfKr) | 3:34 | 2025-01-28 | 2025-02-05 |
 | [幽体離脱](https://open.spotify.com/track/6taQL5v1zYP8CSQxGmscEJ) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [Trooper Salute](https://open.spotify.com/album/4tWPQG4iw4sSp6LxSdnsYG) | 4:59 | 2024-12-10 | 2025-01-24 |

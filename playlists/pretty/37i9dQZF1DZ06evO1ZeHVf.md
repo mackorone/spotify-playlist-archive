@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,676 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,706 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,19 +19,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 9 | [Believe For It \- Live](https://open.spotify.com/track/0CJjzOsUXKb99TQA7zFJfQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 8:22 |
 | 10 | [Mercy Said No](https://open.spotify.com/track/3wOHgqLMIqHierF0D8VoMl) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 5:00 |
 | 11 | [How Great Is Our God/How Great Thou Art \- Medley](https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 5:27 |
-| 12 | [Be Still and Know](https://open.spotify.com/track/30snoZvilHid7ou2YKKkfj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 4:04 |
-| 13 | [King of Glory](https://open.spotify.com/track/070zy0czmO8UahOkPlXtIX) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Awaken: The Surrounded Experience](https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa) | 5:44 |
+| 12 | [King of Glory](https://open.spotify.com/track/070zy0czmO8UahOkPlXtIX) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Awaken: The Surrounded Experience](https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa) | 5:44 |
+| 13 | [Be Still and Know](https://open.spotify.com/track/30snoZvilHid7ou2YKKkfj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 4:04 |
 | 14 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 |
 | 15 | [How Great Thou Art!](https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 6:17 |
 | 16 | [Alabaster Box](https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 5:32 |
 | 17 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 |
 | 18 | [Worthy](https://open.spotify.com/track/220y6wZdotGDs28L7U3nwC) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 5:21 |
 | 19 | [Jesus, You're Beautiful](https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:54 |
-| 20 | [Comforter](https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:42 |
-| 21 | [Never Lost](https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:10 |
-| 22 | [Holy Spirit, Come Fill This Place](https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 5:35 |
+| 20 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
+| 21 | [Holy Spirit, Come Fill This Place](https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 5:35 |
+| 22 | [Never Lost](https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:10 |
 | 23 | [A Heart Like Yours](https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 3:39 |
-| 24 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
+| 24 | [Comforter](https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:42 |
 | 25 | [Is He Worthy?](https://open.spotify.com/track/77y50GoCnEr3ckdfp5dFT4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 5:07 |
 | 26 | [Blessed Assurance](https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue) | [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Celebrating Fisk! \(The 150th Anniversary Album\)](https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF) | 3:40 |
 | 27 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 36 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
 | 37 | [It Wasn't Easy](https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:48 |
 | 38 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Gaither Homecoming Classics Vol.1](https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT) | 1:58 |
-| 39 | [You're The One](https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:54 |
-| 40 | [Thirst For You](https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 5:00 |
+| 39 | [Thirst For You](https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 5:00 |
+| 40 | [You're The One](https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:54 |
 | 41 | [Pray](https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:30 |
 | 42 | [King Of Kings \(He's A Wonder\)](https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:24 |
 | 43 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [Never Have to Be Alone](https://open.spotify.com/track/4vqP4vqgzzSfMZr6E0KTmf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall In Love](https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz) | 3:47 |
 | 50 | [We Welcome You \(Holy Father\)](https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:57 |
 
-Snapshot ID: `aG8CgAAAAABzgY4X0EYZ4nGGg3x5mABe`
+Snapshot ID: `aHBUAAAAAAAxCCn4pW4INBpjjZna74Cy`

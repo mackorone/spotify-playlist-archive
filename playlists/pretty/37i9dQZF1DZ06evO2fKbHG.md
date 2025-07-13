@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,580 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,593 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 40 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 | 41 | [Gates of the West](https://open.spotify.com/track/62QXkCDecDXfW95CzjmegU) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Cost of Living \- EP](https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u) | 3:25 |
 
-Snapshot ID: `aG8CgAAAAABh8FGP4dgARKfcMD8i8WFU`
+Snapshot ID: `aHBUAAAAAACdeoGTT8l0qJtaGTJ73tyX`

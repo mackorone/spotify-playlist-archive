@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,714 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,935 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 26 | [Te Lo Dije](https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Te Lo Dije](https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt) | 3:18 |
 | 27 | [Cada Quien](https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe) | 3:17 |
 | 28 | [Luna](https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:12 |
-| 29 | [Descuide](https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Descuide](https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK) | 3:25 |
-| 30 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
+| 29 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
+| 30 | [Descuide](https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Descuide](https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK) | 3:25 |
 | 31 | [Se Veía Venir](https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Veía Venir](https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk) | 2:32 |
 | 32 | [Según Mi Reloj](https://open.spotify.com/track/5qN3kW0IR3CatHePsr4MVV) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 2:31 |
 | 33 | [Gracias \(En Vivo\)](https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 50 | [Según](https://open.spotify.com/track/4xiQIGoPyUqJXhfBfFT85O) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 3:14 |
 
-Snapshot ID: `aG8CgAAAAABUI80SPq8v+bBUPsJ4OeXb`
+Snapshot ID: `aHBUAAAAAAAbBdPqVb3S82o+uUWlKyRj`

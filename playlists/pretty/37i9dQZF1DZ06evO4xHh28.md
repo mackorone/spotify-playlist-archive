@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,644 likes - 43 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,024 likes - 43 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 26 | [The Light Behind Your Eyes](https://open.spotify.com/track/3HyDpKAuR3e4l6QB7hSB2l) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Three](https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E) | 5:12 |
 | 27 | [Early Sunsets Over Monroeville](https://open.spotify.com/track/2aHqdN4K9naX3oBuUxp6zf) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:05 |
 | 28 | [Kill All Your Friends](https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Famous Last Words](https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1) | 4:28 |
-| 29 | [DESTROYA](https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:32 |
-| 30 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 |
+| 29 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 |
+| 30 | [DESTROYA](https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:32 |
 | 31 | [Headfirst for Halos](https://open.spotify.com/track/51VwpPzxUd6g94iELptagU) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:28 |
 | 32 | [Under Pressure](https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Under Pressure](https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS) | 3:31 |
 | 33 | [Heaven Help Us](https://open.spotify.com/track/7D50nnDRmIkn3D9xnmhCXk) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Welcome to the Black Parade](https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz) | 2:54 |
-| 34 | [My Way Home Is Through You](https://open.spotify.com/track/5HmSNijgNQ9xUmVfCyPjHJ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Famous Last Words](https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1) | 2:58 |
-| 35 | [AMBULANCE](https://open.spotify.com/track/1X75XA77E14HqCCBfkl5FM) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Two](https://open.spotify.com/album/2WzXUz0hVD8s9FBmpIl9XM) | 3:52 |
+| 34 | [AMBULANCE](https://open.spotify.com/track/1X75XA77E14HqCCBfkl5FM) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Two](https://open.spotify.com/album/2WzXUz0hVD8s9FBmpIl9XM) | 3:52 |
+| 35 | [My Way Home Is Through You](https://open.spotify.com/track/5HmSNijgNQ9xUmVfCyPjHJ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Famous Last Words](https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1) | 2:58 |
 | 36 | [Surrender the Night](https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Five](https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr) | 3:27 |
 | 37 | [Desert Song](https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 3:50 |
 | 38 | [Fake Your Death](https://open.spotify.com/track/2M8g01v2vUMn39YQ10l7ef) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [May Death Never Stop You](https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw) | 3:20 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 42 | [All the Angels \- Live Demo](https://open.spotify.com/track/0nF9vweVf1fe2L2piR1P0F) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:13 |
 | 43 | [Tomorrow's Money](https://open.spotify.com/track/5gqpaxUlKUuOeqxfj8H1L8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number One](https://open.spotify.com/album/2RCPu5qyaDPWIeWdy4WJCU) | 3:16 |
 
-Snapshot ID: `aG8CgAAAAADZwLWsBLS0Sw7Ojq8mm2x8`
+Snapshot ID: `aHBUAAAAAAAll1Ki72knJ11gpP653CNv`

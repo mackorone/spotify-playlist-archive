@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20229,
+  "num_followers": 20233,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAD5H7oiZXkieZ6BWemFa8pb",
+  "snapshot_id": "aHBUAAAAAABxJCbO+gxB+gbPZnWmL++/",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Arco\u00edris",
-      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modus Operandi",
         "url": "https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq"
       },
@@ -183,6 +163,42 @@
       "duration_ms": 214253,
       "name": "Bad Vibe",
       "url": "https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F1 The Album",
+        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 173149,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
     },
     {
       "added_at": null,
@@ -215,22 +231,6 @@
       "duration_ms": 168150,
       "name": "Chop Time, No Friend",
       "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F1 The Album",
-        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 173149,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 198952,
       "name": "KEYS TO THE KINGDOM",
       "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162102,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 109747,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
     },
     {
       "added_at": null,
@@ -895,6 +895,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
+      },
+      "artists": [
+        {
+          "name": "DJ Battle",
+          "url": "https://open.spotify.com/artist/5rQh3Nz0mE7UaBIp9hotMq"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 213354,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
       },
@@ -931,34 +959,6 @@
       "duration_ms": 213812,
       "name": "Sample You - Remix",
       "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
-      },
-      "artists": [
-        {
-          "name": "DJ Battle",
-          "url": "https://open.spotify.com/artist/5rQh3Nz0mE7UaBIp9hotMq"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        },
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 213354,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
     },
     {
       "added_at": null,

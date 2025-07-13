@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Lullaby Of A Deadman](https://open.spotify.com/track/6BrBmkdx076OXG7BalDQhR) | [Kevin Sherwood](https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb), [Elena Siegman](https://open.spotify.com/artist/6BlZkvGwQyo011poQEhQ1J), [Corey Redgrift](https://open.spotify.com/artist/4IEBl7fewvEMHjSirgyW3v) | [Call of Duty: Black Ops – Zombies \(Original Game Soundtrack\)](https://open.spotify.com/album/5iIo9PaIwnmuhKWVaoU2WY) | 3:59 |
 | 30 | [Black No\. 1 \- Edit](https://open.spotify.com/track/4YXZa5AcYlFeV9zDCfNbSJ) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [The Least Worst Of](https://open.spotify.com/album/1vvBwbiS6MIDWvinWsKV6i) | 4:39 |
 
-Snapshot ID: `aGtGQAAAAAAb9YSviEi+/i402fLTNeBb`
+Snapshot ID: `aGtGQAAAAABLPeAmR2tVo/3CVpu+LobC`

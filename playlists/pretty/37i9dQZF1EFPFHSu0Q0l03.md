@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,713 likes - 256 songs - 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,715 likes - 256 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 29 | [coney island \(feat\. The National\)](https://open.spotify.com/track/4tyX1rw9X309WkEdh2As4B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 4:35 |
 | 30 | [The Prophecy](https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:09 |
 | 31 | [dorothea](https://open.spotify.com/track/3w9VRlKPvNxj40RdUGRweH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:45 |
-| 32 | [High Infidelity](https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:51 |
-| 33 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
+| 32 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
+| 33 | [High Infidelity](https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:51 |
 | 34 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 35 | [How Did It End?](https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:58 |
 | 36 | [Renegade](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 255 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 256 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `Ab2hSgAAAAAXX5IgWX2c4wyAaFzz4Hij`
+Snapshot ID: `Ab2nCAAAAABU0PFB3Vs/XXueDmWnEJSI`

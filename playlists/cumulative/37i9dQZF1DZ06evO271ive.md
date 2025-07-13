@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 8 min
+111 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Grape Trees \(feat\. Sexyy Red\)](https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 5:03 | 2024-05-12 | 2025-05-17 |
 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 | 2025-06-22 |  |
 | [Hellcats SRTs](https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 | 2023-11-10 |  |
-| [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 | 2023-11-10 |  |
+| [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 | 2023-11-10 | 2025-07-13 |
 | [Hold On Yeah](https://open.spotify.com/track/6M41zLwqgg0hK2ELUaVnH9) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:25 | 2023-12-13 | 2024-03-17 |
 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 | 2025-04-06 |  |
 | [Hood Bitch](https://open.spotify.com/track/3zBwBkR18TfwaZTQ5fOIWl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:37 | 2023-11-10 | 2024-05-24 |
@@ -105,6 +105,7 @@
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-10-31 |  |
 | [Sticky Icky \(Roll Det\)](https://open.spotify.com/track/3k56wuGvKg3l9g1t61C9jW) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 3:00 | 2023-11-10 | 2024-05-24 |
 | [Sticky Icky \(Roll Det\)](https://open.spotify.com/track/7iffUVxZHOBwl2zUjyqRP0) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 3:00 | 2024-05-24 | 2025-06-20 |
+| [SWEET SPOT](https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:05 | 2025-07-13 |  |
 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 | 2024-09-08 | 2025-01-04 |
 | [Throw That Mf](https://open.spotify.com/track/7sWUDFmphDkMZI5GboXscb) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throw That Mf](https://open.spotify.com/album/0cHwkVrWatS1hHHfDzewJ2) | 2:07 | 2023-11-10 | 2024-05-26 |
 | [Throwin' It](https://open.spotify.com/track/1EC19TqO0rHpqwMHJrzOgk) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throwin' It](https://open.spotify.com/album/4YR9YTU8b8PmQqDDkh9HKN) | 2:29 | 2023-11-10 | 2024-06-03 |

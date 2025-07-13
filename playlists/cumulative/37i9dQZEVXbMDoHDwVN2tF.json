@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "ALL I CAN TAKE",
+      "url": "https://open.spotify.com/track/21OUVoz2AOPAHGt4UlPAvn"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -6178,6 +6196,24 @@
       "duration_ms": 164457,
       "name": "Butter (Megan Thee Stallion Remix)",
       "url": "https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193525,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/263Nr1Hd1soxwsCLZpslTS"
     },
     {
       "album": {
@@ -8893,6 +8929,46 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Lil B",
+          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "DADZ LOVE",
+      "url": "https://open.spotify.com/track/0up6puovzKXDMLsnqwPnKU"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki"
       },
@@ -9840,6 +9916,28 @@
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/32yIPBRB0kPPnMjhq46r51"
     },
     {
       "album": {
@@ -11034,7 +11132,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -12744,7 +12842,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -13920,6 +14018,24 @@
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "FIRST PLACE",
+      "url": "https://open.spotify.com/track/3xu06JJz8ss9obgAah5C5N"
     },
     {
       "album": {
@@ -15483,6 +15599,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84506,
+      "name": "GLORY VOICE MEMO",
+      "url": "https://open.spotify.com/track/5Kut7kO7IyyX2jWGhN8PRT"
+    },
+    {
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -15576,6 +15710,24 @@
       "duration_ms": 193539,
       "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
       "url": "https://open.spotify.com/track/70cI4Pl8YjQXmIfpLeqm76"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "GO BABY",
+      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
     },
     {
       "album": {
@@ -19016,7 +19168,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -19876,7 +20028,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d"
@@ -19894,7 +20046,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -20440,6 +20592,24 @@
       "duration_ms": 137151,
       "name": "Jumbotron Shit Poppin",
       "url": "https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -23412,7 +23582,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -24310,7 +24480,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -25000,7 +25170,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 184173,
       "name": "Marlboro Rojo",
       "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
@@ -27506,7 +27676,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/2ipIPsgrgd0j2beDf4Ki70"
@@ -29304,7 +29474,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -34504,7 +34674,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
@@ -35010,7 +35180,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -35608,7 +35778,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -37063,6 +37233,28 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Druski",
+          "url": "https://open.spotify.com/artist/4QXUDhKn7oIyfnaNEBkrkY"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36666,
+      "name": "SOULFUL",
+      "url": "https://open.spotify.com/track/5PAKAADzrSpMDxcaRpSDCm"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -38356,7 +38548,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 114913,
       "name": "SUIZA",
       "url": "https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw"
@@ -38813,6 +39005,32 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150239,
+      "name": "SWAG",
+      "url": "https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2"
+    },
+    {
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -38894,6 +39112,28 @@
       "duration_ms": 188496,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "SWEET SPOT",
+      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD"
     },
     {
       "album": {
@@ -40800,7 +41040,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
@@ -41002,6 +41242,24 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108386,
+      "name": "THINGS YOU DO",
+      "url": "https://open.spotify.com/track/1j8TmNa6vaFAEAws43kP0Q"
     },
     {
       "album": {
@@ -44381,6 +44639,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244013,
+      "name": "WALKING AWAY",
+      "url": "https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -44638,6 +44914,28 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195319,
+      "name": "WAY IT IS",
+      "url": "https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4"
     },
     {
       "album": {
@@ -46412,7 +46710,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
@@ -47024,6 +47322,24 @@
       "duration_ms": 261842,
       "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
       "album": {

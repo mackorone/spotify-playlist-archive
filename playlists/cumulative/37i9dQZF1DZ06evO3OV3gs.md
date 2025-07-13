@@ -4,7 +4,7 @@
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 13 min
+90 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Crazy](https://open.spotify.com/track/3Y6bCKPrsrKRSo8sg6PuL3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:02 | 2024-11-18 | 2025-06-13 |
 | [Crazy for You](https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:44 | 2023-08-07 | 2024-01-06 |
 | [Crazy for You \- Edit](https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:45 | 2023-07-28 |  |
-| [Deeper and Deeper](https://open.spotify.com/track/6KU8g98m1tcrUXRNjPQeOI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:33 | 2024-07-07 |  |
+| [Deeper and Deeper](https://open.spotify.com/track/6KU8g98m1tcrUXRNjPQeOI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:33 | 2024-07-07 | 2025-07-13 |
 | [Die Another Day](https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:39 | 2023-07-28 | 2025-03-30 |
 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 | 2023-07-28 |  |
 | [Don't Tell Me](https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:40 | 2023-07-28 |  |
@@ -46,6 +46,7 @@
 | [Girl Gone Wild](https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 3:43 | 2023-07-28 | 2025-06-09 |
 | [Give It 2 Me](https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:47 | 2023-07-28 |  |
 | [Give Me All Your Luvin'](https://open.spotify.com/track/0QXtw4rDLQtpzqPS4uJbZJ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 3:22 | 2024-05-15 | 2024-05-17 |
+| [Gone Gone Gone \- Original Demo Version](https://open.spotify.com/track/1LbwREbw5dfkeEj9zKC5hi) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Gone Gone Gone \(Original Demo Version\)](https://open.spotify.com/album/5HeJkWdWkPMdAR5ysM5NxA) | 4:39 | 2025-07-13 |  |
 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 | 2023-07-28 |  |
 | [Hollywood](https://open.spotify.com/track/0VjvjeUA6jZst67DnT2sXv) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hollywood \(Remixes\)](https://open.spotify.com/album/3LhjfUuJ0DjUpV2xS3cSI0) | 3:41 | 2023-07-28 | 2023-08-20 |
 | [Hollywood](https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:22 | 2023-10-10 | 2025-01-25 |

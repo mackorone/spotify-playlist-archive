@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 330004,
+  "num_followers": 330056,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
+      },
+      "artists": [
+        {
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
+        }
+      ],
+      "duration_ms": 200019,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Lynx",
         "url": "https://open.spotify.com/album/6bWCczrlwsGGc9B8wCFair"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 201933,
       "name": "Lynx",
       "url": "https://open.spotify.com/track/07RjOHhgQG6FsQHZhfcNdv"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
-      },
-      "artists": [
-        {
-          "name": "FM Attack",
-          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
-        }
-      ],
-      "duration_ms": 200019,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Network Entities",
+        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
+      },
+      "artists": [
+        {
+          "name": "Incorporeal Visions Deluxe",
+          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "\u8a69 Desktop",
+      "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Home and Office",
         "url": "https://open.spotify.com/album/0Ulc2WfQQRLRd58E6xra7M"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 153296,
       "name": "Home and Office",
       "url": "https://open.spotify.com/track/7nLSB0ZrbuHY9gRYJKv9W5"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Network Entities",
-        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
-      },
-      "artists": [
-        {
-          "name": "Incorporeal Visions Deluxe",
-          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "\u8a69 Desktop",
-      "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "You Got The Groove",
-        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
-      },
-      "artists": [
-        {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "You Got The Groove - slow + reverbed",
-      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 176086,
       "name": "Harlequin",
       "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "You Got The Groove",
+        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
+      },
+      "artists": [
+        {
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "You Got The Groove - slow + reverbed",
+      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "CasaBlanca",
-        "url": "https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebn",
-          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
-        }
-      ],
-      "duration_ms": 183371,
-      "name": "CasaBlanca",
-      "url": "https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\u9752\u6625\u306e\u4f11\u6687",
         "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "CasaBlanca",
+        "url": "https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebn",
+          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
+        }
+      ],
+      "duration_ms": 183371,
+      "name": "CasaBlanca",
+      "url": "https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Leisure",
         "url": "https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 222958,
       "name": "Gallery",
       "url": "https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Tropics 1",
-        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "Spring Water",
-      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1739,6 +1723,22 @@
       "duration_ms": 176000,
       "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
       "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tropics 1",
+        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
+      },
+      "artists": [
+        {
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "Spring Water",
+      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
     }
   ],
   "unique_name": "vaporwave",

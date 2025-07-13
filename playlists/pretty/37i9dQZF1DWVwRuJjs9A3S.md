@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Wet Leg
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,581 likes - 153 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,585 likes - 153 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

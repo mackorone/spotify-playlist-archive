@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-455 songs - 1 day 7 hr 14 min
+457 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Breeze](https://open.spotify.com/track/6cwTa2hYzNX9N1adl81H08) | [Moini](https://open.spotify.com/artist/5X233qhRlsTg35ZvAMGUGl) | [Breeze](https://open.spotify.com/album/4JefNjIJrhmtbn3Mo2NheX) | 2:10 | 2022-03-11 | 2025-05-18 |
 | [Brockley](https://open.spotify.com/track/0uMD0CaCxiTwgVZhN5paQf) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:48 | 2021-10-20 | 2022-07-29 |
 | [Brockley](https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:48 | 2021-10-20 | 2023-11-11 |
-| [Cape Cira](https://open.spotify.com/track/0nFjW7EVhopM2mfMDJjcOq) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Cape Cira](https://open.spotify.com/album/3u3jFYNTOIEyc5mqB6txFv) | 6:17 | 2021-10-20 |  |
+| [Cape Cira](https://open.spotify.com/track/0nFjW7EVhopM2mfMDJjcOq) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Cape Cira](https://open.spotify.com/album/3u3jFYNTOIEyc5mqB6txFv) | 6:17 | 2021-10-20 | 2025-07-13 |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-01-07 | 2024-02-27 |
 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 2:07 | 2021-10-20 | 2024-04-19 |
 | [Caracas Night September 11, 1975](https://open.spotify.com/track/41eK0VAehccolm2ckwhPrF) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox](https://open.spotify.com/album/5aZQzSX2cCYC91CTNw0TdJ) | 2:14 | 2021-10-20 | 2022-07-29 |
@@ -78,6 +78,7 @@
 | [Castle Song](https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [A Host for All Kinds of Life](https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl) | 2:53 | 2023-10-13 |  |
 | [Cherish](https://open.spotify.com/track/0gopaBSZjH3RrnN35lhwzu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Cherish](https://open.spotify.com/album/7IhbGGJCLTdwkMO7q3OBmZ) | 3:13 | 2021-10-20 | 2022-07-29 |
 | [Cherish](https://open.spotify.com/track/47CcDHVJSLChnXpXd0Xan7) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Small Wonders](https://open.spotify.com/album/2rU5cwHDgBh16XilEuEco8) | 3:13 | 2021-10-20 | 2024-04-19 |
+| [Cherry](https://open.spotify.com/track/3WdPwK49grEfkW5cw9C3Lo) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [Legends](https://open.spotify.com/album/0Hy3urqOl5IArDdoycKlJP) | 3:31 | 2025-07-12 |  |
 | [Chipinque](https://open.spotify.com/track/2nY28xLbU220DiDAc3177k) | [Tiempo Fuera](https://open.spotify.com/artist/3tsfuCKw78MCVfLoKHUn4Z) | [Chipinque](https://open.spotify.com/album/1C66AJuEWFwkg2MB9JnkjM) | 3:14 | 2023-05-24 | 2023-08-05 |
 | [CHU / 處](https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 2:23 | 2024-03-21 |  |
 | [Chysis](https://open.spotify.com/track/6mYwBPBDXp6US3zyYgpvHY) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Chysis](https://open.spotify.com/album/27jkNII5NNORpvfdzkD9Wd) | 6:24 | 2021-10-20 | 2022-07-29 |
@@ -158,6 +159,7 @@
 | [Gale Still Blowing](https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Perpetual Care](https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY) | 4:57 | 2023-03-29 | 2023-06-16 |
 | [giza](https://open.spotify.com/track/6JSLJcMsjyx5aBQkCF8P1A) | [Sxmniak](https://open.spotify.com/artist/0NIcjfmIXKx1cOpF0VSLVr), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [giza](https://open.spotify.com/album/1wzM8tlioXRRl4XR8ILGe6) | 2:00 | 2021-10-20 | 2024-07-09 |
 | [Gold](https://open.spotify.com/track/6a7ygvsIqA8FrtaLctYv7F) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Beyond the Sea](https://open.spotify.com/album/3zIvEzTFNeht42G3bPaMHb) | 3:29 | 2021-10-20 | 2022-04-13 |
+| [good morning, harrison, it’s time to go](https://open.spotify.com/track/3AXlDaG17OiCG4YvbotG7c) | [Okkyung Lee](https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ) | [good morning, harrison, it’s time to go](https://open.spotify.com/album/6P8N6YlPkuWW90TBba6kx2) | 3:02 | 2025-07-12 |  |
 | [Good Places](https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Good Places](https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8) | 4:26 | 2022-01-11 |  |
 | [gorge](https://open.spotify.com/track/1DryFlz9GE3GM1FneruABy) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [gorge](https://open.spotify.com/album/5q4UKuEjVFpzZZhGuPWQQ2) | 3:01 | 2021-10-20 | 2022-04-18 |
 | [Gorge](https://open.spotify.com/track/21NWvfC00qCfHdaMIb7Cqq) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Gorge](https://open.spotify.com/album/2HkEQUkxDl5AkzG4RPJ6wr) | 3:01 | 2021-10-20 | 2024-04-19 |
@@ -376,7 +378,7 @@
 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2021-10-20 | 2024-04-19 |
 | [Space Water](https://open.spotify.com/track/511FzKk8bOa4UTkiwoqYbB) | [Walton](https://open.spotify.com/artist/542yacXt2x9eLr9g8v0X8k) | [Unknown Territories](https://open.spotify.com/album/3gdbCEyrYrSLeg7Z7tUIES) | 2:43 | 2021-10-20 | 2022-04-18 |
 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-01-14 |  |
-| [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 | 2021-10-20 |  |
+| [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 | 2021-10-20 | 2025-07-13 |
 | [Spring Siesta](https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Spring Siesta](https://open.spotify.com/album/4oR4Hey6GVUpl6GGtaaaze) | 4:01 | 2023-04-06 | 2024-08-10 |
 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 | 2021-10-20 | 2024-04-19 |
 | [Stratus](https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/5T9rGi62i1O7wRu3c2f3q4) | 3:04 | 2021-10-20 | 2022-07-23 |

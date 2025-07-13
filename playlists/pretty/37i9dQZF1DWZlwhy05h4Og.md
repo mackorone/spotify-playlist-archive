@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,193 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,346 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

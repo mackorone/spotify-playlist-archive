@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Next Generations Rising\. Cover: Thelma Plum
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,588 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,575 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

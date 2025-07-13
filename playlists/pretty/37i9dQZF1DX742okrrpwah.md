@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Burna Boy, Justin Bieber, Gazo et Miki  au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,422 likes - 102 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,447 likes - 102 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 85 | [Allez viens !](https://open.spotify.com/track/2CTGMaLAr1NWwuVX0v7qcp) | [Félix Radu](https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX) | [Allez viens !](https://open.spotify.com/album/6xGD59pdWdiSjyhoZml9Al) | 3:32 |
 | 86 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
 | 87 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 |
-| 88 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 88 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 89 | [Pistolet avec les doigts](https://open.spotify.com/track/3CyQawXK1Xc16CcA5lS82W) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Pistolet avec les doigts](https://open.spotify.com/album/3gEMpybP3DJT0SbsPCdO0K) | 2:58 |
 | 90 | [GR4VEY4RD SHIFT \(feat\. Headie One\)](https://open.spotify.com/track/0JSOw4gBnM8KIdj2BoYyks) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [4 \(Deluxe\)](https://open.spotify.com/album/1Hfzke6hFhtGPKITLiOLFk) | 3:36 |
 | 91 | [Cherry Bomb](https://open.spotify.com/track/0hiQoqVVLjG6PTUTQEpTb5) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Cherry Bomb](https://open.spotify.com/album/2XxmkIbbCw20xkmB61Va4C) | 2:58 |

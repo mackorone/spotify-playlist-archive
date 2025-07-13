@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,144 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,150 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 42 | [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 |
 | 43 | [It's Time](https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [It's Time](https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ) | 2:33 |
 | 44 | [Another Win](https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Another Win](https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU) | 3:45 |
-| 45 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 |
-| 46 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 |
-| 47 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
-| 48 | [Now They Know](https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Now They Know](https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c) | 4:30 |
-| 49 | [Monster](https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 3:17 |
-| 50 | [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 |
+| 45 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 |
+| 46 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 |
+| 47 | [Yes](https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Yes](https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms) | 2:59 |
+| 48 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
+| 49 | [Now They Know](https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Now They Know](https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c) | 4:30 |
+| 50 | [Monster](https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 3:17 |
 
-Snapshot ID: `aG8CgAAAAADAdt8lvC4BubhQuHnSpK2O`
+Snapshot ID: `aHBUAAAAAABWDIxLObEkO+LXEhfsVA0q`

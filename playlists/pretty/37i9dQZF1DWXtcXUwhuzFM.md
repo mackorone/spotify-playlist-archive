@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia KERZALTA ja Isac Elliotilta, The Rasmukselta, KIKILTÄ, Senyalta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,108 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,117 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 27 | [Super Powers](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Super Powers](https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi) | 3:32 |
 | 28 | [Sun takii](https://open.spotify.com/track/7yTQcZYQ4ynDIY63x3A9df) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [luke](https://open.spotify.com/artist/6trWS3LhQbIXgDZaubTvTB) | [Sun takii](https://open.spotify.com/album/1CmD0tLoEtXEjtNbAZKzBv) | 2:53 |
 | 29 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 |
-| 30 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 30 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 31 | [Follow Excitement!](https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Follow Excitement!](https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX) | 2:28 |
 | 32 | [ELäMäNVAiHE](https://open.spotify.com/track/6T4sSplutCJSLFpyVEjZbd) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [ELäMäNVAiHE](https://open.spotify.com/album/0FrvQyQfcUMgDmQpdNZvhr) | 3:41 |
 | 33 | [Keskeneräinen](https://open.spotify.com/track/5HYCgiuSWLV5OiFp3c08AA) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Keskeneräinen](https://open.spotify.com/album/7noqyqON1TF0ppImhbnIJx) | 2:39 |

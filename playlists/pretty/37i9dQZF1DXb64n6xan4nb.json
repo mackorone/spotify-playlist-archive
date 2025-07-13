@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 35052,
+  "num_followers": 35064,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Purple Drop",
+        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
+      },
+      "artists": [
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Hawaian Couple",
+      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "ASTROMANTIC",
         "url": "https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 350960,
       "name": "miss you",
       "url": "https://open.spotify.com/track/5vYzF4Lh3wwUAsugpFYLYQ"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Purple Drop",
-        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
-      },
-      "artists": [
-        {
-          "name": "HUS",
-          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Hawaian Couple",
-      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
+        "name": "Neo Classicism",
+        "url": "https://open.spotify.com/album/26KTR4BV6sZ7jh0BxO3zIj"
       },
       "artists": [
         {
-          "name": "TAKE",
-          "url": "https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv"
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
         }
       ],
-      "duration_ms": 269731,
-      "name": "Butterfly Grave (2015)",
-      "url": "https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn"
+      "duration_ms": 231160,
+      "name": "\ud769\uc5b4\uc9c4 \ub098\ub0a0\ub4e4",
+      "url": "https://open.spotify.com/track/59LCK6UpQY1qhGPEp66AZp"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Neo Classicism",
-        "url": "https://open.spotify.com/album/26KTR4BV6sZ7jh0BxO3zIj"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "\ud769\uc5b4\uc9c4 \ub098\ub0a0\ub4e4",
-      "url": "https://open.spotify.com/track/59LCK6UpQY1qhGPEp66AZp"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 243749,
       "name": "Promise U (Original Ver.)",
       "url": "https://open.spotify.com/track/0xal1TDjG4hQRt6poGvoml"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
+      },
+      "artists": [
+        {
+          "name": "TAKE",
+          "url": "https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv"
+        }
+      ],
+      "duration_ms": 269731,
+      "name": "Butterfly Grave (2015)",
+      "url": "https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Neo Classicism - \ub208\uc758 \uaf43",
-        "url": "https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul"
+        "name": "Hexagonal",
+        "url": "https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS"
       },
       "artists": [
         {
-          "name": "Five Sense",
-          "url": "https://open.spotify.com/artist/1W8cDoqWbmovusGp27bHFp"
+          "name": "Leessang",
+          "url": "https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI"
+        },
+        {
+          "name": "Enzo B",
+          "url": "https://open.spotify.com/artist/1dbfrp275Od1GgYsnjMcyn"
         }
       ],
-      "duration_ms": 342491,
-      "name": "Neo Classicism - \ub208\uc758 \uaf43 - Remake Version",
-      "url": "https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW"
+      "duration_ms": 283866,
+      "name": "\ub0b4 \ubab8\uc740 \ub108\ub97c \uc9c0\uc6e0\ub2e4 My Body Erased You (feat. Enzo.B)",
+      "url": "https://open.spotify.com/track/5yOBgJcP9lt9l8daa7pwC4"
     }
   ],
   "unique_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",

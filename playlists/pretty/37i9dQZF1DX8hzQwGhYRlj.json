@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38673,
+  "num_followers": 38676,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -203,30 +203,6 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
-        "url": "https://open.spotify.com/album/6YzXJHCK4n0unzpKqtpbBB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Malm\u00f6 Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
-        },
-        {
-          "name": "Bjarte Engeset",
-          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Peer Gynt Suite No. 2, Op. 55: IV. Solveigs sang (Solveig's Song)",
-      "url": "https://open.spotify.com/track/1KM99JjxJzU26mwwcLpAPo"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
         "name": "Grieg: Music for String Orchestra",
         "url": "https://open.spotify.com/album/4VusF0uZONGXQ2EmhA0sko"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 176200,
       "name": "Lyric Pieces Book V, Op. 54: No. 3 March Of The Trolls",
       "url": "https://open.spotify.com/track/0aVVfGJTyANYRvi22Kn7x1"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
+        "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
+        "url": "https://open.spotify.com/album/6YzXJHCK4n0unzpKqtpbBB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Malm\u00f6 Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Peer Gynt Suite No. 2, Op. 55: IV. Solveigs sang (Solveig's Song)",
+      "url": "https://open.spotify.com/track/1KM99JjxJzU26mwwcLpAPo"
     },
     {
       "added_at": "2025-07-04 11:59:56",

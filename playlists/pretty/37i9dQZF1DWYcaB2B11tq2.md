@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,088 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,266 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 70 | [Dañar el Jangueo](https://open.spotify.com/track/2G57GCgrChXL9CQ0yUMX7f) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Dañar el Jangueo](https://open.spotify.com/album/5Gzt5itwkQ3s2ZHICFzF0r) | 3:50 |
 | 71 | [Mas Profundo](https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU) | [Justin Michael](https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl) | [Mas Profundo](https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu) | 5:59 |
 | 72 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
-| 73 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
-| 74 | [Le Pertenezco](https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Mauricio Alen](https://open.spotify.com/artist/2xobqRIT4uGkrZVPJjRQeY) | [Le Pertenezco](https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy) | 3:46 |
+| 73 | [Le Pertenezco](https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Mauricio Alen](https://open.spotify.com/artist/2xobqRIT4uGkrZVPJjRQeY) | [Le Pertenezco](https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy) | 3:46 |
+| 74 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
 | 75 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
 | 76 | [Eres Mi Padre](https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh) | [David Letelier](https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R) | [Eres Mi Padre \- Single](https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF) | 9:04 |
 | 77 | [Glorioso Día](https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd) | [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Glorioso Día](https://open.spotify.com/album/79lisODI2SlbY69xklS6kE) | 7:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Dremo
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,554 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,582 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 45 | [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 |
 | 46 | [OPP \(S\)](https://open.spotify.com/track/753fMTMFUw8l2Ym9LZAA6x) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [OPP \(S\)](https://open.spotify.com/album/2H9Q3foXr7wwUdtFE0XOoh) | 3:09 |
 | 47 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
-| 48 | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU) | 2:07 |
-| 49 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |
+| 48 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |
+| 49 | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU) | 2:07 |
 | 50 | [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 |
 | 51 | [Synchro System \(feat\. Pheelz, Young Jonn & Lil Kesh\)](https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:43 |
 | 52 | [Wavy](https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG) | [Pawon Boy Vol.1](https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6) | 2:15 |

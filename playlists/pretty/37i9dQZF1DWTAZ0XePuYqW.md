@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > Rochelle Jordan's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,725 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,777 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Through The Wall](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
+| 1 | [TTW](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TTW](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
 | 2 | [Alignment](https://open.spotify.com/track/1bJevbgUI8LfV0TnuGGWQk) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE \(Deluxe\)](https://open.spotify.com/album/7mpy8j9XiGZILJ4VCWSrPQ) | 2:36 |
 | 3 | [Repare](https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Repare](https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE) | 3:22 |
 | 4 | [Shake It To The Max \(FLY\) \- Major Lazer Remix](https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Shake It To The Max \(FLY\) \(Major Lazer Remix\)](https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh) | 2:50 |

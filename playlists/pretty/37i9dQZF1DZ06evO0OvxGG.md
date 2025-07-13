@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,855 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,859 likes - 45 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 44 | [Trem Bala](https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trem Bala](https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e) | 2:16 |
 | 45 | [Sucessagem](https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Sucessagem](https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt) | 2:33 |
 
-Snapshot ID: `aG8CgAAAAADWhdc0Hti6wD2xGUO76nRt`
+Snapshot ID: `aHBUAAAAAAAhAdv4DwexrekOVnoOdMU0`

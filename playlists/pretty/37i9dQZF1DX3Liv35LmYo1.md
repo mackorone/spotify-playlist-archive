@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 35 | [Wall of Sleep](https://open.spotify.com/track/1KaS7bkSH7jPsz2tch2ZQ7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Wall Of Sleep](https://open.spotify.com/album/72YJcxGTWSbRYRqRzCYdVV) | 4:47 |
 | 36 | [Floating](https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Floating](https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8) | 5:49 |
 | 37 | [CIRCLES](https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [CIRCLES](https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD) | 4:34 |
-| 38 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
-| 39 | [Desert](https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT) | [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Desert](https://open.spotify.com/album/3J55fcmO15upttdki07D9U) | 4:02 |
+| 38 | [Desert](https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT) | [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Desert](https://open.spotify.com/album/3J55fcmO15upttdki07D9U) | 4:02 |
+| 39 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 | 40 | [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 |
 | 41 | [Memories In Flight](https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Memories In Flight](https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE) | 3:49 |
 | 42 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 |

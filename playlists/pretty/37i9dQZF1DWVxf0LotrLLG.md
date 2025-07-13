@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: De La Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,502 likes - 276 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,515 likes - 276 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

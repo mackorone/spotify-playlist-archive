@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,497 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,505 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 10 | [Lover's Break](https://open.spotify.com/track/47EaWVVqfXSqVm6uvxvMoQ) | [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD) | [Lover's Break](https://open.spotify.com/album/2gMZbALs99hgf9XQ89AZGu) | 3:28 |
 | 11 | [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 |
 | 12 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
-| 13 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 |
-| 14 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
+| 13 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
+| 14 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 |
 | 15 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 16 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 |
 | 17 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 46 | [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 |
 | 47 | [Be The First One](https://open.spotify.com/track/0UsBpozOiItwFrErgLkDAh) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [NYAROL](https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7) | [Be The First One](https://open.spotify.com/album/5yNthIBAghTkSfRTtDKd8k) | 2:43 |
 | 48 | [ineedu](https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [ineedu](https://open.spotify.com/album/4CSGs0uGFhhmXsXOa4s2ms) | 2:25 |
-| 49 | [Out of the Blue](https://open.spotify.com/track/6A03CSx08EOVrRjH86iKA4) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [Out of the Blue](https://open.spotify.com/album/3mpTEV9b2SI4ZJVCOgYgzn) | 3:21 |
-| 50 | [STOP \(what if you fly?\)](https://open.spotify.com/track/4SWxEClkfSvYJcaJmoJByj) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [STOP \(what if you fly?\)](https://open.spotify.com/album/4eMJ14ilC3DC0CjIJaJJFR) | 3:17 |
+| 49 | [Alma](https://open.spotify.com/track/3GJ09kc47vspvwPJbktp7v) | [Departure](https://open.spotify.com/artist/1JJNkpO2gNMM8sTxw795bi) | [Alma](https://open.spotify.com/album/6BWCviT2Tm1jtQI1DZQkYL) | 3:20 |
+| 50 | [Out of the Blue](https://open.spotify.com/track/6A03CSx08EOVrRjH86iKA4) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [Out of the Blue](https://open.spotify.com/album/3mpTEV9b2SI4ZJVCOgYgzn) | 3:21 |
 
 Snapshot ID: `aGap/AAAAAATPGV8Nlakj33ZXU+w2sgZ`

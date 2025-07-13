@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 백아\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,179 likes - 52 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,192 likes - 52 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 14 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 |
 | 15 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 |
 | 16 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 |
-| 17 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
-| 18 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
+| 17 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
+| 18 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
 | 19 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 |
 | 20 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 21 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 49 | [그렇게 됐어 It just happened](https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [It just happened](https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh) | 2:36 |
 | 50 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 51 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
-| 52 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 52 | [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 |
 
 Snapshot ID: `aHDJPwAAAADWIO6LtmVQI3BxIem9O2SG`

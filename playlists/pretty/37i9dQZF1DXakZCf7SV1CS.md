@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,208 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,246 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 57 | [Thos Moser](https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74) | [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g) | [None](https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj) | 4:23 |
 | 58 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
 | 59 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 |
-| 60 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
-| 61 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
+| 60 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
+| 61 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
 | 62 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
 | 63 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
 | 64 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:23 |

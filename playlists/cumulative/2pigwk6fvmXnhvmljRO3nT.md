@@ -4,7 +4,7 @@
 
 > 
 
-7,433 songs - 19 day 7 hr 15 min
+7,436 songs - 19 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,8 @@
 | [2012 \(feat\. Day Wave\)](https://open.spotify.com/track/4UFGBYbb7ixis7fTdzQx0h) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 4:20 | 2025-01-15 |  |
 | [2013 Desire And Hope](https://open.spotify.com/track/56fuJdKh5ZmuV5pVivJpnp) | [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT) | [New Wave Studio \(Vol.3\)](https://open.spotify.com/album/0HNC2JGkN9OxTcEudSzrYm) | 4:12 | 2024-12-07 |  |
 | [2020 World Championship Theme](https://open.spotify.com/track/6okl1ZUpu2gD54nYIkBG4D) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2020 World Championship Theme](https://open.spotify.com/album/0fGucHnQoH2IaR7CEQCtFK) | 2:43 | 2025-01-03 |  |
+| [2022 World Championship Theme](https://open.spotify.com/track/3gZyjgWdEibTsQFEmGiSSk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2022 World Championship Theme](https://open.spotify.com/album/4kJhEHkg1ggweXBa45GhPf) | 3:25 | 2025-07-12 |  |
+| [2023 World Championship Theme](https://open.spotify.com/track/7s9QiG7yUXpr9qNPUlZH3r) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2023 World Championship Theme](https://open.spotify.com/album/41OWf02MFdHDPMP8439pWP) | 2:59 | 2025-07-12 |  |
 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 | 2025-03-25 |  |
 | [21](https://open.spotify.com/track/3JKgcAa7r07ocVWcV8bS0H) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:43 | 2025-01-15 |  |
 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 | 2025-01-03 |  |
@@ -5209,6 +5211,7 @@
 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 | 2025-01-03 |  |
 | [Southernplayalisticadillacmuzik](https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:17 | 2025-01-15 |  |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2025-01-04 |  |
+| [Space Groove \- 2021](https://open.spotify.com/track/5HEOSBUUfENp5YAU4JcsxD) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Space Groove \- 2021](https://open.spotify.com/album/3usZ7im5mkX0BSZW4iQO2j) | 4:07 | 2025-07-12 |  |
 | [Space Jam](https://open.spotify.com/track/1jeCSl9xbUp5okqCjtIP8T) | [Jarren Blair](https://open.spotify.com/artist/1masDpm7zul13ra4CY3sjy) | [Space Jam](https://open.spotify.com/album/5JzRKAh4MoAt42DExGAvAC) | 4:17 | 2025-01-03 |  |
 | [Space Jam \- An Odyssey](https://open.spotify.com/track/59DqOEiZvbyRNHew4U6guS) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 3:41 | 2025-01-04 |  |
 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2024-12-16 |  |

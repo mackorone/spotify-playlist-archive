@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2174574,
+  "num_followers": 2174527,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -555,30 +555,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Beautiful Love",
-        "url": "https://open.spotify.com/album/0BMx1m6eEZNSepXySIvPME"
-      },
-      "artists": [
-        {
-          "name": "Rasmus H Thomsen Trio",
-          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
-        },
-        {
-          "name": "Krydda Sundstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm"
-        },
-        {
-          "name": "Oskar Cederblad",
-          "url": "https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM"
-        }
-      ],
-      "duration_ms": 280117,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/2X4NOuHYmduvvDy9FjIfDQ"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -607,18 +583,26 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Caris Hermes",
-        "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
+        "name": "Beautiful Love",
+        "url": "https://open.spotify.com/album/0BMx1m6eEZNSepXySIvPME"
       },
       "artists": [
         {
-          "name": "Caris Hermes",
-          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
+        },
+        {
+          "name": "Krydda Sundstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm"
+        },
+        {
+          "name": "Oskar Cederblad",
+          "url": "https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM"
         }
       ],
-      "duration_ms": 166983,
-      "name": "Twelve for J.",
-      "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
+      "duration_ms": 280117,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/2X4NOuHYmduvvDy9FjIfDQ"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -635,6 +619,22 @@
       "duration_ms": 435040,
       "name": "Those Peaceful Nights",
       "url": "https://open.spotify.com/track/3uL5MKK614H6AfCx2BKBqV"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Caris Hermes",
+        "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "Twelve for J.",
+      "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Tales of Utopia",
-        "url": "https://open.spotify.com/album/31gxlLdI53OZvFYHj8yi28"
-      },
-      "artists": [
-        {
-          "name": "Shalosh",
-          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "Three Sisters",
-      "url": "https://open.spotify.com/track/4ha7ENBPFcNMz4IFdR2jPd"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 401800,
       "name": "Stairway to the Stars",
       "url": "https://open.spotify.com/track/3J0s8NyS2WBt3ku99Wpqvo"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Tales of Utopia",
+        "url": "https://open.spotify.com/album/31gxlLdI53OZvFYHj8yi28"
+      },
+      "artists": [
+        {
+          "name": "Shalosh",
+          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "Three Sisters",
+      "url": "https://open.spotify.com/track/4ha7ENBPFcNMz4IFdR2jPd"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "This Is The Day",
-        "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Guidi Trio",
-          "url": "https://open.spotify.com/artist/5AjiK2OwwKdIAZddY1gCgy"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Trilly - Variation",
-      "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 219961,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0XEzkY36A838Jy1Nam64Mm"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "This Is The Day",
+        "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Guidi Trio",
+          "url": "https://open.spotify.com/artist/5AjiK2OwwKdIAZddY1gCgy"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Trilly - Variation",
+      "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Melody At Night",
-        "url": "https://open.spotify.com/album/2ZJefc9NERyNMMhndARgxl"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        }
-      ],
-      "duration_ms": 271547,
-      "name": "Melody At Night",
-      "url": "https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/5JkcUSh4jjHSz7o7C3R2Qw"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 292956,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/4Efyso6yJGSWAWnVHt88sp"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Melody At Night",
+        "url": "https://open.spotify.com/album/2ZJefc9NERyNMMhndARgxl"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        }
+      ],
+      "duration_ms": 271547,
+      "name": "Melody At Night",
+      "url": "https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
+        "name": "Layers of Life",
+        "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "Lullaby in Green",
+      "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
         "name": "Precarious Towers",
         "url": "https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu"
       },
@@ -1811,6 +1827,22 @@
       "duration_ms": 284333,
       "name": "Try To Remember",
       "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Abeyance",
+        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "duration_ms": 414108,
+      "name": "Abeyance",
+      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -1847,46 +1879,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Seeds Of Change",
-        "url": "https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        },
-        {
-          "name": "Marilyn Crispell",
-          "url": "https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD"
-        },
-        {
-          "name": "Carmen Castaldi",
-          "url": "https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "Seeds Of Change",
-      "url": "https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
-        "name": "Layers of Life",
-        "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 286080,
-      "name": "Lullaby in Green",
-      "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/0Dwp8GIDg2tZUTFGLqUO7f"
       },
@@ -1919,18 +1911,26 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Abeyance",
-        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
+        "name": "Seeds Of Change",
+        "url": "https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi"
       },
       "artists": [
         {
-          "name": "Caris Hermes",
-          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marilyn Crispell",
+          "url": "https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD"
+        },
+        {
+          "name": "Carmen Castaldi",
+          "url": "https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO"
         }
       ],
-      "duration_ms": 414108,
-      "name": "Abeyance",
-      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
+      "duration_ms": 313693,
+      "name": "Seeds Of Change",
+      "url": "https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Le plus longtemps possible",
-        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
-      },
-      "artists": [
-        {
-          "name": "Flash Pig",
-          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Voyageur",
-      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Red Orange and Blue",
         "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 432226,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Le plus longtemps possible",
+        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Voyageur",
+      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2211,6 +2211,42 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
+        "name": "Part VIII (Live)",
+        "url": "https://open.spotify.com/album/45UxbVT9bQtR6LvPFFqxWo"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 318122,
+      "name": "Budapest, Part VIII - Live",
+      "url": "https://open.spotify.com/track/2JRTt8P8Orx1iSQS8t0DA3"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Apr\u00e8s Un R\u00eave",
+        "url": "https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        }
+      ],
+      "duration_ms": 268565,
+      "name": "Apr\u00e8s Un R\u00eave",
+      "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
         "name": "Willow Weep for Me",
         "url": "https://open.spotify.com/album/65LGhKIjbhZMawufHw7zxU"
       },
@@ -2255,38 +2291,18 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Part VIII (Live)",
-        "url": "https://open.spotify.com/album/45UxbVT9bQtR6LvPFFqxWo"
+        "name": "Broken Blue",
+        "url": "https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Spiral TRIO",
+          "url": "https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f"
         }
       ],
-      "duration_ms": 318122,
-      "name": "Budapest, Part VIII - Live",
-      "url": "https://open.spotify.com/track/2JRTt8P8Orx1iSQS8t0DA3"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
-        "name": "Apr\u00e8s Un R\u00eave",
-        "url": "https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 268565,
-      "name": "Apr\u00e8s Un R\u00eave",
-      "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
+      "duration_ms": 621680,
+      "name": "Once upon a Summertime",
+      "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2303,22 +2319,6 @@
       "duration_ms": 284529,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
-        "name": "Broken Blue",
-        "url": "https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX"
-      },
-      "artists": [
-        {
-          "name": "Spiral TRIO",
-          "url": "https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f"
-        }
-      ],
-      "duration_ms": 621680,
-      "name": "Once upon a Summertime",
-      "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2343,26 +2343,18 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Ugly Beauty",
-        "url": "https://open.spotify.com/album/4yu3nVYm8FQQJRTQulC6gD"
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
       },
       "artists": [
         {
-          "name": "Cornelia Nilsson",
-          "url": "https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c"
-        },
-        {
-          "name": "Daniel Franck",
-          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
-        },
-        {
-          "name": "G\u00e1bor Bolla",
-          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
         }
       ],
-      "duration_ms": 205566,
-      "name": "Ugly Beauty",
-      "url": "https://open.spotify.com/track/4gfzPJUS6z8SkyhyUnooSa"
+      "duration_ms": 176871,
+      "name": "Close Enough for Love",
+      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2391,18 +2383,26 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "The Deep",
-        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
+        "name": "Ugly Beauty",
+        "url": "https://open.spotify.com/album/4yu3nVYm8FQQJRTQulC6gD"
       },
       "artists": [
         {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+          "name": "Cornelia Nilsson",
+          "url": "https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c"
+        },
+        {
+          "name": "Daniel Franck",
+          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
+        },
+        {
+          "name": "G\u00e1bor Bolla",
+          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
         }
       ],
-      "duration_ms": 176871,
-      "name": "Close Enough for Love",
-      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
+      "duration_ms": 205566,
+      "name": "Ugly Beauty",
+      "url": "https://open.spotify.com/track/4gfzPJUS6z8SkyhyUnooSa"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2427,34 +2427,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Borrowed Eyes",
-        "url": "https://open.spotify.com/album/2KiYGwR4EB4rqfWieNWJqS"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Paul Cornish",
-          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
-        },
-        {
-          "name": "Philip Norris",
-          "url": "https://open.spotify.com/artist/2im20up8riHLPljFBfanoV"
-        },
-        {
-          "name": "Nazir Ebo",
-          "url": "https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI"
-        }
-      ],
-      "duration_ms": 351581,
-      "name": "Borrowed Eyes",
-      "url": "https://open.spotify.com/track/5TOkkMmXaifXBz46FYpNn8"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -2467,6 +2439,42 @@
       "duration_ms": 252480,
       "name": "Get Out of Town",
       "url": "https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Glimmer Of Hope",
+        "url": "https://open.spotify.com/album/4HAq8zTLcUsbBMM7WOAtcu"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 513293,
+      "name": "Glimmer Of Hope",
+      "url": "https://open.spotify.com/track/5c83f2kFIeNNch1hvyNwGj"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Red Orange and Blue",
+        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guggenheim Quartet",
+          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
+        }
+      ],
+      "duration_ms": 390386,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/6pcRsBcaw8cTX0OWwMAM5w"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2495,26 +2503,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Glimmer Of Hope",
-        "url": "https://open.spotify.com/album/4HAq8zTLcUsbBMM7WOAtcu"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 513293,
-      "name": "Glimmer Of Hope",
-      "url": "https://open.spotify.com/track/5c83f2kFIeNNch1hvyNwGj"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "With Just A Word",
         "url": "https://open.spotify.com/album/3jetKcD1Pl9387nGYT9Ckp"
       },
@@ -2527,22 +2515,6 @@
       "duration_ms": 372428,
       "name": "Dignified Response",
       "url": "https://open.spotify.com/track/2cM5pSDkk06ngICQkV14dG"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
-        "name": "Red Orange and Blue",
-        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
-      },
-      "artists": [
-        {
-          "name": "Daniel Guggenheim Quartet",
-          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
-        }
-      ],
-      "duration_ms": 390386,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/6pcRsBcaw8cTX0OWwMAM5w"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2615,6 +2587,34 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
+        "name": "Borrowed Eyes",
+        "url": "https://open.spotify.com/album/2KiYGwR4EB4rqfWieNWJqS"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Paul Cornish",
+          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
+        },
+        {
+          "name": "Philip Norris",
+          "url": "https://open.spotify.com/artist/2im20up8riHLPljFBfanoV"
+        },
+        {
+          "name": "Nazir Ebo",
+          "url": "https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI"
+        }
+      ],
+      "duration_ms": 351581,
+      "name": "Borrowed Eyes",
+      "url": "https://open.spotify.com/track/5TOkkMmXaifXBz46FYpNn8"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
         "name": "Oblique Two-Step",
         "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
       },
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Defiant, Tender Warrior",
-        "url": "https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 256840,
-      "name": "Defiant, Tender Warrior",
-      "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Ledsen",
         "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
       },
@@ -2711,6 +2695,22 @@
       "duration_ms": 512133,
       "name": "Balanced",
       "url": "https://open.spotify.com/track/3mFKpIwPki7CWYrt66vxD6"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Defiant, Tender Warrior",
+        "url": "https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 256840,
+      "name": "Defiant, Tender Warrior",
+      "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2767,30 +2767,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Afflicted",
-        "url": "https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA"
-      },
-      "artists": [
-        {
-          "name": "Jonas Sorgenfrei",
-          "url": "https://open.spotify.com/artist/1R9MlzmbWcHVOFcs2HUvTN"
-        },
-        {
-          "name": "Denis G\u00e4bel",
-          "url": "https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0"
-        },
-        {
-          "name": "Peter Christof",
-          "url": "https://open.spotify.com/artist/6JZ4grvAbG2rYVEQ9AUfh4"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Afflicted",
-      "url": "https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Remember to Remember",
         "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
@@ -2815,6 +2791,30 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
+        "name": "Afflicted",
+        "url": "https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sorgenfrei",
+          "url": "https://open.spotify.com/artist/1R9MlzmbWcHVOFcs2HUvTN"
+        },
+        {
+          "name": "Denis G\u00e4bel",
+          "url": "https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0"
+        },
+        {
+          "name": "Peter Christof",
+          "url": "https://open.spotify.com/artist/6JZ4grvAbG2rYVEQ9AUfh4"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Afflicted",
+      "url": "https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
         "name": "Loslassen",
         "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
       },
@@ -2827,6 +2827,22 @@
       "duration_ms": 261708,
       "name": "Loslassen",
       "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Fire in the West",
+        "url": "https://open.spotify.com/album/63MLJEeNodAnA2f0P96IF8"
+      },
+      "artists": [
+        {
+          "name": "Neil Swainson",
+          "url": "https://open.spotify.com/artist/1N4zd0vJcrt52wU0wMwfCn"
+        }
+      ],
+      "duration_ms": 291213,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/5gOk1nWNZCx8QpZWyuNq5s"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2875,22 +2891,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Fire in the West",
-        "url": "https://open.spotify.com/album/63MLJEeNodAnA2f0P96IF8"
-      },
-      "artists": [
-        {
-          "name": "Neil Swainson",
-          "url": "https://open.spotify.com/artist/1N4zd0vJcrt52wU0wMwfCn"
-        }
-      ],
-      "duration_ms": 291213,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/5gOk1nWNZCx8QpZWyuNq5s"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Blue Dawn - Blue Nights",
         "url": "https://open.spotify.com/album/3Lhq62uVpxoRuCwkhV6ZsL"
       },
@@ -2927,18 +2927,22 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Semantics",
-        "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
+        "name": "Dialect",
+        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
       },
       "artists": [
         {
-          "name": "Andrew Rathbun",
-          "url": "https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx"
+          "name": "Claire Cross",
+          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
+        },
+        {
+          "name": "Harry Cook",
+          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
         }
       ],
-      "duration_ms": 501106,
-      "name": "Old Ballad For Hawk",
-      "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
+      "duration_ms": 222858,
+      "name": "Road to Eden",
+      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -2959,22 +2963,18 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Dialect",
-        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
+        "name": "Semantics",
+        "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
       },
       "artists": [
         {
-          "name": "Claire Cross",
-          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
-        },
-        {
-          "name": "Harry Cook",
-          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
+          "name": "Andrew Rathbun",
+          "url": "https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx"
         }
       ],
-      "duration_ms": 222858,
-      "name": "Road to Eden",
-      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
+      "duration_ms": 501106,
+      "name": "Old Ballad For Hawk",
+      "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Collblanc",
-        "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
-      },
-      "artists": [
-        {
-          "name": "Joe Webb",
-          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
-        }
-      ],
-      "duration_ms": 363818,
-      "name": "Collblanc",
-      "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI"
       },
@@ -3227,6 +3211,22 @@
       "duration_ms": 325268,
       "name": "As We Were (feat. Jared Gold & McClenty Hunter Jr.)",
       "url": "https://open.spotify.com/track/2GVoBRIR777NoOppqPa5ie"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Collblanc",
+        "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
+      },
+      "artists": [
+        {
+          "name": "Joe Webb",
+          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
+        }
+      ],
+      "duration_ms": 363818,
+      "name": "Collblanc",
+      "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -3503,6 +3503,22 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/77HYhNOlQWTnoqrwAmBahJ"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 283675,
+      "name": "A Promise",
+      "url": "https://open.spotify.com/track/36Y2PY9cCueWRSixpcqiRG"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
         "name": "Gabaldon\u2019s Glide",
         "url": "https://open.spotify.com/album/67V3c0of1MGURIkoBEopVB"
       },
@@ -3611,22 +3627,6 @@
       "duration_ms": 300520,
       "name": "Composition 4",
       "url": "https://open.spotify.com/track/6ryPf3eYnbLoak3EYDvRNI"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
-        "name": "A Promise",
-        "url": "https://open.spotify.com/album/77HYhNOlQWTnoqrwAmBahJ"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 283675,
-      "name": "A Promise",
-      "url": "https://open.spotify.com/track/36Y2PY9cCueWRSixpcqiRG"
     },
     {
       "added_at": "2025-07-11 13:52:42",

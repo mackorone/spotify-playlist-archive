@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: disiz
 
-3,403 songs - 7 day 11 hr 56 min
+3,405 songs - 7 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [ADN](https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [ADN](https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl) | 3:06 | 2024-03-08 | 2024-04-27 |
 | [ADN](https://open.spotify.com/track/5uXJ37ol7W82PLhOkP1ieu) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [ADN](https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe) | 2:55 | 2022-03-18 | 2022-04-02 |
 | [ADN \- Das Mörtal Remix](https://open.spotify.com/track/57MWGbE358QsRTTDjz3OxU) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq), [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [ADN \(Das Mörtal Remix\)](https://open.spotify.com/album/7FmtH5vSdPv3NbWTCiD0Bk) | 3:57 | 2022-03-18 | 2022-04-02 |
+| [Adriano](https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Adriano](https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi) | 2:22 | 2025-07-11 |  |
 | [Adélaïde](https://open.spotify.com/track/3BqfWNtzt4miHR7qPAZC7J) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [La peur est une fleur](https://open.spotify.com/album/55e9SLoKU8ENxvtO3CVmzt) | 3:04 | 2024-09-13 | 2024-09-21 |
 | [AFTER 3AM](https://open.spotify.com/track/5msuT4SeIpVy6vVHaWNkvv) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [AFTER 3AM](https://open.spotify.com/album/4XgNpfoQzxxHpQD9U9FN55) | 4:11 | 2021-12-31 | 2022-01-22 |
 | [After After Show](https://open.spotify.com/track/2nSIBWm1ZTw7LEePx01NJB) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Doug St\-Louis](https://open.spotify.com/artist/2VMTgonmhFkFL983IgSUaX) | [After After Show](https://open.spotify.com/album/0EGFFbf0N1v8GaVS16S88p) | 2:46 | 2022-03-04 | 2022-03-18 |
@@ -1480,6 +1481,7 @@
 | [Karma](https://open.spotify.com/track/57o2dAk85nAlhf6QvUttLh) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Karma](https://open.spotify.com/album/5oy3WDkdnPUWtUvcBEOtOX) | 2:55 | 2021-12-31 | 2022-01-22 |
 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 | 2023-11-18 |
 | [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 | 2023-06-09 | 2023-07-13 |
+| [KAT \(feat\. La Rvfleuze\)](https://open.spotify.com/track/4ccQmkote4B1zBjhk9sxFH) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [KAT \(feat\. La Rvfleuze\)](https://open.spotify.com/album/3gol36dUqCHz90vFEUnTe8) | 2:29 | 2025-07-11 |  |
 | [Kawasaki](https://open.spotify.com/track/0bhUpKSeZKGKbZocH21wHX) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Kawasaki](https://open.spotify.com/album/1bStyqkV25EHm5QHf8Jk2w) | 2:44 | 2022-03-18 | 2022-03-26 |
 | [Kawasaki](https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Kawasaki](https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc) | 3:54 | 2024-01-19 | 2024-03-23 |
 | [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 | 2023-12-15 | 2024-01-15 |
@@ -1597,7 +1599,7 @@
 | [La Masia](https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [La Masia](https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS) | 2:22 | 2023-03-24 | 2023-04-22 |
 | [La mauvaise question](https://open.spotify.com/track/6KYNFAa4z1GJYnAkDf9Gyw) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Si l'essentiel c'est d'être aimé / La mauvaise question](https://open.spotify.com/album/7vaSzxNrZe41hcNtz472qu) | 3:49 | 2025-01-17 | 2025-01-25 |
 | [La Maxance](https://open.spotify.com/track/6yP8ZNACztmI2UfAfw9sQO) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La Maxance](https://open.spotify.com/album/3EdRFF6vufkL9fjyoZWqFu) | 2:31 | 2022-05-20 | 2022-06-04 |
-| [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 | 2025-05-23 |  |
+| [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 | 2025-05-23 | 2025-07-13 |
 | [La Meilleure](https://open.spotify.com/track/5fEC4YAZALInwKuqwHytir) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [La Meilleure](https://open.spotify.com/album/3J0wjJ5gzCsWdCtWXm9xUK) | 2:45 | 2022-03-25 | 2022-04-09 |
 | [La mer rose](https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Fantaisie](https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG) | 2:27 | 2025-02-07 | 2025-02-22 |
 | [La missive](https://open.spotify.com/track/1gyz0BM3BISwLNfyviZGpz) | [Paradox](https://open.spotify.com/artist/6A3k4n3B2NbltmxGZ1SW4y), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [La missive](https://open.spotify.com/album/2E6aVszzBEf0ewHrcmgEAy) | 3:23 | 2023-03-24 | 2023-04-16 |
@@ -3195,7 +3197,7 @@
 | [Un soleil toujours](https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Un soleil toujours](https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh) | 3:13 | 2022-09-16 | 2022-10-01 |
 | [Un vœu](https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Un vœu](https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL) | 3:58 | 2024-10-25 | 2025-01-04 |
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2023-05-05 | 2023-06-13 |
-| [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 | 2025-07-11 |  |
+| [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 | 2025-07-11 | 2025-07-13 |
 | [Under Pressure](https://open.spotify.com/track/53GiARZyas9J5pbBiVz4F1) | [Randy Raymond](https://open.spotify.com/artist/4lWRGWFZssgySjWbfXwv5g) | [Under Pressure](https://open.spotify.com/album/4qMiA7LeVlwmlcYZSh27Wa) | 2:36 | 2024-09-27 | 2024-10-05 |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-05 | 2023-06-04 |
 | [Une bonne santé et grave des lards](https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Une bonne santé et grave des lards](https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f) | 2:57 | 2024-01-05 | 2024-03-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,379 songs - 19 day 4 hr 15 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,382 songs - 19 day 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7387,5 +7387,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7377 | [총 맞은 것처럼](https://open.spotify.com/track/1eKB7VHL8NmM64993UY1rE) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Timeless : The Best](https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2) | 3:59 |
 | 7378 | [Rough](https://open.spotify.com/track/75vepksethG7GrRn815ZYH) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [SNOWFLAKE](https://open.spotify.com/album/1kQatXJwulYhEIvotff9D1) | 3:29 |
 | 7379 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
+| 7380 | [2023 World Championship Theme](https://open.spotify.com/track/7s9QiG7yUXpr9qNPUlZH3r) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2023 World Championship Theme](https://open.spotify.com/album/41OWf02MFdHDPMP8439pWP) | 2:59 |
+| 7381 | [Space Groove \- 2021](https://open.spotify.com/track/5HEOSBUUfENp5YAU4JcsxD) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Space Groove \- 2021](https://open.spotify.com/album/3usZ7im5mkX0BSZW4iQO2j) | 4:07 |
+| 7382 | [2022 World Championship Theme](https://open.spotify.com/track/3gZyjgWdEibTsQFEmGiSSk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2022 World Championship Theme](https://open.spotify.com/album/4kJhEHkg1ggweXBa45GhPf) | 3:25 |
 
-Snapshot ID: `AAAHi7HtT9XQL/aPvi5cU/WAZr/g7SFd`
+Snapshot ID: `AAAHjs07VfTROPOy12M9X8cCzT/89w6d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,094 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,176 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 16 | [Pan y mantequilla](https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:22 |
 | 17 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 |
 | 18 | [Tu Calorro](https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:10 |
-| 19 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 |
-| 20 | [El aire de la calle](https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ) | [Los Delinqüentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 3:06 |
+| 19 | [El aire de la calle](https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ) | [Los Delinqüentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 3:06 |
+| 20 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 |
 | 21 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
 | 22 | [Cómo hablar](https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Una Pequeña Parte Del Mundo](https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT) | 4:01 |
 | 23 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 39 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
 | 40 | [Felicidad](https://open.spotify.com/track/1pX5XE5hajZQ4lB6HuMVKa) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Vestidos De Domingo \(+ Remixes\)](https://open.spotify.com/album/1zIyzZFhqB27mVPqnwJpTs) | 4:14 |
 | 41 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 |
-| 42 | [Carreteras Infinitas](https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [El Peor Grupo del Mundo](https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP) | 4:26 |
-| 43 | [El calor del amor en un bar](https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg) | [Gabinete Caligari](https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy) | [Al calor del amor en un bar](https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm) | 2:50 |
+| 42 | [El calor del amor en un bar](https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg) | [Gabinete Caligari](https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy) | [Al calor del amor en un bar](https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm) | 2:50 |
+| 43 | [Carreteras Infinitas](https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [El Peor Grupo del Mundo](https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP) | 4:26 |
 | 44 | [Puedes Contar Conmigo](https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:58 |
 | 45 | [Fuego](https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Fuego](https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny) | 3:14 |
 | 46 | [Amigos para Siempre](https://open.spotify.com/track/6PfQB3xEbIlky1dXOb3Yyh) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Dulce Veneno](https://open.spotify.com/album/103iVGOwBBlDcdrRmORWDH) | 4:24 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 54 | [Sevilla Tiene un Color Especial](https://open.spotify.com/track/1x8tjll0oP07qkZWVtm8ap) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 3:47 |
 | 55 | [Cómo Te Atreves](https://open.spotify.com/track/21Tzyc6OYFvtWjKrhZ0cTB) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios..\. Y Unas Cuantas Cosas Más \(Edición Especial\)](https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR) | 4:00 |
 | 56 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 |
-| 57 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
-| 58 | [All My Loving](https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Pasión Condal](https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy) | 3:13 |
+| 57 | [All My Loving](https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Pasión Condal](https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy) | 3:13 |
+| 58 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
 | 59 | [Sabor, Sabor](https://open.spotify.com/track/4zMJYmYSTZBNn1YdZVznSS) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [De Ley](https://open.spotify.com/album/3ZzjYCQIk6eQKdcIllvk05) | 4:23 |
 | 60 | [En la Casa de Inés](https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [El Efecto Guaraná](https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR) | 4:01 |
 | 61 | [Romeo y Julieta](https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Un metro cuadrado](https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK) | 4:13 |

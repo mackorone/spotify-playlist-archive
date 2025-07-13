@@ -1,6 +1,6 @@
 {
   "description": "The hip-hop party soundtrack of summer, past and present.",
-  "num_followers": 30727,
+  "num_followers": 31024,
   "original_name": "Dear Summer",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-05-22 17:25:19",
       "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "EARFQUAKE",
-      "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
-    },
-    {
-      "added_at": "2025-05-22 17:25:19",
-      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2025-05-22 17:25:19",
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "EARFQUAKE",
+      "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
     },
     {
       "added_at": "2025-05-22 17:25:19",
@@ -887,26 +887,18 @@
     {
       "added_at": "2025-05-22 17:25:19",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "Bunna Summa",
+        "url": "https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
         }
       ],
-      "duration_ms": 200186,
-      "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+      "duration_ms": 147492,
+      "name": "Bunna Summa",
+      "url": "https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV"
     },
     {
       "added_at": "2025-05-22 17:25:19",
@@ -931,18 +923,26 @@
     {
       "added_at": "2025-05-22 17:25:19",
       "album": {
-        "name": "Bunna Summa",
-        "url": "https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "BunnaB",
-          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 147492,
-      "name": "Bunna Summa",
-      "url": "https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV"
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     },
     {
       "added_at": "2025-05-22 17:25:19",

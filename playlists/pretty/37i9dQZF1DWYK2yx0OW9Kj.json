@@ -1,6 +1,6 @@
 {
   "description": "Ritmo latino!",
-  "num_followers": 416928,
+  "num_followers": 417144,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,30 @@
     {
       "added_at": "2025-04-23 21:30:21",
       "album": {
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2025-04-23 21:30:21",
+      "album": {
         "name": "Parte & Choke",
         "url": "https://open.spotify.com/album/2rzk1ZW9Lpj3SilWEL31pg"
       },
@@ -535,30 +559,6 @@
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
-    },
-    {
-      "added_at": "2025-04-23 21:30:21",
-      "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "added_at": "2025-04-23 21:30:21",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-04-23 21:30:21",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Despeinada",
-      "url": "https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC"
-    },
-    {
-      "added_at": "2025-04-23 21:30:21",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 205906,
       "name": "El Perd\u00f3n (with Enrique Iglesias)",
       "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+    },
+    {
+      "added_at": "2025-04-23 21:30:21",
+      "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Despeinada",
+      "url": "https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC"
     },
     {
       "added_at": "2025-04-23 21:30:21",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-04-23 21:30:21",
       "album": {
-        "name": "Vente Pa' Ca (feat. Maluma)",
-        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 259195,
-      "name": "Vente Pa' Ca (feat. Maluma)",
-      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
-    },
-    {
-      "added_at": "2025-04-23 21:30:21",
-      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 231594,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
+    },
+    {
+      "added_at": "2025-04-23 21:30:21",
+      "album": {
+        "name": "Vente Pa' Ca (feat. Maluma)",
+        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 259195,
+      "name": "Vente Pa' Ca (feat. Maluma)",
+      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
     },
     {
       "added_at": "2025-04-23 21:30:21",
@@ -1487,22 +1487,22 @@
     {
       "added_at": "2025-04-23 21:30:21",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     }
   ],
   "unique_name": "Workout Latino",

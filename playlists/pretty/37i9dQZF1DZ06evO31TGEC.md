@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,207 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,217 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 17 | [Nadie Es De Nadie](https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:00 |
 | 18 | [Maldito Licor](https://open.spotify.com/track/5UZxsxodMAfhXQk2nE0oEy) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:56 |
 | 19 | [Amarla Es Un Placer](https://open.spotify.com/track/1ScJFneDCKEgFFcq4rsMt1) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:46 |
-| 20 | [Tengo Celos](https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 2:51 |
-| 21 | [Que Se Mueran de Envidia](https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Que Se Mueran de Envidia](https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ) | 3:34 |
+| 20 | [Que Se Mueran de Envidia](https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Que Se Mueran de Envidia](https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ) | 3:34 |
+| 21 | [Tengo Celos](https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 2:51 |
 | 22 | [Sí Te Llamé](https://open.spotify.com/track/0jSpFvnSfDN76zDtxXg4mW) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:38 |
 | 23 | [Ladrona](https://open.spotify.com/track/5owfn8hOqJpbMkQxTJTYWw) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:54 |
 | 24 | [El Paletero](https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Rancheras Consentidas](https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 49 | [Chiquilla Te Quiero](https://open.spotify.com/track/1qYiXj8TdD8AGdzUCCUXW4) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:46 |
 | 50 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 
-Snapshot ID: `aG8CgAAAAABONyfljRc0eYO6ZX29Cio1`
+Snapshot ID: `aHBUAAAAAABqePiQR+tAODj22JUqskty`

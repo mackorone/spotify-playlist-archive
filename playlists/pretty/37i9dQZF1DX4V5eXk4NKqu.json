@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Buscabulla.",
-  "num_followers": 168101,
+  "num_followers": 168106,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
-        "name": "Life Is A Movie",
-        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Life Is A Movie",
-      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
-    },
-    {
-      "added_at": "2025-05-30 04:00:30",
-      "album": {
         "name": "Te Lo Voy a Decir",
         "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 246613,
       "name": "Te Lo Voy a Decir",
       "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+    },
+    {
+      "added_at": "2025-05-30 04:00:30",
+      "album": {
+        "name": "Life Is A Movie",
+        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Life Is A Movie",
+      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
     },
     {
       "added_at": "2025-05-30 04:00:30",

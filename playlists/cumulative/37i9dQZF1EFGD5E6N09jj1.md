@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-237 songs - 12 hr 52 min
+238 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,8 +230,9 @@
 | [Warm \(feat\. HAIM\)](https://open.spotify.com/track/2xHEAdEalJ5YcP0ur8kF6L) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:45 | 2023-12-30 |  |
 | [We Lost The Summer](https://open.spotify.com/track/2QgHbElxpwEuYp2DoZEAr3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:30 | 2023-12-30 |  |
 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(George Daniel & Charli XCX Remix\)](https://open.spotify.com/album/59dB0tQKHfwA837bRXuId4) | 3:22 | 2024-12-20 |  |
-| [What I Like](https://open.spotify.com/track/0kyXRwhIBZtZrgIMqkETyA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance \(Deluxe\)](https://open.spotify.com/album/63az8CIMtCPKUSJxoaIiMk) | 3:01 | 2025-04-18 |  |
+| [What I Like](https://open.spotify.com/track/0kyXRwhIBZtZrgIMqkETyA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance \(Deluxe\)](https://open.spotify.com/album/63az8CIMtCPKUSJxoaIiMk) | 3:01 | 2025-04-18 | 2025-07-13 |
 | [What I Like](https://open.spotify.com/track/5ot3q8KR1vzq471WAtCNSU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:01 | 2023-12-30 | 2025-04-19 |
+| [What I Like](https://open.spotify.com/track/6kZkq1Ck3RdrILwG3spzRD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:01 | 2025-07-12 |  |
 | [What I Like](https://open.spotify.com/track/4YHSCPGN9Xxd6nAGq2hwFJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [What I Like](https://open.spotify.com/album/6ZYKvZknGGG3JOHMQxkcCr) | 3:03 | 2023-12-31 | 2024-02-01 |
 | [What You Think About Me](https://open.spotify.com/track/1Qokr1fQFm6DRtzeNPfKIM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 3:04 | 2023-12-30 |  |
 | [When I Find Love Again \- Apollo Edition Version](https://open.spotify.com/track/5aHgzqUqrqlaS8mzAUfo8K) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing \(Special Apollo Edition\)](https://open.spotify.com/album/1um82m9PCAD6SDLqkkDsYS) | 3:04 | 2023-12-30 |  |

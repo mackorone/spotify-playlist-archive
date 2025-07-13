@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: фрози
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 96,515 likes - 100 songs - 5 hr 26 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 96,495 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 26 | [Reborn](https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 5:42 |
 | 27 | [Left Outside Alone \- Bimini Diva Boots Remix](https://open.spotify.com/track/1UZF6pqNPvUsYv9qNuDl1h) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH), [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Left Outside Alone \(Bimini Diva Boots Remix\)](https://open.spotify.com/album/3WgfsvYwpDi6QuNCp6RdCG) | 3:28 |
 | 28 | [ATLAS](https://open.spotify.com/track/0HZJAnvsWRxrt49Gf39cZP) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [ATLAS](https://open.spotify.com/album/1mPU9bYfbSDFkaMxrx5Q5z) | 6:55 |
-| 29 | [Mueva](https://open.spotify.com/track/1IS7T8BYibhyAGxX8Jcgbr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Yigit Karakas](https://open.spotify.com/artist/6N0xjHnAu5SZDajHS6JvSU) | [Mueva](https://open.spotify.com/album/20mDTMjaBrViWry8DE4g0E) | 2:56 |
+| 29 | [Mueva](https://open.spotify.com/track/1IS7T8BYibhyAGxX8Jcgbr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Yiğit Karakaş](https://open.spotify.com/artist/1UAs4FqSeogbj5Z9JWfVlT) | [Mueva](https://open.spotify.com/album/20mDTMjaBrViWry8DE4g0E) | 2:56 |
 | 30 | [carascene](https://open.spotify.com/track/6aJFXsTwnGrqyxBMWq1bfv) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [carascene](https://open.spotify.com/album/4zMwEDUGuwfaYFpqVUPg9u) | 1:38 |
 | 31 | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kofla](https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk) | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx) | 3:13 |
 | 32 | [Light Me Up \(feat\. Rêve\)](https://open.spotify.com/track/3muJ26OZrcdxYvpzLXqcgv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Light Me Up \(feat\. Rêve\)](https://open.spotify.com/album/0JGmHfIjJ7OZWrPUtmZYyN) | 2:50 |

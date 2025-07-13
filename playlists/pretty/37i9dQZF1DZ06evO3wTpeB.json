@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4642,
+  "num_followers": 4643,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAButAMvsMJ38ZN/OOGoZI0L",
+  "snapshot_id": "aHBUAAAAAADGCZudHtyPnkjmv/IYNH7R",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        }
+      ],
+      "duration_ms": 343357,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/1I4eQkEfAhZRkcb9X7vlmI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Ansiedad y Yo",
         "url": "https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 194341,
       "name": "La Ansiedad y Yo",
       "url": "https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 343357,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/1I4eQkEfAhZRkcb9X7vlmI"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 201804,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mestizo",
         "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
       },
@@ -382,15 +382,11 @@
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
-      "duration_ms": 177015,
-      "name": "Yo Necesito",
-      "url": "https://open.spotify.com/track/3oAm74OwtiCcIdCxUDnL91"
+      "duration_ms": 201064,
+      "name": "A Veces Quiero",
+      "url": "https://open.spotify.com/track/3IDyqKsdCXBmQRuIF3UDyW"
     },
     {
       "added_at": null,
@@ -506,27 +502,15 @@
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 201064,
-      "name": "A Veces Quiero",
-      "url": "https://open.spotify.com/track/3IDyqKsdCXBmQRuIF3UDyW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
-      },
-      "artists": [
+        },
         {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Buen Viaje",
-      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
+      "duration_ms": 177015,
+      "name": "Yo Necesito",
+      "url": "https://open.spotify.com/track/3oAm74OwtiCcIdCxUDnL91"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 186106,
       "name": "For\u00e1neos",
       "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 170501,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 64000,
+      "name": "Manjit 2",
+      "url": "https://open.spotify.com/track/3uGjLmxCseITNPCd4pxnGy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oww Nena",
         "url": "https://open.spotify.com/album/0G0EqnM1wIHAKCoEG7i9Lq"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 64000,
-      "name": "Manjit 2",
-      "url": "https://open.spotify.com/track/3uGjLmxCseITNPCd4pxnGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Oportunidad",
         "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
       },
@@ -739,18 +739,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
         }
       ],
-      "duration_ms": 148607,
-      "name": "Mestizo",
-      "url": "https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY"
+      "duration_ms": 143829,
+      "name": "Oww Nena Remix",
+      "url": "https://open.spotify.com/track/6edq7o2dl2xdWk6SyhZk7d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Mi Castigo",
+      "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
     },
     {
       "added_at": null,
@@ -791,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 197215,
+      "name": "Si Pudiera Regresar",
+      "url": "https://open.spotify.com/track/0VoCvWTX6MtCO4SSXdttwP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palabras del Alma",
         "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
@@ -807,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "Mestizo",
+      "url": "https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Universos Mixtape",
         "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
       },
@@ -816,29 +876,17 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Mi Castigo",
-      "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
-      },
-      "artists": [
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
         {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
         }
       ],
-      "duration_ms": 197215,
-      "name": "Si Pudiera Regresar",
-      "url": "https://open.spotify.com/track/0VoCvWTX6MtCO4SSXdttwP"
+      "duration_ms": 240529,
+      "name": "Siempre Recuerdos",
+      "url": "https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc"
     },
     {
       "added_at": null,
@@ -883,30 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 240529,
-      "name": "Siempre Recuerdos",
-      "url": "https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
       },
@@ -914,19 +938,11 @@
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
         }
       ],
-      "duration_ms": 143829,
-      "name": "Oww Nena Remix",
-      "url": "https://open.spotify.com/track/6edq7o2dl2xdWk6SyhZk7d"
+      "duration_ms": 103445,
+      "name": "El Mundo (Poes\u00eda)",
+      "url": "https://open.spotify.com/track/0P4v23LKCg4czkXjSMxhxi"
     },
     {
       "added_at": null,
@@ -955,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Hood",
         "url": "https://open.spotify.com/album/28aKhF6U8oavtisSPOqwsw"
       },
@@ -995,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 103445,
-      "name": "El Mundo (Poes\u00eda)",
-      "url": "https://open.spotify.com/track/0P4v23LKCg4czkXjSMxhxi"
+      "duration_ms": 96000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
     },
     {
       "added_at": null,
@@ -1047,26 +1047,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estado Popular Del Alma \u2022 Epa",
-        "url": "https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1"
+        "name": "Cypher Lado B",
+        "url": "https://open.spotify.com/album/6EWQflQucPkygMGtzzeVce"
       },
       "artists": [
-        {
-          "name": "Nicolai Fella",
-          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
-        },
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "RI",
-          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
+        },
+        {
+          "name": "Tinta Tintero",
+          "url": "https://open.spotify.com/artist/5GQbGNj7yGiXBQd3yWgnp8"
+        },
+        {
+          "name": "Callej\u00f3n Verset",
+          "url": "https://open.spotify.com/artist/0EfNjSibF1iU2E40L4HJz7"
+        },
+        {
+          "name": "Da Steez Brothaz",
+          "url": "https://open.spotify.com/artist/3UKns1wU0fyJNX4DIHWK1M"
+        },
+        {
+          "name": "Keenwan",
+          "url": "https://open.spotify.com/artist/4PFLDBt40fJC0OvKfYqaa5"
+        },
+        {
+          "name": "Diana Avella",
+          "url": "https://open.spotify.com/artist/63kndWSdNb6eLYN4OdaJRb"
+        },
+        {
+          "name": "Andy Joint Black Sun",
+          "url": "https://open.spotify.com/artist/4tEf7BuaEcpVVhai1fQw24"
+        },
+        {
+          "name": "DJ GrandSaid",
+          "url": "https://open.spotify.com/artist/3ffV8zZJY2uKYissbKAoKO"
+        },
+        {
+          "name": "El Kalvo",
+          "url": "https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v"
+        },
+        {
+          "name": "La Realeza Music",
+          "url": "https://open.spotify.com/artist/2UcSi57XQ9SciqkInC8zbT"
+        },
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
         }
       ],
-      "duration_ms": 214600,
-      "name": "Invente",
-      "url": "https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO"
+      "duration_ms": 305015,
+      "name": "Cypher Lado B",
+      "url": "https://open.spotify.com/track/7cuwYmPLL3nHTYaLEKqfOD"
     }
   ],
   "unique_name": "This Is Ali Aka Mind",

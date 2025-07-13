@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-258 songs - 15 hr 38 min
+259 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 | 2023-06-02 | 2024-04-19 |
 | [Argumento \- Spotify Singles](https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \- Spotify Singles](https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w) | 3:23 | 2022-11-09 | 2023-06-24 |
 | [Aventura](https://open.spotify.com/track/5j0Djj1O4jWIQ4kWYs1mDa) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Aventura](https://open.spotify.com/album/6l5rSSzTUsCkKjtFzSu3Wr) | 2:53 | 2022-03-22 | 2022-05-10 |
+| [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-11 |  |
 | [Azul](https://open.spotify.com/track/3eB6Imewes3kokhBvnbKjf) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:30 | 2022-03-22 | 2022-04-21 |
 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 | 2022-02-04 |  |
 | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5) | 4:29 | 2022-11-16 | 2023-03-05 |
@@ -100,7 +101,7 @@
 | [Em Outro Lugar](https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa) | 3:37 | 2023-07-07 | 2024-04-19 |
 | [Em Outro Lugar](https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6CvaSNTuutq8XmhNR74Wzg) | 3:37 | 2022-02-04 | 2022-07-27 |
 | [Enquanto Durmo](https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:04 | 2022-11-25 |  |
-| [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 | 2022-02-04 |  |
+| [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 | 2022-02-04 | 2025-07-13 |
 | [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 | 2022-02-04 | 2025-06-03 |
 | [Espero Que Você Entenda](https://open.spotify.com/track/7uMfZtOT5JEYdv8gi6M9wk) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Espero Que Você Entenda](https://open.spotify.com/album/2lCmjlHLQIcRSfECaTkew8) | 4:01 | 2022-02-04 |  |
 | [Esquece dos Problemas](https://open.spotify.com/track/1lZAad3fXzOEMvwskQGJT1) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Esquece dos Problemas](https://open.spotify.com/album/3xh8wMnggMLgpcRXsuO6dL) | 3:19 | 2022-03-22 | 2022-04-20 |

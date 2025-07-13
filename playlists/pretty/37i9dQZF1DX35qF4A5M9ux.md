@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,261 likes - 125 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,346 likes - 125 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 48 | [Así Fue](https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:27 |
 | 49 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 50 | [Por Retenerte](https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:47 |
-| 51 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
+| 51 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
 | 52 | [Trampolín](https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestro Aniversario](https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2) | 4:21 |
-| 53 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
+| 53 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
 | 54 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |
 | 55 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
 | 56 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 80 | [Quiero Saber](https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:29 |
 | 81 | [En Trance](https://open.spotify.com/track/6TIvLWPw7OTD2lslRmoWEo) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 3:58 |
 | 82 | [Dime Qué Paso](https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:32 |
-| 83 | [Se Me Nota](https://open.spotify.com/track/2ydhtOdJdUjzPZRfNTZKnb) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 4:39 |
-| 84 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
+| 83 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
+| 84 | [Se Me Nota](https://open.spotify.com/track/2ydhtOdJdUjzPZRfNTZKnb) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 4:39 |
 | 85 | [Seda](https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:11 |
 | 86 | [Mujer](https://open.spotify.com/track/7N2EXSUvmjcJGkuhMHZjrb) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:20 |
 | 87 | [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 115 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
 | 116 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
 | 117 | [Corazon de Acero](https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Corazon de Acero](https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo) | 3:45 |
-| 118 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
-| 119 | [Te Amo, Te Extraño](https://open.spotify.com/track/0GHCgZdI5W324Byq24qJdF) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:36 |
+| 118 | [Te Amo, Te Extraño](https://open.spotify.com/track/0GHCgZdI5W324Byq24qJdF) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:36 |
+| 119 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
 | 120 | [Lloraras](https://open.spotify.com/track/23Fw0qh3Onqn2276LiL2pT) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [15 Exitos De\- Oscar D Leon](https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i) | 3:41 |
 | 121 | [Lo Quiero a Morir](https://open.spotify.com/track/7bdTyG1zKCHayAFiLDSJHp) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Lo Quiero a Morir](https://open.spotify.com/album/3gUjzuhToilAd6EpC0yQju) | 4:20 |
 | 122 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 |

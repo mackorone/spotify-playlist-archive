@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,199 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,222 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 22 | [Psycho Killer \- Acoustic](https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:18 |
 | 23 | [Swamp \- 2005 Remaster](https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:13 |
 | 24 | [Heaven \- Live](https://open.spotify.com/track/0Q2b6AxWV5tD117XktdQxl) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:41 |
-| 25 | [Cities \- 2005 Remaster](https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:14 |
-| 26 | [Houses in Motion \- 2005 Remaster](https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:33 |
+| 25 | [Houses in Motion \- 2005 Remaster](https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:33 |
+| 26 | [Cities \- 2005 Remaster](https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:14 |
 | 27 | [Making Flippy Floppy \- 2005 Remaster](https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:54 |
 | 28 | [Thank You for Sending Me an Angel \- Live](https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 2:09 |
 | 29 | [Love → Building on Fire \- 2005 Remaster](https://open.spotify.com/track/6hfsIlwOxJ0cX8v2SNntBQ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 2:57 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 34 | [Listening Wind \- 2005 Remaster](https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:42 |
 | 35 | [The Big Country \- 2005 Remaster](https://open.spotify.com/track/6jvNnYLscndCf0fPJB1pms) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 5:33 |
 | 36 | [Found a Job \- Live](https://open.spotify.com/track/7rWq4710VbhYigwobjNwni) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:15 |
-| 37 | [Perfect World \- 2005 Remaster](https://open.spotify.com/track/6S2pKjLlCpH5Fv5TQX2IBa) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures \(Deluxe Version\)](https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw) | 4:27 |
+| 37 | [Perfect World \- 2005 Remaster](https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:27 |
 | 38 | [Mind \- 2005 Remaster](https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:12 |
 | 39 | [Paper](https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 2:39 |
 | 40 | [Genius of Love \(Tom Tom Club\) \- Live](https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 49 | [The Girl Wants to Be with the Girls \- 2005 Remaster](https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 2:38 |
 | 50 | [With Our Love](https://open.spotify.com/track/2FiIUkT9U0JqPxnVp8ufVT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:31 |
 
-Snapshot ID: `aG8CgAAAAAA4yMkNU3YmGzEn8G428iZS`
+Snapshot ID: `aHBUAAAAAACYlNOwci1NLn2dN6FEFK1O`

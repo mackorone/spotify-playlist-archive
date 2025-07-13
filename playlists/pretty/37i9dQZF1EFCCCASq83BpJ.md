@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,822 likes - 122 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,823 likes - 122 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 95 | [Only 1](https://open.spotify.com/track/6LQzYkmd8ADbKOOEVDnlG4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:13 |
 | 96 | [I Don't Care](https://open.spotify.com/track/1QGiDkpRQGqvBdDOnbDimF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 2:58 |
 | 97 | [worst behavior](https://open.spotify.com/track/6KIKaWKE9wV6mLjho3w61y) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:04 |
-| 98 | [Hands On Me](https://open.spotify.com/track/1rNop31kdDmSj3Ds6xhIeS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:12 |
-| 99 | [intro \(end of the world\) \- extended](https://open.spotify.com/track/33cRPtUHTjMG90FZV76S8T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(instrumental version\)](https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig) | 2:41 |
+| 98 | [intro \(end of the world\) \- extended](https://open.spotify.com/track/33cRPtUHTjMG90FZV76S8T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(instrumental version\)](https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig) | 2:41 |
+| 99 | [Hands On Me](https://open.spotify.com/track/1rNop31kdDmSj3Ds6xhIeS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:12 |
 | 100 | [warm](https://open.spotify.com/track/3bdSZEgKApb7vGxDxyrpdO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 3:21 |
 | 101 | [Hampstead](https://open.spotify.com/track/0T3gCq5ZQvGq9jqZmaAff1) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(instrumental version\)](https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig) | 3:36 |
 | 102 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 121 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 |
 | 122 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `Ab2hVAAAAAAHlmcj1qw2lIlvnXxAhHVv`
+Snapshot ID: `Ab2nJgAAAACLeDOkxaVfKzx/3BwP4JDN`

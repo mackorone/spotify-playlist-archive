@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,897 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,894 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 12 | [Flamazo Navideño:](https://open.spotify.com/track/2q4Qi61qRZSMrgxm1UShXO) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Flamazo Navideno](https://open.spotify.com/album/3WJ8Xb2JXfhoJSa9QAm2Fo) | 15:39 |
 | 13 | [Blanca Navidad](https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:32 |
 | 14 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 |
-| 15 | [Regalo de Reyes](https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Regalo de Reyes](https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo) | 2:49 |
-| 16 | [Jingle Bells](https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:00 |
+| 15 | [Jingle Bells](https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:00 |
+| 16 | [Regalo de Reyes](https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Regalo de Reyes](https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo) | 2:49 |
 | 17 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |
 | 18 | [Llegó La Navidad](https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:05 |
 | 19 | [El Tamborilero](https://open.spotify.com/track/3Vrn9BAwRqcMh1jgNzgSNf) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/6Ff42qXok850iV7nee00V1) | 2:56 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 28 | [Rodolfo el Reno](https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Navidad](https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO) | 2:56 |
 | 29 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
 | 30 | [Esta Navidad Mi Deseo Eres Tú \- Sinfónico](https://open.spotify.com/track/6pY7Gm2HvHDzNedY4YtF8b) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres Sinfónico](https://open.spotify.com/album/49vYU4qT2wQXGJdhY8Bx97) | 2:51 |
-| 31 | [Dónde Está La Nieve En Navidad](https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 2:25 |
-| 32 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 |
+| 31 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 |
+| 32 | [Dónde Está La Nieve En Navidad](https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 2:25 |
 | 33 | [All I Want For Christmas Is You](https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [All I Want For Christmas Is You](https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE) | 3:37 |
 | 34 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 |
 | 35 | [Cantares de Navidad](https://open.spotify.com/track/6aqXCQOtMuKbpdE5OdIsK9) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Asi Soy...](https://open.spotify.com/album/0kzj1twqOvvdZHc9VElEpR) | 5:04 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 37 | [Arbolito de Navidad](https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 3:54 |
 | 38 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 |
 | 39 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
-| 40 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
-| 41 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
+| 40 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
+| 41 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
 | 42 | [Campana Sobre Campana](https://open.spotify.com/track/0LjIptp63zmCOz6O1V7QQB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Los 3 Reyes Magos](https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq) | 2:38 |
 | 43 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 44 | [Navidad en América](https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX) | [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Navidad en America](https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH) | 7:58 |

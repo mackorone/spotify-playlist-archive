@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,223 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,224 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

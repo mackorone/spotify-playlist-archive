@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 177986,
+  "num_followers": 177935,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Ruminations",
-        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
-      },
-      "artists": [
-        {
-          "name": "Conor Oberst",
-          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Barbary Coast (Later)",
-      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Before I Go",
         "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 295533,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Ruminations",
+        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
+      },
+      "artists": [
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Barbary Coast (Later)",
+      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Over That Road I'm Bound",
-        "url": "https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb"
-      },
-      "artists": [
-        {
-          "name": "Joachim Cooder",
-          "url": "https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Over That Road I'm Bound To Go",
-      "url": "https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Hills of Mexico",
         "url": "https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "In the Kingdom of Dreams",
-        "url": "https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7"
+        "name": "Over That Road I'm Bound",
+        "url": "https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb"
       },
       "artists": [
         {
-          "name": "Ian Felice",
-          "url": "https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv"
+          "name": "Joachim Cooder",
+          "url": "https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF"
         }
       ],
-      "duration_ms": 236394,
-      "name": "In the Kingdom of Dreams",
-      "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
+      "duration_ms": 224066,
+      "name": "Over That Road I'm Bound To Go",
+      "url": "https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Spinning Plates",
-        "url": "https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0"
+        "name": "In the Kingdom of Dreams",
+        "url": "https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7"
       },
       "artists": [
         {
-          "name": "Misty Boyce",
-          "url": "https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN"
+          "name": "Ian Felice",
+          "url": "https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv"
         }
       ],
-      "duration_ms": 166324,
-      "name": "Spinning Plates",
-      "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
+      "duration_ms": 236394,
+      "name": "In the Kingdom of Dreams",
+      "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 234253,
       "name": "Love Will Win the War",
       "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Spinning Plates",
+        "url": "https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0"
+      },
+      "artists": [
+        {
+          "name": "Misty Boyce",
+          "url": "https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN"
+        }
+      ],
+      "duration_ms": 166324,
+      "name": "Spinning Plates",
+      "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "From Where I Started",
+        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
+      },
+      "artists": [
+        {
+          "name": "Sera Cahoone",
+          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Time to Give",
+      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Walk Into a Storm",
         "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
       },
@@ -1603,50 +1619,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "From Where I Started",
-        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
+        "name": "Music from The American Epic Sessions (Deluxe)",
+        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
       },
       "artists": [
         {
-          "name": "Sera Cahoone",
-          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+          "name": "Jerron Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Time to Give",
-      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Perfect Plan",
-        "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
-      },
-      "artists": [
-        {
-          "name": "The Lowest Pair",
-          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
-        }
-      ],
-      "duration_ms": 289161,
-      "name": "Too Late Babe",
-      "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "In Another Life",
-        "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
-      },
-      "artists": [
-        {
-          "name": "Beth Whitney",
-          "url": "https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "In Another Life",
-      "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
+      "duration_ms": 172973,
+      "name": "Candy Man",
+      "url": "https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 234826,
       "name": "Avalon (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
+      },
+      "artists": [
+        {
+          "name": "Beth Whitney",
+          "url": "https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
     }
   ],
   "unique_name": "Contemporary Folk",

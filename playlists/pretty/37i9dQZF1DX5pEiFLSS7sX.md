@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,629 likes - 75 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,692 likes - 75 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 44 | [Nobody Like You \(Live\)](https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 7:22 |
 | 45 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 46 | [Be With Me](https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 3:46 |
-| 47 | [Worthy \(Live\)](https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II](https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ) | 8:29 |
-| 48 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
+| 47 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
+| 48 | [Worthy \(Live\)](https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II](https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ) | 8:29 |
 | 49 | [How Great Thou Art \- Live](https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Singalong \(Live\)](https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9) | 2:03 |
-| 50 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
+| 50 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 51 | [Stand in Awe](https://open.spotify.com/track/7DICHSYQHM0J4uLoevN0hB) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s), [Tom Young](https://open.spotify.com/artist/2Y4ohL1lkOM3IABqtkZpvq) | [Stand in Awe](https://open.spotify.com/album/5D6qslrsW2qUZcdAZztpXP) | 5:10 |
 | 52 | [Come Through \- Live](https://open.spotify.com/track/5cRUeftNovncesYE6P5d9N) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 10:10 |
 | 53 | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/track/11jWJHIPj97VsZlCk72KDF) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Joel Gerdis](https://open.spotify.com/artist/0MxGkBtPVUt3OcFXkj3j3B) | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/album/4WTT13R6XQ9LmrvKvoRUWY) | 5:36 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 68 | [Heaven's Well \- Live](https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Heaven's Well](https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv) | 4:13 |
 | 69 | [Take Courage \(Radio Version\)](https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:01 |
 | 70 | [Wait Upon the Lord \(Spontaneous\) \- Live](https://open.spotify.com/track/54ssR8bIVLOi4S1KH9lcS6) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 7:02 |
-| 71 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
-| 72 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
-| 73 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
+| 71 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
+| 72 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
+| 73 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
 | 74 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
 | 75 | [Surrounded \(Fight My Battles\) \[Live\]](https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Moments](https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC) | 5:49 |
 

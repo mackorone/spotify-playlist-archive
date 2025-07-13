@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4?si=TmKqmj82Q8\-Y0haMjzfZjw">Fade Evare</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,246 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,273 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

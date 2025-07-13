@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,295 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,369 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 61 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
 | 62 | [Angel Eyes](https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:39 |
 | 63 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:26 |
-| 64 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Some Nice Things I've Missed](https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV) | 4:01 |
-| 65 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
+| 64 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
+| 65 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Some Nice Things I've Missed](https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV) | 4:01 |
 | 66 | [One for My Baby](https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [Meet Me Around Midnight](https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO) | 3:49 |
 | 67 | [We'll Be Together Again](https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 3:40 |
 | 68 | [Night And Day](https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 |
 | 69 | [I've Got You Under My Skin](https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sings The Music Of Cole Porter](https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak) | 3:52 |
-| 70 | [That's All](https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:31 |
-| 71 | [But Beautiful](https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [More Of The Great](https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0) | 4:15 |
+| 70 | [But Beautiful](https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [More Of The Great](https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0) | 4:15 |
+| 71 | [That's All](https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:31 |
 | 72 | [I'm Glad There Is You](https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:30 |
 | 73 | [Taking A Chance On Love](https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 2:24 |
 | 74 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |

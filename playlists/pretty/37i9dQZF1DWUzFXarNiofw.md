@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: FLO & KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,254 likes - 275 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,324 likes - 275 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 28 | [MAGIC](https://open.spotify.com/track/3XvLg5slzPY1EwJDmTliuB) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [MAGIC](https://open.spotify.com/album/5dhHgdAMdCJGNB12rZCQ3b) | 3:17 |
 | 29 | [Lovely Day](https://open.spotify.com/track/0H29EISjFfGF44DIZ0lPXk) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Lovely Day](https://open.spotify.com/album/6ZZoA5zWCLRxPyZeODvfyb) | 3:25 |
 | 30 | [JUST A GIRL](https://open.spotify.com/track/1oMKHI1TtzP0aozf1nD6xi) | [Edája](https://open.spotify.com/artist/6TTI4TbSp1raahsulxWqYe) | [JUST A GIRL](https://open.spotify.com/album/6xnr8breTaS8mmF7OAy9KB) | 2:50 |
-| 31 | [OMNIPRESENCE](https://open.spotify.com/track/5pM1fCUwptOIUcQ5gUzLYG) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [OMNIPRESENCE](https://open.spotify.com/album/6RpySf15bWinLdSoVGSu3u) | 3:01 |
+| 31 | [OMNIPRESENCE](https://open.spotify.com/track/5pM1fCUwptOIUcQ5gUzLYG) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [AMYRA](https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC) | [OMNIPRESENCE](https://open.spotify.com/album/6RpySf15bWinLdSoVGSu3u) | 3:01 |
 | 32 | [tony soprano.](https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [tony soprano.](https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB) | 3:02 |
 | 33 | [Love You Now](https://open.spotify.com/track/1oXb4YCP9CZJKZ9mWpKZGB) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Love You Now](https://open.spotify.com/album/6ZHkpCmMXzg0P9Tw9W986U) | 3:19 |
 | 34 | [Aura](https://open.spotify.com/track/2fI44pCoxOk6PsNPnxj9tQ) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Aura](https://open.spotify.com/album/6tnurOtl8IgDaKcQFa6UTk) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,137 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,273 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 63 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
 | 64 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
 | 65 | [Invéntame](https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:25 |
-| 66 | [Antes de Que Te Vayas](https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Antes de Que Te Vayas](https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0) | 3:25 |
-| 67 | [Más Que Tu Amigo](https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:30 |
+| 66 | [Más Que Tu Amigo](https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:30 |
+| 67 | [Antes de Que Te Vayas](https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Antes de Que Te Vayas](https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0) | 3:25 |
 | 68 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:48 |
 | 69 | [El Celoso](https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA) | [Los Sembradores](https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm) | [La Mina Verde](https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG) | 3:24 |
 | 70 | [Mi Eterno Amor Secreto \(En Vivo\)](https://open.spotify.com/track/6u6d57Let06W838gmh7XKB) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Mi Eterno Amor Secreto \(En Vivo\)](https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi) | 3:53 |

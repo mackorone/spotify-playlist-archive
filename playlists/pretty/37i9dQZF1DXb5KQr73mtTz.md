@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,420 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,429 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 9 | [All Alone](https://open.spotify.com/track/6mAOmvG8Yd9EG8eImGiUZq) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6coRsiCmV1xstlSAnk0qVM) | 4:24 |
 | 10 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
 | 11 | [Hard to Say](https://open.spotify.com/track/3d66TxP7B3pPzEC9vSWKuX) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Hard to Say](https://open.spotify.com/album/6OaIRvMkFS4fJxmHEWVXn2) | 3:14 |
-| 12 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
-| 13 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 |
+| 12 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 |
+| 13 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
 | 14 | [Even if you leave,](https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx) | 4:32 |
 | 15 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
 | 16 | [Can't Go](https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp) | 3:31 |
-| 17 | [Shape](https://open.spotify.com/track/4bA9FWOYtBp3eA42auvK72) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Shape](https://open.spotify.com/album/1rXCbK2LqR1QFQ1LIaOugu) | 4:54 |
-| 18 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
+| 17 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
+| 18 | [Shape](https://open.spotify.com/track/4bA9FWOYtBp3eA42auvK72) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Shape](https://open.spotify.com/album/1rXCbK2LqR1QFQ1LIaOugu) | 4:54 |
 | 19 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 3:55 |
 | 20 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
 | 21 | [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 34 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
 | 35 | [RAINY DAYS](https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hierarchy \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ) | 3:34 |
 | 36 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
-| 37 | [No Longer Human \(feat\. Sonny Zero\)](https://open.spotify.com/track/5Gez0iCghDCzBApeyicHaN) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [No Longer Human](https://open.spotify.com/album/3a0LsOTERa9WRzHUD8KVhv) | 3:20 |
-| 38 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
+| 37 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
+| 38 | [No Longer Human \(feat\. Sonny Zero\)](https://open.spotify.com/track/5Gez0iCghDCzBApeyicHaN) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [No Longer Human](https://open.spotify.com/album/3a0LsOTERa9WRzHUD8KVhv) | 3:20 |
 | 39 | [사랑했지만](https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [7th X 독수리 5형제를 부탁해!](https://open.spotify.com/album/1aURZoBC382M0jpiQQ34KH) | 4:45 |
 | 40 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 41 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |

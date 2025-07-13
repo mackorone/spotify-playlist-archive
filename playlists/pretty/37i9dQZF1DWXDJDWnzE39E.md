@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,975 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,048 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 86 | [Scatterbrain](https://open.spotify.com/track/10d58mW3UzVjqU1CR6opaF) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Scatterbrain](https://open.spotify.com/album/3sfCEzZLGJqHyHSUbzyagV) | 2:48 |
 | 87 | [Oblivion](https://open.spotify.com/track/5dzYU61TsySgEzeMId5Ona) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Martyr](https://open.spotify.com/album/7E3VtHkaCp5Yqqg29Tcb5K) | 3:53 |
 | 88 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |
-| 89 | [Weeping Willow](https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Pitch Black Sunset](https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB) | 4:28 |
-| 90 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
+| 89 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
+| 90 | [Weeping Willow](https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Pitch Black Sunset](https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB) | 4:28 |
 | 91 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
 | 92 | [Killstar \(The Cold World\)](https://open.spotify.com/track/6YfN3vWabEAmOAbZgub44o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 4:41 |
 | 93 | [Like Humans](https://open.spotify.com/track/1Ihk3DPLfci15MfQtVJtCk) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:46 |

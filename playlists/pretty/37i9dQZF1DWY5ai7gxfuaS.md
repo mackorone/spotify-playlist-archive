@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,830 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,857 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 62 | [Fuck What You Heard](https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Fuck What You Heard](https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI) | 3:17 |
 | 63 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
 | 64 | [saw BONES](https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [saw BONES](https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC) | 2:27 |
-| 65 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
-| 66 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
-| 67 | [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 |
+| 65 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
+| 66 | [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 |
+| 67 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
 | 68 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
 | 69 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
 | 70 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 77 | [Bloom](https://open.spotify.com/track/1H2zKaQx4lFhfNtbYATw4k) | [Ice Sealed Eyes](https://open.spotify.com/artist/0eVDo1w1SoyNP0xswwFYi7), [FreeHowling](https://open.spotify.com/artist/1BYd3uRtgiwyUbz7Jg9RhG) | [Bloom](https://open.spotify.com/album/1aia6LRXEcNJKbGUMBfVgE) | 3:48 |
 | 78 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
 | 79 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
-| 80 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 |
-| 81 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 |
+| 80 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 |
+| 81 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 |
 | 82 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
 | 83 | [REB00T MYSELF \(feat\. Tired Violence\)](https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Tired Violence](https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV) | [REB00T MYSELF \(feat\. Tired Violence\)](https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b) | 3:04 |
 | 84 | [DODGE A BULLET](https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [DODGE A BULLET](https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M) | 2:46 |
-| 85 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:40 |
-| 86 | [After You Comes the Flood](https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3) | 5:36 |
-| 87 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
-| 88 | [White Noise](https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [White Noise](https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF) | 4:37 |
+| 85 | [After You Comes the Flood](https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3) | 5:36 |
+| 86 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
+| 87 | [White Noise](https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [White Noise](https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF) | 4:37 |
+| 88 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:40 |
 | 89 | [On the Floor](https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u) | [En Minor](https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL) | [When the Cold Truth Has Worn Its Miserable Welcome Out](https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg) | 5:22 |
 | 90 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 |
 | 91 | [Breaks](https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE) | [Gone Is Gone](https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg) | [Breaks](https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP) | 3:55 |

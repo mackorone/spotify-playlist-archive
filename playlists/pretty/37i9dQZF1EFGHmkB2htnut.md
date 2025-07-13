@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 104 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 104 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 25 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
 | 26 | [Pasadena](https://open.spotify.com/track/6XQhzIxsqi6ay9HjsMpJwV) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 3:08 |
 | 27 | [Let It Talk To Me](https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Let It Talk To Me](https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl) | 2:36 |
-| 28 | [Like a Kid \(feat\. Mags Duval\)](https://open.spotify.com/track/4txxv9Lk2IrLhDof6NrrL5) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3), [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Like a Kid \(feat\. Mags Duval\)](https://open.spotify.com/album/5gTrL4db8J2oPcvsOgdYQP) | 4:06 |
-| 29 | [Butterfly](https://open.spotify.com/track/3yhMdbzUE0BAbNyIEVwcQz) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Butterfly](https://open.spotify.com/album/53lvF4ycRN2omxuqZxINgx) | 2:46 |
+| 28 | [Butterfly](https://open.spotify.com/track/3yhMdbzUE0BAbNyIEVwcQz) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Butterfly](https://open.spotify.com/album/53lvF4ycRN2omxuqZxINgx) | 2:46 |
+| 29 | [Like a Kid \(feat\. Mags Duval\)](https://open.spotify.com/track/4txxv9Lk2IrLhDof6NrrL5) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3), [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Like a Kid \(feat\. Mags Duval\)](https://open.spotify.com/album/5gTrL4db8J2oPcvsOgdYQP) | 4:06 |
 | 30 | [You Were Supposed to Be Different](https://open.spotify.com/track/13GvSZgg9LOs3M9uGbWsPE) | [Aron Wright](https://open.spotify.com/artist/4MKVLp1MAwYFqaXhe1g8dA) | [You Were Supposed to Be Different](https://open.spotify.com/album/5WXPZlMv6GvlIMXtRxqGgB) | 3:12 |
 | 31 | [Sunshine](https://open.spotify.com/track/4Yx4nkx3ymrAZZ3DSlhV8O) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Sunshine](https://open.spotify.com/album/5QQCXdKA7aXLrJSt3Zmu2j) | 3:25 |
 | 32 | [Cruise Control](https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Cruise Control](https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn) | 2:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 70 | [Nobody Knows](https://open.spotify.com/track/2sRdufRNFYl0OgJZalWQBA) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:25 |
 | 71 | [Lose Myself](https://open.spotify.com/track/0yHLfDvA1XMGsQ8eguh6g7) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:27 |
 | 72 | [Pleasure & Pain](https://open.spotify.com/track/4Dj7XEvak7XhSNGR6S0xSC) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:01 |
-| 73 | [Scandal](https://open.spotify.com/track/7LsPuD72lqQeydaIRQ1TJb) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL) | [Scandal \(Piano Version\)](https://open.spotify.com/album/0BBBS0F20Nn2KvqHALL7Z6) | 3:42 |
-| 74 | [Somebody Cooked Here](https://open.spotify.com/track/6AygFa26d4G7tQVvrsAXIE) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Somebody Cooked Here](https://open.spotify.com/album/4gUqrMCs7AZOzDVS2jENpk) | 2:59 |
+| 73 | [Somebody Cooked Here](https://open.spotify.com/track/6AygFa26d4G7tQVvrsAXIE) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Somebody Cooked Here](https://open.spotify.com/album/4gUqrMCs7AZOzDVS2jENpk) | 2:59 |
+| 74 | [Scandal](https://open.spotify.com/track/7LsPuD72lqQeydaIRQ1TJb) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL) | [Scandal \(Piano Version\)](https://open.spotify.com/album/0BBBS0F20Nn2KvqHALL7Z6) | 3:42 |
 | 75 | [Secondhand Smoke](https://open.spotify.com/track/2XQ57RwHA0gWn4MzFvxUHe) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/34ISREKShXsEfkYLbxExdJ) | 3:08 |
 | 76 | [Revenge](https://open.spotify.com/track/3RxfooaHT4gwpZrbI71BrS) | [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi) | [Handle With Care](https://open.spotify.com/album/52WqdSNr8hQioPuM1mHNIF) | 3:21 |
 | 77 | [321](https://open.spotify.com/track/6uXbGI1bxyK8LSdztpcbFV) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [321](https://open.spotify.com/album/2ORKOz6jqkqbE9kRpYRsA8) | 2:53 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 103 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 104 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `Ab2hXgAAAADrPWMfsa7iWJ3WT8IoPPpR`
+Snapshot ID: `Ab2nMAAAAAA+6pjNuzxZE7/qoAYt9rBi`

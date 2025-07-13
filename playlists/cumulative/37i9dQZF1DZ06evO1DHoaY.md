@@ -4,7 +4,7 @@
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 39 min
+73 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,12 @@
 | [Chant Down Babylon](https://open.spotify.com/track/2HJZDha9V8OMf4n2HFUXf5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 2:36 | 2024-02-01 | 2024-03-29 |
 | [Coming In From The Cold](https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:31 | 2024-02-01 |  |
 | [Concrete Jungle](https://open.spotify.com/track/5M77yXWuKPqaUzdxn4cVnV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 4:13 | 2024-02-01 |  |
-| [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2024-02-01 |  |
+| [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2024-02-01 | 2025-07-13 |
+| [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY) | 4:46 | 2025-07-13 |  |
 | [Crazy Baldhead](https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu) | 3:11 | 2024-02-01 |  |
 | [Easy Skanking](https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 2:57 | 2024-02-01 |  |
 | [Exodus](https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 7:40 | 2024-05-15 | 2024-07-24 |
-| [Forever Loving Jah](https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:02 | 2024-02-01 | 2024-06-01 |
+| [Forever Loving Jah](https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:02 | 2024-02-01 |  |
 | [Get Up, Stand Up](https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:17 | 2025-05-24 |  |
 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 | 2024-02-01 | 2025-05-24 |
 | [Give Thanks & Praises](https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:14 | 2024-12-01 | 2024-12-09 |
@@ -40,7 +41,7 @@
 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 | 2024-02-01 |  |
 | [Misty Morning](https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:33 | 2024-02-01 |  |
 | [Mr\. Chatterbox \- Extended Mix](https://open.spotify.com/track/33VGV7jjHbOHGsGHrhMhF7) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Mr\. Chatterbox \(Extended Mix\)](https://open.spotify.com/album/1HKSNPpEZfNiOHNuZxuayj) | 5:38 | 2024-02-07 | 2024-03-06 |
-| [Natty Dread](https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:35 | 2024-05-10 |  |
+| [Natty Dread](https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:35 | 2024-05-10 | 2025-07-13 |
 | [Natural Mystic](https://open.spotify.com/track/5uqQyRJV8qLt8zEqnvsBVK) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:27 | 2024-02-19 |  |
 | [Natural Mystic](https://open.spotify.com/track/64xslN8DB3jG1tK2l3H1mA) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:27 | 2024-02-01 | 2024-02-20 |
 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live!](https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik) | 7:07 | 2024-02-01 |  |

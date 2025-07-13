@@ -7176,7 +7176,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -9554,7 +9554,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -9956,6 +9956,24 @@
       "duration_ms": 237750,
       "name": "JS4E",
       "url": "https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -17417,6 +17435,24 @@
     },
     {
       "album": {
+        "name": "POR SUS BESOS",
+        "url": "https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186142,
+      "name": "POR SUS BESOS",
+      "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
+    },
+    {
+      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -20620,7 +20656,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 131827,
       "name": "sobelove",
       "url": "https://open.spotify.com/track/3fmw8iIyQDS2L7nE6Wd0xG"
@@ -22318,7 +22354,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"

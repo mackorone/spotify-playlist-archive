@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -6356,7 +6356,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 201230,
       "name": "Caliente - Radio Edit",
       "url": "https://open.spotify.com/track/41nUOHxf1hwr5myEEbXco7"
@@ -15114,7 +15114,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 189863,
       "name": "Gipsy Rock",
       "url": "https://open.spotify.com/track/1OjA1AxWQvxeSrBPG93jEP"
@@ -19581,6 +19581,24 @@
     },
     {
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -22734,7 +22752,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 142978,
       "name": "MAKE IT HOT",
       "url": "https://open.spotify.com/track/2c8UZZFAinUGLdvAAr8VHh"
@@ -23402,7 +23420,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "MAZDA",
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
@@ -25138,7 +25156,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 128591,
       "name": "M\u0103 rupe r\u0103u",
       "url": "https://open.spotify.com/track/5kFawu0YBiZNktW7Fa2rQO"
@@ -27568,7 +27586,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -27782,7 +27800,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "OVO",
       "url": "https://open.spotify.com/track/5AnyhJ6zkHLL5Lbtct2BCI"
@@ -33616,7 +33634,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 236712,
       "name": "SHEGONDIE",
       "url": "https://open.spotify.com/track/4YOfOwu17u9I36mazMcXSR"
@@ -36682,7 +36700,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 196285,
       "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
       "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"

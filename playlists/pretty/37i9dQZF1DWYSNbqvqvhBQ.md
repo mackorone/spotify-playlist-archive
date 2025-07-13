@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste tijdloze liedjes van nu: Danny Vera \(cover\), Kensington, RAYE en Teddy Swims.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,707 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,661 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 24 | [I'm In Heaven](https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [I'm In Heaven](https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme) | 3:25 |
 | 25 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 26 | [Here's To Forever](https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx) | [Bart van Liemt](https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D) | [Here's To Forever](https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7) | 3:04 |
-| 27 | [So High](https://open.spotify.com/track/4LJpgXI4Viy3x1q24I4nzG) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [So High](https://open.spotify.com/album/1PXXzno0EmdtuBK6AJhs1j) | 3:37 |
+| 27 | [So High](https://open.spotify.com/track/4LJpgXI4Viy3x1q24I4nzG) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [So High](https://open.spotify.com/album/1PXXzno0EmdtuBK6AJhs1j) | 3:36 |
 | 28 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
 | 29 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 30 | [Stronger](https://open.spotify.com/track/7wnZ0ccUMn79s9JMTPRkH1) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Stronger](https://open.spotify.com/album/7AicglcIa2LDkVNzhhFqTI) | 3:13 |

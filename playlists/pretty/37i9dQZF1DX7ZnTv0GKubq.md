@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,037 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,045 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 28 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
 | 29 | [June's Cry](https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 3:56 |
 | 30 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 |
-| 31 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
-| 32 | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ) | 2:26 |
+| 31 | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ) | 2:26 |
+| 32 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
 | 33 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 |
-| 34 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
+| 34 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
 | 35 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 |
 | 36 | [i know](https://open.spotify.com/track/6HWsd6fqeamiFulSQhxKsD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [i know](https://open.spotify.com/album/6gAZoVbmPADyQaGsV94obD) | 2:22 |
 | 37 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |

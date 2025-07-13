@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Pa' bailar, pa' llorar, pa' pistear y pa' enamorar..\. Los tracks más chidos de la semana en compañía de Manu Chao y Santa Fe Klan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,956 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,457 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 18 | [SWAG](https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:30 |
 | 19 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
 | 20 | [Dile A ÉL \(Remix\)](https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Dile A ÉL \(Remix\)](https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI) | 3:40 |
-| 21 | [Nostalgia.0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia.0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
+| 21 | [Nostalgia .0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia .0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
 | 22 | [SOXE](https://open.spotify.com/track/0IwaDlPryK2x8SH0ArH03T) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [SOXE](https://open.spotify.com/album/6ZGLvEZe7CG28o5ynYpCSf) | 3:27 |
 | 23 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 |
 | 24 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |

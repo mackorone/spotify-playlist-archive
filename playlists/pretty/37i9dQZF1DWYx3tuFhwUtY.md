@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,633 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,604 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 11 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 |
 | 12 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 13 | [Eyes](https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Mushroom Death Sex Bummer Party](https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9) | 1:30 |
-| 14 | [Every Mile](https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh) | [Layup](https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA) | [Layup IV](https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti) | 3:21 |
-| 15 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 |
+| 14 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 |
+| 15 | [Every Mile](https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh) | [Layup](https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA) | [Layup IV](https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti) | 3:21 |
 | 16 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
 | 17 | [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 |
 | 18 | [wachito rico](https://open.spotify.com/track/0OYf62rdwDouKohtCALD55) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:34 |
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 38 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 39 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 |
 | 40 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
-| 41 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 42 | [Reaching Out To You](https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [The Saturday Songwriters](https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3) | [Reaching Out To You](https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa) | 3:30 |
+| 41 | [Reaching Out To You](https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [The Saturday Songwriters](https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3) | [Reaching Out To You](https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa) | 3:30 |
+| 42 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 43 | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/track/5X8FVIy9iaXoDEiIlCjcmp) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc), [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/album/5R8GPzld0YydbKawqmbigD) | 4:43 |
 | 44 | [A Lucid Dream](https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd) | 3:53 |
 | 45 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
 | 46 | [The Great Divide](https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [The Great Divide](https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp) | 4:00 |
-| 47 | [Sing](https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Meet Glen Campbell](https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz) | 3:45 |
-| 48 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
+| 47 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
+| 48 | [Sing](https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Meet Glen Campbell](https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz) | 3:45 |
 | 49 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 |
 | 50 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
 | 51 | [I Don't Know What You See In Me](https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [I Don't Know What You See In Me](https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw) | 3:39 |

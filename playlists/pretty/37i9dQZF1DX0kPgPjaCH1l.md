@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover: Ayo Maff
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,779 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,896 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 34 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 35 | [iseoluwa](https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:18 |
 | 36 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
-| 37 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 |
-| 38 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
+| 37 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
+| 38 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 |
 | 39 | [7 DAYS](https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [STREET ANTHEM / 7 DAYS](https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg) | 2:34 |
 | 40 | [Peace](https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Peace](https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9) | 3:26 |
 | 41 | [Baba God](https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:44 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 68 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
 | 69 | [FAMILY](https://open.spotify.com/track/65aQ76660Dd6rn40UwQVgM) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [KURIMA](https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR) | 2:33 |
 | 70 | [Alade Ade](https://open.spotify.com/track/5bh0oljgOyl3rN8ErhqKvx) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alade Ade](https://open.spotify.com/album/7nd9lBSL5F2pKV583BDh1r) | 2:42 |
-| 71 | [Applaudize \(Father's Song\)](https://open.spotify.com/track/1x4FtaeuGzzpIqLePqPYv8) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Applaudize \(Father's Song\)](https://open.spotify.com/album/6CEzk5u4GMv8E9J0x5qclR) | 2:29 |
+| 71 | [Born Winner](https://open.spotify.com/track/5AlqRvqPdsn3KYnDwcgZMI) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:49 |
 | 72 | [Pressure, Pt.2](https://open.spotify.com/track/57i2zCUPJCGaLwH2cPsimu) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Reehaa](https://open.spotify.com/artist/3uEftX1neotPP4BkfvFJHC) | [Pressure, Pt.2](https://open.spotify.com/album/7JGxxRfF3lQVfP8nrpkUUC) | 2:44 |
 | 73 | [Upgrade](https://open.spotify.com/track/4B8slHZUcFHu8ikY7EIvDt) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/2tHeMvMbLAJnUWanq02jUV) | 2:59 |
-| 74 | [Beamer](https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Beamer](https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q) | 2:46 |
-| 75 | [Oblee](https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Oblee](https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp) | 2:37 |
+| 74 | [Applaudize \(Father's Song\)](https://open.spotify.com/track/1x4FtaeuGzzpIqLePqPYv8) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Applaudize \(Father's Song\)](https://open.spotify.com/album/6CEzk5u4GMv8E9J0x5qclR) | 2:29 |
+| 75 | [Beamer](https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Beamer](https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q) | 2:46 |
 | 76 | [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 |
-| 77 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
+| 77 | [Oblee](https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Oblee](https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp) | 2:37 |
 | 78 | [Sho Mo Mi](https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1) | 2:34 |
-| 79 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
-| 80 | [365 Days](https://open.spotify.com/track/1fFixJPR0ZXgpm1b8DeL7g) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Timileyin](https://open.spotify.com/album/5gaDu1D7WaAQeZcb5Nqvvx) | 2:56 |
+| 79 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
+| 80 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
 
 Snapshot ID: `aHBUWgAAAADoNRHSzfO2kF4yrEuRkztX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,059 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,142 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 43 | [Kid](https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [Cure](https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw) | 3:04 |
 | 44 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
 | 45 | [Nous](https://open.spotify.com/track/5KURaCww90G5JWY3HAZ5tn) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [aimée](https://open.spotify.com/album/6BDmnvL4iyvqfXR4OtDZ2r) | 3:19 |
-| 46 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
-| 47 | [La groupie du pianiste \- Remasterisé en 2002](https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 4:42 |
+| 46 | [La groupie du pianiste \- Remasterisé en 2002](https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 4:42 |
+| 47 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
 | 48 | [Aïcha \- Version Mixte](https://open.spotify.com/track/0cYX51Hneb8qIOx0tHm7ng) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/2Ul6M5sIJdZjKVxwgDG7dC) | 4:19 |
 | 49 | [Le Dernier Jour du Disco](https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 3:27 |
 | 50 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |

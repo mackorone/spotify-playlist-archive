@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Paloma Mami, Quevedo, Tito Double P and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,662 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,731 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/track/2OWyDDiLOC6PACqh7Xac8y) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Grupo Restaurado](https://open.spotify.com/artist/47ryVplCCIIsbwcBFcg8Oc) | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/album/2gzPNct7gehdFkAgPn9n2y) | 2:23 |
 | 40 | [Amor](https://open.spotify.com/track/6H48kSzWqhaZvpjLvGSIiu) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Amor](https://open.spotify.com/album/6prn7C5RFk0pBbwW8DyY3C) | 2:41 |
 | 41 | [Lying to Me](https://open.spotify.com/track/1p1gGLNlpChHJB5KWhpdRF) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Thank You x Todo](https://open.spotify.com/album/1e0UHXyxeWnnF082m6A67b) | 2:44 |
-| 42 | [LOVE AND S3X Pt\. 2](https://open.spotify.com/track/7CO8jqho2RzYRsAd3T8dX5) | [Xclusive](https://open.spotify.com/artist/3mrEeear2sX7o6ErQX7YUi), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA), [Sadoc Marquez](https://open.spotify.com/artist/6qT61F7aaMqQ09GzGFGhVY) | [LOVE AND S3X Pt\. 2](https://open.spotify.com/album/4bhDKt9HAyQHDBCvWeHmQr) | 3:24 |
+| 42 | [LOVE AND S3X Pt\. 2](https://open.spotify.com/track/7CO8jqho2RzYRsAd3T8dX5) | [Xclusive](https://open.spotify.com/artist/3mrEeear2sX7o6ErQX7YUi), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [LOVE AND S3X Pt\. 2](https://open.spotify.com/album/4bhDKt9HAyQHDBCvWeHmQr) | 3:24 |
 | 43 | [GOSTOSO](https://open.spotify.com/track/39XX2TpTpctv1iKkA1PXE4) | [Baby Yami](https://open.spotify.com/artist/3A1tF3YZ0Xa5IBo3NG32k4) | [GOSTOSO](https://open.spotify.com/album/11MUyiqZS65zjAZ80hnRbf) | 2:47 |
 | 44 | [Incomprensible](https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Incomprensible](https://open.spotify.com/album/4zwpvu8E4Ev8iM6V76nnI3) | 3:31 |
 | 45 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |

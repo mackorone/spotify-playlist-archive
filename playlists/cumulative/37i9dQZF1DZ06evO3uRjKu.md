@@ -4,7 +4,7 @@
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 3 min
+74 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Gin Tonic](https://open.spotify.com/track/0FgZ5rpMveTUQjdozZ03HP) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:33 | 2022-10-26 |  |
 | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y) | 5:34 | 2024-05-12 |  |
 | [Hechicera Crayon](https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 5:00 | 2022-10-26 |  |
-| [Histeria](https://open.spotify.com/track/0nRGbWXmLv56lPsR3dtB3y) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 5:02 | 2023-03-10 |  |
+| [Histeria](https://open.spotify.com/track/0nRGbWXmLv56lPsR3dtB3y) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 5:02 | 2023-03-10 | 2025-07-13 |
 | [La Carta](https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 4:16 | 2022-10-26 | 2024-07-17 |
 | [La Chica De Mi Ayer](https://open.spotify.com/track/45SZZyXyZjs6aox30oGlQi) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 3:32 | 2022-10-26 | 2022-12-04 |
 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 | 2022-10-26 |  |
@@ -44,6 +44,7 @@
 | [Lo Que Pienso de Vos \- En Vivo](https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Que Pienso de Vos \(En Vivo\)](https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r) | 3:12 | 2024-08-31 |  |
 | [Me Siento Loco](https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Me Siento Loco](https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b) | 4:03 | 2024-02-27 |  |
 | [Me Vuelvo Loco por Vos](https://open.spotify.com/track/0HXYqKxtdHB9HLhjwPozcF) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 4:52 | 2022-10-26 |  |
+| [Mojada](https://open.spotify.com/track/60Sd7uDet3UuNJHZdHAUSK) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [En Vivo Buenos Aires](https://open.spotify.com/album/4iPF9MbEkekyq8KOMDclzc) | 3:39 | 2025-07-13 |  |
 | [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 | 2022-10-26 |  |
 | [Nada Mas](https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:30 | 2022-10-26 |  |
 | [No Me Hagas Callar](https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 5:17 | 2022-10-26 |  |

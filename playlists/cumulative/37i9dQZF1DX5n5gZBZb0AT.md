@@ -4,7 +4,7 @@
 
 > all gains
 
-153 songs - 5 hr 53 min
+154 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2023-03-01 | 2023-07-12 |
 | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/track/4XeElJ6zvozrMsDQRbfLp1) | [TOTZ](https://open.spotify.com/artist/3raDCuZ1EuUpmjKUm8qa1Q), [ZYZZ HARDSTYLE](https://open.spotify.com/artist/1MToCKholpDbeLDwDYtkyb), [Anime Lifestyle](https://open.spotify.com/artist/5CvDROubag3w5dW8WM6Ayy) | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/album/02BsnneyniW01a9pyg51Yw) | 1:48 | 2024-03-14 | 2025-02-08 |
 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 | 2023-09-08 | 2025-02-09 |
-| [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2023-07-11 |  |
+| [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2023-07-11 | 2025-07-13 |
 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 | 2023-07-11 | 2025-03-28 |
 | [SENTA MARIA VAI X BEAT ABSURDO \- Slowed](https://open.spotify.com/track/2TRBDAcApCXLIbqoFD8q14) | [IMARO](https://open.spotify.com/artist/49mGI97erh26mewRTJtAZr), [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [Mc Furdunço](https://open.spotify.com/artist/13ctfpnIHOyVFw11WHuvFj), [MC Gil Do Andaraí](https://open.spotify.com/artist/084A1ahogQHTEUa9mSCNCg) | [SENTA MARIA VAI X BEAT ABSURDO](https://open.spotify.com/album/1gljOCfATDpKElvnGOJrTo) | 1:51 | 2025-03-28 |  |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-07-19 | 2024-03-15 |
@@ -143,6 +143,7 @@
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2023-03-01 | 2023-03-25 |
 | [THE AUTOTREM 1.0](https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ) | [DJ RICK 013](https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [THE AUTOTREM 1.0](https://open.spotify.com/album/3B6zpOLO07POn5FKcNwTKB) | 2:29 | 2024-02-13 | 2024-05-09 |
 | [The Search](https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:08 | 2023-03-09 | 2023-12-30 |
+| [THIS FEELING](https://open.spotify.com/track/7oncLeIzUPgJf4a6jm1c3e) | [DJ Anemia](https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [THIS FEELING](https://open.spotify.com/album/4QbF9gd2zeyd3Vxg29NbWS) | 2:02 | 2025-05-27 |  |
 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2023-03-01 | 2023-07-12 |
 | [TRALALERO TRALALA FUNK](https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee) | [TRALALERO TRALALA FUNK](https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4) | 1:57 | 2025-03-28 |  |
 | [Trophies](https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF) | 3:08 | 2023-03-09 | 2023-07-12 |

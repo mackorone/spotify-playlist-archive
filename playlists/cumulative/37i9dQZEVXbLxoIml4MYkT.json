@@ -6012,7 +6012,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -7584,7 +7584,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 240093,
       "name": "Encantadora",
       "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
@@ -7916,7 +7916,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -7988,7 +7988,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -10494,6 +10494,24 @@
       "duration_ms": 237750,
       "name": "JS4E",
       "url": "https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -15108,7 +15126,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0rKqFkLnkcZByHMjN60KAn"
@@ -15482,7 +15500,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 227518,
       "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
       "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
@@ -18003,6 +18021,24 @@
     },
     {
       "album": {
+        "name": "POR SUS BESOS",
+        "url": "https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186142,
+      "name": "POR SUS BESOS",
+      "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
+    },
+    {
+      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -18498,7 +18534,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -24378,7 +24414,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

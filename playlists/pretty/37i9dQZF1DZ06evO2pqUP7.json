@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69251,
+  "num_followers": 69263,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAD9q3haiVU7hDHFoqdlakPv",
+  "snapshot_id": "aHBUAAAAAAAJDcLQcdimZLJHYlL7PyuJ",
   "tracks": [
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condado",
-        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Condado",
-      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie (feat. Sech & Sharo Towers) [Remix]",
         "url": "https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 270186,
       "name": "Nadie (feat. Sech & Sharo Towers) - Remix",
       "url": "https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condado",
+        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Condado",
+      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
     },
     {
       "added_at": null,
@@ -1135,22 +1135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Castillo",
-        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
       },
       "artists": [
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 198122,
-      "name": "Vicio",
-      "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
+      "duration_ms": 151562,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
     },
     {
       "added_at": null,
@@ -1171,18 +1167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
+        "name": "El Castillo",
+        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
       },
       "artists": [
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 151562,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
+      "duration_ms": 198122,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
     },
     {
       "added_at": null,

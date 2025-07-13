@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,110 likes - 113 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,104 likes - 113 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 24 | [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 |
 | 25 | [Higher Place](https://open.spotify.com/track/14xFUlSQiS45PpDZ21RP5i) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Higher Place](https://open.spotify.com/album/5HVfLqGAzSoHcIpmzNXZYe) | 2:22 |
 | 26 | [D\*CK](https://open.spotify.com/track/4QDUgWoUgtpDvf2VM66j3r) | [Claar](https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa), [BLADË](https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC) | [D\*CK](https://open.spotify.com/album/7wzpJcYeQkCmIz5u9eDyvI) | 3:00 |
-| 27 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 27 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 28 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |
 | 29 | [Big Girl](https://open.spotify.com/track/2YsXM60MZXGKudblp4UL2Z) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Big Girl](https://open.spotify.com/album/22KMS4Y8oPVAMdD4XUywkx) | 1:45 |
 | 30 | [ISLAND](https://open.spotify.com/track/6HIyVsMgerWNe8aqJKeivg) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW), [1HUNNA](https://open.spotify.com/artist/5atNT9H8UsejUwzKrmzipk) | [ISLAND](https://open.spotify.com/album/2KRSxzDsKG1TkJjAjzlHJm) | 2:11 |

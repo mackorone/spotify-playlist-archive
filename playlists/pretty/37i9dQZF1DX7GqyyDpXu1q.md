@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Mark Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,382 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,409 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 17 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
 | 18 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 |
 | 19 | [God’s Gonna Cut You Down](https://open.spotify.com/track/5Qt4tTjY5bjhKa3OGNVP2J) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:48 |
-| 20 | [She Runs Hot](https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [She Runs Hot](https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn) | 3:07 |
-| 21 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
+| 20 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
+| 21 | [She Runs Hot](https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [She Runs Hot](https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn) | 3:07 |
 | 22 | [xoxo](https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [xoxo](https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX) | 4:07 |
 | 23 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 |
 | 24 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |

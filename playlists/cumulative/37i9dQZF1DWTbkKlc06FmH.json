@@ -7415,6 +7415,24 @@
     },
     {
       "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195869,
+      "name": "I CAN TELL",
+      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
+    },
+    {
+      "album": {
         "name": "JADED",
         "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
       },
@@ -9900,7 +9918,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"

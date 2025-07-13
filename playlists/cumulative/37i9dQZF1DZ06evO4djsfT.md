@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 51 min
+85 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [I Am Not the One](https://open.spotify.com/track/5PRBy8y79B3xM2Kx3tJbmb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:29 | 2023-03-17 | 2023-08-20 |
 | [I Believe](https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Mattie of For Today](https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 3:56 | 2023-03-17 |  |
 | [I'll Love](https://open.spotify.com/track/6yphKxAbj32Dyx6qTl4eGv) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Tenroc](https://open.spotify.com/artist/3vnbIS2AvqaGbE5aiz6ZAu) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:26 | 2024-02-20 | 2024-07-24 |
-| [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 | 2023-03-17 |  |
+| [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 | 2023-03-17 | 2025-07-13 |
 | [Imagine That](https://open.spotify.com/track/1qpxR8VW5hi9i06ADbCq5O) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:22 | 2023-11-10 | 2024-01-04 |
 | [Intro to Glory](https://open.spotify.com/track/35xnvEvl4IXhaS617S3Elq) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:26 | 2023-08-19 | 2023-11-11 |
 | [Intro to Glory](https://open.spotify.com/track/4JAN8bCFjs6pZsQ1d0A5BW) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:26 | 2024-02-27 | 2024-03-21 |
@@ -90,6 +90,7 @@
 | [Who the Son Sets Free](https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:50 | 2023-08-19 |  |
 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 | 2023-03-26 |  |
 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 | 2023-03-17 |  |
+| [Yes](https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Yes](https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms) | 2:59 | 2025-07-13 |  |
 | [Yes Song](https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:45 | 2023-03-17 |  |
 | [Your Way](https://open.spotify.com/track/3KXeP6ABCId10NPis7RQps) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 4:01 | 2023-08-19 | 2023-09-22 |
 

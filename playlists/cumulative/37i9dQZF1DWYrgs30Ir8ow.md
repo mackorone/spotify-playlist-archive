@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Adam Port, Stryv & Malachii
 
-1,027 songs - 2 day 1 hr 56 min
+1,029 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-04 | 2023-06-15 |
 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 | 2023-11-20 | 2023-12-30 |
 | [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 | 2025-01-23 | 2025-03-04 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-12 |  |
 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-03 | 2025-07-11 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-12 | 2023-11-24 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-16 | 2023-10-28 |
@@ -799,6 +800,7 @@
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-21 | 2024-04-05 |
 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 | 2024-11-14 | 2024-12-19 |
 | [Slow Low](https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Slow Low](https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x) | 3:04 | 2023-07-31 | 2023-09-15 |
+| [Slowmotion](https://open.spotify.com/track/4SauRwgtau5FrCeNSCwpDo) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Slowmotion](https://open.spotify.com/album/44uxxFfk9TOiGAwJvPqzUe) | 3:23 | 2025-07-12 |  |
 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 | 2024-07-31 | 2024-10-23 |
 | [Snelle Leven](https://open.spotify.com/track/1ZeHGimKwY5ukfq01CxrpE) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Starlife](https://open.spotify.com/album/6DI7opq6lLbdMddkNVOxSD) | 3:25 | 2023-03-20 | 2023-03-31 |
 | [Soldier](https://open.spotify.com/track/5tdppmnunAggNDFPkpM1fe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Soldier](https://open.spotify.com/album/5GyDKLFgmm6anhrarefEqv) | 2:34 | 2023-03-20 | 2023-03-28 |

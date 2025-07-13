@@ -4,7 +4,7 @@
 
 > 
 
-1,080 songs - 2 day 6 hr 7 min
+1,082 songs - 2 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Rock N Roll](https://open.spotify.com/track/1V0jEAE4UreyX8KYxGLnLP) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 2:28 | 2022-06-09 | 2023-05-09 |
 | [Rock with You \- Single Version](https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:40 | 2025-06-03 |  |
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2025-04-26 |  |
+| [Rocket Love](https://open.spotify.com/track/1jieqFxetPlw4Hri77DQJ6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Complete Stevie Wonder](https://open.spotify.com/album/3wV75jagiyMRezq1LOCh1I) | 4:39 | 2025-07-13 |  |
 | [Rockstar Lifestyle](https://open.spotify.com/track/5I8LS9jiW5xju1lzakh1s3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:12 | 2023-10-27 | 2024-03-05 |
 | [Rockstar Made](https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2023-12-19 | 2024-04-24 |
 | [Rokstar](https://open.spotify.com/track/34axCSujRVT7YWmDvisjdQ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:13 | 2022-09-12 | 2023-05-09 |
@@ -1004,6 +1005,7 @@
 | [U Should Know](https://open.spotify.com/track/5bfKhDxMWi5Yd2B4OBYdHg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 3:06 | 2024-02-16 | 2024-02-22 |
 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 | 2024-12-05 |  |
 | [Un Día](https://open.spotify.com/track/1bhZ2EA50Lt7vJvGiFv2dW) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4), [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Tu Imagen](https://open.spotify.com/album/26liQTrnezbMVR7Yjnn2Im) | 2:30 | 2024-02-14 | 2024-11-06 |
+| [Un Lugar En El Sol \(A Place In The Sun\) \- Spanish Version](https://open.spotify.com/track/155LYHjfuIXpQUb8DEce8G) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Complete Stevie Wonder](https://open.spotify.com/album/3wV75jagiyMRezq1LOCh1I) | 3:14 | 2025-07-13 |  |
 | [Uncle Phil](https://open.spotify.com/track/0Lf4lhGWMan0D4kL66Insu) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:37 | 2023-01-03 | 2023-12-14 |
 | [Under Me](https://open.spotify.com/track/6ugMMzjEgL7xqNyrgwCCKh) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:23 | 2022-07-28 | 2024-03-05 |
 | [Under Us](https://open.spotify.com/track/35OomqV1ZxoVYNB0SF9Ysd) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:24 | 2022-02-25 | 2023-12-14 |

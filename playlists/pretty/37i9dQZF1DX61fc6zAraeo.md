@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,947 likes - 90 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,970 likes - 90 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 9 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 |
 | 10 | [Tell Me Where U Go](https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Tell Me Where U Go](https://open.spotify.com/album/3DQS4gzD4RJMsarRUqiQrt) | 3:02 |
 | 11 | [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 |
-| 12 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 |
-| 13 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 12 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 13 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 |
 | 14 | [Seek Love \(On The Beach\)](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF), [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Seek Love \(On The Beach\) \(feat\. Amanda Wilson & York\)](https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O) | 2:30 |
 | 15 | [Focus \(feat\. CLOVES\) \- Alok Remix](https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Focus \(feat\. CLOVES\) \[Alok Remix\]](https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF) | 3:27 |
 | 16 | [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 |

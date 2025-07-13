@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Mood music for the world's biggest Afrobeats festival\. Curated by <a href="https://www.afronation.com/">Afro Nation</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,984 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,068 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4435,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "album": {
         "name": "Dame Un Grrr",
         "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
       },
@@ -16504,6 +16522,24 @@
       "duration_ms": 184364,
       "name": "Slow Low",
       "url": "https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO"
+    },
+    {
+      "album": {
+        "name": "Slowmotion",
+        "url": "https://open.spotify.com/album/44uxxFfk9TOiGAwJvPqzUe"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203239,
+      "name": "Slowmotion",
+      "url": "https://open.spotify.com/track/4SauRwgtau5FrCeNSCwpDo"
     },
     {
       "album": {

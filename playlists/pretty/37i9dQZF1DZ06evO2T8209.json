@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 715138,
+  "num_followers": 715269,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABFNLr1OjcFEalSFdnTUZ7S",
+  "snapshot_id": "aHBUAAAAAADbfmRbcIwfWKGxbZmU1Q8f",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,34 @@
       "duration_ms": 375386,
       "name": "GONE, GONE / THANK YOU",
       "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "duration_ms": 258030,
+      "name": "P.O.V.",
+      "url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
     },
     {
       "added_at": null,
@@ -987,26 +1015,6 @@
       "duration_ms": 230554,
       "name": "HEAVEN TO ME",
       "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 209777,
-      "name": "Here We Go\u2026 Again (feat. Tyler, the Creator)",
-      "url": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf"
     }
   ],
   "unique_name": "This Is Tyler, The Creator",

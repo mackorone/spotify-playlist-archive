@@ -4,7 +4,7 @@
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 18 min
+54 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Mz\. Hyde](https://open.spotify.com/track/78mjaBatbfvwx5KJwI036H) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:22 | 2025-03-08 |  |
 | [Out In the Rain](https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Who I Am](https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU) | 4:14 | 2025-03-08 |  |
 | [Psycho Crazy](https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:25 | 2025-03-08 |  |
+| [Rain Your Blood On Me](https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Rain Your Blood On Me](https://open.spotify.com/album/5nVX7E3Cu7dREQeBle4FRW) | 4:14 | 2025-07-13 |  |
 | [Raise Your Horns](https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:18 | 2025-03-08 |  |
 | [Shoot to Thrill](https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 5:07 | 2025-03-08 |  |
 | [Sick Individual](https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:27 | 2025-03-08 |  |

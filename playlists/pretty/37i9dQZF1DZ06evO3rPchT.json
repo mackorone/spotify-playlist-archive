@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 79885,
+  "num_followers": 79908,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABYFIto1xqZZ8eFk4kCJgx6",
+  "snapshot_id": "aHBUAAAAAAA2ENXbDrVXALiYR38xYHTx",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 221795,
+      "name": "JIM BOB",
+      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nobody Likes Your Girlfriend",
         "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 181870,
       "name": "Nobody Likes Your Girlfriend",
       "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 221795,
-      "name": "JIM BOB",
-      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
-      "url": "https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quit!!",
         "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 198748,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
+      "url": "https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "BOOTS",
-      "url": "https://open.spotify.com/track/0u9zevC5U0KfmXCJveb1WJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COUNTRY!",
         "url": "https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 184818,
       "name": "Car That Drove You Away",
       "url": "https://open.spotify.com/track/3js7hQ6DUHQ2shBJ0snwEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 193901,
+      "name": "BOOTS",
+      "url": "https://open.spotify.com/track/0u9zevC5U0KfmXCJveb1WJ"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 218718,
-      "name": "TRUCK",
-      "url": "https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COUNTRY!",
         "url": "https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ"
       },
@@ -475,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
       "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 195326,
-      "name": "In The Bible (feat. HARDY)",
-      "url": "https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U"
+      "duration_ms": 218718,
+      "name": "TRUCK",
+      "url": "https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5"
     },
     {
       "added_at": null,
@@ -511,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+        "name": "s\u00f8n of dad (deluxe)",
+        "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
       },
       "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 202516,
-      "name": "AIN'T A BAD DAY",
-      "url": "https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO"
+      "duration_ms": 272712,
+      "name": "Father\u2019s S\u00f8n - Acoustic",
+      "url": "https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX"
     },
     {
       "added_at": null,
@@ -543,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "s\u00f8n of dad (deluxe)",
-        "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
       "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 272712,
-      "name": "Father\u2019s S\u00f8n - Acoustic",
-      "url": "https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX"
+      "duration_ms": 202516,
+      "name": "AIN'T A BAD DAY",
+      "url": "https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO"
     },
     {
       "added_at": null,
@@ -587,6 +567,26 @@
       "duration_ms": 199360,
       "name": "My Kinda Livin\u2019 (HARDY feat. Hunter Phelps, Jameson Rodgers)",
       "url": "https://open.spotify.com/track/0aAOaGw2wPv6X3mi5Wjeqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 195326,
+      "name": "In The Bible (feat. HARDY)",
+      "url": "https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U"
     },
     {
       "added_at": null,

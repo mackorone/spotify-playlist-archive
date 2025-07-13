@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: ONEWE\(원위\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,133 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,113 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 37 | [Wonderland \(Carol ver.\)](https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:17 |
 | 38 | [Christmas without You](https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 4:19 |
 | 39 | [The Winter's Tale](https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [The Winter's Tale](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) | 4:19 |
-| 40 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
-| 41 | [Grey Christmas](https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.2\] Grey Christmas](https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7) | 3:28 |
+| 40 | [Grey Christmas](https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.2\] Grey Christmas](https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7) | 3:28 |
+| 41 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
 | 42 | [Jazz Bar \(Carol ver.\)](https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:52 |
 | 43 | [The Magic of Christmas Time](https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 2:47 |
 | 44 | [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 47 | [Candles](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Candles\]](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) | 3:51 |
 | 48 | [Candy Cane](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:24 |
 | 49 | [christmas recipe \(feat\. 16\)](https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [christmas recipe](https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF) | 2:54 |
-| 50 | [I Need You](https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [I Need You](https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL) | 3:26 |
-| 51 | [SATELLITE](https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB), [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [SATELLITE](https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW) | 2:45 |
-| 52 | [Will You Be My Home](https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Will You Be My Home](https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R) | 3:30 |
+| 50 | [Will You Be My Home](https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Will You Be My Home](https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R) | 3:30 |
+| 51 | [I Need You](https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [I Need You](https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL) | 3:26 |
+| 52 | [SATELLITE](https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB), [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [SATELLITE](https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW) | 2:45 |
 | 53 | [Gift For You](https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Gift For You](https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6) | 3:33 |
 | 54 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 |
 | 55 | [Christmas Dance](https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [Christmas Dance](https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP) | 4:04 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 93 | [Christmas Again](https://open.spotify.com/track/1CNmcZ0bv30xYUTPiftBtS) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/6OMA4TLlpQnbfCpx4s6Cmc) | 3:46 |
 | 94 | [Movie Winter](https://open.spotify.com/track/0P00r0hbz9yKs4DtBCzqVu) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [Movie Winter](https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc) | 2:45 |
 | 95 | [Fallin’ in the Christmas love](https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF) | [NTX](https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL) | [X\-Present](https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg) | 4:06 |
-| 96 | [Winter Land](https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [The Christmas Book Page 2](https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3) | 3:59 |
+| 96 | [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 |
 | 97 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 |
-| 98 | [Grass under Snow](https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [GGS](https://open.spotify.com/artist/1skhcLxnX5M0NK59U7b1I2), [psv:gun](https://open.spotify.com/artist/6nLtSzTBaODlpfv1oQr7v0) | [Grass under Snow](https://open.spotify.com/album/2bUVBzFqxI4LmcgM58rDro) | 2:58 |
-| 99 | [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 |
+| 98 | [Winter Land](https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [The Christmas Book Page 2](https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3) | 3:59 |
+| 99 | [Grass under Snow](https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [GGS](https://open.spotify.com/artist/1skhcLxnX5M0NK59U7b1I2), [psv:gun](https://open.spotify.com/artist/6nLtSzTBaODlpfv1oQr7v0) | [Grass under Snow](https://open.spotify.com/album/2bUVBzFqxI4LmcgM58rDro) | 2:58 |
 | 100 | [Christmas Time](https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Christmas Time](https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA) | 3:50 |
 
 Snapshot ID: `Z4sRHQAAAABkOdLrZZ5rE1kgCeE4xZDQ`

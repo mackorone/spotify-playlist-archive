@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 38621,
+  "num_followers": 38616,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
+        "name": "God Needs The Devil",
+        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "God Needs The Devil",
+      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -695,26 +711,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "us",
-        "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
-      },
-      "artists": [
-        {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        },
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 251033,
-      "name": "i hate u, i love u (feat. olivia o'brien)",
-      "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -731,18 +727,22 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "God Needs The Devil",
-        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
+        "name": "us",
+        "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 192133,
-      "name": "God Needs The Devil",
-      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+      "duration_ms": 251033,
+      "name": "i hate u, i love u (feat. olivia o'brien)",
+      "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "You're Somebody Else",
-        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "You're Somebody Else",
+        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "WITHERED",
-        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 195328,
-      "name": "Is This Really Love?",
-      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 174266,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 195328,
+      "name": "Is This Really Love?",
+      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/3QLB5s0MY7ERTwh4GpNMkf"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 240066,
       "name": "Catch & Release",
       "url": "https://open.spotify.com/track/3lsKY1alCeIrwkaYRI4sxV"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/3QLB5s0MY7ERTwh4GpNMkf"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY"
     },
     {
       "added_at": "2025-06-26 16:39:05",

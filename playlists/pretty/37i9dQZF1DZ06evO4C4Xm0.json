@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 45818,
+  "num_followers": 45825,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACnPDKeQ4nw2g3hEnto/QK7",
+  "snapshot_id": "aHBUAAAAAAB/D385H5lrTYRaSU6jjez7",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+        "name": "Wrong Way Up [Expanded Edition]",
+        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
       },
       "artists": [
         {
-          "name": "Robert Fripp",
-          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
-        },
-        {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Wind On Wind",
-      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
+      "duration_ms": 327120,
+      "name": "Spinning Away",
+      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
     },
     {
       "added_at": null,
@@ -491,38 +491,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrong Way Up [Expanded Edition]",
-        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
         },
         {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 327120,
-      "name": "Spinning Away",
-      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
+      "duration_ms": 193280,
+      "name": "Wind On Wind",
+      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
       "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 270280,
-      "name": "Under Stars - 2005 Mix",
-      "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
+      "duration_ms": 261560,
+      "name": "Lost In The Humming Air - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
     },
     {
       "added_at": null,
@@ -563,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 261560,
-      "name": "Lost In The Humming Air - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
+      "duration_ms": 270280,
+      "name": "Under Stars - 2005 Mix",
+      "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminal",
-        "url": "https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
-        }
-      ],
-      "duration_ms": 198513,
-      "name": "Milky Sleep",
-      "url": "https://open.spotify.com/track/3GMrX2c1h8222h29Nza0Hi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 177600,
       "name": "Their Memories - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luminal",
+        "url": "https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "duration_ms": 198513,
+      "name": "Milky Sleep",
+      "url": "https://open.spotify.com/track/3GMrX2c1h8222h29Nza0Hi"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminal",
-        "url": "https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
-        }
-      ],
-      "duration_ms": 214695,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/4Z5uLasLgAkdJSyz93X2YP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luminal",
+        "url": "https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "duration_ms": 214695,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/4Z5uLasLgAkdJSyz93X2YP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -748,9 +748,29 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 244676,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
+      "duration_ms": 163887,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/5sVXzbcsNpsVQbTzfSAFhg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "duration_ms": 242307,
+      "name": "Play On - Single Edit",
+      "url": "https://open.spotify.com/track/1L8Ub8ABkm10UsU9YZdAKB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le BLACKPINK e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,663 likes - 137 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,667 likes - 137 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

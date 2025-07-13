@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 
 > Amp up your commute with rock hits, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,243 likes - 125 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,489 likes - 125 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 102 | [No Excuses](https://open.spotify.com/track/4PtZE0h5oyPhCtPjg3NeYQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:15 |
 | 103 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
 | 104 | [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 |
-| 105 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
-| 106 | [Champagne Supernova](https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 7:30 |
+| 105 | [Champagne Supernova](https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 7:30 |
+| 106 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
 | 107 | [Renegades Of Funk](https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Renegades](https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi) | 4:34 |
 | 108 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
 | 109 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 4:58 |

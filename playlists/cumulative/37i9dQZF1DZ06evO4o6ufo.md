@@ -4,7 +4,7 @@
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 40 min
+72 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [La Plebada del Mayo](https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Plebada del Mayo](https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3) | 5:11 | 2024-01-29 |  |
 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 | 2024-01-29 |  |
 | [Los Demonios \(En Vivo\)](https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Los Demonios \(En Vivo\)](https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId) | 4:02 | 2024-09-10 |  |
+| [Los Fletes](https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Los Fletes](https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4) | 1:51 | 2025-07-13 |  |
 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 | 2024-04-14 |  |
 | [MONTHS](https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [MONTHS](https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4) | 2:49 | 2025-06-22 |  |
 | [Nene Zambada](https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:03 | 2024-01-29 | 2024-04-15 |
@@ -62,7 +63,7 @@
 | [Que Tal Si Te Compro \(En Vivo\)](https://open.spotify.com/track/09qwfC8F36eMZLq2gOKACL) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:43 | 2025-04-20 |  |
 | [Ramo Buchón](https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Ramo Buchón](https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8) | 3:33 | 2024-01-29 |  |
 | [Regreso Del Mayito Gordo \(con Los Del Sombrero\)](https://open.spotify.com/track/2FzJuV1z2BcreeROrKclAV) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:10 | 2024-04-07 | 2024-07-07 |
-| [Retropopurrí \(Calles Enlodadas, Pase Y Pase, Dos Pajaritos\) \(En Vivo\)](https://open.spotify.com/track/08NvjgDsn0n0gIFbT3W436) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 5:35 | 2024-01-29 |  |
+| [Retropopurrí \(Calles Enlodadas, Pase Y Pase, Dos Pajaritos\) \(En Vivo\)](https://open.spotify.com/track/08NvjgDsn0n0gIFbT3W436) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 5:35 | 2024-01-29 | 2025-07-13 |
 | [Serafín](https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 3:09 | 2024-01-29 | 2024-04-07 |
 | [Sin Equipaje](https://open.spotify.com/track/0bVtKbzLzlwV1IPPFqIWWy) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 2:29 | 2024-08-06 |  |
 | [Sin Evidencias](https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:57 | 2024-01-29 |  |

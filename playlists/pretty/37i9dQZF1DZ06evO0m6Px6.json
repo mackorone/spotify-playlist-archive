@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 320,
+  "num_followers": 322,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABSBl8615yDUKCLAfoUOnBR",
+  "snapshot_id": "aHBUAAAAAABjYSYj5RsLQKfODhRkfUJC",
   "tracks": [
     {
       "added_at": null,
@@ -543,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
+        "name": "ROLLERCOASTER",
+        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
       },
       "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 120502,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
+      "duration_ms": 207238,
+      "name": "tl;dr",
+      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
     },
     {
       "added_at": null,
@@ -615,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 120502,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parallel World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50"
       },
@@ -635,22 +655,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROLLERCOASTER",
-        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
       "artists": [
-        {
-          "name": "Cadence Weapon",
-          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
-        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 207238,
-      "name": "tl;dr",
-      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
+      "duration_ms": 61375,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/57mkeOKwQQuNle97NWo2a8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "How Can It Be (feat. Maddee)",
+      "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
     },
     {
       "added_at": null,
@@ -688,42 +724,6 @@
           "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 240000,
-      "name": "How Can It Be (feat. Maddee)",
-      "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 61375,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/57mkeOKwQQuNle97NWo2a8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
       "duration_ms": 282000,
       "name": "She's Strong (feat. Maddee)",
       "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
@@ -743,6 +743,22 @@
       "duration_ms": 222720,
       "name": "Collage",
       "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Ashe Maree",
+      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
     }
   ],
   "unique_name": "This Is Harrison",

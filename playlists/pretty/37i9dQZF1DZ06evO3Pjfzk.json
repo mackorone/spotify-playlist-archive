@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 94670,
+  "num_followers": 94755,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADVRtImgjrWe6WXpEEzkuc6",
+  "snapshot_id": "aHBUAAAAAADI/uOJyTQrE053WW6WztAq",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
-        "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
       "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 226753,
-      "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
-      "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
+      "duration_ms": 204709,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
     },
     {
       "added_at": null,
@@ -527,18 +519,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+        "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
+        "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
       },
       "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 204709,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
+      "duration_ms": 226753,
+      "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
+      "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 175675,
-      "name": "Waste of Good Whiskey",
-      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
+      "duration_ms": 177727,
+      "name": "Breakin' Your Heart",
+      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 177727,
-      "name": "Breakin' Your Heart",
-      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
+      "duration_ms": 175675,
+      "name": "Waste of Good Whiskey",
+      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
     },
     {
       "added_at": null,

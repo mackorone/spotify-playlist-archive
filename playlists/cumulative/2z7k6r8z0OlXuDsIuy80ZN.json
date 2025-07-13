@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "esc",
+        "url": "https://open.spotify.com/album/7ya6c7cLB0oSqqvfZTQcH0"
+      },
+      "artists": [
+        {
+          "name": "Paul Thin",
+          "url": "https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183124,
+      "name": "esc",
+      "url": "https://open.spotify.com/track/4JcTBSL3PDxgFE407EO37q"
+    },
+    {
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
@@ -4492,7 +4510,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 221856,
       "name": "PA K",
       "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
@@ -5144,6 +5162,24 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "album": {
+        "name": "Si te vuelvo a llamar",
+        "url": "https://open.spotify.com/album/1ogdx4WsbRgWDBVM0tiR8q"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175754,
+      "name": "Si te vuelvo a llamar",
+      "url": "https://open.spotify.com/track/2tdpP18jNRTREK255JpMo5"
     },
     {
       "album": {

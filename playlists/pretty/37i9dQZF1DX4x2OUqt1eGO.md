@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,482 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,490 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 57 | [Silence Is Bliss \(feat\. Pandit Vishwa Mohan Bhatt\)](https://open.spotify.com/track/1EsiOtldv6cwty7wzjb21G) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Silence Is Bliss](https://open.spotify.com/album/4tINT5MiPsX1SSECjIHfzw) | 7:07 |
 | 58 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
 | 59 | [Natural Love \(Flute and Lake Only\)](https://open.spotify.com/track/52Rx75xXn70OvOPDegsT1e) | [Samsara Project Ensemble](https://open.spotify.com/artist/1gKj4YuZor2VUhBYDwab7a) | [Bansuri](https://open.spotify.com/album/6C5quIljQpenf33V5kXfxn) | 5:31 |
-| 60 | [Sadhana](https://open.spotify.com/track/6UcidIpOnWyscCvNWKnaPa) | [Vinayak A](https://open.spotify.com/artist/0rdwBKdUKRIp2t05MeQ7KV), [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Manoj Kumar](https://open.spotify.com/artist/5tgOvwp2QxSAhnnK2s3FX2) | [Sadhana](https://open.spotify.com/album/6JOn66aAncnEDWp31GKfjV) | 4:53 |
-| 61 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
+| 60 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
+| 61 | [Sadhana](https://open.spotify.com/track/6UcidIpOnWyscCvNWKnaPa) | [Vinayak A](https://open.spotify.com/artist/0rdwBKdUKRIp2t05MeQ7KV), [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Manoj Kumar](https://open.spotify.com/artist/5tgOvwp2QxSAhnnK2s3FX2) | [Sadhana](https://open.spotify.com/album/6JOn66aAncnEDWp31GKfjV) | 4:53 |
 | 62 | [Mohana](https://open.spotify.com/track/63QIf46bybNGLt5sKIfljg) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Fluid \(Flute Grooves by Naveen Kumar\)](https://open.spotify.com/album/0FznvOl4NZqN1J9X2xuFEC) | 6:40 |
 | 63 | [Venu](https://open.spotify.com/track/4iNkY671G1WKiFAzEvsT07) | [Martín Asaro](https://open.spotify.com/artist/0V3EGDQyGZgqEOBbWoK5Tk) | [Viajando Con El Viento](https://open.spotify.com/album/4Z2cYIf67ZZUJUTfkl2RpR) | 9:36 |
 | 64 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |

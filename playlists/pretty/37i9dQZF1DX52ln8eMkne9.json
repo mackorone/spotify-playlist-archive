@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 194002,
+  "num_followers": 194078,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
+        "name": "cozy you",
+        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 210734,
+      "name": "cozy you",
+      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 213010,
       "name": "Join Me in a Dream",
       "url": "https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
-        "name": "cozy you",
-        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 210734,
-      "name": "cozy you",
-      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Sweet Lorraine",
-      "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
+      "duration_ms": 158373,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/3y2T4X0ECN8LWG72gKIjFL"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -507,18 +507,18 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/3y2T4X0ECN8LWG72gKIjFL"
+      "duration_ms": 202200,
+      "name": "Sweet Lorraine",
+      "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
         "name": "Next Time",
         "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 318077,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -619,22 +619,6 @@
       "duration_ms": 250936,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
-        "name": "How Deep Is The Ocean",
-        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 318280,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -687,6 +671,22 @@
       "duration_ms": 250745,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "How Deep Is The Ocean",
+        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 318280,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "Cool Velvet: Stan Getz And Strings",
-        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
         "name": "Close to You (with Jacky Terrasson Trio)",
         "url": "https://open.spotify.com/album/55F0v4gDfpFdyLqhvFQcvY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 243640,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/5XSz5Jeo2aaNMEMIJnzSnC"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "Cool Velvet: Stan Getz And Strings",
+        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 306893,
-      "name": "I\u2019m Old Fashioned",
-      "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
         "name": "The Best Of Dianne Reeves",
         "url": "https://open.spotify.com/album/7CSRH0IYxm0dZNpfwkNKGz"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 356960,
       "name": "Misty",
       "url": "https://open.spotify.com/track/5qauSfvYgvZK1rRb0jKmo9"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 306893,
+      "name": "I\u2019m Old Fashioned",
+      "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 334933,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
         "name": "C\u00e2dencia",
         "url": "https://open.spotify.com/album/4vqL9Ic575a8taWB6WWju0"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 237013,
       "name": "C\u00e2dencia",
       "url": "https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 334933,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 227455,
-      "name": "Even in the Evenin'",
-      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/3V0kkAM0XktsMtD88qXHZO"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 305128,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/37HQHRDtFQ3H80fEgxiW9I"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 227455,
+      "name": "Even in the Evenin'",
+      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/2UcfJYKN2HaU3eUAzcQtif"
-      },
-      "artists": [
-        {
-          "name": "Georgia Mancio",
-          "url": "https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw"
-        },
-        {
-          "name": "Alan Broadbent",
-          "url": "https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/66lXU76DwetHysKwFyLLQd"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
       },
@@ -2403,6 +2383,26 @@
       "duration_ms": 448640,
       "name": "From a Mother to a Child",
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2UcfJYKN2HaU3eUAzcQtif"
+      },
+      "artists": [
+        {
+          "name": "Georgia Mancio",
+          "url": "https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw"
+        },
+        {
+          "name": "Alan Broadbent",
+          "url": "https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/66lXU76DwetHysKwFyLLQd"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "One Evening in July",
-        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
-        }
-      ],
-      "duration_ms": 296720,
-      "name": "Happy Little Sunshine Beam",
-      "url": "https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
         "name": "North by Northwest",
         "url": "https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 278045,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/1SZpjQdXuce3k12qfx6xJ1"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "One Evening in July",
+        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        }
+      ],
+      "duration_ms": 296720,
+      "name": "Happy Little Sunshine Beam",
+      "url": "https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "Blue Toy",
-        "url": "https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe"
-      },
-      "artists": [
-        {
-          "name": "Andrea Pozza Trio",
-          "url": "https://open.spotify.com/artist/5RMeOpbbCUeFI72QOUO4Bh"
-        }
-      ],
-      "duration_ms": 455273,
-      "name": "Blue Toy",
-      "url": "https://open.spotify.com/track/6gMCbMq9AZMCFbNIvOGSlL"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
         "name": "Julian",
         "url": "https://open.spotify.com/album/63QrOaQz8pdeXGG7XfTAYb"
       },
@@ -2843,6 +2827,22 @@
       "duration_ms": 221112,
       "name": "Julian",
       "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "Blue Toy",
+        "url": "https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe"
+      },
+      "artists": [
+        {
+          "name": "Andrea Pozza Trio",
+          "url": "https://open.spotify.com/artist/5RMeOpbbCUeFI72QOUO4Bh"
+        }
+      ],
+      "duration_ms": 455273,
+      "name": "Blue Toy",
+      "url": "https://open.spotify.com/track/6gMCbMq9AZMCFbNIvOGSlL"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -2899,6 +2899,22 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
+        "name": "Cloudy Treasures",
+        "url": "https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm"
+      },
+      "artists": [
+        {
+          "name": "Louise B\u00f8ttern",
+          "url": "https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Cloudy Treasures",
+      "url": "https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
         "name": "Early Autumn",
         "url": "https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p"
       },
@@ -2915,22 +2931,6 @@
       "duration_ms": 193255,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
-        "name": "Cloudy Treasures",
-        "url": "https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm"
-      },
-      "artists": [
-        {
-          "name": "Louise B\u00f8ttern",
-          "url": "https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Cloudy Treasures",
-      "url": "https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA"
     },
     {
       "added_at": "2025-04-04 04:00:16",
@@ -2991,22 +2991,6 @@
     {
       "added_at": "2025-04-04 04:00:16",
       "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
-    },
-    {
-      "added_at": "2025-04-04 04:00:16",
-      "album": {
         "name": "Listen Here",
         "url": "https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 341040,
       "name": "Sweet Kentucky Ham",
       "url": "https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz"
+    },
+    {
+      "added_at": "2025-04-04 04:00:16",
+      "album": {
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
     },
     {
       "added_at": "2025-04-04 04:00:16",

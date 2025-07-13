@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Mecna, Justin Bieber, BLACKPINK, Niky Savage, camoufly, Drake, Carla Hero, Marte, Quevedo e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,236 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,257 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 10 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 | 11 | [Pardon](https://open.spotify.com/track/4GHlt0rLK8dOC13iVAk1kO) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:53 |
 | 12 | [Morena](https://open.spotify.com/track/3Q8itzP1G5Hoef9VD27noH) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Morena](https://open.spotify.com/album/2m342Y3hqZ6UiF8jH57rnM) | 2:49 |
-| 13 | [Suavecita \(feat\. Rhove\)](https://open.spotify.com/track/6e7J7EkckE4tM6MKPpCMfX) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [DIASPO](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:24 |
+| 13 | [Suavecita \(feat\. Rhove\)](https://open.spotify.com/track/6e7J7EkckE4tM6MKPpCMfX) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [DIASPO MIXTAPE](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:24 |
 | 14 | [Hooligans](https://open.spotify.com/track/5xYtSKU6Fz2ZwY491faFIs) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Hooligans](https://open.spotify.com/album/1XoGxiGWfdPCHH2ItOz3SM) | 2:53 |
 | 15 | [Our Time](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Our Time](https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz) | 2:41 |
 | 16 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 |

@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -5252,7 +5252,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -13528,7 +13528,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 165014,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/47wy1oZsKUtxGV8YpbvYTS"
@@ -20774,7 +20774,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -31304,7 +31304,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -32194,6 +32194,24 @@
       "duration_ms": 255363,
       "name": "Malo",
       "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
+    },
+    {
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
       "album": {
@@ -38694,7 +38712,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -63462,6 +63480,24 @@
       "duration_ms": 199973,
       "name": "\u30d9\u30b5\u30e1\u30fb\u30e0\u30fc\u30c1\u30e7",
       "url": "https://open.spotify.com/track/26nkboSGZauLZQJo2Ni1vA"
+    },
+    {
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173037,
+      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
     },
     {
       "album": {

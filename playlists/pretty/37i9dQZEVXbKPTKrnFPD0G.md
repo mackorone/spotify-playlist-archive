@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,345 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,378 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [QUE CABRONA](https://open.spotify.com/track/2oZqk6nAy2CSAcmINCMi2N) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [QUE CABRONA](https://open.spotify.com/album/2RSVEhLOpYwQifGU7rxSAd) | 2:48 |
 | 50 | [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 |
 
-Snapshot ID: `MASC0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MAXWqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

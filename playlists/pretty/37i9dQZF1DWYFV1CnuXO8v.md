@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,989 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,038 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 24 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 |
 | 25 | [Aamel Eh Fe Hayatak](https://open.spotify.com/track/0a25CdetJLml52JdQ1ravw) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0), [Mariam Amer Mounib](https://open.spotify.com/artist/4wc11xEY5JEhocVGyceo3x) | [Aamel Eh Fe Hayatak](https://open.spotify.com/album/3pwX3CktXBbpAiQuerfZUK) | 3:18 |
 | 26 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 |
-| 27 | [Helm Seneen](https://open.spotify.com/track/16himVwawH5yHZGEj8nhCd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/7u14kRIlBjFL0sAfNnaOis) | 3:59 |
-| 28 | [Alby Etmannah](https://open.spotify.com/track/26UNapCN9Gu2z4ZdW8sPRj) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:10 |
+| 27 | [Alby Etmannah](https://open.spotify.com/track/26UNapCN9Gu2z4ZdW8sPRj) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:10 |
+| 28 | [Helm Seneen](https://open.spotify.com/track/16himVwawH5yHZGEj8nhCd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/7u14kRIlBjFL0sAfNnaOis) | 3:59 |
 | 29 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 |
 | 30 | [Esmaa Kalamy](https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Hob Emtelak](https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk) | 4:04 |
 | 31 | [ياما ليالى وانت مش معايا](https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [ياما ليالى وانت مش معايا](https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3) | 3:36 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 46 | [Mawahashtkesh !!? \- From Hormone El Saada Album](https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Mawahashtkesh !!?](https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk) | 5:27 |
 | 47 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 |
 | 48 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 |
-| 49 | [Hala beek ya medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala beek ya medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 |
-| 50 | [قلبى و روحى و عمرى](https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 4:48 |
+| 49 | [قلبى و روحى و عمرى](https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 4:48 |
+| 50 | [Hala beek ya medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala beek ya medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 |
 | 51 | [Men Da Elly Nesik](https://open.spotify.com/track/40nMdOO13b130ubQmVPGN3) | [Bishoy Safwat](https://open.spotify.com/artist/775ljvQOg3RywKlWUpuAzj), [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [Men Da Elly Nesik](https://open.spotify.com/album/2Rnf3KDkagUqQL78Lh1TVO) | 1:04 |
 | 52 | [Khaleke Fe Hodny el Leila](https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Khaleke Fe Hodny el Leila](https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4) | 3:20 |
 | 53 | [برتاح معاك](https://open.spotify.com/track/13fRYCIjPIr5fi9Z3a9lGW) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:35 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 57 | [انتي اعظم اختيار](https://open.spotify.com/track/0IsnB2bkWr1OYyvfVsseLs) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [انتي اعظم اختيار](https://open.spotify.com/album/17EepIsYf9bOZkyFzgZpdO) | 3:04 |
 | 58 | [Arraby Leya](https://open.spotify.com/track/2CCuNRmNuZXqlnSLs75qN4) | [Samo Zaen](https://open.spotify.com/artist/4s7xsFTPsZZcIzKv0Ryg22) | [Arraby Leya](https://open.spotify.com/album/2jBsjUNWT1qKhYEZVXlnj0) | 4:14 |
 | 59 | [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC) | 3:35 |
-| 60 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
-| 61 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 |
-| 62 | [Ala Bali](https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Ala Bali](https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9) | 3:14 |
+| 60 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 |
+| 61 | [Ala Bali](https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Ala Bali](https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9) | 3:14 |
+| 62 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
 | 63 | [Ya Leil Ya Ein](https://open.spotify.com/track/2SXXbIKHfFL4WcmzLkDrMn) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Leil Ya Ein](https://open.spotify.com/album/2Euy1OmiFdS02tYAG6fdvL) | 3:31 |
 | 64 | [Ahla Wahda](https://open.spotify.com/track/4QxpDKq6o3hyCbF3ExDDiG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ahla Wahda](https://open.spotify.com/album/3rfUZPJyBYgVeZqA15mGhJ) | 3:05 |
 | 65 | [Ghoroub](https://open.spotify.com/track/4HzYwVromZpF1qgANSvrxU) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ghoroub](https://open.spotify.com/album/5LjrRV8ymiVuHNEWBYJhdR) | 3:56 |

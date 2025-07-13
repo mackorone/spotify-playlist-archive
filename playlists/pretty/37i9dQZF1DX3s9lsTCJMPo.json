@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 128467,
+  "num_followers": 128523,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 433266,
-      "name": "Calypso Music",
-      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
+      "duration_ms": 309373,
+      "name": "The Hammer",
+      "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 309373,
-      "name": "The Hammer",
-      "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
+      "duration_ms": 433266,
+      "name": "Calypso Music",
+      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Soca for De World",
+        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
+      },
+      "artists": [
+        {
+          "name": "Nigel Lewis",
+          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
+        }
+      ],
+      "duration_ms": 317857,
+      "name": "Movin To De Left",
+      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold",
         "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 395866,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Caribbean Road March 2001 and More",
-        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Tay Lay Lay",
-      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca for De World",
-        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
+        "name": "Caribbean Road March 2001 and More",
+        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
       },
       "artists": [
         {
-          "name": "Nigel Lewis",
-          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
         }
       ],
-      "duration_ms": 317857,
-      "name": "Movin To De Left",
-      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
+      "duration_ms": 273693,
+      "name": "Tay Lay Lay",
+      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Explosion",
-        "url": "https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM"
-      },
-      "artists": [
-        {
-          "name": "Lord Shorty Creator of Soca Music",
-          "url": "https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2"
-        }
-      ],
-      "duration_ms": 309300,
-      "name": "Higher World of Music",
-      "url": "https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Trini Gold",
         "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 191440,
       "name": "Party Start",
       "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Explosion",
+        "url": "https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM"
+      },
+      "artists": [
+        {
+          "name": "Lord Shorty Creator of Soca Music",
+          "url": "https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2"
+        }
+      ],
+      "duration_ms": 309300,
+      "name": "Higher World of Music",
+      "url": "https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca 101 Vol.2",
-        "url": "https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi"
-      },
-      "artists": [
-        {
-          "name": "Mac Fingall",
-          "url": "https://open.spotify.com/artist/2lpMOrBgegh76K8t1QjiLu"
-        }
-      ],
-      "duration_ms": 292986,
-      "name": "Big Belly Man",
-      "url": "https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Trini Gold",
         "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 255173,
       "name": "Tribute to Sundar",
       "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca 101 Vol.2",
+        "url": "https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi"
+      },
+      "artists": [
+        {
+          "name": "Mac Fingall",
+          "url": "https://open.spotify.com/artist/2lpMOrBgegh76K8t1QjiLu"
+        }
+      ],
+      "duration_ms": 292986,
+      "name": "Big Belly Man",
+      "url": "https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg"
     },
     {
       "added_at": "2024-08-06 01:00:53",

@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 5731,
+  "num_followers": 5735,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAc0SUECJh1yPSjKfEwzkMh",
+  "snapshot_id": "aHBUAAAAAABLQnEN1b824S8OCu8JUpJA",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life {Freestyle}",
-        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 92589,
-      "name": "Good Life {Freestyle}",
-      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Life {Freestyle}",
+        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 92589,
+      "name": "Good Life {Freestyle}",
+      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
     },
     {
       "added_at": null,
@@ -1035,22 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GENESIS",
-        "url": "https://open.spotify.com/album/17yWmoY733ymMQm4zhmicN"
+        "name": "Sick Six",
+        "url": "https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD"
       },
       "artists": [
         {
-          "name": "Leczy",
-          "url": "https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT"
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 146076,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/5IMibq46O9uX2m0wog6eus"
+      "duration_ms": 128429,
+      "name": "Say No to Big Fall",
+      "url": "https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk"
     }
   ],
   "unique_name": "This Is Zlatan",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 60428,
+  "num_followers": 60444,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACIFzzvQQHZaLxkenNvwIVg",
+  "snapshot_id": "aHBUAAAAAAA7+I2VmX3pUWPh8OHzmT4E",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revelaciones de un Cholo (Explicit)",
-        "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 236472,
-      "name": "Revelaciones de un Cholo",
-      "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 170965,
       "name": "Triste Historia",
       "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revelaciones de un Cholo (Explicit)",
+        "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 236472,
+      "name": "Revelaciones de un Cholo",
+      "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Rey De Los Paquetes",
+        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
+      },
+      "artists": [
+        {
+          "name": "Los De La 9",
+          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 122212,
+      "name": "El Rey de Los Paquetes",
+      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Problemas Mentales",
         "url": "https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 171000,
       "name": "Problemas Mentales",
       "url": "https://open.spotify.com/track/56X29F9THJqhofWefcdvRk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi C\u00edrculo Vicioso",
-        "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
-      },
-      "artists": [
-        {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 219301,
-      "name": "Mi C\u00edrculo Vicioso",
-      "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
     },
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey De Los Paquetes",
-        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
+        "name": "Mi C\u00edrculo Vicioso",
+        "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
       },
       "artists": [
         {
-          "name": "Los De La 9",
-          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
         },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 122212,
-      "name": "El Rey de Los Paquetes",
-      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
+      "duration_ms": 219301,
+      "name": "Mi C\u00edrculo Vicioso",
+      "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tirabalas",
         "url": "https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 166282,
       "name": "El Tirabalas",
       "url": "https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
     },
     {
       "added_at": null,

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 | 2023-01-30 | 2025-06-23 |
+| [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 | 2023-01-30 |  |
 | [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 | 2025-03-12 | 2025-06-07 |
 | [24 Hours In A&E](https://open.spotify.com/track/0hjTQE4rkJrFHmacqXdz0b) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [24 Hours In A&E](https://open.spotify.com/album/2KpGbl9FZaaRkOdNpG7ddI) | 2:32 | 2024-10-06 | 2025-02-08 |
 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 | 2023-01-10 |  |
@@ -104,7 +104,7 @@
 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 | 2023-02-24 |  |
 | [Do You Want It?](https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Do You Want It?](https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4) | 3:10 | 2023-01-10 |  |
 | [Does It Rain on You?](https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [In Separation](https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo) | 3:02 | 2023-07-28 | 2023-10-21 |
-| [Does Only God Know That We're Lonely?](https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq) | 3:02 | 2024-08-21 |  |
+| [Does Only God Know That We're Lonely?](https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq) | 3:02 | 2024-08-21 | 2025-07-13 |
 | [Dog Dribble](https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Dog Dribble](https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23) | 4:15 | 2025-03-12 |  |
 | [Don't Follow Me Down](https://open.spotify.com/track/4DPtu1dnfsPUN8HH9ppwbM) | [Liam Fender](https://open.spotify.com/artist/32F0MPkMvvQEeYt4IqFdW6) | [Don't Follow Me Down](https://open.spotify.com/album/3QKUZXcLdxFz1HV4mI8CpG) | 3:52 | 2023-02-24 | 2023-04-19 |
 | [Don't Let It Get You Down](https://open.spotify.com/track/4QF5iy2ayntan3pbOfAGKZ) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Change the Show](https://open.spotify.com/album/0dI32Mcr4eYerUWYWEuB28) | 3:59 | 2023-01-10 | 2023-04-19 |

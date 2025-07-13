@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-198 songs - 11 hr 28 min
+199 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/0NdKnpfDtqT4ejsW4H58x4) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/77jeUjXkwa8D5WQYIs8eBu) | 4:28 | 2023-12-23 | 2024-12-20 |
 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c) | 4:28 | 2022-09-08 | 2023-12-24 |
 | [BE YOUR GIRL \- KAYTRANADA REMIX](https://open.spotify.com/track/3zp3Mq8krAb1067UL94zJq) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BE YOUR GIRL \(KAYTRANADA REMIX\)](https://open.spotify.com/album/1TDOE0Bglplp7Z77cg4JrM) | 4:28 | 2024-12-19 |  |
+| [Beautiful People](https://open.spotify.com/track/4U13I9jihFBmAhw7z3JfTr) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 3:09 | 2025-07-12 |  |
 | [Best Rapper in the Fuckin World](https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Best Rapper in the Fuckin World](https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit) | 2:28 | 2022-09-08 |  |
 | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \- KAYTRANADA Remix](https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \(KAYTRANADA Remix\)](https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH) | 3:47 | 2022-09-08 |  |
 | [Blakkst Skn](https://open.spotify.com/track/3Hvexq1TWtvQxFvSzq26Ku) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Blakkst Skn](https://open.spotify.com/album/7ESc0SUNBXBlHv3h5MpBo0) | 3:30 | 2022-09-08 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: GIVĒON
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,673 likes - 69 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,674 likes - 69 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

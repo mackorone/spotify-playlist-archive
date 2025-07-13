@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: João Pedro e Fellipe, Maiara & Maraisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,351 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,424 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

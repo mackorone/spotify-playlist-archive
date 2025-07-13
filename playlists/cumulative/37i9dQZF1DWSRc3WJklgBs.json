@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
+    },
+    {
+      "album": {
         "name": "All Your Love (Remixes)",
         "url": "https://open.spotify.com/album/6CNksF3G0OByFKjGfC9ZsA"
       },
@@ -5610,6 +5628,28 @@
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "album": {
+        "name": "Could You Be Loved (with LP Giobbi)",
+        "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286879,
+      "name": "Could You Be Loved (with LP Giobbi)",
+      "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
     },
     {
       "album": {
@@ -17736,7 +17776,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 216796,
       "name": "Magnets in the Dark (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/2jIWIrT95AuZoHmBl6DIBX"
@@ -21754,7 +21794,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 205799,
       "name": "Rely On Me",
       "url": "https://open.spotify.com/track/73ESZmsTYNChN3z1x2nhy8"

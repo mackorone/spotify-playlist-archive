@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,270 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,268 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 23 | [Bem\-Aventurado \(Blessed\)](https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:08 |
 | 24 | [Ele Vem / A Cidade Santa \- Ao Vivo](https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Ele Vem / A Cidade Santa \(Ao Vivo\)](https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ) | 5:29 |
 | 25 | [A Bênção \(The Blessing\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [A Bênção \(The Blessing\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW) | 7:07 |
-| 26 | [Pula Pula](https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Nicolas Barros](https://open.spotify.com/artist/1tRRhPZ76eosj8BXhLc9Dx) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 3:22 |
-| 27 | [Esperança](https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:32 |
+| 26 | [Esperança](https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:32 |
+| 27 | [Pula Pula](https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Nicolas Barros](https://open.spotify.com/artist/1tRRhPZ76eosj8BXhLc9Dx) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 3:22 |
 | 28 | [Poder Pra Salvar \(Mighty to Save\)](https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 5:59 |
 | 29 | [Te Adorar é o Meu Prazer](https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:34 |
-| 30 | [Brilha Tua Luz](https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Brilha Tua Luz](https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7) | 4:55 |
-| 31 | [Lugar Seguro](https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:10 |
+| 30 | [Lugar Seguro](https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:10 |
+| 31 | [Brilha Tua Luz](https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Brilha Tua Luz](https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7) | 4:55 |
 | 32 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 |
 | 33 | [Luz da Esperança](https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Luz da Esperança](https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN) | 5:11 |
 | 34 | [Consagração / Louvor ao Rei \- Ao Vivo](https://open.spotify.com/track/49z6QBLAYJDbITRbidCoMn) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 7:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 49 | [Pisa na Muralha](https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:22 |
 | 50 | [1 Coríntios 13](https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:57 |
 
-Snapshot ID: `aG8CgAAAAADc63jWdtrDoQPx/9LxiBD2`
+Snapshot ID: `aHBUAAAAAACvR71ORuXmWhLF22O7ZF/8`

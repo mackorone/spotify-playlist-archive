@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Miley Cyrus.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,091 likes - 111 songs - 5 hr 57 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,089 likes - 111 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 12 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
 | 13 | [Night Diving \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/4Qn5FKe3I2pNL64so6gvX3) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Night Diving \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/53eOgC0QJEmQ7QoEFK37Pn) | 3:34 |
 | 14 | [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 |
-| 15 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 15 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 16 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
 | 17 | [I HAVEN'T SAID ENOUGH](https://open.spotify.com/track/40L1n9k9hAIgfDpIHTGvHi) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:19 |
 | 18 | [I Hope](https://open.spotify.com/track/3dI1YkpKCJMj2tlZFWPxXE) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Hope](https://open.spotify.com/album/3gVWMKoHvzr5UjyH59oB6A) | 3:20 |

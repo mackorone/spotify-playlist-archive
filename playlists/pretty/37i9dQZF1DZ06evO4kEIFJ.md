@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 
 > This is Lil Nas X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,287 likes - 32 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,300 likes - 32 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 | 11 | [Panini](https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:54 |
 | 12 | [TALES OF DOMINICA](https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:26 |
 | 13 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 |
-| 14 | [LIGHT AGAIN!](https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LIGHT AGAIN!](https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL) | 2:57 |
+| 14 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 |
 | 15 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
 | 16 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 |
-| 17 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 |
+| 17 | [LIGHT AGAIN!](https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LIGHT AGAIN!](https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL) | 2:57 |
 | 18 | [P.B.S.](https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:24 |
 | 19 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 |
 | 20 | [DONT WANT IT](https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:10 |
-| 21 | [RIGHT THERE!](https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [RIGHT THERE!](https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso) | 3:18 |
-| 22 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 |
+| 21 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 |
+| 22 | [RIGHT THERE!](https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [RIGHT THERE!](https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso) | 3:18 |
 | 23 | [LEAN ON MY BODY](https://open.spotify.com/track/1UjT0n2YNQHqk4yL86CWrS) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LEAN ON MY BODY](https://open.spotify.com/album/0jhD8ONMLsw0NWEq9TIg3p) | 3:25 |
 | 24 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 |
 | 25 | [BIG DUMMY!](https://open.spotify.com/track/2MI0r68gCKVy5T11mQ4sKv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:05 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 | 31 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/3WuWoY8tx0ySmCd5ErgEiF) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:31 |
 | 32 | [SWISH](https://open.spotify.com/track/1pYuYyYV4JFZblFTPN6xK2) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:41 |
 
-Snapshot ID: `aG8CgAAAAACoVae7kisxLfrykZx+kxEn`
+Snapshot ID: `aHBUAAAAAAB4qdkKgID7Q4iOCG2OVwX4`

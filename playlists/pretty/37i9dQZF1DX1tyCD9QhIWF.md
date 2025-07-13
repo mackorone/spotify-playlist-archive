@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,292,153 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,292,178 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 33 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 34 | [Weird Leisure](https://open.spotify.com/track/0cJZTQ1x6ko3gbtoLKaoQe) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 4:08 |
 | 35 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 |
-| 36 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
-| 37 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
+| 36 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
+| 37 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
 | 38 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 |
 | 39 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 |
 | 40 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 43 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
 | 44 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
 | 45 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
-| 46 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 |
-| 47 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 |
+| 46 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 |
+| 47 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 |
 | 48 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 49 | [Just My Type](https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Just My Type](https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh) | 3:05 |
 | 50 | [Don't You Feel Amazing?](https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:45 |

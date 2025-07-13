@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-1,221 songs - 2 day 15 hr 14 min
+1,222 songs - 2 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Innocent Love](https://open.spotify.com/track/71vojPlEiXkv0ZGWyfWqFj) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Innocent Love](https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5) | 3:02 | 2022-03-03 | 2022-04-19 |
 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 | 2021-12-16 | 2022-04-20 |
 | [iPad](https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [iPad](https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp) | 3:22 | 2022-03-24 | 2022-07-29 |
+| [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-07-11 |  |
 | [Is It Just Me? \(feat\. Charlie Puth\)](https://open.spotify.com/track/5tqNWWiySiABLrGAvSWsO5) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Is It Just Me? \(feat\. Charlie Puth\)](https://open.spotify.com/album/6602j3WLi4WLHAjwGWW6T3) | 2:34 | 2021-12-16 | 2022-07-29 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-26 | 2024-12-06 |
 | [Is It Love](https://open.spotify.com/track/303r6bmyBvf5lpaR3CbaLm) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [Is It Love](https://open.spotify.com/album/5XhKpjiMt6QCOhhSjaLgSL) | 3:28 | 2022-04-14 | 2022-04-19 |
@@ -1126,7 +1127,7 @@
 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-28 | 2024-12-06 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-20 | 2024-05-24 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 |  |
-| [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-23 |  |
+| [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-23 | 2025-07-13 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-22 | 2024-05-24 |
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 | 2021-12-16 | 2022-07-27 |
 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 | 2022-03-24 | 2022-07-28 |

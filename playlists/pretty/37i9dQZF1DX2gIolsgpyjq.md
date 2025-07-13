@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > 10 years of the best new music by independent artists in the Nordics\. Cover: Raghd
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,198 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,205 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

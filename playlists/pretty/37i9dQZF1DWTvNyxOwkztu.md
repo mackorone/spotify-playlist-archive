@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,012,772 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,012,946 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 27 | [Don't Tell Me I Can't Have It](https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Don't Tell Me I Can't Have It](https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx) | 3:07 |
 | 28 | [The Future](https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Future](https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s) | 3:44 |
 | 29 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 |
-| 30 | [Over You](https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [wavecrvsh](https://open.spotify.com/artist/5egmvcmVXBPzk6y3A9Tqrm), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Over You](https://open.spotify.com/album/4LqGhps0CA546STC9A5Neq) | 2:38 |
-| 31 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
+| 30 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
+| 31 | [Over You](https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [wavecrvsh](https://open.spotify.com/artist/5egmvcmVXBPzk6y3A9Tqrm), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Over You](https://open.spotify.com/album/4LqGhps0CA546STC9A5Neq) | 2:38 |
 | 32 | [Flowers](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Flowers](https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd) | 3:02 |
 | 33 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 |
 | 34 | [Here with You](https://open.spotify.com/track/2dNtChXYtvpT7SD7Bfe5KS) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Buchs](https://open.spotify.com/artist/0JRjFR8wJVtzTungOU3X6V), [flower thief](https://open.spotify.com/artist/3ZKGMKJZWvAHEC2guepIfG) | [Here with You](https://open.spotify.com/album/1C0LrrRlTwweXHWz0QpwWI) | 2:19 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 55 | [I Feel Warmer Already](https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [I Feel Warmer Already](https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS) | 2:30 |
 | 56 | [Looking for You](https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv) | [Novino](https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X) | [Looking for You](https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN) | 1:55 |
 | 57 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 |
-| 58 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 |
-| 59 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 |
-| 60 | [Looking 4 Love](https://open.spotify.com/track/3nKX4UBDbwUHLU97LmEOsq) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Looking 4 Love](https://open.spotify.com/album/2HQOiUVmhd2PGJOomZXFBo) | 2:32 |
-| 61 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
+| 58 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 |
+| 59 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 |
+| 60 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
+| 61 | [Looking 4 Love](https://open.spotify.com/track/3nKX4UBDbwUHLU97LmEOsq) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Looking 4 Love](https://open.spotify.com/album/2HQOiUVmhd2PGJOomZXFBo) | 2:32 |
 | 62 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
 | 63 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
 | 64 | [Dreams](https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Dreams](https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b) | 3:27 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 86 | [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 |
 | 87 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 |
 | 88 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 |
-| 89 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 |
-| 90 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 |
+| 89 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 |
+| 90 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 |
 | 91 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 |
 | 92 | [Dont Let Go](https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Dont Let Go](https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV) | 3:24 |
 | 93 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 95 | [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 |
 | 96 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 |
 | 97 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 |
-| 98 | [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 |
-| 99 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 |
-| 100 | [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 |
+| 98 | [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 |
+| 99 | [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 |
+| 100 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 |
 
 Snapshot ID: `aHCMTQAAAAB9d7Xo5gR97WNBDQkKbOKP`

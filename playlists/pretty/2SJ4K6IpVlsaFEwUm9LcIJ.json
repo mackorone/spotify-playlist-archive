@@ -1,12 +1,12 @@
 {
   "description": "she\u2019s back (what i&#x27;m listening to july-aug 2025)",
-  "num_followers": 23156,
+  "num_followers": 23157,
   "original_name": "the return of cookie",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMx8AtFJeWIOa53Nsi76gC7v7BSxAy",
+  "snapshot_id": "AAAMzFcdj0R9b9ze3ty3DslUdY2RzHoS",
   "tracks": [
     {
       "added_at": "2025-07-03 23:45:51",
@@ -431,6 +431,62 @@
       "duration_ms": 201826,
       "name": "Spangle",
       "url": "https://open.spotify.com/track/2UWiko8D4Oqi4qnELqlNup"
+    },
+    {
+      "added_at": "2025-07-12 18:46:29",
+      "album": {
+        "name": "GULP",
+        "url": "https://open.spotify.com/album/1kBPEN3NIVwjdmIjjNk9vB"
+      },
+      "artists": [
+        {
+          "name": "Facta",
+          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Skyline 4",
+      "url": "https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw"
+    },
+    {
+      "added_at": "2025-07-12 18:57:22",
+      "album": {
+        "name": "So I Can See You",
+        "url": "https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo"
+      },
+      "artists": [
+        {
+          "name": "TONE",
+          "url": "https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei"
+        },
+        {
+          "name": "Coby Sey",
+          "url": "https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX"
+        }
+      ],
+      "duration_ms": 184856,
+      "name": "So I Can See You",
+      "url": "https://open.spotify.com/track/5ytSN7DOaQxcD6xekBr2hi"
+    },
+    {
+      "added_at": "2025-07-12 18:51:02",
+      "album": {
+        "name": "So I Can See You (Remixes)",
+        "url": "https://open.spotify.com/album/5FKCLvPPIlr7wwaDXaYbrE"
+      },
+      "artists": [
+        {
+          "name": "TONE",
+          "url": "https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei"
+        },
+        {
+          "name": "Raisa K",
+          "url": "https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Dawn - Raisa K Sunset Remix",
+      "url": "https://open.spotify.com/track/3UmAc2ov9CpMzr2JeO2cCl"
     }
   ],
   "unique_name": "the return of cookie",

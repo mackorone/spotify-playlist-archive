@@ -2673,6 +2673,32 @@
     },
     {
       "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154066,
+      "name": "Ace Trumpets",
+      "url": "https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa"
+    },
+    {
+      "album": {
         "name": "Ace Trumpets",
         "url": "https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y"
       },
@@ -5924,7 +5950,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -21712,7 +21738,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/2St2hvEaab5swGb99I3wix"
@@ -21730,7 +21756,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
@@ -37226,7 +37252,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 116790,
       "name": "Kick Out",
       "url": "https://open.spotify.com/track/5x3QYMOW85TDp8x1CAvSHQ"
@@ -47566,7 +47592,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 247071,
       "name": "Naiilang",
       "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
@@ -51908,7 +51934,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 206711,
       "name": "Outside",
       "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
@@ -65418,24 +65444,6 @@
     {
       "album": {
         "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2025-07-03",
-      "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
-      "duration_ms": 166773,
-      "name": "Strategy",
-      "url": "https://open.spotify.com/track/22fSzde77hjB052Vo155LF"
-    },
-    {
-      "album": {
-        "name": "STRATEGY",
         "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
       },
       "artists": [
@@ -65446,7 +65454,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 166773,
       "name": "Strategy",
       "url": "https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5"
@@ -65472,6 +65480,24 @@
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+    },
+    {
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166773,
+      "name": "Strategy (from the Netflix film KPop Demon Hunters)",
+      "url": "https://open.spotify.com/track/22fSzde77hjB052Vo155LF"
     },
     {
       "album": {
@@ -72174,7 +72200,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 163930,
       "name": "Touch Me Like a Gangster",
       "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"
@@ -78410,7 +78436,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 157191,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/16nFpuPZAKcXg84rssagIc"
@@ -78428,7 +78454,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 157191,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"

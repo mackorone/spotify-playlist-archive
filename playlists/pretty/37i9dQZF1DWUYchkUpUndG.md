@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: TESTIMONY JAGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,987 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,999 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 13 | [Desire \- Live](https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Desire \(Live\)](https://open.spotify.com/album/2jdNxHWLRdhZg3cer80eOu) | 9:11 |
 | 14 | [This Your Love II](https://open.spotify.com/track/0BvwcI1zzRHU9pjKFCxITr) | [Chuks Paschal](https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [This Your Love II](https://open.spotify.com/album/6QPzWzNj5cVcmD3UENUrVo) | 2:51 |
 | 15 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 |
-| 16 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:43 |
+| 16 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 |
 | 17 | [Izinto](https://open.spotify.com/track/6rxSBpVdlznmxuoSZhCObs) | [mashka](https://open.spotify.com/artist/5TW7STulWrwTaRCN9EBVbh) | [Lokollohang](https://open.spotify.com/album/16Kbg0yliilgW4RRL9wX9b) | 3:42 |
 | 18 | [My Light \- Live](https://open.spotify.com/track/0NMCdMucfhqmFmB7mrYdx3) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [My Light \(Live\)](https://open.spotify.com/album/3RueNJFVQ8lozoKnqINFLL) | 8:50 |
 | 19 | [Karamin Haske](https://open.spotify.com/track/5VeXbNPYuhvoWQYMFZtix7) | [Moses Eze](https://open.spotify.com/artist/4S4H6Q2AjmqM9tEIeFRbMm) | [Karamin Haske](https://open.spotify.com/album/3qbjUn1047WuW54oehNbBM) | 3:33 |

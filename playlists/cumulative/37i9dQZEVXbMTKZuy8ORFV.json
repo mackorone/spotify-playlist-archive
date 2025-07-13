@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 168140,
       "name": "Amiga M\u00eda, Ese hombre No Se Toca",
       "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
@@ -3468,7 +3468,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 188641,
       "name": "Billyeoon Goyangi (Do the Dance)",
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
@@ -6420,7 +6420,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 312536,
       "name": "Confesiones",
       "url": "https://open.spotify.com/track/5Q0pJnkWxsqv7KNGLVx2Ta"
@@ -8970,7 +8970,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 176546,
       "name": "El Escritor Del Cuento",
       "url": "https://open.spotify.com/track/3AHzX9NgR1hZvC2iaUcpQD"
@@ -9506,7 +9506,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 191493,
       "name": "En El Medio",
       "url": "https://open.spotify.com/track/4tJLcTXIOC1xqpyyUYGShP"
@@ -14828,7 +14828,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 222003,
       "name": "La Prima",
       "url": "https://open.spotify.com/track/7uJgh0lXZQtOeXZXcipBhi"
@@ -14888,7 +14888,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 188571,
       "name": "La revancha",
       "url": "https://open.spotify.com/track/3SMBMGIjc5OrasdvWtcNLD"
@@ -16783,6 +16783,24 @@
     },
     {
       "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "album": {
         "name": "Mambinho Brasile\u00f1o",
         "url": "https://open.spotify.com/album/072mxyTA0YJiOxk61aID0u"
       },
@@ -18335,6 +18353,24 @@
     },
     {
       "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Mis D\u00edas A Tu Suerte",
+      "url": "https://open.spotify.com/track/0XRJc66Gcvq8F98KE1TXD8"
+    },
+    {
+      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
@@ -18572,7 +18608,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 86953,
       "name": "Montagem Bandido",
       "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
@@ -20288,7 +20324,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
@@ -25472,7 +25508,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 244878,
       "name": "SENDA",
       "url": "https://open.spotify.com/track/5fswOZtpTleF5VWtB4dfcP"
@@ -26718,7 +26754,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
@@ -28846,7 +28882,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"

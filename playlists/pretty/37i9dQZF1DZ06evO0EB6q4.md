@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,523 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,588 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 32 | [Sólo Tú](https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:44 |
 | 33 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
 | 34 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
-| 35 | [Arreglándome y Dañándome](https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6) | 4:04 |
-| 36 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
+| 35 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
+| 36 | [Arreglándome y Dañándome](https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6) | 4:04 |
 | 37 | [Diálogos de Paz](https://open.spotify.com/track/2woSoLI9JC4JpF7kw6v8vc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Diálogos de Paz](https://open.spotify.com/album/736bsgKua2P9W13gSIMKAg) | 3:10 |
 | 38 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
 | 39 | [LQRA Session \#7](https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [LQRA Session \#7](https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 |
 | 50 | [Me Dañas Por Deporte](https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:40 |
 
-Snapshot ID: `aG8CgAAAAACROzgtr3szbDQ464rXX3wF`
+Snapshot ID: `aHBUAAAAAAD0AqosIpnZ/uRQ4f6XhJEj`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,394 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,408 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mirar Que Te Vas](https://open.spotify.com/track/2VLNxTDw9navilDsX6nNhL) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mirar Que Te Vas](https://open.spotify.com/album/5vGNBLsJMASajWHWu51RaN) | 4:07 |
-| 2 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
+| 1 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
+| 2 | [Mirar Que Te Vas](https://open.spotify.com/track/2VLNxTDw9navilDsX6nNhL) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mirar Que Te Vas](https://open.spotify.com/album/5vGNBLsJMASajWHWu51RaN) | 4:07 |
 | 3 | [De Madrid a París](https://open.spotify.com/track/1v0a2XPbqk40rKlIiEFQCS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [De Madrid a ParÍs](https://open.spotify.com/album/3ilZ3b1wYpkJRa9UaNsodz) | 4:17 |
 | 4 | [Marbella](https://open.spotify.com/track/3xmGmwtUM3tpsPArcYYAQ4) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:50 |
 | 5 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 |
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 13 | [cómo dormiste?](https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:03 |
 | 14 | [Tus Red flags](https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:10 |
 | 15 | [Blindajes Peña \(En Vivo\)](https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 4:05 |
-| 16 | [Cupido](https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cupido](https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY) | 2:46 |
+| 16 | [Prometiste](https://open.spotify.com/track/3ItPf9dxL8PGKiwGtTzzSA) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK) | 3:29 |
 | 17 | [Malas Decisiones](https://open.spotify.com/track/4RVbwkl3iBtvYCNSDWSPN7) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:28 |
-| 18 | [Prometiste](https://open.spotify.com/track/3ItPf9dxL8PGKiwGtTzzSA) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK) | 3:29 |
+| 18 | [Cupido](https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cupido](https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY) | 2:46 |
 | 19 | [La Belikada](https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw) | 2:33 |
-| 20 | [La Receta](https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta](https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX) | 2:16 |
+| 20 | [Sal De Tu Casa](https://open.spotify.com/track/3CoAErFmTlm3nEaXUof1GS) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Sal De Tu Casa](https://open.spotify.com/album/2DhhVLtsUABmza86yvCXvW) | 2:26 |
 | 21 | [La Invitación](https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:13 |
-| 22 | [Sal De Tu Casa](https://open.spotify.com/track/3CoAErFmTlm3nEaXUof1GS) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Sal De Tu Casa](https://open.spotify.com/album/2DhhVLtsUABmza86yvCXvW) | 2:26 |
+| 22 | [La Receta](https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta](https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX) | 2:16 |
 | 23 | [Mi Gata Fav](https://open.spotify.com/track/6YbSgcWfz8MSzXL2ezZDkN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:31 |
 | 24 | [No Voy Con Rodeos](https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:47 |
 | 25 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [El Mz](https://open.spotify.com/track/388legjpqnOgFciK1rSJR1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:52 |
 | 50 | [Los Pasajes Del Sera](https://open.spotify.com/track/62FMTKHZSmPnTZrZJvPHMy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:43 |
 
-Snapshot ID: `aG8CgAAAAAAYApk/PorZNShHsJ6xpfp2`
+Snapshot ID: `aHBUAAAAAABJFMwuzQg2DbKFbzn06nT8`

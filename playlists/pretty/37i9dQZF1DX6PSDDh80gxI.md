@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Ai que bandida Joan, baby BAM BAM 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,709 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,724 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

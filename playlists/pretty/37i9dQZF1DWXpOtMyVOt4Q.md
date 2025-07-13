@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,520 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,542 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 46 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
 | 47 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
 | 48 | [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 |
-| 49 | [Grace](https://open.spotify.com/track/3tG3JitYn7tpZE1pUm1Koa) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [While You Were Away](https://open.spotify.com/album/7jhoI2ehjpvBPLK3E9myQh) | 0:52 |
-| 50 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
+| 49 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
+| 50 | [Grace](https://open.spotify.com/track/3tG3JitYn7tpZE1pUm1Koa) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [While You Were Away](https://open.spotify.com/album/7jhoI2ehjpvBPLK3E9myQh) | 0:52 |
 
 Snapshot ID: `Z+vnsAAAAADn7jmihW/8JCeirqzzguH0`

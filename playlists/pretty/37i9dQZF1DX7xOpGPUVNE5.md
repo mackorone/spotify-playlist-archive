@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 
 > Upbeat songs that will get the whole family feelin' good!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,841 likes - 71 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,840 likes - 71 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 48 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/7AxzEXLvtVf5zm5JhVzikc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/2NgSxXlI2lFLAPG49soqlT) | 3:52 |
 | 49 | [Link](https://open.spotify.com/track/11Yft9qfxqdK9sURatUNZ1) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Link](https://open.spotify.com/album/0fxd2fulWGSw4pFykqbuVR) | 2:09 |
 | 50 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/0x93VOS1AOKUgJkZjcG1sh) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4UwZA5EOfpNYs5RBHOym6w) | 3:57 |
-| 51 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 |
-| 52 | [Good Day for a Good Day](https://open.spotify.com/track/2UXPieOYSgDrwAqL62Cbmw) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Good Day for a Good Day](https://open.spotify.com/album/4A7jY5nZpLDPWjucFl1U3P) | 3:10 |
+| 51 | [Good Day for a Good Day](https://open.spotify.com/track/2UXPieOYSgDrwAqL62Cbmw) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Good Day for a Good Day](https://open.spotify.com/album/4A7jY5nZpLDPWjucFl1U3P) | 3:10 |
+| 52 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 |
 | 53 | [Feeling Good](https://open.spotify.com/track/0qVGxEjXwJtHIcV2ool7M7) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:56 |
 | 54 | [Sunny Day \- Hope](https://open.spotify.com/track/04KoUwyZYopfOfBFhgqQo9) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [All The Feels](https://open.spotify.com/album/6Zc4IZIL9HypUUwNi5Xoq4) | 3:39 |
 | 55 | [Magic Day](https://open.spotify.com/track/5X0GFoSX2gq0VfPqgsK3Jf) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Orbit Deen](https://open.spotify.com/artist/17tuJG7gcopBASfFsVr4pb) | [Magic Day](https://open.spotify.com/album/7CdnhWwYTOWWdMKlxJFwcp) | 2:59 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 64 | [Move Your Feet](https://open.spotify.com/track/7cGfrVoC7G03XeXn7yflx5) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/2mv4iqMpFW99tKHpZwKETJ) | 3:01 |
 | 65 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 |
 | 66 | [Wings](https://open.spotify.com/track/4awRNvd5iC7QGVQOwSCffw) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Deluxe\)](https://open.spotify.com/album/2WRIExN0uRt1buVuJj7iUD) | 3:39 |
-| 67 | [What I'm Feelin'](https://open.spotify.com/track/028VWaGIx1woDiCubk0CDB) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9) | [What I'm Feelin'](https://open.spotify.com/album/5wAYJl4nLxPzqv6mG61kHx) | 3:04 |
-| 68 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 |
+| 67 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 |
+| 68 | [What I'm Feelin'](https://open.spotify.com/track/028VWaGIx1woDiCubk0CDB) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9) | [What I'm Feelin'](https://open.spotify.com/album/5wAYJl4nLxPzqv6mG61kHx) | 3:04 |
 | 69 | [Together](https://open.spotify.com/track/1o0B1aKCfpPC3rUpSh8XLT) | [Callie Twisselman](https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:15 |
 | 70 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 |
 | 71 | [Let My Rooster Crow](https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6) | 2:37 |

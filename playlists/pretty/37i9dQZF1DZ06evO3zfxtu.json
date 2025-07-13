@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADcSzN7nd3QkEha8WC+PmHH",
+  "snapshot_id": "aHBUAAAAAADJdS/j0dtIBYI0BWN6G4c8",
   "tracks": [
     {
       "added_at": null,
@@ -523,30 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        }
-      ],
-      "duration_ms": 213851,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
       },
@@ -563,6 +539,26 @@
       "duration_ms": 345000,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing My Way",
+        "url": "https://open.spotify.com/album/5hOvPYDRbJpfVQ34rY3gQr"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/6nVP1QzLceLBUWLLBtqdb0"
     },
     {
       "added_at": null,
@@ -591,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing My Way",
-        "url": "https://open.spotify.com/album/5hOvPYDRbJpfVQ34rY3gQr"
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
       "artists": [
         {
@@ -600,13 +596,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        },
+        {
           "name": "Kris the $pirit",
           "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         }
       ],
-      "duration_ms": 192200,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/6nVP1QzLceLBUWLLBtqdb0"
+      "duration_ms": 213851,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+        "name": "HYPE HOP 003",
+        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
       },
       "artists": [
         {
@@ -644,17 +644,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "ILLYMINIACHI",
-          "url": "https://open.spotify.com/artist/1Ux5dcdXuI44kw0KrFqCFi"
-        },
-        {
-          "name": "RIZ",
-          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         }
       ],
-      "duration_ms": 184000,
-      "name": "CONCEITED",
-      "url": "https://open.spotify.com/track/4buagghd2W3oZoDExjITFo"
+      "duration_ms": 162519,
+      "name": "SOLO [Hype Hop Edit]",
+      "url": "https://open.spotify.com/track/6TjVqOdsedPZ6wqekLiaIg"
     },
     {
       "added_at": null,
@@ -683,50 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIX IT UP",
-        "url": "https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "G Milla",
-          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
-        },
-        {
-          "name": "Jaay Cee",
-          "url": "https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM"
-        }
-      ],
-      "duration_ms": 147153,
-      "name": "MIX IT UP",
-      "url": "https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        }
-      ],
-      "duration_ms": 162519,
-      "name": "SOLO [Hype Hop Edit]",
-      "url": "https://open.spotify.com/track/6TjVqOdsedPZ6wqekLiaIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -736,17 +688,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+          "name": "ILLYMINIACHI",
+          "url": "https://open.spotify.com/artist/1Ux5dcdXuI44kw0KrFqCFi"
         },
         {
-          "name": "Ching",
-          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
+          "name": "RIZ",
+          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
         }
       ],
-      "duration_ms": 155452,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/0ctqYvUAVUWg7ldZf8QZDA"
+      "duration_ms": 184000,
+      "name": "CONCEITED",
+      "url": "https://open.spotify.com/track/4buagghd2W3oZoDExjITFo"
     },
     {
       "added_at": null,
@@ -775,6 +727,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "MIX IT UP",
+        "url": "https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "G Milla",
+          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
+        },
+        {
+          "name": "Jaay Cee",
+          "url": "https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM"
+        }
+      ],
+      "duration_ms": 147153,
+      "name": "MIX IT UP",
+      "url": "https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STRIP",
         "url": "https://open.spotify.com/album/2Y9kOV2VCBxTuVfMcwEliK"
       },
@@ -799,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        },
+        {
+          "name": "Ching",
+          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/0ctqYvUAVUWg7ldZf8QZDA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIG MON",
         "url": "https://open.spotify.com/album/3y6LMh8HdDj0FjhQuS6UTw"
       },
@@ -815,26 +815,6 @@
       "duration_ms": 140204,
       "name": "BIG MON",
       "url": "https://open.spotify.com/track/5gCq2MdyTBUiNjDmEYk3tI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RVPTVRE",
-        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "RVPTVRE",
-      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
     },
     {
       "added_at": null,
@@ -887,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "REDLIGHT",
-        "url": "https://open.spotify.com/album/1VsO5oDfoIVmjKEvAre0VP"
+        "name": "RVPTVRE",
+        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
       },
       "artists": [
         {
@@ -896,13 +876,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Friyie",
-          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         }
       ],
-      "duration_ms": 227295,
-      "name": "REDLIGHT",
-      "url": "https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD"
+      "duration_ms": 214000,
+      "name": "RVPTVRE",
+      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REDLIGHT",
+        "url": "https://open.spotify.com/album/1VsO5oDfoIVmjKEvAre0VP"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "duration_ms": 227295,
+      "name": "REDLIGHT",
+      "url": "https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moxie",
         "url": "https://open.spotify.com/album/1tcGZwS0aQuFGi0CACukPj"
       },
@@ -987,30 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snakes",
-        "url": "https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "City Fidelia",
-          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
-        },
-        {
-          "name": "Db Bantino",
-          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
-        }
-      ],
-      "duration_ms": 221993,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAQX",
         "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
       },
@@ -1035,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUST DOWN",
-        "url": "https://open.spotify.com/album/3bgkI3gkKiszPdTpSdaRLO"
+        "name": "Snakes",
+        "url": "https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb"
       },
       "artists": [
         {
@@ -1044,21 +1020,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Fedd the God",
-          "url": "https://open.spotify.com/artist/23tQKPyz9GU1ZuCjH7X9Hw"
+          "name": "City Fidelia",
+          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
         },
         {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        },
-        {
-          "name": "Reeves Junya",
-          "url": "https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR"
+          "name": "Db Bantino",
+          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
         }
       ],
-      "duration_ms": 178711,
-      "name": "BUST DOWN",
-      "url": "https://open.spotify.com/track/2cHYZzKKZa05xIIlsaTugV"
+      "duration_ms": 221993,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E"
     },
     {
       "added_at": null,
@@ -1083,6 +1055,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Been Doing Great (You Can Stop MFing Asking)",
+        "url": "https://open.spotify.com/album/0e3tFtjJ6apQSfRItig6St"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "I Been Doing Great (You Can Stop MFing Asking)",
+      "url": "https://open.spotify.com/track/3MQFwwFy7Wua20rsN4DzbI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HYPE HOP 003",
         "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
       },
@@ -1103,8 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Been Doing Great (You Can Stop MFing Asking)",
-        "url": "https://open.spotify.com/album/0e3tFtjJ6apQSfRItig6St"
+        "name": "HYPE HOP 002",
+        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
       },
       "artists": [
         {
@@ -1112,13 +1104,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+          "name": "G Milla",
+          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
+        },
+        {
+          "name": "Jaay Cee",
+          "url": "https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM"
         }
       ],
-      "duration_ms": 162600,
-      "name": "I Been Doing Great (You Can Stop MFing Asking)",
-      "url": "https://open.spotify.com/track/3MQFwwFy7Wua20rsN4DzbI"
+      "duration_ms": 173333,
+      "name": "RAW - Hype Hop Edit",
+      "url": "https://open.spotify.com/track/6zc6ghB8QGGZszzMinhXl7"
     },
     {
       "added_at": null,

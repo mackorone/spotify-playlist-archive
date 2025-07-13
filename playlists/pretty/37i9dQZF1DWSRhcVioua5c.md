@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,300 likes - 90 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,338 likes - 90 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 49 | [Ella](https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Ella](https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J) | 3:05 |
 | 50 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
 | 51 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
-| 52 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 |
-| 53 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
+| 52 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
+| 53 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 |
 | 54 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
 | 55 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |
 | 56 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 69 | [Tonada De Tus Labios](https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Goy Karamelo](https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC) | [Tonada De Tus Labios](https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n) | 2:57 |
 | 70 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 | 71 | [Respuesta](https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Respuesta](https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE) | 3:37 |
-| 72 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
+| 72 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
 | 73 | [Bien o Mal](https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Bien o Mal](https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg) | 3:30 |
-| 74 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
+| 74 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
 | 75 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
 | 76 | [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 |
 | 77 | [Vidala del Amor Sincero \(feat\. Fernando Barrientos\)](https://open.spotify.com/track/4Y6BTOTNAA0rcjmyHsotnZ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Fernando Barrientos](https://open.spotify.com/artist/6cQZ4elRhcBlcxWuw1Ypus) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > a dose of high\-energy alternative songs for your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,347 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,354 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 21 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 22 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
 | 23 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
-| 24 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
-| 25 | [YOUtopia](https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:02 |
+| 24 | [YOUtopia](https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:02 |
+| 25 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 26 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 |
 | 27 | [HOW 2 GET AWAY WITH MURDER](https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [HOW 2 GET AWAY WITH MURDER](https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI) | 2:58 |
 | 28 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 78 | [Taking Me Back](https://open.spotify.com/track/37FjxvMhMjt3YRecpx7HsC) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:59 |
 | 79 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 80 | [Painkiller](https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:22 |
-| 81 | [For The Hell Of It](https://open.spotify.com/track/1LsilTAFvxGArcUnp0W3YW) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [For The Hell Of It](https://open.spotify.com/album/4K1nBlB4PjSHLQlO7jJuI0) | 3:10 |
-| 82 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 |
+| 81 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 |
+| 82 | [For The Hell Of It](https://open.spotify.com/track/1LsilTAFvxGArcUnp0W3YW) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [For The Hell Of It](https://open.spotify.com/album/4K1nBlB4PjSHLQlO7jJuI0) | 3:10 |
 | 83 | [HandClap](https://open.spotify.com/track/0y3fi7fknIXOxnkbUgzT3n) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [HandClap](https://open.spotify.com/album/2nOO9dl8EVj6zhkis2QHr9) | 3:13 |
 | 84 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
 | 85 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |

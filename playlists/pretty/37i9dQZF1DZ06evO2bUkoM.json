@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49496,
+  "num_followers": 49497,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAum2RD9CiYqlFCqAm2gEyx",
+  "snapshot_id": "aHBUAAAAAAAAC8kmBfxXuN5ssg/rnPfw",
   "tracks": [
     {
       "added_at": null,
@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
       },
       "artists": [
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 211965,
-      "name": "This Side of Paradise",
-      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
+      "duration_ms": 193200,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headcase",
-        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
       },
       "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Headcase",
-      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
+      "duration_ms": 211965,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 228431,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
+      "duration_ms": 240840,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 240840,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
+      "duration_ms": 228431,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "One Bad Night",
+      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Missed Calls (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 154324,
       "name": "Missed Calls (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "One Bad Night",
-      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
     },
     {
       "added_at": null,

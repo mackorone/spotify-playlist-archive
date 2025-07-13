@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,533 likes - 168 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,515 likes - 168 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 18 | [Bitches I Hate](https://open.spotify.com/track/0MtfVWElfZzOQO33D5nPNh) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Bitches I Hate](https://open.spotify.com/album/4PFUjkbparrct54wxDBGDv) | 2:22 |
 | 19 | [Data Definition Language](https://open.spotify.com/track/79pr1NNrH2hAZLyzP5cHhw) | [Polami Roko](https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr) | [By Clairvoyance](https://open.spotify.com/album/3lalFrJg1073NbOJ8aJimn) | 2:22 |
 | 20 | [Rhythm](https://open.spotify.com/track/75DV6KHoL58McX0a9S8vap) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Rhythm](https://open.spotify.com/album/7cqi9bRIdSljdeDXdWDgB0) | 2:37 |
-| 21 | [Through The Wall](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
+| 21 | [TTW](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TTW](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
 | 22 | [Young Man](https://open.spotify.com/track/1AA4Dgoob2TZZByNW3zJi7) | [Make A Dance](https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP) | [Young Man](https://open.spotify.com/album/6vB7WPA0ceo26nHh2h8Mip) | 3:26 |
 | 23 | [Air Maxes](https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Air Maxes](https://open.spotify.com/album/3uJi79dqEa5suZaCg5DTGK) | 3:01 |
 | 24 | [Bounce House](https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt) | [Gelli Haha](https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI) | [Switcheroo](https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap) | 3:32 |

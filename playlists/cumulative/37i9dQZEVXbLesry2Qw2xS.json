@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "ALL I CAN TAKE",
+      "url": "https://open.spotify.com/track/21OUVoz2AOPAHGt4UlPAvn"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -5224,7 +5242,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8780,6 +8798,24 @@
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "album": {
@@ -19970,7 +20006,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -21448,6 +21484,24 @@
       "duration_ms": 137151,
       "name": "Jumbotron Shit Poppin",
       "url": "https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -23086,7 +23140,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 124153,
       "name": "kuruta",
       "url": "https://open.spotify.com/track/6XPANimHsxSvrJUmcTHDeW"
@@ -31444,7 +31498,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"

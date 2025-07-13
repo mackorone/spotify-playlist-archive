@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADivdS5W6Erqvlhf2omeetK",
+  "snapshot_id": "aHBUAAAAAAC+6BCfuIciP5T1t6bG/2Gm",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Formats, Vol. 1",
-        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+        "name": "Dead Formats, Vol. 1",
+        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
       },
       "artists": [
         {
@@ -628,9 +612,25 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 266314,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
+      "duration_ms": 205229,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "So Hopelessly",
+      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 180093,
-      "name": "So Hopelessly",
-      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
+      "duration_ms": 266314,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
     },
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Reasons To Say Goodbye",
-        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
       },
       "artists": [
-        {
-          "name": "A Day In The Life",
-          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
-        },
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 152346,
-      "name": "The Girl That Destroyed Me",
-      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
     },
     {
       "added_at": null,
@@ -727,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+        "name": "Nine Reasons To Say Goodbye",
+        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
       "artists": [
+        {
+          "name": "A Day In The Life",
+          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
+        },
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
+      "duration_ms": 152346,
+      "name": "The Girl That Destroyed Me",
+      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
     },
     {
       "added_at": null,

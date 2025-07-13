@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,790 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,800 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 18 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
 | 19 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 |
 | 20 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
-| 21 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
-| 22 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
+| 21 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
+| 22 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
 | 23 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 |
 | 24 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
 | 25 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 39 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 40 | [Music for Inner Peace and Meditation \(Okinawa Inspired Music\)](https://open.spotify.com/track/2ElXIde9edGAyNjPaXgIHW) | [Echo Fields](https://open.spotify.com/artist/37weD9x94LXYM9CF4yIKUj) | [Wellness Spa Sounds \- Nature Music for Relaxation, Peaceful Sleep New Age Music](https://open.spotify.com/album/6LKUqXc4Z1V93EdaclLKa1) | 5:20 |
 | 41 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 |
-| 42 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 |
-| 43 | [Mandala](https://open.spotify.com/track/6qpUqLd0waCQDiNwcWMNV2) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Mandala](https://open.spotify.com/album/7zNJOa4IyLiAh8k6RjCAFJ) | 2:57 |
+| 42 | [Mandala](https://open.spotify.com/track/6qpUqLd0waCQDiNwcWMNV2) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Mandala](https://open.spotify.com/album/7zNJOa4IyLiAh8k6RjCAFJ) | 2:57 |
+| 43 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 |
 | 44 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 |
 | 45 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
 | 46 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 70 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Forest Bathing](https://open.spotify.com/artist/6aJCmoJbcNSxH68H4hlVpY) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
 | 71 | [Dhyāna](https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 4:22 |
 | 72 | [Reiki Bansuri: Recommended Music](https://open.spotify.com/track/0b7JB89DUAE4PLoqqQIHEZ) | [Bansuri Flute Collection](https://open.spotify.com/artist/3gOXobsj4Ad7IuEzxe9qVk) | [Reiki Bansuri: Recommended Music for Reiki Treatments and Meditation, Healing Flutes for Massage and Calm Nature for Harmonious and Balanced Life](https://open.spotify.com/album/1xE7uD9HrzurXb3H8D7BQJ) | 4:05 |
-| 73 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
-| 74 | [Meaning of Life](https://open.spotify.com/track/7ve7rdTlVAf4zV9dQ3bt4B) | [Daniel Moon](https://open.spotify.com/artist/1I7vjcdPb1t4QOv67ejO3h) | [Indian Meditation Spirit \(Soothing Atmospheric Music\)](https://open.spotify.com/album/4GmKHj6MfNVtgnDI29EcrE) | 4:01 |
+| 73 | [Meaning of Life](https://open.spotify.com/track/7ve7rdTlVAf4zV9dQ3bt4B) | [Daniel Moon](https://open.spotify.com/artist/1I7vjcdPb1t4QOv67ejO3h) | [Indian Meditation Spirit \(Soothing Atmospheric Music\)](https://open.spotify.com/album/4GmKHj6MfNVtgnDI29EcrE) | 4:01 |
+| 74 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
 | 75 | [Ayurveda](https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l) | [Shades of Wellness](https://open.spotify.com/artist/5or5JjbaHru3aJNSlCxcSn) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:01 |
 
 Snapshot ID: `aCw88AAAAAAD12IiyqA5YeK31qkyZrqa`

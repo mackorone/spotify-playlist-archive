@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189706,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4U13I9jihFBmAhw7z3JfTr"
+    },
+    {
+      "album": {
         "name": "Best Rapper in the Fuckin World",
         "url": "https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit"
       },

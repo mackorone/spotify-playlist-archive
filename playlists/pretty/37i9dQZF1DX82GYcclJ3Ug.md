@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Good Neighbours
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,465 likes - 125 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,437 likes - 125 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

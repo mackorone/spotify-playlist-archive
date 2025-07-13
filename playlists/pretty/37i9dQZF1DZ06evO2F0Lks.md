@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,380 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,384 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 39 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
 | 40 | [Blessed Assurance](https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 3:57 |
 | 41 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
-| 42 | [Little Toy Guns](https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:30 |
-| 43 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:18 |
+| 42 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:18 |
+| 43 | [Little Toy Guns](https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:30 |
 | 44 | [Temporary Home](https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:28 |
 | 45 | [Love Wins](https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:48 |
 | 46 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
-| 47 | [If I Can Dream \(from the NBC Elvis All\-Star Tribute\)](https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [The Best of The '68 Comeback Special \(Live\)](https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01) | 3:10 |
+| 47 | [It Had to Be You](https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:48 |
 | 48 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
 | 49 | [Cry Pretty](https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:07 |
-| 50 | [It Had to Be You](https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:48 |
+| 50 | [If I Can Dream \(from the NBC Elvis All\-Star Tribute\)](https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [The Best of The '68 Comeback Special \(Live\)](https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01) | 3:10 |
 
-Snapshot ID: `aG8CgAAAAACbNh6S4jx+AUENsHVUz6Ol`
+Snapshot ID: `aHBUAAAAAADXxCeIH2u18lRHOtkk/7Qf`

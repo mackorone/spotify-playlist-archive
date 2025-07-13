@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,126 likes - 39 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,127 likes - 39 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 |
-| 2 | [Let's Get Down](https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:59 |
-| 3 | [Anniversary](https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:31 |
+| 2 | [Anniversary](https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:31 |
+| 3 | [Let's Get Down](https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:59 |
 | 4 | [Diary \(feat\. Tony! Toni! Tone! & Jermaine Paul\)](https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:44 |
 | 5 | [It Never Rains \(In Southern California\)](https://open.spotify.com/track/0r4wz91MaRPgI3UtEuU7DF) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 5:04 |
 | 6 | [\(Lay Your Head On My\) Pillow](https://open.spotify.com/track/0rRGYJSkI7v2VtxJv8n90m) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 6:12 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 38 | [It Feels Good](https://open.spotify.com/track/5CMYgMuy0T491lbJVJ715U) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [New Jack, Vol\. 1](https://open.spotify.com/album/2zbAwjweFSSFq3eEHLtxzI) | 3:08 |
 | 39 | [Born Not To Know](https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:45 |
 
-Snapshot ID: `aG8CgAAAAADab/+3WOhrrSMy3x7DmaUN`
+Snapshot ID: `aHBUAAAAAADOf1YLxxAH4O61Z1kX0tmi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: CARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,841 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,860 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 11 | [Never Love Again](https://open.spotify.com/track/5ZlzrLcxXAtVsCeDq1JUUe) | [Claudi\-Mariee](https://open.spotify.com/artist/1bPfUzxTPDOambCf2xdtEo) | [Never Love Again](https://open.spotify.com/album/7g9hCL4AaVTPToQFwMog0O) | 2:36 |
 | 12 | [Keep Hush](https://open.spotify.com/track/3WHUp951VtACvbxstaob8u) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Keep Hush](https://open.spotify.com/album/53HjIJz24S8OAfM2yOBmcq) | 2:50 |
 | 13 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 |
-| 14 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
+| 14 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 | 15 | [lvl 1 \- HOME ALONE](https://open.spotify.com/track/7mB570CbgjVlrTVvJtr6tn) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 1 \- HOME ALONE](https://open.spotify.com/album/5gsTwlcGGuSOTQxR6pCcVN) | 3:30 |
-| 16 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
+| 16 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
 | 17 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 |
 | 18 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
-| 19 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
+| 19 | [PRETEND](https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu) | [Luke Champion](https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ), [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [PRETEND](https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN) | 3:12 |
 | 20 | [Automatic](https://open.spotify.com/track/1rQeZ0Tpmm78r2zfjunoiV) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Automatic](https://open.spotify.com/album/4WbNR7vcKMrVIfKCu1u9ao) | 3:23 |
-| 21 | [PRETEND](https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu) | [Luke Champion](https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ), [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [PRETEND](https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN) | 3:12 |
-| 22 | [Sunshine](https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd) | 3:11 |
+| 21 | [Sunshine](https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd) | 3:11 |
+| 22 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 23 | [I know](https://open.spotify.com/track/1sfC1pBC9jUn5QUGbW4Inq) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [I know](https://open.spotify.com/album/6d007bzGban8JqmIvrubZW) | 3:15 |
 | 24 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
 | 25 | [Unplanned](https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Unplanned](https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc) | 2:50 |

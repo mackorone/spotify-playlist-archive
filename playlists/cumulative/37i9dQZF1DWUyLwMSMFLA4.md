@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-339 songs - 19 hr 45 min
+340 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2023-05-05 | 2025-06-11 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 | 2025-06-27 |  |
 | [Darte Un Beso](https://open.spotify.com/track/2wYBn7U28mMYaW6VGXCagH) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Darte Un Beso](https://open.spotify.com/album/44VJAIvfoh1CV4vVMujqmI) | 2:58 | 2024-08-16 | 2025-04-12 |
+| [De Regreso al Penal](https://open.spotify.com/track/4pc9OASQNxBkBrC521AeNE) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/0SA9ksH5xCYE71t8GAN47S) | 4:03 | 2025-07-04 |  |
 | [Deja de Llorar](https://open.spotify.com/track/5wFoT4T2XT4bGnDDP8s61K) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Deja de Llorar](https://open.spotify.com/album/454hfJ2elt2NW7PkPwu44U) | 3:27 | 2025-06-27 |  |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-05-05 |  |
 | [Deja de Soñar](https://open.spotify.com/track/7GTRNNI2QbKFZjkGZXOVAr) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:41 | 2025-06-10 | 2025-06-28 |
@@ -262,7 +263,7 @@
 | [Sabrosón](https://open.spotify.com/track/4LY1GUwkUJD8PotaMUrqtE) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:54 | 2025-06-10 |  |
 | [Se Fue Viral](https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Se Fue Viral](https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv) | 3:00 | 2023-06-03 | 2025-06-11 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-05-05 | 2024-04-19 |
-| [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2025-06-10 |  |
+| [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2025-06-10 | 2025-07-13 |
 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 | 2023-05-05 |  |
 | [Se Pone Loca](https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Por Eso Canto para Bailar](https://open.spotify.com/album/1q5McGPHaKrkksCbFYFzdA) | 3:21 | 2025-06-27 |  |
 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 | 2024-08-16 |  |

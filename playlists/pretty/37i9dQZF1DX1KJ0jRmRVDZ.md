@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,152 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,162 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 28 | [dempatomatoma](https://open.spotify.com/track/56GbvH2tvnAJFt4MxWj7Ld) | [yuri](https://open.spotify.com/artist/5wPk5S4evPJCbmEQdkVCBJ) | [dempatomatoma](https://open.spotify.com/album/7vjLswZafz9mXXKlBi0lcQ) | 1:41 |
 | 29 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
 | 30 | [亜東京 \(feat\. キタニタツヤ\)](https://open.spotify.com/track/3RUXMUcuFnfMgI20Tx5LeT) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:55 |
-| 31 | [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 |
+| 31 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
 | 32 | [モルト](https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [モルト](https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy) | 2:29 |
-| 33 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
+| 33 | [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 |
 | 34 | [吐溜](https://open.spotify.com/track/7cYNxTPxzxx7KvitzuC7ZQ) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [吐溜](https://open.spotify.com/album/0bI6TVES2nscXjYxznGPi8) | 2:58 |
 | 35 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 |
 | 36 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 40 | [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 |
 | 41 | [PLAYERS](https://open.spotify.com/track/30GGgQDoRSBsjck9tMmDDP) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [PLAYERS](https://open.spotify.com/album/6OtUkMrwUzUzhPqvKiRIVe) | 3:21 |
 | 42 | [あなたのことをおしえて](https://open.spotify.com/track/6x4ApXjfn5paE3MLkab65F) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [あなたのことをおしえて](https://open.spotify.com/album/6IMsVn3Ly1cR94CkXctwHp) | 2:29 |
-| 43 | [クリームで会いにいけますか](https://open.spotify.com/track/3I7nntPbM5cFnq08f9PCxM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [クリームで会いにいけますか](https://open.spotify.com/album/4E1uEIEcYmDIhR0sThjDL8) | 3:54 |
-| 44 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 43 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 44 | [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 |
 | 45 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
-| 46 | [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 |
+| 46 | [クリームで会いにいけますか](https://open.spotify.com/track/3I7nntPbM5cFnq08f9PCxM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [クリームで会いにいけますか](https://open.spotify.com/album/4E1uEIEcYmDIhR0sThjDL8) | 3:54 |
 | 47 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 |
 | 48 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 |
 | 49 | [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 |

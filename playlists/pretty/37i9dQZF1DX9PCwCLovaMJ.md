@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,365 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 43 | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/track/2gd1LE7hK53p0UBuVKYFth) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/album/1vDJFc2MXOVTR2p8egvgHW) | 3:36 |
 | 44 | [Förlåt](https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Förlåt](https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y) | 2:46 |
 | 45 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
-| 46 | [Shoulder](https://open.spotify.com/track/1Z8MidkV2WcP1vUxM64vpf) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Shoulder](https://open.spotify.com/album/7jjCS1RPvekWlZ6RFZ0Ni1) | 2:53 |
-| 47 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 |
-| 48 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 |
-| 49 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |
+| 46 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 |
+| 47 | [Shoulder](https://open.spotify.com/track/1Z8MidkV2WcP1vUxM64vpf) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Shoulder](https://open.spotify.com/album/7jjCS1RPvekWlZ6RFZ0Ni1) | 2:53 |
+| 48 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |
+| 49 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 |
 | 50 | [Veins](https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Veins](https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS) | 2:40 |
 | 51 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
 | 52 | [Light](https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Light](https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo) | 3:37 |

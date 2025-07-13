@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1511720,
+  "num_followers": 1513047,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "From Time To Time - The Singles Collection",
         "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 267000,
       "name": "Every Time You Go Away - Radio Edit",
       "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Hornsby and the Range",
-          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
-        }
-      ],
-      "duration_ms": 297853,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 285333,
       "name": "I Guess That's Why They Call It The Blues",
       "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby and the Range",
+          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+        }
+      ],
+      "duration_ms": 297853,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "Father Figure - Remastered - featured in 'Babygirl'",
-      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 327746,
       "name": "I Wish It Would Rain Down - 2016 Remaster",
       "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Father Figure - Remastered - featured in 'Babygirl'",
+      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Boys And Girls",
-        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "What's Love Got to Do with It?",
         "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Boys And Girls",
+        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "Slave To Love",
+      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Electric Youth",
-        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Lost in Your Eyes",
-      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 287933,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Electric Youth",
+        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Lost in Your Eyes",
+      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
-      },
-      "artists": [
-        {
-          "name": "Bobby McFerrin",
-          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "Don't Worry Be Happy",
-      "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 242946,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Cry Like a Rainstorm Howl Like the Wind",
-        "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Don't Know Much (with Aaron Neville)",
-      "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 251760,
       "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
       "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Cry Like a Rainstorm Howl Like the Wind",
+        "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Don't Know Much (with Aaron Neville)",
+      "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Never Run Never Hide",
-        "url": "https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m"
-      },
-      "artists": [
-        {
-          "name": "Benny Mardones",
-          "url": "https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Simply the Best",
         "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 255186,
       "name": "We Don't Need Another Hero (Thunderdome)",
       "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Never Run Never Hide",
+        "url": "https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m"
+      },
+      "artists": [
+        {
+          "name": "Benny Mardones",
+          "url": "https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Turn Back The Clock",
-        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Turn Back The Clock",
-      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Shake You Down (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
       },
@@ -2231,18 +2215,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "Turn Back The Clock",
+        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
         }
       ],
-      "duration_ms": 268097,
-      "name": "All at Once",
-      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
+      "duration_ms": 270133,
+      "name": "Turn Back The Clock",
+      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2259,6 +2243,22 @@
       "duration_ms": 286880,
       "name": "Wicked Game - Remastered",
       "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 268097,
+      "name": "All at Once",
+      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Red Red Wine - The Essential UB40",
+        "url": "https://open.spotify.com/album/2fka1yBZYQbhgyyL3wY96Q"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/3sFEGvMPkY8Ti97K94Pwp9"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Hangin' Tough",
         "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 289533,
       "name": "Rock Wit'cha",
       "url": "https://open.spotify.com/track/7BVMXNnQSswMX8IJeZUb5T"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Red Red Wine - The Essential UB40",
-        "url": "https://open.spotify.com/album/2fka1yBZYQbhgyyL3wY96Q"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/3sFEGvMPkY8Ti97K94Pwp9"
     },
     {
       "added_at": "2023-01-24 23:00:00",

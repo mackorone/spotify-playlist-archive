@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,737,924 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737,669 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 15 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:11 |
 | 16 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 |
 | 17 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
-| 18 | [I See Myself](https://open.spotify.com/track/1rqGuE3jvcvacQk96lfnl6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 3:00 |
-| 19 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 |
+| 18 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 |
+| 19 | [I See Myself](https://open.spotify.com/track/1rqGuE3jvcvacQk96lfnl6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 3:00 |
 | 20 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
 | 21 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
-| 22 | [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 |
-| 23 | [I Don't Know You](https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:44 |
+| 22 | [I Don't Know You](https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:44 |
+| 23 | [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 |
 | 24 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
 | 25 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 |
 | 26 | [Manifest](https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 5:17 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 46 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 47 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 48 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 |
-| 49 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
+| 49 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
 | 50 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
-| 51 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
+| 51 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
 | 52 | [Who Else Could I Be](https://open.spotify.com/track/0px8acghPxrLMXXGaS6Mwe) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:35 |
 | 53 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
 | 54 | [Through The Dark](https://open.spotify.com/track/2Tax7fSPDly9OLIAZRd0Dp) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Towards The Sun](https://open.spotify.com/album/0C8nB6bCch6qbzcYXBnsaJ) | 5:30 |

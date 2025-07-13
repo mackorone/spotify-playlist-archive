@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,614 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,608 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 2 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 |
 | 3 | [That Night In Hawaii When I Turned Into A Panther And Started Making These Low Register Purring Tones That I Couldn't Control ..\. Sh¥t Was Wild](https://open.spotify.com/track/7763zdQtsUXNRKMDbahyK5) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 10:29 |
-| 4 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
+| 4 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
 | 5 | [Earning Sounds](https://open.spotify.com/track/43N1zJZhn3C74KdKQTLNHm) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 3:16 |
 | 6 | [Abstract](https://open.spotify.com/track/0ugKbT5NQmCtjP7hYPgge7) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Abstract](https://open.spotify.com/album/73uPnG2AmmlDyhhiU6MNg8) | 5:59 |
 | 7 | [Distant Storms At Sea](https://open.spotify.com/track/5Sp9T1agZ8xfRcgfDvj8E5) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 6:10 |
-| 8 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
+| 8 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
 | 9 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 |
 | 10 | [Monsoon Reason](https://open.spotify.com/track/2PNp9hDOWFcRoycplbawIz) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 4:23 |
 | 11 | [Angle of List](https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Sea Island](https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) | 6:45 |

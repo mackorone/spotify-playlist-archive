@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,268 likes - 100 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,276 likes - 100 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 19 | [Sea Within A Sea](https://open.spotify.com/track/6NwkAlnyJTL5mPAQuK3i36) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Primary Colours](https://open.spotify.com/album/2py8SDBSpqHHlFPlExqDKp) | 7:58 |
 | 20 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
 | 21 | [Hero](https://open.spotify.com/track/6tQvfblsmRCrZXx7xhDCqT) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! Digital Box](https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM) | 7:11 |
-| 22 | [Nowhere Again](https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [Now Here Is Nowhere](https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg) | 4:13 |
+| 22 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
 | 23 | [Spiders \(Kidsmoke\)](https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 10:42 |
 | 24 | [Chase the Tear](https://open.spotify.com/track/00CjPU9Nv69kf6YofOIazK) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Chase the Tear](https://open.spotify.com/album/7ofIuqyYYYTu1MbgDJgef4) | 5:15 |
 | 25 | [One More Night](https://open.spotify.com/track/5VkqPsfrp8YYTd4GtWId5U) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi](https://open.spotify.com/album/4eoETnSr4alYiNdIOwCeQb) | 5:35 |
-| 26 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
+| 26 | [Nowhere Again](https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [Now Here Is Nowhere](https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg) | 4:13 |
 | 27 | [Archangels Thunderbird](https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va) | 3:33 |
 | 28 | [King's Lead Hat \- 2004 Digital Remaster](https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:56 |
 | 29 | [Light: Look at Your Sun](https://open.spotify.com/track/2gWT8m0KpmVVboR2MzdneA) | [Ash Ra Tempel](https://open.spotify.com/artist/5f6eufK2ZswS7hxhEZyIG9), [Manuel Göttsching](https://open.spotify.com/artist/38KMWWA4MPJ6VxlO9kx6CU) | [Schwingungen \(Mixed Tracks\)](https://open.spotify.com/album/6GsU6r8GoVcTXOLZK417nz) | 6:36 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 35 | [Lookin Up \- Instrumental Version](https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw) | [Manic Vila](https://open.spotify.com/artist/6l8cL9AYxzM9OqJlLLeVrd) | [33641 \(Instrumental Version\)](https://open.spotify.com/album/6gRt01llWuDsh96iVOFA6W) | 1:12 |
 | 36 | [To the East](https://open.spotify.com/track/1bzQEsGH0KEMLt9ZlJ3vmk) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [No Shouts, No Calls](https://open.spotify.com/album/5UgqB0fJd5lI58r6tPJNMs) | 4:55 |
 | 37 | [Schmetterling \- Remastered](https://open.spotify.com/track/5WigBbIrg3nXsIZJguJLSh) | [BröselMaschine](https://open.spotify.com/artist/66WWDNTUZwM3i6jy4ihRFB) | [Bröselmaschine](https://open.spotify.com/album/3cjo0HW2NqCWWXswrPhKqX) | 9:35 |
-| 38 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
+| 38 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
 | 39 | [Orient Express](https://open.spotify.com/track/3FaWrdCqGL6pINPHsxkYca) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Krautrock](https://open.spotify.com/album/6DZaSFDFIqHFym2tkuCCGS) | 9:46 |
-| 40 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
+| 40 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
 | 41 | [Gamma Ray](https://open.spotify.com/track/0iVUzpjSPczQoNPuwtEOkL) | [Birth Control](https://open.spotify.com/artist/69wYvVWNm68Vrndzw0GZgR) | [Hoodoo Man](https://open.spotify.com/album/5UWOg8eQtTz0G6CBViwQi9) | 9:46 |
 | 42 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 |
 | 43 | [First Communication](https://open.spotify.com/track/5CevbpxOgTUNsPuJUTl6RZ) | [Agitation Free](https://open.spotify.com/artist/1fvjrL59qNJVJKNQB8RUg3) | [2Nd](https://open.spotify.com/album/154vxWniqBPvABso6BPRgH) | 8:10 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 95 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 |
 | 96 | [Tonband Laufspur](https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:32 |
 | 97 | [Ship \- EP Version](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 |
-| 98 | [Roll Call](https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lost Worker Bee \- EP](https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko) | 6:27 |
-| 99 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
+| 98 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 |
+| 99 | [Roll Call](https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lost Worker Bee \- EP](https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko) | 6:27 |
 | 100 | [E\-Go](https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 6:54 |
 
 Snapshot ID: `Z3xDVwAAAAAUg1XyoZh7QbHKHztU1bLV`

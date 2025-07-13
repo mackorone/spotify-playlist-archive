@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,200 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,202 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 35 | [Dystopia](https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV) | [Ahmed Romel](https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs) | [Dystopia](https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ) | 3:32 |
 | 36 | [La Câlin](https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [La Câlin](https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH) | 2:52 |
 | 37 | [After Life](https://open.spotify.com/track/6f3C47PALxUOq7VjRSyx7M) | [NIN9](https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO) | [After Life](https://open.spotify.com/album/3mibBHWq5uBgzJnWGWtXgZ) | 3:37 |
-| 38 | [Fury](https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Fury](https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW) | 2:50 |
-| 39 | [Katyar](https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Katyar](https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ) | 3:44 |
-| 40 | [Duhan](https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb) | [Mazlum Uruc](https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av), [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Duhan](https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc) | 2:56 |
-| 41 | [Menak](https://open.spotify.com/track/2Mma8mPkMGvFljxKORvySU) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Fatih Yilmaz](https://open.spotify.com/artist/0lxzzzW6U4V4vfRnsl4Z9n) | [Menak](https://open.spotify.com/album/3OAa3rZQFhA37EPn9mGMic) | 2:24 |
-| 42 | [End](https://open.spotify.com/track/78NWG8vFrAehpsCJr1SLvq) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [End](https://open.spotify.com/album/6fcDKqZrJxK5OnJwPPnMJj) | 3:04 |
+| 38 | [End](https://open.spotify.com/track/78NWG8vFrAehpsCJr1SLvq) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [End](https://open.spotify.com/album/6fcDKqZrJxK5OnJwPPnMJj) | 3:04 |
+| 39 | [Fury](https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Fury](https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW) | 2:50 |
+| 40 | [Katyar](https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Katyar](https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ) | 3:44 |
+| 41 | [Duhan](https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb) | [Mazlum Uruc](https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av), [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Duhan](https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc) | 2:56 |
+| 42 | [Menak](https://open.spotify.com/track/2Mma8mPkMGvFljxKORvySU) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Fatih Yilmaz](https://open.spotify.com/artist/0lxzzzW6U4V4vfRnsl4Z9n) | [Menak](https://open.spotify.com/album/3OAa3rZQFhA37EPn9mGMic) | 2:24 |
 | 43 | [Odyssey](https://open.spotify.com/track/2R2H8r2X1MCJFvvLx6DYZy) | [Żwirek](https://open.spotify.com/artist/4PCOizPKIqh6TnlGcx3mDb) | [Odyssey](https://open.spotify.com/album/4z1b97XrbtSt3iz5qgwBfJ) | 4:05 |
 | 44 | [Secret](https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Secret](https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH) | 2:18 |
 | 45 | [Kyojin](https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Kyojin](https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq) | 2:30 |

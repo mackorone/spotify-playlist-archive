@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. cover: Sydney Rose
 
-919 songs - 2 day 2 hr 36 min
+920 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 | 2022-04-23 |
 | [How It Ends](https://open.spotify.com/track/3X7afM4V4ZMLNVmwBgqWzp) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [How It Ends](https://open.spotify.com/album/0Vw7DrVmTj4IhV5rae5pKF) | 2:55 | 2024-04-26 | 2024-06-08 |
 | [How Much Longer?](https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How Much Longer?](https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV) | 4:03 | 2024-01-26 | 2024-04-26 |
-| [How To Be Human](https://open.spotify.com/track/5wF20iV36qPgsBbjnZfzTU) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:16 | 2024-07-15 |  |
+| [How To Be Human](https://open.spotify.com/track/5wF20iV36qPgsBbjnZfzTU) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:16 | 2024-07-15 | 2025-07-13 |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2024-03-30 |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-28 | 2023-02-24 |
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-12 | 2024-08-17 |
@@ -671,6 +671,7 @@
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2021-12-24 | 2022-12-28 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2021-12-17 |  |
 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo) | 4:14 | 2021-12-17 | 2022-03-26 |
+| [Rest Of Me](https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [Rest Of Me](https://open.spotify.com/album/6n8vxGMToOmgBWYdp0oADs) | 3:36 | 2025-07-11 |  |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-16 | 2025-05-31 |
 | [right where you left me \- bonus track](https://open.spotify.com/track/3zwMVvkBe2qIKDObWgXw4N) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 4:05 | 2021-12-17 | 2022-10-22 |
 | [right?](https://open.spotify.com/track/5EgoEtJ6hFLUTEnCvq0roJ) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [right?](https://open.spotify.com/album/7HSg2WlGkGHVbqrAkGagBX) | 4:36 | 2022-03-25 | 2022-07-29 |

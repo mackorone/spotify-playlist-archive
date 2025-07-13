@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Indios y Conociendo Rusia
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,689 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,778 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 97 | [Así](https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI) | [Manuel Wirzt](https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra) | [Así](https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD) | 4:14 |
 | 98 | [El Beso Más Famoso del Mundo](https://open.spotify.com/track/0cVf3lOwE13SQdF0AK7Gkt) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 4:03 |
 | 99 | [Te amo](https://open.spotify.com/track/21m9e0BX7sb55CWSpsmIQy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Verano en Capital](https://open.spotify.com/album/4YVyoJ9fhJ1r39NSstEa2O) | 2:47 |
-| 100 | [Desprogramado](https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Desprogramado](https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL) | 3:01 |
+| 100 | [Nunca Nos Apagó](https://open.spotify.com/track/21TdNfpltw2dtXnnJiOjcD) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [La Suerte de Encontrarme](https://open.spotify.com/album/6Mvw1I6WTBv9RKqwBC9Rol) | 3:21 |
 
 Snapshot ID: `Z7fsUAAAAADW8VAo7QHJp4dYUyiB3bF8`

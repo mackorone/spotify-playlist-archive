@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 82511,
+  "num_followers": 82585,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAvwtgfWAKxguiI+02LS+0F",
+  "snapshot_id": "aHBUAAAAAAD7hYJ9lNo/NPHiEoxHRgY9",
   "tracks": [
     {
       "added_at": null,
@@ -519,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 205690,
-      "name": "Continua\u00e7\u00e3o de um sonho",
-      "url": "https://open.spotify.com/track/1L1yQkU69NiYAC2oFqft90"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Audaz",
         "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 240032,
       "name": "Vivendo Avan\u00e7ado",
       "url": "https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 205690,
+      "name": "Continua\u00e7\u00e3o de um sonho",
+      "url": "https://open.spotify.com/track/1L1yQkU69NiYAC2oFqft90"
     },
     {
       "added_at": null,
@@ -867,38 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPC (M\u00fasica Popular Carioca)",
-        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Naldo Benny",
-          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
-        },
-        {
-          "name": "Fernanda Abreu",
-          "url": "https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "DJ Chernobyl",
-          "url": "https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "PASSE A RESPEITAR",
-      "url": "https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes dos Gigantes Chegarem, Vol. 2",
         "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
       },
@@ -923,6 +891,30 @@
       "duration_ms": 227093,
       "name": "Almas",
       "url": "https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 148738,
+      "name": "Deus do Furdun\u00e7o",
+      "url": "https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O"
     },
     {
       "added_at": null,
@@ -955,26 +947,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+        "name": "MPC (M\u00fasica Popular Carioca)",
+        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
       "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Naldo Benny",
+          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
+        },
+        {
+          "name": "Fernanda Abreu",
+          "url": "https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh"
+        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "DJ Chernobyl",
+          "url": "https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW"
         }
       ],
-      "duration_ms": 148738,
-      "name": "Deus do Furdun\u00e7o",
-      "url": "https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O"
+      "duration_ms": 114461,
+      "name": "PASSE A RESPEITAR",
+      "url": "https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt"
     },
     {
       "added_at": null,
@@ -1028,13 +1028,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         }
       ],
-      "duration_ms": 195324,
-      "name": "Sigo na Sombra",
-      "url": "https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B"
+      "duration_ms": 186806,
+      "name": "O Pr\u00f3ximo Nascer do Sol",
+      "url": "https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4"
     },
     {
       "added_at": null,
@@ -1132,13 +1132,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 186806,
-      "name": "O Pr\u00f3ximo Nascer do Sol",
-      "url": "https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4"
+      "duration_ms": 195324,
+      "name": "Sigo na Sombra",
+      "url": "https://open.spotify.com/track/2e0tjPnWrT0w5225k6aB7B"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162270,
+  "num_followers": 162268,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADc63jWdtrDoQPx/9LxiBD2",
+  "snapshot_id": "aHBUAAAAAACvR71ORuXmWhLF22O7ZF/8",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 272721,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 202106,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 272721,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250662,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brilha Tua Luz",
         "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 295997,
       "name": "Brilha Tua Luz",
       "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250662,
-      "name": "Lugar Seguro",
-      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 16794,
+  "num_followers": 16801,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-07-08 05:12:40",
       "album": {
+        "name": "Rainy Season",
+        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 222285,
+      "name": "Rainy Season",
+      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
+    },
+    {
+      "added_at": "2025-07-08 05:12:40",
+      "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
         "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 209240,
       "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
-    },
-    {
-      "added_at": "2025-07-08 05:12:40",
-      "album": {
-        "name": "Rainy Season",
-        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 222285,
-      "name": "Rainy Season",
-      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
     },
     {
       "added_at": "2025-07-08 05:12:40",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-07-08 05:12:40",
       "album": {
-        "name": "In your heart",
-        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
+        "name": "Beside",
+        "url": "https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt"
       },
       "artists": [
         {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
         }
       ],
-      "duration_ms": 261933,
-      "name": "If I hug you",
-      "url": "https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ"
+      "duration_ms": 234000,
+      "name": "Beside",
+      "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",

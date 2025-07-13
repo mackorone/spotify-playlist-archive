@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Slica Gel\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,650 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,655 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 32 | [Sorry](https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn) | 3:35 |
 | 33 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
 | 34 | [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 |
-| 35 | [It′s You](https://open.spotify.com/track/2XtNYB72kf5QEhYDdPZdc7) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Resident Playbook, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6V21UD13g0tZrqe5UCps16) | 3:47 |
-| 36 | [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 |
+| 35 | [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 |
+| 36 | [It′s You](https://open.spotify.com/track/2XtNYB72kf5QEhYDdPZdc7) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Resident Playbook, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6V21UD13g0tZrqe5UCps16) | 3:47 |
 | 37 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
 | 38 | [Coming Of Age Story](https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Youth](https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO) | 4:35 |
 | 39 | [She's In The Rain](https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ) | 3:57 |
 | 40 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 |
-| 41 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
+| 41 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
 | 42 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
-| 43 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
-| 44 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 |
+| 43 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 |
+| 44 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
 | 45 | [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 |
 | 46 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 |
 | 47 | [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 |
-| 48 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 |
-| 49 | [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 |
+| 48 | [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 |
+| 49 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 |
 | 50 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
 
 Snapshot ID: `aG+ClgAAAADSO1c/vELAMLV28ER9Ky7F`

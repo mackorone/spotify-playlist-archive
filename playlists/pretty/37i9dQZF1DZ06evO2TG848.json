@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23070,
+  "num_followers": 23071,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAhj5E3J0S9VCZENC4l0WGI",
+  "snapshot_id": "aHBUAAAAAABW9Cj3TwBEjvxsALQJt+CV",
   "tracks": [
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nueve",
-        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
-      },
-      "artists": [
-        {
-          "name": "Massacre",
-          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 300809,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 170919,
       "name": "Yarar\u00e1",
       "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
+      },
+      "artists": [
+        {
+          "name": "Massacre",
+          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 300809,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
     },
     {
       "added_at": null,
@@ -955,42 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Echoes of Yesterday",
-      "url": "https://open.spotify.com/track/3SdZRmDUioL8nqyq0Q7TSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 41821,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -1019,6 +983,42 @@
       "duration_ms": 113400,
       "name": "Partida del Leprosario",
       "url": "https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 41821,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Echoes of Yesterday",
+      "url": "https://open.spotify.com/track/3SdZRmDUioL8nqyq0Q7TSB"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

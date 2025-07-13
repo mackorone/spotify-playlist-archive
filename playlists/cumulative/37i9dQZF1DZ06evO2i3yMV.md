@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-152 songs - 8 hr 36 min
+153 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Switch It](https://open.spotify.com/track/0QWvAEwk9l5MNJtyjAygmP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [On Sum](https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY) | 3:04 | 2024-08-31 | 2024-10-30 |
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 | 2024-06-15 | 2025-03-15 |
 | [Switch It](https://open.spotify.com/track/4wAQAt1l5Wb4E85TOHf7VE) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:04 | 2025-03-15 | 2025-04-18 |
-| [Switch It \- Effy Remix](https://open.spotify.com/track/4KTiCBy7tUqVIogjgQWL5A) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Eternal Reverie Remixes, Pt\. 2](https://open.spotify.com/album/4xuZ2yWGAvpFcSL66oCAmX) | 3:18 | 2025-06-15 |  |
+| [Switch It \- ATKM Remix](https://open.spotify.com/track/17eI5ZovnbUvCddS5D20rX) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [ATKM](https://open.spotify.com/artist/7un2nkRX7paTSmdh94vzX7), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Eternal Reverie Remixes](https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo) | 3:10 | 2025-07-13 |  |
+| [Switch It \- Effy Remix](https://open.spotify.com/track/4KTiCBy7tUqVIogjgQWL5A) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Eternal Reverie Remixes, Pt\. 2](https://open.spotify.com/album/4xuZ2yWGAvpFcSL66oCAmX) | 3:18 | 2025-06-15 | 2025-07-13 |
 | [Switch It \- Kingdom Remix](https://open.spotify.com/track/48RgmkzRRZA7SIEK9jlgmn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Eternal Reverie Remixes, Pt\. 1](https://open.spotify.com/album/3hHRdXKMuR20N678VUe0Lf) | 3:21 | 2025-05-18 | 2025-06-15 |
 | [The Beginning](https://open.spotify.com/track/0eVOAnzGXpbboig0AtjvrA) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 1:41 | 2023-05-02 | 2024-02-12 |
 | [The Beginning](https://open.spotify.com/track/5XRYpfQZnOPUx4fNhmEzMm) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 1:41 | 2024-02-11 | 2024-10-01 |

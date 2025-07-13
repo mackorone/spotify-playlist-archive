@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 55023,
+  "num_followers": 55029,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -327,30 +327,6 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Schumann: Frage",
-        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Gerold Huber",
-          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
-      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
         "name": "Schumann: Das Paradies und die Peri",
         "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
       },
@@ -379,6 +355,30 @@
       "duration_ms": 112520,
       "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
       "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Gerold Huber",
+          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
+        }
+      ],
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -451,6 +451,26 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition",
+        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "duration_ms": 738560,
+      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
+      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
         "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
         "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
       },
@@ -475,8 +495,8 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition",
-        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
       "artists": [
         {
@@ -484,37 +504,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Paul Lewis",
-          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
-        }
-      ],
-      "duration_ms": 738560,
-      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
-      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
-        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
-        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         },
         {
-          "name": "Andrew Wan",
-          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
-        },
-        {
-          "name": "Charles Richard-Hamelin",
-          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
         }
       ],
-      "duration_ms": 484560,
-      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
-      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
+      "duration_ms": 887000,
+      "name": "Overture Manfred, Op. 115",
+      "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -543,8 +543,8 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
       },
       "artists": [
         {
@@ -552,17 +552,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Andrew Wan",
+          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
         },
         {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+          "name": "Charles Richard-Hamelin",
+          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
         }
       ],
-      "duration_ms": 887000,
-      "name": "Overture Manfred, Op. 115",
-      "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
+      "duration_ms": 484560,
+      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -635,34 +635,6 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Mendelssohn, Goodyear & Schumann: Piano Concerti",
-        "url": "https://open.spotify.com/album/27Yf1gmEWozEBLB1HD3sEj"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Stewart Goodyear",
-          "url": "https://open.spotify.com/artist/6Uw4yKZKLOhjuix5CUVi08"
-        },
-        {
-          "name": "BBC Scottish Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
-        },
-        {
-          "name": "Andrew Constantine",
-          "url": "https://open.spotify.com/artist/1xe4z9gCgtk5L1Y8o6N5fw"
-        }
-      ],
-      "duration_ms": 320666,
-      "name": "Piano Concerto in A Minor, Op. 54: II. Intermezzo. Andantino grazioso",
-      "url": "https://open.spotify.com/track/4HkRZJM99jxwC8DKFbShOC"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
         "name": "Schumann: Complete Works for Piano Trio",
         "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
       },
@@ -687,6 +659,34 @@
       "duration_ms": 478546,
       "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
       "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
+        "name": "Mendelssohn, Goodyear & Schumann: Piano Concerti",
+        "url": "https://open.spotify.com/album/27Yf1gmEWozEBLB1HD3sEj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Stewart Goodyear",
+          "url": "https://open.spotify.com/artist/6Uw4yKZKLOhjuix5CUVi08"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        },
+        {
+          "name": "Andrew Constantine",
+          "url": "https://open.spotify.com/artist/1xe4z9gCgtk5L1Y8o6N5fw"
+        }
+      ],
+      "duration_ms": 320666,
+      "name": "Piano Concerto in A Minor, Op. 54: II. Intermezzo. Andantino grazioso",
+      "url": "https://open.spotify.com/track/4HkRZJM99jxwC8DKFbShOC"
     },
     {
       "added_at": "2025-07-04 11:08:09",

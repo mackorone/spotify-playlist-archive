@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 71604,
+  "num_followers": 71608,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAlAzkVqnj6EslCPsNmQYnb",
+  "snapshot_id": "aHBUAAAAAADEuX7kAJCeOhxJ1KUHg/rY",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Si Volviera A Nacer",
-      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta Contin\u00faa",
         "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 180813,
       "name": "El Yerbero Moderno (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Si Volviera A Nacer",
+      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frida (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Mariachi Juvenil de Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
         "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 177773,
       "name": "Quiero Verte Feliz",
       "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frida (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Mariachi Juvenil de Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Vengo a Ofrecer Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6pEuIdX7axEhfVDZoh45h8"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El \u00daltimo Trago",
         "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
@@ -1051,62 +1051,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/1jDYMiHXJ9GRXKbamkq5uE"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
-        {
-          "name": "Las Voces de Latinoam\u00e9rica",
-          "url": "https://open.spotify.com/artist/38p5B1KoPgdaegOGm1jEt0"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         },
         {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        },
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        },
-        {
-          "name": "Pascuala Ilabaca",
-          "url": "https://open.spotify.com/artist/34BMaYA9uw88I9Hyme5MDn"
-        },
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Niyireth Alarcon",
-          "url": "https://open.spotify.com/artist/79v7QMO04JLZs3ehbULM7K"
-        },
-        {
-          "name": "Margarita Laso",
-          "url": "https://open.spotify.com/artist/1Ruw39HFexQEfPD75F3QHM"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Mar\u00edafer Rivera",
-          "url": "https://open.spotify.com/artist/28obedFQ2AkjfbBKzeSCWB"
+          "name": "Ken Basman",
+          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/4JM6RkLoNpC0H0eApxXzNX"
+      "duration_ms": 207026,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
     }
   ],
   "unique_name": "This Is Lila Downs",

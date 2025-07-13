@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,210 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,238 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 15 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
 | 16 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 17 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
-| 18 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
-| 19 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
+| 18 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
+| 19 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
 | 20 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 21 | [So Happy](https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Happy](https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp) | 2:53 |
 | 22 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 53 | [THE BLOB](https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [THE BLOB](https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ) | 2:22 |
 | 54 | [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 |
 | 55 | [CULT CLASSIC](https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Cult Classic](https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr) | 3:18 |
-| 56 | [Call Me Later](https://open.spotify.com/track/6Uc7A8PeGszMyQ9XPvR6ZT) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Call Me Later](https://open.spotify.com/album/526HT2ENrJdZsyqoxe6zm6) | 3:00 |
-| 57 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 |
+| 56 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 |
+| 57 | [Call Me Later](https://open.spotify.com/track/6Uc7A8PeGszMyQ9XPvR6ZT) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Call Me Later](https://open.spotify.com/album/526HT2ENrJdZsyqoxe6zm6) | 3:00 |
 | 58 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 |
 | 59 | [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP) | 3:17 |
 | 60 | [Lemonade](https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Lemonade](https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE) | 3:26 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 64 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
 | 65 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 |
 | 66 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 |
-| 67 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
-| 68 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
+| 67 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
+| 68 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
 | 69 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 |
 | 70 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 |
 | 71 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 81 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 82 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
 | 83 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
-| 84 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 |
-| 85 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
+| 84 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
+| 85 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 |
 | 86 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 |
 | 87 | [Figure It Out](https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Figure It Out](https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5) | 2:49 |
 | 88 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |

@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 174910,
       "name": "1&Only",
       "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
@@ -11603,6 +11603,24 @@
     },
     {
       "album": {
+        "name": "Premiers pas",
+        "url": "https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
+    },
+    {
+      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
       },
@@ -12234,7 +12252,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 264842,
       "name": "Cumbia del Monte Fuji",
       "url": "https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT"
@@ -19600,7 +19618,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -20322,6 +20340,24 @@
       "duration_ms": 166019,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/3MKTciJfDAJjO0SjFZQsVx"
+    },
+    {
+      "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248200,
+      "name": "Future Starts Slow",
+      "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
     },
     {
       "album": {
@@ -30778,6 +30814,24 @@
     {
       "album": {
         "name": "LABUBU",
+        "url": "https://open.spotify.com/album/5z5Ya2AmZF9OeqYPASjrYH"
+      },
+      "artists": [
+        {
+          "name": "SillySocks",
+          "url": "https://open.spotify.com/artist/1jKVeyTW5jr0uottPszAld"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70974,
+      "name": "LABUBU",
+      "url": "https://open.spotify.com/track/4FREigeSIH9x1uRXoCkv7L"
+    },
+    {
+      "album": {
+        "name": "LABUBU",
         "url": "https://open.spotify.com/album/48Wkq3Y1B1D7ZamkAPlVmB"
       },
       "artists": [
@@ -34059,6 +34113,24 @@
     },
     {
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -35380,7 +35452,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 188023,
       "name": "Megj\u00e1tszottam magamat",
       "url": "https://open.spotify.com/track/1hxZhF6F4u8WJsqwiLZSLv"
@@ -53986,10 +54058,52 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 202000,
       "name": "Soledad - feat. Damon Albarn, Luisa Almaguer, Nick Zinner, Seye Adelekan, Joan as Police Woman & Mexican Institute of Sound",
       "url": "https://open.spotify.com/track/1buZTsPr3b9ybj2nfky7w2"
+    },
+    {
+      "album": {
+        "name": "Africa Express Presents... Bahidor\u00e1",
+        "url": "https://open.spotify.com/album/3KMZGvFIB8djCFognOb1Op"
+      },
+      "artists": [
+        {
+          "name": "Africa Express",
+          "url": "https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        },
+        {
+          "name": "Luisa Almaguer",
+          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
+        },
+        {
+          "name": "Nick Zinner",
+          "url": "https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO"
+        },
+        {
+          "name": "Joan As Police Woman",
+          "url": "https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj"
+        },
+        {
+          "name": "Seye Adelekan",
+          "url": "https://open.spotify.com/artist/3Xr80iKgYbhiiA5XuJPeK5"
+        },
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Soledad - feat. Damon Albarn, Luisa Almaguer, Nick Zinner, Seye Adelekan, Joan as Police Woman & Mexican Institute of Sound",
+      "url": "https://open.spotify.com/track/0ZdWMVxAXiIBvaNKDeuMHy"
     },
     {
       "album": {
@@ -54210,7 +54324,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 174246,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4O0dlJnPKQNRzh1J1pGpKg"
@@ -62510,7 +62624,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 169818,
       "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
       "url": "https://open.spotify.com/track/4pRAG3h4ZTfyEhRMytddzd"

@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49!",
-  "num_followers": 120779,
+  "num_followers": 120792,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
         "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
         "url": "https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 185099,
       "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
       "url": "https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "You (Are) Mean a Lot to Me",
-        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
-      },
-      "artists": [
-        {
-          "name": "Blackbeans",
-          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
-        }
-      ],
-      "duration_ms": 271764,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
         "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 197250,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
       "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
+        "name": "You (Are) Mean a Lot to Me",
+        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "duration_ms": 271764,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
+        "name": "Nude",
+        "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
+      },
+      "artists": [
+        {
+          "name": "JETSET'ER",
+          "url": "https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "\u0e08\u0e39\u0e1a",
+      "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 200000,
       "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
-        "name": "Nude",
-        "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
-      },
-      "artists": [
-        {
-          "name": "JETSET'ER",
-          "url": "https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "\u0e08\u0e39\u0e1a",
-      "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
+        "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 247398,
+      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
         "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
         "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 247398,
-      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e40\u0e21\u0e30",
         "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-        "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 253636,
-      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
         "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 240450,
       "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
       "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 253636,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e19\u0e32\u0e19 \u0e46",
         "url": "https://open.spotify.com/album/27vnza2tIBJ7eOtPXhLmBV"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 214903,
       "name": "\u0e23\u0e31\u0e01\u0e19\u0e32\u0e19 \u0e46",
       "url": "https://open.spotify.com/track/3DoCl74hQWMxlvBeVj51XC"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
+        "url": "https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7"
+      },
+      "artists": [
+        {
+          "name": "BENT",
+          "url": "https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki"
+        }
+      ],
+      "duration_ms": 154965,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
         "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
         "url": "https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 184421,
       "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
       "url": "https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
-        "url": "https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7"
-      },
-      "artists": [
-        {
-          "name": "BENT",
-          "url": "https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki"
-        }
-      ],
-      "duration_ms": 154965,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
-      "url": "https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z"
     },
     {
       "added_at": "2025-07-11 11:20:56",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-07-11 11:20:56",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
-        "url": "https://open.spotify.com/album/62ZE1G620BMjMxBoI3jBRw"
-      },
-      "artists": [
-        {
-          "name": "ROOFTOP",
-          "url": "https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
-      "url": "https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4"
-    },
-    {
-      "added_at": "2025-07-11 11:20:56",
-      "album": {
         "name": "\u0e02\u0e2d\u0e08\u0e2d\u0e07\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
         "url": "https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 201146,
       "name": "\u0e02\u0e2d\u0e08\u0e2d\u0e07\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z"
+    },
+    {
+      "added_at": "2025-07-11 11:20:56",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
+        "url": "https://open.spotify.com/album/62ZE1G620BMjMxBoI3jBRw"
+      },
+      "artists": [
+        {
+          "name": "ROOFTOP",
+          "url": "https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
+      "url": "https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4"
     },
     {
       "added_at": "2025-07-11 11:20:56",

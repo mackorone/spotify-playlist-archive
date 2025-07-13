@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,156 likes - 26 songs - 1 hr 50 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,157 likes - 29 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 24 | [Look Beyond The Hill](https://open.spotify.com/track/50BIyfMpmfeWRscszOOMD4) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [The 2nd Crusade](https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF) | 3:15 |
 | 25 | [Goat House Blues](https://open.spotify.com/track/0prDfMF6Yl9POBvEFTeP79) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Big Ugly](https://open.spotify.com/album/6jNbLon7QmLGibekT6RFOa) | 4:01 |
 | 26 | [Spangle](https://open.spotify.com/track/2UWiko8D4Oqi4qnELqlNup) | [Should](https://open.spotify.com/artist/3Wqa6m6qXA9wA2YriCtWuY) | [Feed Like Fishes](https://open.spotify.com/album/6VsQ41UfJyJ9gyOUAit5Kv) | 3:21 |
+| 27 | [Skyline 4](https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [GULP](https://open.spotify.com/album/1kBPEN3NIVwjdmIjjNk9vB) | 4:51 |
+| 28 | [So I Can See You](https://open.spotify.com/track/5ytSN7DOaQxcD6xekBr2hi) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:04 |
+| 29 | [Dawn \- Raisa K Sunset Remix](https://open.spotify.com/track/3UmAc2ov9CpMzr2JeO2cCl) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [So I Can See You \(Remixes\)](https://open.spotify.com/album/5FKCLvPPIlr7wwaDXaYbrE) | 3:42 |
 
-Snapshot ID: `AAAMx8AtFJeWIOa53Nsi76gC7v7BSxAy`
+Snapshot ID: `AAAMzFcdj0R9b9ze3ty3DslUdY2RzHoS`

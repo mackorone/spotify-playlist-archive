@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Burna Boy, Justin Bieber, Soulwax, Olivia Dean, AFROJACK and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,085 likes - 82 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,098 likes - 82 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 77 | [BITE THE BULLET](https://open.spotify.com/track/6pk5Z5AaQXL5E0AcGL0aA6) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [BITE THE BULLET](https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC) | 2:47 |
 | 78 | [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 |
 | 79 | [L.O.V.E.](https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [L.O.V.E.](https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L) | 3:56 |
-| 80 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 80 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 81 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
 | 82 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 |
 

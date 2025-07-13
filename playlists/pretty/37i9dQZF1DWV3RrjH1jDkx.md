@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,650 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,651 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 22 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 |
 | 23 | [Seriøs](https://open.spotify.com/track/4RqSp8FwJT2V6aFLLUAlwv) | [Jay Sorrow](https://open.spotify.com/artist/0EaL2KcqElU2R12PDvAiuZ) | [På Godt Og Vondt](https://open.spotify.com/album/0DFV9tKgl23JcC3UFTi3ly) | 2:36 |
 | 24 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
-| 25 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 25 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 26 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/493FTCCY5sMAlb10ICFAtJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/album/0moJ5HyyeYr64SH8o17Hvf) | 2:39 |
 | 27 | [Natten Er Vår](https://open.spotify.com/track/2G9haqdpvhVKKeVvjCdpqL) | [Bank I Bordet](https://open.spotify.com/artist/29QA9MItOHMfEuYZIedm2p), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Natten Er Vår](https://open.spotify.com/album/7EiLYYgl69oQz8UNwWt7hT) | 2:34 |
 | 28 | [vampire diaries](https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [vampire diaries](https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O) | 2:35 |

@@ -20762,7 +20762,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 145706,
       "name": "Good To Be Alone",
       "url": "https://open.spotify.com/track/18f0ngPrmG9Pt219tFCQwm"
@@ -23352,7 +23352,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 413929,
       "name": "How I Became a Madman",
       "url": "https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a"
@@ -25534,7 +25534,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 109210,
       "name": "Indika",
       "url": "https://open.spotify.com/track/23REvMDaoGFRdMKGSVVK5z"
@@ -45522,7 +45522,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 219757,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/42pdtdPWKXlrioguxsv8Zs"
@@ -46309,6 +46309,28 @@
     },
     {
       "album": {
+        "name": "It's Me, Not You",
+        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235658,
+      "name": "Stare at Me",
+      "url": "https://open.spotify.com/track/4HHI8zjXh2PM71Qy7sUkIK"
+    },
+    {
+      "album": {
         "name": "Stare at Me",
         "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
       },
@@ -46324,7 +46346,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 235658,
       "name": "Stare at Me",
       "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
@@ -52734,7 +52756,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 214618,
       "name": "Triangle (feat. ROME)",
       "url": "https://open.spotify.com/track/7uOkvUVSCdX6oFVCFv7Fw1"
@@ -55856,7 +55878,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 249048,
       "name": "What A Friend",
       "url": "https://open.spotify.com/track/70t1NesQy5Kgy9XAoK9nlY"

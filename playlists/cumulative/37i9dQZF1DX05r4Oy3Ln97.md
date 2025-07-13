@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-455 songs - 1 day 0 hr 2 min
+456 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-16 | 2025-05-31 |
 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 | 2024-04-12 | 2024-06-08 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-09-13 | 2025-05-31 |
-| [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-07 |  |
+| [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-07 | 2025-07-13 |
 | [7 AM](https://open.spotify.com/track/5FFKnBx45in04E98mqtfaN) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [7 AM](https://open.spotify.com/album/2lrYnl0JdDRvlpmFzN84nl) | 3:31 | 2021-10-29 | 2022-01-20 |
 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 | 2024-09-20 |  |
 | [A Fire Inside Of Me](https://open.spotify.com/track/3N5JcXOMWU0J1lZcJrAVms) | [Lucas Dekker](https://open.spotify.com/artist/2FppznzSJ4gkN86gxuNeIF) | [A Fire Inside Of Me](https://open.spotify.com/album/5HH7aYCowVuzif3gYObhbu) | 3:58 | 2024-04-19 |  |
@@ -100,6 +100,7 @@
 | [Demons \- Massane Remix](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ) | 4:03 | 2022-07-08 | 2024-04-19 |
 | [Demons \- Massane Remix](https://open.spotify.com/track/5f4qquwjZzEXIdua2FId7b) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/0P2mWEmLyOtXeallz8cGXz) | 4:03 | 2022-06-17 | 2022-07-29 |
 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-05-23 | 2025-05-31 |
+| [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 | 2025-07-11 |  |
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2024-11-22 |  |
 | [Disco Tetris \- Edit](https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2) | 3:18 | 2025-02-14 | 2025-05-05 |
 | [Don't Forget My Love](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:19 | 2022-07-08 | 2024-04-19 |

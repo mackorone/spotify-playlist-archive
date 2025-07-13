@@ -4,12 +4,13 @@
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 13 min
+58 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain’t Like I Can Hide It](https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:00 | 2024-12-21 |  |
 | [Atlantic City](https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:15 | 2024-12-21 |  |
+| [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 | 2025-07-13 |  |
 | [Behind The Bar](https://open.spotify.com/track/5Tlb8IJOAfpKF1yKujzO1w) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:02 | 2024-12-21 |  |
 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 | 2024-12-21 |  |
 | [Bettin' Man](https://open.spotify.com/track/4wCdeawWseZUYkhN697nX7) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:08 | 2024-12-21 |  |
@@ -47,7 +48,7 @@
 | [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 | 2024-12-21 |  |
 | [Reel Problems](https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:17 | 2024-12-21 |  |
 | [Rub A Little Dirt On It \(feat\. Riley Green\)](https://open.spotify.com/track/6pnAkWB4997saPywsPSMha) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rub A Little Dirt On It \(feat\. Riley Green\)](https://open.spotify.com/album/0QKrhZJZJ5hUmM37OBZyXU) | 2:45 | 2024-12-21 | 2025-02-07 |
-| [Runnin' With An Angel](https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Runnin' With An Angel](https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9) | 3:55 | 2024-12-21 |  |
+| [Runnin' With An Angel](https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Runnin' With An Angel](https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9) | 3:55 | 2024-12-21 | 2025-07-13 |
 | [Same Old Song](https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:08 | 2024-12-21 |  |
 | [She Used to Be Mine \(with Riley Green\)](https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:41 | 2024-12-21 |  |
 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-07 |  |

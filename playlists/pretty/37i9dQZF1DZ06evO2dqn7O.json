@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 56681,
+  "num_followers": 56684,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABMD3tx3TZZMaQ+1p8rnftv",
+  "snapshot_id": "aHBUAAAAAAB2nVkCYdo+0Lg1dDPXD+69",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 177839,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Easy",
         "url": "https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 245572,
       "name": "Not Easy",
       "url": "https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 177839,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS 2.0",
         "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
       },
@@ -631,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Ambassadors | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
+        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
         }
       ],
-      "duration_ms": 235922,
-      "name": "Everything Sounds Like a Love Song (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/02pSQGZEwKrwzT9TWHFwis"
+      "duration_ms": 181266,
+      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
     },
     {
       "added_at": null,
@@ -667,6 +647,26 @@
       "duration_ms": 181306,
       "name": "leave flowers",
       "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Ambassadors | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+        }
+      ],
+      "duration_ms": 235922,
+      "name": "Everything Sounds Like a Love Song (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/02pSQGZEwKrwzT9TWHFwis"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 235426,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
     }
   ],
   "unique_name": "This Is X Ambassadors",

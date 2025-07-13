@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13246,
+  "num_followers": 13250,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACoUGbCLTaHgo1x9aXUMcwF",
+  "snapshot_id": "aHBUAAAAAACBEOJLBjAiu2bPbmy+iqr9",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Delusi\u00f3n",
+      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfY C\u00f3mo?",
         "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Delusi\u00f3n",
-      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "friend",
-      "url": "https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Est\u00e1 Cambiando",
         "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 238533,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "friend",
+      "url": "https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI"
     },
     {
       "added_at": null,
@@ -768,6 +768,22 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
+      "duration_ms": 83320,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
       "duration_ms": 177906,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ"
@@ -787,22 +803,6 @@
       "duration_ms": 155880,
       "name": "Before Seeing Green",
       "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
     }
   ],
   "unique_name": "This Is Bratty",

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-610 songs - 2 day 2 hr 50 min
+611 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Clear as Water](https://open.spotify.com/track/0OaZHTmB08aPpFrP0FaaFW) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Clear as Water](https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z) | 2:54 | 2023-08-04 |  |
 | [Come On Back With Your Love \- Sunrise Mix](https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Come On Back With Your Love](https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf) | 3:26 | 2025-01-17 |  |
 | [Cosmic Burst](https://open.spotify.com/track/08cpxxd1LWWD0ThphypIB6) | [Jason Krupp](https://open.spotify.com/artist/1IwXiIpWgZQ7txUBbdqCFf) | [Cosmic Burst](https://open.spotify.com/album/6NdKNFmfFEooVNv0SYCAK3) | 3:12 | 2024-03-01 |  |
+| [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY) | 4:46 | 2025-07-11 |  |
 | [could you not go?](https://open.spotify.com/track/7KZ9PE9btCfgqqhMGDh7P6) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [could you not go?](https://open.spotify.com/album/7qE5I0RQDSp3xt5QYPMuF1) | 2:47 | 2024-07-12 | 2025-04-05 |
 | [Coyhaique](https://open.spotify.com/track/0YTKtvWqIfXqFGVtHpcB4L) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx), [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ) | [Coyhaique](https://open.spotify.com/album/2NgUleHkvhRgysgdxHTHgU) | 6:32 | 2023-03-03 | 2024-04-13 |
 | [Coyhaique](https://open.spotify.com/track/3voYKTZwwDFjtae7VdJocv) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx), [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ) | [Coyhaique](https://open.spotify.com/album/293qGUGPIbGmdYZAkIoRtC) | 6:32 | 2022-05-03 | 2023-02-14 |
@@ -613,7 +614,7 @@
 | [You Can Win](https://open.spotify.com/track/2OxjkBtBAwF3QBVEIlOLwR) | [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [You Can Win](https://open.spotify.com/album/7y5iApVpQcZsQhxl3lpBf1) | 7:11 | 2025-06-19 |  |
 | [You're a Superstar](https://open.spotify.com/track/6i6Jj8hSVfpvqiXnVSvsTe) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [You're a Superstar](https://open.spotify.com/album/3MucnLVLWD41n03C7UQqnw) | 2:22 | 2022-02-21 | 2024-11-23 |
 | [Your Love](https://open.spotify.com/track/195FCOZRj3Z7H5AvfTwzbx) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Your Love](https://open.spotify.com/album/75WdbHFNhcNna9gLW229lL) | 3:48 | 2025-01-31 |  |
-| [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 | 2021-12-08 |  |
+| [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 | 2021-12-08 | 2025-07-13 |
 | [Yuregine Deprem](https://open.spotify.com/track/4WyEKbKh03uvJRcdKRnBBi) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV), [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Yuregine Deprem](https://open.spotify.com/album/2sdxUgB4Oit1CtucCTaqhm) | 3:47 | 2021-12-08 | 2022-07-29 |
 | [Yuregine Deprem](https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Yuregine Deprem](https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99) | 3:47 | 2022-05-03 | 2024-04-19 |
 | [Zikaron](https://open.spotify.com/track/69a3g97juYgOj3nFT6xX5d) | [Sahar Z](https://open.spotify.com/artist/47YdOgVXS5hzu5spoFFpHU) | [Mixed Feelings / Zikaron](https://open.spotify.com/album/02f2VvjIA20aM11fkIExdd) | 7:46 | 2021-12-08 | 2022-07-29 |

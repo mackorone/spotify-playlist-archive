@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,625 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,628 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 18 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
 | 19 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
 | 20 | [Wild Geese, Wild Love](https://open.spotify.com/track/7wNUuMw0R3gtYBpxaoGb64) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Your Hand Forever Checking On My Fever](https://open.spotify.com/album/3NEBgveq4crE0VXBZVw4Q9) | 5:23 |
-| 21 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
-| 22 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 |
+| 21 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 |
+| 22 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
 | 23 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
 | 24 | [Picking Up](https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 3:19 |
 | 25 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 37 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 |
 | 38 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
 | 39 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
-| 40 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
-| 41 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
+| 40 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
+| 41 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
 | 42 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
 | 43 | [Do Good Be Better](https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Do Good Be Better](https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ) | 2:42 |
 | 44 | [Beautiful Woman](https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:33 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 57 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
 | 58 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 |
 | 59 | [Starvation \- ANNA Remix](https://open.spotify.com/track/7racFB8xJL7gZYMEKi1bPH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Starvation \(ANNA Remix\)](https://open.spotify.com/album/1tUjq2hEU8AXZRGaFQk7pr) | 3:33 |
-| 60 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
-| 61 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
+| 60 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
+| 61 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
 | 62 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 |
 | 63 | [This Isn't Cool](https://open.spotify.com/track/55SZGuMJ3rvpIdgAMUAfX7) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [This Isn't Cool](https://open.spotify.com/album/6hNWARcj3WEfGOIdZiOLrd) | 3:07 |
 | 64 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 68 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 |
 | 69 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
 | 70 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 |
-| 71 | [HURT PEOPLE](https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [HURT PEOPLE](https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY) | 2:43 |
-| 72 | [Breaking Hearts](https://open.spotify.com/track/0bd28vKHk7HDgdOF0gYowj) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Breaking Hearts](https://open.spotify.com/album/051gZSH5RHDuhX8VTzP2pW) | 3:26 |
+| 71 | [Breaking Hearts](https://open.spotify.com/track/0bd28vKHk7HDgdOF0gYowj) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Breaking Hearts](https://open.spotify.com/album/051gZSH5RHDuhX8VTzP2pW) | 3:26 |
+| 72 | [HURT PEOPLE](https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [HURT PEOPLE](https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY) | 2:43 |
 | 73 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
-| 74 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 |
-| 75 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 |
+| 74 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 |
+| 75 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 |
 | 76 | [And Then Came You](https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [And Then Came You](https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS) | 3:15 |
 | 77 | [I Should’ve Danced More](https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Should’ve Danced More](https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o) | 3:21 |
 | 78 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
-| 79 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
+| 79 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 |
 | 80 | [h4msterb0y](https://open.spotify.com/track/6PNDkp573Zsb1yZDd4wjcD) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:48 |
 
 Snapshot ID: `aBn2nwAAAADligMxl48qSNMK/AfhPwAz`

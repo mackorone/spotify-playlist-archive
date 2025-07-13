@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,873 likes - 47 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,869 likes - 47 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 3 | [Wrong Way](https://open.spotify.com/track/0FXcLWA1NO6MxAe9yiK3oo) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Wrong Way](https://open.spotify.com/album/7ezbuwRqByOoFxJbs9G7dm) | 2:57 |
 | 4 | [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 |
 | 5 | [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 |
-| 6 | [day i die](https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:55 |
-| 7 | [Life at First Sight](https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Life at First Sight](https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J) | 3:21 |
-| 8 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 |
-| 9 | [Halo](https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Halo](https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL) | 2:41 |
+| 6 | [Life at First Sight](https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Life at First Sight](https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J) | 3:21 |
+| 7 | [day i die](https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:55 |
+| 8 | [Halo](https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Halo](https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL) | 2:41 |
+| 9 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 |
 | 10 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 |
 | 11 | [he never will](https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [he never will](https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI) | 2:51 |
 | 12 | [echo](https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg) | 3:18 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 40 | [Different People](https://open.spotify.com/track/12PFQS7zeWYMJoN9DT2ceE) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/5NdXSw01Lt8ha2QaaEQPZE) | 2:54 |
 | 41 | [Shady](https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:49 |
 | 42 | [Pressure](https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 2:28 |
-| 43 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 |
-| 44 | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/album/1QefxorzxXxbFOgr1anUAg) | 4:12 |
+| 43 | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/album/1QefxorzxXxbFOgr1anUAg) | 4:12 |
+| 44 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 |
 | 45 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 |
 | 46 | [STOP & GO](https://open.spotify.com/track/2kpPludPmHagO06IiRChtM) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [STOP & GO](https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x) | 2:51 |
 | 47 | [Be Sad](https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 2:48 |
 
-Snapshot ID: `aG8CgAAAAAAL9QRpFlmlGiUfearLIutg`
+Snapshot ID: `aHBUAAAAAACs0xHSbOYBqNp6VqIcKU3L`

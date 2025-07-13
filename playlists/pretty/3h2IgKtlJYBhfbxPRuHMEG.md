@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rohaan
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 508 likes - 65 songs - 3 hr 40 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 509 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0toaL49WhSJAPcTs94NCJt?si=dHWRSPStRFCdP9TX\_6nY2A"> MAXX MOOR</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,925 likes - 591 songs - 1 day 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,940 likes - 591 songs - 1 day 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 10 | [Insecure](https://open.spotify.com/track/1KDnSM5kkLdd39TYUZ1ZlB) | [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4), [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Insecure](https://open.spotify.com/album/5YCvv7GIXKTmzZg0HifWpl) | 3:10 |
 | 11 | [Shooting Star](https://open.spotify.com/track/7wR3nSBKPVCOK3Q6cqY3jk) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [Shooting Star](https://open.spotify.com/album/0JOZ3iJaYHwXKSOkjTwZv7) | 2:51 |
 | 12 | [Steve Austin](https://open.spotify.com/track/5OD8yYhmKkx6s7ZGMqMMQN) | [Indigo!](https://open.spotify.com/artist/4dCxQs4IZfRx0GtKLqjjZN) | [Steve Austin](https://open.spotify.com/album/0E4HuZcnmkVzJMxjANFGOS) | 2:15 |
-| 13 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [WINNY](https://open.spotify.com/artist/1rNZLEs8N78iZIGqlKndvA) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
+| 13 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
 | 14 | [hit & run](https://open.spotify.com/track/1bOc48xzK9LPv55xXmBhPb) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [hit & run](https://open.spotify.com/album/1h0AOwZDQEbH0lh8K7jlly) | 3:03 |
 | 15 | [\#NeedDat](https://open.spotify.com/track/2PDKcX3GhAEFC1UfefbbrW) | [Roe Xander](https://open.spotify.com/artist/3NTt2o8HHgqvumgpv6349A) | [\#NeedDat](https://open.spotify.com/album/0aIGPGqFTUjaOCm3ZkFudd) | 2:48 |
 | 16 | [Buss It](https://open.spotify.com/track/1lHKhXQaVQEF9TRzspZw4N) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/1kl2GoivQlzwmw77mq9ejm) | 2:47 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 64 | [Back of the Cab](https://open.spotify.com/track/7taVERr9AWEswc37NzIhMI) | [Nyah Grace](https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK) | [Divinely Devoted](https://open.spotify.com/album/6bdTxUObzSibIFRGAAsWRJ) | 3:18 |
 | 65 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 |
 | 66 | [In The Moment](https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH) | 3:53 |
-| 67 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 |
+| 67 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 |
 | 68 | [Romeo Y Julieta](https://open.spotify.com/track/6j6s0stPSj4N1bV01sut3b) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [Romeo Y Julieta](https://open.spotify.com/album/7jNKzCNvuoUoSrI14eKkYO) | 2:06 |
 | 69 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
 | 70 | [Distant](https://open.spotify.com/track/6XLmbs1FhNAeUVTCgXFvaF) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Distant](https://open.spotify.com/album/2Fe9DVV8LX8MDj04jf8Jyi) | 2:56 |

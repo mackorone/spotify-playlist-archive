@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Justin Bieber on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,484 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,620 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 16 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 |
 | 17 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
 | 18 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
-| 19 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 19 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 20 | [Messiah \(Devil's Diss\)](https://open.spotify.com/track/2wgcsZWtqctDORc2eSoKNQ) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq) | [Messiah \(Devil's Diss\)](https://open.spotify.com/album/0dzpAuuzU6f7OWAcxTD1UX) | 4:44 |
 | 21 | [Won’t Diss You](https://open.spotify.com/track/0QAusxoKjr4SMYRkC3MkcK) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Won't Diss You](https://open.spotify.com/album/0jMsKWAc6w7ooQTgoXLvFJ) | 2:30 |
 | 22 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |

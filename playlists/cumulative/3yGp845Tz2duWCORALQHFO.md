@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,380 songs - 7 day 15 hr 41 min
+3,381 songs - 7 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Around](https://open.spotify.com/track/0qDYl6Bj6oTuaBLNKZfuHb) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Around](https://open.spotify.com/album/4ANmjIhAGKLPOl9F3NrqWC) | 3:07 | 2025-04-18 | 2025-04-25 |
 | [Around The World \- VIP Remix](https://open.spotify.com/track/06e2PKp8yC0NHBxaCUt1Us) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Around The World Remix EP](https://open.spotify.com/album/5EuYNs0Zp7AjldY7kfvH0g) | 2:24 | 2024-09-05 | 2024-09-07 |
 | [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 | 2025-01-31 | 2025-02-07 |
+| [Arrival on Trnc](https://open.spotify.com/track/3tF364KhoVolo64KhLzPzD) | [3VTR](https://open.spotify.com/artist/5lYz2WSKe41QVPU1PwZDa8) | [Planet \- Trnc](https://open.spotify.com/album/1qZqOENPudP7upTDbXUmUj) | 4:05 | 2025-07-13 |  |
 | [Artie](https://open.spotify.com/track/7fAjJxamnbaMt0xTgrZ1zD) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Artie](https://open.spotify.com/album/7nbT8zoxCQSm5zt0q2whdr) | 2:34 | 2025-03-21 | 2025-03-29 |
 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 | 2024-08-30 | 2024-09-06 |
 | [As The World Goes Round](https://open.spotify.com/track/4oZ3hrAUJKG8AoqSYchOwj) | [Davey Asprey](https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf), [steven](https://open.spotify.com/artist/1YVuB5oU6PFvmGlbj265fX), [Caitlin Potter](https://open.spotify.com/artist/6QKw0Quz1SlN1HWwomofnI) | [As The World Goes Round](https://open.spotify.com/album/7DSOMqinW1bGDDMQhzIoGU) | 4:02 | 2025-02-21 | 2025-03-01 |

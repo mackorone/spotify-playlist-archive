@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 19913,
+  "num_followers": 19914,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADwHA+2RCx52BrXONQAldQi",
+  "snapshot_id": "aHBUAAAAAADJe6TCDmX9Mlf1Ebv1upif",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "#PROUDCATOWNERREMIX",
+        "url": "https://open.spotify.com/album/2rfqTGtJKFY3hJLuuTLA5A"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "#PROUDCATOWNERREMIX",
+      "url": "https://open.spotify.com/track/5dkZ2DrcPJrqwlRQe6Q35e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Nasty (w/ Rico Nasty & Whethan)",
         "url": "https://open.spotify.com/album/02LwsAJRZNg5elZqc4tPEo"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 131391,
       "name": "Get Nasty (w/ Rico Nasty & Whethan)",
       "url": "https://open.spotify.com/track/5l9IES7aHrrjA1yStzXaVW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#PROUDCATOWNERREMIX",
-        "url": "https://open.spotify.com/album/2rfqTGtJKFY3hJLuuTLA5A"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 157293,
-      "name": "#PROUDCATOWNERREMIX",
-      "url": "https://open.spotify.com/track/5dkZ2DrcPJrqwlRQe6Q35e"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jealous (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Jealous (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HARDC0RE DR3AMZ",
         "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 155685,
       "name": "H.O.T.",
       "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jealous (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Jealous (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
     },
     {
       "added_at": null,

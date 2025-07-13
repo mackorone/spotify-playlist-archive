@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,043 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,041 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 70 | [Family Tapes](https://open.spotify.com/track/0wl2rHiiQRHAW41UHYOI1u) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [Family Tapes](https://open.spotify.com/album/30skCuUg5LtMV2xodFxvnp) | 4:23 |
 | 71 | [Two Hearts](https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:53 |
 | 72 | [Brave Young Man](https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Together Alone](https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf) | 2:51 |
-| 73 | [Too Late Babe](https://open.spotify.com/track/0CKT4fraX6cV2T0HeGGIJm) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Too Late Babe](https://open.spotify.com/album/06yhTY9ImZzxXoJdcxokg5) | 4:49 |
-| 74 | [White Bird](https://open.spotify.com/track/7n0oyohwoDeRqD5ktNGBQr) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [White Bird](https://open.spotify.com/album/4zHrB2f7c1S9CuEJnz8woA) | 3:24 |
-| 75 | [Enjoy the Silence \- Live from the Front Porch](https://open.spotify.com/track/5sjbWOn7ZhqhF7Z0CCXPwh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Enjoy the Silence \(Live from the Front Porch\)](https://open.spotify.com/album/5neuo4usIz6sjvtV8anBsN) | 3:21 |
-| 76 | [Candle](https://open.spotify.com/track/6FZVM2aVccCZS9Jd3Cd9SJ) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm) | 3:14 |
+| 73 | [White Bird](https://open.spotify.com/track/7n0oyohwoDeRqD5ktNGBQr) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [White Bird](https://open.spotify.com/album/4zHrB2f7c1S9CuEJnz8woA) | 3:24 |
+| 74 | [Too Late Babe](https://open.spotify.com/track/0CKT4fraX6cV2T0HeGGIJm) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Too Late Babe](https://open.spotify.com/album/06yhTY9ImZzxXoJdcxokg5) | 4:49 |
+| 75 | [Candle](https://open.spotify.com/track/6FZVM2aVccCZS9Jd3Cd9SJ) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm) | 3:14 |
+| 76 | [Enjoy the Silence \- Live from the Front Porch](https://open.spotify.com/track/5sjbWOn7ZhqhF7Z0CCXPwh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Enjoy the Silence \(Live from the Front Porch\)](https://open.spotify.com/album/5neuo4usIz6sjvtV8anBsN) | 3:21 |
 | 77 | [Sparklers](https://open.spotify.com/track/4nKWycT7IEMCJqCfAy7mTc) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Olympic Girls](https://open.spotify.com/album/2fXjFuPIS8mmNjzrm20t4k) | 3:46 |
-| 78 | [Steel Pony Blues](https://open.spotify.com/track/5xBsmg6Y5OUIdRMawv6ogS) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 4:34 |
-| 79 | [Desert Wine](https://open.spotify.com/track/03wN5wNXNlyLdWh02ufGvZ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Desert Wine](https://open.spotify.com/album/2mone0g6ZIiO9OH3WSvUU6) | 3:08 |
+| 78 | [Desert Wine](https://open.spotify.com/track/03wN5wNXNlyLdWh02ufGvZ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Desert Wine](https://open.spotify.com/album/2mone0g6ZIiO9OH3WSvUU6) | 3:08 |
+| 79 | [Steel Pony Blues](https://open.spotify.com/track/5xBsmg6Y5OUIdRMawv6ogS) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 4:34 |
 | 80 | [Million Miles](https://open.spotify.com/track/3g9NYzvCKYtBUOCPrn1bHG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Million Miles](https://open.spotify.com/album/3zHgggm4WYyFje6OYrszEB) | 3:49 |
 | 81 | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/track/6XmzbSrY7WoUQB99u5Bi6E) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/album/0uuf4GYy7bTBpJEaH5vVDq) | 4:44 |
 | 82 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 93 | [Late Riser](https://open.spotify.com/track/0pwi4ZfOYqBWFwnf3yhT43) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/2AyUp138VeD0Wm2UFwAljO) | 3:17 |
 | 94 | [Floral Dresses](https://open.spotify.com/track/6IjxaBQs1NGkPTNttWvAat) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Something's Changing](https://open.spotify.com/album/7wc8JVfc4CY9H1xThYJABJ) | 2:33 |
 | 95 | [Find a Way \(Acoustic\)](https://open.spotify.com/track/7H0yB7Tm1GmLdjpDDLSISE) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Find a Way \(Acoustic\) / Filling Up Our Lungs \(Acoustic\)](https://open.spotify.com/album/2ffjsINnl0jzADOrgivpXL) | 3:38 |
-| 96 | [Power Over Me \- Acoustic](https://open.spotify.com/track/47rNYq9IUveetu35c65xTw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me](https://open.spotify.com/album/7ohVCsxjU81BfXDGj6W8Ba) | 3:20 |
-| 97 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 |
+| 96 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 |
+| 97 | [Power Over Me \- Acoustic](https://open.spotify.com/track/47rNYq9IUveetu35c65xTw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me](https://open.spotify.com/album/7ohVCsxjU81BfXDGj6W8Ba) | 3:20 |
 | 98 | [Time After Time](https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q) | 2:50 |
 | 99 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 100 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
+| 100 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
 
 Snapshot ID: `ZQPWwAAAAAD8QCNSauaXbwyVmLeIGzS7`

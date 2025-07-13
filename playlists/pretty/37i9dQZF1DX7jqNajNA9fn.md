@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jqNajNA9fn.md) - [plain]
 
 > <a href="spotify:artist:5W10uJRsbt9bROJDKoI1Wn">Moses Sumney</a> takes us back to the sound of 1993\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,138 likes - 27 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,195 likes - 27 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

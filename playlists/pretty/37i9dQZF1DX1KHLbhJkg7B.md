@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,499 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,549 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 61 | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 |
 | 62 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 63 | [American Girl](https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [American Girl](https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin) | 3:03 |
-| 64 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
-| 65 | [Cowboy Take Me Away](https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Cowboy Take Me Away](https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm) | 4:29 |
+| 64 | [Cowboy Take Me Away](https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Cowboy Take Me Away](https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm) | 4:29 |
+| 65 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
 | 66 | [You're Still The One](https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [You're Still The One](https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD) | 3:15 |
 | 67 | [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 |
-| 68 | [Faithfully \- feat\. Willie Nelson](https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Faithfully \(feat\. Willie Nelson\)](https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX) | 4:22 |
-| 69 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 |
+| 68 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 |
+| 69 | [Faithfully \- feat\. Willie Nelson](https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Faithfully \(feat\. Willie Nelson\)](https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX) | 4:22 |
 | 70 | [Someone Like You](https://open.spotify.com/track/1DjDt7ngqk7r1vpcV7d9sx) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Someone Like You/Run](https://open.spotify.com/album/6xkhaMcs6Esu7gfHW1TGK5) | 4:15 |
 | 71 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
 | 72 | [From Now On](https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [From Now On](https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p) | 4:02 |

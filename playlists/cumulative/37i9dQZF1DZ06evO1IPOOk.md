@@ -4,7 +4,7 @@
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-72 songs - 5 hr 1 min
+73 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2024-05-02 |  |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2024-05-02 | 2024-05-20 |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-17 |  |
-| [Backseat Freestyle](https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 3:32 | 2024-05-02 |  |
+| [Backseat Freestyle](https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 3:32 | 2024-05-02 | 2025-07-13 |
 | [Bad Blood \(feat\. Kendrick Lamar\) \(Taylor's Version\)](https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:19 | 2024-05-02 |  |
 | [Bitch, Don’t Kill My Vibe](https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 5:10 | 2024-05-02 |  |
+| [Chains & Whips](https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:03 | 2025-07-13 |  |
 | [Chapter Six](https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:41 | 2024-05-02 | 2025-06-07 |
 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 | 2024-05-02 |  |
 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 | 2024-05-02 |  |

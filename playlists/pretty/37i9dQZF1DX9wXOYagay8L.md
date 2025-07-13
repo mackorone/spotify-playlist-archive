@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC?si=OLmMmWTlQmahkjHMhJO6OQ">Brenda Mtambo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,948 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,011 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 15 | [Malome](https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX) | [Kiddy Kat](https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc) | [MORWA WA MPHERI](https://open.spotify.com/album/4lK7i4RkkGVQjtSBE1RsFt) | 3:39 |
 | 16 | [Ivaka](https://open.spotify.com/track/3UpG2Cth6uhfQpQjiMH6mR) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Imac Soul](https://open.spotify.com/artist/3vbmV1oSje6xEjk6iImZjg) | [Ivaka](https://open.spotify.com/album/1DlPssNUJQlJXqS5ES5jNu) | 5:09 |
 | 17 | [Abazazi Bafunani](https://open.spotify.com/track/0spmIF7xn9SuE5hH5ubT8f) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Icala Le Mpumelelo](https://open.spotify.com/album/61J1H6eXGo2MrfDQ2iBhfo) | 3:49 |
-| 18 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 |
+| 18 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 |
 | 19 | [Ubuhle Obungaka](https://open.spotify.com/track/1suLe6X8s2fxJ777GvJT8S) | [Ovuyonke](https://open.spotify.com/artist/1PUJY8Y2zROwux5qnaGb9O), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [Jaedon Daniels](https://open.spotify.com/artist/5EaNhWHyEwa0nHjsJqdniH) | [Ubuhle Obungaka](https://open.spotify.com/album/26NtnzpB9akhyOHypfPzLq) | 3:15 |
 | 20 | [Stand By Me \(feat\. John Lundun\)](https://open.spotify.com/track/0UjHRYxSKwNrgdOMtK7niI) | [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK), [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk) | [MUSIKI](https://open.spotify.com/album/2d0qSB2376zFHbtzIca6aS) | 3:16 |
 | 21 | [Asambe](https://open.spotify.com/track/688pDxv1DOQKj4Z4uiB76w) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Asambe](https://open.spotify.com/album/5IvgiPZ4fG8MPftE3IiDGk) | 2:12 |

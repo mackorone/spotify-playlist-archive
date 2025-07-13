@@ -4,7 +4,7 @@
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-102 songs - 7 hr 41 min
+103 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Emkay](https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:25 | 2022-01-15 | 2025-05-22 |
 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 | 2024-08-17 |  |
 | [Eyesdown](https://open.spotify.com/track/0XiHcuUEf1wmvmX1cOaVR9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 5:26 | 2022-01-15 | 2024-04-25 |
+| [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 | 2025-07-13 |  |
 | [First Fires](https://open.spotify.com/track/2Yz2Z1ENB85nYrK3Rg2qxO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:38 | 2022-01-15 | 2025-06-22 |
 | [Flashlight](https://open.spotify.com/track/0CPEvRFKdvpK0veEeY56T6) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:30 | 2022-01-15 | 2023-11-11 |
 | [Flutter](https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:44 | 2022-01-30 |  |
@@ -68,7 +69,7 @@
 | [Nightlite](https://open.spotify.com/track/1gI1nC5E3ObyMtejdc8crP) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Bajka](https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 5:09 | 2022-01-15 |  |
 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 | 2022-01-15 |  |
 | [Noctuary](https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 5:22 | 2022-01-15 |  |
-| [Northport](https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:56 | 2025-04-26 |  |
+| [Northport](https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:56 | 2025-04-26 | 2025-07-13 |
 | [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 | 2022-01-15 |  |
 | [On Your Marks](https://open.spotify.com/track/4SjvkRy0nVHd3oe7BkZ1u4) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:11 | 2022-01-15 | 2022-10-12 |
 | [Ontario](https://open.spotify.com/track/4GroumsjzAcgCwJzTGY7px) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:52 | 2023-01-25 | 2023-02-17 |

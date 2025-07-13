@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Peggy Gou
 
-1,216 songs - 2 day 22 hr 28 min
+1,217 songs - 2 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 | 2021-10-16 | 2022-04-20 |
 | [Electric Mama](https://open.spotify.com/track/4O2Cd6mRDAwXp5ggwDNYep) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Electric Mama](https://open.spotify.com/album/3O0HOJw2enbn0mcNl0Iawv) | 6:47 | 2021-03-27\* | 2021-05-15 |
 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 | 2024-11-08 |  |
-| [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 | 2024-12-20 |  |
+| [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 | 2024-12-20 | 2025-07-13 |
 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 | 2024-09-06 | 2024-11-10 |
 | [Erase](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Erase](https://open.spotify.com/album/76ISW6PFWVDcSJsHO7jBbk) | 4:13 | 2021-09-07 | 2022-07-24 |
 | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/track/5TRubkfle0s3bQAPtBPQIf) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Juanmih](https://open.spotify.com/artist/1ONFKxaF62UuzaaMwzuzm9) | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/album/3dKKWOI7rNPtfwn8lVX6HY) | 1:52 | 2023-06-02 | 2023-10-30 |
@@ -820,6 +820,7 @@
 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 | 2022-12-28 | 2023-01-06 |
 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 | 2022-11-11 | 2024-01-05 |
 | [Our Time Is Now](https://open.spotify.com/track/2EECRc7ChquXKilHETQ4Ju) | [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT), [Frank Alowishus](https://open.spotify.com/artist/6iyaBvd1BwRY6AiVgPQqUA) | [Acts of Love Mixtape: Act Three](https://open.spotify.com/album/0OqijRECTTuYyHnpz59QoX) | 6:26 | 2022-12-28 | 2023-01-06 |
+| [Out In The Streets](https://open.spotify.com/track/2uxqdKyl1zTx1KGv9FUZ0w) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J) | [Out In The Streets](https://open.spotify.com/album/7d194iurh335XjLVGe0IRq) | 3:16 | 2025-07-04 |  |
 | [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 | 2024-12-06 | 2025-02-17 |
 | [Out Of Reach](https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Out Of Reach](https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF) | 4:15 | 2021-06-03 | 2022-08-24 |
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2022-05-06 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 
 > This is Bring Me The Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,302 likes - 38 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,377 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 | 34 | [Empire \(Let Them Sing\)](https://open.spotify.com/track/1DbdQp5dwuawBGmxSHw6Fr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:45 |
 | 35 | [medicine](https://open.spotify.com/track/3GHtEaicELsTViK08EXEQQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:47 |
 | 36 | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/0vFzdbPUKZKZ9Xn9GfvIS7) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:32 |
-| 37 | [mother tongue](https://open.spotify.com/track/5IwUFTiNkarb5HEtNRtRtc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:37 |
-| 38 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
+| 37 | [drwn.vvv](https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:25 |
+| 38 | [mother tongue](https://open.spotify.com/track/5IwUFTiNkarb5HEtNRtRtc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:37 |
+| 39 | [followU.bnd](https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:29 |
+| 40 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
 
-Snapshot ID: `aG8CgAAAAACNDCshj1SKAqUdIuQYSbv6`
+Snapshot ID: `aHBUAAAAAAAdfw3WIvHOX1E/nWbosE37`

@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Billyrrom",
-  "num_followers": 298193,
+  "num_followers": 298259,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2025-07-08 18:49:59",
       "album": {
-        "name": "\u306d\u3063\u3053",
-        "url": "https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR"
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 239728,
-      "name": "\u306d\u3063\u3053",
-      "url": "https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl"
+      "duration_ms": 193990,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
     },
     {
       "added_at": "2025-07-08 18:49:59",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2025-07-08 18:49:59",
       "album": {
-        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
+        "name": "\u306d\u3063\u3053",
+        "url": "https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 193990,
-      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
+      "duration_ms": 239728,
+      "name": "\u306d\u3063\u3053",
+      "url": "https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl"
     },
     {
       "added_at": "2025-07-08 18:49:59",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-07-08 18:49:59",
       "album": {
-        "name": "NO MAP",
-        "url": "https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "NO MAP",
-      "url": "https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR"
-    },
-    {
-      "added_at": "2025-07-08 18:49:59",
-      "album": {
         "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
         "url": "https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 254506,
       "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
       "url": "https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv"
+    },
+    {
+      "added_at": "2025-07-08 18:49:59",
+      "album": {
+        "name": "NO MAP",
+        "url": "https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "NO MAP",
+      "url": "https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR"
     },
     {
       "added_at": "2025-07-08 18:49:59",

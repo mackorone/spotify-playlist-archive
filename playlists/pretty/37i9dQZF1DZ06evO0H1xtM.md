@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,893 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,029 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 23 | [Anda Bien el Nene](https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Anda Bien el Nene](https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU) | 2:57 |
 | 24 | [A ti](https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [On fire](https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8) | 2:47 |
 | 25 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
-| 26 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw) | 2:36 |
-| 27 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
-| 28 | [La Vida Ruina \(feat\. Ariel Camacho\)](https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [La Vida Ruina \(Version Deluxe\)](https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb) | 3:33 |
-| 29 | [El Pickles](https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:02 |
+| 26 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
+| 27 | [La Vida Ruina \(feat\. Ariel Camacho\)](https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [La Vida Ruina \(Version Deluxe\)](https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb) | 3:33 |
+| 28 | [El Pickles](https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:02 |
+| 29 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw) | 2:36 |
 | 30 | [La Paso Bien](https://open.spotify.com/track/28YY7biYW6ocfOxl2blQPA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 3:13 |
 | 31 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
 | 32 | [Sigan Atentos](https://open.spotify.com/track/6GrGeO8GtlBe3Nulkv6LMi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigan Atentos](https://open.spotify.com/album/0zLVv9rORmN7dGEqEql0rK) | 5:06 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 47 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan) | 3:46 |
 | 48 | [La Sandía](https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 3:15 |
 | 49 | [Emprendedor](https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:26 |
-| 50 | [No Me Vuelvo a Emborrachar](https://open.spotify.com/track/1QNJmgXbCGiksbQPYk6bjg) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Me Vuelvo a Emborrachar](https://open.spotify.com/album/1BvadvC7V1a3lAsy7qXu2n) | 3:03 |
+| 50 | [El Veintitantos](https://open.spotify.com/track/27LrAuBRkxge9zxIQLljjc) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 2:51 |
 
-Snapshot ID: `aG8CgAAAAADe25T5lcavMYVmMCN1EI5j`
+Snapshot ID: `aHBUAAAAAADHdZEDhjfSSN2wPfKrlB0p`

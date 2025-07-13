@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,882 likes - 41 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,940 likes - 41 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 40 | [42](https://open.spotify.com/track/4et0Q36ts1NyLR7LrOxrUA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 4:00 |
 | 41 | [Blind Leading The Blind](https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading The Blind](https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4) | 3:44 |
 
-Snapshot ID: `aG8CgAAAAAAUZWUyweIii1HeRhutIIGr`
+Snapshot ID: `aHBUAAAAAACEj1qQpS20S4+5kSp6rGmd`

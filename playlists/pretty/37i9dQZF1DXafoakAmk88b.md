@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: John Glacier
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,629 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,631 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 42 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 43 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
 | 44 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
-| 45 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 |
-| 46 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
+| 45 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
+| 46 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 |
 | 47 | [Perfect Stranger](https://open.spotify.com/track/5ZLfgxU8yDwwMQXA2OSFlb) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfect Stranger](https://open.spotify.com/album/5gSD2ws5CGoFVoPWtcF4qL) | 3:17 |
 | 48 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
 | 49 | [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 |

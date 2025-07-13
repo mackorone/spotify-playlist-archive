@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 228170,
+  "num_followers": 228205,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAD7IRssClICznjsmHRZSGYU",
+  "snapshot_id": "aHBUAAAAAAAxQI8HkJA3Y9oTW+mLC3i+",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 340826,
-      "name": "Lady, Sweet Lady",
-      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 239600,
       "name": "September When I First Met You - Single Version",
       "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 340826,
+      "name": "Lady, Sweet Lady",
+      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Love Makin' Music",
-      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Another Way To Say I Love You",
         "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 302493,
       "name": "Heavenly, That's What You Are To Me",
       "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Love Makin' Music",
+      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
     },
     {
       "added_at": null,

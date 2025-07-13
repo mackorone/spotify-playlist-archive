@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: HAIM
 
-2,152 songs - 4 day 17 hr 57 min
+2,153 songs - 4 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-28 | 2022-10-30 |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-06-02 | 2022-01-06 |
 | [Creases](https://open.spotify.com/track/4ootnwx6kNm9jRd3hu0qRr) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Creases](https://open.spotify.com/album/6GX28PQPkjog77dchhS7dp) | 2:26 | 2021-03-01 | 2021-03-21 |
-| [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 |  |
+| [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 | 2025-07-13 |
 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-22 | 2023-09-30 |
 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 | 2025-07-04 |  |
 | [crowd](https://open.spotify.com/track/4b0Z35o4ScmuFPTFdmFMEs) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [crowd](https://open.spotify.com/album/5unb3zadaEdorA9NLtoim8) | 2:46 | 2020-10-16 | 2021-08-17 |
@@ -1085,6 +1085,7 @@
 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 | 2021-10-10 | 2021-10-14 |
 | [L.A\. \(‭+1 .818.643.6885‬\)](https://open.spotify.com/track/4JwFYQF1sT86zKTVDlVKaI) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [L.A\. \(‭+1.818.643.6885‬\)](https://open.spotify.com/album/5SIAZ7pplBFvm2OTQheI1H) | 2:44 | 2023-07-07 | 2023-08-26 |
 | [la la la that’s how it goes](https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 3:39 | 2020-10-20 | 2021-03-06 |
+| [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-11 |  |
 | [Ladygirl](https://open.spotify.com/track/1HmvWDyb82cNLNhGfe60nr) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy Pt\. 1](https://open.spotify.com/album/038wFBV1FT6Q90Wpd3S4zm) | 2:04 | 2024-02-02 | 2024-04-06 |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 | 2023-07-08 |
 | [Lamb's Wool](https://open.spotify.com/track/7egu63DOhNpivWOpGtzqGS) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lamb's Wool](https://open.spotify.com/album/7lDB1EJc0c7wbH7j687S3a) | 4:36 | 2021-02-27 | 2021-05-27 |

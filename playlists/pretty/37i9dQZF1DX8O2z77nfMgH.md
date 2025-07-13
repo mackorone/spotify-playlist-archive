@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Paloma Mami
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,845 likes - 54 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,667 likes - 54 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [APÁGAME LA LUZ](https://open.spotify.com/track/7Bte2ymsgMvZB5QzmkCV9I) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [APÁGAME LA LUZ](https://open.spotify.com/album/3JkWQRSyuv0NbyLaXAN7M2) | 2:34 |
 | 9 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
 | 10 | [POR SUS BESOS](https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [POR SUS BESOS](https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI) | 3:06 |
-| 11 | [Nostalgia.0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia.0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
+| 11 | [Nostalgia .0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia .0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
 | 12 | [Métete De Todo \(Remix\)](https://open.spotify.com/track/031Kpok7NaHZt2g3YdX5Pc) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [DNA ALAHINE](https://open.spotify.com/artist/248rhHtgAQHcXPW4ySufme) | [Métete De Todo \(Remix\)](https://open.spotify.com/album/1NH2UCWSrQHx2ekFJv8Bqz) | 2:57 |
 | 13 | [ILEGAL](https://open.spotify.com/track/5WLdrk3PvjdfvT27sVtofH) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Kapo Wanted](https://open.spotify.com/artist/4zGx6KpwUSVaYjiuyCciVK) | [ILEGAL](https://open.spotify.com/album/750D5UFg2ul5X1ONxHyARH) | 2:42 |
 | 14 | [Aprendí](https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Aprendí](https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81) | 3:03 |

@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: JHus x Asake ",
-  "num_followers": 35668,
+  "num_followers": 35694,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-07-11 00:01:27",
       "album": {
+        "name": "Let Me Fly (Deluxe)",
+        "url": "https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 150041,
+      "name": "Strippers Lives Matter",
+      "url": "https://open.spotify.com/track/5PQqmwiJwo6IEYVWSX0Vvz"
+    },
+    {
+      "added_at": "2025-07-11 00:01:27",
+      "album": {
         "name": "OK!",
         "url": "https://open.spotify.com/album/5zt9BqjjEKOIgAYiwgf46b"
       },
@@ -1135,26 +1151,6 @@
       "duration_ms": 149968,
       "name": "LET ME BE",
       "url": "https://open.spotify.com/track/3tL4lxj4zfhbJTCCVOT6Lr"
-    },
-    {
-      "added_at": "2025-07-11 00:01:27",
-      "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     }
   ],
   "unique_name": "Hype List",

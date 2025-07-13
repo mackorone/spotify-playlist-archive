@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27058,
+  "num_followers": 27057,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADh1lDK5vIxYUMEkodCDGJ0",
+  "snapshot_id": "aHBUAAAAAAAv7i7Pdt2vJm2WHhJvcU9Q",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Thanks To God",
-        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 214056,
-      "name": "Give Thanks To God",
-      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyful Noise (feat. DOE) [Live]",
         "url": "https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 278375,
       "name": "Joyful Noise (feat. DOE) - Live",
       "url": "https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Thanks To God",
+        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 214056,
+      "name": "Give Thanks To God",
+      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPACE",
-        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Bless The One - Live",
-      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 246627,
       "name": "No Body (feat. Matt Maher)",
       "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Bless The One - Live",
+      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
     },
     {
       "added_at": null,
@@ -715,50 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The St. Nemele Collab Sessions",
-        "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        },
-        {
-          "name": "Tide Electric",
-          "url": "https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "It's You - Tide Electric Remix",
-      "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "The Way You Love Me",
-      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
       },
@@ -779,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abide With Me (Radio Version)",
-        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
       "artists": [
         {
@@ -788,25 +744,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 221546,
-      "name": "Abide With Me - Radio Version",
-      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+      "duration_ms": 198066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
     },
     {
       "added_at": null,
@@ -835,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+        "name": "Abide With Me (Radio Version)",
+        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
       },
       "artists": [
         {
@@ -844,9 +784,53 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+      "duration_ms": 221546,
+      "name": "Abide With Me - Radio Version",
+      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The St. Nemele Collab Sessions",
+        "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Tide Electric",
+          "url": "https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "It's You - Tide Electric Remix",
+      "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 239256,
       "name": "Lord of My Life",
       "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is imase\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 41 min
+48 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [ヒロイン](https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ヒロイン](https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5) | 3:22 | 2023-12-26 |  |
 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 | 2023-12-26 |  |
 | [プリズム](https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [プリズム](https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga) | 3:30 | 2024-11-10 |  |
+| [ミスター・ムーンライト](https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミスター・ムーンライト](https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X) | 3:22 | 2025-07-13 |  |
 | [ミッドナイトガール](https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミッドナイトガール](https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw) | 3:22 | 2024-01-16 |  |
 | [メトロシティ](https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メトロシティ](https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd) | 3:20 | 2024-09-27 |  |
 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 | 2024-09-01 |  |

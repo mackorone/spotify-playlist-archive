@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 564666,
+  "num_followers": 564708,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAJHch+cguBFdTUsy5ecCtr",
+  "snapshot_id": "aHBUAAAAAACPSwkIioYpzGFiOYFyO3n+",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 135884,
       "name": "Locos",
       "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solamente",
+        "url": "https://open.spotify.com/album/5dO3wpokgv43lw96nQBvzG"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Solamente",
+      "url": "https://open.spotify.com/track/1Dg29EgoDnKx3FXxTz2Adz"
     },
     {
       "added_at": null,
@@ -535,26 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Mexico Song",
-        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Bear Busby",
-          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
-        },
-        {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 213812,
-      "name": "De Mexico Song",
-      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": null,
@@ -611,26 +627,6 @@
       "duration_ms": 255712,
       "name": "No Llegar\u00e9 (Remix)",
       "url": "https://open.spotify.com/track/5Fhf4Iwal5MMHXH4TiOiEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A LA ORDEN",
-        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "A LA ORDEN",
-      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": null,
@@ -791,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "De Viernes a Viernes",
-      "url": "https://open.spotify.com/track/6Coy2E6vUlhlvvHOA2eCOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -831,6 +807,26 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "De Viernes a Viernes",
+      "url": "https://open.spotify.com/track/6Coy2E6vUlhlvvHOA2eCOp"
     },
     {
       "added_at": null,
@@ -967,22 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bandera",
-        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
+        "name": "Planta Medicinal",
+        "url": "https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Bubaseta",
+          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
         }
       ],
-      "duration_ms": 160006,
-      "name": "La Bandera",
-      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
+      "duration_ms": 227735,
+      "name": "Planta Medicinal",
+      "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
     },
     {
       "added_at": null,
@@ -1003,22 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planta Medicinal",
-        "url": "https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E"
+        "name": "La Bandera",
+        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Bubaseta",
-          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 227735,
-      "name": "Planta Medicinal",
-      "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
+      "duration_ms": 160006,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
     },
     {
       "added_at": null,
@@ -1139,26 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/3eXcGyDMSAQVmguugUuaqV"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/16XAN9gpC9SRqurufHuOtG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Preguntan por M\u00ed",
         "url": "https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY"
       },
@@ -1195,6 +1171,26 @@
       "duration_ms": 228500,
       "name": "Si Preguntan por M\u00ed",
       "url": "https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/3eXcGyDMSAQVmguugUuaqV"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/16XAN9gpC9SRqurufHuOtG"
     },
     {
       "added_at": null,

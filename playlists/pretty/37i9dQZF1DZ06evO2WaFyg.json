@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 259065,
+  "num_followers": 259129,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADrgjK/qDmkJRXW3KipNu7N",
+  "snapshot_id": "aHBUAAAAAABaH+U4R1gZ6d8kO8Cx2C/I",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money On Money (feat. Future)",
-        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Money On Money (feat. Future)",
-      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money On Money (feat. Future)",
+        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Money On Money (feat. Future)",
+      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
     },
     {
       "added_at": null,
@@ -299,30 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
-      "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
@@ -343,6 +319,30 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "pick up the phone",
-        "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 252262,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 269693,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "pick up the phone",
+        "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 252262,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
     },
     {
       "added_at": null,

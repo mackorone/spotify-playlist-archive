@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Sextile on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,159 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,250 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 39 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 40 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 |
 | 41 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
-| 42 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
-| 43 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 42 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
+| 43 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
 | 44 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
 | 45 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |
 | 46 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 68 | [The Reeling](https://open.spotify.com/track/5noQJkpVfHt2D4df2GXieV) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 4:47 |
 | 69 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
 | 70 | [My Dick](https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ) | [Mickey Avalon](https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2) | [Mickey Avalon](https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV) | 3:00 |
-| 71 | [Back in Your Head](https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The Con](https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK) | 3:00 |
-| 72 | [I Remember](https://open.spotify.com/track/2edcAWwKM7SQajsFGP0edC) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [I Remember](https://open.spotify.com/album/7BvvgBNrGFOvoYKNPvoXv5) | 9:53 |
+| 71 | [I Remember](https://open.spotify.com/track/2edcAWwKM7SQajsFGP0edC) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [I Remember](https://open.spotify.com/album/7BvvgBNrGFOvoYKNPvoXv5) | 9:53 |
+| 72 | [Back in Your Head](https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The Con](https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK) | 3:00 |
 | 73 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 |
 | 74 | [Emerge](https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY) | [Fischerspooner](https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3) | [\#1](https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2) | 4:48 |
 | 75 | [Wildcat](https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 4:20 |
 | 76 | [You’re Not The One](https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:55 |
-| 77 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
-| 78 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
+| 77 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
+| 78 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
 | 79 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 |
 | 80 | [Le Disko](https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak) | [Shiny Toy Guns](https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY) | [We Are Pilots](https://open.spotify.com/album/7EJf2RoD8f2Tm7hzpwK4bQ) | 3:23 |
 | 81 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 96 | [Women Respond to Bass](https://open.spotify.com/track/0BBmhTKDbkCoDt68VgZ0jj) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [yes, please.](https://open.spotify.com/album/2RWrI8TfimAyiRIcmVuV77) | 2:46 |
 | 97 | [Jane Fonda](https://open.spotify.com/track/0Y2QejubtJugRGvfPgOQ1w) | [Mickey Avalon](https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2) | [Mickey Avalon](https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV) | 3:40 |
 | 98 | [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 |
-| 99 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
-| 100 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 |
+| 99 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 |
+| 100 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
 
 Snapshot ID: `aFWULAAAAAAy9H2uJgQyGkUp0ThpYTCh`

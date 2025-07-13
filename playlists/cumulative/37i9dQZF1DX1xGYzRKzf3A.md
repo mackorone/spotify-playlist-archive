@@ -4,7 +4,7 @@
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-272 songs - 16 hr 22 min
+273 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Carmesí](https://open.spotify.com/track/5XLyfpeRUt19MCsHP2faVJ) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Carmesí](https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn) | 2:56 | 2024-07-15 | 2025-06-18 |
 | [Casas de Madera](https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 4:23 | 2023-11-08 |  |
 | [Casas De Madera](https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas De Madera \(Remasterizado\)](https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo) | 4:24 | 2023-06-16 | 2024-04-19 |
+| [Casi Siempre Estoy Pensando En Ti](https://open.spotify.com/track/313aLoAv5EAuPDxXqpFTIe) | [Sonido Mazter](https://open.spotify.com/artist/2Je9VeZnmnpDrCIwWu3wuM) | [Falsa Traición](https://open.spotify.com/album/0hgNADfjKFvsM3SwgKRqnR) | 2:30 | 2025-06-17 |  |
 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 | 2025-06-17 |  |
 | [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 | 2023-06-16 | 2024-04-19 |
 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 | 2023-06-16 | 2025-06-18 |
@@ -59,7 +60,7 @@
 | [Contigo Tengo Todo](https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Versiones Unicas de los Reyes](https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj) | 4:39 | 2023-06-16 | 2024-07-03 |
 | [Cuando Lo Negro Sea Bello](https://open.spotify.com/track/6RNaww08bvsfCbE95pZkzh) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Éxitos Andrés Landero](https://open.spotify.com/album/3r1DwWNf3WIFGAvXF38p3a) | 3:09 | 2023-11-08 | 2025-06-18 |
 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 | 2023-06-16 |  |
-| [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 | 2023-06-16 | 2025-07-12 |
+| [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 | 2023-06-16 |  |
 | [Cumbia Campesina](https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [A Díos Le Pido](https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3) | 3:52 | 2023-06-16 | 2025-06-18 |
 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 | 2023-06-16 |  |
 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 | 2023-06-16 |  |
@@ -150,7 +151,7 @@
 | [Le Hace Falta Un Beso](https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives, Vol.1](https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ) | 4:00 | 2023-06-16 | 2024-04-19 |
 | [Lejanía](https://open.spotify.com/track/526efTi8StSvD9I7P2K5UQ) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 3:44 | 2023-06-16 | 2024-04-19 |
 | [Lejanía](https://open.spotify.com/track/6uba6FMkBMkQGzDhzXnPf3) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Solo Cumbias](https://open.spotify.com/album/3OrPozsgIvSVIZRXfNNwex) | 3:44 | 2023-06-16 | 2023-10-06 |
-| [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 | 2023-11-08 |  |
+| [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 | 2023-11-08 | 2025-07-13 |
 | [Llegaron \- En Vivo](https://open.spotify.com/track/1gUs3zKc8dlKo1YEyJJ2G5) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Ensayo en la Terraza, vol\. 2 \(En Vivo\)](https://open.spotify.com/album/05i2J6Z4pPkesu13c3T4lF) | 3:27 | 2023-11-08 | 2024-07-03 |
 | [Lo Mejor de Mi Vida](https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv) | [La Firma](https://open.spotify.com/artist/0WC9R4MbKLlwzhwqB5cqjc) | [Lo Mejor de Mi Vida](https://open.spotify.com/album/7IZzYkfoO1am9oUyNZK7fp) | 3:44 | 2023-06-16 |  |
 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 | 2023-06-16 |  |
@@ -204,7 +205,7 @@
 | [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 | 2024-07-02 |  |
 | [Pobre Loco](https://open.spotify.com/track/0BACxgNmiBtAU4piZTJnPn) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Solo Hits](https://open.spotify.com/album/1T42v7QvduIU8JzrZddZIn) | 2:39 | 2025-06-17 |  |
 | [Por Que Te Has Ido](https://open.spotify.com/track/2SXw7Ilya1GRxAiNYGrjbl) | [La Dinastia Romero](https://open.spotify.com/artist/0BNtAnbw7qpWkfDYQ8DDvu) | [Por Que Te Has Ido](https://open.spotify.com/album/0WKkhPxnIwAIiwHxZyI28t) | 5:06 | 2023-11-08 | 2024-07-03 |
-| [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 | 2024-07-02 |  |
+| [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 | 2024-07-02 | 2025-07-13 |
 | [Pura Adrenalina](https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Pura Adrenalina](https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM) | 2:37 | 2024-07-02 |  |
 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 | 2023-06-16 | 2025-06-18 |
 | [Que La Dejen Ir Al Baile](https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 2:25 | 2023-06-16 | 2024-04-19 |

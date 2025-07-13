@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with SG Lewis & Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,287 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,709 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 15 | [Mr\. Cool](https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Mr\. Cool](https://open.spotify.com/album/0WWOtu5YJdA6KPxZj9Z6dn) | 3:49 |
 | 16 | [over you](https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [over you](https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ) | 3:38 |
 | 17 | [Daddy's In The Club](https://open.spotify.com/track/6YerwnfrVGahU53mFpXjvB) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [All Yours](https://open.spotify.com/album/1DelPHxFIgMYjpiphaMaqM) | 3:29 |
-| 18 | [Attack \(feat\. Scrufizzer\)](https://open.spotify.com/track/1d9MVspsVD51VrA1DjLA2K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Attack \(feat\. Scrufizzer\)](https://open.spotify.com/album/4UjJKuoNQDE1nAVuw2lifE) | 4:00 |
+| 18 | [Attack](https://open.spotify.com/track/1d9MVspsVD51VrA1DjLA2K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Attack](https://open.spotify.com/album/4UjJKuoNQDE1nAVuw2lifE) | 4:00 |
 | 19 | [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cash Out](https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR) | 3:02 |
 | 20 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 | 21 | [Let It Be For Love](https://open.spotify.com/track/4oCWAv1wVeJ3Wk3irk8e5o) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Breathe](https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku) | 3:22 |

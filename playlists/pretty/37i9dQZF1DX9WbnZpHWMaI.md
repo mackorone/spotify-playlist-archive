@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring DEBBY FRIDAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,494 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,496 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 4 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
 | 5 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 |
 | 6 | [Our House](https://open.spotify.com/track/3myWiCwtUveukdT4v4NcHF) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Our House](https://open.spotify.com/album/3yvVdXNaxwWQd6i6PhHORF) | 2:17 |
-| 7 | [Through The Wall](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
+| 7 | [TTW](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TTW](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
 | 8 | [Rain](https://open.spotify.com/track/5O6tALLpAxNPr1CTnGztYe) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Rain](https://open.spotify.com/album/3vZEyzRYGl5hxPtYShZkaU) | 2:50 |
 | 9 | [All Night](https://open.spotify.com/track/3dB92Il79UajUxaHzA3VBA) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [i can’t remember the name of this, but that's ok](https://open.spotify.com/album/5QhQi6ShBaqc7PX4XfOwKJ) | 4:09 |
 | 10 | [Where Is My Angel](https://open.spotify.com/track/48ChqGVn3yIpcYWxfzPHfD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Where Is My Angel](https://open.spotify.com/album/3BbOh6UaSYNbdSZbQdrCfd) | 4:25 |

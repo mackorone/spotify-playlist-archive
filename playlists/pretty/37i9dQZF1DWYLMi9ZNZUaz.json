@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 109663,
+  "num_followers": 109725,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-07-10 08:30:28",
       "album": {
+        "name": "Th\u1ee9c Gi\u1ea5c",
+        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 269021,
+      "name": "Th\u1ee9c Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+    },
+    {
+      "added_at": "2025-07-10 08:30:28",
+      "album": {
         "name": "\u0110O\u00c1 HOA",
         "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 158987,
       "name": "\u0110O\u00c1 HOA",
       "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
-    },
-    {
-      "added_at": "2025-07-10 08:30:28",
-      "album": {
-        "name": "Th\u1ee9c Gi\u1ea5c",
-        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
-      },
-      "artists": [
-        {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        }
-      ],
-      "duration_ms": 269021,
-      "name": "Th\u1ee9c Gi\u1ea5c",
-      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
     },
     {
       "added_at": "2025-07-10 08:30:28",
@@ -699,18 +699,22 @@
     {
       "added_at": "2025-07-10 08:30:28",
       "album": {
-        "name": "TR\u00ccNH",
-        "url": "https://open.spotify.com/album/3SElNI3CCqE9AKMvGrtvjA"
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
       },
       "artists": [
         {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
         }
       ],
-      "duration_ms": 275399,
-      "name": "TR\u00ccNH",
-      "url": "https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9"
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
     },
     {
       "added_at": "2025-07-10 08:30:28",
@@ -739,22 +743,38 @@
     {
       "added_at": "2025-07-10 08:30:28",
       "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+        "name": "TR\u00ccNH",
+        "url": "https://open.spotify.com/album/3SElNI3CCqE9AKMvGrtvjA"
       },
       "artists": [
         {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+      "duration_ms": 275399,
+      "name": "TR\u00ccNH",
+      "url": "https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9"
+    },
+    {
+      "added_at": "2025-07-10 08:30:28",
+      "album": {
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "V#",
+          "url": "https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om"
+        }
+      ],
+      "duration_ms": 265954,
+      "name": "V\u00f9ng An To\u00e0n",
+      "url": "https://open.spotify.com/track/6Zoi4ue74UdUeYmHXItXnf"
     },
     {
       "added_at": "2025-07-10 08:30:28",
@@ -827,26 +847,6 @@
     {
       "added_at": "2025-07-10 08:30:28",
       "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "SpideyBoy",
-          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
-        }
-      ],
-      "duration_ms": 224918,
-      "name": "H\u1ed3ng kh\u00f4ng gai",
-      "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
-    },
-    {
-      "added_at": "2025-07-10 08:30:28",
-      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -863,6 +863,26 @@
       "duration_ms": 203687,
       "name": "M\u1eddi Em",
       "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
+    },
+    {
+      "added_at": "2025-07-10 08:30:28",
+      "album": {
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
+      },
+      "artists": [
+        {
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+        },
+        {
+          "name": "SpideyBoy",
+          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
+        }
+      ],
+      "duration_ms": 224918,
+      "name": "H\u1ed3ng kh\u00f4ng gai",
+      "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
     },
     {
       "added_at": "2025-07-10 08:30:28",
@@ -1015,50 +1035,6 @@
     {
       "added_at": "2025-07-10 08:30:28",
       "album": {
-        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
-        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
-      },
-      "artists": [
-        {
-          "name": "Ricky Star",
-          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
-        },
-        {
-          "name": "Blacka",
-          "url": "https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD"
-        }
-      ],
-      "duration_ms": 248785,
-      "name": "Khi 22",
-      "url": "https://open.spotify.com/track/6BrkVzB76maKNqcryCmd1c"
-    },
-    {
-      "added_at": "2025-07-10 08:30:28",
-      "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/1qdmgU35Clg7RPfMShUNkN"
-      },
-      "artists": [
-        {
-          "name": "KayC",
-          "url": "https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8"
-        },
-        {
-          "name": "VSTRA",
-          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
-        },
-        {
-          "name": "Machiot",
-          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
-        }
-      ],
-      "duration_ms": 239783,
-      "name": "The One For Me",
-      "url": "https://open.spotify.com/track/3eJr9Z8KZuOTRblAeJi2zB"
-    },
-    {
-      "added_at": "2025-07-10 08:30:28",
-      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -1075,6 +1051,26 @@
       "duration_ms": 340724,
       "name": "Mu\u1ed1n anh \u0111au",
       "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
+    },
+    {
+      "added_at": "2025-07-10 08:30:28",
+      "album": {
+        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
+        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
+      },
+      "artists": [
+        {
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+        },
+        {
+          "name": "Blacka",
+          "url": "https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD"
+        }
+      ],
+      "duration_ms": 248785,
+      "name": "Khi 22",
+      "url": "https://open.spotify.com/track/6BrkVzB76maKNqcryCmd1c"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

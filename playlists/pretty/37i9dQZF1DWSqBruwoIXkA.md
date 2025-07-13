@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like this\. cover: Sydney Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,418,472 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,418,433 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,20 +123,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 113 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 |
 | 114 | [too young to be old](https://open.spotify.com/track/0ZuZtcBEGMrkWhxEzJ06Lp) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:07 |
 | 115 | [i’ll have a good life darling, but it won’t be with you.](https://open.spotify.com/track/1OUr12AxnPCO9dMDrPUzSk) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [if i could just stop the time, \(may 2024\-may 2025\)](https://open.spotify.com/album/24GiMxV1o2xyt5MXPrqjsh) | 3:46 |
-| 116 | [Gut Feeling](https://open.spotify.com/track/03FXHkzIC7isTaUs5gphd3) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Gut Feeling](https://open.spotify.com/album/11xSMpHP830h3dtJq5BhzZ) | 3:07 |
-| 117 | [Weatherman](https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Weatherman](https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB) | 2:55 |
+| 116 | [Weatherman](https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Weatherman](https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB) | 2:55 |
+| 117 | [Gut Feeling](https://open.spotify.com/track/03FXHkzIC7isTaUs5gphd3) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Gut Feeling](https://open.spotify.com/album/11xSMpHP830h3dtJq5BhzZ) | 3:07 |
 | 118 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 |
 | 119 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 |
 | 120 | [I Broke My Heart For The Plot](https://open.spotify.com/track/2wHToX3mFviWuqJOsL7HPm) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [I Broke My Heart For The Plot](https://open.spotify.com/album/4tHPZvLmd32nOTxUjhQ0L5) | 3:11 |
 | 121 | [don't let this be the end](https://open.spotify.com/track/5zIGJwMvspuvhHZCpz6f6P) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [don't let this be the end](https://open.spotify.com/album/0VK8w7hqRE6XyoIvShWnJX) | 3:17 |
 | 122 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
 | 123 | [Different](https://open.spotify.com/track/2qrUdcBtfNEqJ76qoRJWuI) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Different](https://open.spotify.com/album/65EbrpXpMpLWKdJ178ouMT) | 3:05 |
-| 124 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 |
-| 125 | [Will You Always Love Her?](https://open.spotify.com/track/3AaT6DOf5An98ZstWmKBbb) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Will You Always Love Her?](https://open.spotify.com/album/0jlavK1I1ZewnfYWXbJPNs) | 3:05 |
+| 124 | [Will You Always Love Her?](https://open.spotify.com/track/3AaT6DOf5An98ZstWmKBbb) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Will You Always Love Her?](https://open.spotify.com/album/0jlavK1I1ZewnfYWXbJPNs) | 3:05 |
+| 125 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 |
 | 126 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
 | 127 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
-| 128 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 |
-| 129 | [When You Think Of Me](https://open.spotify.com/track/3mdK2eB8wNS5bmqZvHUuT0) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [When You Think Of Me](https://open.spotify.com/album/4d837HkxqOj1VDHPN8HVhY) | 3:51 |
+| 128 | [When You Think Of Me](https://open.spotify.com/track/3mdK2eB8wNS5bmqZvHUuT0) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [When You Think Of Me](https://open.spotify.com/album/4d837HkxqOj1VDHPN8HVhY) | 3:51 |
+| 129 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 |
 | 130 | [The Golden Years](https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf) | 3:34 |
 | 131 | [Before and After](https://open.spotify.com/track/35h9op1g3NEzO6hsCVg4WC) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Before and After](https://open.spotify.com/album/0UR3jVqkxNWkQq1jtNcyyb) | 2:48 |
 | 132 | [Lasting Effects](https://open.spotify.com/track/3bYuvzuTTyLlehuQoiGVPA) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Lasting Effects](https://open.spotify.com/album/113HR1TbXie2s9xTeGEGck) | 3:59 |
@@ -144,19 +144,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 134 | [i wish i hated you](https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 2:33 |
 | 135 | [Why Do The Pills Work](https://open.spotify.com/track/1YEEihRixYjaaJCu9rMMx7) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Why Do The Pills Work](https://open.spotify.com/album/1tmExGHhllwIVt0DKEfgmG) | 3:36 |
 | 136 | [Forever](https://open.spotify.com/track/4xg5WAehIEXWpZeO4PEIkr) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Forever](https://open.spotify.com/album/3SYMI0soENo9PF6v6IhXnm) | 3:55 |
-| 137 | [Hold Me Down](https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:51 |
-| 138 | [Know Better](https://open.spotify.com/track/7HecSZE0RmYuRRBosf0EmP) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Know Better](https://open.spotify.com/album/6Er5Rf8Y9h2PtAzNhbuoHY) | 2:54 |
+| 137 | [Know Better](https://open.spotify.com/track/7HecSZE0RmYuRRBosf0EmP) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Know Better](https://open.spotify.com/album/6Er5Rf8Y9h2PtAzNhbuoHY) | 2:54 |
+| 138 | [Hold Me Down](https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:51 |
 | 139 | [Can't Fit In His Shoes](https://open.spotify.com/track/3UWjQb72k8bhV56HKYAgnT) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Can't Fit In His Shoes](https://open.spotify.com/album/04B5ZWqYNINxcXVyAAlrIu) | 3:15 |
 | 140 | [Starcrossed](https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Starcrossed](https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC) | 3:03 |
 | 141 | [Here's Your Perfect](https://open.spotify.com/track/7ranmtPVs7Ckg2WLHO2L0m) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:38 |
 | 142 | [Save My Heart](https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Save My Heart](https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL) | 3:01 |
 | 143 | [Bench Sitter](https://open.spotify.com/track/69PbR7w1VkVMEd7m33NsgC) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Bench Sitter](https://open.spotify.com/album/0nNymRnk0T4JRu3VKBJGmU) | 2:48 |
 | 144 | [going under](https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn) | [Ali Wolv](https://open.spotify.com/artist/74XB8aP3f2Ze0JgzVmrjWx) | [going under](https://open.spotify.com/album/3rdeYQMlp9NM9VrGc46aHa) | 3:20 |
-| 145 | [You](https://open.spotify.com/track/01dOtIFsXHDWi6vZsLnVQ2) | [colby!](https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl) | [You](https://open.spotify.com/album/255WXj2nePIx2C3MwjpaOA) | 3:28 |
-| 146 | [Remember \- Acoustic](https://open.spotify.com/track/1EL27Y8YRofgvgIyhRD5JS) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:58 |
+| 145 | [Remember \- Acoustic](https://open.spotify.com/track/1EL27Y8YRofgvgIyhRD5JS) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:58 |
+| 146 | [You](https://open.spotify.com/track/01dOtIFsXHDWi6vZsLnVQ2) | [colby!](https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl) | [You](https://open.spotify.com/album/255WXj2nePIx2C3MwjpaOA) | 3:28 |
 | 147 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
 | 148 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 |
 | 149 | [Fled Into The Night](https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Fled Into The Night](https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM) | 4:07 |
-| 150 | [How To Be Human](https://open.spotify.com/track/5wF20iV36qPgsBbjnZfzTU) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:16 |
+| 150 | [Rest Of Me](https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [Rest Of Me](https://open.spotify.com/album/6n8vxGMToOmgBWYdp0oADs) | 3:36 |
 
 Snapshot ID: `aHCMVAAAAAB/qATzwvp/wzq/VoKscTvt`

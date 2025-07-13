@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,731 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,735 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 17 | [Oganigwe](https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Omo Ologo](https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN) | 2:58 |
 | 18 | [Grind \- Remix](https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7) | [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [Grind \(Remix\)](https://open.spotify.com/album/39gLwu2Xy7NTnCVGbAjH51) | 3:24 |
 | 19 | [Family time](https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Family Time](https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2) | 3:42 |
-| 20 | [Good Life {Freestyle}](https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Good Life {Freestyle}](https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o) | 1:32 |
-| 21 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
+| 20 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
+| 21 | [Good Life {Freestyle}](https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Good Life {Freestyle}](https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o) | 1:32 |
 | 22 | [Account Balance](https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:33 |
 | 23 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 |
 | 24 | [50 Billion \(feat\. Zlatan\)](https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 47 | [Spiritual](https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Spiritual](https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh) | 3:28 |
 | 48 | [Only Fan](https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 3:20 |
 | 49 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
-| 50 | [Hustle](https://open.spotify.com/track/5IMibq46O9uX2m0wog6eus) | [Leczy](https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [THE GENESIS](https://open.spotify.com/album/17yWmoY733ymMQm4zhmicN) | 2:26 |
+| 50 | [Say No to Big Fall](https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Sick Six](https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD) | 2:08 |
 
-Snapshot ID: `aG8CgAAAAAAc0SUECJh1yPSjKfEwzkMh`
+Snapshot ID: `aHBUAAAAAABLQnEN1b824S8OCu8JUpJA`

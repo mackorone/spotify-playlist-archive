@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 153716,
+  "num_followers": 153776,
   "original_name": "Los 10s",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 222346,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Voluma",
-        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 222560,
       "name": "Reggaet\u00f3n Lento (Bailemos)",
       "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "Voluma",
+        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "La Gozadera (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 265746,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "54+1",
         "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 215082,
       "name": "Dembow",
       "url": "https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Olha A Explos\u00e3o",
-        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 162053,
-      "name": "Olha A Explos\u00e3o",
-      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+        "name": "Olha A Explos\u00e3o",
+        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+      "duration_ms": 162053,
+      "name": "Olha A Explos\u00e3o",
+      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
     },
     {
       "added_at": "2024-05-14 17:33:16",

@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,071 songs - 2 day 11 hr 10 min
+1,072 songs - 2 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Krystal](https://open.spotify.com/track/2M3B0BUhJJSroLoyIkINvz) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:37 | 2021-11-17 | 2022-04-21 |
 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 | 2021-11-17 | 2022-07-13 |
 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-07-08 | 2024-04-19 |
+| [La La Love Me](https://open.spotify.com/track/6l0bVqiuv0HE7FxUG1TOkA) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Album 'A Montage of \( \)'](https://open.spotify.com/album/7hc0DjpDJHNvVNF7a9PDNq) | 3:05 | 2025-07-11 |  |
 | [La Vie en Rose](https://open.spotify.com/track/1fRaznZsAB2i63TtmYv2Hc) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt) | 3:38 | 2021-11-17 | 2022-07-28 |
 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 | 2022-07-08 | 2024-04-19 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2024-02-23 |  |
@@ -663,7 +664,7 @@
 | [NO MORE \(MA BOY\)](https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [NO MORE \(MA BOY\)](https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke) | 2:44 | 2024-03-27 | 2024-05-11 |
 | [NO ONE](https://open.spotify.com/track/0lhZsFfTpITnjK5q8lrDLR) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:14 | 2021-11-17 | 2022-07-25 |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-30 |  |
-| [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2024-03-27 |  |
+| [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2024-03-27 | 2025-07-13 |
 | [NoNoNo](https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:40 | 2021-11-17 | 2022-04-17 |
 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 | 2021-11-17 | 2024-05-10 |
 | [NOT BY THE MOON](https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:24 | 2021-11-17 | 2022-07-25 |

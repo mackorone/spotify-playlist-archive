@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 559 songs - 1 day 13 hr 7 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 560 songs - 1 day 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -567,5 +567,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 557 | [Overflow](https://open.spotify.com/track/5kgCqrcWdh2ENYrEBpKzqr) | [Pat and the Pissers](https://open.spotify.com/artist/6Djxo4G9K55aRE1Nd2d62K) | [How It's Done](https://open.spotify.com/album/7J9T5PCqq9HzcgnuT5szHG) | 1:48 |
 | 558 | [The Birds Don't Sing](https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:00 |
 | 559 | [CPR](https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 2:50 |
+| 560 | [woke up knowing everything \(opening theme\)](https://open.spotify.com/track/4N4uNJ3o2DQvs9IDPVOXNn) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Neighborhood Gods Unlimited](https://open.spotify.com/album/5TgdklWQYwr3eTPmrmnn8t) | 3:09 |
 
-Snapshot ID: `AAAHSY5h248VC/aOVbQW41v+m6cNlbKs`
+Snapshot ID: `AAAHSpxdOHJRZrtzQ7EgzrrZm2TDME9N`

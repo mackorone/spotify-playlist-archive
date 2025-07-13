@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Simple Plan
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,009 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,891 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 24 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
 | 25 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
 | 26 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 |
-| 27 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
-| 28 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
+| 27 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
+| 28 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
 | 29 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 |
 | 30 | [72 Seasons](https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq) | 7:39 |
 | 31 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 |

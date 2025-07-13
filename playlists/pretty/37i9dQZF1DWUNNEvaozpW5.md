@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe y Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,828 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,843 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 68 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 |
 | 69 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:42 |
 | 70 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 |
-| 71 | [Bajo Presión](https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Bajo Presión](https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK) | 4:19 |
-| 72 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
+| 71 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
+| 72 | [Bajo Presión](https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Bajo Presión](https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK) | 4:19 |
 | 73 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
 | 74 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
 | 75 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 94 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
 | 95 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 |
 | 96 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
-| 97 | [¿Volverá? \(feat\. Dani Martín, Rulo y la Contrabanda\)](https://open.spotify.com/track/56bY8QWkhq11vfMpOIhJli) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [¿Volverá? \(feat\. Dani Martín, Rulo y la Contrabanda\)](https://open.spotify.com/album/1WwaI7DststGINwmLG9zCP) | 4:09 |
-| 98 | [Sorprendente](https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Corre Corre](https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53) | 4:05 |
-| 99 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 |
+| 97 | [Sorprendente](https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Corre Corre](https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53) | 4:05 |
+| 98 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 |
+| 99 | [¿Volverá? \(feat\. Dani Martín, Rulo y la Contrabanda\)](https://open.spotify.com/track/56bY8QWkhq11vfMpOIhJli) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [¿Volverá? \(feat\. Dani Martín, Rulo y la Contrabanda\)](https://open.spotify.com/album/1WwaI7DststGINwmLG9zCP) | 4:09 |
 | 100 | [Frío \(con Fito y Fitipaldis, Tarque y Rosendo\)](https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57) | [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p) | [Un día nada más](https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x) | 4:09 |
 
 Snapshot ID: `aHA4JwAAAABoxBsimEPnU5Dz0nC7n7HG`

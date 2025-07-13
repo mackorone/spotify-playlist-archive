@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 603644,
+  "num_followers": 604024,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADZwLWsBLS0Sw7Ojq8mm2x8",
+  "snapshot_id": "aHBUAAAAAAAll1Ki72knJ11gpP653CNv",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 272906,
-      "name": "DESTROYA",
-      "url": "https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Foundations of Decay",
         "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 272906,
+      "name": "DESTROYA",
+      "url": "https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous Last Words",
-        "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 178448,
-      "name": "My Way Home Is Through You",
-      "url": "https://open.spotify.com/track/5HmSNijgNQ9xUmVfCyPjHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Two",
         "url": "https://open.spotify.com/album/2WzXUz0hVD8s9FBmpIl9XM"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 232173,
       "name": "AMBULANCE",
       "url": "https://open.spotify.com/track/1X75XA77E14HqCCBfkl5FM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Famous Last Words",
+        "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 178448,
+      "name": "My Way Home Is Through You",
+      "url": "https://open.spotify.com/track/5HmSNijgNQ9xUmVfCyPjHJ"
     },
     {
       "added_at": null,

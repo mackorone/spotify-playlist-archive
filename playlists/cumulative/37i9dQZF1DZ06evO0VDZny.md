@@ -4,7 +4,7 @@
 
 > This is Bring Me The Horizon\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 17 min
+55 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,10 @@
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2023-12-13 | 2024-05-29 |
 | [Doomed](https://open.spotify.com/track/3lPn81PFyKvXiyHhlkwkQ4) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:34 | 2024-03-26 |  |
 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 | 2023-12-13 |  |
+| [drwn.vvv](https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:25 | 2025-07-13 |  |
 | [Empire \(Let Them Sing\)](https://open.spotify.com/track/1DbdQp5dwuawBGmxSHw6Fr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:45 | 2023-12-13 |  |
 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 | 2023-12-13 |  |
+| [followU.bnd](https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:29 | 2025-07-13 |  |
 | [Go to Hell, for Heaven's Sake](https://open.spotify.com/track/0Koh9yED8UuaXvg9p5lQdB) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 4:03 | 2023-12-13 |  |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-12-13 |  |
 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 | 2023-12-13 |  |

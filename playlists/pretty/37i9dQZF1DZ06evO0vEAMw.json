@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 95017,
+  "num_followers": 95056,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADbZ8ASWYZwbK7y/OOeQ+ii",
+  "snapshot_id": "aHBUAAAAAABhaJj5DPcVu7eKZy08IXnT",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pheelz Good",
-        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
       "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
+      "duration_ms": 176470,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
     },
     {
       "added_at": null,
@@ -463,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+        "name": "Pheelz Good",
+        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
       },
       "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
     },
     {
       "added_at": null,
@@ -642,11 +642,15 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 163636,
-      "name": "1 Milli",
-      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN"
     },
     {
       "added_at": null,
@@ -710,15 +714,11 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN"
+      "duration_ms": 163636,
+      "name": "1 Milli",
+      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
-      },
-      "artists": [
-        {
-          "name": "Yung Alpha",
-          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 185396,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doe",
         "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Alpha",
+          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 185396,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
     },
     {
       "added_at": null,

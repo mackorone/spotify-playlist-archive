@@ -4,7 +4,7 @@
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 51 min
+87 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [God Is In This Story](https://open.spotify.com/track/33aQwepAntQvwsIk8rFiB4) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:27 | 2024-08-03 |  |
 | [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 | 2023-03-10 | 2023-03-18 |
 | [Good Good Father \- Live](https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:44 | 2023-03-10 |  |
-| [Good Grief](https://open.spotify.com/track/5D4bXodF6W3ktrueIikRVK) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 3:01 | 2025-05-26 |  |
+| [Good Grief](https://open.spotify.com/track/5D4bXodF6W3ktrueIikRVK) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 3:01 | 2025-05-26 | 2025-07-13 |
 | [Have Your Way](https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 4:47 | 2025-05-25 |  |
 | [Heart Cries Holy](https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields Of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:17 | 2023-03-10 |  |
 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 | 2023-03-11 |  |
@@ -52,7 +52,8 @@
 | [Just The Way I Am](https://open.spotify.com/track/5DWxGimczAZe7byauhrUba) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:46 | 2023-03-10 | 2024-12-29 |
 | [Killing Me Again](https://open.spotify.com/track/1d3xMVFov84ZP5agqsovZi) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 4:41 | 2024-05-13 | 2024-11-27 |
 | [Lavish](https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:43 | 2023-03-10 |  |
-| [Let It Begin](https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj) | 4:12 | 2024-03-16 |  |
+| [Let It Begin](https://open.spotify.com/track/3dd7wLbejZqli43R7MBalG) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 4:12 | 2025-07-13 |  |
+| [Let It Begin](https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj) | 4:12 | 2024-03-16 | 2025-07-13 |
 | [Let It Begin](https://open.spotify.com/track/3dpXt0Dy7g1Aaewb7LG0YE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Let It Begin](https://open.spotify.com/album/1UqIz18Y3PAkflXfI67Zeg) | 4:12 | 2025-01-12 | 2025-02-08 |
 | [Let It Rise](https://open.spotify.com/track/3d7BD6z3dmOn0uyuyTzFnr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 4:33 | 2023-03-10 |  |
 | [Lions And Eagles](https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 3:00 | 2025-05-26 |  |
@@ -84,7 +85,7 @@
 | [Trust And Obey](https://open.spotify.com/track/1pB0uLHifv66pukzMZ94fj) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:53 | 2023-03-10 |  |
 | [Turn On The Light](https://open.spotify.com/track/7eMEf2vcT5POvOLaery3I9) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [When The Light Comes](https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R) | 3:53 | 2023-03-10 |  |
 | [We Want the World to Hear](https://open.spotify.com/track/2NlhZ6eRfCD8Hb8fd315nn) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:19 | 2023-03-10 | 2024-04-21 |
-| [What I Was Made For](https://open.spotify.com/track/2zM8D2BY8MjK7DJqjN139T) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 2:59 | 2024-02-23 | 2025-04-27 |
+| [What I Was Made For](https://open.spotify.com/track/2zM8D2BY8MjK7DJqjN139T) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 2:59 | 2024-02-23 |  |
 | [What I Was Made For](https://open.spotify.com/track/1hk4vnmDj37es8cEpJjRVB) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:01 | 2023-03-13 | 2023-09-06 |
 | [What Life Would Be Like](https://open.spotify.com/track/71Mwr0v0cPykFBBpnYiSED) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:05 | 2023-03-10 |  |
 | [Why](https://open.spotify.com/track/1tJOmKgRbYsOpnIG2pQde2) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:14 | 2024-10-11 | 2024-12-03 |

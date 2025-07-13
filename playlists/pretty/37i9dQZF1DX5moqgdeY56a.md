@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,196 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,220 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 31 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 |
 | 32 | [Que Se Te Quite Ese Orgullo](https://open.spotify.com/track/2yXB50531RQuDTEaI17wbh) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar 15 Grandes Exitos](https://open.spotify.com/album/61DytFJuhotWhmtkVdovyz) | 2:23 |
 | 33 | [Tu Méndigo Recuerdo](https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Tu Méndigo Recuerdo](https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3) | 3:33 |
-| 34 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 |
+| 34 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 |
 | 35 | [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 |
 | 36 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 |
 | 37 | [Nadie Es Eterno](https://open.spotify.com/track/130TDmCOxR9EmkDdKxoaz1) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/0wy2vQQydoKWVuxItuk5yT) | 2:52 |
 | 38 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
-| 39 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 |
+| 39 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 |
 | 40 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 |
 | 41 | [La Cima del Cielo](https://open.spotify.com/track/6YfR85OhPZ330CQ1Md3Onh) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 5:07 |
 | 42 | [Corrido De Lucio Vazquez](https://open.spotify.com/track/4buc6mP4u0kRTtl9g3EIWF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos Famosos \- Antonio Aguilar](https://open.spotify.com/album/2ivL83wxehqrhG4emzvWx6) | 2:53 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35167,
+  "num_followers": 35170,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABfNAN0FUMnUi/SxqiI9sSE",
+  "snapshot_id": "aHBUAAAAAAB148kFf2W2EkJB0vSvi0YG",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marra de Bandido",
+        "url": "https://open.spotify.com/album/2u4mR0k6kBJKTAO9p92le7"
+      },
+      "artists": [
+        {
+          "name": "Michele Andrade",
+          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "HITZIN",
+          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
+        }
+      ],
+      "duration_ms": 118586,
+      "name": "Marra de Bandido",
+      "url": "https://open.spotify.com/track/3q3rhHGxVcTfZvkE1b2Jgw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neymar Mudou",
         "url": "https://open.spotify.com/album/4Wu6b5zgLWWdMC078UF4jO"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 198000,
       "name": "Neymar Mudou",
       "url": "https://open.spotify.com/track/6NgcQrj5PrQhE0ayrLyliD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marra de Bandido",
-        "url": "https://open.spotify.com/album/2u4mR0k6kBJKTAO9p92le7"
-      },
-      "artists": [
-        {
-          "name": "Michele Andrade",
-          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "HITZIN",
-          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
-        }
-      ],
-      "duration_ms": 118586,
-      "name": "Marra de Bandido",
-      "url": "https://open.spotify.com/track/3q3rhHGxVcTfZvkE1b2Jgw"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bota A Lingui\u00e7a Pra Fora",
-        "url": "https://open.spotify.com/album/0E1qFjJ8zCYYgE4lYELJBd"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Gouveia",
-          "url": "https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem"
-        }
-      ],
-      "duration_ms": 95999,
-      "name": "Bota A Lingui\u00e7a Pra Fora",
-      "url": "https://open.spotify.com/track/5esDSPo55maKLjTDWiv3tO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
         "url": "https://open.spotify.com/album/6SYKU2YKvPcBslCHjnFtKU"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 591157,
       "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
       "url": "https://open.spotify.com/track/5Dcb2W1UpzVFQuyzxpqZaB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bota A Lingui\u00e7a Pra Fora",
+        "url": "https://open.spotify.com/album/0E1qFjJ8zCYYgE4lYELJBd"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Gouveia",
+          "url": "https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem"
+        }
+      ],
+      "duration_ms": 95999,
+      "name": "Bota A Lingui\u00e7a Pra Fora",
+      "url": "https://open.spotify.com/track/5esDSPo55maKLjTDWiv3tO"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Press\u00e3o Mundial Continua",
-        "url": "https://open.spotify.com/album/6f3MsNGwXJ8dTKiX7IupCl"
-      },
-      "artists": [
-        {
-          "name": "Biu do Piseiro",
-          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 119347,
-      "name": "Pede Que Eu Te Dou",
-      "url": "https://open.spotify.com/track/1X7sV26NBlBgPexQNZRYMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Se T\u00e1 Maravilhosa",
         "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Press\u00e3o Mundial Continua",
+        "url": "https://open.spotify.com/album/6f3MsNGwXJ8dTKiX7IupCl"
+      },
+      "artists": [
+        {
+          "name": "Biu do Piseiro",
+          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 119347,
+      "name": "Pede Que Eu Te Dou",
+      "url": "https://open.spotify.com/track/1X7sV26NBlBgPexQNZRYMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mandrake",
         "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
       },
@@ -971,30 +971,6 @@
       "duration_ms": 157440,
       "name": "Mandrake",
       "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Cara do Abacaxi Classic",
-        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
-      },
-      "artists": [
-        {
-          "name": "Patrick DJ",
-          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
     },
     {
       "added_at": null,
@@ -1023,6 +999,30 @@
       "duration_ms": 125567,
       "name": "J\u00e1 Fui o Amor da sua Vida",
       "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Cara do Abacaxi Classic",
+        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
+      },
+      "artists": [
+        {
+          "name": "Patrick DJ",
+          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
     },
     {
       "added_at": null,
@@ -1115,26 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado Arrochadeira",
-        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
-      },
-      "artists": [
-        {
-          "name": "Dj Kevin Armstrong",
-          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 108387,
-      "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De 38 Carregado Arrochadeira",
+        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
+      },
+      "artists": [
+        {
+          "name": "Dj Kevin Armstrong",
+          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
     },
     {
       "added_at": null,
@@ -1383,26 +1383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexo Sem Estresse",
         "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
     },
     {
       "added_at": null,
@@ -1519,6 +1519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piseiro Tiktok 2.0 #Viral",
+        "url": "https://open.spotify.com/album/3UC2qKHaqpM0Hq5Q6UvM86"
+      },
+      "artists": [
+        {
+          "name": "Yrlan Costa",
+          "url": "https://open.spotify.com/artist/6xw3J3zMVz7ge5oAdko1CN"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 157933,
+      "name": "S\u00f3 Colocadinha",
+      "url": "https://open.spotify.com/track/3xBtiampAoM5x457TcHl9U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mtg Ela \u00e9 Safadinha",
         "url": "https://open.spotify.com/album/6pmZvLO3KiJT929RAchPin"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 120922,
       "name": "Mtg Ela \u00e9 Safadinha",
       "url": "https://open.spotify.com/track/3l6IAc7YXzKjLs9s5F8ejN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piseiro Tiktok 2.0 #Viral",
-        "url": "https://open.spotify.com/album/3UC2qKHaqpM0Hq5Q6UvM86"
-      },
-      "artists": [
-        {
-          "name": "Yrlan Costa",
-          "url": "https://open.spotify.com/artist/6xw3J3zMVz7ge5oAdko1CN"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 157933,
-      "name": "S\u00f3 Colocadinha",
-      "url": "https://open.spotify.com/track/3xBtiampAoM5x457TcHl9U"
     }
   ],
   "unique_name": "This Is Mc Dricka",

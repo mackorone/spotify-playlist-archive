@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,686 likes - 160 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,840 likes - 160 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

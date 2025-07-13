@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/1f9kMuvo1G5y7d5QbGe8rn"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "101",
+      "url": "https://open.spotify.com/track/7duqDhzS0yeRaqHP1ILimW"
+    },
+    {
+      "album": {
         "name": "2al Eh Fakerni Shab Nighty",
         "url": "https://open.spotify.com/album/0U42ZjkVotcliDQFBlDQ1O"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 139783,
       "name": "Afelty El Le'ba",
       "url": "https://open.spotify.com/track/0DXWxLA80dDy3sAn7urje3"
@@ -14832,7 +14850,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 250135,
       "name": "Yaah",
       "url": "https://open.spotify.com/track/45VT46xVVf2haISCNCdt6U"
@@ -16164,7 +16182,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 266213,
       "name": "\u0627\u0646\u0627 \u0644\u0633\u0647 \u0639\u0644\u064a \u0648\u0636\u0639\u064a",
       "url": "https://open.spotify.com/track/13Jz0eiEwpHJMCIVaqkFpf"

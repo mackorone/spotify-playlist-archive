@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Приємна музика для спекотних днів\. Особливо в липні 🍋 🌴💦
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,580 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,588 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 52 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
 | 53 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
 | 54 | [Місто](https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Місто](https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl) | 2:18 |
-| 55 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
-| 56 | [обережно! розбите!](https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [обережно! розбите!](https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i) | 3:00 |
-| 57 | [Bird of Pray \- Acoustic Version](https://open.spotify.com/track/0MLGNvz1nG6HHjl18ipisV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Acoustic\)](https://open.spotify.com/album/7JeNalQlSmsNltVHoUl5TN) | 3:11 |
-| 58 | [mona melody](https://open.spotify.com/track/7refpl2VkxeIDOTlJfhIwE) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 3:26 |
+| 55 | [обережно! розбите!](https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [обережно! розбите!](https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i) | 3:00 |
+| 56 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
+| 57 | [mona melody](https://open.spotify.com/track/7refpl2VkxeIDOTlJfhIwE) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 3:26 |
+| 58 | [Bird of Pray \- Acoustic Version](https://open.spotify.com/track/0MLGNvz1nG6HHjl18ipisV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Acoustic\)](https://open.spotify.com/album/7JeNalQlSmsNltVHoUl5TN) | 3:11 |
 | 59 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
 | 60 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
 

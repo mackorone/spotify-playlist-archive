@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,640 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,627 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 54 | [Long Live Rock N Roll](https://open.spotify.com/track/2lRhq1ZfHNiaVNHkTWeXUv) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Long Live Rock N Roll \(Deluxe Edition\)](https://open.spotify.com/album/56JX1fNOjTa7Bj7G18nxSq) | 4:21 |
 | 55 | [Viva La Victoria](https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Paradigm](https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ) | 3:11 |
 | 56 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 |
-| 57 | [Boilermaker](https://open.spotify.com/track/27BEATf1JFhKDmwJdpGVSk) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:29 |
-| 58 | [Tommy\-Gun](https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [We Are The Royal](https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN) | 2:34 |
+| 57 | [Tommy\-Gun](https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [We Are The Royal](https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN) | 2:34 |
+| 58 | [Boilermaker](https://open.spotify.com/track/27BEATf1JFhKDmwJdpGVSk) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:29 |
 | 59 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 60 | [Shot In The Dark](https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Shot In The Dark](https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB) | 3:05 |
 | 61 | [Koolaid](https://open.spotify.com/track/249XHhBxBOblTCYStaC27L) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [The Rise of Chaos](https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u) | 4:59 |

@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Chris Brown",
-  "num_followers": 293863,
+  "num_followers": 293925,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-07-10 20:11:57",
       "album": {
-        "name": "Collide (feat. Tyga)",
-        "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 260169,
-      "name": "Collide (feat. Tyga)",
-      "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
-    },
-    {
-      "added_at": "2025-07-10 20:11:57",
-      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": "2025-07-10 20:11:57",
+      "album": {
+        "name": "Collide (feat. Tyga)",
+        "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 260169,
+      "name": "Collide (feat. Tyga)",
+      "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
     },
     {
       "added_at": "2025-07-10 20:11:57",

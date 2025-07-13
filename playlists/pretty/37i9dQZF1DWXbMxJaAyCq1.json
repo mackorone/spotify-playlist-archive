@@ -1,6 +1,6 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Daizak, Uzielito Mix, El Bogueto, Ak-Boyz",
-  "num_followers": 471259,
+  "num_followers": 471303,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
+        "name": "El Farsante (Remix)",
+        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "El Farsante - Remix",
+      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 202894,
       "name": "7 L\u00e1grimas - Remix",
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
-        "name": "El Farsante (Remix)",
-        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "El Farsante - Remix",
-      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
-        "name": "La Jeepeta (Remix)",
-        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "La Jeepeta - Remix",
-      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
         "name": "105 F Remix",
         "url": "https://open.spotify.com/album/2801cwQRE2bAQ6pKTrI13w"
       },
@@ -1143,6 +1111,38 @@
       "duration_ms": 464200,
       "name": "105 F Remix",
       "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
+        "name": "La Jeepeta (Remix)",
+        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "La Jeepeta - Remix",
+      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -1383,42 +1383,6 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 377580,
-      "name": "M\u00edrame - Remix",
-      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -1455,6 +1419,42 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 377580,
+      "name": "M\u00edrame - Remix",
+      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -1555,6 +1555,38 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
+        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
+        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 346000,
+      "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
+      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
         "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
       },
@@ -1587,38 +1619,6 @@
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
-        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
-        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 346000,
-      "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
-      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
     },
     {
       "added_at": "2025-06-20 06:00:36",
@@ -1755,30 +1755,6 @@
     {
       "added_at": "2025-06-20 06:00:36",
       "album": {
-        "name": "Tra Tra Tra Remix",
-        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Tra Tra Tra Remix - Remix",
-      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
-    },
-    {
-      "added_at": "2025-06-20 06:00:36",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -1807,6 +1783,30 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
+    },
+    {
+      "added_at": "2025-06-20 06:00:36",
+      "album": {
+        "name": "Tra Tra Tra Remix",
+        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tra Tra Tra Remix - Remix",
+      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
     },
     {
       "added_at": "2025-06-20 06:00:36",

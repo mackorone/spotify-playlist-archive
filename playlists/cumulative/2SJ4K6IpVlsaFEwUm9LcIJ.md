@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-653 songs - 1 day 14 hr 5 min
+656 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Crushing](https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO) | 3:51 | 2025-01-18 | 2025-03-02 |
 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 | 2025-03-01 | 2025-05-09 |
 | [Dark Shirt](https://open.spotify.com/track/2FU34BCqCh93uP1XQYNtoq) | [Joshua Chuquimia Crampton](https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO) | [Profundo Amor](https://open.spotify.com/album/0kcRYlSmu6DV3nIjFsYfTl) | 4:39 | 2025-04-13 | 2025-05-09 |
+| [Dawn \- Raisa K Sunset Remix](https://open.spotify.com/track/3UmAc2ov9CpMzr2JeO2cCl) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [So I Can See You \(Remixes\)](https://open.spotify.com/album/5FKCLvPPIlr7wwaDXaYbrE) | 3:42 | 2025-07-12 |  |
 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 | 2024-05-20 | 2024-05-25 |
 | [Day Out](https://open.spotify.com/track/47aR6Tg46yUtzc8N9QsRfI) | [Spresso](https://open.spotify.com/artist/1dsIiWajz8hxv8BVeqGWkw), [Alpha Maid](https://open.spotify.com/artist/6Rjl3uxMWyxlvDo6FnT6kW), [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Rockstars](https://open.spotify.com/album/7MqHeNymT801sFiL6dm8Z6) | 1:36 | 2024-08-12 | 2024-09-08 |
 | [Days Incomplete](https://open.spotify.com/track/4kWa3YO4waI2Iz69peM7gx) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Days Incomplete](https://open.spotify.com/album/4eG5JklQFLR4PPSVzfcb4d) | 3:39 | 2024-05-16 | 2024-07-12 |
@@ -516,11 +517,13 @@
 | [Silver & Ice](https://open.spotify.com/track/4vD1bLq7iLPbTVPXNvpahV) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [Cafe Tom Tom](https://open.spotify.com/album/3QYiKVuV0VrOhh2iJavzjN) | 1:50 | 2024-12-09 | 2025-01-12 |
 | [SINCERELY](https://open.spotify.com/track/4CRCH72z1sK1GDysXFpoc8) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [4 REAL](https://open.spotify.com/album/3v54qzNPUdfcV0W2WEFcRA) | 3:08 | 2025-07-06 |  |
 | [Single](https://open.spotify.com/track/3ApFIzLLV6Gkgu6zWh9dcn) | [Brittason](https://open.spotify.com/artist/0yoG2QCHyddnk7H4UB06iX) | [Single](https://open.spotify.com/album/4bw8kjkCJtpx1YGNpaj16q) | 1:30 | 2025-06-14 | 2025-06-19 |
+| [Skyline 4](https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [GULP](https://open.spotify.com/album/1kBPEN3NIVwjdmIjjNk9vB) | 4:51 | 2025-07-12 |  |
 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 | 2024-12-27 | 2025-01-12 |
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 | 2024-05-16 |
 | [Smells Like Content](https://open.spotify.com/track/0zSeLF3w3mPF9ibTkHZqCp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:42 | 2025-05-19 | 2025-07-04 |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 | 2024-05-16 |
 | [Snow](https://open.spotify.com/track/2YBkUWb9FVtP0QU9FX0lUl) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [Snow](https://open.spotify.com/album/50f0dY2lyEkXwjbm8JF8Qz) | 4:20 | 2025-05-14 | 2025-07-04 |
+| [So I Can See You](https://open.spotify.com/track/5ytSN7DOaQxcD6xekBr2hi) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:04 | 2025-07-12 |  |
 | [Some Days](https://open.spotify.com/track/5qWRT0cruIcc0EaAIDgI99) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4) | [Some Days](https://open.spotify.com/album/4Kw2hBQCaSPV5FvFsiPDuS) | 4:17 | 2025-05-08 | 2025-07-04 |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |
 | [Song of the Highest Tower](https://open.spotify.com/track/4QgvvCRrK6ilJp2xaDLlJx) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Alien Sunset](https://open.spotify.com/album/1aycNgUsDVj8pmuJ2x1Y8G) | 6:53 | 2025-04-15 | 2025-04-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Drake, Lil Yachty and NLE The Great.",
+  "description": "New music from Drake, The Clipse and Lil Yachty. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -8195,6 +8195,36 @@
     },
     {
       "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243906,
+      "name": "Chains & Whips",
+      "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
+    },
+    {
+      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn"
       },
@@ -14350,7 +14380,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 215524,
       "name": "For The Money",
       "url": "https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA"

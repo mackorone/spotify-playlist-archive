@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,985 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,987 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 9 | [Tennessee Waltz](https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:54 |
 | 10 | [Slipping Around \- 1949 Single](https://open.spotify.com/track/0y9SSRXRLA9cAbRd4rxL8O) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87), [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [The Complete Capitol Hits Of Margaret Whiting](https://open.spotify.com/album/3Zm1rm9czcHwe6kWvErjUm) | 2:11 |
 | 11 | [Blue Moon of Kentucky](https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe \(1945\-1949\)](https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98) | 3:00 |
-| 12 | [Deep In the Heart of Texas](https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:43 |
+| 12 | [Ida Red](https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:20 |
 | 13 | [Old Shep](https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:16 |
-| 14 | [Ida Red](https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:20 |
+| 14 | [Deep In the Heart of Texas](https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:43 |
 | 15 | [Can the Circle Be Unbroken](https://open.spotify.com/track/07IuSThN6YHAAollCnu1Ln) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:07 |
 | 16 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
 | 17 | [Dark As A Dungeon](https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [Folk Songs Of The Hills](https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk) | 2:47 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 34 | [Stay a Little Longer](https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:20 |
 | 35 | [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 |
 | 36 | [Blue Yodel No\. 4](https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 3:28 |
-| 37 | [Candy Kisses \- 78 rpm Version](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
-| 38 | [Anytime \- Remastered](https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:52 |
+| 37 | [Anytime \- Remastered](https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:52 |
+| 38 | [Candy Kisses \- 78 rpm Version](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
 | 39 | [New San Antonio Rose](https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [The Essential Bob Wills And His Texas Playboys](https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa) | 2:36 |
 | 40 | [Old Nevada Moon](https://open.spotify.com/track/3rhYzTf2LKvMd4K0JkcL3E) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:56 |
 | 41 | [Mule Train](https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 3:03 |

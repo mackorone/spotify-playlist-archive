@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Dremo",
-  "num_followers": 66554,
+  "num_followers": 66582,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
-        "name": "Zaza (feat. ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU"
-      },
-      "artists": [
-        {
-          "name": "KOHDEE",
-          "url": "https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Zaza (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
         "name": "DSC",
         "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 156256,
       "name": "DSC",
       "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
+        "name": "Zaza (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU"
+      },
+      "artists": [
+        {
+          "name": "KOHDEE",
+          "url": "https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Zaza (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ"
     },
     {
       "added_at": "2025-07-11 00:01:28",

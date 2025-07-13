@@ -3115,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "El M\u00edtico Julio Jaramillo",
+        "url": "https://open.spotify.com/album/0UeR76dAXJCDOPulm6SBj4"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/0X2tvdSAB6hnZ78UzuwxXQ"
+    },
+    {
+      "album": {
         "name": "Fuiste M\u00eda un Verano",
         "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
@@ -3336,7 +3354,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 192426,
       "name": "Perfume de Gardenias",
       "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"

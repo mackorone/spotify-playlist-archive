@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,154 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,180 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 21 | [London's On Fire](https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [London's On Fire](https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB) | 2:59 |
 | 22 | [3am](https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [3am](https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV) | 2:52 |
 | 23 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 |
-| 24 | [Attack \(feat\. Scrufizzer\)](https://open.spotify.com/track/1d9MVspsVD51VrA1DjLA2K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Attack \(feat\. Scrufizzer\)](https://open.spotify.com/album/4UjJKuoNQDE1nAVuw2lifE) | 4:00 |
+| 24 | [Attack](https://open.spotify.com/track/1d9MVspsVD51VrA1DjLA2K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Attack](https://open.spotify.com/album/4UjJKuoNQDE1nAVuw2lifE) | 4:00 |
 | 25 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 |
 | 26 | [R 2 ME](https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [R 2 ME](https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN) | 2:32 |
 | 27 | [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 |

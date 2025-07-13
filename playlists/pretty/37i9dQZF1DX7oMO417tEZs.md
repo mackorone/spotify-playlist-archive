@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: DEBBY FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,051 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,048 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 7 | [It Moves](https://open.spotify.com/track/6WQD0mv7t3cKfpXRBvC7ER) | [PARADE](https://open.spotify.com/artist/14U7RjL155yioIUM00QSpU) | [It Moves](https://open.spotify.com/album/0FediBQF091idHevFrmFfP) | 3:28 |
 | 8 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 |
 | 9 | [As The Eagle Flies](https://open.spotify.com/track/0Sla33XNU2D98M5lwmu1Ca) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Welcome Back](https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh) | 4:12 |
-| 10 | [Through The Wall](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
+| 10 | [TTW](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TTW](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
 | 11 | [Taste](https://open.spotify.com/track/66A0zzI7a5GPk9pwPJknNG) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Taste](https://open.spotify.com/album/2NcyDrj8prjSMCQwcAi2KY) | 4:17 |
 | 12 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 |
 | 13 | [Avenue](https://open.spotify.com/track/2j6Pf8iWCWADGyjyGS0Tn3) | [Polami Roko](https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr) | [By Clairvoyance](https://open.spotify.com/album/3lalFrJg1073NbOJ8aJimn) | 2:41 |

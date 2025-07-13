@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 
 > Potras, rancherxs y la 🧀 Ana Bárbara y Yahritza y Su Esencia  en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,757 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,772 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 | 94 | [Estás Cancelada](https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:48 |
 | 95 | [En realidad](https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [Encuentro Romántico](https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk) | 3:43 |
 | 96 | [Y Me Besa](https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:41 |
-| 97 | [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 |
-| 98 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 |
+| 97 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 |
+| 98 | [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 |
 | 99 | [Amiga Date Cuenta](https://open.spotify.com/track/5No3KTQrLiCIBgG1r0r9TO) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amiga Date Cuenta](https://open.spotify.com/album/4KMPE2MpwUvwbJ6DmnnC8J) | 3:06 |
 | 100 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 |
 

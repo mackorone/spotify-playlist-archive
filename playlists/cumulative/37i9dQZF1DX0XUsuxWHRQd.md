@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Drake, Lil Yachty and NLE The Great.
+> New music from Drake, The Clipse and Lil Yachty.
 
-2,422 songs - 5 day 5 hr 31 min
+2,423 songs - 5 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Catch The Sun \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/7kex0hl1dCvv6UqqZKGi1t) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/6MI7UpFxq0mOdOeDnfa2eg) | 3:02 | 2019-11-15 | 2019-11-29 |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-01-10 | 2025-03-08 |
 | [Certified \(feat\. Gunna\)](https://open.spotify.com/track/31xA2Iti4kb3aMiX75e8Y5) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Shiesty Season: Certified](https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE) | 2:29 | 2022-04-29 | 2022-07-30 |
+| [Chains & Whips](https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:03 | 2025-07-12 |  |
 | [Champions](https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Champions](https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn) | 4:02 | 2023-02-03 | 2023-02-18 |
 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 | 2024-07-26 | 2024-08-04 |
 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 | 2022-04-08 | 2022-06-11 |
@@ -689,7 +690,7 @@
 | [FOR FUN](https://open.spotify.com/track/60PTOzcoFycWBICdumIsFQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:08 | 2022-07-29 | 2022-10-22 |
 | [FOR FUN](https://open.spotify.com/track/7f9dQeHzjzIrYScfX2qUYI) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/3kHCoyDcYW8ey4NXliEIEd) | 3:08 | 2022-07-29 | 2022-08-07 |
 | [For Me](https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 1:44 | 2024-10-04 | 2024-10-19 |
-| [For The Money](https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [For The Money](https://open.spotify.com/album/05VBhCeUpyBpGLDUFR4iZT) | 3:35 | 2025-06-27 |  |
+| [For The Money](https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [For The Money](https://open.spotify.com/album/05VBhCeUpyBpGLDUFR4iZT) | 3:35 | 2025-06-27 | 2025-07-13 |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2020-07-03 | 2020-12-04 |
 | [For The Record](https://open.spotify.com/track/3lX5UcFfiktbeuIzYSBUlQ) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [For The Record](https://open.spotify.com/album/2vtPJRJkknLhVrZnMJQJsD) | 3:09 | 2021-10-02 | 2021-10-08 |
 | [For The Record](https://open.spotify.com/track/7muCbQ50cXlYgDuYQo4fr4) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [For The Record](https://open.spotify.com/album/18zJI0OjYmtDjG8qzn1G7x) | 3:09 | 2021-10-08 | 2021-10-09 |

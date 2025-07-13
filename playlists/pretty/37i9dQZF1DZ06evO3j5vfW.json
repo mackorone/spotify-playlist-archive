@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72194,
+  "num_followers": 72196,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAk4ca15HsOtMzG/yzPYQya",
+  "snapshot_id": "aHBUAAAAAAD4NGdnyK0X2cRKbz26XxqO",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Need You To Know",
         "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow Comes",
         "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
     },
     {
       "added_at": null,
@@ -911,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Up (Nicky Romero Edit)",
-        "url": "https://open.spotify.com/album/6xDbkZNGfGx5SOi0fbag3c"
-      },
-      "artists": [
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        },
-        {
-          "name": "Mark Roma",
-          "url": "https://open.spotify.com/artist/060FnJg6S5kH1FzOqLJePq"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "Shut Up - Nicky Romero Edit",
-      "url": "https://open.spotify.com/track/2VDGek9WSU4jMzaKPoFdiz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
         "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 187380,
       "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shut Up (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/6xDbkZNGfGx5SOi0fbag3c"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Mark Roma",
+          "url": "https://open.spotify.com/artist/060FnJg6S5kH1FzOqLJePq"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "Shut Up - Nicky Romero Edit",
+      "url": "https://open.spotify.com/track/2VDGek9WSU4jMzaKPoFdiz"
     },
     {
       "added_at": null,
@@ -1135,26 +1135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
       },
       "artists": [
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Alexander Tidebrink",
-          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
         }
       ],
-      "duration_ms": 253440,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     }
   ],
   "unique_name": "This Is Nicky Romero",

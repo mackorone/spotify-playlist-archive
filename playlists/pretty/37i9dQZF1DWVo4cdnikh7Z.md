@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,350 likes - 73 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,409 likes - 73 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Monica \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Monica \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/album/0JVeWlWdj13Q8PdEFmsjqX) | 3:37 |
+| 1 | [Monica \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Monica \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/album/0JVeWlWdj13Q8PdEFmsjqX) | 3:37 |
 | 2 | [Muththa Mazhai \(Reprise\)](https://open.spotify.com/track/0nrJ7jsUFR0pDHV6NvKJje) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Siva Ananth](https://open.spotify.com/artist/5fZe0ixZMgYwu5BLCNvMDC) | [Thug Life \(Tamil\)](https://open.spotify.com/album/1q6GzjsUS9kyQmEDH7D1Ak) | 4:00 |
 | 3 | [Chikitu \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/track/5L9BSBipkfupud0335Mhjj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Chikitu \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/album/3P9Jdtp9NVxqWVEusCbw5K) | 3:36 |
 | 4 | [Pottala Muttaye \- From "Thalaivan Thalaivii"](https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Pottala Muttaye \(From "Thalaivan Thalaivii"\)](https://open.spotify.com/album/2nYkbP3CzuoC54BcSKUjak) | 3:46 |

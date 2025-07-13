@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,210 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,220 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 15 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 16 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 |
 | 17 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
-| 18 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
-| 19 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
+| 18 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
+| 19 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
 | 20 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 |
 | 21 | [Drums of Death](https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/1au1j5lu62capHe16MhXLF) | 3:11 |
 | 22 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 30 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 |
 | 31 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
 | 32 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
-| 33 | [ok </3](https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz) | 3:24 |
-| 34 | [In The Shadow](https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:34 |
-| 35 | [Ice Cream Dream Boy](https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Ice Cream Dream Boy](https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ) | 3:36 |
+| 33 | [In The Shadow](https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:34 |
+| 34 | [Ice Cream Dream Boy](https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Ice Cream Dream Boy](https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ) | 3:36 |
+| 35 | [ok </3](https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz) | 3:24 |
 | 36 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 |
 | 37 | [RB3](https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [RB3](https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8) | 3:59 |
 | 38 | [ZOOM](https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ZOOM](https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK) | 3:45 |

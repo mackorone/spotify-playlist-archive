@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,599 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,567 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 60 | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc) | 2:52 |
 | 61 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
 | 62 | [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 |
-| 63 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
-| 64 | [This Wintertime](https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes / This Wintertime](https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf) | 4:13 |
-| 65 | [December '04](https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [December '04](https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY) | 3:26 |
-| 66 | [Deck The Halls](https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX) | 2:04 |
+| 63 | [This Wintertime](https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes / This Wintertime](https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf) | 4:13 |
+| 64 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
+| 65 | [Deck The Halls](https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX) | 2:04 |
+| 66 | [December '04](https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [December '04](https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY) | 3:26 |
 | 67 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 |
 | 68 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 |
 | 69 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 |

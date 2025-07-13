@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 6 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 |
 | 7 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
 | 8 | [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 |
-| 9 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 |
-| 10 | [M.I.A](https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 2:09 |
+| 9 | [M.I.A](https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 2:09 |
+| 10 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 |
 | 11 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
 | 12 | [morning light](https://open.spotify.com/track/5AYlX4QZwH2njZlFG8ZrC5) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [morning light](https://open.spotify.com/album/4IjrwtBPzLPmTVmMcpZetX) | 3:39 |
 | 13 | [Golden](https://open.spotify.com/track/79q5dkBOLtbcMvaItRLUp7) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Golden](https://open.spotify.com/album/3wOSF1SdKLfYo0u5VB89UM) | 3:22 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 54 | [I Wish I Could Hate You](https://open.spotify.com/track/1JPfkgHaqocgWZzKrDZtK9) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:09 |
 | 55 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 |
 | 56 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
-| 57 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 |
-| 58 | [strangers](https://open.spotify.com/track/0rFxyx0ZAU9KkFnao5Wt13) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [dying art](https://open.spotify.com/album/1fne7Ywwqq0XdjjY6tmsQr) | 3:11 |
+| 57 | [strangers](https://open.spotify.com/track/0rFxyx0ZAU9KkFnao5Wt13) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [dying art](https://open.spotify.com/album/1fne7Ywwqq0XdjjY6tmsQr) | 3:11 |
+| 58 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 |
 | 59 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 |
 | 60 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 61 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Ab2hXgAAAAA1Quf8aqytbgxhTrVuvskh`
+Snapshot ID: `Ab2m/gAAAAAn+OupQRVCjsXh1+RqB93M`

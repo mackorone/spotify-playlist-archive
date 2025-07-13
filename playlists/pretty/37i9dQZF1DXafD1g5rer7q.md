@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,561 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,629 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 14 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 |
 | 15 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 16 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
-| 17 | [A Better World](https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [A Better World](https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr) | 2:52 |
-| 18 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 |
+| 17 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 |
+| 18 | [A Better World](https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [A Better World](https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr) | 2:52 |
 | 19 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 |
 | 20 | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8) | 3:28 |
 | 21 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |

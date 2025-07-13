@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,062 likes - 79 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,288 likes - 79 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 65 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 |
 | 66 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 |
 | 67 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
-| 68 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
-| 69 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
+| 68 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
+| 69 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 70 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
 | 71 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
 | 72 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |

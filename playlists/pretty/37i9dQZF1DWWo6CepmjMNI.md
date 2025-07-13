@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Fahlithh
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,052 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,050 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
 | 2 | [พหลโยธิน](https://open.spotify.com/track/4nbIr7LBvsRN40LdDWKE5o) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [พหลโยธิน](https://open.spotify.com/album/7omNMRJUilFdXCNA7M7E0N) | 4:27 |
-| 3 | [คิดผิด \(YOU'RE WRONG!\) \[and i'm done wating\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU'RE WRONG!\) \[and i'm done wating\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 |
+| 3 | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 |
 | 4 | [ปล่อย](https://open.spotify.com/track/3VQMlUWUtNRYsoboqKbZG9) | [RAIDISA](https://open.spotify.com/artist/3JwR9z3M5yuvGzcbVJ4A2i) | [ปล่อย](https://open.spotify.com/album/7LnUHC59hLAW1sVQxNARfW) | 4:39 |
 | 5 | [Nearby Me](https://open.spotify.com/track/4noqj66fyiTataoAXIHL6W) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [Me \(And You\)](https://open.spotify.com/album/5gDqtvlmIHMq5TpnEjyoTd) | 5:49 |
 | 6 | [หยุดให้ฉันได้พักหายใจ \(T1ME\)](https://open.spotify.com/track/4bU7WYmC0zJTIlffArI0BK) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [หยุดให้ฉันได้พักหายใจ \(T1ME\)](https://open.spotify.com/album/4wCDrWVIpscvAjRKuXK1Hf) | 3:29 |

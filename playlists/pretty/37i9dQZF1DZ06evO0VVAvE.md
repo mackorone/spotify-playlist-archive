@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,895 likes - 45 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,913 likes - 45 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 25 | [Soul \(feat\. T.I BLAZE\)](https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Soul \(feat\. T.I BLAZE\)](https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG) | 2:24 |
 | 26 | [Dealer](https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 2:26 |
 | 27 | [Good Life](https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:40 |
-| 28 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 |
-| 29 | [Motivate](https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:41 |
+| 28 | [Motivate](https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:41 |
+| 29 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 |
 | 30 | [Escober](https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP) | [HypemanDJ Pablo](https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Escober](https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK) | 3:03 |
 | 31 | [Alone \(feat\. Bella Shmurda\)](https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:24 |
 | 32 | [All Eyes On Me](https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Different Lane](https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F) | 2:12 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 44 | [Basic](https://open.spotify.com/track/46d3smHJFMcz3RbANz19nS) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 4:38 |
 | 45 | [Give Me No Stress \(GMNS\)](https://open.spotify.com/track/2Kzc2qnO9wKvMoDuSHkL5W) | [Jayfred](https://open.spotify.com/artist/1bnbgn11Ow9KZiL0AYiA9R), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Give Me No Stress 2.0](https://open.spotify.com/album/49VGlMgyFKCHuqexCt480e) | 2:50 |
 
-Snapshot ID: `aG8CgAAAAACrt999HXDtmR4Hdmyr6sPz`
+Snapshot ID: `aHBUAAAAAACuCjFecY+Ju9fPrJr4QbEX`

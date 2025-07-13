@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Justin Bieber, Sarettii, Olivia Dean och Wet Leg med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,195 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,219 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 28 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
 | 29 | [Super Powers](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Super Powers](https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi) | 3:32 |
 | 30 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 |
-| 31 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 31 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 32 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
 | 33 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 |
 | 34 | [Follow Excitement!](https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Follow Excitement!](https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX) | 2:28 |

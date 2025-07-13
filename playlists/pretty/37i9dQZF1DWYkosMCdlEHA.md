@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,869 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,897 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 20 | [Uma Brasileira \- Ao Vivo](https://open.spotify.com/track/7uHsVx7EDLLSuERDVBGcXC) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Uma Brasileira \(Ao Vivo\)](https://open.spotify.com/album/3siyY9J8CgcVlVOkYXgWf6) | 4:10 |
 | 21 | [Versos Simples \- Ao Vivo](https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Ao Vivo em Buenos Aires](https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD) | 3:07 |
 | 22 | [Filme de Romance](https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 1](https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU) | 3:07 |
-| 23 | [Reggae do Manero \- Ao Vivo \| Acústico](https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 5:25 |
-| 24 | [Blusinha Branca](https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 4:58 |
+| 23 | [Blusinha Branca](https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 4:58 |
+| 24 | [Reggae do Manero \- Ao Vivo \| Acústico](https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 5:25 |
 | 25 | [Saudades Do Tempo \- Ao Vivo Em São Paulo](https://open.spotify.com/track/4CROpP2nRsHjCWUxJ7Ewpy) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:56 |
 | 26 | [A Casa do Sol/Sentimento \- Ao Vivo](https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 5:08 |
 | 27 | [A Sombra da Maldade \(Acústico\)](https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:50 |

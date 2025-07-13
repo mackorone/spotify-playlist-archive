@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 | 2025-03-08 |  |
+| [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 | 2025-03-08 | 2025-07-13 |
 | [All My Stars Aligned](https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Marry Me](https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF) | 3:47 | 2025-05-10 | 2025-05-25 |
 | [Bad Believer](https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 2:59 | 2025-03-08 |  |
 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 | 2025-03-08 |  |
@@ -18,7 +18,7 @@
 | [Chalk Tablet Towers \(feat\. St Vincent\)](https://open.spotify.com/track/5zGElc4Fk95ONl7YihpLFN) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:02 | 2025-03-08 |  |
 | [Champagne Year](https://open.spotify.com/track/402AC8ujDRzIsJWWdfGKhR) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:28 | 2025-03-08 | 2025-04-19 |
 | [Cheerleader](https://open.spotify.com/track/4SUVGUZp37ZCEJKkrqfwgd) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:28 | 2025-03-08 |  |
-| [Chloe In The Afternoon](https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 2:55 | 2025-04-23 | 2025-07-10 |
+| [Chloe In The Afternoon](https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 2:55 | 2025-04-23 |  |
 | [Cruel](https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:34 | 2025-03-08 |  |
 | [Dancing With A Ghost](https://open.spotify.com/track/5yOqqpZTG1qof9x9519hr1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 0:46 | 2025-03-19 | 2025-05-07 |
 | [Digital Witness](https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent](https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf) | 3:22 | 2025-03-08 |  |

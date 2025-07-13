@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,415 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,419 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 |
 | 11 | [seele berührst](https://open.spotify.com/track/5AIDqFb0rSQ57uEjvLXoYM) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [seele berührst](https://open.spotify.com/album/36WF7ZWbfoYQFMuJp4IVQ5) | 2:31 |
 | 12 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
-| 13 | [Juni](https://open.spotify.com/track/2CN0oT18drL0GQE37L3L3L) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Juni](https://open.spotify.com/album/6kl1JA5GLEHeQI23ZBPPBP) | 2:45 |
-| 14 | [Mittelfinger an die Welt](https://open.spotify.com/track/45tBd0y6RzCjxsvvhXtu36) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Mittelfinger an die Welt](https://open.spotify.com/album/3byCUpqK0ejOy6F31HUG5P) | 3:05 |
+| 13 | [Mittelfinger an die Welt](https://open.spotify.com/track/45tBd0y6RzCjxsvvhXtu36) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Mittelfinger an die Welt](https://open.spotify.com/album/3byCUpqK0ejOy6F31HUG5P) | 3:05 |
+| 14 | [Juni](https://open.spotify.com/track/2CN0oT18drL0GQE37L3L3L) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Juni](https://open.spotify.com/album/6kl1JA5GLEHeQI23ZBPPBP) | 2:45 |
 | 15 | [Warmes Bier](https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Warmes Bier](https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS) | 3:30 |
 | 16 | [Slutalarm](https://open.spotify.com/track/2ehLRnItNnf7ZpsVwBpqyL) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Slutalarm](https://open.spotify.com/album/6yaF2YkJKkxpIGmgEpOE7X) | 2:06 |
 | 17 | [Du bist high](https://open.spotify.com/track/233eDMI71mHNwJAs4ybgiM) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Du bist high](https://open.spotify.com/album/7yYWzxqLM1W6sKHPJMMwxf) | 2:21 |
 | 18 | [Monster](https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Monster](https://open.spotify.com/album/5yWCQzEieyTdAkNZjEhF0q) | 3:21 |
-| 19 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
-| 20 | [Kompliziert](https://open.spotify.com/track/1VDDgtiLnisslIs7eW05kC) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Kompliziert](https://open.spotify.com/album/7aT3DsuT9rOxUsJ27RIjO2) | 2:16 |
+| 19 | [Kompliziert](https://open.spotify.com/track/1VDDgtiLnisslIs7eW05kC) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Kompliziert](https://open.spotify.com/album/7aT3DsuT9rOxUsJ27RIjO2) | 2:16 |
+| 20 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
 | 21 | [Beef mit Cheese](https://open.spotify.com/track/7kGXwP9T9GIyh9OtE35Exa) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Beef mit Cheese](https://open.spotify.com/album/6JRLgnsKoChIn221XEC6Tm) | 2:30 |
 | 22 | [Ghost](https://open.spotify.com/track/15CXWtEaOlVG2Yj5L77zc8) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Ghost](https://open.spotify.com/album/6J5ilFhuhNabaHEOgc20IP) | 3:56 |
 | 23 | [Schrott](https://open.spotify.com/track/1Rq4CScw3JNSn9FeS5ixpK) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh), [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Schrott](https://open.spotify.com/album/23R2IRtqMtkUze6KXNsbNh) | 2:30 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [Times We Will Remember](https://open.spotify.com/track/7bcPwgIrVMXxGYipvmOrie) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Times We Will Remember](https://open.spotify.com/album/34OBEZqZc7i8CzRS3edGeZ) | 3:11 |
 | 43 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 |
 | 44 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
-| 45 | [Hands Up](https://open.spotify.com/track/2iB8v9BKs76tvr42sAfk4H) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Look Mom! No Piano, Pt\. 1](https://open.spotify.com/album/15EG5lVNefy0DgkVqrc5lQ) | 6:41 |
-| 46 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
+| 45 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
+| 46 | [Hands Up](https://open.spotify.com/track/2iB8v9BKs76tvr42sAfk4H) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Look Mom! No Piano, Pt\. 1](https://open.spotify.com/album/15EG5lVNefy0DgkVqrc5lQ) | 6:41 |
 | 47 | [Silicone Mold](https://open.spotify.com/track/5laawOQLotQGCjP2IP5Yz6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Silicone Mold](https://open.spotify.com/album/46rTeYoEFFpluo0Sq0JZdY) | 2:26 |
 | 48 | [Wenn die Stadt schläft](https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Wenn die Stadt schläft](https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx) | 2:39 |
 | 49 | [Come Home](https://open.spotify.com/track/7sl0ahXt283MvN1Igktf6K) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Come Home](https://open.spotify.com/album/3d8EZYis9iz5EWU2ptVD4z) | 3:13 |

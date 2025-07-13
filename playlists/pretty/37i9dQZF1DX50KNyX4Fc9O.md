@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,425 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,428 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 17 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
 | 18 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
 | 19 | [Get It Done](https://open.spotify.com/track/6qJ8Il5OThFcrOFj32xR32) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Get It Done](https://open.spotify.com/album/1Pn6IYJQWyRRPFEMKTEw5w) | 3:02 |
-| 20 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 20 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 21 | [Candy](https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Candy](https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO) | 2:51 |
 | 22 | [No Time To Talk](https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [No Time To Talk](https://open.spotify.com/album/26V9XJc6hx2hOkNHs1zclk) | 2:35 |
 | 23 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |

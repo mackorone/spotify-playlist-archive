@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,056 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,233 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 67 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 |
 | 68 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 |
 | 69 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 |
-| 70 | [PANIC!](https://open.spotify.com/track/2E47UXRAUrmHV7NKU4XKzV) | [Nerv](https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b) | [LOST](https://open.spotify.com/album/74q93gj0Tn3JDBrElrjuNN) | 3:15 |
-| 71 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
+| 70 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
+| 71 | [PANIC!](https://open.spotify.com/track/2E47UXRAUrmHV7NKU4XKzV) | [Nerv](https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b) | [LOST](https://open.spotify.com/album/74q93gj0Tn3JDBrElrjuNN) | 3:15 |
 | 72 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 |
 | 73 | [Stay](https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 2:10 |
 | 74 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 |

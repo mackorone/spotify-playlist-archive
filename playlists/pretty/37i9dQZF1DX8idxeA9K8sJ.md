@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,497 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,889 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 89 | [Cómo Han Pasado los Años](https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Hay Amores Y Amores](https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd) | 3:34 |
 | 90 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
 | 91 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 |
-| 92 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
-| 93 | [Amandote](https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [Solo](https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58) | 3:54 |
+| 92 | [Amandote](https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [Solo](https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58) | 3:54 |
+| 93 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
 | 94 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
 | 95 | [Princesa Tibetana](https://open.spotify.com/track/3ixFLKbMYQbw6sK1k78Zae) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 10](https://open.spotify.com/album/0AKeEzQyc4FRDqgXE3wiRw) | 6:41 |
 | 96 | [A Quien](https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Siempre Karina](https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6) | 3:55 |
 | 97 | [Rueda Mi Mente](https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG) | [Sasha](https://open.spotify.com/artist/7wioKIgol1dnOYfW3pzRso) | [Sasha](https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh) | 3:07 |
 | 98 | [Pecado Original](https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:26 |
 | 99 | [Dime](https://open.spotify.com/track/14YBXNrQqx6SuHNbG8Awfz) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 3:42 |
-| 100 | [Tu Amante o Tu Enemigo](https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [Coleccion Original](https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh) | 2:59 |
+| 100 | [Aire soy](https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Salamandra](https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF) | 4:16 |
 
 Snapshot ID: `Z27lEwAAAACJw1zriCNZv/LHZkw5wVOr`

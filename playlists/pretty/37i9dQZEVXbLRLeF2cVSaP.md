@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,930 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,934 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 15 | [кхм\-кхм](https://open.spotify.com/track/2Br49Z6ckGKdcnDGLj2L8q) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [позорники в прямом эфире](https://open.spotify.com/album/4FBGAhGDpokjezkHBYIL9S) | 2:02 |
 | 16 | [распять](https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8) | [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [распять](https://open.spotify.com/album/3hzcccGZBceumBuBtCNP6P) | 1:59 |
 | 17 | [Who \(Shibuyakei Remix\)](https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 2:46 |
-| 18 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
+| 18 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 19 | [Dirty](https://open.spotify.com/track/4C5BDHPQuJ5K49XsAK8uq2) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt) | [Dirty](https://open.spotify.com/album/2Ufmz6DSeQdK9cVAIfcwEb) | 1:49 |
 | 20 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 | 21 | [цена](https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [паранойя](https://open.spotify.com/artist/6xcOPl8sgatUgeDsUE9QQb) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 | 50 | [1\-800](https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Ironmouse](https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C) | [1\-800](https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI) | 3:29 |
 
-Snapshot ID: `MASC0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MAXWqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

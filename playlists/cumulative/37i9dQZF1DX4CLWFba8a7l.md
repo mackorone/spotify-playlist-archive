@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: ONEFOUR
 
-357 songs - 19 hr 51 min
+359 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 | 2024-05-31 | 2024-07-14 |
 | [Good Girl](https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Good Girl](https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd) | 3:52 | 2024-08-30 | 2025-02-07 |
 | [Got Them](https://open.spotify.com/track/3GLV0BMXvc9S1yQsnnplm0) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Got Them](https://open.spotify.com/album/4lflircZajubqPESbeqEvJ) | 3:28 | 2025-06-12 | 2025-06-20 |
-| [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-05-15 |  |
+| [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-05-15 | 2025-07-13 |
 | [Have A Little Dream](https://open.spotify.com/track/6oTxc1HDGSXEWHRM7YTD27) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Stagger](https://open.spotify.com/album/3QkVC45XePZKagIs28ALE8) | 3:57 | 2025-05-22 | 2025-05-30 |
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2024-05-31 | 2025-03-05 |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-05-31 |  |
@@ -153,6 +153,8 @@
 | [Horses](https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Horses](https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH) | 3:32 | 2024-12-05 | 2025-01-26 |
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-19 |  |
 | [How to Kill Houseplants](https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [How to Kill Houseplants](https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD) | 3:28 | 2025-03-04 | 2025-05-24 |
+| [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 |  |
+| [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 | 2025-06-26 |  |
 | [I Don't Wanna Go Home](https://open.spotify.com/track/5JgVl5KixyY1fI2jsfoDt1) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [I Don't Wanna Go Home](https://open.spotify.com/album/4N3Br72rwMUxSXZiBSOppL) | 2:41 | 2025-07-10 |  |
 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 | 2024-08-30 | 2024-11-22 |
 | [I Get High](https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J) | 4:20 | 2024-05-31 | 2024-09-11 |
@@ -219,7 +221,7 @@
 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 | 2024-05-31 | 2025-02-14 |
 | [No Cure For Love](https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC), [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [No Cure For Love](https://open.spotify.com/album/3stGOTd46n9pCg1Lj3INZV) | 3:52 | 2025-03-04 | 2025-06-23 |
 | [No Love](https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [No Love](https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc) | 1:58 | 2025-06-19 | 2025-06-27 |
-| [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2025-04-08 |  |
+| [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2025-04-08 | 2025-07-13 |
 | [Nobody's Baby](https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Nobody's Baby](https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu) | 2:35 | 2024-07-25 | 2024-09-15 |
 | [NOSE BLEED](https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [NOSE BLEED](https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j) | 3:15 | 2024-08-22 | 2025-01-10 |
 | [Not Enough](https://open.spotify.com/track/0unMVqDlGLVerXRHQMIj8P) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Not Enough](https://open.spotify.com/album/5jszKm4RngylvqtM8bSZKT) | 3:37 | 2025-01-16 | 2025-01-24 |

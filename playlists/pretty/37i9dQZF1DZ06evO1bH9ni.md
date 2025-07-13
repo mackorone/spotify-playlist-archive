@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,158 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,219 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 2 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
 | 3 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 |
 | 4 | [El Envidioso](https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:11 |
-| 5 | [Se Me Soltó El Hocico](https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 2:55 |
-| 6 | [Moños Negros](https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j) | 3:23 |
+| 5 | [Moños Negros](https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j) | 3:23 |
+| 6 | [Se Me Soltó El Hocico](https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 2:55 |
 | 7 | [Llévate](https://open.spotify.com/track/2AHzaIprICahqw378HVUoO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:10 |
 | 8 | [Te Vas a Arrepentir](https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:51 |
 | 9 | [Yo Soy Rico](https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0r8VAv8wyvxJn27Nj0pQqs) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Para Impresionarte](https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC) | 2:29 |
 | 50 | [El Terreno de Güero Flores](https://open.spotify.com/track/2W0GvxRomOtutuQsbd0fVI) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 2:22 |
 
-Snapshot ID: `aG8CgAAAAADG1NOwZmToBsNl/9GpogZM`
+Snapshot ID: `aHBUAAAAAADFtBaaDCiO/6g4edNpWmRP`

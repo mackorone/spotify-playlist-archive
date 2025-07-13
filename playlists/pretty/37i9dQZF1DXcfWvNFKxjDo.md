@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Ely Oaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,752 likes - 99 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,828 likes - 99 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 59 | [BOILER ROOM](https://open.spotify.com/track/57hBVs4CKs8OfYkZP4SDqA) | [Ferdinand fka Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ) | [BOILER ROOM](https://open.spotify.com/album/68wk5bSdyWuxm9ADkxhdcG) | 3:15 |
 | 60 | [Hideaway](https://open.spotify.com/track/1mBF7Ulsa4z5hWor4eduYb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Hideaway](https://open.spotify.com/album/1xyCu4NGVKLg5EEbZcNHv5) | 3:36 |
 | 61 | [Cola](https://open.spotify.com/track/5cd72YjQAbp1Vf0FBJJ53D) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [RUSH AVENUE](https://open.spotify.com/artist/0BuZtV1vrh5miIrx1ZPgFP), [Miliūs](https://open.spotify.com/artist/1KDi3qn2gig0tveCiaeI4V) | [Cola](https://open.spotify.com/album/2ZL2Ed8SyBwjROrqdJIBuM) | 4:17 |
-| 62 | [State of Euphoria \(feat\. Sarah Reeves\)](https://open.spotify.com/track/0jr8fCMbSok0puocpzRyKS) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [State of Euphoria \(feat\. Sarah Reeves\)](https://open.spotify.com/album/2wgkm15TupEwdyN59P526A) | 3:00 |
+| 62 | [State of Euphoria](https://open.spotify.com/track/0jr8fCMbSok0puocpzRyKS) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [State of Euphoria](https://open.spotify.com/album/2wgkm15TupEwdyN59P526A) | 3:00 |
 | 63 | [Addicted To Your Love](https://open.spotify.com/track/63EPWZRpfAUXIYFczGAl1w) | [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [DHALI](https://open.spotify.com/artist/0sUz3y3TQ9UlD5qehZHfwT) | [Addicted To Your Love](https://open.spotify.com/album/3m4lsvqNJ3eZM35ztFPB2h) | 2:40 |
 | 64 | [Rumors](https://open.spotify.com/track/3l86qllTNoeEpELSuL6IWv) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Rumors](https://open.spotify.com/album/4Bam5z6xEu8eylzs4oXokN) | 2:15 |
 | 65 | [Somebody's Watching Me](https://open.spotify.com/track/2XiBfdMRKrOSFC1n35d2Rh) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [UUFO](https://open.spotify.com/artist/6kzds0MHGhlYiJBOBeS9dQ) | [Somebody's Watching Me](https://open.spotify.com/album/5sVZ55dGooCYOYECAUGtzV) | 3:05 |

@@ -4,7 +4,7 @@
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 13 min
+79 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Close \- Live](https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 5:08 | 2023-03-10 |  |
 | [Come Alive \(Dry Bones\)](https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:55 | 2023-03-10 |  |
 | [Come Back Home](https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Back Home](https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP) | 2:59 | 2023-03-10 |  |
+| [Desperate \(with Lauren Daigle\)](https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Desperate](https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87) | 3:30 | 2025-07-13 |  |
 | [Don't Believe Them](https://open.spotify.com/track/0ovV7C3OTmumkPkeo6O5qm) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:46 | 2023-05-14 | 2023-06-27 |
 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 | 2023-03-10 |  |
 | [Ego](https://open.spotify.com/track/3W2SRx2t7UXRWqkV0qW30U) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:28 | 2023-05-14 | 2023-09-16 |

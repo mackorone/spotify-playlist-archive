@@ -4,7 +4,7 @@
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 57 min
+84 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [We Are All Insane](https://open.spotify.com/track/6tILMsEgA97Eawkz1Ejyj7) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 3:31 | 2023-10-10 | 2023-11-11 |
 | [When I Was Young](https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:10 | 2024-09-01 |  |
 | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/track/6dgniKsterTlem7d54gGjP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/album/5Nu3B843pAWSp8gOCcVxkx) | 5:09 | 2022-10-26 |  |
-| [Windows](https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 | 2022-10-26 |  |
+| [Windows](https://open.spotify.com/track/1YQVyFWyvmkYAfZJU9ZdXM) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG) | 3:35 | 2025-07-13 |  |
+| [Windows](https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 | 2022-10-26 | 2025-07-13 |
 | [Woman Woman](https://open.spotify.com/track/7oaBv3Bx1ySw1QOY0yUxzQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 | 2022-10-26 |  |
 
 \*This playlist was first scraped on 2022-10-27. Prior content cannot be recovered.

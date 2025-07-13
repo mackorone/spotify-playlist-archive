@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,113 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,126 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

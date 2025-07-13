@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,666 likes - 47 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,651 likes - 47 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 19 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 20 | [Pink](https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:23 |
 | 21 | [Tempo \(feat\. Missy Elliott\)](https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 |
-| 22 | [GOTCHO BITCH](https://open.spotify.com/track/44RlSCumu7t2Hj5CcIASVE) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:52 |
+| 22 | [JUST 4 FUN](https://open.spotify.com/track/7BFydzRqLiUUH2qcHUJhzN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:33 |
 | 23 | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:11 |
 | 24 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
 | 25 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
-| 26 | [JUST 4 FUN](https://open.spotify.com/track/7BFydzRqLiUUH2qcHUJhzN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:33 |
+| 26 | [GOTCHO BITCH](https://open.spotify.com/track/44RlSCumu7t2Hj5CcIASVE) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:52 |
 | 27 | [Water Me](https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:05 |
 | 28 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
 | 29 | [Like a Girl](https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:04 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 46 | [Iko](https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7) | [N.A.S.A.](https://open.spotify.com/artist/07WjVPM79OGQLOZ1jfUVk9), [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Iko](https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC) | 3:31 |
 | 47 | [Coconut Oil](https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:45 |
 
-Snapshot ID: `aG8CgAAAAADExaMcpt5/8SRugWCDCsNi`
+Snapshot ID: `aHBUAAAAAAAIfUW/fPqGYVL3xEYf+Dtd`

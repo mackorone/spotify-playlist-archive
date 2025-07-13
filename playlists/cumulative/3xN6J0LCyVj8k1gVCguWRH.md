@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,133 songs - 11 day 23 hr 15 min
+5,135 songs - 11 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Best Part of Me](https://open.spotify.com/track/2PhvJ3VfAMhSC9wPZuxiSg) | [Aidan Rhys](https://open.spotify.com/artist/6yopXsmwXQQRnsN6aUwERA) | [Best Part of Me](https://open.spotify.com/album/0gUE6zM5qSZn566YmLHDoX) | 3:37 | 2024-12-03 | 2025-01-05 |
 | [Best Part of Me](https://open.spotify.com/track/7rV8dlbAAj4pLdrfmgb4Jb) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb) | [Best Part of Me](https://open.spotify.com/album/6uzupQZcB8MdToJPpkRwyD) | 3:32 | 2021-07-04 | 2021-09-03 |
 | [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 | 2023-08-25 | 2023-09-26 |
+| [Better](https://open.spotify.com/track/6CQPgS0nPWFzrTvTryQaXf) | [Cam Be](https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E), [Neak](https://open.spotify.com/artist/4QSOG2wDqDPm2BdgnNr3KM), [Yaw](https://open.spotify.com/artist/2GwKXyVeNUqRapJFwDXroo), [Rashid Hadee](https://open.spotify.com/artist/1nI03HPiLBVDVu5nmuzoWw), [Sam Thousand](https://open.spotify.com/artist/21ocMcnoFjBY8F3cpoAk8s) | [a film called black](https://open.spotify.com/album/60Vagxb33XOBKABxhF2biZ) | 4:47 | 2025-07-12 |  |
 | [Better](https://open.spotify.com/track/34EMkrV5bl20W53Ni56wPS) | [RadWulf](https://open.spotify.com/artist/5G1S3UDl45hYFHLRkz3EVE), [ZERO SUGAR](https://open.spotify.com/artist/5Ri8A4FMxA7QMYjKBUCidX) | [Better](https://open.spotify.com/album/6HJvGY8oWJRWiX2tU9ybnC) | 3:06 | 2023-12-08 | 2023-12-26 |
 | [Better \(feat\. Shana Tucker & Eric Roberson\)](https://open.spotify.com/track/0hihs6rrk3eL2iRS0xzmpX) | [The Foreign Exchange](https://open.spotify.com/artist/60R4M19QBXvs0gO4IL6CpS), [Shana Tucker](https://open.spotify.com/artist/0KNylMopqFPVtgIDUt7xmR), [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Love In Flying Colors](https://open.spotify.com/album/54oV0CtDdfiAlwGiixJyS5) | 4:58 | 2022-07-26 | 2024-04-30 |
 | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5NeFmsnXBy6xVbz8pesM5l) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/album/5f5QrP11Otp3kH67kC9tTa) | 3:11 | 2020-02-27 | 2020-03-11 |
@@ -1709,6 +1710,7 @@
 | [Get Wise](https://open.spotify.com/track/3IpLBy5zEAWwfMkMDvyevM) | [Beyond Music](https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM), [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7), [Ah Moon](https://open.spotify.com/artist/5zTBbK0VVTHpmKxbZjgJP8) | [Get Wise](https://open.spotify.com/album/2tP55QScJcWuSOQm02gouM) | 2:40 | 2025-04-30 | 2025-05-12 |
 | [Get You Off My Mind](https://open.spotify.com/track/4dyjOxnG9mGvdCEYpbDeLG) | [Heartbreak Alumni](https://open.spotify.com/artist/6QbXh7Nic9jfoK6d8dyZTg) | [Get You Off My Mind](https://open.spotify.com/album/6itfhfqAWiSoaysSDhkILm) | 3:09 | 2023-01-27 | 2023-02-18 |
 | [Getaway](https://open.spotify.com/track/0da306FXsiu7hgQyv3ayMp) | [Memoza](https://open.spotify.com/artist/3yQfgNkwZBAahZD2bGa4Ox) | [Getaway](https://open.spotify.com/album/0wJjkvl31fCXXkyXL1payy) | 2:48 | 2023-08-31 | 2023-09-26 |
+| [GETAWAY](https://open.spotify.com/track/0k0xdI5mQ88M8Z18wIIkN7) | [Romel](https://open.spotify.com/artist/5xS3wALUzY9L0wPyvhOAJe), [Solo Jones](https://open.spotify.com/artist/4ejJoQENxuZKKEIO72R5yA) | [GETAWAY](https://open.spotify.com/album/05F74cUoHboqGA7AbqD6bJ) | 3:24 | 2025-07-12 |  |
 | [gets me down](https://open.spotify.com/track/5849tNiWebnwX3zJfk86da) | [smythy](https://open.spotify.com/artist/0VbunCzHQjZW1JfkA9smBp) | [gets me down](https://open.spotify.com/album/237oJQsxLOA6LWBBRYtqGx) | 3:58 | 2022-06-03 | 2022-06-29 |
 | [Getting Easier](https://open.spotify.com/track/11nBEAAfc6pPEx6V8Ktabw) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Getting Easier](https://open.spotify.com/album/0xuHEKtMigqajpZTjv2smm) | 3:06 | 2023-07-15 | 2023-07-31 |
 | [Getting Older](https://open.spotify.com/track/6zoIHEop8NqLTnhjE0lVDR) | [Gabrielle Lacerda](https://open.spotify.com/artist/2tGweqCSiXRVhxuR5LlWDX) | [Getting Older](https://open.spotify.com/album/5wylbjTPC3cfo07cQXS1GU) | 4:19 | 2023-01-13 | 2023-02-12 |
@@ -2700,7 +2702,7 @@
 | [Love Me If You Must](https://open.spotify.com/track/70fYiSipzPY96LG9ZAkw63) | [ET Boys](https://open.spotify.com/artist/3QxTGYOFDszXNRsWRMKd9z) | [Love Me If You Must](https://open.spotify.com/album/5lN08s1lOWMYCFRjzQCayA) | 3:54 | 2025-03-05 | 2025-03-17 |
 | [Love Me JeJe](https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:58 | 2024-08-12 |  |
 | [Love Me More](https://open.spotify.com/track/26aM69RDPRcNB7sycWnSaP) | [Autumn Jeannette](https://open.spotify.com/artist/33gynXNzaLs9NSR9FJEWpB) | [Love Me More](https://open.spotify.com/album/3gIHHhYt0AXL3EVjKSvh4V) | 2:53 | 2022-02-24 | 2022-03-17 |
-| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-05-21 | 2025-06-14 |
+| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-05-21 |  |
 | [Love Me Right](https://open.spotify.com/track/5gfBbsyqjeFA8bfebgYvof) | [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Love Me Right](https://open.spotify.com/album/5Aa75BO4UzD8VSn3M7xCyA) | 3:43 | 2021-09-25 | 2021-10-11 |
 | [Love Me Right](https://open.spotify.com/track/5z1bo5T51LkGnLoahDaQ7K) | [The Other Guys](https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X), [Jenna Camille](https://open.spotify.com/artist/6CuQ7eTjHfjq0Magk80kyW) | [Love Me Right](https://open.spotify.com/album/0y3TB7bJMJp3mPYQ4hxTnM) | 3:52 | 2019-11-20 | 2019-12-04 |
 | [Love Me Right](https://open.spotify.com/track/2FjJvbdHh8qMWcqTiI3d5o) | [Theresia Serena](https://open.spotify.com/artist/7C9CFrbBSANJZz3LYLFvOF) | [Love Me Right](https://open.spotify.com/album/1DY8rBBX7D0wuQj5AYccFc) | 2:34 | 2024-03-20 | 2024-06-19 |

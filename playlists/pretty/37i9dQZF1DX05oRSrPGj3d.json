@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 281433,
+  "num_followers": 281486,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -531,18 +531,34 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+        "name": "The Panhandlers",
+        "url": "https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "The Panhandlers",
+          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
+        },
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        },
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Broken Window Serenade",
-      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
+      "duration_ms": 188610,
+      "name": "West Texas in My Eye",
+      "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -579,34 +595,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "The Panhandlers",
-        "url": "https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R"
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
       },
       "artists": [
         {
-          "name": "The Panhandlers",
-          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
-        },
-        {
-          "name": "John Baumann",
-          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
-        },
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        },
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 188610,
-      "name": "West Texas in My Eye",
-      "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
+      "duration_ms": 346333,
+      "name": "Broken Window Serenade",
+      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Burning The Day",
-        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Interstate",
-      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "The Blue Light Live",
         "url": "https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 275106,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Burning The Day",
+        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Interstate",
+      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Lovers and Leavers",
-        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "The Love That We Need",
-      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Brand New Me",
         "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 189413,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Lovers and Leavers",
+        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "The Love That We Need",
+      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Milestones- Greatest Hits",
         "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 224840,
       "name": "Three Days",
       "url": "https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H"
     },
     {
       "added_at": "2024-07-05 20:39:25",

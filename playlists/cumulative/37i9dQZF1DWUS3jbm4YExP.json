@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Countryman '82",
+        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243442,
+      "name": "Countryman '82",
+      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
+    },
+    {
+      "album": {
         "name": "Coup de foudre \u00e0 Thessalonique",
         "url": "https://open.spotify.com/album/2DUeBPypI4SmJ4Nr6HQQ4m"
       },
@@ -10190,7 +10208,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Nefertiti - David Walters Remix",
       "url": "https://open.spotify.com/track/1m0OvusfKEUnCp5yeu2n5w"
@@ -11466,7 +11484,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 196800,
       "name": "Pirouette",
       "url": "https://open.spotify.com/track/3VB7mQfM9kxTUQJC4ffxgx"
@@ -14920,7 +14938,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 184256,
       "name": "Under No Nation - Radio Edit",
       "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"

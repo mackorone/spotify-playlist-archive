@@ -1327,6 +1327,32 @@
     },
     {
       "album": {
+        "name": "Digno de Adorar",
+        "url": "https://open.spotify.com/album/6mEIqWRRl6vB9Exsi47NMg"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275296,
+      "name": "Mi Adoraci\u00f3n",
+      "url": "https://open.spotify.com/track/1lSYSHSu1HZ5ibdqKYD6rZ"
+    },
+    {
+      "album": {
         "name": "Mi Casa Y Yo",
         "url": "https://open.spotify.com/album/5WycQG5gnvuN0p9nerWE8v"
       },
@@ -2354,7 +2380,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 253004,
       "name": "Ven Esp\u00edritu",
       "url": "https://open.spotify.com/track/6AdfSD6EQXw34VqEK9pujR"

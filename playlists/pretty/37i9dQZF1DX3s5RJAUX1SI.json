@@ -1,6 +1,6 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 177509,
+  "num_followers": 177623,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
         "name": "Mi Eterno Amor Secreto",
         "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 232321,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1111,58 +1111,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
-        "name": "Forjando una Historia",
-        "url": "https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 186131,
-      "name": "No Importa Tu Madre",
-      "url": "https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -1183,6 +1131,58 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
+        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Forjando una Historia",
+        "url": "https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 186131,
+      "name": "No Importa Tu Madre",
+      "url": "https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
         "name": "35 Aniversario",
         "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
@@ -1195,6 +1195,26 @@
       "duration_ms": 227933,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1247,38 +1267,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
-        "name": "DIOS POR DELANTE",
-        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 214473,
-      "name": "DIOS POR DELANTE",
-      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
+      "duration_ms": 159773,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 159773,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "La basurita",
-      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "45 Anos De Exitos",
         "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
+      "duration_ms": 130093,
+      "name": "La basurita",
+      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1391,6 +1375,22 @@
       "duration_ms": 209120,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Antonio Aguilar",
         "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 191483,
       "name": "Ya Viene Amaneciendo",
       "url": "https://open.spotify.com/track/7mSAko5rYKEaU3jaeAk4ZG"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Buena Vibra",
-        "url": "https://open.spotify.com/album/2ncSmhsDaRTsXJk8gciknr"
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 202430,
-      "name": "Buena Vibra",
-      "url": "https://open.spotify.com/track/6eh452iRjUXEXqjLDEdAWk"
+      "duration_ms": 191040,
+      "name": "Chaparra De Mi Amor",
+      "url": "https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+        "name": "Buena Vibra",
+        "url": "https://open.spotify.com/album/2ncSmhsDaRTsXJk8gciknr"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Chaparra De Mi Amor",
-      "url": "https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT"
+      "duration_ms": 202430,
+      "name": "Buena Vibra",
+      "url": "https://open.spotify.com/track/6eh452iRjUXEXqjLDEdAWk"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 159581,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "As\u00ed Fue",
         "url": "https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 234489,
       "name": "Miro Al Cielo",
       "url": "https://open.spotify.com/track/3t6VXxSIoa4cyRdmJowRkq"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 159581,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
     },
     {
       "added_at": "2024-10-23 17:24:42",

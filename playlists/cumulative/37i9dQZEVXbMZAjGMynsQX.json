@@ -5871,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "album": {
         "name": "Dame La Verde",
         "url": "https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1"
       },
@@ -9870,7 +9888,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 165178,
       "name": "frente al mar",
       "url": "https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom"
@@ -12150,6 +12168,24 @@
       "duration_ms": 185217,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -27070,7 +27106,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 122198,
       "name": "Un Gatito Me Llam\u00f3",
       "url": "https://open.spotify.com/track/01bd6lyQR2ZiicAifXtlr9"

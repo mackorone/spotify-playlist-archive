@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAD4gkQ71MUnQWkJSO+CUdhy",
+  "snapshot_id": "aHBUAAAAAAAxxLZR57VFlU+0gUbVTikY",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/5KFgcfGE71ch85B5EZn94K"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/6SWySDYfFk2EffrhyQQpok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 217931,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/5KFgcfGE71ch85B5EZn94K"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/6SWySDYfFk2EffrhyQQpok"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chemical Love",
-        "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
-      },
-      "artists": [
-        {
-          "name": "Poylow",
-          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 126490,
-      "name": "Chemical Love",
-      "url": "https://open.spotify.com/track/2NJ8vHC4lLd0LLELdrvmAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chase The Sun",
         "url": "https://open.spotify.com/album/3lmlgZBrwoWe7fTsqTAHnB"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 183281,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/3aTKb3ottzhElNxoYiscPw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chemical Love",
+        "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
+      },
+      "artists": [
+        {
+          "name": "Poylow",
+          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 126490,
+      "name": "Chemical Love",
+      "url": "https://open.spotify.com/track/2NJ8vHC4lLd0LLELdrvmAA"
     },
     {
       "added_at": null,
@@ -547,42 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feelin' U",
-        "url": "https://open.spotify.com/album/5CFclh7BxZs5tkvABJKTMn"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 137261,
-      "name": "Feelin' U",
-      "url": "https://open.spotify.com/track/2ULAqCna5PrSEtX1bJ5fYq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nightales",
-        "url": "https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx"
-      },
-      "artists": [
-        {
-          "name": "Redfield",
-          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "Nightales",
-      "url": "https://open.spotify.com/track/2dI3EvlV1W8XWRrmlKWiif"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Love",
         "url": "https://open.spotify.com/album/63tuZdj8UFflEROfuqibSM"
       },
@@ -603,6 +567,22 @@
       "duration_ms": 221427,
       "name": "For Love",
       "url": "https://open.spotify.com/track/5AuS594msbacnVERxzdk7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feelin' U",
+        "url": "https://open.spotify.com/album/5CFclh7BxZs5tkvABJKTMn"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 137261,
+      "name": "Feelin' U",
+      "url": "https://open.spotify.com/track/2ULAqCna5PrSEtX1bJ5fYq"
     },
     {
       "added_at": null,
@@ -631,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Release I Need (feat. Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/0AWJj5tmrS7JKQv7Jbhb1z"
+        "name": "Nightales",
+        "url": "https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx"
       },
       "artists": [
         {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+          "name": "Redfield",
+          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
         },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Release I Need (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ"
+      "duration_ms": 195384,
+      "name": "Nightales",
+      "url": "https://open.spotify.com/track/2dI3EvlV1W8XWRrmlKWiif"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
       "duration_ms": 160645,
       "name": "This Good",
       "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Release I Need (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/0AWJj5tmrS7JKQv7Jbhb1z"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Release I Need (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/2pXhlF11yVLjt2Awu20Ub3"
+      },
+      "artists": [
+        {
+          "name": "Grayson Repp",
+          "url": "https://open.spotify.com/artist/3lz53qg2Rd3GGOyE2cbwXV"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 183914,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/7wfifk5pjAb4xVVUNVWJvL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clubland 27",
         "url": "https://open.spotify.com/album/1lpBT7xlHsaxUvVQthNDuG"
       },
@@ -735,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Chic",
+        "url": "https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 179070,
+      "name": "New Chic",
+      "url": "https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/6X3fcKiSDnPgCW3S3MUx19"
       },
@@ -747,6 +783,26 @@
       "duration_ms": 195172,
       "name": "Back",
       "url": "https://open.spotify.com/track/22wpf42RHDhCQNifDMoyt3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streets Of Gold",
+        "url": "https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo"
+      },
+      "artists": [
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 180593,
+      "name": "Streets Of Gold",
+      "url": "https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX"
     },
     {
       "added_at": null,
@@ -771,42 +827,6 @@
       "duration_ms": 149786,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/704qdWVSyxrFhoGTB0QWag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Chic",
-        "url": "https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 179070,
-      "name": "New Chic",
-      "url": "https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streets Of Gold",
-        "url": "https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo"
-      },
-      "artists": [
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 180593,
-      "name": "Streets Of Gold",
-      "url": "https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX"
     },
     {
       "added_at": null,
@@ -915,18 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birds and the Bees",
-        "url": "https://open.spotify.com/album/2GzZKLLy9fqF6QDizYSbgw"
+        "name": "Just to Be with You",
+        "url": "https://open.spotify.com/album/5QBaffo1Nvstta0AxgFVWz"
       },
       "artists": [
+        {
+          "name": "Manuel Riva",
+          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
+        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 161280,
-      "name": "Birds and the Bees",
-      "url": "https://open.spotify.com/track/4A3mO42WyHKW7zObJEIpzi"
+      "duration_ms": 209142,
+      "name": "Just to Be with You",
+      "url": "https://open.spotify.com/track/25AmXRjwGEHAXvETQhCIbu"
     },
     {
       "added_at": null,
@@ -951,22 +975,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just to Be with You",
-        "url": "https://open.spotify.com/album/5QBaffo1Nvstta0AxgFVWz"
+        "name": "Birds and the Bees",
+        "url": "https://open.spotify.com/album/2GzZKLLy9fqF6QDizYSbgw"
       },
       "artists": [
-        {
-          "name": "Manuel Riva",
-          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
-        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 209142,
-      "name": "Just to Be with You",
-      "url": "https://open.spotify.com/track/25AmXRjwGEHAXvETQhCIbu"
+      "duration_ms": 161280,
+      "name": "Birds and the Bees",
+      "url": "https://open.spotify.com/track/4A3mO42WyHKW7zObJEIpzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Dance",
+        "url": "https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "Art Bastian",
+          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "Can't Dance",
+      "url": "https://open.spotify.com/track/1Qus22vtga7fphTaSPPuss"
     },
     {
       "added_at": null,
@@ -1007,46 +1047,6 @@
       "duration_ms": 166060,
       "name": "Sweet Desperation - Radio Edit",
       "url": "https://open.spotify.com/track/7e68OISHjPwhWFy9gSmE6h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love & Devotion",
-        "url": "https://open.spotify.com/album/3JrJsej825b2dqp0qtJGlY"
-      },
-      "artists": [
-        {
-          "name": "Jenaux",
-          "url": "https://open.spotify.com/artist/4pWvD2wQ6paqieVN9bE8yv"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 250409,
-      "name": "Love & Devotion",
-      "url": "https://open.spotify.com/track/3R60MeWYg7kRr5hNA8mlu9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Dance",
-        "url": "https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "Art Bastian",
-          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
-        }
-      ],
-      "duration_ms": 221052,
-      "name": "Can't Dance",
-      "url": "https://open.spotify.com/track/1Qus22vtga7fphTaSPPuss"
     }
   ],
   "unique_name": "This Is Kelli-Leigh",

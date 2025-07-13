@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Fit For A King
 
-1,274 songs - 3 day 6 hr 5 min
+1,275 songs - 3 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,7 @@
 | [FLY AWAY](https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [FLY AWAY](https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd) | 2:41 | 2024-06-04 | 2024-11-23 |
 | [For Whom the Banshee Cries](https://open.spotify.com/track/3JYvX4mZunGih0vQupHdX3) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [For Whom the Banshee Cries](https://open.spotify.com/album/1ADZJmflFSYHCTznoAjZH5) | 6:24 | 2022-07-13 | 2022-07-23 |
 | [For You](https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [For You](https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1) | 2:52 | 2025-04-25 |  |
-| [Forever Aligned](https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Forever Aligned](https://open.spotify.com/album/6tCIVsMcZOUAiAZabsnfYD) | 4:05 | 2024-11-22 |  |
+| [Forever Aligned](https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Forever Aligned](https://open.spotify.com/album/6tCIVsMcZOUAiAZabsnfYD) | 4:05 | 2024-11-22 | 2025-07-13 |
 | [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-11-18 | 2022-12-17 |
 | [Forever Cold](https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Forever Cold](https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc) | 4:43 | 2024-11-08 | 2025-05-26 |
 | [Forever The Night](https://open.spotify.com/track/0WLQtuxBnuOYWB6RuQ8flr) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Forever The Night](https://open.spotify.com/album/5TqbTmXgostHmPdlVS43sI) | 4:05 | 2025-04-25 | 2025-06-29 |
@@ -912,6 +912,7 @@
 | [Reshape Me](https://open.spotify.com/track/4lr08jZqpZ2duhBuIcFoky) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Reshape Me](https://open.spotify.com/album/3dQ31D349hGROq281dT6yg) | 3:43 | 2021-12-17 | 2022-02-18 |
 | [Resilient](https://open.spotify.com/track/2l7oMkvjaqzFqPb81d92T9) | [We Were Giants](https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz) | [Resilient](https://open.spotify.com/album/5Vvedx69s0fy9wzv1xv124) | 4:21 | 2024-03-08 | 2024-05-13 |
 | [Rest Your Head](https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [And Dying Forever](https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq) | 3:08 | 2022-07-13 | 2022-07-16 |
+| [Restless Leg Syndrome](https://open.spotify.com/track/1eSB4u3AapjXrO0baGuc6u) | [Evergreen Terrace](https://open.spotify.com/artist/5YQUrpDa5dkmo9Vk8hHQP9) | [Restless Leg Syndrome](https://open.spotify.com/album/7njZ8bWlAeBR8GDNO8Wl9s) | 2:40 | 2025-07-04 |  |
 | [Retribution](https://open.spotify.com/track/6hlFMfui1zugK8TNEaFkBs) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Retribution](https://open.spotify.com/album/4aQbL2fzztxM1wFFzTNfI9) | 4:17 | 2024-11-22 | 2024-11-29 |
 | [Return To Tragedy](https://open.spotify.com/track/0sWRSfKSZjO2IMU25ymrfT) | [Heists](https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF) | [Return To Tragedy](https://open.spotify.com/album/4rVAfvkDau1nZ5BHaN7ME7) | 3:46 | 2025-05-02 | 2025-06-11 |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-23 |  |

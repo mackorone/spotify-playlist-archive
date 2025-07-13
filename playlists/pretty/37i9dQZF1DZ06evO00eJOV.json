@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36832,
+  "num_followers": 36834,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAA2YGZqKR8Q2etTJH3z9URA",
+  "snapshot_id": "aHBUAAAAAADLYyIqk9ZfekJ0Jqdc+kzt",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Republik",
-        "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
       "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 236379,
-      "name": "Mamgobhozi",
-      "url": "https://open.spotify.com/track/4SJW5gKYzROFzzgsJlVFov"
+      "duration_ms": 329973,
+      "name": "Ngizilalhlela Kuwe",
+      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
     },
     {
       "added_at": null,
@@ -227,18 +219,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+        "name": "Piano Republik",
+        "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
       "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 329973,
-      "name": "Ngizilalhlela Kuwe",
-      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
+      "duration_ms": 236379,
+      "name": "Mamgobhozi",
+      "url": "https://open.spotify.com/track/4SJW5gKYzROFzzgsJlVFov"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "Nakupenda (I Love You)",
-      "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nomakanjani",
         "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 297840,
       "name": "Kenang Bohle",
       "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 277680,
+      "name": "Nakupenda (I Love You)",
+      "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
     },
     {
       "added_at": null,

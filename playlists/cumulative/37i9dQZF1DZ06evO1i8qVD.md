@@ -4,7 +4,7 @@
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-123 songs - 9 hr 0 min
+124 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Best in Town](https://open.spotify.com/track/5sPZH5scVV63witIumgJIa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:55 | 2022-08-05 | 2022-10-09 |
 | [Black Night](https://open.spotify.com/track/2P9BHr3KXDDCQ2eq17VHud) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 7:43 | 2022-08-06 | 2023-12-16 |
 | [Blue No More \(feat\. James Bay\)](https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 3:39 | 2022-08-05 |  |
+| [Blues Chase The Blues Away](https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blues Chase The Blues Away](https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx) | 4:49 | 2025-07-13 |  |
 | [Blues Don't Care \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/5fs3sNq3KK9jpbTNCf324m) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:27 | 2025-02-19 |  |
 | [Blues Don't Lie](https://open.spotify.com/track/1xyW8n2IfWReOvGWkc0A57) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:54 | 2022-10-02 |  |
 | [Born To Play Guitar](https://open.spotify.com/track/7yXuquZiCxTyLXzPnwlqJv) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 4:56 | 2022-08-05 |  |
@@ -88,7 +89,7 @@
 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 | 2024-09-12 | 2025-03-03 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-08-05 |  |
 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 | 2022-08-05 |  |
-| [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 | 2022-10-12 |  |
+| [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 | 2022-10-12 | 2025-07-13 |
 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 | 2022-08-06 | 2024-04-21 |
 | [Six Strings Down](https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Art Neville](https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:21 | 2022-08-05 |  |
 | [Skin Deep \(feat\. Derek Trucks\)](https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Skin Deep](https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W) | 4:28 | 2022-08-05 | 2025-06-30 |

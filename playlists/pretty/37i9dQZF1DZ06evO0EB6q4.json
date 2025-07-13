@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 248523,
+  "num_followers": 248588,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACROzgtr3szbDQ464rXX3wF",
+  "snapshot_id": "aHBUAAAAAAD0AqosIpnZ/uRQ4f6XhJEj",
   "tracks": [
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pienses Que Me Fui",
         "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 150186,
       "name": "No Pienses Que Me Fui",
       "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
     },
     {
       "added_at": null,

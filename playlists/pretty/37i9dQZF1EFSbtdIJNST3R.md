@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 39 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 39 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 38 | [Huilen In De Club](https://open.spotify.com/track/76w2a0YoSkeRlSemAewu6q) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:55 |
 | 39 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
 
-Snapshot ID: `Ab2hcgAAAACTCDYtmFkTBczSv3AedFFP`
+Snapshot ID: `Ab2nCAAAAADg+WgGFjfUzOYk4WaRFzxs`

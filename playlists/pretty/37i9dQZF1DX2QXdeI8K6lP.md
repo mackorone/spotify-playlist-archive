@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,126 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,199 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 41 | [Mar y Cielo](https://open.spotify.com/track/1Y4Mmj1ssPrXQpkImdctyA) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 2:43 |
 | 42 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
 | 43 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
-| 44 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 |
-| 45 | [Amor Que Malo Eres](https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:38 |
+| 44 | [Amor Que Malo Eres](https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:38 |
+| 45 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
 | 46 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
-| 47 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
+| 47 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 |
 | 48 | [Perfume de Gardenias](https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Exitos de los Tres Reyes](https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt) | 2:57 |
 | 49 | [Un Siglo de Ausencia \- Remasterizado](https://open.spotify.com/track/7nbh6ki0u8cVToPoKZLzsl) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:57 |
 | 50 | [Cuando Me Vaya](https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:06 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 52 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
 | 53 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 |
 | 54 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
-| 55 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 |
-| 56 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 |
+| 55 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 |
+| 56 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 |
 | 57 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
 | 58 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 59 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |

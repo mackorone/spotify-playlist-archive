@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,426 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,430 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 27 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 |
 | 28 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 |
 | 29 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
-| 30 | [Can A Heart Take](https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Can A Heart Take](https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O) | 3:04 |
-| 31 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
+| 30 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
+| 31 | [Can A Heart Take](https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Can A Heart Take](https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O) | 3:04 |
 | 32 | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 |
 | 33 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
 | 34 | [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 40 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 |
 | 41 | [Shot In The Dark](https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Shot In The Dark](https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0) | 2:36 |
 | 42 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
-| 43 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |
-| 44 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 |
+| 43 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 |
+| 44 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |
 | 45 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 | 46 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
 | 47 | [Landslide](https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Landslide](https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs) | 3:33 |

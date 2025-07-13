@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044,394 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,344 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

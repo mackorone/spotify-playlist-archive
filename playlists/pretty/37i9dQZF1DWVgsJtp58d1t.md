@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Click into the feed to learn about what's going on in the world of Afro Adura\. Cover: <a href="spotify:artist:4zmZ8lVLzGc84S4v2B1rLx">Seyi Vibez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,391 likes - 152 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,323 likes - 152 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 3 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 |
 | 4 | [Don't Wait Till It's Over](https://open.spotify.com/track/5v3m1QXyRnrZJH7n3US4z2) | [Damon DeGraff](https://open.spotify.com/artist/5C9OuKmKcdtOnQOIV48Nka), [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Don't Wait Till It's Over](https://open.spotify.com/album/4izAA7DVx8AeMOGTyPnboU) | 3:54 |
 | 5 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
-| 6 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:43 |
+| 6 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 |
 | 7 | [Shake It To The Max \- Tuff Remix](https://open.spotify.com/track/1tSYJVpbGD0iPLQPdesHpU) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Shake It To The Max \(Tuff Remix\)](https://open.spotify.com/album/6nwtiyXf4Odq4NDXsSvEHK) | 3:08 |
 | 8 | [Instructions](https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Instructions](https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz) | 2:16 |
 | 9 | [Born in Jamaica](https://open.spotify.com/track/5S7rhnNkFFfUcLWhsvv9L8) | [Friends Only](https://open.spotify.com/artist/0EF4AfflaI8N4XDajX10pA), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [MediSun](https://open.spotify.com/artist/0IsmvNH84dS9wcMSCPC5UM), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Born in Jamaica](https://open.spotify.com/album/3cjWNe9LWwJ9d2GLDFyGqb) | 4:04 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 22 | [ain’t the one](https://open.spotify.com/track/5kYdNOcO3M0gVQ3MNCq2zh) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [no service](https://open.spotify.com/album/1UKK69dkl1m29OhETYyfcv) | 2:14 |
 | 23 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 |
 | 24 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
-| 25 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
+| 25 | [Chains & Whips](https://open.spotify.com/track/3VnyPMhsK5UnDDdrScvx3W) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/1avMe325Hmi1taC1fiwOnp) | 4:04 |
 | 26 | [100 Bags \(feat\. Don Toliver\)](https://open.spotify.com/track/3Gh8WmWJWjHbyKuX2OD34N) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Until Night Comes](https://open.spotify.com/album/2ok9fpBrRD9JARHxncBtLk) | 3:03 |
 | 27 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 |
 | 28 | [Underdog \(From F1® The Movie\)](https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Underdog \(From F1® The Movie\)](https://open.spotify.com/album/5eZ1Y9l73CbY1Q5eu92LvK) | 2:22 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 151 | [P.B.S.](https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:24 |
 | 152 | [BAD 4 ME](https://open.spotify.com/track/5KwGB7YOPRw8fFTN8rYOoU) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [SIRENITY](https://open.spotify.com/album/2GuhGjVHBUmvW8BRZrayzn) | 3:09 |
 
-Snapshot ID: `aHGIKgAAAAB+w8nXTYqxDj/rN3uS43Cm`
+Snapshot ID: `aHLA0gAAAAA/8IXBpXZA8CMiX3Gd94f/`

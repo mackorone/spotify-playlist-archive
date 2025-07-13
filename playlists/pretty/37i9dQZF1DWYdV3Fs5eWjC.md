@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: The Arti$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,232 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,234 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 38 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
 | 39 | [Valentina](https://open.spotify.com/track/2ax9yh9o3eJWbJZbF8tDvj) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Valentina](https://open.spotify.com/album/3ZzOPT9jEn4oXC2IY5ZP1p) | 2:08 |
 | 40 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |
-| 41 | [Sweet](https://open.spotify.com/track/4loQPdrZajkHuZTI0Qrhx1) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Orion](https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl) | 2:54 |
+| 41 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 |
 | 42 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
-| 43 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 |
+| 43 | [Sweet](https://open.spotify.com/track/4loQPdrZajkHuZTI0Qrhx1) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Orion](https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl) | 2:54 |
 | 44 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 45 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 |
 | 46 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |

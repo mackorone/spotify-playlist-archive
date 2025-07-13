@@ -4,7 +4,7 @@
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 21 min
+96 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [How It's Done](https://open.spotify.com/track/0ZUCKcWdFABozlSmojDyLZ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:25 | 2024-06-15 | 2024-06-16 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-09-08 | 2024-09-15 |
 | [Hummingbird](https://open.spotify.com/track/5RtZ4ebQFkCa6TGQjQshdd) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:19 | 2022-09-08 | 2024-08-06 |
-| [I Can't Love You Anymore](https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 2:49 | 2022-09-08 |  |
+| [I Can't Love You Anymore](https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 2:49 | 2022-09-08 | 2025-07-13 |
 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 | 2022-09-08 |  |
 | [i hope i never fall in love](https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 3:36 | 2025-05-14 | 2025-05-15 |
 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 | 2024-07-14 | 2025-05-14 |
@@ -99,6 +99,7 @@
 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 | 2022-09-08 |  |
 | [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 | 2025-05-11 |  |
 | [Way Too Pretty for Prison \(with Maren Morris\)](https://open.spotify.com/track/6ZShReTf4SiT7LYXnRCks0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:14 | 2022-09-08 | 2025-03-03 |
+| [Welcome To The End](https://open.spotify.com/track/1ww6Ta6idUZH2sYgsZkYeA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Welcome To The End](https://open.spotify.com/album/45vKJFTv0dlITdxk1aN4q7) | 2:15 | 2025-07-13 |  |
 | [What Would This World Do? \- In Rare Form](https://open.spotify.com/track/3vtejXqrtGxsQUDRVx5E1c) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest: In Rare Form](https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8) | 4:10 | 2022-11-27 | 2022-12-09 |
 | [Wheels Of Laredo](https://open.spotify.com/track/3MgHIcV9xc8tUdoekttdLM) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 4:14 | 2025-04-10 | 2025-05-13 |
 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:40 | 2022-09-14 |  |

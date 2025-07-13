@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-848 songs - 2 day 8 hr 26 min
+849 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [Willow Tree](https://open.spotify.com/track/5H8gGN15unaHwUSNhKWPxm) | [Chad VanGaalen](https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ) | [Soft Airplane](https://open.spotify.com/album/2pKjG5kGU8DAJSey6cUmjB) | 3:13 | 2023-11-03 |  |
 | [Windfall](https://open.spotify.com/track/0duHbgFBsmdaV9CJLpiXCa) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 2:59 | 2025-06-20 |  |
 | [Wings \[Intro\]](https://open.spotify.com/track/41csJZApoEcJf0zp5wWMCb) | [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Triple Digits \[112\]](https://open.spotify.com/album/37XRzcFMZ91g9TrYKRUpcg) | 0:52 | 2024-04-14 | 2024-04-19 |
+| [woke up knowing everything \(opening theme\)](https://open.spotify.com/track/4N4uNJ3o2DQvs9IDPVOXNn) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Neighborhood Gods Unlimited](https://open.spotify.com/album/5TgdklWQYwr3eTPmrmnn8t) | 3:09 | 2025-07-12 |  |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2023-01-15 | 2023-06-15 |
 | [Woolf and Plath](https://open.spotify.com/track/1pm4JOgUyHFcnWNrNTUkEW) | [Foonyap](https://open.spotify.com/artist/37cFjzZQ7aSlexb2IoNJgO) | [Palimpsest](https://open.spotify.com/album/10qM36T7cTV0YHRfQ6m0Wx) | 2:30 | 2024-01-18 |  |
 | [World in My Eyes \- 2006 Remaster](https://open.spotify.com/track/70B5oP5ng1QYClkJ9CeWly) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:27 | 2022-09-30 | 2024-01-17 |

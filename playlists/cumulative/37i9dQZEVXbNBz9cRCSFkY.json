@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 188976,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu"
@@ -4740,7 +4740,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 303880,
       "name": "Eroplanong Papel",
       "url": "https://open.spotify.com/track/7MrDNu3hC1MjczXhi1citM"
@@ -8440,6 +8440,24 @@
       "duration_ms": 270603,
       "name": "Jopay",
       "url": "https://open.spotify.com/track/0p7s2EXYWLca0UOdQyQrNN"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -15014,7 +15032,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 280426,
       "name": "Sino",
       "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
@@ -16494,7 +16512,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -18022,7 +18040,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 283825,
       "name": "Unti-Unti",
       "url": "https://open.spotify.com/track/0DdC92EziGIEN6j7kTCKQX"

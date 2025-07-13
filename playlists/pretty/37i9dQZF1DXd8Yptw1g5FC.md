@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Tuğba Yurt ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,225 likes - 127 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,240 likes - 127 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 16 | [Aklım Seferde](https://open.spotify.com/track/6tSElGbzRF94AguIjnJC8G) | [Nükhet Duru](https://open.spotify.com/artist/7HLLY3hnsKLpq6bq3OwNNe) | [Aklım Seferde](https://open.spotify.com/album/5iSmXu8u9dAejQcD4daPVe) | 4:17 |
 | 17 | [İSTANBOO](https://open.spotify.com/track/4Fg1yutthlIqyIW7p9f5Rc) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [İSTANBOO](https://open.spotify.com/album/2GTyXXvEbPSr2sAf2W6Kk5) | 2:24 |
 | 18 | [Yaşayalım Hemen!](https://open.spotify.com/track/7oDmKzzYltDonIhmlBtkp1) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy) | [Yaşayalım Hemen!](https://open.spotify.com/album/1oCRblWslio2swGrvwkNE2) | 3:46 |
-| 19 | [Juju](https://open.spotify.com/track/4h5BOdxRn2L06t57r9201X) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [Juju](https://open.spotify.com/album/5gKZKAvSznaBx7HirDxRyx) | 2:14 |
+| 19 | [JUJU](https://open.spotify.com/track/4h5BOdxRn2L06t57r9201X) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [JUJU](https://open.spotify.com/album/5gKZKAvSznaBx7HirDxRyx) | 2:14 |
 | 20 | [Hançer](https://open.spotify.com/track/3czQaxqJhJeFiSg8cyDdYY) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Hançer](https://open.spotify.com/album/3eBFwB3r5XWaWMmfezQLFy) | 2:33 |
 | 21 | [Yurt](https://open.spotify.com/track/7bOcJEH7ju0f5iGHdJZHsC) | [Güncel Gürsel Artıktay](https://open.spotify.com/artist/0zG7sxSKeAruWiPCDGiKS1) | [Başka Bir Yerde, Başka Bir Zamanda](https://open.spotify.com/album/3bFjTIk5Y1ICDf59bd2mZd) | 3:34 |
 | 22 | [JWYA](https://open.spotify.com/track/3U0LzzKYeZYjQGX3gP2aY4) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h), [Davide Dalmonte](https://open.spotify.com/artist/1RSqmcLE8D3i6NTXiCTDfj) | [JWYA](https://open.spotify.com/album/5cgGFuIMYrpoHBvJUypXIi) | 2:46 |
-| 23 | [Mueva](https://open.spotify.com/track/1IS7T8BYibhyAGxX8Jcgbr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Yigit Karakas](https://open.spotify.com/artist/6N0xjHnAu5SZDajHS6JvSU) | [Mueva](https://open.spotify.com/album/20mDTMjaBrViWry8DE4g0E) | 2:56 |
+| 23 | [Mueva](https://open.spotify.com/track/1IS7T8BYibhyAGxX8Jcgbr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Yiğit Karakaş](https://open.spotify.com/artist/1UAs4FqSeogbj5Z9JWfVlT) | [Mueva](https://open.spotify.com/album/20mDTMjaBrViWry8DE4g0E) | 2:56 |
 | 24 | [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 |
 | 25 | [Ateeş!](https://open.spotify.com/track/2H5R5gWtKVK0T5OGN11EcK) | [Old G](https://open.spotify.com/artist/5dKK9A0yAqtRpqLoC7AkKm) | [Ateeş!](https://open.spotify.com/album/3v1yojO8fajpbaRrx5prHE) | 2:16 |
 | 26 | [DAL](https://open.spotify.com/track/0AJ0fgdzRiqLi6DNlTE7xK) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [DAL](https://open.spotify.com/album/0AqSqB4PHhLHolj8Vd3peU) | 2:56 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 33 | [Geriye Dönemem](https://open.spotify.com/track/3oQcGsDAHQ82QUWQDRWCem) | [Reaktive](https://open.spotify.com/artist/4HZBOaKcf8FjVoFvdTKoMG), [SEG](https://open.spotify.com/artist/0ODb5a6uwuQvYxq58bPD5J), [Ekin Alkan](https://open.spotify.com/artist/0i4hCPoTk7AFp2i10Qwxud), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P) | [Geriye Dönemem](https://open.spotify.com/album/5ZGWJ39gl0xNPhWXYaMo6T) | 3:21 |
 | 34 | [GULA](https://open.spotify.com/track/1nkAlrJu8x0wHSUbaw28MI) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [GULA](https://open.spotify.com/album/53i9aBw8gN1ICJzdKz0Hd4) | 2:02 |
 | 35 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 |
-| 36 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 36 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 37 | [CRINGE](https://open.spotify.com/track/6E6dycuu4PWEjmYbHT9Li9) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr), [Serhat Özen](https://open.spotify.com/artist/2Qpgh2xmjneIAyBWCKLVdJ) | [CRINGE](https://open.spotify.com/album/6XUzyBZq5JwOLbzrzFoSYs) | 2:55 |
 | 38 | [SICAK](https://open.spotify.com/track/1UpN2G9cABzT2GEEtFkNVr) | [Boramess](https://open.spotify.com/artist/5lFLt7LoBpqQAmwxfGZ6ui) | [SICAK](https://open.spotify.com/album/4i63KloBEuyA0V4nSadBcm) | 2:29 |
 | 39 | [aşka düşelim mi?](https://open.spotify.com/track/284iaPUQYDPcllhQwvxuuB) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [aşka düşelim mi?](https://open.spotify.com/album/4036lmdN5gVVLmZGbt3I7z) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Vesica Piscis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,099 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,106 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 30 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 31 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
 | 32 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
-| 33 | [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 |
-| 34 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
+| 33 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
+| 34 | [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 |
 | 35 | [What’s holding you?](https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Chambers](https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh) | 4:58 |
 | 36 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
 | 37 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Justin Bieber, Jazeek, Esther Graf, BLACKPINK und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,631 likes - 87 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,650 likes - 87 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 59 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 60 | [Desire \(Official FIFA Anthem\) \(feat\. Laura Pausini\)](https://open.spotify.com/track/4cE1UKQ5RvZlo53dL2qtzr) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Desire \(Official FIFA Anthem\) \(feat\. Laura Pausini\)](https://open.spotify.com/album/4idwkC0yHkciuQ6v0VkNU5) | 3:43 |
 | 61 | [bisschen fantasie](https://open.spotify.com/track/0o6VX1qMvMMbFNb2CPZt9a) | [jaydee](https://open.spotify.com/artist/1cNaJ7b5yqUMmJeHKSBK8v) | [bisschen fantasie](https://open.spotify.com/album/7Gn50XMyb2YWzASppHbOUm) | 2:30 |
-| 62 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 62 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 63 | [Irgendwann](https://open.spotify.com/track/5C1kGffiRiHwlXGpwOVq05) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Kareem](https://open.spotify.com/album/3olUThMnC362xCFQm0PoBf) | 2:37 |
 | 64 | [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 |
 | 65 | [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 |

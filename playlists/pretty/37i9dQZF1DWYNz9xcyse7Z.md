@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,370 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,531 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 15 | [Dos Botellas De Mezcal](https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Millas Y Millas](https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM) | 3:16 |
 | 16 | [Por No Perderte Te Perdi](https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:32 |
 | 17 | [Cortinas Guindas](https://open.spotify.com/track/6KBMoO8Ku4ZAFJ4lT9qAQI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Sinaloense Hecho Y Derecho](https://open.spotify.com/album/7M2i31TZWIiqZeZs7rXWTK) | 3:42 |
-| 18 | [Coqueta](https://open.spotify.com/track/27188WhdFnBQXf1MzjIIAS) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:58 |
-| 19 | [El Cajoncito](https://open.spotify.com/track/1wXbmRfuonBwgobWIZ57CO) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Anda Alterada La Gente](https://open.spotify.com/album/430S7iC4QkVBs5IlU2wHIa) | 3:32 |
+| 18 | [El Cajoncito](https://open.spotify.com/track/1wXbmRfuonBwgobWIZ57CO) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Anda Alterada La Gente](https://open.spotify.com/album/430S7iC4QkVBs5IlU2wHIa) | 3:32 |
+| 19 | [Coqueta](https://open.spotify.com/track/27188WhdFnBQXf1MzjIIAS) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:58 |
 | 20 | [El Foco \- Version Ranchera](https://open.spotify.com/track/74hOMmO8kJ1zCqDxhMlEsn) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [La Iguana](https://open.spotify.com/album/2dk85Srmd9lUhPQ7u4AoqG) | 3:53 |
 | 21 | [Te Metiste](https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:29 |
 | 22 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 43 | [Cuando Calienta El Sol](https://open.spotify.com/track/3NRmDinC525gVHBjpqLGps) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:25 |
 | 44 | [Chuy Y Mauricio](https://open.spotify.com/track/1FAfQVtINethXcopjgNWqq) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 4:57 |
 | 45 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:00 |
-| 46 | [Para Morir Naci](https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll) | [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Para Morir Nací](https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD) | 3:12 |
+| 46 | [La Canelera](https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Como Duele Saber](https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo) | 3:18 |
 | 47 | [Piel de Azúcar](https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 2:41 |
-| 48 | [La Canelera](https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Como Duele Saber](https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo) | 3:18 |
+| 48 | [Para Morir Naci](https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll) | [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Para Morir Nací](https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD) | 3:12 |
 | 49 | [Te Sigo Amando](https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:13 |
 | 50 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 2:36 |
 | 51 | [El Huizache](https://open.spotify.com/track/2zL6yRd7BBITUAYBBNnh1n) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:56 |

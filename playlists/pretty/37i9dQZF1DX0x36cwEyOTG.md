@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,334 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,289 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 10 | [Arrows](https://open.spotify.com/track/4QcDhDJkTBRjv4hNXtftcf) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 2:29 |
 | 11 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 12 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
-| 13 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
-| 14 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
+| 13 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
+| 14 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
 | 15 | [Siren](https://open.spotify.com/track/0b62y1bXn7ru5HTlqAfgk5) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 4:08 |
 | 16 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 | 17 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 24 | [When We Fall](https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:07 |
 | 25 | [Summer](https://open.spotify.com/track/7rY9qTVYJziRT87gI8KPra) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 5:22 |
 | 26 | [Shimmering](https://open.spotify.com/track/6Hu0QQtufUG9WYDF2dig9m) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Midnattssol](https://open.spotify.com/album/3sZrEdlXLWvTSQeOcLtdmq) | 3:35 |
-| 27 | [Midori](https://open.spotify.com/track/33P4kqRYHpq94kKjAoWvC5) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 3:01 |
-| 28 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
+| 27 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
+| 28 | [Midori](https://open.spotify.com/track/33P4kqRYHpq94kKjAoWvC5) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 3:01 |
 | 29 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
 | 30 | [News About Heaven](https://open.spotify.com/track/0GTopopHvqgaIbV8VSx9wM) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Lost Futures](https://open.spotify.com/album/1ccFrrZoLFGfDM2LaB8bc6) | 3:56 |
-| 31 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
-| 32 | [Symmetry](https://open.spotify.com/track/5K4QD9d4XNCmCf27Oib1rp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 2:52 |
+| 31 | [Symmetry](https://open.spotify.com/track/5K4QD9d4XNCmCf27Oib1rp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 2:52 |
+| 32 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
 | 33 | [I'll Come Running](https://open.spotify.com/track/1b2noys3aqkIiznUza7I6R) | [Paul Thomas Saunders](https://open.spotify.com/artist/2Y3Lw14p4nc60FKWp5q8Ob) | [Figure in a Landscape](https://open.spotify.com/album/5qJbpAwUPlFSWEAB6x8Ee3) | 4:38 |
 | 34 | [Intro](https://open.spotify.com/track/1QvDOpa0ND2vLRhxbrvpZ0) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Home](https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx) | 1:30 |
 | 35 | [Nest](https://open.spotify.com/track/4NtRwRfAuGRFQAhOezicIx) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:20 |

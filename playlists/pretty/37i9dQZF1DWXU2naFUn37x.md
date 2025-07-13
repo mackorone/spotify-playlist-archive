@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Niky Savage in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,436 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,466 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 21 | [MAYBACH](https://open.spotify.com/track/6WjDjQJ5JpUqPJpDCQmHqa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 2:43 |
 | 22 | [SNTMNG](https://open.spotify.com/track/5t425GlIbSzzgZ6rMM4phJ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:12 |
 | 23 | [N\*K\*MM\*K \(feat\. Baby Gang\)](https://open.spotify.com/track/7rlW21CTRWPMjcoVgSBo0K) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:28 |
-| 24 | [Banconote Viola \(feat\. Artie 5ive\)](https://open.spotify.com/track/2lMDiy4w6DiD848CsgYur8) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [TonTon](https://open.spotify.com/artist/1ahEnU32IFHlomnoWGS3gv), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [DIASPO](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:49 |
+| 24 | [Banconote Viola \(feat\. Artie 5ive\)](https://open.spotify.com/track/2lMDiy4w6DiD848CsgYur8) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [TonTon](https://open.spotify.com/artist/1ahEnU32IFHlomnoWGS3gv), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [DIASPO MIXTAPE](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:49 |
 | 25 | [Ginevra \(feat\. Geolier\)](https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:48 |
 | 26 | [MOCRO SCHOOL \(feat\. Yunes LaGrintaa, Hani, Kassimi\)](https://open.spotify.com/track/0fsWQEJigMTXNrLKq179Y4) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [N.47](https://open.spotify.com/album/4eIDWt7ND4Dq8e5IrLcD3e) | 4:37 |
 | 27 | [INTRO \(La Bella Vita\)](https://open.spotify.com/track/1lslS1hUsIvAScXvWVTLt2) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 3:31 |

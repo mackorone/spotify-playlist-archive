@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Lexxx Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,939 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,942 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 55 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 |
 | 56 | [POPPER!](https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POPPER!](https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp) | 1:50 |
 | 57 | [ENTE VIRTUAL](https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [ENTE VIRTUAL](https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I) | 2:09 |
-| 58 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
-| 59 | [Tanto Fronteo](https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk) | [King Goyi](https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Team Mati](https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2) | [Tanto Fronteo](https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp) | 4:57 |
+| 58 | [Tanto Fronteo](https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk) | [King Goyi](https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Team Mati](https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2) | [Tanto Fronteo](https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp) | 4:57 |
+| 59 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 60 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 |
 
 Snapshot ID: `Z6WhcQAAAADzetBOGWQxYRM5vkQC1xvd`

@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 564253,
+  "num_followers": 564374,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -539,8 +539,8 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+      "duration_ms": 261959,
+      "name": "Decode",
+      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
         "name": "Ocean Avenue",
         "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 198266,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -683,38 +683,6 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
-      },
-      "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "My Own Worst Enemy",
-      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Decode",
-      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
         "name": "The Drug In Me Is You",
         "url": "https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 218786,
       "name": "The Drug In Me Is You",
       "url": "https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+      },
+      "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
+        "name": "Now You See Inside",
+        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
+      },
+      "artists": [
+        {
+          "name": "SR-71",
+          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
         "name": "HOW 2 GET AWAY WITH MURDER",
         "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 131433,
       "name": "zombie",
       "url": "https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
-        "name": "Now You See Inside",
-        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
-      },
-      "artists": [
-        {
-          "name": "SR-71",
-          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
     },
     {
       "added_at": "2025-02-05 19:30:49",

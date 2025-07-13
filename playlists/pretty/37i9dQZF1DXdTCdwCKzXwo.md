@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257,965 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258,186 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 48 | [Love Will Tear Us Apart \- 2010 Remaster](https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 3:24 |
 | 49 | [Because the Night](https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 3:22 |
 | 50 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
-| 51 | [Mony Mony \- Downtown Mix / Remastered 2001](https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 5:01 |
-| 52 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
-| 53 | [Genius Of Love](https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club \- Deluxe Edition](https://open.spotify.com/album/0n4nGny616qpi5I087S8ur) | 5:39 |
+| 51 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
+| 52 | [Genius Of Love](https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club \- Deluxe Edition](https://open.spotify.com/album/0n4nGny616qpi5I087S8ur) | 5:39 |
+| 53 | [Mony Mony \- Downtown Mix / Remastered 2001](https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 5:01 |
 | 54 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 55 | [Space Age Love Song](https://open.spotify.com/track/0xzn2U71zNWLeJbE4Zat4C) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls](https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8) | 3:47 |
 | 56 | [Rock This Town](https://open.spotify.com/track/2SknHmwY6GiOv6aK7YRahd) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:27 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 64 | [Los Angeles](https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles \(2019 Remaster\)](https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn) | 2:24 |
 | 65 | [I Will Follow](https://open.spotify.com/track/40lKv5fLpzPHV1YQ7nrfMg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:35 |
 | 66 | [Never Say Never](https://open.spotify.com/track/02RkunUrCBLE5J6jY56QH3) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 5:53 |
-| 67 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 2:40 |
-| 68 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
+| 67 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
+| 68 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 2:40 |
 | 69 | [soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 6:59 |
 | 70 | [Androgynous](https://open.spotify.com/track/3fnL2JDgy4QD04araOl0eY) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Let It Be \(Expanded\)](https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL) | 3:10 |
 | 71 | [Lola](https://open.spotify.com/track/17GMg1ZyQJtm3HkXQFZ31f) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 4:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,234 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,248 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [Desperados Waiting for a Train](https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 4:36 |
 | 50 | [Eu Só Penso em Você \(Always On My Mind\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Zezé Di Camargo & Luciano 1993](https://open.spotify.com/album/6LOFKEu2x9qznKyY0KUHD3) | 3:49 |
 
-Snapshot ID: `aG8CgAAAAACCz/0TYxVa+85LxnyvbWdk`
+Snapshot ID: `aHBUAAAAAADBZZ3anmr1v58xf3FwkjvF`

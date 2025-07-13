@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,076 songs - 6 day 22 hr 20 min
+3,077 songs - 6 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [1 True Love](https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:19 | 2022-04-05 | 2022-04-12 |
 | [1000CANCIONES](https://open.spotify.com/track/4TUu0QxrNe0Mz6RMVoMda1) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 4:06 | 2024-05-18 | 2024-05-27 |
 | [10:10](https://open.spotify.com/track/6hd1qFV2nSAOeFprnZbHGp) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [10:10](https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN) | 3:10 | 2022-11-01 | 2022-11-09 |
-| [11 de 10](https://open.spotify.com/track/38NaTXsIaxUK0RSuHJxfMR) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [11 de 10](https://open.spotify.com/album/7yfafFCGyTxHVisjXzL0B5) | 2:54 | 2025-07-01 |  |
+| [11 de 10](https://open.spotify.com/track/38NaTXsIaxUK0RSuHJxfMR) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [11 de 10](https://open.spotify.com/album/7yfafFCGyTxHVisjXzL0B5) | 2:54 | 2025-07-01 | 2025-07-13 |
 | [111](https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [111](https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ) | 2:33 | 2025-03-11 | 2025-03-19 |
 | [11:11](https://open.spotify.com/track/0sCxXDFSEENe0l1EPNnu22) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | [11:11](https://open.spotify.com/album/62YRVYO19Rv4ryKoqgMYtp) | 2:36 | 2024-09-24 | 2024-10-01 |
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-02-08 | 2022-03-30 |
@@ -1589,6 +1589,7 @@
 | [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-07-09 | 2024-07-21 |
 | [Maldito](https://open.spotify.com/track/46RQeQbRjY5UTYIDRy9u8H) | [La Más Draga](https://open.spotify.com/artist/0iZvvcKPBin4qEadXvO0Rm), [Raquel Martínez](https://open.spotify.com/artist/5rczhENu5q9I55oJJrl9rv), [Yari Mejía](https://open.spotify.com/artist/6aM9CkEsHuOVMRePFYPAPs) | [La Más Draga 5](https://open.spotify.com/album/5wPzOARB46RkEBRYAsjwj1) | 2:56 | 2022-11-01 | 2022-11-03 |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-06-10 | 2025-07-02 |
+| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-12 |  |
 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 | 2024-08-30 | 2024-09-01 |
 | [Mami](https://open.spotify.com/track/4b5ZoCVJhm6CZFeEwgqTP4) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Mami](https://open.spotify.com/album/4QWnhJfLTrD0fPDmU6SeES) | 3:00 | 2024-09-10 | 2024-10-08 |
 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 | 2024-06-04 | 2024-07-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > una lloradita y a seguirle 🥲
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,846 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,970 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 14 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
 | 15 | [Truco Viejo](https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Truco Viejo](https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY) | 2:54 |
 | 16 | [Último Tema](https://open.spotify.com/track/5VqZWb99hgO2aKmo3sWSTb) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:11 |
-| 17 | [Lejos Estamos Mejor](https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Lejos Estamos Mejor](https://open.spotify.com/album/6iDt1S8DkyOAa7sOZ4oWM0) | 2:58 |
-| 18 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
-| 19 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 |
-| 20 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
+| 17 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
+| 18 | [Lejos Estamos Mejor](https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Lejos Estamos Mejor](https://open.spotify.com/album/6iDt1S8DkyOAa7sOZ4oWM0) | 2:58 |
+| 19 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
+| 20 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 |
 | 21 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 22 | [QUE VUELVAS](https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:49 |
 | 23 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 47 | [Mi Vida Mi Muerte](https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97) | 2:55 |
 | 48 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
 | 49 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 |
-| 50 | [Porque Te Vas](https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque Te Vas](https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX) | 3:50 |
-| 51 | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M) | 2:46 |
+| 50 | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M) | 2:46 |
+| 51 | [Porque Te Vas](https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque Te Vas](https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX) | 3:50 |
 | 52 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 |
 | 53 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 54 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |

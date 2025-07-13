@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > The clink of ice in your drink
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,035 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,038 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 72 | [\(not\) a love song](https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song](https://open.spotify.com/album/1ScCNRdHvkfPOHDaQOIzka) | 2:53 |
 | 73 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 |
 | 74 | [Dreams](https://open.spotify.com/track/1igkxmN7OLGaQ9XoUxYGOk) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 3:14 |
-| 75 | [2 much 2 handle](https://open.spotify.com/track/0A28TOFc5aTmeUuMaIKYwk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [2 much 2 handle](https://open.spotify.com/album/6nyI7UeD5jHxEitLg7m9ua) | 2:20 |
-| 76 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
+| 75 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
+| 76 | [2 much 2 handle](https://open.spotify.com/track/0A28TOFc5aTmeUuMaIKYwk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [2 much 2 handle](https://open.spotify.com/album/6nyI7UeD5jHxEitLg7m9ua) | 2:20 |
 | 77 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 |
 | 78 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 |
 | 79 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 |
-| 80 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
+| 80 | [Church in the Morning](https://open.spotify.com/track/3xSRAS1Phe2NuC6xq7IS9V) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Church in the Morning](https://open.spotify.com/album/3JGjyCYhWBO9aVnUBdrDUE) | 2:38 |
 
 Snapshot ID: `aG0rRQAAAABU1PmOb8I8TUrkSXPDLIrT`

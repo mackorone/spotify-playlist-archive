@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,078 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,154 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 50 | [Playsom](https://open.spotify.com/track/3xeqZUMpHsLO1UEoTIwHBO) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Marcio Victor](https://open.spotify.com/artist/3yC2gBgxQcQ4m90ltqAir9) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 3:58 |
 | 51 | [Zé Do Caroço](https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:24 |
 | 52 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
-| 53 | [Besta é Tu](https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 4:24 |
-| 54 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
+| 53 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
+| 54 | [Besta é Tu](https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 4:24 |
 | 55 | [Meu Nome É Gal](https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:46 |
 | 56 | [Nao Force](https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD) | [Joutro Mundo](https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:04 |
 | 57 | [Ligeiro](https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Ligeiro](https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp) | 3:31 |

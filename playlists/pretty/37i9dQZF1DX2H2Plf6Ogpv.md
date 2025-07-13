@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,228 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,241 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 14 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
 | 15 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 |
 | 16 | [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 |
-| 17 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
+| 17 | [High On My Lows](https://open.spotify.com/track/1kCJ1s8wtiXF3OK3dwQIcG) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [High On My Lows](https://open.spotify.com/album/0hMq2OW2LKUNWGcM1p5VeP) | 2:58 |
 | 18 | [On The Floor](https://open.spotify.com/track/6PuqQXLHlsKM4f8NwE87r8) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [All Pleasure](https://open.spotify.com/album/5m12jRRk1yITUd7s6KfMCJ) | 3:50 |
 | 19 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 |
 | 20 | [I Wish I Never Loved You](https://open.spotify.com/track/15Y5h2JcW69wSP8Nz5cOVZ) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:43 |
-| 21 | [High On My Lows](https://open.spotify.com/track/1kCJ1s8wtiXF3OK3dwQIcG) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [High On My Lows](https://open.spotify.com/album/0hMq2OW2LKUNWGcM1p5VeP) | 2:58 |
+| 21 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
 | 22 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
 | 23 | [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 |
 | 24 | [Right Now](https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Right Now](https://open.spotify.com/album/59C8gUScKsa2e1ZdROyYYa) | 3:40 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 59 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 |
 | 60 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 61 | [ATTENTION](https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [ATTENTION](https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM) | 2:58 |
-| 62 | [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 |
-| 63 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |
+| 62 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |
+| 63 | [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 |
 | 64 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
 | 65 | [Your Ghost](https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 3:05 |
 | 66 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 67 | [Dull \(feat\. Softcult\)](https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [I Love You Too](https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF) | 3:15 |
-| 68 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
-| 69 | [Crashing](https://open.spotify.com/track/6ER2Pe6DX7ocWIr3yAVYEq) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [It Is What It Is Till It Is What It Isn't](https://open.spotify.com/album/3tTDnSYNjyf37CDZN00u3Y) | 2:42 |
+| 67 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
+| 68 | [Crashing](https://open.spotify.com/track/6ER2Pe6DX7ocWIr3yAVYEq) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [It Is What It Is Till It Is What It Isn't](https://open.spotify.com/album/3tTDnSYNjyf37CDZN00u3Y) | 2:42 |
+| 69 | [Dull \(feat\. Softcult\)](https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [I Love You Too](https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF) | 3:15 |
 | 70 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 71 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
 | 72 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |

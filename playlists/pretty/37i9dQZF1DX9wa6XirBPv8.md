@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,835,120 likes - 125 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835,568 likes - 125 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 48 | [A Boy Brushed Red Living In Black And White](https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:28 |
 | 49 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 |
 | 50 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
-| 51 | [The Best Of Me](https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Say It Like You Mean It](https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6) | 4:18 |
+| 51 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
 | 52 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
-| 53 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
+| 53 | [The Best Of Me](https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Say It Like You Mean It](https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6) | 4:18 |
 | 54 | [Smile In Your Sleep](https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ) | 3:13 |
 | 55 | [Little Things](https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Charlotte](https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs) | 3:23 |
 | 56 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 102 | [Polygraph, Right Now!](https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [One Fell Swoop](https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL) | 3:03 |
 | 103 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
 | 104 | [Shake It Out](https://open.spotify.com/track/4oS1UEAjl1Fs2nCpOAbp9Q) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Mean Everything To Nothing](https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s) | 5:11 |
-| 105 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
-| 106 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
+| 105 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
+| 106 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
 | 107 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
 | 108 | [Absinthe Party At The Fly Honey Warehouse](https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Highly Refined Pirates](https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w) | 5:24 |
 | 109 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |

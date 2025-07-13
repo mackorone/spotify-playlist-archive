@@ -1,6 +1,6 @@
 {
   "description": "DJ Shocca \u00e8 tornato, 60 Hz II. Beat e rime, oggi come una volta.",
-  "num_followers": 46875,
+  "num_followers": 46892,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
+        "name": "Background",
+        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 304066,
+      "name": "S.I.C.",
+      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
-        "name": "Background",
-        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 304066,
-      "name": "S.I.C.",
-      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -1599,30 +1599,30 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
-        "name": "Blocchi Di Marmo",
-        "url": "https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn"
+        "name": "IDDU 2",
+        "url": "https://open.spotify.com/album/6qzqyjeitKyuufjCHaWVvM"
       },
       "artists": [
         {
-          "name": "Lanz Khan",
-          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
         },
         {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
         },
         {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
         },
         {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+          "name": "Madbuddy",
+          "url": "https://open.spotify.com/artist/1tBJtWHAbcvZF9qfGwLp1J"
         }
       ],
-      "duration_ms": 219069,
-      "name": "Blocchi Di Marmo",
-      "url": "https://open.spotify.com/track/3vroWIW7Nr49JRnKSizPjd"
+      "duration_ms": 208192,
+      "name": "La Lampara",
+      "url": "https://open.spotify.com/track/6AxsGoBi4QkufzRFacIBpW"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -1687,30 +1687,30 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
-        "name": "IDDU 2",
-        "url": "https://open.spotify.com/album/6qzqyjeitKyuufjCHaWVvM"
+        "name": "Blocchi Di Marmo",
+        "url": "https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn"
       },
       "artists": [
         {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
         },
         {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
         },
         {
-          "name": "Tormento",
-          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
         },
         {
-          "name": "Madbuddy",
-          "url": "https://open.spotify.com/artist/1tBJtWHAbcvZF9qfGwLp1J"
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
         }
       ],
-      "duration_ms": 208192,
-      "name": "La Lampara",
-      "url": "https://open.spotify.com/track/6AxsGoBi4QkufzRFacIBpW"
+      "duration_ms": 219069,
+      "name": "Blocchi Di Marmo",
+      "url": "https://open.spotify.com/track/3vroWIW7Nr49JRnKSizPjd"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
+        "name": "A volte ritorno",
+        "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
+      },
+      "artists": [
+        {
+          "name": "Lou X",
+          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
+        }
+      ],
+      "duration_ms": 342933,
+      "name": "Cinque minuti di paura",
+      "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
         "name": "Flaneur",
         "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 236000,
       "name": "Flaneur",
       "url": "https://open.spotify.com/track/5pAeva0OSTjKO0j4jJpuoF"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
-        "name": "A volte ritorno",
-        "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
-      },
-      "artists": [
-        {
-          "name": "Lou X",
-          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
-        }
-      ],
-      "duration_ms": 342933,
-      "name": "Cinque minuti di paura",
-      "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
-        "name": "Non fa per me",
-        "url": "https://open.spotify.com/album/6F5d1CTCdtxZpLfNChI8hh"
-      },
-      "artists": [
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Non fa per me",
-      "url": "https://open.spotify.com/track/27chHteHE6ESsppvrTrO54"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
         "name": "Rosso Fuoco",
         "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 227520,
       "name": "Rosso Fuoco",
       "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
+        "name": "Non fa per me",
+        "url": "https://open.spotify.com/album/6F5d1CTCdtxZpLfNChI8hh"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Non fa per me",
+      "url": "https://open.spotify.com/track/27chHteHE6ESsppvrTrO54"
     },
     {
       "added_at": "2025-07-10 22:01:10",
@@ -2271,6 +2271,26 @@
     {
       "added_at": "2025-07-10 22:01:10",
       "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        }
+      ],
+      "duration_ms": 148334,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
+    },
+    {
+      "added_at": "2025-07-10 22:01:10",
+      "album": {
         "name": "Day Off",
         "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
       },
@@ -2295,26 +2315,6 @@
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
-    },
-    {
-      "added_at": "2025-07-10 22:01:10",
-      "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
-        }
-      ],
-      "duration_ms": 148334,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
     },
     {
       "added_at": "2025-07-10 22:01:10",

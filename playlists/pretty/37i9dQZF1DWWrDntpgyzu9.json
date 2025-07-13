@@ -1,6 +1,6 @@
 {
   "description": "Solte a voz no chuveiro e liberte o cantor dentro de voc\u00ea! ",
-  "num_followers": 947519,
+  "num_followers": 947586,
   "original_name": "Cantando no Chuveiro",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-09-17 16:05:05",
       "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
+    },
+    {
+      "added_at": "2024-09-17 16:05:05",
+      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 261153,
       "name": "Castle on the Hill",
       "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
-    },
-    {
-      "added_at": "2024-09-17 16:05:05",
-      "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 482830,
-      "name": "Stairway to Heaven - Remaster",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "added_at": "2024-09-17 16:05:05",
@@ -831,18 +831,22 @@
     {
       "added_at": "2024-09-17 16:05:05",
       "album": {
-        "name": "Trouble Deluxe Edition",
-        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
       "artists": [
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 235800,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
+      "duration_ms": 214480,
+      "name": "Work from Home (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
     }
   ],
   "unique_name": "Cantando no Chuveiro",

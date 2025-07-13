@@ -4,7 +4,7 @@
 
 > Welcome to the Nordic queendom.
 
-162 songs - 8 hr 16 min
+163 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Lemonade](https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Lemonade](https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL) | 3:03 | 2024-02-08 | 2025-03-05 |
 | [Let's Get It](https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Let's Get It](https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp) | 1:52 | 2024-02-08 | 2025-03-05 |
 | [Little Brother](https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Little Brother](https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa) | 4:56 | 2025-03-07 | 2025-04-16 |
+| [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 | 2025-05-06 |  |
 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:46 | 2024-02-08 | 2025-03-05 |
 | [Mad Woman](https://open.spotify.com/track/5zMvjDWCoNtH3KJZZVYiHf) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Mad Woman](https://open.spotify.com/album/01XFfAn904bPwUQ8Hgt2fy) | 2:48 | 2025-03-04 |  |
 | [Made Of](https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Made Of](https://open.spotify.com/album/3qrzLXpKrkxYvdS5oDfpDV) | 3:01 | 2025-03-04 |  |
@@ -117,7 +118,7 @@
 | [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 | 2025-03-04 | 2025-06-16 |
 | [Partner In Crime](https://open.spotify.com/track/6iuni8ZCs2mPeUfmCsZqsg) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Partner In Crime](https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F) | 2:35 | 2024-02-08 | 2025-03-05 |
 | [Picking Up](https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 3:19 | 2025-03-04 |  |
-| [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 | 2025-05-06 |  |
+| [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 | 2025-05-06 | 2025-07-13 |
 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 | 2024-02-08 |  |
 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 | 2025-03-04 |  |
 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 | 2025-03-04 |  |

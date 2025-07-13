@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,435 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,445 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 38 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
 | 39 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
 | 40 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
-| 41 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
-| 42 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
-| 43 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
+| 41 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
+| 42 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
+| 43 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
 | 44 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 45 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 |
-| 46 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
+| 45 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
+| 46 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 |
 | 47 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 48 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
 | 49 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 61 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 |
 | 62 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
 | 63 | [Drown](https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4) | 3:54 |
-| 64 | [feels like home](https://open.spotify.com/track/64eOUZhwGkAVJdCaRUyvSL) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [feels like home](https://open.spotify.com/album/3UO1PVK8oOVsT3v0lStV0x) | 3:17 |
-| 65 | [2 Much](https://open.spotify.com/track/4iGf7FQ9COSPGJ1QwOyUaI) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Londra](https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq) | 3:20 |
+| 64 | [2 Much](https://open.spotify.com/track/4iGf7FQ9COSPGJ1QwOyUaI) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Londra](https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq) | 3:20 |
+| 65 | [feels like home](https://open.spotify.com/track/64eOUZhwGkAVJdCaRUyvSL) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [feels like home](https://open.spotify.com/album/3UO1PVK8oOVsT3v0lStV0x) | 3:17 |
 | 66 | [Comin' Through](https://open.spotify.com/track/51Y0kkClSkknR2V0rvbOni) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Swing](https://open.spotify.com/album/08w80ZQxYfFGVrT5p7F8xU) | 2:10 |
 | 67 | [Smooth Kriminal \(with Oxlade\)](https://open.spotify.com/track/39C3UVMIaU6XOm9iN6fhgg) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Smooth Kriminal \(with Oxlade\)](https://open.spotify.com/album/02kUmkf49XAPOWhwFF3lmt) | 2:53 |
 | 68 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 |

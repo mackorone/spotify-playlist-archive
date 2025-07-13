@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 
 > This is Ella Langley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,152 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,234 likes - 27 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 | 19 | [monsters](https://open.spotify.com/track/1lV0wIr5ZJg94SwVvZg6UN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:02 |
 | 20 | [love you tonight](https://open.spotify.com/track/2nMJZxXtV5oTPbtIXMpzhX) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:53 |
 | 21 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 |
-| 22 | [Hey Ma I Made It](https://open.spotify.com/track/0mmneggTzBRWdiiXyTbpDF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Hey Ma I Made It](https://open.spotify.com/album/5Pr7NCTji1hzZxQttXNiqb) | 3:30 |
+| 22 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
 | 23 | [people change](https://open.spotify.com/track/2x3ilJIp5c8KtZW03lThQX) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:22 |
 | 24 | [better be tough](https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:06 |
 | 25 | [Don't We All \(Acoustic\)](https://open.spotify.com/track/7kwSLtR8B2XOtBtorr372O) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:41 |
-| 26 | [Buzzes Like Neon](https://open.spotify.com/track/6Tj35xx9Rmb13ybnVh0OLk) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Buzzes Like Neon](https://open.spotify.com/album/0Nrc4EuEY9c7XDHOaXCx23) | 3:28 |
+| 26 | [Hey Ma I Made It](https://open.spotify.com/track/0mmneggTzBRWdiiXyTbpDF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Hey Ma I Made It](https://open.spotify.com/album/5Pr7NCTji1hzZxQttXNiqb) | 3:30 |
+| 27 | [Buzzes Like Neon](https://open.spotify.com/track/6Tj35xx9Rmb13ybnVh0OLk) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Buzzes Like Neon](https://open.spotify.com/album/0Nrc4EuEY9c7XDHOaXCx23) | 3:28 |
 
-Snapshot ID: `aG8CgAAAAADVgeOejpa0d5R97dLQD5gM`
+Snapshot ID: `aHBUAAAAAABqZXH9b3R2EA1k2+pxV3v0`

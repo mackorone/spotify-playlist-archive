@@ -1331,6 +1331,42 @@
     },
     {
       "album": {
+        "name": "2022 World Championship Theme",
+        "url": "https://open.spotify.com/album/4kJhEHkg1ggweXBa45GhPf"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "2022 World Championship Theme",
+      "url": "https://open.spotify.com/track/3gZyjgWdEibTsQFEmGiSSk"
+    },
+    {
+      "album": {
+        "name": "2023 World Championship Theme",
+        "url": "https://open.spotify.com/album/41OWf02MFdHDPMP8439pWP"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179543,
+      "name": "2023 World Championship Theme",
+      "url": "https://open.spotify.com/track/7s9QiG7yUXpr9qNPUlZH3r"
+    },
+    {
+      "album": {
         "name": "MUSIC - SORRY 4 DA WAIT",
         "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
       },
@@ -103708,6 +103744,24 @@
       "duration_ms": 203266,
       "name": "Space Cadet (feat. Gunna)",
       "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
+    },
+    {
+      "album": {
+        "name": "Space Groove - 2021",
+        "url": "https://open.spotify.com/album/3usZ7im5mkX0BSZW4iQO2j"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247920,
+      "name": "Space Groove - 2021",
+      "url": "https://open.spotify.com/track/5HEOSBUUfENp5YAU4JcsxD"
     },
     {
       "album": {

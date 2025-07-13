@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,339 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,895 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 43 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 |
 | 44 | [Ladeando \(feat\. Fuerza Regida\)](https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:11 |
 | 45 | [Falsa](https://open.spotify.com/track/3N5fHogY7kxVNrD7icdzXY) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:36 |
-| 46 | [Cholo 7](https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cholo 7](https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t) | 2:37 |
-| 47 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |
-| 48 | [Fama](https://open.spotify.com/track/10HNyyaGuqDwdgQGsUpId6) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE), [GueroX](https://open.spotify.com/artist/7woSBJR4DYUTwRl9cZEREo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 3:14 |
+| 46 | [Fama](https://open.spotify.com/track/10HNyyaGuqDwdgQGsUpId6) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE), [GueroX](https://open.spotify.com/artist/7woSBJR4DYUTwRl9cZEREo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 3:14 |
+| 47 | [Cholo 7](https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cholo 7](https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t) | 2:37 |
+| 48 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |
 | 49 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 |
-| 50 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
+| 50 | [Sin Chingarme A Nadie](https://open.spotify.com/track/3EqEmz85wW3Jq77AqV2wGM) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 2:26 |
 
-Snapshot ID: `aG8CgAAAAACD6gcjSB0jD2zRMXBoFh9V`
+Snapshot ID: `aHBUAAAAAAC4vy541MmCWg6ljGnYN5BZ`

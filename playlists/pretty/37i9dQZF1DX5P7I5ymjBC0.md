@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Kaushiki Chakraborty
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,658 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,677 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 36 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |
 | 37 | [Chal Chaliye](https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Farheen Raza Jaffry](https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc) | [Chal Chaliye](https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB) | 3:54 |
 | 38 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
-| 39 | [Baanware](https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 7:51 |
-| 40 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
+| 39 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
+| 40 | [Baanware](https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 7:51 |
 | 41 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 42 | [Tum Naraz Ho](https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:55 |
 | 43 | [BAALMAA](https://open.spotify.com/track/6S92MQ4Df2qIncc4Q35Udi) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 47 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 | 48 | [NEU](https://open.spotify.com/track/70qRMWQ1bO98R6bE2jwSFf) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 1:58 |
 | 49 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |
-| 50 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
+| 50 | [Lat Ulajhi](https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S) | [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Classical Unwind](https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8) | 3:59 |
 
 Snapshot ID: `aHDGCQAAAACLkCykIe3bePXK+oNISBDd`

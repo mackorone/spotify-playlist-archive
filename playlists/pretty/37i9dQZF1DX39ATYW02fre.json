@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 256222,
+  "num_followers": 256297,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,30 @@
     {
       "added_at": "2025-07-03 16:06:45",
       "album": {
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "duration_ms": 193032,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2025-07-03 16:06:45",
+      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
-    },
-    {
-      "added_at": "2025-07-03 16:06:45",
-      "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Deza",
-          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
-        }
-      ],
-      "duration_ms": 193032,
-      "name": "Salve",
-      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
     },
     {
       "added_at": "2025-07-03 16:06:45",
@@ -643,6 +643,26 @@
     {
       "added_at": "2025-07-03 16:06:45",
       "album": {
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
+    },
+    {
+      "added_at": "2025-07-03 16:06:45",
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
-    },
-    {
-      "added_at": "2025-07-03 16:06:45",
-      "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2025-07-03 16:06:45",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-07-03 16:06:45",
       "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "duration_ms": 354102,
+      "name": "October",
+      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
+    },
+    {
+      "added_at": "2025-07-03 16:06:45",
+      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 553413,
       "name": "Waste - RY X Remix",
       "url": "https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi"
-    },
-    {
-      "added_at": "2025-07-03 16:06:45",
-      "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
-      },
-      "artists": [
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        }
-      ],
-      "duration_ms": 354102,
-      "name": "October",
-      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
     },
     {
       "added_at": "2025-07-03 16:06:45",
@@ -875,6 +875,26 @@
     {
       "added_at": "2025-07-03 16:06:45",
       "album": {
+        "name": "Cold nights and city bike rides.",
+        "url": "https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        },
+        {
+          "name": "Oliver Rees",
+          "url": "https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Cold nights and city bike rides.",
+      "url": "https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR"
+    },
+    {
+      "added_at": "2025-07-03 16:06:45",
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 254117,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
-    },
-    {
-      "added_at": "2025-07-03 16:06:45",
-      "album": {
-        "name": "two more days",
-        "url": "https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 186976,
-      "name": "light dark light",
-      "url": "https://open.spotify.com/track/5TDGAqGkQAbjr3a2sjFFIk"
     }
   ],
   "unique_name": "Melantronic",

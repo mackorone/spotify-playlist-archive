@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,128 songs - 2 day 20 hr 55 min
+1,129 songs - 2 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Do Me a Favour](https://open.spotify.com/track/2BqfIlpahcebJPeu1IUTEo) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:29 | 2022-06-20 |  |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-10 |  |
 | [Do You Know Me By Heart](https://open.spotify.com/track/1rFHr13hRBT7jt6h9JNrQI) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Ripe Dreams, Pipe Dreams \(Deluxe Edition\)](https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM) | 4:51 | 2024-06-20 |  |
+| [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU) | [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Truly Young](https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS) | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV) | 2:52 | 2025-07-12 |  |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-27 |  |
 | [Dollar And A Dream III](https://open.spotify.com/track/1Yl4UBgyoHPgyne7rEsFZp) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 4:43 | 2023-03-23 |  |
 | [Don't Let It Get You Down](https://open.spotify.com/track/0bvhjf1fLLablK2IXEjVqr) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Don't Let It Get You Down](https://open.spotify.com/album/5l89AUaciFle1w5MvpjVSB) | 3:59 | 2021-08-25 |  |

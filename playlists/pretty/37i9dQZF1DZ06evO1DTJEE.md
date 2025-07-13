@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,865 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,917 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 5 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
 | 6 | [Change My Mind](https://open.spotify.com/track/6puede6hRbNP5SdPmS2PT0) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:19 |
 | 7 | [When She Comes Home Tonight](https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Outlaws Like Us](https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS) | 4:10 |
-| 8 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 |
-| 9 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 |
+| 8 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 |
+| 9 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 |
 | 10 | [Hell Of A Way To Go](https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go](https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf) | 2:46 |
 | 11 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 |
 | 12 | [Georgia Time](https://open.spotify.com/track/5XqHOqbjKb7YsQV6f3eGeD) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Georgia Time](https://open.spotify.com/album/0jj8xYfd6vh54BN4PyuWts) | 3:41 |
-| 13 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 |
-| 14 | [Damn Good Day To Leave](https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
+| 13 | [Damn Good Day To Leave](https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
+| 14 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 |
 | 15 | [Pick A Place](https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:59 |
 | 16 | [Hard To Leave](https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:35 |
 | 17 | [If It Wasn’t For Trucks](https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp) | 3:17 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 42 | [Turnin' Dirt](https://open.spotify.com/track/2TlhKS7q0TWyJ3DYOdnQhP) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:02 |
 | 43 | [Behind The Bar](https://open.spotify.com/track/5Tlb8IJOAfpKF1yKujzO1w) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:02 |
 | 44 | [Get Back Home](https://open.spotify.com/track/14t327yyQ4aXGXiPUnSWUK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [I Hope She’s Drinkin' Tonight / Get Back Home](https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl) | 3:03 |
-| 45 | [Miles On Main](https://open.spotify.com/track/3f8UChU4rRcFLMP4r8Fhi6) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Miles On Main / Wild Woman](https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp) | 3:22 |
+| 45 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 |
 | 46 | [Waitin' All Day](https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:18 |
 | 47 | [Put ‘Em On Mine](https://open.spotify.com/track/3IW7ksRFfK7zohn9INq6qU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:00 |
-| 48 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 |
+| 48 | [Miles On Main](https://open.spotify.com/track/3f8UChU4rRcFLMP4r8Fhi6) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Miles On Main / Wild Woman](https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp) | 3:22 |
 | 49 | [North On 21](https://open.spotify.com/track/0wQCiHAgUJdlBdRtdrnLFK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Riley Green EP](https://open.spotify.com/album/1m6Vdvu3ttbD1rq0P6Ylvn) | 3:27 |
-| 50 | [Runnin' With An Angel](https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Runnin' With An Angel](https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9) | 3:55 |
+| 50 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 |
 
-Snapshot ID: `aG8CgAAAAACn/QkmcawOXfYpE0ShcJAK`
+Snapshot ID: `aHBUAAAAAAAt+sYe+G2iDj9cWbs9uV3J`

@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-619 songs - 1 day 7 hr 29 min
+621 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [All At Once](https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 2:34 | 2025-07-03 |  |
 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 | 2025-02-20 | 2025-02-22 |
 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-05 |  |
-| [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 | 2025-06-26 |  |
+| [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 | 2025-06-26 | 2025-07-13 |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-09 | 2024-10-10 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2025-01-25 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-24 | 2025-02-28 |
@@ -161,7 +161,7 @@
 | [Dust](https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Dust](https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O) | 3:11 | 2025-03-07 | 2025-05-31 |
 | [Dårligt Match](https://open.spotify.com/track/432EcFkV6If93xvxEx2Rim) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Dårligt Match](https://open.spotify.com/album/5LhsH1HcBOmR9SmtBhm7qv) | 2:51 | 2025-05-01 | 2025-06-28 |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-29 |  |
-| [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 | 2025-07-11 |  |
+| [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 | 2025-07-11 | 2025-07-13 |
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-08-16 | 2024-11-24 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2025-01-25 |
 | [En drøm om et menneske](https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [En drøm om et menneske](https://open.spotify.com/album/5etPPW2saTnIg66emll6tp) | 2:58 | 2025-05-22 |  |
@@ -228,6 +228,7 @@
 | [Giv Mig Alt](https://open.spotify.com/track/6ypcV9TndUTwq9jgWxXk5d) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Giv Mig Alt](https://open.spotify.com/album/2kVPrELUEIEODDcCVkXjlU) | 3:22 | 2024-07-01 | 2024-08-18 |
 | [Glemmer Mig Aldrig](https://open.spotify.com/track/2MmCtRMGY7vC71UrzAmnzp) | [Bro](https://open.spotify.com/artist/7x82LIyCtdFKWxa4kMwdCR) | [Glemmer Mig Aldrig](https://open.spotify.com/album/5EAVNckJeplui1C1lqpcQN) | 2:43 | 2025-02-27 | 2025-03-14 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-04-10 | 2025-06-27 |
+| [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 | 2025-07-11 |  |
 | [Go Masala \(feat\. Klamfyr, USSEL & NIKLAS\)](https://open.spotify.com/track/6ugWrKsKjxSiKmbkTVQD8c) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [Klamfyr](https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Niklas](https://open.spotify.com/artist/5W02tXnCnuB2Hy5x1fNHsf) | [Go Masala \(feat\. Klamfyr, USSEL & NIKLAS\)](https://open.spotify.com/album/2MakWMmtxOss5xGFoahraL) | 2:42 | 2025-05-29 |  |
 | [god dag](https://open.spotify.com/track/2AfkO7eCM0UvVAXpVQWNBi) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [god dag](https://open.spotify.com/album/1ZFQUiw6YJvasou0MrkJck) | 3:04 | 2024-07-01 | 2024-08-09 |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-10 | 2025-05-31 |
@@ -586,6 +587,7 @@
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 | 2025-05-30 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-01 | 2024-09-13 |
 | [USA](https://open.spotify.com/track/4HYYZOR5yrMXFmBwy7B1Rr) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [USA](https://open.spotify.com/album/5bUj4hJuxkN4ukskJwmHW5) | 3:11 | 2025-03-20 | 2025-04-01 |
+| [vampire diaries](https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [vampire diaries](https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O) | 2:35 | 2025-07-11 |  |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 | 2025-06-06 |
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 | 2025-06-13 |
 | [VERDEN RUNDT](https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:23 | 2024-07-31 | 2024-08-02 |

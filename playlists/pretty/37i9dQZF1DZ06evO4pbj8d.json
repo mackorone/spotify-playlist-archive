@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 10481,
+  "num_followers": 10485,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABT0Vt1JZMvLJjGiqI/DX+W",
+  "snapshot_id": "aHBUAAAAAAAGoGa5w06H8blmf6kbNyx+",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "War Games",
+        "url": "https://open.spotify.com/album/4oKjK6XhlZS7zOodd2Am2X"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196097,
+      "name": "War Games",
+      "url": "https://open.spotify.com/track/2l2XifQktrsMK4pDoh8W5e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 189722,
       "name": "Changes",
       "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War Games",
-        "url": "https://open.spotify.com/album/4oKjK6XhlZS7zOodd2Am2X"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196097,
-      "name": "War Games",
-      "url": "https://open.spotify.com/track/2l2XifQktrsMK4pDoh8W5e"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 222228,
+      "name": "Stacy",
+      "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 230744,
       "name": "You At The Table (with Manchester Orchestra)",
       "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 222228,
-      "name": "Stacy",
-      "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 237915,
-      "name": "QUESTIONS, CHAOS & FAITH",
-      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
+      "duration_ms": 196008,
+      "name": "AM I?",
+      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196008,
-      "name": "AM I?",
-      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
+      "duration_ms": 237915,
+      "name": "QUESTIONS, CHAOS & FAITH",
+      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
     },
     {
       "added_at": null,

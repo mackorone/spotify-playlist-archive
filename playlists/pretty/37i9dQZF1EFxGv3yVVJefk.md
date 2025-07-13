@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 18 | [Think About You](https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 5:04 |
 | 19 | [Keeping My Faith In You](https://open.spotify.com/track/7ji63VKn7BttCU7hqnbZxF) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:55 |
 | 20 | [Stop to Love](https://open.spotify.com/track/0M78T1W2eL8DsLgCufoGzM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 5:10 |
-| 21 | [Fascination \- 2016 Remaster](https://open.spotify.com/track/1ipVdOvDm2PrCTWu3T24I2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Young Americans \(2016 Remaster\)](https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P) | 5:48 |
-| 22 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
+| 21 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
+| 22 | [Fascination \- 2016 Remaster](https://open.spotify.com/track/1ipVdOvDm2PrCTWu3T24I2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Young Americans \(2016 Remaster\)](https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P) | 5:48 |
 | 23 | [Promise Me](https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 4:42 |
 | 24 | [Jump to It \- Single Version](https://open.spotify.com/track/1DWTFcfjHR8I98KSRk2ntW) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Jump to It \(Expanded Edition\)](https://open.spotify.com/album/10uiEA15LdTEsjO1xJZVt4) | 4:17 |
 | 25 | [The Mistletoe Jam \(Everybody Kiss Somebody\)](https://open.spotify.com/track/74jkZEvi1iCmfmYvCUQ2JS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:45 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 62 | [Can't Get Enough Good Loving](https://open.spotify.com/track/6MBFVPHEc0HzGV9ghsxYRO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/3cxPGZ0ES2lA2zG8rIiTaF) | 4:36 |
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `Ab2hXgAAAADqHaX53/+IjheEZKk6YaOf`
+Snapshot ID: `Ab2m/gAAAAAMQVgl4qdsj/e55O5MgFmD`

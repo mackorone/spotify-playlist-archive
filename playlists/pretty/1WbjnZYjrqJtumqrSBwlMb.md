@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,088 songs - 2 day 18 hr 39 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,089 songs - 2 day 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1096,5 +1096,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1086 | [The Introduction](https://open.spotify.com/track/1ffQI6OUl4BzgnUXIWVEly) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 0:19 |
 | 1087 | [The End.](https://open.spotify.com/track/6s2yqZbiPNPL1B2IeCMsUA) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 1:52 |
 | 1088 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 |
+| 1089 | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU) | [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Truly Young](https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS) | [Doggy \(feat\. Love Spells and Truly Young\)](https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV) | 2:52 |
 
-Snapshot ID: `AAAJMSpzXlAOdhiPgQ4XD1LXtzNcNE9w`
+Snapshot ID: `AAAJMt7DPm0rS8mLVdbVTR0t+lTCJpIl`

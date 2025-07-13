@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Amanda Reifer
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,309 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,285 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 30 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
 | 31 | [Mad Out](https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67) | 2:33 |
 | 32 | [Talibhan](https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Talibhan](https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa) | 3:03 |
-| 33 | [You're The One I Love \(with Rvssian\)](https://open.spotify.com/track/6x4Lxr3upD3MQsvxi6gePp) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [You're The One I Love \(with Rvssian\)](https://open.spotify.com/album/1tBb7Ipr1HeCNpWXa78aX9) | 2:10 |
+| 33 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
 | 34 | [History](https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [History](https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO) | 3:05 |
-| 35 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
+| 35 | [You're The One I Love \(with Rvssian\)](https://open.spotify.com/track/6x4Lxr3upD3MQsvxi6gePp) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [You're The One I Love \(with Rvssian\)](https://open.spotify.com/album/1tBb7Ipr1HeCNpWXa78aX9) | 2:10 |
 | 36 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS), [Steel Chest](https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
 | 37 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
 | 38 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |

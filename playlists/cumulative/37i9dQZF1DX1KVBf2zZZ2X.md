@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-250 songs - 11 hr 43 min
+251 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Forest Pond](https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Pond](https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6) | 2:56 | 2024-07-18 |  |
 | [Forest Retreat](https://open.spotify.com/track/5x1SM4426jF89HQPaGp6s8) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Retreat](https://open.spotify.com/album/0XToDY4gtqpEu4CrWDgnP2) | 2:40 | 2024-06-03 |  |
 | [Forest Rhodes](https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Rhodes](https://open.spotify.com/album/1Isn7pNhAwOzz2QkbVn7gv) | 2:51 | 2025-01-15 |  |
-| [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 |  |
+| [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 | 2025-07-13 |
 | [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 | 2024-09-05 |
 | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/track/3tG0GoNdGyG42ktp3fRzeH) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5) | 2:52 | 2025-03-19 | 2025-04-22 |
@@ -211,6 +211,7 @@
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-03-03 | 2024-09-05 |
 | [Slow Morning](https://open.spotify.com/track/25jZO62Z6Z9fg39kzFU2h1) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Slow Morning](https://open.spotify.com/album/01aduQj2WuqOWsj3Ksy6wt) | 3:10 | 2025-01-15 |  |
 | [Slow Movements](https://open.spotify.com/track/4JLOW2vdfnrbVOxsLEyhBD) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Slow Movements](https://open.spotify.com/album/5t8ByF8UIhPkcwQLnorDGN) | 3:02 | 2025-03-19 |  |
+| [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2025-07-09 |  |
 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 | 2023-09-01 |  |
 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 | 2023-03-03 | 2025-06-12 |
 | [Something Else](https://open.spotify.com/track/75yGAhdliSTsNKUlvr4bii) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Something Else](https://open.spotify.com/album/002aCkJH30gVZN1sKyYUwl) | 2:52 | 2025-02-21 |  |

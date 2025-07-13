@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,335 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,371 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 15 | [You Can't Rush Your Healing](https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:51 |
 | 16 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
 | 17 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
-| 18 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 |
-| 19 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 18 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 19 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 |
 | 20 | [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 |
 | 21 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
 | 22 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |

@@ -1,6 +1,6 @@
 {
   "description": "The premier indie melancholia playlist, featuring Lana Del Rey",
-  "num_followers": 1967174,
+  "num_followers": 1967395,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-06-10 14:57:52",
       "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 262518,
-      "name": "Spring Into Summer",
-      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
-    },
-    {
-      "added_at": "2025-06-10 14:57:52",
-      "album": {
         "name": "Shame, Shame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 234800,
       "name": "Where'd All the Time Go?",
       "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
+    },
+    {
+      "added_at": "2025-06-10 14:57:52",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
     },
     {
       "added_at": "2025-06-10 14:57:52",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-06-10 14:57:52",
       "album": {
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
+    },
+    {
+      "added_at": "2025-06-10 14:57:52",
+      "album": {
         "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
         "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 228762,
       "name": "Rearrange My World",
       "url": "https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv"
-    },
-    {
-      "added_at": "2025-06-10 14:57:52",
-      "album": {
-        "name": "Not Your Muse (Deluxe)",
-        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
     },
     {
       "added_at": "2025-06-10 14:57:52",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-10 14:57:52",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Beach Baby",
-      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
-    },
-    {
-      "added_at": "2025-06-10 14:57:52",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 413826,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+    },
+    {
+      "added_at": "2025-06-10 14:57:52",
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
     },
     {
       "added_at": "2025-06-10 14:57:52",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-06-10 14:57:52",
       "album": {
-        "name": "How to: Friend, Love, Freefall",
-        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Painkillers",
-      "url": "https://open.spotify.com/track/6fc51JZVE0Yijdi6RuoLFv"
-    },
-    {
-      "added_at": "2025-06-10 14:57:52",
-      "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/5FiDVzxLqGtYjF5yzmMoj4"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 160991,
       "name": "Another One",
       "url": "https://open.spotify.com/track/63q9LqTK5iiZLy3cTvLMUf"
+    },
+    {
+      "added_at": "2025-06-10 14:57:52",
+      "album": {
+        "name": "Bon Iver, Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
     }
   ],
   "unique_name": "Sad Indie",

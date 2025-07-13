@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy, Tyla, Reekado Banks, Odeal  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,145 likes - 86 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,273 likes - 86 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 29 | [Odinare](https://open.spotify.com/track/1fIx09gSzzAjzXzo6C7xEL) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Odinare](https://open.spotify.com/album/0a1zrr4UWXx6x5dRX93Uue) | 2:37 |
 | 30 | [Check It](https://open.spotify.com/track/7yxDY4iSzYHdTY926xhEGs) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Check It](https://open.spotify.com/album/2kUbBBPDfAzMMpAFIeL9eK) | 2:14 |
 | 31 | [Delusional](https://open.spotify.com/track/3hb68nzi6kPkbRq6C8jJVU) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Delusional](https://open.spotify.com/album/4z0NrNf9fQNWmvAsXlxKYs) | 3:33 |
-| 32 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [WINNY](https://open.spotify.com/artist/1rNZLEs8N78iZIGqlKndvA) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
+| 32 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
 | 33 | [Do 1](https://open.spotify.com/track/4brlTYZOyANBRMpsBw4gec) | [OXYGINN](https://open.spotify.com/artist/1LWEHyj2ezHKQY8TlBiWQd), [mtg 9boy](https://open.spotify.com/artist/3qRx5vJPKjohuyg7YtM8AH), [darcebeat](https://open.spotify.com/artist/1aM2vS71DLEFRYyChWSmFe) | [Supa Strikas](https://open.spotify.com/album/7CWUiUT872LV7LkBJ4No5m) | 2:20 |
 | 34 | [Rover](https://open.spotify.com/track/6krLD2cXPpUexSqrI9wHyd) | [Majesty Lyn](https://open.spotify.com/artist/5ZETERIwOXfWYCBljWg3Hk) | [Rover](https://open.spotify.com/album/2pnLtsLBBBH8Z7G0utMUUN) | 2:28 |
 | 35 | [Poetic Interventions](https://open.spotify.com/track/3aQlVA4EUJUvas9wWtfgcb) | [AB Amarii](https://open.spotify.com/artist/4ToRgDjjoWXcmX35a9V7DZ) | [Poetic Interventions](https://open.spotify.com/album/5kfSAO2FVxHUVvKLTWOU7L) | 3:16 |

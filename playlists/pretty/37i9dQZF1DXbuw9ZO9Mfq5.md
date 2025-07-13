@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The nominees of the 55th annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, Oct\. 4 at 8 & 10 pm ET on TBN & TBN+\.  Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,354 likes - 76 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,353 likes - 76 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 27 | [In Christ Alone \- Live From Sydney](https://open.spotify.com/track/78VNLbkNUvZUih7XDUqfme) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [In Christ Alone \(Live From Sydney\)](https://open.spotify.com/album/6cCviTac5Tm6skLA9BoMgH) | 4:09 |
 | 28 | [My Tribute \(To God Be The Glory\)](https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Tribute \(To God Be The Glory\)](https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt) | 5:41 |
 | 29 | [Higher Name](https://open.spotify.com/track/5hG7OWUJoKvdSglHQa97GJ) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Higher Name](https://open.spotify.com/album/45uyDrOraL46xInButqHFf) | 4:22 |
-| 30 | [Like Jesus Can](https://open.spotify.com/track/0Pc0UH9AhRdsuYQBHWkH0z) | [Taranda Greene](https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein) | [Like Jesus Can](https://open.spotify.com/album/2DdnZKbXACSydTYD5CHplJ) | 6:06 |
+| 30 | [Like Jesus Can](https://open.spotify.com/track/0Pc0UH9AhRdsuYQBHWkH0z) | [TaRanda Greene](https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein) | [Like Jesus Can](https://open.spotify.com/album/2DdnZKbXACSydTYD5CHplJ) | 6:06 |
 | 31 | [Until We Fly Away \- Live](https://open.spotify.com/track/0Wz9UTQqWZ2zCdwKdG9X0R) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Until We Fly Away \(Live\)](https://open.spotify.com/album/1JGL6Klhdm9iVqBuXkEt1v) | 4:09 |
 | 32 | [Make The Morning Worth The Midnight](https://open.spotify.com/track/6RVJ9B32xrG3qDiN2gkZcl) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Shine: The Darker The Night The Brighter The Light](https://open.spotify.com/album/4esWUIAc9vy68wRD31euit) | 3:17 |
 | 33 | [Here Comes Jesus](https://open.spotify.com/track/4cnUGR4AFqoX7Si1r4Gesb) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Here Comes Jesus](https://open.spotify.com/album/38FiO68cMxhHOzsbxEmSST) | 3:28 |

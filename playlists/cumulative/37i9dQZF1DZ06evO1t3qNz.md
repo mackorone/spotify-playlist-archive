@@ -4,11 +4,12 @@
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-38 songs - 1 hr 50 min
+39 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Always Been You](https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:11 | 2024-08-08 |  |
+| [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 | 2025-07-13 |  |
 | [Bang Bang \(The Ballad Of Amy Fisher\)](https://open.spotify.com/track/5D5heO1PsYu1ThDAXzWkpw) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:08 | 2024-09-08 | 2024-10-11 |
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-04-13 |  |
 | [Cold](https://open.spotify.com/track/2R5sIhFhJFFCuv383Ac2XQ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:50 | 2024-10-20 | 2024-10-28 |

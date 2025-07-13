@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,948 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,945 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 39 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 |
 | 40 | [Ain't Sad About It](https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Ain't Sad About It](https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq) | 3:43 |
 | 41 | [Sex, Drugs, & Country Music](https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Sex, Drugs, & Country Music](https://open.spotify.com/album/759caALCZeFt6jTB2eKMv8) | 3:37 |
-| 42 | [bad brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 |
-| 43 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
+| 42 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
+| 43 | [bad brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 |
 | 44 | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/album/5PzOrHKY9PIZ0FjR4lLglH) | 3:09 |
-| 45 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
-| 46 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
+| 45 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
+| 46 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
 | 47 | [Heartthrob](https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Heartthrob](https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP) | 3:13 |
 | 48 | [Vertigo](https://open.spotify.com/track/5ElhrA4i6PX4vkJ6sOEPE3) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Vertigo](https://open.spotify.com/album/7awFCf1IxOUrMpBqt4IZxx) | 3:04 |
 | 49 | [I Won't Sleep](https://open.spotify.com/track/0mi2jX9EjiMcG0lRqV2gPB) | [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [I Won't Sleep](https://open.spotify.com/album/2Cv3X0S014FgbbBahaEQLh) | 2:15 |

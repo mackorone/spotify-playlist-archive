@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 94443,
+  "num_followers": 94458,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADxtdJ4x0ISQktCyXWq4ZVX",
+  "snapshot_id": "aHBUAAAAAACYNgYdyOpikhmhIk25ntO2",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
-        "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 241444,
-      "name": "Los de La Casa",
-      "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
+      "duration_ms": 153289,
+      "name": "JJ Es La Clave",
+      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
+        "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 153289,
-      "name": "JJ Es La Clave",
-      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
+      "duration_ms": 241444,
+      "name": "Los de La Casa",
+      "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
     },
     {
       "added_at": null,
@@ -447,38 +447,6 @@
       "duration_ms": 184751,
       "name": "Cuartitos De Libra",
       "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 186261,
-      "name": "Se Oyen Recio Los Disparos",
-      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Que Me Va Mal",
-      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
     },
     {
       "added_at": null,
@@ -507,6 +475,38 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Que Me Va Mal",
+      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 186261,
+      "name": "Se Oyen Recio Los Disparos",
+      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 161693,
-      "name": "Loco Malandro",
-      "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gabbana Es El Porte",
         "url": "https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 151690,
       "name": "Gabbana Es El Porte",
       "url": "https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "Loco Malandro",
+      "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 144764,
-      "name": "Al Millon Ando Yo",
-      "url": "https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instinto",
         "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 147999,
       "name": "Fino El Porteson",
       "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 144764,
+      "name": "Al Millon Ando Yo",
+      "url": "https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Destapo Un Bote",
-        "url": "https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF"
+        "name": "Se\u00f1or 80",
+        "url": "https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 180166,
-      "name": "Me Destapo Un Bote",
-      "url": "https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj"
+      "duration_ms": 143357,
+      "name": "Se\u00f1or 80",
+      "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or 80",
-        "url": "https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf"
+        "name": "Me Destapo Un Bote",
+        "url": "https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 143357,
-      "name": "Se\u00f1or 80",
-      "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
+      "duration_ms": 180166,
+      "name": "Me Destapo Un Bote",
+      "url": "https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj"
     },
     {
       "added_at": null,

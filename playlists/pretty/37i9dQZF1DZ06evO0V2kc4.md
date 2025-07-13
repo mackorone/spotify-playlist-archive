@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,065 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,080 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 21 | [Daddy, You Been On My Mind](https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 2:19 |
 | 22 | [Last Night I Had The Strangest Dream \- Live](https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:29 |
 | 23 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
-| 24 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
-| 25 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 |
+| 24 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 |
+| 25 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
 | 26 | [Joe Hill \- Live](https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:01 |
 | 27 | [Hello In There](https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:04 |
 | 28 | [Gracias A La Vida](https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [If I Wrote You](https://open.spotify.com/track/2kJfMLleWp1UgC5HlGBHi1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 3:28 |
 | 50 | [We Shall Overcome \- Live](https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:32 |
 
-Snapshot ID: `aG8CgAAAAACRgRsjxucPXxrdOkgjsjSR`
+Snapshot ID: `aHBUAAAAAABeHcZGH69Jj0jtx9V8anpW`

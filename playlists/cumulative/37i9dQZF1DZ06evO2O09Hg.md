@@ -4,7 +4,7 @@
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-96 songs - 4 hr 59 min
+97 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,12 +89,13 @@
 | [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 4:02 | 2024-07-03 |  |
 | [Robbery](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:00 | 2024-07-03 |  |
 | [Smile \(with The Weeknd\)](https://open.spotify.com/track/6wQlQrTY5mVS8EGaFZVwVF) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:16 | 2024-07-12 | 2024-07-13 |
-| [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2024-07-03 |  |
+| [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2024-07-03 | 2025-07-13 |
 | [Spend It](https://open.spotify.com/track/0H7PUJmrVxLJq1hed5p7j6) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 3:00 | 2024-12-13 | 2024-12-14 |
 | [Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 2:48 | 2024-07-03 |  |
 | [Suicidal \(feat\. Juice WRLD\) \- Remix](https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Suicidal \(Remix\) \[feat\. Juice WRLD\]](https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH) | 3:45 | 2024-07-03 |  |
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2024-07-03 | 2024-12-01 |
 | [The Party Never Ends](https://open.spotify.com/track/6aiCRUd68tOPCwsU0x1lUP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:20 | 2024-12-01 | 2024-12-14 |
+| [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/0CI5vcGTYHWfVEelog0lPr) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [The Way \(with XXXTENTACION\)](https://open.spotify.com/album/6dxfO5z7gh5HXIg9H9WZvb) | 3:50 | 2025-07-13 |  |
 | [Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:56 | 2024-07-03 | 2024-07-23 |
 | [Wake Up! \(feat\. Juice WRLD\)](https://open.spotify.com/track/3pXexc6FHcfGTivRK0jKet) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:15 | 2024-07-03 | 2024-11-07 |
 | [Wasted \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a7WZZZH7LzyvorhpOJFTe) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 4:18 | 2024-07-03 |  |

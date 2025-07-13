@@ -9153,6 +9153,40 @@
     },
     {
       "album": {
+        "name": "a film called black",
+        "url": "https://open.spotify.com/album/60Vagxb33XOBKABxhF2biZ"
+      },
+      "artists": [
+        {
+          "name": "Cam Be",
+          "url": "https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E"
+        },
+        {
+          "name": "Neak",
+          "url": "https://open.spotify.com/artist/4QSOG2wDqDPm2BdgnNr3KM"
+        },
+        {
+          "name": "Yaw",
+          "url": "https://open.spotify.com/artist/2GwKXyVeNUqRapJFwDXroo"
+        },
+        {
+          "name": "Rashid Hadee",
+          "url": "https://open.spotify.com/artist/1nI03HPiLBVDVu5nmuzoWw"
+        },
+        {
+          "name": "Sam Thousand",
+          "url": "https://open.spotify.com/artist/21ocMcnoFjBY8F3cpoAk8s"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287671,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6CQPgS0nPWFzrTvTryQaXf"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/6HJvGY8oWJRWiX2tU9ybnC"
       },
@@ -32367,6 +32401,28 @@
     },
     {
       "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/05F74cUoHboqGA7AbqD6bJ"
+      },
+      "artists": [
+        {
+          "name": "Romel",
+          "url": "https://open.spotify.com/artist/5xS3wALUzY9L0wPyvhOAJe"
+        },
+        {
+          "name": "Solo Jones",
+          "url": "https://open.spotify.com/artist/4ejJoQENxuZKKEIO72R5yA"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204428,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/0k0xdI5mQ88M8Z18wIIkN7"
+    },
+    {
+      "album": {
         "name": "gets me down",
         "url": "https://open.spotify.com/album/237oJQsxLOA6LWBBRYtqGx"
       },
@@ -51256,7 +51312,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"

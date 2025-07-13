@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,058 songs - 2 day 14 hr 29 min
+1,059 songs - 2 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 | 2023-03-29 |
 | [Hyoui](https://open.spotify.com/track/3yV7DWdUDubdBv340T3fJz) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Hyoui](https://open.spotify.com/album/5edXVTZASGctt9WqDG3aL6) | 3:27 | 2023-08-15 | 2023-08-25 |
 | [I CAN FEEL IT \- Single Mix](https://open.spotify.com/track/7FWeDeM8akEONTdfAVewJ5) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [I CAN FEEL IT](https://open.spotify.com/album/1Sv6Orx9JtDyD9Z3Iv3Aac) | 4:15 | 2024-04-12 | 2024-04-24 |
+| [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 | 2025-07-10 |  |
 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-09 | 2024-11-20 |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-05-13 | 2025-06-25 |
 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 | 2022-12-01 | 2023-05-23 |
@@ -492,7 +493,7 @@
 | [Lucky](https://open.spotify.com/track/5NCL8tzDw56FyB6ip8TVz5) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Sunny](https://open.spotify.com/artist/48vcm2gHOmAYMCt7RDHcKJ), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Lucky](https://open.spotify.com/album/2g1y7o6N9KobCmJdt5P6AR) | 3:23 | 2024-05-23 | 2024-08-08 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 | 2024-09-05 |
 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 | 2023-11-07 | 2024-01-31 |
-| [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 | 2024-04-16 |  |
+| [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 | 2024-04-16 | 2025-07-13 |
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-12-06 | 2023-01-11 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-11 | 2024-10-03 |
 | [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 | 2023-11-17 |

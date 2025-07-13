@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Tokyo Machine  \\m/",
-  "num_followers": 342151,
+  "num_followers": 342204,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2025-07-11 23:30:30",
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/7fwfPflE9UpMfLjNM1bzwW"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Banks Arcade",
-          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
-        }
-      ],
-      "duration_ms": 205197,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/3wv1F9qPfZkgxKfQNoEL7K"
-    },
-    {
-      "added_at": "2025-07-11 23:30:30",
-      "album": {
         "name": "MF Mosh Pit",
         "url": "https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk"
       },
@@ -2271,6 +2251,26 @@
       "duration_ms": 134812,
       "name": "MF Mosh Pit",
       "url": "https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF"
+    },
+    {
+      "added_at": "2025-07-11 23:30:30",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/7fwfPflE9UpMfLjNM1bzwW"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "duration_ms": 205197,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/3wv1F9qPfZkgxKfQNoEL7K"
     },
     {
       "added_at": "2025-07-11 23:30:30",

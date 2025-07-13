@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 40745,
+  "num_followers": 40764,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Grandes de la Cumbia Tropical",
-        "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 212952,
-      "name": "Mar de Emociones",
-      "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "The Reventon: 30 Pegaditas",
         "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 263253,
       "name": "El Baile del Perrito",
       "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Grandes de la Cumbia Tropical",
+        "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 212952,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        }
+      ],
+      "duration_ms": 271189,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 204288,
       "name": "Cachete, Pechito y Ombligo",
       "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
-      },
-      "artists": [
-        {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
-        }
-      ],
-      "duration_ms": 271189,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "El Baile de la Quebradita",
-        "url": "https://open.spotify.com/album/1vRkuGwrTKgOcSPOGwOTSV"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Sufro por Este Amor (Baile de la Quebradita)",
-      "url": "https://open.spotify.com/track/50pqdArO9o1AZx4C4eQ0TH"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 212821,
       "name": "Mu\u00f1eca Linda",
       "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "El Baile de la Quebradita",
+        "url": "https://open.spotify.com/album/1vRkuGwrTKgOcSPOGwOTSV"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Sufro por Este Amor (Baile de la Quebradita)",
+      "url": "https://open.spotify.com/track/50pqdArO9o1AZx4C4eQ0TH"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 266410,
-      "name": "Usted Es la Culpable",
-      "url": "https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 286531,
       "name": "La Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 266410,
+      "name": "Usted Es la Culpable",
+      "url": "https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 283022,
-      "name": "Con los Crespos Hechos",
-      "url": "https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 218400,
       "name": "Caliventura",
       "url": "https://open.spotify.com/track/5P1vcUYy4BxJA1jWpSXPia"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 283022,
+      "name": "Con los Crespos Hechos",
+      "url": "https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Fruko: \u00c9xitos",
-        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297358,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/1k8dsltxoZuZNtHFO5nfy8"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 247409,
       "name": "Dame Tu Querer",
       "url": "https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297358,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/1k8dsltxoZuZNtHFO5nfy8"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Homenaje a los Alegres Vallenatos",
-        "url": "https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 139813,
-      "name": "Los Camarones",
-      "url": "https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 268811,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Homenaje a los Alegres Vallenatos",
+        "url": "https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 139813,
+      "name": "Los Camarones",
+      "url": "https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1723,18 +1723,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Cordobesa",
-        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
       "artists": [
         {
-          "name": "La Sonora Cordobesa",
-          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         }
       ],
-      "duration_ms": 160606,
-      "name": "Bocachico Sinuano",
-      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
+      "duration_ms": 219352,
+      "name": "Tania",
+      "url": "https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

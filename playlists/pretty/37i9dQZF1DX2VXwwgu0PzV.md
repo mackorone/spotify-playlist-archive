@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Ryan Ofei
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,210 likes - 130 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,231 likes - 130 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 |
 | 2 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 |
-| 3 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:43 |
+| 3 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 |
 | 4 | [Cover me](https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Cover me](https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C) | 3:08 |
 | 5 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
 | 6 | [You Love Me](https://open.spotify.com/track/1CbxScpjh51CYZrgBan8PV) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Light](https://open.spotify.com/album/5YhRtt52IwtF6rWIdvOnYs) | 3:26 |

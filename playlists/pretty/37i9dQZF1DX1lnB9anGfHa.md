@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,824 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,854 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 14 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
 | 15 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 |
 | 16 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 |
-| 17 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
-| 18 | [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 |
+| 17 | [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 |
+| 18 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
 | 19 | [Dicen Que Eres Arte](https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dicen Que Eres Arte](https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg) | 2:44 |
 | 20 | [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [VS\-\-55](https://open.spotify.com/artist/2OkvEMID0ukuuRijJJwExF) | [ᚦ](https://open.spotify.com/album/0rVcW5vYBivXuERqeYF50o) | 4:58 |
 | 21 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
@@ -72,15 +72,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 62 | [Odyssey](https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Odyssey](https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI) | 3:33 |
 | 63 | [Marte](https://open.spotify.com/track/0O3AWOwZa4KemTGCVbelEG) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Marte](https://open.spotify.com/album/4ytkKIoWlf8cMAznG8h83s) | 2:59 |
 | 64 | [love is not the poison](https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [love is not the poison](https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s) | 5:18 |
-| 65 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 |
-| 66 | [Carmina XVII](https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Carmina XVII](https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP) | 4:00 |
+| 65 | [Carmina XVII](https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Carmina XVII](https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP) | 4:00 |
+| 66 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 |
 | 67 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
 | 68 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
 | 69 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
 | 70 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
-| 71 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 |
-| 72 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 |
-| 73 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
+| 71 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
+| 72 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 |
+| 73 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 |
 | 74 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
 | 75 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
 

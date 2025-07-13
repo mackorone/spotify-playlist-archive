@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30974,
+  "num_followers": 30972,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACtqlrpY1uYs+dX+Cu2ttFs",
+  "snapshot_id": "aHBUAAAAAAB6fRUJjkTPZsV5aSfCdjG1",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 355746,
-      "name": "Milagre",
-      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Di\u00e1rio de um Vencedor",
         "url": "https://open.spotify.com/album/5mBdO3ZcFBZ4qW7LAk9ARb"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 322194,
       "name": "Di\u00e1rio de um Vencedor",
       "url": "https://open.spotify.com/track/3bP06nmIxxAjI2EfZreyJD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 355746,
+      "name": "Milagre",
+      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 358640,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 286400,
       "name": "Escondido Nele",
       "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 358640,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
     },
     {
       "added_at": null,

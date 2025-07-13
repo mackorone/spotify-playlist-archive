@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,901 likes - 13 songs - 40 min 42 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,899 likes - 13 songs - 40 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,6 +20,6 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 10 | [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 |
 | 11 | [Devotion](https://open.spotify.com/track/3NRMx8ZKh6OHPotPxW4O4C) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Devotion](https://open.spotify.com/album/2wKWnv20DzkEJCuz3c9EWV) | 3:54 |
 | 12 | [Stereo](https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Stereo](https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ) | 2:27 |
-| 13 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 13 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 
 Snapshot ID: `AAALYiW6GsldS6+b8aI4RkETNj/cUmUz`

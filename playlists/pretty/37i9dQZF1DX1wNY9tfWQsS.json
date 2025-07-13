@@ -1,6 +1,6 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Kehlani",
-  "num_followers": 708889,
+  "num_followers": 709489,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
@@ -585,42 +585,6 @@
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
-      "added_at": "2024-08-13 17:24:58",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Loveeeeeee Song",
-      "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
-    },
-    {
-      "added_at": "2024-03-08 16:23:30",
-      "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
-    },
-    {
       "added_at": "2025-03-28 17:05:46",
       "album": {
         "name": "Call Me Crazy, But...",
@@ -643,6 +607,22 @@
     {
       "added_at": "2024-03-08 16:23:30",
       "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
+    },
+    {
+      "added_at": "2024-03-08 16:23:30",
+      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 209120,
       "name": "Rock Wit U (Awww Baby)",
       "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+    },
+    {
+      "added_at": "2024-08-13 17:24:58",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Loveeeeeee Song",
+      "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -785,6 +785,22 @@
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
     },
     {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+    },
+    {
       "added_at": "2024-03-08 16:23:30",
       "album": {
         "name": "Goodies",
@@ -803,22 +819,6 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2024-02-05 04:09:08",

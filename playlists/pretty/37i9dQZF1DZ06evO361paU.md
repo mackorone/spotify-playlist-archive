@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,512 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,549 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 6 | [I Belong To You](https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 4:17 |
 | 7 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 |
 | 8 | [Can't Get You Off My Mind](https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:34 |
-| 9 | [Stillness Of Heart](https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 4:15 |
+| 9 | [Honey](https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 3:50 |
 | 10 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
-| 11 | [Honey](https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 3:50 |
+| 11 | [Stillness Of Heart](https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 4:15 |
 | 12 | [Heaven Help](https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:11 |
 | 13 | [Stand By My Woman](https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:20 |
 | 14 | [The Chamber](https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 4:57 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 34 | [Fields Of Joy](https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:57 |
 | 35 | [It’s Just Another Fine Day \(In This Universe of Love\)](https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 6:19 |
 | 36 | [Rock And Roll Is Dead](https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 3:23 |
-| 37 | [Dig In](https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 3:37 |
-| 38 | [Eleutheria](https://open.spotify.com/track/7datu36O7lY60kKBOan48U) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:53 |
+| 37 | [Eleutheria](https://open.spotify.com/track/7datu36O7lY60kKBOan48U) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:53 |
+| 38 | [Dig In](https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 3:37 |
 | 39 | [California](https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 2:36 |
 | 40 | [Mr\. Cab Driver](https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 3:50 |
 | 41 | [New York City](https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 6:22 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 46 | [Stuck in the Middle](https://open.spotify.com/track/3KOUSBKibyAQo5LbIJh8pS) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 5:10 |
 | 47 | [Lady](https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 4:15 |
 | 48 | [Here to Love](https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:42 |
-| 49 | [Let It Ride \- HoneyLuv Remix](https://open.spotify.com/track/3Ch5p4bpm3E62yWj3lQn1Z) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Let It Ride Remixes, Pt\. 2](https://open.spotify.com/album/0tAicLuKd7VSZ65MH9NLBg) | 3:31 |
+| 49 | [Don't Think You Ever Loved Me \(feat\. Lenny Kravitz, Le'Andria Johnson\)](https://open.spotify.com/track/7Hau6gKa1qB6YT4AYtn1qd) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 6:38 |
 | 50 | [Spirit in My Heart](https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:33 |
 
-Snapshot ID: `aG8CgAAAAAA4VH77u0+ghrLiKYMGYzq5`
+Snapshot ID: `aHBUAAAAAAD8l6VdHwJ++o8elkITAHmz`

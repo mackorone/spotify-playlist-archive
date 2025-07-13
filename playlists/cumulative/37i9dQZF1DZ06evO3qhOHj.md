@@ -4,7 +4,7 @@
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 53 min
+87 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,10 +71,11 @@
 | [Suffocation](https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:42 | 2023-12-13 |  |
 | [Sunday Morning Kinda Girl](https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:16 | 2024-07-15 | 2024-10-15 |
 | [Superfantastic](https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 3:43 | 2023-12-13 |  |
+| [Swingin' Jam](https://open.spotify.com/track/69XLIkUEhh8TyI6l5fSrKu) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 0:36 | 2025-07-13 |  |
 | [Take A Walk \- 2009 Remastered Version](https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 3:57 | 2023-12-13 |  |
 | [Take Cover](https://open.spotify.com/track/77VL07g9hIVtowNCIyr9l2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:37 | 2023-12-13 |  |
 | [Tears](https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:20 | 2023-12-13 |  |
-| [The Chain](https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:46 | 2023-12-13 |  |
+| [The Chain](https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:46 | 2023-12-13 | 2025-07-13 |
 | [The Frame](https://open.spotify.com/track/1MfAMk1x64kkm8GLk2V45G) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:56 | 2024-08-10 | 2024-12-11 |
 | [The Whole World's Gonna Know](https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:52 | 2023-12-13 |  |
 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 | 2023-12-13 |  |

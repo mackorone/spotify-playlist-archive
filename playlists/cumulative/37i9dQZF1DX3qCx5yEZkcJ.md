@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-565 songs - 23 hr 24 min
+566 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [cruisin](https://open.spotify.com/track/5W9Mq15IiRgTdzebzrdmJe) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [cruisin](https://open.spotify.com/album/5dWnaOrXtnDxS8yxmCTiOu) | 1:30 | 2019-05-26\* | 2021-05-26 |
 | [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 | 2019-05-26\* | 2025-06-20 |
 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 | 2022-09-19 |
+| [d1g\_it.core](https://open.spotify.com/track/7FbFFpUxsepTcogshbsNjD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:45 | 2025-07-11 |  |
 | [Daisy Vibes](https://open.spotify.com/track/7noiYUt0ShJvgJZBYletqg) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Daisy Vibes](https://open.spotify.com/album/67qXWPDEc1rG9LEEKH9mgX) | 2:01 | 2019-08-31 | 2021-09-10 |
 | [Dance of Love](https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX), [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN), [Natsu](https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq) | [Reminders](https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN) | 2:21 | 2021-07-22 |  |
 | [Day 12](https://open.spotify.com/track/51Dae1jpRALuKCnR9LofRZ) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Dozing](https://open.spotify.com/album/7bXkKZXR1ydKXkIdish6Hx) | 2:02 | 2020-06-19 | 2021-08-31 |
@@ -565,7 +566,7 @@
 | [Woodstock](https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Woodstock](https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE) | 2:45 | 2020-06-19 |  |
 | [wunnation](https://open.spotify.com/track/5MDfhCCTQlIgz2JugdcCXx) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [0.2](https://open.spotify.com/album/0KY09V02sg1UpM893scHXS) | 2:37 | 2019-05-26\* | 2019-06-15 |
 | [Yesterday](https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Love Japan](https://open.spotify.com/album/1JKqsdbwfOK1233EOT67ZM) | 1:11 | 2019-05-26\* | 2021-07-31 |
-| [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 |  |
+| [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 | 2025-07-13 |
 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 | 2023-08-31 |  |
 | [Yugure](https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Yugure](https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ) | 2:06 | 2025-01-10 |  |
 | [zen](https://open.spotify.com/track/5jpqTv9D0BFsaYa0SkMbNx) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi), [OONOO](https://open.spotify.com/artist/3N0ZLLAp4RBTBt2zMlRUiw), [botanik](https://open.spotify.com/artist/0KvCRbWbiJwKJWTYGrKi81) | [zen](https://open.spotify.com/album/4BF3jUWMuRqxlqp9ZCRaVx) | 2:37 | 2024-06-14 | 2024-10-05 |

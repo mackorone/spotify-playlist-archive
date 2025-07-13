@@ -1,6 +1,6 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! \ud83d\udcf8 Chappell Roan is Lady Liberty",
-  "num_followers": 150791,
+  "num_followers": 150782,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 315280,
-      "name": "New York City Boy - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
-    },
-    {
-      "added_at": "2024-06-11 17:08:30",
-      "album": {
         "name": "Kiss: Ace Frehley",
         "url": "https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 183693,
       "name": "New York Groove",
       "url": "https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH"
+    },
+    {
+      "added_at": "2024-06-11 17:08:30",
+      "album": {
+        "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 315280,
+      "name": "New York City Boy - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
     },
     {
       "added_at": "2024-06-11 17:08:30",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "New Skin For The Old Ceremony",
-        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Chelsea Hotel #2",
-      "url": "https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe"
-    },
-    {
-      "added_at": "2024-06-11 17:08:30",
-      "album": {
         "name": "Rattle And Hum",
         "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 229266,
       "name": "Angel Of Harlem",
       "url": "https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ"
+    },
+    {
+      "added_at": "2024-06-11 17:08:30",
+      "album": {
+        "name": "New Skin For The Old Ceremony",
+        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Chelsea Hotel #2",
+      "url": "https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe"
     },
     {
       "added_at": "2024-06-11 17:08:30",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "Piano In The Background (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
+        "name": "Reasonable Doubt",
+        "url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Take the \"A\" Train",
-      "url": "https://open.spotify.com/track/6KBsivP3Of4z2x6uNMAyE3"
+      "duration_ms": 275640,
+      "name": "Brooklyn's Finest",
+      "url": "https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe"
     }
   ],
   "unique_name": "I Love NYC",

@@ -6204,7 +6204,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 163186,
       "name": "COUGH",
       "url": "https://open.spotify.com/track/26cPWPcsi3XR1oDf7ivUk0"
@@ -15125,6 +15125,24 @@
     },
     {
       "album": {
+        "name": "YAHO",
+        "url": "https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8"
+      },
+      "artists": [
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/1kYCwlHYLi5HmEF3t2Otok"
+    },
+    {
+      "album": {
         "name": "Show Me the Money 8 Episode 4",
         "url": "https://open.spotify.com/album/1BfyVADByjeX8o6eI1u5Et"
       },
@@ -17570,7 +17588,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 139093,
       "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
@@ -22578,6 +22596,28 @@
       "duration_ms": 241578,
       "name": "saimsaim",
       "url": "https://open.spotify.com/track/34W9D0vTrfUWatfvCyrrkp"
+    },
+    {
+      "album": {
+        "name": "YAHO",
+        "url": "https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8"
+      },
+      "artists": [
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Same (feat. YUMDDA)",
+      "url": "https://open.spotify.com/track/43HaKwqWGHL4IFOAuuomQR"
     },
     {
       "album": {

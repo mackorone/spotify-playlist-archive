@@ -4,7 +4,7 @@
 
 > 
 
-219 songs - 8 hr 38 min
+222 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 | 2025-01-16 |  |
 | [CRYSTALS](https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS](https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc) | 1:08 | 2024-12-31 |  |
 | [CUNT!](https://open.spotify.com/track/7q93z8CgPNFePxuOaLlO8l) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [CUNT!](https://open.spotify.com/album/7noIIWXmY1tYiJITkL1ULL) | 1:50 | 2025-05-23 |  |
+| [Dark Thoughts](https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:16 | 2025-07-12 |  |
 | [degen.](https://open.spotify.com/track/4aD0uQvbDJDWaHzEb4tpg5) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b), [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [degen.](https://open.spotify.com/album/6go8FVAAVxTHhhnYcfiqru) | 2:52 | 2025-05-03 |  |
 | [Despise](https://open.spotify.com/track/6Q0rbG1AbKlKtnYVIZKiBo) | [Giraa](https://open.spotify.com/artist/6alxKlyxDGoPUvOweEDjUo) | [Deception](https://open.spotify.com/album/1ID54KlDw3cXu1pJ8NhUo9) | 2:16 | 2025-05-29 |  |
 | [DINNER!](https://open.spotify.com/track/2ntvY5etas0PYYF5bPujuh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [DINNER!](https://open.spotify.com/album/5VFwh2DtKqihtJPFG2J6qK) | 2:16 | 2025-01-20 |  |
@@ -72,6 +73,7 @@
 | [ghost!](https://open.spotify.com/track/0sB9wdHqFrKgFVF5SqmqDb) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [ghost!](https://open.spotify.com/album/58Pwlfu6uT8TyUgvHVgDHd) | 1:33 | 2025-04-11 | 2025-04-17 |
 | [GLOCKIES](https://open.spotify.com/track/0UvyBiIU6E761Ozhpsf7i5) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [GLOCKIES](https://open.spotify.com/album/1KoRjUJ7IPy9irh9voezHb) | 1:07 | 2025-04-10 |  |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2024-12-31 |  |
+| [Go Bananas](https://open.spotify.com/track/4F7f3j1fDiAstE6CQP3sjk) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Spark Master Tape](https://open.spotify.com/artist/0JXPiLgbGX4n86jsocSkG6) | [Baby Gravy 2](https://open.spotify.com/album/1oxxysQmylUXuxzSdHlqUc) | 2:11 | 2025-07-12 |  |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2024-12-31 |  |
 | [GREMLIN!](https://open.spotify.com/track/35iyAN1boG21x5ADG19bo9) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [GREMLIN!](https://open.spotify.com/album/5xZXJZ1eFVuXs6Iw0X3gY6) | 1:48 | 2025-03-02 | 2025-04-10 |
 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 | 2024-11-28 |  |
@@ -113,6 +115,7 @@
 | [ISSBEENAMINUTE!](https://open.spotify.com/track/58BtmAspg5FXJNcoxVcbSN) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BAE AREA!](https://open.spotify.com/album/4RDrhTsFrwyyUfqqXTLmMM) | 2:14 | 2024-12-19 |  |
 | [iwalkwhenitalk</3](https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er) | [vnmpire](https://open.spotify.com/artist/0QsNA8omL2RFyNoHlWwlio) | [iwalkwhenitalk</3](https://open.spotify.com/album/3nc5FjDOeuHvzmM1NirYeA) | 1:38 | 2025-04-09 |  |
 | [JAMS!](https://open.spotify.com/track/3k7D5oH5H3W6he2Eah9Xc5) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [JAMS!](https://open.spotify.com/album/0LP2fZJno04gAR9bhraoZ6) | 1:44 | 2025-03-27 | 2025-04-10 |
+| [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 | 2025-07-12 |  |
 | [KATAMARI](https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [KATAMARI](https://open.spotify.com/album/4qfXJdKTc2dvIfdlqytd2E) | 2:38 | 2025-03-05 |  |
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2025-04-11 | 2025-04-17 |
 | [KILL YOURSELF](https://open.spotify.com/track/13rSC7PiWGDR15lZxgrxtw) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:44 | 2025-04-30 |  |

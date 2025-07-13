@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Mavi x Murda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,638 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,649 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 3 | [YİNE Mİ SEN?](https://open.spotify.com/track/2RfB0CFymAMVBuzadf2Zsu) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [YİNE Mİ SEN?](https://open.spotify.com/album/1wmJAgO5AWZzXE3FPRB7Vb) | 2:37 |
 | 4 | [Alabora](https://open.spotify.com/track/28DHxEk90GxPEvoD8nQM0J) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Alabora](https://open.spotify.com/album/6JyJ7VG4oO30d8PcUpsXZ0) | 3:08 |
 | 5 | [AŞKIM ALLAH KURTARSIN](https://open.spotify.com/track/7pOzz5RxPcBCrXSdlIIFwJ) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [AŞKIM ALLAH KURTARSIN](https://open.spotify.com/album/6RDAJhqOK6TXBj6uVGxfxW) | 2:05 |
-| 6 | [Juju](https://open.spotify.com/track/4h5BOdxRn2L06t57r9201X) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [Juju](https://open.spotify.com/album/5gKZKAvSznaBx7HirDxRyx) | 2:14 |
+| 6 | [JUJU](https://open.spotify.com/track/4h5BOdxRn2L06t57r9201X) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [JUJU](https://open.spotify.com/album/5gKZKAvSznaBx7HirDxRyx) | 2:14 |
 | 7 | [Extrovert](https://open.spotify.com/track/3eiLwTPzJTFd0GowvO7H2g) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Bipolar](https://open.spotify.com/album/0ab5RvaLZtVjorEZZ10Oor) | 3:10 |
 | 8 | [DAL](https://open.spotify.com/track/0AJ0fgdzRiqLi6DNlTE7xK) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [DAL](https://open.spotify.com/album/0AqSqB4PHhLHolj8Vd3peU) | 2:56 |
 | 9 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 |

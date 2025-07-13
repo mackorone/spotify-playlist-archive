@@ -1,13 +1,29 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 110502,
+  "num_followers": 110552,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAbxyr/zO0ms7eWxl1eEDTV",
+  "snapshot_id": "aHBUAAAAAACZHXiUBu+Z0PFf2Q313QEW",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rain Your Blood On Me",
+        "url": "https://open.spotify.com/album/5nVX7E3Cu7dREQeBle4FRW"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 254838,
+      "name": "Rain Your Blood On Me",
+      "url": "https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK"
+    },
     {
       "added_at": null,
       "album": {
@@ -391,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Uncomfortable",
-      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Halestorm (Deluxe)",
         "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 191680,
       "name": "You Call Me a Bitch Like It's a Bad Thing",
       "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
       "duration_ms": 205228,
       "name": "Psycho Crazy",
       "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
     },
     {
       "added_at": null,

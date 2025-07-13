@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 89486,
+  "num_followers": 89507,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "6 Feet Beneath the Moon",
-        "url": "https://open.spotify.com/album/3nR8btC3svZmUktrXDBuRY"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Wakin On A Pretty Daze",
         "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 570733,
       "name": "Wakin on a Pretty Day",
       "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "6 Feet Beneath the Moon",
+        "url": "https://open.spotify.com/album/3nR8btC3svZmUktrXDBuRY"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Days Are Gone (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 230453,
-      "name": "If I Could Change Your Mind",
-      "url": "https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU"
+      "duration_ms": 327680,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+        "name": "Days Are Gone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 327680,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao"
+      "duration_ms": 230453,
+      "name": "If I Could Change Your Mind",
+      "url": "https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1415,18 +1415,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
       },
       "artists": [
         {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t"
+      "duration_ms": 280426,
+      "name": "Dangerous (feat. Joywave)",
+      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
       },
       "artists": [
         {
-          "name": "Big Data",
-          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
         }
       ],
-      "duration_ms": 280426,
-      "name": "Dangerous (feat. Joywave)",
-      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
+      "duration_ms": 242773,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Muchacho De Lujo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
+        "name": "II",
+        "url": "https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 370200,
-      "name": "Song For Zula",
-      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
+      "duration_ms": 230146,
+      "name": "So Good At Being in Trouble",
+      "url": "https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI"
     },
     {
       "added_at": "2025-03-14 13:17:39",

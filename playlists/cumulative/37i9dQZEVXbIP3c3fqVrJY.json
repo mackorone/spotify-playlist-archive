@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 183000,
       "name": "5STAR",
       "url": "https://open.spotify.com/track/6LCdGUm84yYjpSwOu324FS"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -6828,7 +6828,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 183428,
       "name": "C\u00edgo a k\u00e1va (feat. Saul)",
       "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
@@ -15855,6 +15855,24 @@
     },
     {
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -20880,7 +20898,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 199141,
       "name": "MONEYBAG",
       "url": "https://open.spotify.com/track/0vTXbAd0ZN9AUg67CfjEwc"
@@ -28468,7 +28486,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -28486,7 +28504,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -28580,7 +28598,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 172800,
       "name": "Roleplay",
       "url": "https://open.spotify.com/track/7jAC1Ifo1Qpsf8pKW02ata"

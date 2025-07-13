@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks, via the South of Africa\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=6iGwwHUiTta65\-mO2QggHQ">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,992 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,994 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 18 | [SEARCHING](https://open.spotify.com/track/4M7yfQzVeE0ANQRZ16y7sK) | [Mika Noble](https://open.spotify.com/artist/6dzrVFU3mirH21EyTQiBQ5) | [SEARCHING](https://open.spotify.com/album/2lQtiNPjFG2v2eW0ftU4P6) | 2:47 |
 | 19 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 |
 | 20 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
-| 21 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 21 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 22 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
 | 23 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 | 24 | [Heavy Love](https://open.spotify.com/track/6NoODpPZCIa1DbXiZxohDw) | [Ross Learmonth](https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN) | [Heavy Love](https://open.spotify.com/album/4ySLQUc82Kc5EufnBUXFAo) | 3:17 |

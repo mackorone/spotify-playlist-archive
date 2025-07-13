@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/4RYtjdGDorR1hFO3vjAdIO?si=fxLzEsNJTGWyQhpDnL\_8sA">Mbalenhle M</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,613 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,209 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 44 | [Nanini Na \(feat\. Nkosazana Daughter, Azana & Musa Keys\)](https://open.spotify.com/track/0Vfh6Se5EqFA0Hu197bwG6) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3), [Luke M](https://open.spotify.com/artist/4GbuGX8HKJ8EbBNYaBDSWQ), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Nanini Na \(feat\. Nkosazana Daughter, Azana & Musa Keys\)](https://open.spotify.com/album/0jO5PN8JvK9GpdxssC64sA) | 4:22 |
 | 45 | [Emandulo \(Ode to uMageba\)](https://open.spotify.com/track/0q9GfOsdm04274pe5rNtfi) | [Son Of Nguni](https://open.spotify.com/artist/130qq1ptjWR60uyjiBVofN) | [Emandulo \(Ode to uMageba\)](https://open.spotify.com/album/49rA8zccpmH3M5Bi4KnpX1) | 6:25 |
 | 46 | [Kuribe](https://open.spotify.com/track/6JXQfrckT9iGcCcb51e5kA) | [Tebza Da Guitar](https://open.spotify.com/artist/3P74IrPnADRffywcXTzlIE), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF), [AxdyBeats\_AU](https://open.spotify.com/artist/4KgevtkjEodfoUvIzMFxpa) | [Kuribe](https://open.spotify.com/album/6e84TJ9gyxTMyJg68XSfte) | 5:09 |
-| 47 | [Dancing Through the Night](https://open.spotify.com/track/2spFfysaZoccNQEuYXHU4j) | [Dembé](https://open.spotify.com/artist/4J28lrhtdMgU5OJiQ4QD49) | [The Rhythm of Life](https://open.spotify.com/album/690QdjVSgBmZN6nEWicsjs) | 4:09 |
+| 47 | [Dancing Through the Night](https://open.spotify.com/track/2spFfysaZoccNQEuYXHU4j) | [Dembé](https://open.spotify.com/artist/4J28lrhtdMgU5OJiQ4QD49), [DJ Filwé](https://open.spotify.com/artist/6RD1Hwij0uf6ZcJQjDSKtZ), [Pierre Ladin](https://open.spotify.com/artist/3EV37FMQFVLnErHvFV83Bq) | [The Rhythm of Life](https://open.spotify.com/album/690QdjVSgBmZN6nEWicsjs) | 4:09 |
 | 48 | [Ndisize](https://open.spotify.com/track/2ZdiSdC1ElfhEsFanMlpdO) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Caiiro](https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ) | 5:15 |
 | 49 | [Ubuntu](https://open.spotify.com/track/07y20oHLIBVcafUViqbCqq) | [Siyanda Ngubane](https://open.spotify.com/artist/5ZDx9ITrDlx9KLRTEhQfeN), [Onye Nkiti](https://open.spotify.com/artist/3joQNS6JZpEQ6ie6F3NTKs), [Bernie Cue](https://open.spotify.com/artist/1qpH4AL5AL9sTQ3mDlfY6h) | [Ubuntu](https://open.spotify.com/album/6CfYQfQ8vpNZM5T7FVesQ3) | 5:32 |
 | 50 | [Vuka \(feat\. Thukuthela\)](https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Vuka \(feat\. Thukuthela\)](https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE) | 5:27 |

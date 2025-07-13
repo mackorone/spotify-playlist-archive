@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
+    },
+    {
+      "album": {
         "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Chicken P
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,406 likes - 99 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,434 likes - 99 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 55 | [Pause](https://open.spotify.com/track/5l34Ale9qMFJZ0Pgclgejq) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Danny G Beats](https://open.spotify.com/artist/2GKXcaJjE7H2z9WdY7sG0x), [jakesand](https://open.spotify.com/artist/3H9itUD9PSCzrLJfe3tllo) | [Pause](https://open.spotify.com/album/23YuMwACsvWrPlBf3mPOXi) | 2:02 |
 | 56 | [Mama \(with Rob49 & Tay B\)](https://open.spotify.com/track/1sIRRFYEMykQhzlSI9HTjL) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [The Coldest \(Deluxe\)](https://open.spotify.com/album/2QeSLxCXPtRWzIyd7oTdM2) | 2:54 |
 | 57 | [YITTY ON YO TITTYS \(FREESTYLE\)](https://open.spotify.com/track/6mzJqQzYatigPwoJrvKlJM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:28 |
-| 58 | [PALACE](https://open.spotify.com/track/5qQ7We7WCL06X9aa4HwlLl) | [thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [PALACE](https://open.spotify.com/album/3ZJwolWlPeF1Rqdjy9YeBz) | 2:43 |
+| 58 | [PALACE](https://open.spotify.com/track/5qQ7We7WCL06X9aa4HwlLl) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [PALACE](https://open.spotify.com/album/3ZJwolWlPeF1Rqdjy9YeBz) | 2:43 |
 | 59 | [Trophy](https://open.spotify.com/track/1FzXJeQnXYDenO6KoLAb8S) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Trophy](https://open.spotify.com/album/4Y9ftBL8GukasD8YHENblu) | 3:37 |
 | 60 | [Let’s Ride \(feat\. STAR BANDZ\)](https://open.spotify.com/track/7n3ptO8p41LmeYlN3t8rVX) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Let’s Ride \(feat\. STAR BANDZ\)](https://open.spotify.com/album/2Mb5Hn1GJCw5lxqsFHusKM) | 1:52 |
 | 61 | [Certified Shit Talker](https://open.spotify.com/track/3u8k6ipVAwvWJItJ9IcQor) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Certified Shit Talker](https://open.spotify.com/album/0gWtmN0dqgEJHmwhSLqOaO) | 2:28 |

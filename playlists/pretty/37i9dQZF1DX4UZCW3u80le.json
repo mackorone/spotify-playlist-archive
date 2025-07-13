@@ -1,6 +1,6 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! ",
-  "num_followers": 206709,
+  "num_followers": 207200,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 276920,
       "name": "Empire State Of Mind",
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 252120,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -1167,6 +1147,22 @@
       "duration_ms": 238920,
       "name": "SOS",
       "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1203,22 +1199,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Whenever, Wherever",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Hot Shot",
         "url": "https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b"
       },
@@ -1237,22 +1217,6 @@
       "url": "https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd"
     },
     {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
-    },
-    {
       "added_at": "2024-12-27 16:37:04",
       "album": {
         "name": "Cassie (U.S. Version)",
@@ -1267,6 +1231,42 @@
       "duration_ms": 192213,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "R&G (Rhythm & Gangsta): The Masterpiece",
         "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "So Blu",
-        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
-      },
-      "artists": [
-        {
-          "name": "Blu Cantrell",
-          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "So Blu",
+        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
+      },
+      "artists": [
+        {
+          "name": "Blu Cantrell",
+          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Kevin Lyttle (US Domestic Release)",
-        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 229106,
       "name": "One Less Lonely Girl",
       "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Kevin Lyttle (US Domestic Release)",
+        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Jason Derulo",
         "url": "https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 221253,
       "name": "Whatcha Say",
       "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Year Of The Gentleman (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 234360,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Metro Station",
+        "url": "https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG"
+      },
+      "artists": [
+        {
+          "name": "Metro Station",
+          "url": "https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Metro Station",
-        "url": "https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG"
-      },
-      "artists": [
-        {
-          "name": "Metro Station",
-          "url": "https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
     },
     {
       "added_at": "2024-07-12 20:54:16",

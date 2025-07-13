@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105886,
+  "num_followers": 105896,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACjPju4oaiJju+PseYoeQ1M",
+  "snapshot_id": "aHBUAAAAAAAVBDbVRjbae1kxX5+Za69Q",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Celia's Oye Como Va (Oye Como Va)",
-      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 274826,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Celia's Oye Como Va (Oye Como Va)",
+      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Etc. Etc. Etc.",
-        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 180207,
-      "name": "Az\u00facar, Az\u00facar",
-      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 195360,
       "name": "Vieja Luna",
       "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Etc. Etc. Etc.",
+        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 180207,
+      "name": "Az\u00facar, Az\u00facar",
+      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
     },
     {
       "added_at": null,

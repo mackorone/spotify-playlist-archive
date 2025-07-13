@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 2 | [Champagne & Sunshine \(Ellusive Remix\)](https://open.spotify.com/track/2Ytv0dhe5vPTJsC9pO7VO0) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj), [Ellusive](https://open.spotify.com/artist/6gwInscSxlouXzcmENDqk4) | [Champagne & Sunshine \(Ellusive Remix\)](https://open.spotify.com/album/0dMaS9fIuD0BCp4JayOW7x) | 3:04 |
 | 3 | [Scatterbrain](https://open.spotify.com/track/0LVdV9NG0y0ROxbYLpjbKc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:09 |
 | 4 | [Come My Way](https://open.spotify.com/track/7xU32nQT8XfyZG4xcMzb5L) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Come My Way](https://open.spotify.com/album/0VVMgTuT35wo3FWfekyiuu) | 3:33 |
-| 5 | [Heartworks](https://open.spotify.com/track/2y0zJlae50VyzO7NCrQe06) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Heartworks](https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q) | 2:39 |
-| 6 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 |
+| 5 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 |
+| 6 | [Heartworks](https://open.spotify.com/track/2y0zJlae50VyzO7NCrQe06) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Heartworks](https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q) | 2:39 |
 | 7 | [Drunk Enough to Say That I Love You](https://open.spotify.com/track/4dzifrtt5uoB6Blb791hmL) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Drunk Enough to Say That I Love You](https://open.spotify.com/album/5l7yezoxX1ib8QBR5e4KfF) | 3:42 |
 | 8 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
 | 9 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 60 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 61 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `Ab2haAAAAABOcXGKxUX4YsCjh7CTqJst`
+Snapshot ID: `Ab2m/gAAAADjYugJB9jyrd08KNy6sREy`

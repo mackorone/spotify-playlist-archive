@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,455 likes - 100 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,475 likes - 100 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 26 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
 | 27 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 |
 | 28 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
-| 29 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
-| 30 | [Dopesmoker \- 2022 Remastered Version](https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 1:03:29 |
+| 29 | [Dopesmoker \- 2022 Remastered Version](https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 1:03:29 |
+| 30 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
 | 31 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
 | 32 | [Supersoul](https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [In the tail of a comet](https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA) | 2:42 |
 | 33 | [I'll Cut You Down](https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 5:01 |

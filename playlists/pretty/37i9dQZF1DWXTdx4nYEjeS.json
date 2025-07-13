@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 823434,
+  "num_followers": 823603,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-07-04 19:27:10",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 256555,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
-    },
-    {
-      "added_at": "2025-07-04 19:27:10",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
+    },
+    {
+      "added_at": "2025-07-04 19:27:10",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 256555,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
     {
       "added_at": "2025-07-04 19:27:10",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-07-04 19:27:10",
       "album": {
-        "name": "La Declaraci\u00f3n",
-        "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 277573,
-      "name": "La Declaraci\u00f3n",
-      "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
-    },
-    {
-      "added_at": "2025-07-04 19:27:10",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 281920,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
+    },
+    {
+      "added_at": "2025-07-04 19:27:10",
+      "album": {
+        "name": "La Declaraci\u00f3n",
+        "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "La Declaraci\u00f3n",
+      "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
     },
     {
       "added_at": "2025-07-04 19:27:10",

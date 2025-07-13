@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49550,
+  "num_followers": 49555,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-07-07 01:53:32",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 179871,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
-    },
-    {
-      "added_at": "2025-07-07 01:53:32",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2025-07-07 01:53:32",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 179871,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
     },
     {
       "added_at": "2025-07-07 01:53:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-07-07 01:53:32",
       "album": {
-        "name": "When you feel alone",
-        "url": "https://open.spotify.com/album/2b60YEWrMUPq01mTPTFpX9"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "When you feel alone",
-      "url": "https://open.spotify.com/track/2zHvYZexY8WQR5isjrRZhv"
-    },
-    {
-      "added_at": "2025-07-07 01:53:32",
-      "album": {
         "name": "Take-off",
         "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 221000,
       "name": "I'm happy",
       "url": "https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM"
+    },
+    {
+      "added_at": "2025-07-07 01:53:32",
+      "album": {
+        "name": "When you feel alone",
+        "url": "https://open.spotify.com/album/2b60YEWrMUPq01mTPTFpX9"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "When you feel alone",
+      "url": "https://open.spotify.com/track/2zHvYZexY8WQR5isjrRZhv"
     },
     {
       "added_at": "2025-07-07 01:53:32",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-07-07 01:53:32",
       "album": {
-        "name": "THINKING Part.1",
-        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
-    },
-    {
-      "added_at": "2025-07-07 01:53:32",
-      "album": {
         "name": "Being an Adult",
         "url": "https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225257,
       "name": "Being an Adult",
       "url": "https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No"
+    },
+    {
+      "added_at": "2025-07-07 01:53:32",
+      "album": {
+        "name": "THINKING Part.1",
+        "url": "https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW"
     },
     {
       "added_at": "2025-07-07 01:53:32",

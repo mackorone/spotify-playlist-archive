@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > 333 Mob, Low Kidd e Lazza, in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,436 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,725 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 22 | [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
 | 23 | [Stare Senza \(feat\. Fashion Forty\)](https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 |
 | 24 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 |
-| 25 | [Suavecita \(feat\. Rhove\)](https://open.spotify.com/track/6e7J7EkckE4tM6MKPpCMfX) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [DIASPO](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:24 |
+| 25 | [Suavecita \(feat\. Rhove\)](https://open.spotify.com/track/6e7J7EkckE4tM6MKPpCMfX) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [DIASPO MIXTAPE](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:24 |
 | 26 | [Vibe](https://open.spotify.com/track/6cGhVnQAJRxGVsltCU06vF) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:31 |
 | 27 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 |
 | 28 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 |

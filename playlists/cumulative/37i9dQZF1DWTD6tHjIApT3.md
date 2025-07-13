@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 椎名林檎 Shiina Ringo
 
-3,190 songs - 8 day 11 hr 48 min
+3,192 songs - 8 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [appetite](https://open.spotify.com/track/2rPx3FXcRrEAjeyMfcpX47) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [appetite](https://open.spotify.com/album/0QIR2yzqoErBoHlfDSngbL) | 4:01 | 2024-03-07 | 2024-04-10 |
 | [Apple Pie](https://open.spotify.com/track/2tTWFGQ3yhXbjobnvSs5kV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:00 | 2023-03-28 | 2023-05-10 |
 | [AppleTree](https://open.spotify.com/track/5mL9aWutkCJI0i4YnY8hmG) | [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [SOZO](https://open.spotify.com/album/6Dvkfccyaw2VDmNBCB9bHs) | 3:47 | 2023-06-27 | 2023-07-05 |
-| [AQUA ROBE](https://open.spotify.com/track/5vpXxAvJEYy09yoxnQlfK9) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [AQUA ROBE](https://open.spotify.com/album/2glJ8tycAif4zCj4FD6z2z) | 5:00 | 2025-07-08 |  |
+| [AQUA ROBE](https://open.spotify.com/track/5vpXxAvJEYy09yoxnQlfK9) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [AQUA ROBE](https://open.spotify.com/album/2glJ8tycAif4zCj4FD6z2z) | 5:00 | 2025-07-08 | 2025-07-13 |
 | [Aquarium Summer](https://open.spotify.com/track/5A4zrqYxmkTCHR4rVecd4w) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ヨシカワミノリ](https://open.spotify.com/artist/5JnrRCxGkwDPN8LKxVfn4e) | [Summer Deja Vu](https://open.spotify.com/album/4Vk77i4FhPszz6f2Pf52zq) | 3:16 | 2022-08-02 | 2022-08-10 |
 | [Areta Kuchibiru wa Koi o Nakusu](https://open.spotify.com/track/28J0DrbuMz7G8hzz1nwNjJ) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/3a1PHwaqJwCMcQrrVEPO0e) | 4:07 | 2023-03-23 | 2023-04-01 |
 | [Areta Kuchibiru wa Koi o Nakusu](https://open.spotify.com/track/6E2qAhW7I06HTPV4BJkPkK) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:07 | 2023-03-30 | 2023-04-12 |
@@ -647,6 +647,7 @@
 | [Here for You](https://open.spotify.com/track/3zVN21stLWCwU5dpWFehiz) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [Here for You](https://open.spotify.com/album/0vdreEoFoUTnQX8jwNj5B8) | 3:30 | 2022-06-07 | 2022-06-18 |
 | [Here, Tomorrow](https://open.spotify.com/track/56pXPk5rR4pmQVZAarPGpH) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Here, Tomorrow](https://open.spotify.com/album/0OGterMTRluPdOfPvCRxWf) | 3:07 | 2025-04-15 | 2025-07-09 |
 | [Hey Song](https://open.spotify.com/track/0tjzgMwPAAkL4xAY3g74FS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Hey Song](https://open.spotify.com/album/5zrsUKzB8ULxQAavQLs8He) | 3:31 | 2023-08-22 | 2023-11-21 |
+| [Hey!Calling](https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [Hey!Calling](https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC) | 3:57 | 2025-07-11 |  |
 | [hibi](https://open.spotify.com/track/0M0qI3VHgCzlCGFd9mrEuD) | [Erika Nishi](https://open.spotify.com/artist/7J7NV5RglXhb1GoGj0sS1R), [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [hibi](https://open.spotify.com/album/2Kvoj2kXXwg6kG52i9xoEQ) | 4:29 | 2024-04-23 | 2024-05-01 |
 | [Hide And Seek](https://open.spotify.com/track/1TneSNZFzh3ROv4iKeAFvY) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Hide And Seek](https://open.spotify.com/album/2O6sRwiX4tXoPR2zHlRfFg) | 3:48 | 2025-04-01 | 2025-04-09 |
 | [High Five](https://open.spotify.com/track/1bFGGcm9ttACXufVIAoJVV) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [High Five](https://open.spotify.com/album/0tbxmJoW2zvNON0TKj2tPv) | 3:13 | 2022-05-29 | 2022-11-04 |
@@ -2500,7 +2501,7 @@
 | [備忘ロック](https://open.spotify.com/track/1uYpkWsspvyzRBC4Nv5Peh) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [備忘ロック](https://open.spotify.com/album/7ahg2vMgmkrQiVPKzDpX1P) | 5:33 | 2024-04-30 | 2024-05-22 |
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-01-25 |
 | [傷だらけの王者](https://open.spotify.com/track/4aBRN65wpWN7g2rtr7W0nV) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk), [Rockon Social Club](https://open.spotify.com/artist/597cgbM5AF6IgCGKlZLEru) | [傷だらけの王者](https://open.spotify.com/album/61K4VgLQFwEqwg7ksGP8xy) | 4:21 | 2023-08-31 | 2023-09-06 |
-| [僕たちの日々](https://open.spotify.com/track/79sjnZx7ACoqI7jOeGigI2) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [映画『小林さんちのメイドラゴン さみしがりやの竜』全曲集](https://open.spotify.com/album/3PXRF7j2pKqRodaPKYXxof) | 4:29 | 2025-07-08 |  |
+| [僕たちの日々](https://open.spotify.com/track/79sjnZx7ACoqI7jOeGigI2) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [映画『小林さんちのメイドラゴン さみしがりやの竜』全曲集](https://open.spotify.com/album/3PXRF7j2pKqRodaPKYXxof) | 4:29 | 2025-07-08 | 2025-07-13 |
 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 | 2023-12-05 | 2024-01-31 |
 | [僕のこと](https://open.spotify.com/track/5jB5lvz2gTTO1XtxS090LE) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [僕のこと](https://open.spotify.com/album/6l3sHHI137hEPvNJfYkWIj) | 5:23 | 2025-05-27 |  |
 | [僕は椅子](https://open.spotify.com/track/7eWWFAlEIm1PphClDPplcm) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [僕は椅子](https://open.spotify.com/album/6CUvHs0m3HyiM8TOds0Iye) | 4:26 | 2022-06-28 | 2022-07-06 |
@@ -2513,6 +2514,7 @@
 | [先日はロマンス feat\. suis from ヨルシカ](https://open.spotify.com/track/5G2OuprmwSuTi4TWSw2e7k) | [平畑徹也](https://open.spotify.com/artist/3M9CxsgC2rk1Ax4jglCwl6), [suis](https://open.spotify.com/artist/135GrsHMkY8sERSMvxpE9A) | [AMNJK](https://open.spotify.com/album/3vo9fVrQEvqXRxVJVb6aFE) | 4:04 | 2023-03-21 | 2023-03-23 |
 | [先輩](https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [先輩](https://open.spotify.com/album/00WH277LOlgulDE2dA4xoA) | 3:21 | 2023-08-29 | 2024-12-04 |
 | [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-02 | 2023-05-19 |
+| [光のすみか](https://open.spotify.com/track/419PzQnfr2Mod7zwdX7hvo) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [光のすみか](https://open.spotify.com/album/7ALtibHvNP1NCGtGcGrsAF) | 3:15 | 2025-07-11 |  |
 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-28 | 2023-04-05 |
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-29 | 2022-07-13 |

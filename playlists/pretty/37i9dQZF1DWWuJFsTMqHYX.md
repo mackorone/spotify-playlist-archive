@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,302 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,455 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 19 | [Fadma](https://open.spotify.com/track/7MAA4bp5bTd3bO5m2uJea7) | [TASUTA N\-IMAL](https://open.spotify.com/artist/5FTU4No8pkcpeybO0CeVXz) | [Fadma](https://open.spotify.com/album/0Z9wLDw2m6M5EvfTpdCWQp) | 4:09 |
 | 20 | [Tamiditine](https://open.spotify.com/track/0SEiSDYckOwK8PJ4tY8PLc) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Eylel](https://open.spotify.com/album/1A14W8j3lCfImsotyGSUiT) | 5:50 |
 | 21 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
-| 22 | [Pk 18](https://open.spotify.com/track/2PdCpqwqkFbGB0dJXFMsvu) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [Bedia](https://open.spotify.com/album/0kYFx3FSDDd4igHJ0ZGdWd) | 2:31 |
-| 23 | [How Dare You](https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [St Germain](https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT) | 6:43 |
+| 22 | [How Dare You](https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [St Germain](https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT) | 6:43 |
+| 23 | [Pk 18](https://open.spotify.com/track/2PdCpqwqkFbGB0dJXFMsvu) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [Bedia](https://open.spotify.com/album/0kYFx3FSDDd4igHJ0ZGdWd) | 2:31 |
 | 24 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
 | 25 | [Amoudou](https://open.spotify.com/track/1QnWVnnt2AOT7psq22mO5I) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt) | [Amoudou](https://open.spotify.com/album/12OPu793Jldrmt0fMkXpby) | 4:47 |
 | 26 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 46 | [Assossamagh \- ReqTeq Re\-edit](https://open.spotify.com/track/2yd16TyZddVEZFs2X3AWas) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Assossamagh \(ReqTeq Re\-edit\)](https://open.spotify.com/album/3Uiu3RLO1p6EqPMyFxgZ3x) | 3:18 |
 | 47 | [Mariama Kaba](https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 5:38 |
 | 48 | [Taxi Brousse](https://open.spotify.com/track/67MvBcAEhyKnyNdT1A54wi) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3 MA \(Madagascar, Mali, Maroc\)](https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2) | 1:28 |
-| 49 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
-| 50 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
+| 49 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
+| 50 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
 
 Snapshot ID: `aFBpTwAAAACnCCJAQidhx8D5u2oIWmGU`

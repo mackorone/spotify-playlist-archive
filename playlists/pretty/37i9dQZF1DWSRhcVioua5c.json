@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 84300,
+  "num_followers": 84338,
   "original_name": "Folclore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
+      },
+      "artists": [
+        {
+          "name": "Juan Fuentes",
+          "url": "https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF"
+        }
+      ],
+      "duration_ms": 187439,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/27682VM2spSTjaneKmvNjk"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "El Sue\u00f1o de Mi Guitarra",
         "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 241586,
       "name": "Tonada del Viejo Amor",
       "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "Luna Llena",
-        "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
-      },
-      "artists": [
-        {
-          "name": "Juan Fuentes",
-          "url": "https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF"
-        }
-      ],
-      "duration_ms": 187439,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/27682VM2spSTjaneKmvNjk"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT"
+        "name": "Aut\u00f3ctona",
+        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
       },
       "artists": [
         {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+          "name": "Roxana Carabajal",
+          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
         }
       ],
-      "duration_ms": 224573,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK"
+      "duration_ms": 319116,
+      "name": "Gotas de Amor",
+      "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Aut\u00f3ctona",
-        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT"
       },
       "artists": [
         {
-          "name": "Roxana Carabajal",
-          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
         }
       ],
-      "duration_ms": 319116,
-      "name": "Gotas de Amor",
-      "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
+      "duration_ms": 224573,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK"
     },
     {
       "added_at": "2024-11-14 16:50:34",

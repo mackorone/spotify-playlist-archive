@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,738 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,744 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 12 | [No Me Digas Que No](https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 4:30 |
 | 13 | [Hey DJ](https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [CNCO](https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6) | 3:26 |
 | 14 | [CANCIÓN CON YANDEL](https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 3:29 |
-| 15 | [HABLAME CLARO](https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [HABLAME CLARO](https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI) | 2:34 |
-| 16 | [BAÚL DE LOS RECUERDOS, PART 1](https://open.spotify.com/track/4eA0BFHcxY2C6O1MORav8w) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:24 |
+| 15 | [BAÚL DE LOS RECUERDOS, PART 1](https://open.spotify.com/track/4eA0BFHcxY2C6O1MORav8w) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:24 |
+| 16 | [HABLAME CLARO](https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [HABLAME CLARO](https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI) | 2:34 |
 | 17 | [QUÍTENME EL TELÉFONO \(feat\. Yandel, Jay Wheeler\)](https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 3:54 |
 | 18 | [Yankee 150](https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Yankee 150](https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F) | 4:02 |
 | 19 | [Moviendo Caderas \(feat\. Daddy Yankee\)](https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [De Líder a Leyenda](https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Unica \- Remix](https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:36 |
 | 50 | [Noche Y De Dia](https://open.spotify.com/track/1lD3UtE3IVQGpSw7JL11BZ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [SEX AND LOVE](https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w) | 3:42 |
 
-Snapshot ID: `aG8CgAAAAABxCS51ovHgNN8bqhGjoB7m`
+Snapshot ID: `aHBUAAAAAABziJhxHcNZDQIOHPM2JXF3`

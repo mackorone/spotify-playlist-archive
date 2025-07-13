@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1J1pGfTqp5ReVIX8Z1Wzsg">BabyChiefDoIt</a>
 
-2,414 songs - 4 day 11 hr 14 min
+2,415 songs - 4 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1705,7 +1705,7 @@
 | [PTP \(feat\. Monaleo\) \[Remix\]](https://open.spotify.com/track/5nZ73ycbCA2lkEyuM1K6zB) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [PTP \(feat\. Monaleo\) \[Remix\]](https://open.spotify.com/album/6ebHPcgg3mkgUg8sO0XjoI) | 2:29 | 2025-02-28 | 2025-03-29 |
 | [Pull Up](https://open.spotify.com/track/1gHamNXNt8OjoynRvGhg1a) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [222](https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T) | 2:54 | 2022-08-05 | 2022-10-01 |
 | [Pull Up \(feat\. Symba & Landstrip Chip\)](https://open.spotify.com/track/4i8FAI8ddhgIanrdNZqP26) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [Read The Room](https://open.spotify.com/album/1roM4M7RDOX7Oa3Nq1ND80) | 2:18 | 2022-05-27 | 2022-07-09 |
-| [Pull Yo Skirt Up](https://open.spotify.com/track/3kfXKXtCTjeIcKE4ZKfcjt) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Pull Yo Skirt Up](https://open.spotify.com/album/0c3rY7M7jxoFaP2fVvTK9P) | 1:49 | 2025-06-17 |  |
+| [Pull Yo Skirt Up](https://open.spotify.com/track/3kfXKXtCTjeIcKE4ZKfcjt) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Pull Yo Skirt Up](https://open.spotify.com/album/0c3rY7M7jxoFaP2fVvTK9P) | 1:49 | 2025-06-17 | 2025-07-13 |
 | [Pup \(feat\. Luh Tyler\)](https://open.spotify.com/track/3vKr18DG46xtZ5FM8R52et) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Pup \(feat\. Luh Tyler\)](https://open.spotify.com/album/2f3LlIcQZR3oXSifiomh3l) | 3:11 | 2023-08-18 | 2023-09-23 |
 | [Pussy and Drank \(with Lil Uzi Vert\)](https://open.spotify.com/track/1XNqOTLYHqrfswebcBpI0B) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Walk Down World](https://open.spotify.com/album/473RR17P3qtAmh22uLUqhX) | 2:32 | 2022-11-04 | 2022-11-12 |
 | [Put In Work \(feat\. Dusty Locane\)](https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG) | [Badda TD](https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [The World Is Yours: Gangsta Grillz](https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h) | 2:26 | 2022-07-08 | 2022-09-10 |
@@ -2359,6 +2359,7 @@
 | [Woedy](https://open.spotify.com/track/0SA4nmbOKqfmpgu7yuRVLE) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [4GOD II](https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK) | 2:47 | 2023-06-09 | 2023-08-05 |
 | [Woke Up](https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Woke Up](https://open.spotify.com/album/77FxQyGZyd38qKM0HKy8Q6) | 2:14 | 2025-06-27 |  |
 | [WOKEUPTHINKINBOUT](https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [WOKEUPTHINKINBOUT / HIDDEN VOICES](https://open.spotify.com/album/5YvxEnP5o1gFq3tynqsPBf) | 2:34 | 2022-01-07 | 2022-02-12 |
+| [Wonder](https://open.spotify.com/track/12uSBGnjyndDbEVPnIYbjn) | [Kaygo Gotti](https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS) | [Wonder](https://open.spotify.com/album/3NtyuEu6cVbs3GR9lVaRE0) | 2:07 | 2025-07-13 |  |
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 | 2023-04-22 |
 | [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 | 2022-06-03 | 2022-07-16 |
 | [Wop](https://open.spotify.com/track/1RDyaS05lKnreDIPY9ByVN) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Wop](https://open.spotify.com/album/0niYaRUVW1Kp1Dq2qcThbo) | 2:53 | 2022-04-22 | 2022-06-18 |

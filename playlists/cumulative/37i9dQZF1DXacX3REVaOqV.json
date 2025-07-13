@@ -9771,6 +9771,24 @@
     },
     {
       "album": {
+        "name": "Right",
+        "url": "https://open.spotify.com/album/1FEooZjSxe1SytPZFR8xMW"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186270,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/5NaliF5YDYgIF0eToAuJBn"
+    },
+    {
+      "album": {
         "name": "Right On",
         "url": "https://open.spotify.com/album/1WxhKRgNpICvt7Asa3cxtN"
       },
@@ -12972,7 +12990,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 317812,
       "name": "What Ya Sayin Michael",
       "url": "https://open.spotify.com/track/27A78nDFVdrb2TW9wJpKfZ"

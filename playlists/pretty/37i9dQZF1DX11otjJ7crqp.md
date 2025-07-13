@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,447 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,783 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 20 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 |
 | 21 | [alibi](https://open.spotify.com/track/1ISuBnU4WRaIPStD2hktp4) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [alibi](https://open.spotify.com/album/5TVyVPNYxo6aEuJcXdhFWc) | 3:33 |
 | 22 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
-| 23 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 23 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 24 | [Betty](https://open.spotify.com/track/2kb638zLMKUHOx4rhd4ttD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Betty](https://open.spotify.com/album/1WbPmLKZwkfrT1tPfTFNku) | 2:43 |
 | 25 | [Two Sides Of Goodbye](https://open.spotify.com/track/7uKXumzluES9YdRyYB4Ur7) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Two Sides Of Goodbye](https://open.spotify.com/album/1yLRhtGhoOcoz3fK5NNv1D) | 2:42 |
 | 26 | [\#1](https://open.spotify.com/track/3CpV327Qk2H9KQCzns92bx) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [\#1](https://open.spotify.com/album/7hLqgKIIakXxYnTJxE1KHp) | 3:17 |

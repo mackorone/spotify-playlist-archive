@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,803 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,819 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

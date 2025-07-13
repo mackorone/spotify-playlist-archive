@@ -1,6 +1,6 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2322597,
+  "num_followers": 2322683,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -767,22 +751,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 166179,
-      "name": "Are You Looking Up",
-      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "From 2 to 3",
-        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 257006,
-      "name": "Give Up Baby Go",
-      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Roy Pablo",
         "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 198000,
       "name": "Dance, Baby!",
       "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "From 2 to 3",
+        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 257006,
+      "name": "Give Up Baby Go",
+      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 226610,
-      "name": "Buttercup",
-      "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "My Fun",
         "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 226610,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Pebble Brain",
-        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 207009,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Burnout Days",
         "url": "https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 218272,
       "name": "Burnout Days",
       "url": "https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Pebble Brain",
+        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 207009,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "She Wants To Go Dancing",
-        "url": "https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 188442,
-      "name": "She Wants To Go Dancing",
-      "url": "https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "All We Ever Do Is Talk",
         "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "She Wants To Go Dancing",
+        "url": "https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 188442,
+      "name": "She Wants To Go Dancing",
+      "url": "https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Next Exit",
-        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Next Exit",
-      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF"
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         }
       ],
-      "duration_ms": 296316,
-      "name": "Forever Ever After",
-      "url": "https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM"
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1395,6 +1379,22 @@
       "duration_ms": 249560,
       "name": "Capricorn",
       "url": "https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 296316,
+      "name": "Forever Ever After",
+      "url": "https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 193141,
-      "name": "Heartthrob",
-      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "MADRA",
-        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 203037,
-      "name": "Sickly Sweet",
-      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Underdressed at the Symphony",
         "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 170701,
       "name": "He Loves Me Yeah!",
       "url": "https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 193141,
+      "name": "Heartthrob",
+      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 173975,
       "name": "My Body ft Your Lips",
       "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
-        "name": "The Narcissist",
-        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 245225,
-      "name": "The Narcissist",
-      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "The Catastrophe (Good Luck With That, Man)",
-        "url": "https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 328052,
-      "name": "The Catastrophe (Good Luck With That, Man)",
-      "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "The Catastrophe (Good Luck With That, Man)",
+        "url": "https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 328052,
+      "name": "The Catastrophe (Good Luck With That, Man)",
+      "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Bad Bad News",
-        "url": "https://open.spotify.com/album/6Y989i2swgje49NjskB3o6"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/4RiBL4u0w26dNmVB45ofzo"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Phonetics On and On",
         "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 185915,
       "name": "Switch Over",
       "url": "https://open.spotify.com/track/1SFVei3ZUf3EuJdvKqmGKv"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Bad Bad News",
+        "url": "https://open.spotify.com/album/6Y989i2swgje49NjskB3o6"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/4RiBL4u0w26dNmVB45ofzo"
     },
     {
       "added_at": "2025-06-06 04:00:16",

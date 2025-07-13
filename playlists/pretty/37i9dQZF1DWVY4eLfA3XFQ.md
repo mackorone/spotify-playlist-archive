@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐐 Tech house technicians, featuring Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,784 likes - 125 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,863 likes - 125 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 15 | [Lipstick](https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Lipstick](https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb) | 3:01 |
 | 16 | [No Stressing](https://open.spotify.com/track/1Xq6OCBQxYY9zlNxKkkqyk) | [Basilone](https://open.spotify.com/artist/5RSUii1uyZPOOb5ElyKzOJ), [Play\-Joh](https://open.spotify.com/artist/4sxoHOTqR8J6ISAtN0hSZF) | [No Stressing](https://open.spotify.com/album/1DD7QdScTat3m3PMU9pWMi) | 3:20 |
 | 17 | [Heartbeat](https://open.spotify.com/track/42z3F0ZAieWd7RmyOuuqqH) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Heartbeat](https://open.spotify.com/album/1Q4zTa81s8VP7IassEY19p) | 3:02 |
-| 18 | [Sweat Couture \- Edit](https://open.spotify.com/track/4PilxRwgRgEliuW5fk8OIq) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Sweat Couture \(Edit\)](https://open.spotify.com/album/5hoNLzCgltbatTcharSKOF) | 2:35 |
+| 18 | [Sweat Couture](https://open.spotify.com/track/4PilxRwgRgEliuW5fk8OIq) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Sweat Couture](https://open.spotify.com/album/5hoNLzCgltbatTcharSKOF) | 2:35 |
 | 19 | [Psycho](https://open.spotify.com/track/7lx4RfYCIoZvieFHASRg2l) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Psycho](https://open.spotify.com/album/3vrOFDMruVgZr1Cvlutbfk) | 2:09 |
 | 20 | [Prescribe The Sound](https://open.spotify.com/track/16whhNiz4qwdDvqGE5jrlR) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Prescribe The Sound](https://open.spotify.com/album/7A06KR7mBgk0cRy93AnZPR) | 2:46 |
 | 21 | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/track/58JdlahcAaLgM7ftInMf4M) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/album/0saGsR6TeTVKV7rJHOYgR8) | 2:49 |

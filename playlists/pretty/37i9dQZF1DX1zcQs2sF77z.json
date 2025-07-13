@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 269189,
+  "num_followers": 269315,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-04-04 14:59:32",
       "album": {
+        "name": "Mr. Vain",
+        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "Mr. Vain - Original Radio Edit",
+      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
+    },
+    {
+      "added_at": "2025-04-04 14:59:32",
+      "album": {
         "name": "Ceremonials",
         "url": "https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 218190,
       "name": "Spectrum (Say My Name) - Calvin Harris Remix",
       "url": "https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ"
-    },
-    {
-      "added_at": "2025-04-04 14:59:32",
-      "album": {
-        "name": "Mr. Vain",
-        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "Mr. Vain - Original Radio Edit",
-      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
     },
     {
       "added_at": "2025-04-04 14:59:32",

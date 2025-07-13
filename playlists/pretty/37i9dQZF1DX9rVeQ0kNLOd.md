@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,175 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,195 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 47 | [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 |
 | 48 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
 | 49 | [カタコト](https://open.spotify.com/track/3ck6DbwKM4maTik8s7j3s4) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/6Kga2QgL5PJGfn3v7aKJ2w) | 2:38 |
-| 50 | [Usual Kiss](https://open.spotify.com/track/0dazDTi5V3pplttPiEosT9) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [HEART \(Special Edition\)](https://open.spotify.com/album/4jyUe6Y3P9HrzUq27jP83B) | 3:03 |
+| 50 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
 
 Snapshot ID: `aG0yigAAAADBfJQtIzy6nKEVH4LURvFa`

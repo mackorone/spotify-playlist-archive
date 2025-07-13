@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 255297,
+  "num_followers": 255340,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,30 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
         "name": "Fantasias",
         "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
       },
@@ -407,30 +431,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Medallo",
-      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 186426,
       "name": "Girl",
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 170713,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -483,26 +467,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -519,6 +483,42 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 170713,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "Reloj",
         "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 231594,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
+        "name": "Mami Chula",
+        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
         "name": "Como mi Nena 2025",
         "url": "https://open.spotify.com/album/1v9NQP8WJtDO5IKXPsZR7y"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 257937,
       "name": "Como mi Nena 2025",
       "url": "https://open.spotify.com/track/6XjzNWpibzE4ylWuIUZOAO"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "Mami Chula",
-        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Mami Chula",
-      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1375,6 +1375,26 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "Los Dioses",
+        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1439,26 +1459,6 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "Los Dioses",
-        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 215891,
       "name": "911",
       "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
-    },
-    {
-      "added_at": "2025-06-20 06:00:35",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1511,22 +1495,18 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "LA NENA",
-        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 200040,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1595,22 +1575,22 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "Fantas\u00eda",
-        "url": "https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ"
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         },
         {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 149826,
-      "name": "Fantas\u00eda",
-      "url": "https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z"
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -1631,6 +1611,26 @@
       "duration_ms": 197647,
       "name": "Fan de Tus Fotos",
       "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
+    },
+    {
+      "added_at": "2025-06-20 06:00:35",
+      "album": {
+        "name": "Fantas\u00eda",
+        "url": "https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 149826,
+      "name": "Fantas\u00eda",
+      "url": "https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z"
     },
     {
       "added_at": "2025-06-20 06:00:35",
@@ -2051,38 +2051,22 @@
     {
       "added_at": "2025-06-20 06:00:35",
       "album": {
-        "name": "G Low Kitty (Remix)",
-        "url": "https://open.spotify.com/album/5HdE72l91YCqPtlMx7YPHD"
+        "name": "Polvo de tu Vida",
+        "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
       },
       "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
         {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 279990,
-      "name": "G Low Kitty - Remix",
-      "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
+      "duration_ms": 172105,
+      "name": "Polvo de tu Vida",
+      "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
     }
   ],
   "unique_name": "Perrea en tu Cuarto",

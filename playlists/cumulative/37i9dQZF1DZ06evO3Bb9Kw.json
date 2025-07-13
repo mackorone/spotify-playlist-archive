@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Song To Sing",
+        "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179928,
+      "name": "A Song To Sing",
+      "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
+    },
+    {
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -330,7 +352,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 289066,
       "name": "Boys 'Round Here (feat. Jason Aldean, Luke Bryan, Ronnie Dunn, Miranda Lambert, Brad Paisley, Reba, Josh Turner, Keith Urban & Hank Williams, Jr.) - Celebrity Mix",
       "url": "https://open.spotify.com/track/02wmEyZ3biRECnBbRwWliU"

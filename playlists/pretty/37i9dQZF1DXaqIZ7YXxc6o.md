@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,921 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,920 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 |
 | 2 | [The Devil Works Hard](https://open.spotify.com/track/0hP0E1XXzOmCBJI7ROF0Ni) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [The Devil Works Hard](https://open.spotify.com/album/3Y3UmB3THsefvGMZh1BGw4) | 2:49 |
-| 3 | [Attack \(feat\. Scrufizzer\)](https://open.spotify.com/track/1d9MVspsVD51VrA1DjLA2K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Attack \(feat\. Scrufizzer\)](https://open.spotify.com/album/4UjJKuoNQDE1nAVuw2lifE) | 4:00 |
+| 3 | [Attack](https://open.spotify.com/track/1d9MVspsVD51VrA1DjLA2K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Attack](https://open.spotify.com/album/4UjJKuoNQDE1nAVuw2lifE) | 4:00 |
 | 4 | [Athlete Money](https://open.spotify.com/track/5k0zYvvaTs8Mssj3rMJqYl) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Athlete Money](https://open.spotify.com/album/3ei7Y3rlQWFinwQbAvjXtt) | 3:15 |
 | 5 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 |
 | 6 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 |

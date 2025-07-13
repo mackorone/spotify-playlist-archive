@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,399 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,476 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 13 | [Saturn](https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:06 |
 | 14 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 | 15 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
-| 16 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 |
-| 17 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 |
-| 18 | [Mean Girls](https://open.spotify.com/track/6oDFDGaAayXd8HXmynsgPv) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 3:36 |
+| 16 | [Mean Girls](https://open.spotify.com/track/6oDFDGaAayXd8HXmynsgPv) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 3:36 |
+| 17 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 |
+| 18 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 |
 | 19 | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/4cfiNs7Yvr9UTLvbYWal1o) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/album/28jeiwB7ShkUOOZNK7bhwn) | 3:50 |
 | 20 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 |
 | 21 | [What Do I Do](https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:47 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 41 | [Heaven](https://open.spotify.com/track/5NQpRUfFQh3jB0guBAkYWu) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:00 |
 | 42 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 |
 | 43 | [complicated/overrated](https://open.spotify.com/track/44UGWn9xCTjeHJ2LO52uNT) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [complicated/overrated](https://open.spotify.com/album/2dLXpSQ6Jm1Aexm3IrYwkJ) | 2:28 |
-| 44 | [Younger And Hotter Than Me](https://open.spotify.com/track/0oJUk2PO3UVd9dZwPn0SRI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:09 |
-| 45 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
+| 44 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
+| 45 | [Younger And Hotter Than Me](https://open.spotify.com/track/0oJUk2PO3UVd9dZwPn0SRI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:09 |
 | 46 | [Chocolate](https://open.spotify.com/track/0b4KbsFu42vGM2rRJSTg1x) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Chocolate](https://open.spotify.com/album/702JXttIx9HjCWwXLVblqa) | 3:04 |
 | 47 | [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 |
 | 48 | [Flowers](https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:10 |

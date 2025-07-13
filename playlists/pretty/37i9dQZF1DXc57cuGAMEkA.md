@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 BLACKPINK, TWICE, Tyla, GIVĒON, Burna Boy, WurtS, imase and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,400 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,430 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 45 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 |
 | 46 | [SUPERNOVA](https://open.spotify.com/track/6rYWQKiaIJ5UatZEgv5OmM) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [SUPERNOVA](https://open.spotify.com/album/11OlKLbFRb0CndndaqmRrO) | 3:27 |
 | 47 | [OVERNIGHT](https://open.spotify.com/track/2TKEFI0aHDF77p4WFfK9VO) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [OVERNIGHT](https://open.spotify.com/album/3a8y8iBMxoyI65dqEkGrIz) | 3:49 |
-| 48 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 48 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 49 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
 | 50 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 |
 | 51 | [Betty](https://open.spotify.com/track/2kb638zLMKUHOx4rhd4ttD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Betty](https://open.spotify.com/album/1WbPmLKZwkfrT1tPfTFNku) | 2:43 |

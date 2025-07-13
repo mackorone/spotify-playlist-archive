@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,467,663 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,467,833 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 58 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 59 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
 | 60 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 4:23 |
-| 61 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
-| 62 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 |
+| 61 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 |
+| 62 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
 | 63 | [Lost in a Wave](https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Lost in the Waves](https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt) | 3:44 |
 | 64 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
 | 65 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 66 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
-| 67 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
-| 68 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
+| 67 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
+| 68 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 69 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 70 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
 | 71 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 92 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 |
 | 93 | [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 |
 | 94 | [Torn in Two](https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 4:17 |
-| 95 | [I Believe](https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [I Believe](https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA) | 3:54 |
-| 96 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
+| 95 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
+| 96 | [I Believe](https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [I Believe](https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA) | 3:54 |
 | 97 | [Why Am I Like This?](https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Violent Noise](https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP) | 3:13 |
 | 98 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
 | 99 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |

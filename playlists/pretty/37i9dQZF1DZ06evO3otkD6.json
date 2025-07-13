@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 81538,
+  "num_followers": 81631,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACSNLLErKOOE2Q+We9E1TVE",
+  "snapshot_id": "aHBUAAAAAACcUTse9dZINfDx9GCHZQNb",
   "tracks": [
     {
       "added_at": null,
@@ -70,11 +70,15 @@
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 225197,
-      "name": "Heterocrom\u00eda",
-      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
+      "duration_ms": 198211,
+      "name": "+ Perra + Bitch",
+      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
     },
     {
       "added_at": null,
@@ -150,15 +154,11 @@
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 198211,
-      "name": "+ Perra + Bitch",
-      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
+      "duration_ms": 225197,
+      "name": "Heterocrom\u00eda",
+      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
     },
     {
       "added_at": null,
@@ -899,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 165209,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
+      "duration_ms": 184000,
+      "name": "Vivir - Any Better",
+      "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Vivir - Any Better",
-      "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
+      "duration_ms": 165209,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
     }
   ],
   "unique_name": "This Is Belinda",

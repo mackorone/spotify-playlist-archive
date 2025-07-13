@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,009 likes - 36 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,003 likes - 36 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 18 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 |
 | 19 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
 | 20 | [Father And Son](https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Very Best Of Cat Stevens](https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal) | 3:40 |
-| 21 | [The Best Day](https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Latest Greatest Straitest Hits](https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7) | 3:24 |
-| 22 | [The Foundation](https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [At The Speed Of Life](https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG) | 3:55 |
+| 21 | [The Foundation](https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [At The Speed Of Life](https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG) | 3:55 |
+| 22 | [The Best Day](https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Latest Greatest Straitest Hits](https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7) | 3:24 |
 | 23 | [Anything Like Me](https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:28 |
 | 24 | [Ready, Set, Don't Go](https://open.spotify.com/track/4SSUj4OC7giqpMNCqSQSCf) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Home At Last](https://open.spotify.com/album/1eJpsLmeCaf02MCGsdbM6W) | 3:48 |
 | 25 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 28 | [I'm Her Daddy](https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:18 |
 | 29 | [Daddy](https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:58 |
 | 30 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/4Dvqy5ohQ4sUR1sCETSeak) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 |
-| 31 | [Father and Daughter](https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:10 |
-| 32 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
+| 31 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
+| 32 | [Father and Daughter](https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:10 |
 | 33 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 |
 | 34 | [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 |
 | 35 | [Eighteen](https://open.spotify.com/track/1JLeJoguGKO9HKxEIDzABJ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Eighteen](https://open.spotify.com/album/3pUADbetgIPJIlzDMyJJoE) | 2:59 |

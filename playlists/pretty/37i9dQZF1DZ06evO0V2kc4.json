@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 72065,
+  "num_followers": 72080,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACRgRsjxucPXxrdOkgjsjSR",
+  "snapshot_id": "aHBUAAAAAABeHcZGH69Jj0jtx9V8anpW",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Love Song To A Stranger",
-      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 215240,
       "name": "Diamonds & Rust",
       "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
     },
     {
       "added_at": null,

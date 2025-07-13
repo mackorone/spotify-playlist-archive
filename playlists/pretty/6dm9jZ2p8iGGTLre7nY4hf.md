@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 442,465 likes - 117 songs - 7 hr 6 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 442,457 likes - 117 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 23 | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/track/7hVUWnMNUl7KIRyvhlVOju) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/album/74Ce2wpn1Lpr4qUMhQZnjA) | 2:22 |
 | 24 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 25 | [midnight love](https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:13 |
-| 26 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 26 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 27 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 |
 | 28 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 29 | [Nobody Gets Me](https://open.spotify.com/track/0impvergaW8CuQS2OcEWMu) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 3:00 |

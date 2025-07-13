@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39161,
+  "num_followers": 39158,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAmDaUuCAyvSdZspVFv0BEc",
+  "snapshot_id": "aHBUAAAAAABiP7izvcz12NyBSwWUDO+z",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face Down",
-        "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 106153,
       "name": "Work For It",
       "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 115987,
+      "name": "That's My Bitch",
+      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 202226,
       "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 115987,
-      "name": "That's My Bitch",
-      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
     },
     {
       "added_at": null,

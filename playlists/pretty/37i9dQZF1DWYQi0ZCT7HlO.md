@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,396 likes - 78 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,395 likes - 78 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

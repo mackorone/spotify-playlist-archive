@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,519 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,579 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 14 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
 | 15 | [Tak Kan Terganti](https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Tak Kan Terganti](https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR) | 3:57 |
 | 16 | [Menjaga Hati](https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Menjaga Hati](https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou) | 3:53 |
-| 17 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 |
-| 18 | [Secukupnya](https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:25 |
+| 17 | [Secukupnya](https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:25 |
+| 18 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 |
 | 19 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 |
 | 20 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
 | 21 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 24 | [Tapi Bukan Aku](https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Kenyataan Perasaan](https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00) | 4:30 |
 | 25 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |
 | 26 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
-| 27 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 |
-| 28 | [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 |
+| 27 | [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 |
+| 28 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 |
 | 29 | [Mengenangmu](https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Kenyataan Perasaan](https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00) | 4:37 |
 | 30 | [Putri Iklan](https://open.spotify.com/track/0wlZGWWK9M6KRHky1IfBYZ) | [ST12](https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf) | [P.U.S.P.A.](https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE) | 4:00 |
 | 31 | [Bawalah Cintaku](https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 41 | [Kau Selalu Di Hati](https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Symphony From The Heart](https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL) | 4:11 |
 | 42 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 |
 | 43 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
-| 44 | [Bila Rasaku Ini Rasamu](https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:32 |
-| 45 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 |
+| 44 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 |
+| 45 | [Bila Rasaku Ini Rasamu](https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:32 |
 | 46 | [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 |
 | 47 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
 | 48 | [Cinta Dalam Hati](https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Untukmu Selamanya](https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva) | 4:43 |
-| 49 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
-| 50 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
+| 49 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
+| 50 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
 
 Snapshot ID: `aFRH/QAAAAD1KrnsgcVnzMwkG0k7OqaN`

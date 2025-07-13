@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,504 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,510 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 15 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
 | 16 | [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 |
 | 17 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
-| 18 | [Últimos Días \- En Vivo](https://open.spotify.com/track/47NLimerGALH038upaVAwD) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:51 |
-| 19 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
+| 18 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
+| 19 | [Últimos Días \- En Vivo](https://open.spotify.com/track/47NLimerGALH038upaVAwD) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:51 |
 | 20 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 |
 | 21 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 |
 | 22 | [Te necesito \- Acústico](https://open.spotify.com/track/61ZvRYNgX7WliB1kgQB32a) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Estrella De Mar](https://open.spotify.com/album/61ubSwllNCZJux3IG7G83T) | 4:05 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 41 | [Magic \- Live at the Enmore Theatre, Sydney](https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories Live 2014](https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS) | 4:52 |
 | 42 | [He Barrido el Sol \- Unplugged Version](https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 4:38 |
 | 43 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
-| 44 | [La Camisa Negra \- MTV Unplugged](https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:45 |
-| 45 | [El baile y el salon \- Unplugged](https://open.spotify.com/track/3k64ZLozksTCtXL4JtD80L) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 6:54 |
+| 44 | [El baile y el salon \- Unplugged](https://open.spotify.com/track/3k64ZLozksTCtXL4JtD80L) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 6:54 |
+| 45 | [La Camisa Negra \- MTV Unplugged](https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:45 |
 | 46 | [Pasos de cero \- Live from Spotify NYC](https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alborán Spotify Sessions](https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe) | 4:26 |
 | 47 | [Irresponsables \- En Vivo](https://open.spotify.com/track/17ZUhkTEK46wyeWm4A71Ja) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Desde Adentro \- Impuesto de Fe \(En Vivo\)](https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi) | 2:43 |
 | 48 | [Ciega, Sordomuda \- En Vivo](https://open.spotify.com/track/1qlWPsawt6eo7L4wvzwRBv) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 4:09 |
-| 49 | [La Flaca](https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tour Americano 14/15](https://open.spotify.com/album/1raRxblTKBGTQ0q0qZSn3o) | 7:00 |
-| 50 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 |
+| 49 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 |
+| 50 | [La Flaca](https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tour Americano 14/15](https://open.spotify.com/album/1raRxblTKBGTQ0q0qZSn3o) | 7:00 |
 
 Snapshot ID: `Zoy3fQAAAAA86zSBn4zqNk4X+JQtkROB`

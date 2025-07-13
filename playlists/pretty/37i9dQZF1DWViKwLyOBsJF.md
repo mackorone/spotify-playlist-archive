@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,703 likes - 73 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,700 likes - 73 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

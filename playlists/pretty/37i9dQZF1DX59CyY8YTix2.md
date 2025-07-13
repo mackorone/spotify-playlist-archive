@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 緑黄色社会
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,868 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,874 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 41 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
 | 42 | [OH MY LOVE](https://open.spotify.com/track/5lrioAK70nst2EGS7QszoA) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [Hump Back](https://open.spotify.com/album/3NqqrUA6nVcBFLAakLUeE0) | 3:44 |
 | 43 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
-| 44 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 |
+| 44 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 45 | [名前を呼んで](https://open.spotify.com/track/4XSWULf3vxJSIKp30LBLru) | [Hammer Head Shark](https://open.spotify.com/artist/4ReYBtwk8GTvuIklAiCqHI) | [27℃](https://open.spotify.com/album/10hQpda9uEOrB0hRObNL9e) | 4:06 |
-| 46 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
+| 46 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 |
 | 47 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
 | 48 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
 | 49 | [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 |

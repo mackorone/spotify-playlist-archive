@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,348 songs - 3 day 17 hr 31 min
+2,350 songs - 3 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -868,6 +868,7 @@
 | [haha yeah ok \(lofi remix\)](https://open.spotify.com/track/18wRLqDBZQGNCBeiECoJ5s) | [sancy j](https://open.spotify.com/artist/3UVxi5LYbngFziA6ots019), [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT), [West Bestern](https://open.spotify.com/artist/7zOLbjVjQZPAldCJ6K9Nha) | [haha yeah ok \(lofi remix\)](https://open.spotify.com/album/771hb2ACwe9f8Fd34jBRIX) | 2:20 | 2022-06-10 | 2022-11-19 |
 | [hairbrush](https://open.spotify.com/track/1FehK5JdDIxLLVRJBLPWSO) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [hairbrush](https://open.spotify.com/album/76t3Ver8ZnguBwwjQU3JM2) | 2:19 | 2022-05-13 | 2023-08-18 |
 | [Hakone](https://open.spotify.com/track/5Mz7BteoFe1ltcaVjjuCWQ) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Hakone](https://open.spotify.com/album/0JxLKWtZ3jEnkNXtzXTuqY) | 2:33 | 2022-11-18 | 2023-09-16 |
+| [Half Moon](https://open.spotify.com/track/0iWxaTdBHSLRtDIUEh16Ee) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Half Moon](https://open.spotify.com/album/2J9XleapibIQICho30gRz6) | 1:53 | 2025-07-11 |  |
 | [Half Waked](https://open.spotify.com/track/4vNr7yElsA1xkrjgtLYMSy) | [Richard Leek](https://open.spotify.com/artist/3bRqzDAKR5xAreIHzGunSu) | [Half Waked](https://open.spotify.com/album/7hgZZ0LwYHkmurzKmPkeA9) | 1:54 | 2022-12-23 | 2024-01-29 |
 | [Halfway](https://open.spotify.com/track/7JjUUzjaOvKTgOPqS8k7co) | [Droxilyn](https://open.spotify.com/artist/3oFAs0SnvbeuGg4ti8Ycak), [lofi boyz](https://open.spotify.com/artist/4MGcmCTE0ifSg3In5uyD1u) | [Halfway](https://open.spotify.com/album/288gVJdgEXnPu89VNdKY4t) | 2:12 | 2022-04-15 | 2022-05-27 |
 | [Ham On Rye](https://open.spotify.com/track/1YHe10629RcHU4qusWR9b1) | [Worn Tape](https://open.spotify.com/artist/6BohbICG26xpKvK0bXezmx) | [Ham On Rye](https://open.spotify.com/album/3kmS2l0JQwzlbcnR0S1hEV) | 2:04 | 2023-02-13 |  |
@@ -1203,6 +1204,7 @@
 | [lucky charms](https://open.spotify.com/track/4JnGvG2qXVDwAArJkZvZwJ) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [lucky charms](https://open.spotify.com/album/04zMzCmGyAhMlziRYcd0MA) | 2:19 | 2025-03-07 |  |
 | [lullabi](https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME) | [dozeoff](https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW) | [lullabi / midnight](https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS) | 2:54 | 2024-07-12 |  |
 | [Lullaby](https://open.spotify.com/track/3vr0v9Vn5ELEYbwzKdKyTX) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Lullaby](https://open.spotify.com/album/3cSq1BpCyixnSAxS2PRcYp) | 2:05 | 2023-12-22 |  |
+| [Lullaby](https://open.spotify.com/track/3uF7LQEgBBPri5wTGf2nh2) | [Kayyyy](https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ) | [Lullaby](https://open.spotify.com/album/0qtCgr4PsLFwY2EGp0ciWj) | 2:14 | 2025-07-11 |  |
 | [lullaby sayonara](https://open.spotify.com/track/5gmGU21qJOnyhfLaVFLsc8) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [lullaby sayonara](https://open.spotify.com/album/7aEVz9aLIagUCYVZnR4L4C) | 2:11 | 2023-12-15 | 2024-06-22 |
 | [Lumbre](https://open.spotify.com/track/4uvIkNbOfh9w8VijIRn6EA) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Lumbre](https://open.spotify.com/album/5Ld9PgzYDbl4f42sN57ThN) | 2:00 | 2022-05-27 | 2023-04-04 |
 | [luminescence](https://open.spotify.com/track/4C5PiNdh6l3qJZyXGZnzAr) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [luminescence](https://open.spotify.com/album/6QoHfpdvlgwU1H2dLkpgPG) | 2:31 | 2024-09-27 |  |
@@ -1752,7 +1754,7 @@
 | [Scilla](https://open.spotify.com/track/2Rl8YG9SFOrLXz4Jsr5TYV) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Scilla](https://open.spotify.com/album/6sUwRgas8r3CSikO2W4CCr) | 2:35 | 2022-12-16 | 2023-09-16 |
 | [Scoop Up](https://open.spotify.com/track/4ZS9Md0rSWfDB2dLPkZyRL) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Scoop Up](https://open.spotify.com/album/2CEE6ue2zB4J1jJ9kSv7Kc) | 2:38 | 2022-12-23 | 2023-03-09 |
 | [Scratch and Sniff](https://open.spotify.com/track/0fnBFV0cLqTXwueVyNxCfV) | [Jorge and the Homies](https://open.spotify.com/artist/4G7T4kiobBHfAdTZ1YBQLI) | [The Historic](https://open.spotify.com/album/1Zw1lBWIR5YPqktU1TzzYr) | 2:50 | 2022-06-03 | 2022-11-19 |
-| [Sea Breeze](https://open.spotify.com/track/0hGuU4p9M9mUNjWmoD83CP) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Sea Breeze](https://open.spotify.com/album/3FZwrMcRz470p60fFiG6sW) | 2:36 | 2024-04-26 |  |
+| [Sea Breeze](https://open.spotify.com/track/0hGuU4p9M9mUNjWmoD83CP) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Sea Breeze](https://open.spotify.com/album/3FZwrMcRz470p60fFiG6sW) | 2:36 | 2024-04-26 | 2025-07-13 |
 | [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-29 |  |
 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
 | [seasons on seasons](https://open.spotify.com/track/7MxEFWW8BNfiA6R6A7qxvA) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [seasons on seasons](https://open.spotify.com/album/6Xxor0mdaYk7CblESkRozK) | 1:56 | 2025-01-17 | 2025-04-29 |
@@ -2024,7 +2026,7 @@
 | [Sweet Apollo](https://open.spotify.com/track/387Et4ZBM5n4NEmpkvN3RR) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Sweet Apollo](https://open.spotify.com/album/0iStaKoeXbhVN6C75N1wm3) | 2:18 | 2024-02-23 |  |
 | [Sweet Mood](https://open.spotify.com/track/1BfGvcTnpZNqoU8jHNOQMH) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Sweet Mood](https://open.spotify.com/album/0w9aOvVx2RuvVWc3zHfna2) | 2:12 | 2024-07-12 | 2024-08-10 |
 | [Sweet water](https://open.spotify.com/track/31mFMlV5wX0KXSwlkQzudl) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [Sweet water](https://open.spotify.com/album/1cuUSlktiaqYuwj6wquDxI) | 2:24 | 2023-03-08 | 2024-01-07 |
-| [Swinging](https://open.spotify.com/track/5g6bo0A9skAYzKogYIOFP9) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Swinging](https://open.spotify.com/album/02QmoEK1ROWO1US6PdwWad) | 1:42 | 2023-06-06 |  |
+| [Swinging](https://open.spotify.com/track/5g6bo0A9skAYzKogYIOFP9) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Swinging](https://open.spotify.com/album/02QmoEK1ROWO1US6PdwWad) | 1:42 | 2023-06-06 | 2025-07-13 |
 | [Swinging On saturn](https://open.spotify.com/track/2VMC5qYtKQtZrqBZEGRPsr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Swinging On Saturn](https://open.spotify.com/album/29smImav94IhDbKxQT3BWq) | 2:57 | 2022-04-15 | 2022-06-10 |
 | [Swirl it please](https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Swirl it please](https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM) | 1:58 | 2024-07-12 | 2024-08-10 |
 | [Synthetic Forest](https://open.spotify.com/track/5Lplx3jpmE2GjvCZxxjBVA) | [East Lassitude](https://open.spotify.com/artist/0LY4tSbZ3fJinTgpoIudAm) | [Synthetic Forest](https://open.spotify.com/album/6YTIod9c8bs3AFucyEZTk1) | 2:55 | 2024-01-12 |  |

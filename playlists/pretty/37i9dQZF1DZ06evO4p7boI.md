@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,889 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,888 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 44 | [Foreign \(feat\. Nav\)](https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 |
 | 45 | [Habits](https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:24 |
 | 46 | [SINKING](https://open.spotify.com/track/353xLpuRSnZQG2arRj4ObG) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 2:05 |
-| 47 | [POTHOLES](https://open.spotify.com/track/56iQaoOCCQ68YK74wQhtCW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 2:08 |
-| 48 | [Lonely](https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:35 |
+| 47 | [Lonely](https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:35 |
+| 48 | [POTHOLES](https://open.spotify.com/track/56iQaoOCCQ68YK74wQhtCW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 2:08 |
 | 49 | [No Debate \(feat\. Young Thug\)](https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:08 |
-| 50 | [KEEP GOING](https://open.spotify.com/track/759TEcBBeid0KxXEs0AFtx) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 2:16 |
+| 50 | [ONE OF NONE](https://open.spotify.com/track/3iHhuAmTg6LCOpHJQCUEmm) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 2:38 |
 
-Snapshot ID: `aG8CgAAAAABTcbvcjnkBb+DUE3ogNGAP`
+Snapshot ID: `aHBUAAAAAADlaPbGRdPIHkzImhgo5AB8`

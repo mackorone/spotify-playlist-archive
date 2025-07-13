@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,821 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,907 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Monica \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Monica \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/album/0JVeWlWdj13Q8PdEFmsjqX) | 3:37 |
+| 1 | [Monica \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Monica \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/album/0JVeWlWdj13Q8PdEFmsjqX) | 3:37 |
 | 2 | [Bar Anthem \- From "Good Day"](https://open.spotify.com/track/4lamCUKj6lUNqaOzhmkN8k) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55) | [Bar Anthem \(From "Good Day"\)](https://open.spotify.com/album/4xtpG5LSH41N8JbDRjwp7E) | 3:03 |
 | 3 | [Chikitu \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/track/5L9BSBipkfupud0335Mhjj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Chikitu \(From "Coolie"\) \(Tamil\)](https://open.spotify.com/album/3P9Jdtp9NVxqWVEusCbw5K) | 3:36 |
 | 4 | [Kanimaa \(From "Retro"\)](https://open.spotify.com/track/2JlzHPGIVaLNAppX1viq7f) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [The Indian Choral Ensemble](https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kanimaa \(From "Retro"\)](https://open.spotify.com/album/1YPMUwOzrovzylIkqNeepA) | 4:03 |

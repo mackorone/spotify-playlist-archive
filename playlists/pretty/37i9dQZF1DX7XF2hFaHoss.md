@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,420 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,422 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 59 | [Bad Luck Bad Habit](https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj) | [Alycia Lang](https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8) | [Bad Luck Bad Habit](https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA) | 3:30 |
 | 60 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 |
 | 61 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 |
-| 62 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
-| 63 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
+| 62 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
+| 63 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
 | 64 | [Navy Blue Sheet Blues](https://open.spotify.com/track/4pPpcOXCS9xCX950BZhb9z) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Navy Blue Sheet Blues](https://open.spotify.com/album/2m2T96Sgp64fTm9ajo6VCH) | 1:26 |
 | 65 | [Such Love Does](https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 3:20 |
 | 66 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |

@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-254 songs - 15 hr 53 min
+255 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [In Good Time](https://open.spotify.com/track/1L0mzC9gGFjYhnW5fuWaCX) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [In Good Time](https://open.spotify.com/album/6FRmvzpIcJ03AgAf4BV665) | 3:46 | 2023-07-27 | 2023-08-23 |
 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch \(2007 Remaster\)](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 | 2025-01-09 | 2025-04-16 |
 | [Inside My Chest](https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Part I – When Everything Was Lost](https://open.spotify.com/album/47O3IGWPznhWBKQfs9yKz2) | 3:11 | 2023-07-27 | 2023-09-20 |
-| [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 | 2025-05-16 |  |
+| [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 | 2025-05-16 | 2025-07-13 |
 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 | 2025-04-15 |  |
 | [It's Down to You](https://open.spotify.com/track/6w1CUujrUaiPHZUJfqZN8R) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Run Deep](https://open.spotify.com/album/24uAA2v6yqB1gN6YCUL9ed) | 5:01 | 2022-12-06 | 2023-02-22 |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2025-04-15 |  |
@@ -220,6 +220,7 @@
 | [The Eyes Of Cécilia](https://open.spotify.com/track/7cQ2BmsLbPSapjBmo8tku4) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [The Eyes Of Cécilia](https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt) | 3:25 | 2025-05-22 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-12-06 | 2025-04-16 |
 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2022-12-06 | 2024-04-19 |
+| [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 | 2025-07-10 |  |
 | [The Lovers Side](https://open.spotify.com/track/0d9tFcFuTCaCcFpCFDnaCu) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 4:07 | 2025-05-22 |  |
 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 | 2022-12-06 | 2024-04-19 |
 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2025-04-15 |  |

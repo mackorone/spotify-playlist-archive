@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,396 likes - 164 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,659 likes - 164 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

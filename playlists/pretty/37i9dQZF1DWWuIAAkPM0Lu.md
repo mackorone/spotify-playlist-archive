@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra  Justin Bieber, OLIVVER, Caroline Dubois og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,588 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,601 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 41 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 |
 | 42 | [Like This](https://open.spotify.com/track/4kW6obpQjCwxWm6J24oF6a) | [The Party](https://open.spotify.com/artist/4pQO0FRDiAB4fVec2doSyu), [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Like This](https://open.spotify.com/album/2fQ9swkJSKMEsoxP3mF5Wp) | 2:34 |
 | 43 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/1gXHmNzTj1fwxPWMOZ9Frn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/album/0mhTypXZWjlqrSrcRkerLf) | 3:36 |
-| 44 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 44 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 45 | [Hver Dag \- Kort Mix](https://open.spotify.com/track/6G8lCqtKkDwGLvmMdafJ7v) | [2000F](https://open.spotify.com/artist/05Iu6lCJjfi7d5kkwthyTC), [Klumben](https://open.spotify.com/artist/6l2TcYHKMr6XQn5hxfD48E), [Raske Penge](https://open.spotify.com/artist/7fOvQFIRL7o1WGXujMXQ46) | [Selektor Hver Dag](https://open.spotify.com/album/0jAyxLzL9kQJGxWqVYFaWz) | 3:21 |
 | 46 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 |
 | 47 | [Hvor Du Henne](https://open.spotify.com/track/2iH4ldUgBgqWnkOYEVU5eX) | [Ivanhoe](https://open.spotify.com/artist/7mZm9FcjJxlceJDasBOiY6) | [Hvor Du Henne](https://open.spotify.com/album/0TbTVBNvtUHQXvBaoXb7L9) | 3:12 |

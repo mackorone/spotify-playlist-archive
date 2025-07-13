@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,226 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,230 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 3 | [La Mesera](https://open.spotify.com/track/5bA44PbrSBhdzYJ4jw3ERO) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 3:01 |
 | 4 | [Ingrato Amor](https://open.spotify.com/track/1eaux4zfvoNc0LuXIVRgzB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serenata Bajo Las Estrellas 15 Exitos Inmortales](https://open.spotify.com/album/0j2N0ZJPQjEQgcMN3OPNJk) | 2:42 |
 | 5 | [Carta Jugada](https://open.spotify.com/track/2n19eUctP7AZFIsktfBk2V) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos Clasicos: Canciones y Corridos](https://open.spotify.com/album/5B6a96a0gdnf0AaIstQyYb) | 2:47 |
-| 6 | [Moneda Sin Valor](https://open.spotify.com/track/7w4ZgZxpCt3Ulc4SuUH3ec) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 3:10 |
+| 6 | [Cuatro Milpas](https://open.spotify.com/track/4dvpL6KEvqwcibf5Sm7TqU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [El Rosalito](https://open.spotify.com/album/2k8xoNgEwu8xMeZ6FaC9FZ) | 2:26 |
 | 7 | [Ojitos Verdes](https://open.spotify.com/track/7276TUfLJbqMyzxDqXevrA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:48 |
-| 8 | [Cuatro Milpas](https://open.spotify.com/track/4dvpL6KEvqwcibf5Sm7TqU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [El Rosalito](https://open.spotify.com/album/2k8xoNgEwu8xMeZ6FaC9FZ) | 2:26 |
+| 8 | [Moneda Sin Valor](https://open.spotify.com/track/7w4ZgZxpCt3Ulc4SuUH3ec) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 3:10 |
 | 9 | [Alma Rendida](https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 3:48 |
 | 10 | [Tomando Licor](https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Terán](https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ) | 2:56 |
 | 11 | [Porque Te Quiero](https://open.spotify.com/track/3CFVyZA39o7RnGcQoOadZ5) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Éxitos de los Alegres de Terán, Vol\. 2](https://open.spotify.com/album/3UCqW7jOFnJl6DDwOz7eth) | 2:23 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 47 | [La Mula Bronca](https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:50 |
 | 48 | [La Tumba de Villa](https://open.spotify.com/track/5HitQXXbYmjUZwQraMjV1n) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 4:05 |
 
-Snapshot ID: `aG8CgAAAAAB13BZB7DoMpS7qL/EziFYH`
+Snapshot ID: `aHBUAAAAAAAfOFnO6YbmtpQ0/gXVbDyY`

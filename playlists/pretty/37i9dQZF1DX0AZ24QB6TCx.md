@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,248 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,381 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 17 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 |
 | 18 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 19 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 |
-| 20 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
-| 21 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:07 |
-| 22 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
+| 20 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:07 |
+| 21 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
+| 22 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
 | 23 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
 | 24 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 |
 | 25 | [Heartless](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Heartless](https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J) | 4:19 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 27 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
 | 28 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 | 29 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 |
-| 30 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
-| 31 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
+| 30 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
+| 31 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
 | 32 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 33 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 34 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |

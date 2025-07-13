@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,907 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,920 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 45 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 |
 | 46 | [Ele Não Muda \- Ao Vivo](https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Ele Não Muda \(Ao Vivo\)](https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK) | 8:07 |
 | 47 | [Mais Um Dia](https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Mais Um Dia](https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil) | 5:17 |
-| 48 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
+| 48 | [Enquanto a Igreja Ora \(Ao Vivo\)](https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh) | [Família Cavalcanty](https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Enquanto a Igreja Ora \(Ao Vivo\)](https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr) | 3:16 |
 | 49 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 4:34 |
-| 50 | [Enquanto a Igreja Ora \(Ao Vivo\)](https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh) | [Família Cavalcanty](https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Enquanto a Igreja Ora \(Ao Vivo\)](https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr) | 3:16 |
+| 50 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
 
-Snapshot ID: `aG8CgAAAAAAXaWDTeuyCcJt3V/InALFj`
+Snapshot ID: `aHBUAAAAAACHYo2cTNFCAzbc9sQKcypP`

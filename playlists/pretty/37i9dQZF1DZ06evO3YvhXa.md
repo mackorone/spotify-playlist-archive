@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 > This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,888 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,940 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 39 | [Hot Tequila Brown](https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:38 |
 | 40 | [Morning Glory](https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:23 |
 | 41 | [Black Capricorn Day](https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 5:41 |
-| 42 | [Smoke and Mirrors](https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:29 |
+| 42 | [Goodbye To My Dancer](https://open.spotify.com/track/4GkcuPPvU15cGnI6JDToZK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:05 |
 | 43 | [Hot Property](https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 4:31 |
 | 44 | [Manifest Destiny](https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:22 |
 | 45 | [Butterfly](https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 4:28 |
-| 46 | [Goodbye To My Dancer](https://open.spotify.com/track/4GkcuPPvU15cGnI6JDToZK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:05 |
+| 46 | [Smoke and Mirrors](https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:29 |
 | 47 | [Feel So Good](https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 5:21 |
 | 48 | [Journey to Arnhemland](https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 5:22 |
 | 49 | [King for a Day](https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 3:44 |
 | 50 | [Revolution 1993](https://open.spotify.com/track/2oQLlmcEzbbbwvcHLLKkz1) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 10:17 |
 
-Snapshot ID: `aG8CgAAAAACdqMlBflcLNEd+CCcknQJ2`
+Snapshot ID: `aHBUAAAAAAAFlCy3OyPpuyxWUO8EofyI`

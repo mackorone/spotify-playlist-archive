@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133122,
+  "num_followers": 133116,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAfyWfs7Hod5J9Xnsi5LF5t",
+  "snapshot_id": "aHBUAAAAAABHJyMycdeZvM8Ti7ENjv1l",
   "tracks": [
     {
       "added_at": null,
@@ -379,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+        "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo"
       },
       "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 274366,
-      "name": "Como \u00c1guia",
-      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
+      "duration_ms": 307999,
+      "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo"
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
       "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 307999,
-      "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5"
+      "duration_ms": 274366,
+      "name": "Como \u00c1guia",
+      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 358376,
-      "name": "Digno \u00e9 o Cordeiro",
-      "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/5UTcreVUafGcw1fYul4z8C"
       },
@@ -651,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marca da Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
       },
       "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 333002,
-      "name": "Marca da Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
+      "duration_ms": 358376,
+      "name": "Digno \u00e9 o Cordeiro",
+      "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
     },
     {
       "added_at": null,
@@ -687,6 +667,26 @@
       "duration_ms": 244680,
       "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marca da Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 333002,
+      "name": "Marca da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
     },
     {
       "added_at": null,

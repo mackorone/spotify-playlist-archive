@@ -4,7 +4,7 @@
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 17 min
+62 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:45 | 2022-05-30 |  |
 | [Mein](https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:58 | 2022-05-30 |  |
 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 | 2022-05-30 |  |
-| [Minus Blindfold](https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:04 | 2022-05-30 |  |
+| [Minus Blindfold](https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:04 | 2022-05-30 | 2025-07-13 |
+| [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-13 |  |
 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 | 2022-05-30 |  |
 | [Needles and Pins](https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:23 | 2022-05-30 |  |
 | [Ohms](https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:10 | 2022-05-30 |  |

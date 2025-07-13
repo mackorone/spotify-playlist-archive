@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1647783,
+  "num_followers": 1647850,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADQQNKpr+ACcyEVPJRmNmld",
+  "snapshot_id": "aHBUAAAAAAB12/p+C1zRDHZaBDYXuGgH",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,26 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way (with XXXTENTACION)",
+        "url": "https://open.spotify.com/album/6dxfO5z7gh5HXIg9H9WZvb"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 230502,
+      "name": "The Way (with XXXTENTACION)",
+      "url": "https://open.spotify.com/track/0CI5vcGTYHWfVEelog0lPr"
     },
     {
       "added_at": null,
@@ -767,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
-        "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 141586,
-      "name": "Fine China",
-      "url": "https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -811,6 +811,26 @@
       "duration_ms": 232064,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+        "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 141586,
+      "name": "Fine China",
+      "url": "https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN"
     },
     {
       "added_at": null,
@@ -911,22 +931,6 @@
       "duration_ms": 166400,
       "name": "Nuketown (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
     }
   ],
   "unique_name": "This Is Juice WRLD",

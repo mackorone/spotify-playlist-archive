@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Justin Bieber, Olivia Dean, Wolf Alice and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,820 likes - 119 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,924 likes - 119 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 58 | [4am](https://open.spotify.com/track/6WbD3aKWfbOQNsrShunW6o) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [NEW SKIN](https://open.spotify.com/album/34cWNhZY4Z8OWtlNoXAbm2) | 2:41 |
 | 59 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |
 | 60 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
-| 61 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 61 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 62 | [Memories](https://open.spotify.com/track/5g9bE3kDm1hKxNMKR1gxnz) | [Brookes Brothers](https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6) | [Memories](https://open.spotify.com/album/38uya9ig9et1GPbxw8y9iC) | 2:52 |
 | 63 | [In Another Life](https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [In Another Life](https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb) | 3:28 |
 | 64 | [Deep End](https://open.spotify.com/track/6rsdjEmVm2dNBr0b7lz0mr) | [Gabriella Bongo](https://open.spotify.com/artist/5RZaAT4U5JzUOAIi7X5h68), [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [MissLoulou](https://open.spotify.com/artist/1PDkacS9c7XyjrMl6dkAlD) | [Deep End](https://open.spotify.com/album/15ApgXVyt1unbzkbzkBPm9) | 4:05 |

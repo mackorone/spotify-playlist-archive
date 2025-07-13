@@ -16245,6 +16245,24 @@
     },
     {
       "album": {
+        "name": "Half Moon",
+        "url": "https://open.spotify.com/album/2J9XleapibIQICho30gRz6"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113850,
+      "name": "Half Moon",
+      "url": "https://open.spotify.com/track/0iWxaTdBHSLRtDIUEh16Ee"
+    },
+    {
+      "album": {
         "name": "Half Waked",
         "url": "https://open.spotify.com/album/7hgZZ0LwYHkmurzKmPkeA9"
       },
@@ -22536,6 +22554,24 @@
       "duration_ms": 125217,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/3vr0v9Vn5ELEYbwzKdKyTX"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/0qtCgr4PsLFwY2EGp0ciWj"
+      },
+      "artists": [
+        {
+          "name": "Kayyyy",
+          "url": "https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134810,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/3uF7LQEgBBPri5wTGf2nh2"
     },
     {
       "album": {
@@ -32868,7 +32904,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 156626,
       "name": "Sea Breeze",
       "url": "https://open.spotify.com/track/0hGuU4p9M9mUNjWmoD83CP"
@@ -37980,7 +38016,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 102400,
       "name": "Swinging",
       "url": "https://open.spotify.com/track/5g6bo0A9skAYzKogYIOFP9"

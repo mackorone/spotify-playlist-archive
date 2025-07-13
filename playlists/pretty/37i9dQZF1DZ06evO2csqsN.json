@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 36627,
+  "num_followers": 36643,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACDeXLwR5o1PHQSOCnmCwYp",
+  "snapshot_id": "aHBUAAAAAADcRM9oemrp1343LJtMRlEy",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ART (feat. Latto)",
         "url": "https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 108800,
       "name": "ART (feat. Latto)",
       "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
       "added_at": null,
@@ -991,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boom Pt. 2 (feat. Latto)",
+        "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Boom Pt. 2 (feat. Latto)",
+      "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Floor Seats II",
         "url": "https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 118440,
       "name": "In It (feat. Latto)",
       "url": "https://open.spotify.com/track/2GDFfYpuDzUjB7gYtNbR8n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Top Shotta",
-        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 202954,
-      "name": "Make Em Say (feat. Latto)",
-      "url": "https://open.spotify.com/track/1ocT98kfsdrTKFvVB01cfz"
     }
   ],
   "unique_name": "This Is Latto",

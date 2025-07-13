@@ -4,7 +4,7 @@
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 1 min
+95 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dime Quién Es](https://open.spotify.com/track/3Gx0D7Qs5oJO5jaA6Rs9lp) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 2:54 | 2022-06-01 |  |
 | [Dos Seres Que Se Aman](https://open.spotify.com/track/1l3ILbIylMR5NE1urmrtpd) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Prieta Orgullosa](https://open.spotify.com/album/3ax1gPCh8V8EJcMnThK30F) | 2:53 | 2022-08-04 | 2022-08-06 |
 | [Dulces Mentiras](https://open.spotify.com/track/1s90RxawZmkzRvL17uQbYP) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 2:26 | 2022-06-01 | 2022-10-13 |
+| [El Adiós](https://open.spotify.com/track/10pbScHlHAc2ztQHECUqGy) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Adiós](https://open.spotify.com/album/4ATrBIMw7I0J3gC0Kw4bWt) | 2:46 | 2025-07-13 |  |
 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 | 2022-06-02 | 2024-04-06 |
 | [El Columpio](https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:19 | 2022-06-01 |  |
 | [El Cuatrero](https://open.spotify.com/track/5eOPnsSPWGkuP184dMCoFW) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 4:00 | 2024-09-30 | 2025-03-05 |
@@ -58,7 +59,7 @@
 | [La Equivocación](https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:17 | 2022-06-01 |  |
 | [La Loba del Mal](https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:38 | 2022-06-02 |  |
 | [La Ruleta](https://open.spotify.com/track/3mK4Zv1oitX7LyUsKsVhwh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:44 | 2022-06-01 | 2023-02-14 |
-| [Las Rejas No Matan](https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 3:22 | 2024-05-10 |  |
+| [Las Rejas No Matan](https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 3:22 | 2024-05-10 | 2025-07-13 |
 | [Lo Siento Amigo \- Mariachi](https://open.spotify.com/track/25lwn5YDaP9Tp80HyvJTsX) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv), [Angel Sanchez](https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC) | [Reafirmando el Estilo](https://open.spotify.com/album/1CwNs3S5dwhVaknX8a2FAL) | 4:03 | 2022-06-01 | 2022-10-13 |
 | [Me Lo Contaron Ayer](https://open.spotify.com/track/0lWHxgeKgWiNpUHKD7Y8QW) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Me Lo Contaron Ayer](https://open.spotify.com/album/6gu5C4B82H9RWekehc9qIm) | 3:03 | 2022-06-01 | 2022-10-13 |
 | [Mi Amor No Lo Mereces](https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:39 | 2022-06-01 |  |

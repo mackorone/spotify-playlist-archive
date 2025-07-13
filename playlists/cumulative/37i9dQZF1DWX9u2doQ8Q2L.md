@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,645 songs - 4 day 3 hr 25 min
+1,646 songs - 4 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [GET OUT OF MY WAY](https://open.spotify.com/track/43y8Frn9DFTWoGDIICszwC) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [GET OUT OF MY WAY / LIES](https://open.spotify.com/album/7dnGarzmHEVTHewmc0SLHP) | 2:57 | 2022-10-18 | 2022-10-21 |
 | [Getting Ready](https://open.spotify.com/track/5fCc8BqZJpPkVNZFXsMxDl) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Getting Ready](https://open.spotify.com/album/1jIMDnp4hR7eYZa1KzftSv) | 3:11 | 2023-12-07 | 2023-12-13 |
 | [GHOST](https://open.spotify.com/track/5hMPL9uwIHTMzV3ASz9IpI) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [GHOST](https://open.spotify.com/album/6fU3bolaKlQff22zpWZ3lY) | 2:41 | 2022-05-26 | 2022-07-08 |
+| [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 | 2025-07-10 |  |
 | [Gimme Some](https://open.spotify.com/track/1IbNNyZifUUoXMHCxMQTmx) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Gimme Some](https://open.spotify.com/album/6ssgCi2BiNcnXN6IoSgvr0) | 3:05 | 2022-07-07 | 2022-09-03 |
 | [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 | 2023-04-15 |
 | [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 | 2023-04-13 | 2023-05-06 |
@@ -1025,7 +1026,7 @@
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-11 |  |
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 | 2024-02-11 |
 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 | 2022-12-01 | 2023-04-26 |
-| [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 |  |
+| [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 | 2025-07-13 |
 | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976) | 2:52 | 2024-08-28 | 2025-07-08 |
 | [Step](https://open.spotify.com/track/49GUjKB2nBXKVrjwiwTnfZ) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/2FUak4FlOqbNoPMQB2MiiV) | 4:14 | 2022-06-14 | 2022-07-20 |
 | [STEP IT](https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/50zbhHNA9zNyC0zVcVUPzx) | 3:40 | 2022-07-28 | 2022-08-17 |

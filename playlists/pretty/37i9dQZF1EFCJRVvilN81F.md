@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,086 likes - 159 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,086 likes - 160 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 107 | [A Lite](https://open.spotify.com/track/3CeI4Ri97C26GxShl4sbdY) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:31 |
 | 108 | [Traveling Light](https://open.spotify.com/track/4iacGlbvEi6JsH3EmMQVwf) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Radio Silence](https://open.spotify.com/album/7C82GwudARaV8PrNPia8AV) | 4:30 |
 | 109 | [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 |
-| 110 | [Guillotine](https://open.spotify.com/track/1Wh8GeXvt7lANMGHubpaQn) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:58 |
-| 111 | [DJ Got Me](https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [DJ Got Me](https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ) | 2:15 |
+| 110 | [DJ Got Me](https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [DJ Got Me](https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ) | 2:15 |
+| 111 | [Guillotine](https://open.spotify.com/track/1Wh8GeXvt7lANMGHubpaQn) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:58 |
 | 112 | [NIKE SHOE BOX \(feat\. KAYTRANADA\)](https://open.spotify.com/track/2j2iro1jdg8atPJfF7qg9X) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:12 |
 | 113 | [Ghost](https://open.spotify.com/track/18pHQ7Tjkb8EKzq69qebUB) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ghost](https://open.spotify.com/album/500oNCqdXLgK8vLhE3BQnu) | 3:29 |
 | 114 | [Insecurities](https://open.spotify.com/track/2XJt04Myq7Q2sGHeieYhFX) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/46wJVfjbcZBGZ6Zabex3y9) | 4:26 |
@@ -162,10 +162,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 152 | [Oasis](https://open.spotify.com/track/4sBXBfLLlDC1NR99JAjVFm) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Oasis](https://open.spotify.com/album/2fgwCq2iDn5dM1ZYaDQ1du) | 2:44 |
 | 153 | [Our Way](https://open.spotify.com/track/2xvzIWvYXMwe3ao5k5wB3f) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/27lT3u386mVfOWF2wwwP1i) | 3:57 |
 | 154 | [Involved](https://open.spotify.com/track/69oGXYDezTiGTnJ1DUSUPF) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 2:48 |
-| 155 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
-| 156 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
-| 157 | [Sunday Love Fever](https://open.spotify.com/track/4FYtw1HuOcEfXQFkVcPGGf) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [POISON](https://open.spotify.com/album/0t1RR8RU3XUBZJGIlS0fSu) | 2:57 |
-| 158 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
-| 159 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
+| 155 | [Beautiful People](https://open.spotify.com/track/4U13I9jihFBmAhw7z3JfTr) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 3:09 |
+| 156 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
+| 157 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
+| 158 | [Sunday Love Fever](https://open.spotify.com/track/4FYtw1HuOcEfXQFkVcPGGf) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [POISON](https://open.spotify.com/album/0t1RR8RU3XUBZJGIlS0fSu) | 2:57 |
+| 159 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
+| 160 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Ab2hXgAAAAAfXjEtTtA5T5Lwh2znATTI`
+Snapshot ID: `Ab2m/gAAAAAH6VQtka0wnMB5UBO0RVmj`

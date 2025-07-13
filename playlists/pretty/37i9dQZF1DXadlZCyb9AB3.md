@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,220 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,275 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 58 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
 | 59 | [What Kind of Monster Are You?](https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd) | [Slant 6](https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY) | [Soda Pop \* Rip Off](https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ) | 2:03 |
 | 60 | [No One's Little Girl](https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:30 |
-| 61 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
-| 62 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
+| 61 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
+| 62 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
 | 63 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 64 | [Complicated](https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 6:24 |
 | 65 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 91 | [Second Skin](https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching the Bully](https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO) | 2:57 |
 | 92 | [Cute Boy Discount](https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1) | [Cold Cold Hearts](https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa) | [Cold Cold Hearts](https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod) | 3:17 |
 | 93 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |
-| 94 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 |
-| 95 | [Bitch Theme](https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/0er043d9DCecxrz0XVsPos) | 1:31 |
+| 94 | [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 |
+| 95 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 |
 | 96 | [Supermodel \- Superficial](https://open.spotify.com/track/7a6Dhd4897ZBnlkA9H6BYe) | [Voodoo Queens](https://open.spotify.com/artist/713dOrzih7UQvUmok0Hft4) | [Kenuwee Head](https://open.spotify.com/album/1OHILieJzT08QXlAvPXcKc) | 3:20 |
 | 97 | [Current Affair](https://open.spotify.com/track/0HINeS16DfBP7DGCSC6QVx) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9) | 2:49 |
 | 98 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
 | 99 | [Bright Yellow Gun](https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS) | 3:43 |
-| 100 | [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 |
+| 100 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 |
 
 Snapshot ID: `ZwRGVwAAAAAXG/tys3wAd+Po9junj5Hs`

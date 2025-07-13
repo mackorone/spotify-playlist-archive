@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Klingt nach Sonne + Meer, egal wo du bist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,422 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,649 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 45 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
 | 46 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
 | 47 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
-| 48 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
-| 49 | [Morning Birds](https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Morning Birds](https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf) | 4:47 |
+| 48 | [Morning Birds](https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Morning Birds](https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf) | 4:47 |
+| 49 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 50 | [This Sunset](https://open.spotify.com/track/0H3GBkjQdcX6bbcw1EtpSN) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [This Sunset](https://open.spotify.com/album/4MKOGWAwpOHcmXBRFrYNxm) | 2:32 |
 | 51 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 |
 | 52 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 68 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
 | 69 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 |
 | 70 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 |
-| 71 | [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 |
-| 72 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 |
+| 71 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 |
+| 72 | [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 |
 | 73 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
 | 74 | [when i close my eyes](https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [when i close my eyes](https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb) | 3:46 |
 | 75 | [Ocean Girl](https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Ocean Girl](https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M) | 4:10 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 82 | [Airplanes](https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ) | 2:37 |
 | 83 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 84 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
-| 85 | [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:34 |
-| 86 | [wo bin ich](https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [wo bin ich](https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc) | 2:03 |
+| 85 | [wo bin ich](https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [wo bin ich](https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc) | 2:03 |
+| 86 | [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:34 |
 | 87 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
 | 88 | [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk) | 3:03 |
 | 89 | [eat some pasta](https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [eat some pasta](https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ) | 2:21 |

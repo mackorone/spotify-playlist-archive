@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,771 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,924 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 27 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
 | 28 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
 | 29 | [What Remains](https://open.spotify.com/track/7rqfCQ0Uw6qyztM4rKjKs0) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [What Remains](https://open.spotify.com/album/2NECnxiVMw84QBLNlm6x42) | 3:37 |
-| 30 | [Navigating](https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:43 |
-| 31 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 |
+| 30 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 |
+| 31 | [Navigating](https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:43 |
 | 32 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 33 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
 | 34 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 92 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
 | 93 | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/track/00okrW9OfjmG0PZJSY3fJd) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK) | 2:31 |
 | 94 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
-| 95 | [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 |
-| 96 | [ARTIFICIAL](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [ARTIFICIAL](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 |
+| 95 | [ARTIFICIAL](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [ARTIFICIAL](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 |
+| 96 | [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 |
 | 97 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |
-| 98 | [Stress](https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Antibloom](https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk) | 2:58 |
-| 99 | [The Vengeful One](https://open.spotify.com/track/5tz5QsHPkv69T1scq2utZZ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:12 |
+| 98 | [The Vengeful One](https://open.spotify.com/track/5tz5QsHPkv69T1scq2utZZ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:12 |
+| 99 | [Stress](https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Antibloom](https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk) | 2:58 |
 | 100 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 |
 
 Snapshot ID: `aAa0qQAAAABQ4v3NBm5KFPF/yTii81Z/`

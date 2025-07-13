@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Celebrating 10 years of the best new folk music from independent artists\. Cover: Tommy WÁ
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,193 likes - 120 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,231 likes - 120 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,427 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,461 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 22 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 |
 | 23 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
 | 24 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 |
-| 25 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 |
-| 26 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
+| 25 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
+| 26 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 |
 | 27 | [Als Je Gaat](https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS) | 2:58 |
 | 28 | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 |
 | 29 | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC) | 2:45 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 35 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
 | 36 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 |
 | 37 | [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 |
-| 38 | [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 |
-| 39 | [Half Open](https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Half Open](https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc) | 2:29 |
+| 38 | [Half Open](https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Half Open](https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc) | 2:29 |
+| 39 | [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 |
 | 40 | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz) | [Gizbey](https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq) | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN) | 2:57 |
 | 41 | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6) | 4:10 |
 | 42 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 |

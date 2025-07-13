@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Terrys
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,321 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,324 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

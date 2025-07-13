@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1088369,
+  "num_followers": 1088560,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABKARL3OTbwMU8EWZaA2kPR",
+  "snapshot_id": "aHBUAAAAAAB75EaflONU2pe6KEoKWQlr",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Las Botas de Charro",
-      "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba Huentitan",
         "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 180733,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Las Botas de Charro",
+      "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Quisiera",
-        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "La Misma",
-      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Del Pueblo",
         "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 176866,
       "name": "No Me Hagas Menos",
       "url": "https://open.spotify.com/track/4j30vBmlV8u1dRY7SjDSn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si No Te Quisiera",
+        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "La Misma",
+      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "El Arracadas",
-      "url": "https://open.spotify.com/track/23RNaVmsNrlRAe42wR5NkB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Del Pueblo",
         "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 175133,
       "name": "La Ley de la Vida",
       "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 186160,
+      "name": "El Arracadas",
+      "url": "https://open.spotify.com/track/23RNaVmsNrlRAe42wR5NkB"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Un Rancho A Otro",
-        "url": "https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "De un Rancho a Otro",
-      "url": "https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Amigo El Tordillo",
         "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 213160,
       "name": "El Moro de Cumpas",
       "url": "https://open.spotify.com/track/7y9mmxLvi8HnZVMdVgs1CS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Un Rancho A Otro",
+        "url": "https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "De un Rancho a Otro",
+      "url": "https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC"
     }
   ],
   "unique_name": "This Is Vicente Fern\u00e1ndez",

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-641 songs - 1 day 18 hr 13 min
+642 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Rescue](https://open.spotify.com/track/2xNLma1p2hPU1lqLYWEgiG) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Rescue](https://open.spotify.com/album/5wnHew8RsixkmPnW7aaicg) | 2:39 | 2022-04-20 | 2024-03-21 |
 | [Revolution](https://open.spotify.com/track/6C3jGzujdwT76XU4CH6ZHg) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Revolution](https://open.spotify.com/album/7519Ww1er6JNd64E8sW8rB) | 3:22 | 2025-06-20 |  |
 | [Revolution \- Deep In Jersey Extended Mix](https://open.spotify.com/track/0Qs8VmB3VPecGLGef4shI0) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Revolution \(Deep In Jersey Extended Mix\)](https://open.spotify.com/album/365BQjbQ7guC3hyTE2erVZ) | 5:27 | 2022-04-26 | 2022-07-12 |
+| [Right](https://open.spotify.com/track/5NaliF5YDYgIF0eToAuJBn) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Right](https://open.spotify.com/album/1FEooZjSxe1SytPZFR8xMW) | 3:06 | 2025-07-10 |  |
 | [Right On \- Dario D'attis Remix](https://open.spotify.com/track/5ymor3b8Gs82TouTl7z7Yj) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Hanlei](https://open.spotify.com/artist/52XjTMBxCVoJDBnTvDUV90), [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX) | [Right On](https://open.spotify.com/album/1WxhKRgNpICvt7Asa3cxtN) | 6:53 | 2022-04-14 | 2022-07-29 |
 | [Rock With Me](https://open.spotify.com/track/5Cs5XxTatXhs6oj0Vo77Vk) | [KEANU](https://open.spotify.com/artist/6LfsMzntUnwK5YdO7l6MD3) | [Rock With Me](https://open.spotify.com/album/41BUkrdl42fJx9qYlhsmi1) | 3:22 | 2024-10-17 | 2025-05-16 |
 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 | 2023-02-01 | 2024-03-01 |
@@ -620,7 +621,7 @@
 | [Weekend Vibes \(feat\. Lee Wilson\)](https://open.spotify.com/track/1e0nFnixmxUsDZuYUtDzDG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Weekend Vibes \(feat\. Lee Wilson\)](https://open.spotify.com/album/4zeV4TLJwc3fzlBiEq5qoE) | 2:50 | 2024-05-23 | 2025-02-13 |
 | [Welcome to Paradise](https://open.spotify.com/track/2lgviEjoaIYlHZfPtvjfuP) | [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW), [Fleur De Mur](https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD) | [Welcome to Paradise](https://open.spotify.com/album/6rO9hWhG00U93UPnyJF2O3) | 3:08 | 2024-09-12 |  |
 | [What Is Love](https://open.spotify.com/track/1IQ2Ry6SQplU6weACgZJ0X) | [Kayson](https://open.spotify.com/artist/2U7BA7NOqq5yhrV18EB9hp) | [What Is Love](https://open.spotify.com/album/4tICvgOQTCf3ua5PeEJNAd) | 2:40 | 2024-03-14 | 2024-10-04 |
-| [What Ya Sayin Michael](https://open.spotify.com/track/27A78nDFVdrb2TW9wJpKfZ) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [What Ya Sayin Michael](https://open.spotify.com/album/2a8Xhk55uA5QT7Cm2A2Fjc) | 5:17 | 2024-06-20 |  |
+| [What Ya Sayin Michael](https://open.spotify.com/track/27A78nDFVdrb2TW9wJpKfZ) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [What Ya Sayin Michael](https://open.spotify.com/album/2a8Xhk55uA5QT7Cm2A2Fjc) | 5:17 | 2024-06-20 | 2025-07-13 |
 | [What You Gonna Do](https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr) | [ELIA](https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV), [Melissa de Kleine](https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA) | [What You Gonna Do](https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK) | 4:07 | 2023-12-01 | 2024-10-06 |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-12 | 2024-02-01 |
 | [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2022-04-14 | 2023-08-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Danny Ocean y Kenia Os en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,898 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,900 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 4 | [Ba Ba Bad Remix](https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad Remix](https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt) | 2:26 |
 | 5 | [SOXE](https://open.spotify.com/track/0IwaDlPryK2x8SH0ArH03T) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [SOXE](https://open.spotify.com/album/6ZGLvEZe7CG28o5ynYpCSf) | 3:27 |
 | 6 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
-| 7 | [Nostalgia.0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia.0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
+| 7 | [Nostalgia .0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia .0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
 | 8 | [Nostalgia .0001 Hacerte De Todo \(feat\. DimeloooLexx\)](https://open.spotify.com/track/74jsmySKgsS3SZWT50klnu) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO) | [Nostalgia .0001 Hacerte De Todo \(feat\. DimeloooLexx\)](https://open.spotify.com/album/5KiRXZTsmeGj6a14t48p71) | 3:09 |
 | 9 | [ASTROS](https://open.spotify.com/track/5mPHerqBng78VtnLT2VTWl) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [ASTROS](https://open.spotify.com/album/4XTVEZqrJv8wBMMZJZmwsp) | 2:38 |
 | 10 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 |

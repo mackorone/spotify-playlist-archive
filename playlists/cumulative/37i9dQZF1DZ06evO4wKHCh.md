@@ -4,7 +4,7 @@
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 12 min
+31 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [RE\-IGNITION](https://open.spotify.com/track/3R1618eXJB4mMxIZzLv3Ac) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ARB4](https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RE\-IGNITION](https://open.spotify.com/album/0RaMpMa53l4NSA7QOlDlju) | 3:24 | 2024-01-10 |  |
 | [Regrets](https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Regrets](https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR) | 2:02 | 2024-01-10 |  |
 | [Scatterbrain](https://open.spotify.com/track/0LVdV9NG0y0ROxbYLpjbKc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:09 | 2024-01-10 |  |
+| [Stereo](https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Stereo](https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ) | 2:27 | 2025-07-13 |  |
 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 | 2024-11-17 |  |
 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 | 2024-10-14 |  |
 | [That Girl](https://open.spotify.com/track/5UebR77vjap8LVd6eqITiY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [That Girl](https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN) | 2:20 | 2024-01-10 |  |

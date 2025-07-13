@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,625 likes - 165 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,624 likes - 165 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 66 | [CUÍDALA](https://open.spotify.com/track/0KQ4DeYVWAoIDDGGxHEKQo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:43 |
 | 67 | [Vicio](https://open.spotify.com/track/3fi1xpGiyg5bRs64gJSak5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:40 |
 | 68 | [La Muerte](https://open.spotify.com/track/69YqoxUzLcdsXBRpZcqlsn) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:35 |
-| 69 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 |
-| 70 | [Blanco Y Negro](https://open.spotify.com/track/4TvGs15vEOOHLnzBvJwao4) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:32 |
+| 69 | [Blanco Y Negro](https://open.spotify.com/track/4TvGs15vEOOHLnzBvJwao4) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:32 |
+| 70 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 |
 | 71 | [Tarde](https://open.spotify.com/track/7gVW4nW63TH4kjCc66j0c2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:06 |
 | 72 | [Tiempo Sin Verte](https://open.spotify.com/track/6c8jkAgbVk44B8SwRi8vQs) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:16 |
 | 73 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 86 | [TAJIN](https://open.spotify.com/track/6stQ6SHIch2zT8yCUbsvWc) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:54 |
 | 87 | [Boys Ain't Shit \(Estos Chicos No Lo Son Remix\) \(feat\. Becky G\)](https://open.spotify.com/track/0dPeQvqhI9jwq2p8fKxuVL) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Boys Ain't Shit \(Estos Chicos No Lo Son Remix\) \(feat\. Becky G\)](https://open.spotify.com/album/4l6MgQlkUhKZhyJrzzltdR) | 3:06 |
 | 88 | [Nada Malo](https://open.spotify.com/track/4I1qopX9knBHznBLKZpAUi) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:23 |
-| 89 | [TRÍO](https://open.spotify.com/track/6wCKKXJAfzP0BwPmLJKzrY) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:06 |
-| 90 | [Carteras Chinas](https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Carteras Chinas](https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe) | 3:07 |
+| 89 | [Carteras Chinas](https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Carteras Chinas](https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe) | 3:07 |
+| 90 | [TRÍO](https://open.spotify.com/track/6wCKKXJAfzP0BwPmLJKzrY) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:06 |
 | 91 | [Piña Colada](https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Piña Colada](https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S) | 3:09 |
 | 92 | [Amigos \(with Becky G\)](https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Amigos \(with Becky G\)](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) | 2:31 |
 | 93 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 164 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 165 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `Ab2hVAAAAABbg1SaOx9YGsVW1sH8s5Y2`
+Snapshot ID: `Ab2nMAAAAABVa9zLqw2Quk0xAPYHPb1D`

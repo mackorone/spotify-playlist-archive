@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,321 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,363 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 35 | [I've Got My Eyes On You](https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:57 |
 | 36 | [True Love](https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 3:23 |
 | 37 | [I Love Paris](https://open.spotify.com/track/62UVjAjo8ra1PVSeHfnxk3) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Latin Kick](https://open.spotify.com/album/6XxDxfs4XBAjRv3dgOSoE2) | 5:53 |
-| 38 | [Easy To Love](https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 |
+| 38 | [From This Moment On \- 1955 Version](https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:13 |
 | 39 | [Rosalie](https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:49 |
-| 40 | [From This Moment On \- 1955 Version](https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:13 |
+| 40 | [Easy To Love](https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 |
 | 41 | [Always True To You \(In My Fashion\)](https://open.spotify.com/track/0106Y0rjTFd3aYvPQ91GKO) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Liberty Years](https://open.spotify.com/album/2sH9FC8gzWUaO5TV6gu1A6) | 2:31 |
 | 42 | [I Concentrate On You](https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 2:44 |
 | 43 | [I Am Loved](https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:25 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 54 | [Silk Stockings](https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [A Man and His Trombone](https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI) | 2:48 |
 | 55 | [Rap Tap on Wood](https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:39 |
 | 56 | [Looking at You](https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:53 |
-| 57 | [Get Out Of Town \(Med Andra Ord...\)](https://open.spotify.com/track/1CDWZYK3qVTuzjq6kFuI6m) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Vocal Collection](https://open.spotify.com/album/1uju5fPXQCF7PcnKUpQcoM) | 2:34 |
-| 58 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
+| 57 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
+| 58 | [Get Out Of Town \(Med Andra Ord...\)](https://open.spotify.com/track/1CDWZYK3qVTuzjq6kFuI6m) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Vocal Collection](https://open.spotify.com/album/1uju5fPXQCF7PcnKUpQcoM) | 2:34 |
 | 59 | [In the Still of the Night](https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Definitive Collection](https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7) | 2:45 |
 | 60 | [You Don't Remind Me](https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\) The Complete Recordings](https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv) | 2:48 |
 | 61 | [Use Your Imagination](https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:02 |

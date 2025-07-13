@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Carnival prep for wherever you are.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,800 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,922 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

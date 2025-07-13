@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Justin Bieber, Larissa Lambert, Drake, Dean Lewis, Olivia Dean, G Flip, Tyla + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,540 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,591 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 25 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:18 |
 | 26 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 |
 | 27 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
-| 28 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 28 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 29 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 |
 | 30 | [The High Cost Of Living \(feat\. Randy Houser\)](https://open.spotify.com/track/1eSAN832uY2F1RNnhjXilc) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [The High Cost Of Living \(feat\. Randy Houser\)](https://open.spotify.com/album/4PBDiGG3n0VpYjtBtw3Qle) | 3:22 |
 | 31 | [GR4VEY4RD SHIFT \(feat\. Headie One\)](https://open.spotify.com/track/0JSOw4gBnM8KIdj2BoYyks) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [4 \(Deluxe\)](https://open.spotify.com/album/1Hfzke6hFhtGPKITLiOLFk) | 3:36 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 67 | [Freaky](https://open.spotify.com/track/71EomyMddCS2DvEzIzx4WE) | [Ripley Alexander](https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K) | [Freaky](https://open.spotify.com/album/1UCXxZHoW9jhKkwOEW0Qtx) | 3:12 |
 | 68 | [Life Is A Jungle](https://open.spotify.com/track/4cSCzhrX0PJRFMQii1Os64) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Life Is A Jungle](https://open.spotify.com/album/5DJD5CKsnWLTnWdCs8isPu) | 1:29 |
 | 69 | [Kids](https://open.spotify.com/track/6hRenyTQSnZznOEV1XVuc6) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Kids](https://open.spotify.com/album/2QKLHy2s2eBknCfU3sC28j) | 4:13 |
-| 70 | [Black Man](https://open.spotify.com/track/4uN65YkcvoHVJdI9Q8zCPj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Black Man](https://open.spotify.com/album/6ILl9Q8JoNZhNkuRkjLPkY) | 2:40 |
+| 70 | [Black Man](https://open.spotify.com/track/4uN65YkcvoHVJdI9Q8zCPj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Black Man](https://open.spotify.com/album/6ILl9Q8JoNZhNkuRkjLPkY) | 2:42 |
 | 71 | [Big Ballers](https://open.spotify.com/track/3kDLtxH3Rtg6be0pY1qvn1) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Big Ballers](https://open.spotify.com/album/4Z0nmskLDXWchyUmO4Flp1) | 2:41 |
 | 72 | [Mkae Snese](https://open.spotify.com/track/0353M7de8aeuNdTXKPmhbY) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU) | [Gods Into Frauds](https://open.spotify.com/album/6jcRA0OXPWDdH1sTsRQimN) | 2:39 |
 | 73 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 |

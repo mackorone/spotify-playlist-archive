@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 64130,
+  "num_followers": 64157,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "J.S. Bach: French Suites Nos. 1-2 - Italian Concerto - Chromatic Fantasia and Fugue",
-        "url": "https://open.spotify.com/album/7k0tHm7AZrTLkYhP3ZwW9S"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 84973,
-      "name": "French Suite No. 2 in C Minor, BWV 813a: IV. Air",
-      "url": "https://open.spotify.com/track/3f04bt5DhYMwBiMREv9fhl"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "BACH, J.S.: Inventions and Sinfonias, BWV 772-801",
         "url": "https://open.spotify.com/album/6NKUJBfSBEwYFG33nSZff7"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 108626,
       "name": "3-Part Inventions (Sinfonias), BWV 787\u2013801: Sinfonia No. 6 in E Major, BWV 792",
       "url": "https://open.spotify.com/track/3WITzGIyp3OHKJGibSv8fq"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "J.S. Bach: French Suites Nos. 1-2 - Italian Concerto - Chromatic Fantasia and Fugue",
+        "url": "https://open.spotify.com/album/7k0tHm7AZrTLkYhP3ZwW9S"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 84973,
+      "name": "French Suite No. 2 in C Minor, BWV 813a: IV. Air",
+      "url": "https://open.spotify.com/track/3f04bt5DhYMwBiMREv9fhl"
     },
     {
       "added_at": "2025-01-24 04:00:20",

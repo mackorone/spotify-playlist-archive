@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAi1BK4JSDbtwA/+JpmyTgl",
+  "snapshot_id": "aHBUAAAAAADhCsBXeBr8scTQx+Mdc7vj",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Estoy Ardiendo",
+      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "12 A\u00f1os de Punkrock... Y No Mamadas",
         "url": "https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r"
       },
@@ -375,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 2",
-        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
       "artists": [
         {
@@ -384,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 218146,
-      "name": "\u00bfD\u00f3nde Est\u00e1s?",
-      "url": "https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A"
+      "duration_ms": 282946,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK"
     },
     {
       "added_at": null,
@@ -411,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
       },
       "artists": [
         {
@@ -420,41 +436,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 282946,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Estoy Ardiendo",
-      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 344920,
-      "name": "Ramillete de Piernas",
-      "url": "https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra"
+      "duration_ms": 218146,
+      "name": "\u00bfD\u00f3nde Est\u00e1s?",
+      "url": "https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 344920,
+      "name": "Ramillete de Piernas",
+      "url": "https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todos Estos A\u00f1os, Vol. 1",
         "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
       },
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+        "name": "Pinches Mariguanos",
+        "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
       },
       "artists": [
         {
@@ -516,41 +516,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 282240,
-      "name": "Y Sufrir\u00e1s",
-      "url": "https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 287066,
-      "name": "Brillando en la Obscuridad",
-      "url": "https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
-        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Todas Esas Lagrimas - En Vivo",
-      "url": "https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu"
+      "duration_ms": 211146,
+      "name": "Pinches Mariguanos",
+      "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
     },
     {
       "added_at": null,
@@ -575,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente: Mi Legado",
-        "url": "https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5"
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
       },
       "artists": [
         {
@@ -584,15 +552,15 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Me Gusta Tu Chava",
-      "url": "https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K"
+      "duration_ms": 282240,
+      "name": "Y Sufrir\u00e1s",
+      "url": "https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pinches Mariguanos",
-        "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
+        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
+        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
       },
       "artists": [
         {
@@ -600,29 +568,25 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 211146,
-      "name": "Pinches Mariguanos",
-      "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
+      "duration_ms": 320306,
+      "name": "Todas Esas Lagrimas - En Vivo",
+      "url": "https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pares y Duetos: Disco 1",
-        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
       "artists": [
         {
           "name": "Charlie Monttana",
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        },
-        {
-          "name": "Vago",
-          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
         }
       ],
-      "duration_ms": 179546,
-      "name": "D\u00e9jame Rocanrolearte",
-      "url": "https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1"
+      "duration_ms": 287066,
+      "name": "Brillando en la Obscuridad",
+      "url": "https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK"
     },
     {
       "added_at": null,
@@ -639,6 +603,22 @@
       "duration_ms": 186502,
       "name": "Menor de Edad",
       "url": "https://open.spotify.com/track/1grfsGcGQq3Unosd0KIvDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presente: Mi Legado",
+        "url": "https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Me Gusta Tu Chava",
+      "url": "https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K"
     },
     {
       "added_at": null,
@@ -668,9 +648,29 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Derramando Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
+      "duration_ms": 304800,
+      "name": "Ya No Te Tengo",
+      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pares y Duetos: Disco 1",
+        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
+        }
+      ],
+      "duration_ms": 179546,
+      "name": "D\u00e9jame Rocanrolearte",
+      "url": "https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1"
     },
     {
       "added_at": null,
@@ -691,8 +691,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Star",
-        "url": "https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA"
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "D\u00e9jenme Rockanrolear",
+      "url": "https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
       "artists": [
         {
@@ -700,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 254733,
-      "name": "No Te Mueras en Mi Casa",
-      "url": "https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q"
+      "duration_ms": 214853,
+      "name": "Derramando Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
     },
     {
       "added_at": null,
@@ -727,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+        "name": "Rock Star",
+        "url": "https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA"
       },
       "artists": [
         {
@@ -736,29 +756,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 304800,
-      "name": "Ya No Te Tengo",
-      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "D\u00e9jenme Rockanrolear",
-      "url": "https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ"
+      "duration_ms": 254733,
+      "name": "No Te Mueras en Mi Casa",
+      "url": "https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q"
     },
     {
       "added_at": null,

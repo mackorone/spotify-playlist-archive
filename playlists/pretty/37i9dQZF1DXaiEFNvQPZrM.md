@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,935 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,056 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 40 | [Sounds Like Something I'd Do](https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 2:26 |
 | 41 | [Shoebox Money](https://open.spotify.com/track/7zp625x7gldRjoBuvcZ1MP) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Shoebox Money](https://open.spotify.com/album/66Aq72ocAWuVw0dDI1LXci) | 2:56 |
 | 42 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
-| 43 | [Ol' Red](https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:41 |
-| 44 | [Fishin' in the Dark](https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs) | 3:22 |
+| 43 | [Fishin' in the Dark](https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs) | 3:22 |
+| 44 | [Ol' Red](https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:41 |
 | 45 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 |
 | 46 | [On My Way to You](https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:33 |
 | 47 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 89 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 90 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:14 |
 | 91 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
-| 92 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 |
+| 92 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 |
 | 93 | [Livin' On Love](https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:48 |
-| 94 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 |
+| 94 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 |
 | 95 | [Independence Day](https://open.spotify.com/track/2jOkuPweyFcDBBBF8ZW8Zr) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi) | 3:26 |
 | 96 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
 | 97 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Greatest Hits: From the Beginning](https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey) | 2:32 |

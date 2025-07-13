@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210785,
+      "name": "Desperate (with Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
+    },
+    {
+      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,036 likes - 97 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,010 likes - 97 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

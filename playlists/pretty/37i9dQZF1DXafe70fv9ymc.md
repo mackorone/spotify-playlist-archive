@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > sexy afrobeats
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,451 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,462 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 10 | [only u](https://open.spotify.com/track/2zmzogiVnesAdiv7FIoEfk) | [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [only u](https://open.spotify.com/album/3PigDoDoicbL7txnqGx0Uz) | 2:04 |
 | 11 | [Hurt](https://open.spotify.com/track/6iF7xOU7oyzahJZEcAt2UX) | [TAYORISTAR](https://open.spotify.com/artist/7a3geJwKwstBq2ZEarVcA6), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [PISHON](https://open.spotify.com/artist/5UwnnlEa1IDJQ0IJK1ZAJe) | [Hurt](https://open.spotify.com/album/2FLZXXnM5fkm98vuSfNq7i) | 2:52 |
 | 12 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 |
-| 13 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [WINNY](https://open.spotify.com/artist/1rNZLEs8N78iZIGqlKndvA) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
+| 13 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
 | 14 | [Nutin Dey Sup](https://open.spotify.com/track/52Dn7jVWcYmPRIWtijJw28) | [Tenorboy](https://open.spotify.com/artist/6g7RjmpJx5DrhSS7zmZQ9l) | [Nutin Dey Sup](https://open.spotify.com/album/4lXFbPA0LOgskRgolCLCnC) | 2:38 |
 | 15 | [Woo](https://open.spotify.com/track/7snE5wCCKT9NoU1M9H4NLF) | [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Conflicts of Interest](https://open.spotify.com/album/2yz7ohrkrAYCNCQECINttT) | 4:50 |
 | 16 | [Attention](https://open.spotify.com/track/16jBRxCexHXzOlBG0RApsQ) | [Cheska Cruz](https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ), [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY) | [Temper & Pleasure](https://open.spotify.com/album/51XN4vPEjkVIIZx4WhR9xY) | 2:26 |

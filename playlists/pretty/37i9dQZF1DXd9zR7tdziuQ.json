@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 954257,
+  "num_followers": 954323,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "All of Me - Live from Spotify Milan",
+      "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
         "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "All of Me - Live from Spotify Milan",
-      "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "The Tip Jar Volume One",
-        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
-      },
-      "artists": [
-        {
-          "name": "Obadiah Parker",
-          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "Hey Ya - solo version",
-      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Derivatives",
         "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 192639,
       "name": "I Kissed a Girl",
       "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "The Tip Jar Volume One",
+        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
+      },
+      "artists": [
+        {
+          "name": "Obadiah Parker",
+          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Hey Ya - solo version",
+      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Francesco Yates",
         "url": "https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 209449,
       "name": "Sugar - Acoustic",
       "url": "https://open.spotify.com/track/34hxvwFw9OmXVg3DO27V80"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Unchained Melody",
-        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 174837,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Unchained Melody",
+        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Once In a While (Acoustic)",
         "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 231582,
       "name": "Once In a While - Acoustic",
       "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Vault Playlist Vol. 1",
-        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 259569,
-      "name": "No One - Acoustic",
-      "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 202684,
       "name": "I Like Me Better - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Vault Playlist Vol. 1",
+        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 259569,
+      "name": "No One - Acoustic",
+      "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Sweet Child o\u2019 Mine",
-        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "All the Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 266626,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Sweet Child o\u2019 Mine",
+        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
     },
     {
       "added_at": "2024-07-10 07:20:21",

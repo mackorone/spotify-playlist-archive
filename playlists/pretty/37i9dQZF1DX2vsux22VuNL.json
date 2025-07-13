@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 292598,
+  "num_followers": 292607,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -527,8 +527,8 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+        "name": "Teu Sorriso",
+        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
       "artists": [
         {
@@ -536,13 +536,17 @@
           "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         }
       ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
+      "duration_ms": 183265,
+      "name": "Teu Sorriso",
+      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -643,8 +647,8 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Teu Sorriso",
-        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
       "artists": [
         {
@@ -652,17 +656,13 @@
           "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
         },
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 183265,
-      "name": "Teu Sorriso",
-      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Meus Olhos",
-        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 188548,
-      "name": "Meus Olhos",
-      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Busco Romance Love Show",
         "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
       },
@@ -1223,6 +1199,30 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 188548,
+      "name": "Meus Olhos",
+      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
         "name": "Arcano 19 (Deluxe)",
         "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
       },
@@ -1239,30 +1239,6 @@
       "duration_ms": 249798,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
-      },
-      "artists": [
-        {
-          "name": "Rezeh",
-          "url": "https://open.spotify.com/artist/3CYzvQKS4JWJ4fcD9uWBOW"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 92960,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1295,6 +1271,30 @@
       "duration_ms": 265862,
       "name": "Tudo Passa",
       "url": "https://open.spotify.com/track/2TgLIOWRhFToItn8YhgQrw"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
+      },
+      "artists": [
+        {
+          "name": "Rezeh",
+          "url": "https://open.spotify.com/artist/3CYzvQKS4JWJ4fcD9uWBOW"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 92960,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Sagitariano",
-        "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        }
-      ],
-      "duration_ms": 141125,
-      "name": "Sagitariano",
-      "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Sagitariano",
+        "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        }
+      ],
+      "duration_ms": 141125,
+      "name": "Sagitariano",
+      "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Casal de Uma Noite S\u00f3",
-        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        }
-      ],
-      "duration_ms": 149474,
-      "name": "Casal de Uma Noite S\u00f3",
-      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Da Cabe\u00e7a Aos P\u00e9s",
         "url": "https://open.spotify.com/album/7wp6Af27m0ibNimiWpceYC"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 131252,
       "name": "Da Cabe\u00e7a Aos P\u00e9s",
       "url": "https://open.spotify.com/track/09LHATplvixVD0wBwqAERR"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Casal de Uma Noite S\u00f3",
+        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        }
+      ],
+      "duration_ms": 149474,
+      "name": "Casal de Uma Noite S\u00f3",
+      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
     },
     {
       "added_at": "2025-06-13 03:00:19",

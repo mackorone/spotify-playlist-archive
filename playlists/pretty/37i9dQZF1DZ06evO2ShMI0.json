@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 202332,
+  "num_followers": 202356,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABGqn85gGN/B5kJf11xH3IW",
+  "snapshot_id": "aHBUAAAAAADCb43Tt7JIqS5z1lWaKA84",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habitaciones Extra\u00f1as",
-        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Sumar Tiempo No Es Sumar Amor",
-      "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 A\u00f1os Celebrando",
         "url": "https://open.spotify.com/album/5SEEUhmdbhGv7G8PViKi0W"
       },
@@ -715,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iconos del Urbano",
-        "url": "https://open.spotify.com/album/2MuCH6Ojk6f2ee9jXj1jJ4"
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
       },
       "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        },
         {
           "name": "Los Enanitos Verdes",
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 223360,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6QxZFxjeolNSKDmWHmU4VU"
+      "duration_ms": 219826,
+      "name": "Sumar Tiempo No Es Sumar Amor",
+      "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
     },
     {
       "added_at": null,
@@ -747,6 +727,26 @@
       "duration_ms": 355293,
       "name": "Lamento Boliviano - En Vivo",
       "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iconos del Urbano",
+        "url": "https://open.spotify.com/album/2MuCH6Ojk6f2ee9jXj1jJ4"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6QxZFxjeolNSKDmWHmU4VU"
     },
     {
       "added_at": null,

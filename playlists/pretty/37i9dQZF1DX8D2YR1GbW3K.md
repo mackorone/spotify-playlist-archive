@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,969 likes - 125 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,038 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,10 +128,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 118 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 |
 | 119 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 |
 | 120 | [Revolution \(feat\. Faustix, Imanos & Kai\)](https://open.spotify.com/track/5zG4pMcM2QILFOFL3Y3ZMf) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Revolution](https://open.spotify.com/album/5M0Jehr5jJAwdd23KwvayA) | 4:23 |
-| 121 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX) | 3:04 |
-| 122 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
-| 123 | [Apollo \- Radio Edit](https://open.spotify.com/track/5v54ZQ0glzbB9XUPTaX0cj) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Apollo](https://open.spotify.com/album/4ajH0rrtQDiVCY3wKFei55) | 3:29 |
-| 124 | [Till The Sky Falls Down](https://open.spotify.com/track/0wZDzY0ITlFKYApsjunEDR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Till The Sky Falls Down](https://open.spotify.com/album/6NQ8TKQpzWTQmhv7eUnMKD) | 3:50 |
-| 125 | [Higher Ground](https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/4e0s9NinQo02X4exDDmW65) | 3:19 |
+| 121 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
+| 122 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX) | 3:04 |
+| 123 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
+| 124 | [Apollo \- Radio Edit](https://open.spotify.com/track/5v54ZQ0glzbB9XUPTaX0cj) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Apollo](https://open.spotify.com/album/4ajH0rrtQDiVCY3wKFei55) | 3:29 |
+| 125 | [Till The Sky Falls Down](https://open.spotify.com/track/0wZDzY0ITlFKYApsjunEDR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Till The Sky Falls Down](https://open.spotify.com/album/6NQ8TKQpzWTQmhv7eUnMKD) | 3:50 |
 
 Snapshot ID: `Z67N6QAAAADpAAz/w1t2rcZJjOVsaecz`

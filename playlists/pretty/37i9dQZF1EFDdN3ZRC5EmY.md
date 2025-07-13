@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,924 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,923 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 32 | [F\*\*\* Being Friends](https://open.spotify.com/track/6QDi3G7ng3vWiIXQJntQSZ) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 2:31 |
 | 33 | [Basement \(Feat\. Jessie Reyez\)](https://open.spotify.com/track/2BzWMz80tzdFmVFHuyCMAp) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Basement \(Feat\. Jessie Reyez\)](https://open.spotify.com/album/2suvROVbQiZoG1H5qgSzPr) | 3:29 |
 | 34 | [Slow Down \(with Calvin Harris\)](https://open.spotify.com/track/43tgC5pTYJpc5D3C9HRwEg) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Normani x Calvin Harris](https://open.spotify.com/album/3OKTeMekMHZCvwlp7uttPE) | 3:25 |
-| 35 | [FAR AWAY](https://open.spotify.com/track/12H6iTEgiX4HPnCPphYSMk) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FAR AWAY](https://open.spotify.com/album/6oSnvw7yQpDFFTZIZA4Rxx) | 2:41 |
-| 36 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 |
+| 35 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 |
+| 36 | [FAR AWAY](https://open.spotify.com/track/12H6iTEgiX4HPnCPphYSMk) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FAR AWAY](https://open.spotify.com/album/6oSnvw7yQpDFFTZIZA4Rxx) | 2:41 |
 | 37 | [Fuck It](https://open.spotify.com/track/2iPo6qr1P0xQDWgbLCAJ7t) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 3:05 |
 | 38 | [Con El Viento](https://open.spotify.com/track/3uNu4hzWWquiRjPkhcUEHP) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Con El Viento](https://open.spotify.com/album/3NJFEJFYHiQPmfmbNF0OEw) | 3:44 |
 | 39 | [DO YOU LOVE HER](https://open.spotify.com/track/5NRCNo7S8HP7nxYIPxemwp) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:16 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 43 | [SCAR](https://open.spotify.com/track/1k9bH40gL6lCMIgHOsTDP8) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:06 |
 | 44 | [Phone Calls](https://open.spotify.com/track/4DgR4zgbO0vW5rYwyYUM6V) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Phone Calls](https://open.spotify.com/album/2hyqzu8QYVj8RazBhNZr7N) | 3:01 |
 | 45 | [DOPE](https://open.spotify.com/track/5e1XbU08FpBzNaK1XdKyvu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:37 |
-| 46 | [Saint Nobody](https://open.spotify.com/track/3ZFekh9adaBDBxugiWwIJU) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:13 |
-| 47 | [\*\*RIDIN \(with LIL WAYNE\)\*\*](https://open.spotify.com/track/1dxUGC87QHVjKwE8COBJmz) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 3:22 |
+| 46 | [\*\*RIDIN \(with LIL WAYNE\)\*\*](https://open.spotify.com/track/1dxUGC87QHVjKwE8COBJmz) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 3:22 |
+| 47 | [Saint Nobody](https://open.spotify.com/track/3ZFekh9adaBDBxugiWwIJU) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:13 |
 | 48 | [ANKLES](https://open.spotify.com/track/3ZWHzPucGUZvgNleqllzdK) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:49 |
 | 49 | [SAME SIDE](https://open.spotify.com/track/6KpQ6CbTu0j1GYrsv4WQDZ) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:10 |
 | 50 | [Cotton Candy](https://open.spotify.com/track/2Qk3arYe9kMXtwq5sc4cC7) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Cotton Candy](https://open.spotify.com/album/6RfOw8x2vmRaM6XZDJWQn0) | 2:14 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 73 | [Where Do We Come From? \(feat\. ISHMAEL & Elle Yaya\)](https://open.spotify.com/track/6RJjHt3ZaghTvtlu53AgeJ) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [ISHMAEL](https://open.spotify.com/artist/5zjOfDUpwoXpMQcWV9ULD4), [Elle Yaya](https://open.spotify.com/artist/5LmRH2CD6Qqn1H8Zc36dMR) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 6:09 |
 | 74 | [Brand New](https://open.spotify.com/track/4X8wy3qfk5GHUtR9JyrjR2) | [Young Quicks](https://open.spotify.com/artist/5WtvL5NDnjl0j1V29dpy9p) | [Young, Fly & Latino \(Y.F.L\)](https://open.spotify.com/album/1D6CZYk8M3RIbeVgDipD87) | 3:54 |
 
-Snapshot ID: `Ab2haAAAAACLWAljjlY5RSzYAsjPZi+z`
+Snapshot ID: `Ab2m/gAAAABZi24OKWq5bv+M5QFkg+Js`

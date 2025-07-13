@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
+      },
+      "artists": [
+        {
+          "name": "Mitsuto Suzuki",
+          "url": "https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "Nova Chrysalia",
+      "url": "https://open.spotify.com/track/5Rwl7wtGoQWVcqtZCBUNy2"
+    },
+    {
+      "album": {
         "name": "Before the Fall: FINAL FANTASY XIV Original Soundtrack",
         "url": "https://open.spotify.com/album/49PRWA2vUs2zT6jlq8RC4Q"
       },
@@ -3292,7 +3310,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 271573,
       "name": "The Ark",
       "url": "https://open.spotify.com/track/52owa26O52mjroTJTfnHGI"
@@ -3764,7 +3782,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 194800,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/3d8yEcvpn1IFT4TXBtupNP"
@@ -3926,7 +3944,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 199466,
       "name": "Welcome Home - Journey's End",
       "url": "https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > Almost forgot that this was the whole point ∼ all the best instrumentals & sounds from the internet 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,392 likes - 115 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,542 likes - 115 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

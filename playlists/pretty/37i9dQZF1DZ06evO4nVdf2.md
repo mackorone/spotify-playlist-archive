@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,884 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,891 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 8 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
 | 9 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 |
 | 10 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
-| 11 | [Película \- Intervenida por Ximena Sariñana](https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Película \(Intervenida por Ximena Sariñana\)](https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS) | 4:03 |
-| 12 | [Histéricos](https://open.spotify.com/track/0b7VF2YIpjMOtcTh2NAPX7) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 3:33 |
+| 11 | [Histéricos](https://open.spotify.com/track/0b7VF2YIpjMOtcTh2NAPX7) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 3:33 |
+| 12 | [Película \- Intervenida por Ximena Sariñana](https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Película \(Intervenida por Ximena Sariñana\)](https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS) | 4:03 |
 | 13 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 |
 | 14 | [Leaveyourlove \(with Ximena Sariñana, Rawayana\)](https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Leaveyourlove \(with Ximena Sariñana, Rawayana\)](https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF) | 3:02 |
 | 15 | [Una Vez Más](https://open.spotify.com/track/51QA40kISsnSTsjwO2mspY) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [Monitor](https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:23 |
 | 50 | [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 |
 
-Snapshot ID: `aG8CgAAAAADOigA36AADr2HaLwjj6IJT`
+Snapshot ID: `aHBUAAAAAABDH5JWzlE+A1FBLJxFdlgY`

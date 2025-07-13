@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,127 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,197 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 60 | [Karma Chameleon](https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 4:01 |
 | 61 | [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 |
 | 62 | [Shut Up and Dance](https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD \(Expanded Edition\)](https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy) | 3:19 |
-| 63 | [Bring It All Back](https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [S Club](https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5) | 3:34 |
-| 64 | [Uptown Girl](https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:14 |
+| 63 | [Uptown Girl](https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:14 |
+| 64 | [Bring It All Back](https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [S Club](https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5) | 3:34 |
 | 65 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
 | 66 | [The Best \- Edit](https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:15 |
 | 67 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 94 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm) | 3:50 |
 | 95 | [Livin' On A Prayer](https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 4:10 |
 | 96 | [Celebration \- Single Version](https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebration / Morning Star](https://open.spotify.com/album/5RyMdc2cQbURYCUDbzjR6w) | 3:35 |
-| 97 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 |
-| 98 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic) | 4:44 |
+| 97 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic) | 4:44 |
+| 98 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 |
 | 99 | [I'm Coming Out](https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls) | 5:25 |
 | 100 | [Let's Dance \- 1999 Remaster](https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 7:37 |
 

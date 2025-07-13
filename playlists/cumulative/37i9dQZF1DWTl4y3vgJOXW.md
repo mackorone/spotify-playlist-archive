@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Fourth quarter, two minutes left .\. get locked in\. Cover: Cooper Flagg and Bronny James
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Fourth quarter, two minutes left .\. get locked in\. Cover: Cooper Flagg and Dylan Harper
 
 818 songs - 1 day 17 hr 58 min
 

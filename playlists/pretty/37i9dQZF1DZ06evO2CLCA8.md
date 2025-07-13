@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 992 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 46 | [The Wild One, Forever](https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 3:03 |
 | 47 | [Alright for Now \- Live](https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 2:49 |
 | 48 | [Nightwatchman](https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:57 |
-| 49 | [Have Love, Will Travel](https://open.spotify.com/track/6712My4wA0OcvobBeTJttw) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Last DJ](https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i) | 4:05 |
+| 49 | [Good Enough](https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 5:50 |
 | 50 | [Mystery Man](https://open.spotify.com/track/08aq0woLggpJoUYep1XgN5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 3:03 |
 
-Snapshot ID: `aG8CgAAAAAATGY1Cs+tBKO81hL8t5Dqx`
+Snapshot ID: `aHBUAAAAAADMFO//VCRxX5xWGwOd4K9K`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,758 likes - 89 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,769 likes - 89 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 12 | [Sideshow](https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2) | [Blue Magic](https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw) | [Blue Magic](https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE) | 4:11 |
 | 13 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
 | 14 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 |
-| 15 | [When a Man Loves a Woman](https://open.spotify.com/track/28BRtnfZBzXk4Bxv1FvwXC) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [When a Man Loves a Woman](https://open.spotify.com/album/2u2ihiB1HVtCAMPCcCbKZc) | 3:26 |
-| 16 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
+| 15 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
+| 16 | [When a Man Loves a Woman](https://open.spotify.com/track/28BRtnfZBzXk4Bxv1FvwXC) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [When a Man Loves a Woman](https://open.spotify.com/album/2u2ihiB1HVtCAMPCcCbKZc) | 3:26 |
 | 17 | [A Warm Summer Night](https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 6:04 |
 | 18 | [A Woman Needs Love \(Just Like You Do\)](https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 4:09 |
 | 19 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |

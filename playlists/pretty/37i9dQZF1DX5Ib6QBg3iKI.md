@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,360 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,354 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 55 | [My Favorite Things](https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [My Favorite Things](https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt) | 3:11 |
 | 56 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
 | 57 | [Christmas Song](https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4) | 3:41 |
-| 58 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
-| 59 | [Last December \(Mountain Music version\)](https://open.spotify.com/track/0tdpnqesuLkETArM451kAP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Last December \(Mountain Music version\)](https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi) | 5:35 |
+| 58 | [Last December \(Mountain Music version\)](https://open.spotify.com/track/0tdpnqesuLkETArM451kAP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Last December \(Mountain Music version\)](https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi) | 5:35 |
+| 59 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
 | 60 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
 | 61 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 |
 | 62 | [Missing You](https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Missing You](https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f) | 4:26 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 75 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 76 | [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 |
 | 77 | [Love you left behind](https://open.spotify.com/track/5O6GzzlNZWfA2ypvIIZSzB) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love you left behind](https://open.spotify.com/album/4WuvIZzFcOzJ8UiERabXGN) | 3:12 |
-| 78 | [Christmastide](https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Christmastide](https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4) | 3:44 |
-| 79 | [The One \- Christmas Version](https://open.spotify.com/track/1yrybKSmjixau95vLljPyP) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The One \(Christmas Version\)](https://open.spotify.com/album/6l3XYPsZaXS9GQUr9RTgpV) | 3:28 |
+| 78 | [The One \- Christmas Version](https://open.spotify.com/track/1yrybKSmjixau95vLljPyP) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The One \(Christmas Version\)](https://open.spotify.com/album/6l3XYPsZaXS9GQUr9RTgpV) | 3:28 |
+| 79 | [Christmastide](https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Christmastide](https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4) | 3:44 |
 | 80 | [What I Want For Xmas](https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4) | [Orba Squara](https://open.spotify.com/artist/4SzP9GTvwqU4FzL68ZJdMX) | [What I Want For Xmas](https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w) | 2:54 |
 
 Snapshot ID: `Z1v/tAAAAAC1Ix7S5+z2z8WUXx+uo112`

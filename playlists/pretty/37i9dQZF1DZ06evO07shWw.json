@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 8983,
+  "num_followers": 8984,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADwbdSLcOjQ+N0UCLlKGPpv",
+  "snapshot_id": "aHBUAAAAAADal9sgJShGXGPgKyu0wcY1",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On the Road Again (ACM Lifting Lives Edition) [feat. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen]",
         "url": "https://open.spotify.com/album/30rdiduDKCF2u35tlagbOP"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 160079,
       "name": "On the Road Again (ACM Lifting Lives Edition) [feat. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen]",
       "url": "https://open.spotify.com/track/3cHY2wfceJZ3wcsOuvi1a9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 183591,
       "name": "Here for It (feat. Ingrid Andress)",
       "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": null,

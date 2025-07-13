@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 96693,
+  "num_followers": 96766,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAB1gzDa0Z5rU9y0lhCD7+Eg",
+  "snapshot_id": "aHBUAAAAAAA9mnPoU1eQVzARGYbGU7lT",
   "tracks": [
     {
       "added_at": null,
@@ -487,18 +487,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
       "artists": [
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 130226,
-      "name": "Gist",
-      "url": "https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K"
+      "duration_ms": 193013,
+      "name": "When You Down (with Polo G feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
     },
     {
       "added_at": null,
@@ -535,30 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "When You Down (with Polo G feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9"
+      "duration_ms": 130226,
+      "name": "Gist",
+      "url": "https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REPEAT IT",
         "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 140659,
-      "name": "Need Me",
-      "url": "https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 140659,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT"
     },
     {
       "added_at": null,

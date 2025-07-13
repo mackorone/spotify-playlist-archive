@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,091 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,161 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 34 | [BEAUTIFUL HANGOVER](https://open.spotify.com/track/1Z9metSk7L35CWSbVzoP2w) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BEAUTIFUL HANGOVER](https://open.spotify.com/album/0T3kfOUAUkhzvrPUm6sxxA) | 3:43 |
 | 35 | [A Fool Of Tears](https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 4:02 |
 | 36 | [What Is Right](https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:44 |
-| 37 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
-| 38 | [SUPER STAR \- BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB) | 4:04 |
+| 37 | [SUPER STAR \- BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB) | 4:04 |
+| 38 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
 | 39 | [Baby Baby \- Japanese Version](https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [THE BEST OF BIGBANG 2006\-2014](https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp) | 3:53 |
 | 40 | [Ego](https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:25 |
 | 41 | [Wonderful](https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 49 | [Hands Up](https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:57 |
 | 50 | [Big Boy \(T.O.P Solo\)](https://open.spotify.com/track/0MTvnT0Hn4UUnqY6Z8PieG) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:18 |
 
-Snapshot ID: `aG8CgAAAAAAT4oZK4S4GV4VNmQNxqmI6`
+Snapshot ID: `aHBUAAAAAADvBEvPVzfGd8CkeVHt/Ydf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,187 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,213 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 49 | [Error](https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Error](https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u) | 3:29 |
 | 50 | [A Mí No](https://open.spotify.com/track/5UJ0ekAw8exus0fvaUWSZ8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:09 |
 
-Snapshot ID: `aG8CgAAAAAB1OVCkl77PfdObYdYI6w8m`
+Snapshot ID: `aHBUAAAAAACB9Mx5KisJOIdQmbWdMilF`

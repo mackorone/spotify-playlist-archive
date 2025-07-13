@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Lizzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,305 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,430 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

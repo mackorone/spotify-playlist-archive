@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAmhEqpETHUNImYrg44TQdB",
+  "snapshot_id": "aHBUAAAAAADPQcso63dhgB/91CtZ3EEL",
   "tracks": [
     {
       "added_at": null,
@@ -20,13 +20,17 @@
           "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         },
         {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 281924,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5J3fgcOgOkb19CYSTeBP9g"
+      "duration_ms": 341376,
+      "name": "Har\u00e9m",
+      "url": "https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig"
     },
     {
       "added_at": null,
@@ -116,17 +120,13 @@
           "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         },
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 341376,
-      "name": "Har\u00e9m",
-      "url": "https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig"
+      "duration_ms": 281924,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5J3fgcOgOkb19CYSTeBP9g"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 240489,
-      "name": "Sintonize",
-      "url": "https://open.spotify.com/track/4pWyranTmpQAApnSRgNuu3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Rimo Por Grammys",
         "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 125648,
       "name": "N\u00e3o Rimo Por Grammys",
       "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 240489,
+      "name": "Sintonize",
+      "url": "https://open.spotify.com/track/4pWyranTmpQAApnSRgNuu3"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 173285,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JazzKilla",
         "url": "https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S"
       },
@@ -507,26 +523,6 @@
       "duration_ms": 290756,
       "name": "M\u00e3o Direita / Amor",
       "url": "https://open.spotify.com/track/40x2EoFg27mQrvRChXFthk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Steez",
-        "url": "https://open.spotify.com/album/5OSxlvN0gkzU3bpa17OXYy"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Steez",
-      "url": "https://open.spotify.com/track/2pl34rFhkva9jvDMkReTxm"
     },
     {
       "added_at": null,
@@ -563,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Steez",
+        "url": "https://open.spotify.com/album/5OSxlvN0gkzU3bpa17OXYy"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Steez",
+      "url": "https://open.spotify.com/track/2pl34rFhkva9jvDMkReTxm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L\u00e1 Fora",
         "url": "https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 191961,
       "name": "L\u00e1 Fora",
       "url": "https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 173285,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 175934,
-      "name": "Blas\u00e9",
-      "url": "https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicodelic",
         "url": "https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR"
       },
@@ -763,22 +747,6 @@
       "duration_ms": 250918,
       "name": "Um Acorde",
       "url": "https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 194833,
-      "name": "Intro 11",
-      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
     },
     {
       "added_at": null,
@@ -807,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 194833,
+      "name": "Intro 11",
+      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Fauve",
         "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
       },
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 166160,
-      "name": "Seda",
-      "url": "https://open.spotify.com/track/4FKozZpmF32Iv4LzHhuO12"
+      "duration_ms": 175934,
+      "name": "Blas\u00e9",
+      "url": "https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq"
     },
     {
       "added_at": null,
@@ -847,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 232222,
-      "name": "N\u00e3o Sei Se Me Ouvem",
-      "url": "https://open.spotify.com/track/35qEQQP7yqzRlEoYj6zcyM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DCAC - de C\u00e9sar a Cristo",
         "url": "https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl"
       },
@@ -883,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 232222,
+      "name": "N\u00e3o Sei Se Me Ouvem",
+      "url": "https://open.spotify.com/track/35qEQQP7yqzRlEoYj6zcyM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Fauve",
         "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
       },
@@ -892,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 155930,
-      "name": "Eu e Tu",
-      "url": "https://open.spotify.com/track/0mndNKokpOpH5OJYmp3D9v"
+      "duration_ms": 166160,
+      "name": "Seda",
+      "url": "https://open.spotify.com/track/4FKozZpmF32Iv4LzHhuO12"
     },
     {
       "added_at": null,
@@ -919,26 +903,6 @@
       "duration_ms": 335146,
       "name": "Intro 11",
       "url": "https://open.spotify.com/track/5rvzn08qm73r3eVsfpIJB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Manoela Fortuna",
-          "url": "https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "Sem Distra\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
     },
     {
       "added_at": null,
@@ -975,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Manoela Fortuna",
+          "url": "https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Sem Distra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Fauve",
         "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
       },
@@ -984,9 +968,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 162684,
-      "name": "PSLS",
-      "url": "https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS"
+      "duration_ms": 155930,
+      "name": "Eu e Tu",
+      "url": "https://open.spotify.com/track/0mndNKokpOpH5OJYmp3D9v"
     },
     {
       "added_at": null,
@@ -1003,6 +987,30 @@
       "duration_ms": 348097,
       "name": "HORA DOURADA",
       "url": "https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POPART",
+        "url": "https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG"
+      },
+      "artists": [
+        {
+          "name": "Florence Lil Flowers",
+          "url": "https://open.spotify.com/artist/2ZaGPYpUTu3nF9s4nivmt0"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Fp",
+          "url": "https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC"
+        }
+      ],
+      "duration_ms": 193881,
+      "name": "Se A Rua Fosse Minha",
+      "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
     }
   ],
   "unique_name": "This Is Zudizilla",

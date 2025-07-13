@@ -4,7 +4,7 @@
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 8 min
+78 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 | 2023-10-10 |  |
 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 | 2023-10-10 |  |
 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 | 2023-10-10 |  |
+| [Type Dangerous \- The Brazil Funk Remix](https://open.spotify.com/track/7xa8fAugOwINDATQGs8y8J) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Type Dangerous \- The Remixes](https://open.spotify.com/album/7Jv4EKxbrxJYaatg4lSd4v) | 2:26 | 2025-07-13 |  |
 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 | 2024-07-18 | 2024-07-19 |
 | [Você Me Vira A Cabeça \(Me Tira Do Sério\) / Depois Do Prazer \- Ao Vivo](https://open.spotify.com/track/0qA748lp4sQSrXzxj7KrFq) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Resenha Do Mumu \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/4iLtLzfRb7oXYLmAkFU6A2) | 5:30 | 2023-10-10 | 2023-11-11 |
 | [What We Are \(with Luísa Sonza\)](https://open.spotify.com/track/6Z59PmHDQDJxjo5UnXky6n) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:34 | 2025-05-25 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 129195,
+  "num_followers": 129225,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Nearness Of You: The Ballad Book",
-        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
       "artists": [
         {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 383626,
-      "name": "Midnight Mood",
-      "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Nearness Of You: The Ballad Book",
+        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Midnight Mood",
+      "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Fuchsia Swing Song",
         "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 372306,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "New Time, New 'Tet",
-        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 453133,
-      "name": "From Dream to Dream",
-      "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Shape Of Jazz To Come",
-        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+        "name": "New Time, New 'Tet",
+        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
       },
       "artists": [
         {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
         }
       ],
-      "duration_ms": 544826,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
+      "duration_ms": 453133,
+      "name": "From Dream to Dream",
+      "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1143,6 +1127,22 @@
       "duration_ms": 178866,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Shape Of Jazz To Come",
+        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 544826,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
-        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
-      },
-      "artists": [
-        {
-          "name": "Roland Kirk Quartet",
-          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Jacknife (2002 Remastered)",
         "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 549520,
       "name": "Zec",
       "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
+        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
+      },
+      "artists": [
+        {
+          "name": "Roland Kirk Quartet",
+          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered 2000",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Congregation (Expanded Edition)",
         "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 449293,
       "name": "I Remember You - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered 2000",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Analog Man",
+        "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
+      },
+      "artists": [
+        {
+          "name": "Ernie Watts",
+          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
+        }
+      ],
+      "duration_ms": 605013,
+      "name": "Joshua",
+      "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
       },
@@ -1947,18 +1963,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Analog Man",
-        "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
+        "name": "Tex Book Tenor (Remastered)",
+        "url": "https://open.spotify.com/album/0hmnZqB7XUdFhOXqW7Ivgl"
       },
       "artists": [
         {
-          "name": "Ernie Watts",
-          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
+          "name": "Booker Ervin",
+          "url": "https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy"
         }
       ],
-      "duration_ms": 605013,
-      "name": "Joshua",
-      "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
+      "duration_ms": 458560,
+      "name": "Den Tex - 2005 Remastered",
+      "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1975,22 +1991,6 @@
       "duration_ms": 485920,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Tex Book Tenor (Remastered)",
-        "url": "https://open.spotify.com/album/0hmnZqB7XUdFhOXqW7Ivgl"
-      },
-      "artists": [
-        {
-          "name": "Booker Ervin",
-          "url": "https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy"
-        }
-      ],
-      "duration_ms": 458560,
-      "name": "Den Tex - 2005 Remastered",
-      "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Pushing the World Away",
-        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "A Side Order of Hijiki",
-      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Triptykon",
         "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 447600,
       "name": "J.E.V.",
       "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Pushing the World Away",
+        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "A Side Order of Hijiki",
+      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "David Liebman Quartet / Quintet Live",
-        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
-      },
-      "artists": [
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        }
-      ],
-      "duration_ms": 799425,
-      "name": "The Last Train",
-      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Moving In",
         "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 463640,
       "name": "The Forest",
       "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "David Liebman Quartet / Quintet Live",
+        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
+      },
+      "artists": [
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        }
+      ],
+      "duration_ms": 799425,
+      "name": "The Last Train",
+      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
     },
     {
       "added_at": "2024-07-17 12:24:10",

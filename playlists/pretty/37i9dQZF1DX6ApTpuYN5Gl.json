@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243884,
+  "num_followers": 243894,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 192122,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
     },
     {
       "added_at": "2024-08-01 10:59:15",

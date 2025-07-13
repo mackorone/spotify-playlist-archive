@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,274 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,429 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 26 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 27 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 28 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
-| 29 | [Sacrifice](https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH) | [London After Midnight](https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer) | [Selected Scenes from the End of the World](https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN) | 7:35 |
+| 29 | [Temple of Love \- 1992](https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT) | 8:08 |
 | 30 | [PLEASE COME TO ME](https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [PLEASE COME TO ME](https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk) | 6:53 |
-| 31 | [Temple of Love \- 1992](https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT) | 8:08 |
+| 31 | [Sacrifice](https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH) | [London After Midnight](https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer) | [Selected Scenes from the End of the World](https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN) | 7:35 |
 | 32 | [Be My Druidess](https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 5:25 |
 | 33 | [Blasphemous Rumours](https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 6:21 |
 | 34 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 56 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
 | 57 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
 | 58 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
-| 59 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
-| 60 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
+| 59 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
+| 60 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
 | 61 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
 | 62 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
 | 63 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 76 | [Adrenaline](https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw) | [Rosetta Stone](https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK) | [Adrenaline](https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4) | 3:40 |
 | 77 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 |
 | 78 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 |
-| 79 | [A Failure](https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l) | [Lycia](https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE) | [In Flickers](https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI) | 4:57 |
-| 80 | [Astrónomo Insumiso](https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc) | [Equinoxious](https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ) | [Cosmódromo](https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC) | 4:45 |
+| 79 | [Astrónomo Insumiso](https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc) | [Equinoxious](https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ) | [Cosmódromo](https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC) | 4:45 |
+| 80 | [A Failure](https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l) | [Lycia](https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE) | [In Flickers](https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI) | 4:57 |
 
 Snapshot ID: `Z7TVbQAAAAByl2vGXem4XZXqxq5TQEqt`

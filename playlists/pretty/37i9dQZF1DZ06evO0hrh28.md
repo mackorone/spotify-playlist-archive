@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,376 likes - 47 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,513 likes - 47 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 46 | [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 |
 | 47 | [Recalienta](https://open.spotify.com/track/2O0WiTabKj4e5CdY1mIFe4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Recalienta](https://open.spotify.com/album/5R757Dq6goWEZpF0Sym23i) | 3:18 |
 
-Snapshot ID: `aG8CgAAAAAAQSYAF3VwH2tjY2352+PuL`
+Snapshot ID: `aHBUAAAAAABHhw2CeeDx8gsYaJeLe7h7`

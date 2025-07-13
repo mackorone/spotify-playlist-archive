@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 116546,
+  "num_followers": 116591,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAABBBT/Ud29sZV0z20UaxcC/",
+  "snapshot_id": "aHBUAAAAAABd291uQX8cETl5yjOJMZIC",
   "tracks": [
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+      "duration_ms": 178918,
+      "name": "Apple Cider",
+      "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loveworm",
-        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 178918,
-      "name": "Apple Cider",
-      "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 255021,
-      "name": "The Way I Spoke",
-      "url": "https://open.spotify.com/track/4NuAQGfKJhrJnTtBSMNrtz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 222357,
       "name": "Last Day On Earth",
       "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 255021,
+      "name": "The Way I Spoke",
+      "url": "https://open.spotify.com/track/4NuAQGfKJhrJnTtBSMNrtz"
     },
     {
       "added_at": null,

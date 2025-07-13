@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Indra Sinaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,056 likes - 87 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,067 likes - 87 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

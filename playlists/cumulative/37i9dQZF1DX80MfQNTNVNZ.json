@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
+    {
+      "album": {
         "name": "Disco Pantz",
         "url": "https://open.spotify.com/album/17RXQxm5hjvPqret5I2t5D"
       },
@@ -4128,6 +4146,32 @@
       "duration_ms": 255653,
       "name": "Henny & Gingerale",
       "url": "https://open.spotify.com/track/2ubWMkupre71UroJq7NWkc"
+    },
+    {
+      "album": {
+        "name": "City View / Her",
+        "url": "https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "Slom",
+          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176125,
+      "name": "Her (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/2ZzrfN3WJf8oKopPshisl1"
     },
     {
       "album": {
@@ -7378,7 +7422,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 198186,
       "name": "Pined For You My Whole Life",
       "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
@@ -7782,7 +7826,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 191026,
       "name": "Roll (Burbank Funk)",
       "url": "https://open.spotify.com/track/01bfHCsUTwydXCHP1VoLlI"

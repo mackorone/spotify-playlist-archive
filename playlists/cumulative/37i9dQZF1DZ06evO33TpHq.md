@@ -4,7 +4,7 @@
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 53 min
+63 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 | 2024-05-24 |  |
 | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/track/6B7ptdnKOpm4I4hPXkZWQs) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:14 | 2024-05-24 | 2025-04-16 |
 | [Isn't He Good](https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:18 | 2024-05-24 |  |
-| [ISN'T HE GOOD • HOMETOWN VERSION](https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:47 | 2024-05-24 |  |
+| [ISN'T HE GOOD • HOMETOWN VERSION](https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:47 | 2024-05-24 | 2025-07-13 |
 | [It's Always Been You](https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:01 | 2024-05-24 |  |
 | [Just Too Good](https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf) | 3:23 | 2024-08-09 | 2025-04-21 |
 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 | 2024-05-24 |  |
@@ -47,6 +47,7 @@
 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj) | 4:32 | 2024-05-24 |  |
 | [RELATIONSHIP • HOMETOWN VERSION](https://open.spotify.com/track/4ygZXRhD40OUyjZiexB0mC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:53 | 2024-05-24 | 2025-04-01 |
 | [Song In My Soul \(feat\. Hollyn\)](https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 3:51 | 2024-05-24 |  |
+| [Song Of The Saints](https://open.spotify.com/track/2ya8YwRadzYVOUzzIfidFH) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/4UyZLGgzMu6jDcVAre7NhO) | 6:00 | 2025-07-13 |  |
 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 | 2024-05-24 |  |
 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 | 2024-05-24 |  |
 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 | 2024-05-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 339158,
+  "num_followers": 339219,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADG1NOwZmToBsNl/9GpogZM",
+  "snapshot_id": "aHBUAAAAAADFtBaaDCiO/6g4edNpWmRP",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los de 100pre",
-        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mo\u00f1os Negros",
         "url": "https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 203650,
       "name": "Mo\u00f1os Negros",
       "url": "https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los de 100pre",
+        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2"
     },
     {
       "added_at": null,

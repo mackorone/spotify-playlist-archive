@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 70087,
+  "num_followers": 70086,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MASC0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MAXWqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "KSN (PINTLICH REMIX)",
         "url": "https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "brat",
         "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "Dr\u017e P\u00ed\u010du",
         "url": "https://open.spotify.com/album/5NlYE3vpzXpqKpLZ0bDeZm"
@@ -121,7 +121,39 @@
       "url": "https://open.spotify.com/track/2ZzfGLEbvSDoNEomyZqKvV"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Syndrom",
+      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Val\u010d\u00edk",
+        "url": "https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx"
+      },
+      "artists": [
+        {
+          "name": "Neny",
+          "url": "https://open.spotify.com/artist/1zh9JkZhBzTtkd2WztHgmt"
+        }
+      ],
+      "duration_ms": 175172,
+      "name": "Val\u010d\u00edk",
+      "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "KHAOSAN",
         "url": "https://open.spotify.com/album/6MEheNIi6APYSpavv3ABAl"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/012j2O6GP7Au0NZDDkgU2g"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -161,71 +193,7 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Syndrom",
-      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Val\u010d\u00edk",
-        "url": "https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx"
-      },
-      "artists": [
-        {
-          "name": "Neny",
-          "url": "https://open.spotify.com/artist/1zh9JkZhBzTtkd2WztHgmt"
-        }
-      ],
-      "duration_ms": 175172,
-      "name": "Val\u010d\u00edk",
-      "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "P\u00e1tky",
-      "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -245,7 +213,43 @@
       "url": "https://open.spotify.com/track/1x1gDfbVvPYm8gaRVhDhIl"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Bieber Fever Tour Life",
+        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "STEIN27",
+          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "V\u00edtej mezi n\u00e1ma (feat. STEIN27)",
+      "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/3aOx0BcJHnzo0STXDmhDdQ"
@@ -265,7 +269,43 @@
       "url": "https://open.spotify.com/track/59Pro01fS9Ucy2HseMArGa"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "THE V TAPE",
+        "url": "https://open.spotify.com/album/1mjFxVkjuDSL3eZip5aZSp"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        },
+        {
+          "name": "Vla\u010fkySyn",
+          "url": "https://open.spotify.com/artist/6d8PTYiQEY5OoMWvo3VcJJ"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "FULL PACKAGE",
+      "url": "https://open.spotify.com/track/0AmTKL52oatGQtX0WOqXUa"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "P\u00e1tky",
+      "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "brat",
         "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
@@ -293,43 +333,7 @@
       "url": "https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "STEIN27",
-          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "V\u00edtej mezi n\u00e1ma (feat. STEIN27)",
-      "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "HOMEMADE",
-        "url": "https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc"
-      },
-      "artists": [
-        {
-          "name": "Slav\u00ed\u010dek",
-          "url": "https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l"
-        }
-      ],
-      "duration_ms": 197489,
-      "name": "A\u017e po u\u0161i",
-      "url": "https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/1bKLXiByaeLjSj8AjfMO75"
@@ -345,7 +349,23 @@
       "url": "https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "HOMEMADE",
+        "url": "https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc"
+      },
+      "artists": [
+        {
+          "name": "Slav\u00ed\u010dek",
+          "url": "https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l"
+        }
+      ],
+      "duration_ms": 197489,
+      "name": "A\u017e po u\u0161i",
+      "url": "https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -369,27 +389,7 @@
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "KHAOSAN",
-        "url": "https://open.spotify.com/album/6MEheNIi6APYSpavv3ABAl"
-      },
-      "artists": [
-        {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
-        },
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/203SIQ9JLDE0Es5JPP8YdG"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "THE V TAPE",
         "url": "https://open.spotify.com/album/1mjFxVkjuDSL3eZip5aZSp"
@@ -413,30 +413,10 @@
       "url": "https://open.spotify.com/track/2weu3gdoKghYJcPqq5plE3"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
-        "name": "THE V TAPE",
-        "url": "https://open.spotify.com/album/1mjFxVkjuDSL3eZip5aZSp"
-      },
-      "artists": [
-        {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
-        },
-        {
-          "name": "Vla\u010fkySyn",
-          "url": "https://open.spotify.com/artist/6d8PTYiQEY5OoMWvo3VcJJ"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "FULL PACKAGE",
-      "url": "https://open.spotify.com/track/0AmTKL52oatGQtX0WOqXUa"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
       "artists": [
         {
@@ -446,10 +426,30 @@
       ],
       "duration_ms": 268840,
       "name": "Rock That Body",
-      "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
+      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "KHAOSAN",
+        "url": "https://open.spotify.com/album/6MEheNIi6APYSpavv3ABAl"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/203SIQ9JLDE0Es5JPP8YdG"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "BBL",
         "url": "https://open.spotify.com/album/4FD5UxTqUt0wCRobdlYuVI"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/5oKp0X19SzHnBujp10QTmr"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -497,7 +497,47 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Sez\u00f3na",
+        "url": "https://open.spotify.com/album/5BRT0G9pSQVC36GDerQjzk"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "Sez\u00f3na",
+      "url": "https://open.spotify.com/track/6xf7MCdEyF6idcpkrHzQgI"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "Saf\u00edr",
+      "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
@@ -525,83 +565,23 @@
       "url": "https://open.spotify.com/track/3QCRSIRZyCM2JjR4DTiwzF"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
-        "name": "Sez\u00f3na",
-        "url": "https://open.spotify.com/album/5BRT0G9pSQVC36GDerQjzk"
+        "name": "Singles & Specials",
+        "url": "https://open.spotify.com/album/6o7S3ke26XfkAXw3holB5E"
       },
       "artists": [
         {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
         }
       ],
-      "duration_ms": 190987,
-      "name": "Sez\u00f3na",
-      "url": "https://open.spotify.com/track/6xf7MCdEyF6idcpkrHzQgI"
+      "duration_ms": 223000,
+      "name": "Na ost\u0159\u00ed no\u017ee",
+      "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "ROADTRIP",
-        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "Saf\u00edr",
-      "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Traphouse",
-        "url": "https://open.spotify.com/album/5K8SJOQKB7NNxB5rSa20NA"
-      },
-      "artists": [
-        {
-          "name": "THE MAG",
-          "url": "https://open.spotify.com/artist/6vfjRdM3Km8PXyuCpIapD9"
-        },
-        {
-          "name": "Chawo",
-          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "Traphouse",
-      "url": "https://open.spotify.com/track/4yfL2UTITpAZ7btpfl7wax"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "KSN (PINTLICH REMIX)",
         "url": "https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ"
@@ -621,55 +601,75 @@
       "url": "https://open.spotify.com/track/6nA0cdwzqjonuNLAUTix1B"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
-        "name": "Singles & Specials",
-        "url": "https://open.spotify.com/album/6o7S3ke26XfkAXw3holB5E"
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
       },
       "artists": [
         {
-          "name": "Ewa Farna",
-          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Na ost\u0159\u00ed no\u017ee",
-      "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
-        "name": "Slang",
-        "url": "https://open.spotify.com/album/0KqbUWRaVGPhgAC2KQO9Oh"
+        "name": "VMBR",
+        "url": "https://open.spotify.com/album/7filLzlPIBjZayzZwvWW2a"
       },
       "artists": [
         {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
         }
       ],
-      "duration_ms": 123692,
-      "name": "Slang",
-      "url": "https://open.spotify.com/track/3RZyUVjsvS1ODNIVKs13bB"
+      "duration_ms": 223822,
+      "name": "VMBR",
+      "url": "https://open.spotify.com/track/70yDVYmpYxDRC2GcwLVpVK"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
-        "name": "Throwaways",
-        "url": "https://open.spotify.com/album/5krlMLWRwSkngP6KICvzlT"
+        "name": "Traphouse",
+        "url": "https://open.spotify.com/album/5K8SJOQKB7NNxB5rSa20NA"
       },
       "artists": [
         {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+          "name": "THE MAG",
+          "url": "https://open.spotify.com/artist/6vfjRdM3Km8PXyuCpIapD9"
+        },
+        {
+          "name": "Chawo",
+          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
         }
       ],
-      "duration_ms": 130390,
-      "name": "Throwaways",
-      "url": "https://open.spotify.com/track/26FGdenXQDGekPiPfPAnto"
+      "duration_ms": 159999,
+      "name": "Traphouse",
+      "url": "https://open.spotify.com/track/4yfL2UTITpAZ7btpfl7wax"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Sliby & L\u017ei",
+        "url": "https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl"
+      },
+      "artists": [
+        {
+          "name": "\u0160KWOR",
+          "url": "https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "S\u00edla Starejch V\u00edn",
+      "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "PROJECT\u239c23",
         "url": "https://open.spotify.com/album/1vFLJs28d3t24ltDMgCORz"
@@ -689,7 +689,55 @@
       "url": "https://open.spotify.com/track/2aSjZFDJyTmakHyPxsEScQ"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Throwaways",
+        "url": "https://open.spotify.com/album/5krlMLWRwSkngP6KICvzlT"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        }
+      ],
+      "duration_ms": 130390,
+      "name": "Throwaways",
+      "url": "https://open.spotify.com/track/26FGdenXQDGekPiPfPAnto"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Slang",
+        "url": "https://open.spotify.com/album/0KqbUWRaVGPhgAC2KQO9Oh"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "Slang",
+      "url": "https://open.spotify.com/track/3RZyUVjsvS1ODNIVKs13bB"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "PONYA",
+        "url": "https://open.spotify.com/album/0oAS1yorfy7p782J1KoVwY"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Givenchy",
+      "url": "https://open.spotify.com/track/2K8HLQXU4EB3ZdpNqGN8um"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -725,7 +773,43 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Wannabe's",
+        "url": "https://open.spotify.com/album/0KWtnmKWOP7jD9GdzVbcM8"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        },
+        {
+          "name": "Young Sagvan",
+          "url": "https://open.spotify.com/artist/4CyPKEbEEZ4VHx52h7ZBdB"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Wannabe's",
+      "url": "https://open.spotify.com/track/0PHjcDCfUDmAK1VahjUVuK"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -765,75 +849,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "PONYA",
-        "url": "https://open.spotify.com/album/0oAS1yorfy7p782J1KoVwY"
-      },
-      "artists": [
-        {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Givenchy",
-      "url": "https://open.spotify.com/track/2K8HLQXU4EB3ZdpNqGN8um"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Sliby & L\u017ei",
-        "url": "https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl"
-      },
-      "artists": [
-        {
-          "name": "\u0160KWOR",
-          "url": "https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "S\u00edla Starejch V\u00edn",
-      "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Matej Turcer",
-          "url": "https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF"
-        }
-      ],
-      "duration_ms": 281346,
-      "name": "Cigarety",
-      "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "VMBR",
-        "url": "https://open.spotify.com/album/7filLzlPIBjZayzZwvWW2a"
-      },
-      "artists": [
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        }
-      ],
-      "duration_ms": 223822,
-      "name": "VMBR",
-      "url": "https://open.spotify.com/track/70yDVYmpYxDRC2GcwLVpVK"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "GLOBAL",
         "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
@@ -853,7 +869,99 @@
       "url": "https://open.spotify.com/track/5HVr2Ay42xJgB2VZ7CUJQJ"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Matej Turcer",
+          "url": "https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF"
+        }
+      ],
+      "duration_ms": 281346,
+      "name": "Cigarety",
+      "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "C\u00edgo a k\u00e1va (feat. Saul)",
+      "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "Bieber Fever",
+        "url": "https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 155492,
+      "name": "D\u00edvej",
+      "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
+    },
+    {
+      "added_at": "2025-07-12 13:25:34",
       "album": {
         "name": "THE V TAPE",
         "url": "https://open.spotify.com/album/1mjFxVkjuDSL3eZip5aZSp"
@@ -877,148 +985,24 @@
       "url": "https://open.spotify.com/track/2X2KxvRf8zyWJ6daRFOl3Y"
     },
     {
-      "added_at": "2025-07-11 12:55:47",
+      "added_at": "2025-07-12 13:25:34",
       "album": {
-        "name": "Bieber Fever",
-        "url": "https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Wannabe's",
-        "url": "https://open.spotify.com/album/0KWtnmKWOP7jD9GdzVbcM8"
-      },
-      "artists": [
-        {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
-        },
-        {
-          "name": "Young Sagvan",
-          "url": "https://open.spotify.com/artist/4CyPKEbEEZ4VHx52h7ZBdB"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Wannabe's",
-      "url": "https://open.spotify.com/track/0PHjcDCfUDmAK1VahjUVuK"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "ROADTRIP",
-        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 155492,
-      "name": "D\u00edvej",
-      "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "THE V TAPE",
-        "url": "https://open.spotify.com/album/1mjFxVkjuDSL3eZip5aZSp"
-      },
-      "artists": [
-        {
-          "name": "Deetray",
-          "url": "https://open.spotify.com/artist/5F8sPTWPCmtDGz46gOA2S9"
-        },
-        {
-          "name": "Chawo",
-          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
-        },
-        {
-          "name": "Dejv",
-          "url": "https://open.spotify.com/artist/4eW7C2ggD2lxgDEIouhAmL"
-        }
-      ],
-      "duration_ms": 199141,
-      "name": "MONEYBAG",
-      "url": "https://open.spotify.com/track/0vTXbAd0ZN9AUg67CfjEwc"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Roleplay",
-      "url": "https://open.spotify.com/track/7jAC1Ifo1Qpsf8pKW02ata"
-    },
-    {
-      "added_at": "2025-07-11 12:55:47",
-      "album": {
-        "name": "THE V TAPE",
-        "url": "https://open.spotify.com/album/1mjFxVkjuDSL3eZip5aZSp"
-      },
-      "artists": [
-        {
-          "name": "Vla\u010fkySyn",
-          "url": "https://open.spotify.com/artist/6d8PTYiQEY5OoMWvo3VcJJ"
-        },
-        {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
-        },
-        {
-          "name": "Chawo",
-          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
-        },
-        {
-          "name": "Dejv",
-          "url": "https://open.spotify.com/artist/4eW7C2ggD2lxgDEIouhAmL"
-        },
-        {
-          "name": "Deetray",
-          "url": "https://open.spotify.com/artist/5F8sPTWPCmtDGz46gOA2S9"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "5STAR",
-      "url": "https://open.spotify.com/track/6LCdGUm84yYjpSwOu324FS"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 204855,
+  "num_followers": 204871,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACwFcIvnvOC9Fq0B4Dr+xBb",
+  "snapshot_id": "aHBUAAAAAAAnDksAkILnRr/qK5cmZEGA",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ"
       },
       "artists": [
         {
@@ -172,13 +172,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love (Radio Version)",
-      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
+      "duration_ms": 299365,
+      "name": "King of My Heart (Live)",
+      "url": "https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG"
     },
     {
       "added_at": null,
@@ -203,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ"
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
       },
       "artists": [
         {
@@ -212,17 +216,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 299365,
-      "name": "King of My Heart (Live)",
-      "url": "https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG"
+      "duration_ms": 221333,
+      "name": "Stand In Your Love (Radio Version)",
+      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 633462,
-      "name": "Too Good To Not Believe (Live)",
-      "url": "https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Center (Live)",
         "url": "https://open.spotify.com/album/14twTxZEfFwCDuKXmajio1"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 465379,
       "name": "Center - Live",
       "url": "https://open.spotify.com/track/4UYRVsS5vkpuBZXtpHU6iF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 633462,
+      "name": "Too Good To Not Believe (Live)",
+      "url": "https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 344880,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/1odJaKOxq4jK5MkbyMuWEG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 339041,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 344880,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/1odJaKOxq4jK5MkbyMuWEG"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 146993,
-      "name": "You're Worthy of My Praise/As The Deer - Live",
-      "url": "https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 301090,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+      },
+      "artists": [
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 146993,
+      "name": "You're Worthy of My Praise/As The Deer - Live",
+      "url": "https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ"
     },
     {
       "added_at": null,
@@ -975,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
       },
       "artists": [
         {
@@ -984,17 +984,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
         }
       ],
-      "duration_ms": 479771,
-      "name": "Son Of Suffering (Live)",
-      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
+      "duration_ms": 297000,
+      "name": "Promises Never Fail (Live)",
+      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
     },
     {
       "added_at": null,
@@ -1019,8 +1015,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
       "artists": [
         {
@@ -1028,13 +1024,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Promises Never Fail (Live)",
-      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
+      "duration_ms": 479771,
+      "name": "Son Of Suffering (Live)",
+      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
     }
   ],
   "unique_name": "This Is Bethel Music",

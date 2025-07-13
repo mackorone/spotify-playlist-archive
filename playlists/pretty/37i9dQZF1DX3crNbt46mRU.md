@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Justin Bieber, GIMS, Tyla, Jazeek and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,145 likes - 108 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,152 likes - 108 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 25 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
 | 26 | [Capri Sonne](https://open.spotify.com/track/5biCRSNDhZvHSuLosdlJm5) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Capri Sonne](https://open.spotify.com/album/6Lc47SBTfL7P471YXTyD3s) | 3:12 |
 | 27 | [Stay \- Ely Oaks Version](https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Stay \(Ely Oaks Version\)](https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl) | 2:39 |
-| 28 | [Suavecita \(feat\. Rhove\)](https://open.spotify.com/track/6e7J7EkckE4tM6MKPpCMfX) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [DIASPO](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:24 |
+| 28 | [Suavecita \(feat\. Rhove\)](https://open.spotify.com/track/6e7J7EkckE4tM6MKPpCMfX) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [DIASPO MIXTAPE](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:24 |
 | 29 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
 | 30 | [Wanted To Know](https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Wanted To Know](https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR) | 2:21 |
 | 31 | [Jebiga](https://open.spotify.com/track/30tl9xkDBGoo8xlzsaRnA8) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Nucci](https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze), [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D) | [Der Faktor Mensch](https://open.spotify.com/album/7z9baz3rVNE3TsUCPzOYD1) | 2:07 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 82 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 83 | [Incomprensible](https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Incomprensible](https://open.spotify.com/album/4zwpvu8E4Ev8iM6V76nnI3) | 3:31 |
 | 84 | [bisschen fantasie](https://open.spotify.com/track/0o6VX1qMvMMbFNb2CPZt9a) | [jaydee](https://open.spotify.com/artist/1cNaJ7b5yqUMmJeHKSBK8v) | [bisschen fantasie](https://open.spotify.com/album/7Gn50XMyb2YWzASppHbOUm) | 2:30 |
-| 85 | [Bad As the Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As the Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
+| 85 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 |
 | 86 | [Irgendwann](https://open.spotify.com/track/5C1kGffiRiHwlXGpwOVq05) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Kareem](https://open.spotify.com/album/3olUThMnC362xCFQm0PoBf) | 2:37 |
 | 87 | [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 |
 | 88 | [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 |

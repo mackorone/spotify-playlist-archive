@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/5DbPNN11Em48bMBcjesRt3"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195212,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1FbPp6NgKUtM0WhsyArQ0s"
+    },
+    {
+      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/6i0atmeYVUoeI58dINmglw"
       },

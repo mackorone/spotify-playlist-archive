@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 16982,
+  "num_followers": 16988,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
+        "name": "Kwaku Ananse",
+        "url": "https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "duration_ms": 206051,
+      "name": "Kwaku Ananse",
+      "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
-        "name": "Kwaku Ananse",
-        "url": "https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw"
-      },
-      "artists": [
-        {
-          "name": "Amerado",
-          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
-        }
-      ],
-      "duration_ms": 206051,
-      "name": "Kwaku Ananse",
-      "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
         "name": "Fly Girl (feat. Oseikrom Sikanii) [Remix]",
         "url": "https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG"
       },
@@ -1323,6 +1323,30 @@
       "duration_ms": 195434,
       "name": "Fly Girl (feat. Oseikrom Sikanii) - Remix",
       "url": "https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
+        "name": "Gymnastic",
+        "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Gymnastic",
+      "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -1479,42 +1503,6 @@
       "duration_ms": 161985,
       "name": "Till It's Done",
       "url": "https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
-        "name": "NLF (Breakfast) [Remix] (feat. Lyrical Joe, Medikal & Beeztrap KOTM)",
-        "url": "https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        },
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        },
-        {
-          "name": "Lyrical Joe",
-          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        }
-      ],
-      "duration_ms": 266922,
-      "name": "NLF (Breakfast) (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Remix",
-      "url": "https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD"
     }
   ],
   "unique_name": "Troski Rhythms",

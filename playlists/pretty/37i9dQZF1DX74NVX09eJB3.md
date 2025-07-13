@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74NVX09eJB3.md) - [plain]
 
 > Get ready to hit the jackpot with these classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,848 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,886 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

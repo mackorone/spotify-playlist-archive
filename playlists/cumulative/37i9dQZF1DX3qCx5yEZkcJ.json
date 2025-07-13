@@ -2137,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "HM Surf",
+          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225338,
+      "name": "d1g_it.core",
+      "url": "https://open.spotify.com/track/7FbFFpUxsepTcogshbsNjD"
+    },
+    {
+      "album": {
         "name": "Daisy Vibes",
         "url": "https://open.spotify.com/album/67qXWPDEc1rG9LEEKH9mgX"
       },
@@ -10958,7 +10980,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 160500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"

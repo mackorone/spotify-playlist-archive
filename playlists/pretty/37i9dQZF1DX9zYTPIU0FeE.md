@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > In loving memory of the legendary Bra Feya Faku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,309 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,313 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

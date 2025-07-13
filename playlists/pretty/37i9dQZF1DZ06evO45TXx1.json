@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 14356,
+  "num_followers": 14366,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAD1KSHXb5H20ZmemsmhSiZW",
+  "snapshot_id": "aHBUAAAAAABcAae93IMCNidl9OfQOkGy",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 134872,
+      "name": "Perdi o Interesse",
+      "url": "https://open.spotify.com/track/13WhN6sxeG8zemYgKa4xft"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 168205,
       "name": "Jogo",
       "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 134872,
-      "name": "Perdi o Interesse",
-      "url": "https://open.spotify.com/track/13WhN6sxeG8zemYgKa4xft"
     },
     {
       "added_at": null,
@@ -811,6 +811,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 161642,
+      "name": "Fofoca",
+      "url": "https://open.spotify.com/track/0Wy3fjbBiIuCIF8UDzADov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donas do Jogo 2",
         "url": "https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo"
       },
@@ -839,34 +867,6 @@
       "duration_ms": 197340,
       "name": "Donas do Jogo 2",
       "url": "https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 161642,
-      "name": "Fofoca",
-      "url": "https://open.spotify.com/track/0Wy3fjbBiIuCIF8UDzADov"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 30791,
+  "num_followers": 30792,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADwXFQSY4egfnevuLbQnemn",
+  "snapshot_id": "aHBUAAAAAABAHARevRqSVj6arV1O+Awh",
   "tracks": [
     {
       "added_at": null,
@@ -827,38 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 152680,
-      "name": "Are You Sure Hank Done It This Way - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 178440,
       "name": "From the Bottle to the Bottom",
       "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 152680,
+      "name": "Are You Sure Hank Done It This Way - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf"
     },
     {
       "added_at": null,
@@ -1235,6 +1235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Please Don't Tell Me How the Story Ends",
+      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extras",
         "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 195440,
       "name": "Eye of the Storm (with Willie Nelson)",
       "url": "https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Please Don't Tell Me How the Story Ends",
-      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
     },
     {
       "added_at": null,

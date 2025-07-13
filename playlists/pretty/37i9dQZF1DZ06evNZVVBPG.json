@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2682049,
+  "num_followers": 2682744,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAACcTpeP5DF9DgB3G4ms7YTc",
+  "snapshot_id": "aHBUAAAAAAChvszo4r6agVEDyWIESrBS",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 248934,
-      "name": "Norman fucking Rockwell",
-      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
+      "duration_ms": 272485,
+      "name": "Happiness is a butterfly",
+      "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 272485,
-      "name": "Happiness is a butterfly",
-      "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
+      "duration_ms": 248934,
+      "name": "Norman fucking Rockwell",
+      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 285050,
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
     },
     {
       "added_at": null,

@@ -4,11 +4,12 @@
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 42 min
+74 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Simple Song](https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:36 | 2023-02-08 |  |
+| [A Song To Sing](https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [A Song To Sing](https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd) | 2:59 | 2025-07-13 |  |
 | [Amanda \(feat\. Morgane Stapleton\)](https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX) | [Gentle Giants: The Songs of Don Williams](https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt) | 3:02 | 2023-02-08 |  |
 | [Arkansas](https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 2:58 | 2023-02-08 |  |
 | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b) | 5:00 | 2025-05-25 |  |

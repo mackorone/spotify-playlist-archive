@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: J Hus & Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,309 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,397 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 32 | [NO LIMIT](https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe) | [BDLM VOL.1](https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y) | 3:14 |
 | 33 | [STATION](https://open.spotify.com/track/5tyuajS5DiBO3G22APUPFC) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/08Dg7XUvVPa8a2FA6lGcY7) | 2:52 |
 | 34 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 |
-| 35 | [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 |
-| 36 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 |
+| 35 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 |
+| 36 | [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 |
 | 37 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 38 | [Love Is Forever](https://open.spotify.com/track/1JeYfu8pc5FtsRtGlwp49p) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [David Acekeyz](https://open.spotify.com/artist/4QlxtMchAil1VX7K1aKJzs) | [Love Is Forever](https://open.spotify.com/album/0sDCTuDE6AwjkxF0zlLqLZ) | 2:53 |
 | 39 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 |

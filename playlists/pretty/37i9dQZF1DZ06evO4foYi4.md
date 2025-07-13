@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,714 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,729 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 47 | [Huey Newton](https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 4:37 |
 | 48 | [Weekend in the Dust](https://open.spotify.com/track/0yE4eaKscJyphP7OoaugGC) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:07 |
 | 49 | [Hombre Roto](https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 3:21 |
-| 50 | [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 |
+| 50 | [Chloe In The Afternoon](https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 2:55 |
 
-Snapshot ID: `aG8CgAAAAADq5eiK3Xkuc5uTPDc14acO`
+Snapshot ID: `aHBUAAAAAACph4EGqbgCoKxQa2shvaLb`

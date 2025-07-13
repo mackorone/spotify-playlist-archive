@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring "aswekeepsearching" and other exciting artists.
 
-1,104 songs - 2 day 12 hr 22 min
+1,105 songs - 2 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [Kaise](https://open.spotify.com/track/6VDTCXo6ploQGtGUFckjv8) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg), [Kuldeep Pattanaik](https://open.spotify.com/artist/4O5bANbDjtd46vk1f7oR85), [Swarup Chattopadhyay](https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y) | [Kaise](https://open.spotify.com/album/3PIVEeI66FaG2u0IFiSHpa) | 2:56 | 2024-10-04 | 2024-11-30 |
 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 | 2023-08-25 | 2023-10-07 |
 | [Kaise Ho Tum](https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Kaise Ho Tum](https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ) | 2:43 | 2025-06-13 |  |
-| [Kaise Kahun](https://open.spotify.com/track/1DLjYfDBS2bwdpcUyb2sHq) | [Abhin Joshi](https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq), [Abhi Solanki](https://open.spotify.com/artist/3tC0KUr3YwXIhJ2l6mJ8ob) | [Ek Kamre Ki Zindagi](https://open.spotify.com/album/6OEnEcgbGhOONF4urn8xPU) | 3:38 | 2025-05-30 |  |
+| [Kaise Kahun](https://open.spotify.com/track/1DLjYfDBS2bwdpcUyb2sHq) | [Abhin Joshi](https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq), [Abhi Solanki](https://open.spotify.com/artist/3tC0KUr3YwXIhJ2l6mJ8ob) | [Ek Kamre Ki Zindagi](https://open.spotify.com/album/6OEnEcgbGhOONF4urn8xPU) | 3:38 | 2025-05-30 | 2025-07-13 |
 | [Kaise Kahun](https://open.spotify.com/track/62G02vRbhqMZsqUGFPe5QQ) | [Keshav Anand](https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K), [Shruti Shukla](https://open.spotify.com/artist/7mvIMEb1n9wNBSz26wgPXm) | [Kaise Kahun](https://open.spotify.com/album/1Ar46yVgvT11Melb0llLhz) | 3:43 | 2025-06-06 | 2025-06-14 |
 | [Kaise Kaise](https://open.spotify.com/track/7F1aZ5Nx8wR3sSamjEDVDD) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Kaise Kaise](https://open.spotify.com/album/5yyLJLEC2aWdqv9e7iAROe) | 2:52 | 2024-06-14 | 2024-10-12 |
 | [Kaise Keh Dein](https://open.spotify.com/track/0azdOh0YcG9pUxPps6WbvA) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Kaise Keh Dein](https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB) | 4:09 | 2024-10-18 | 2025-01-18 |
@@ -1090,6 +1090,7 @@
 | [Yaara Ve](https://open.spotify.com/track/3xYySsoM3ClDi5eMs2eaV5) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kimeraa](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF) | [Yaara Ve](https://open.spotify.com/album/7uK9M1tHaA3FZ0rlEDYHVx) | 3:15 | 2024-08-09 | 2024-09-13 |
 | [Yaari Ke Dhaage](https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Yaari Ke Dhaage](https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU) | 2:47 | 2023-08-04 | 2023-09-02 |
 | [Yahin Toh Hai Woh](https://open.spotify.com/track/7rvT0gGYSGY6MEps4mkiw3) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Dil Se](https://open.spotify.com/album/241jm308Fldzh7BFcNJWzS) | 3:00 | 2024-08-30 | 2024-10-12 |
+| [Ye Lo](https://open.spotify.com/track/4GXz04z6A7G6NnR8KrGDiX) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Ye Lo](https://open.spotify.com/album/3bY5IS2Ai41yYscIoDvuND) | 5:19 | 2025-07-11 |  |
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2023-12-15 | 2024-03-09 |
 | [Yeh Aadatein](https://open.spotify.com/track/4Eg59pvu5jmKaUrDupeTeN) | [Vaid](https://open.spotify.com/artist/7bqsKAG7Yik18PCVtjBPzn) | [Yeh Aadatein](https://open.spotify.com/album/1ZFLRU81isvwgxIRfFslfq) | 2:39 | 2024-06-07 | 2024-06-22 |
 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 | 2024-11-29 | 2025-03-08 |

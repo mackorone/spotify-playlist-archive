@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de J Balvin & DJ Snake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,054 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,063 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 2 | [Más alas](https://open.spotify.com/track/35FH2XLo5xxwYktk3fdPXy) | [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Más alas](https://open.spotify.com/album/5apyNgssVz4nxtKwmsQIDw) | 2:44 |
 | 3 | [Carita Angelikal](https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:55 |
 | 4 | [EXPECTATIVAS](https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EXPECTATIVAS](https://open.spotify.com/album/172ipzW34GEnl38MHofXcf) | 3:22 |
-| 5 | [Nostalgia.0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia.0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
+| 5 | [Nostalgia .0002 Lágrimas](https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Nostalgia .0002 Lágrimas](https://open.spotify.com/album/7wqFDxM2ocFezib9IusXey) | 2:38 |
 | 6 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 7 | [TOKARTE](https://open.spotify.com/track/33mpYlzcqp66RDI9Io3AI7) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [Baby Jey](https://open.spotify.com/artist/5Oq7EwA4wS5J6L4hYtf9Tk), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [TOKARTE](https://open.spotify.com/album/74daGXMIAkPxNcnjx7VY3s) | 3:21 |
 | 8 | [DE AHI PA ACA](https://open.spotify.com/track/0zabK2x0RDygjjvBwHkwuc) | [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [DE AHI PA ACA](https://open.spotify.com/album/1V8cpaXbNCBBqk7Tz0Yabe) | 2:03 |

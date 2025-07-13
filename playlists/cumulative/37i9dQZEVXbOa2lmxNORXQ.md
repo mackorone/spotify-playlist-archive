@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-1,379 songs - 3 day 4 hr 17 min
+1,380 songs - 3 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [JORDAN REMIX \(feat\. Myke Towers\)](https://open.spotify.com/track/4iwmLh0ytZKi62ouLpBfGz) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 4:29 | 2024-05-11 | 2024-05-13 |
 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 | 2022-11-23 | 2022-12-04 |
 | [JS4E](https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:57 | 2022-12-03 | 2023-02-01 |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-12 |  |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-07-25 |
 | [KELOIDE](https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz) | 2:59 | 2025-06-10 | 2025-06-12 |
 | [KETU TeCRÉ](https://open.spotify.com/track/4c2Pc0NrfkesPR0jff6q3F) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 4:10 | 2025-01-06 | 2025-02-03 |
@@ -670,7 +671,7 @@
 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 | 2023-12-09 | 2024-12-11 |
 | [Las Locuras Mías](https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 3:42 | 2021-03-27\* | 2022-01-05 |
 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 | 2023-04-06 | 2023-06-24 |
-| [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 | 2024-10-02 |  |
+| [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 | 2024-10-02 | 2025-07-13 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-23 |
 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 | 2025-05-24 | 2025-06-22 |
 | [LATINA FOREVA](https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:39 | 2025-06-21 |  |

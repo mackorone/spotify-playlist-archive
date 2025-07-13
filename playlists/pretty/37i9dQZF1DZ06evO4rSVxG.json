@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15126,
+  "num_followers": 15127,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADab/+3WOhrrSMy3x7DmaUN",
+  "snapshot_id": "aHBUAAAAAADOf1YLxxAH4O61Z1kX0tmi",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House Of Music",
         "url": "https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 299506,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
     },
     {
       "added_at": null,

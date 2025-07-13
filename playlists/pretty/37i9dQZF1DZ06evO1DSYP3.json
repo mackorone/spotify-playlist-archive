@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADpleYhusFCVFGw66MShPHp",
+  "snapshot_id": "aHBUAAAAAACRPcResZjh3Unrmw81JVij",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Hook",
-        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 96421,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -631,30 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -675,6 +635,46 @@
       "duration_ms": 217710,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 96421,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 144060,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Luh U",
-      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Before Anything - EP",
         "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
@@ -951,6 +931,46 @@
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Luh U",
+      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     },
     {
       "added_at": null,
@@ -979,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
       "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,
@@ -1015,22 +1031,6 @@
       "duration_ms": 144459,
       "name": "House",
       "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,
@@ -1079,22 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Cold: DELUXE EDITION",
         "url": "https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 268800,
       "name": "Too Faded Remix",
       "url": "https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     }
   ],
   "unique_name": "This Is P-Lo",

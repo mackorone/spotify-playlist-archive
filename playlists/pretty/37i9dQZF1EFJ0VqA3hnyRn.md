@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482 likes - 267 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 267 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 72 | [Raining Men](https://open.spotify.com/track/1gCWLA71vXQmINwo6WxH4t) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 3:44 |
 | 73 | [Neva End](https://open.spotify.com/track/7KyEgCM3EdWPYi5WHuhc1y) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pluto](https://open.spotify.com/album/1yNIBzlvPVBALSPkUMq1ma) | 4:22 |
 | 74 | [Icy](https://open.spotify.com/track/3zmzb7WcCXpEAXq1RtQ7o4) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:09 |
-| 75 | [Make Up \(feat\. Chloe Angelides\)](https://open.spotify.com/track/37k7igIs7IrMVUadwWKHJ6) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:26 |
-| 76 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 |
+| 75 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 |
+| 76 | [Make Up \(feat\. Chloe Angelides\)](https://open.spotify.com/track/37k7igIs7IrMVUadwWKHJ6) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:26 |
 | 77 | [Runaway Love](https://open.spotify.com/track/1xgN9KBVVoTNygpYjpXnvH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:32 |
 | 78 | [Low \(feat\. Nicki Minaj, Lil Bibby & Young Thug\)](https://open.spotify.com/track/6pISryCxMLYvUhXdntY9yW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Low \(feat\. Nicki Minaj, Lil Bibby & Young Thug\)](https://open.spotify.com/album/4WI8IUUkHpjolwZ2xTOpDS) | 3:58 |
 | 79 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 144 | [Broken](https://open.spotify.com/track/5qJwZIULLMrOl8BIcuRzs7) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:48 |
 | 145 | [So Many Girls \(feat\. Wale, Tyga & Roscoe Dash\)](https://open.spotify.com/track/754Nn1HILpvQccXy2uvgZf) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 3:29 |
 | 146 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
-| 147 | [Checking For You](https://open.spotify.com/track/19Qduas1mZwiAr4yUuBZXC) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:34 |
-| 148 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 147 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 148 | [Checking For You](https://open.spotify.com/track/19Qduas1mZwiAr4yUuBZXC) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:34 |
 | 149 | [Blood, Sweat, Tears](https://open.spotify.com/track/4EpDZxSApKaod3PVqT5ben) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:23 |
 | 150 | [Brown Skin Girl \(feat\. Sean Paul\)](https://open.spotify.com/track/037FXn5nBi0wMkAue12Jke) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Graffiti \(Expanded Edition\)](https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D) | 4:13 |
 | 151 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 266 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 267 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Ab2hXgAAAAAvSISC43UoeuBGmvJ6pnI1`
+Snapshot ID: `Ab2m/gAAAAAgNHjPMEIlIOkH8kEl7/57`

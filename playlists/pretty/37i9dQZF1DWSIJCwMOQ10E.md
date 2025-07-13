@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Karen Lizarazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,827 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,909 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

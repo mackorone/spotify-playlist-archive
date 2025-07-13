@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 218041,
+  "num_followers": 218058,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAAMYHwm+mSgOYx4ntojaSUZ",
+  "snapshot_id": "aHBUAAAAAACcpDF17vrJSKJJIE5NPQYy",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Before The World Ends",
-        "url": "https://open.spotify.com/album/53SZYASReMx3CIFrlGa2wy"
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
       },
       "artists": [
-        {
-          "name": "Will Varley",
-          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
-        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 199506,
-      "name": "Home Before The World Ends",
-      "url": "https://open.spotify.com/track/33QOISLy6UEQBDBUhH2DPp"
+      "duration_ms": 173202,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
     },
     {
       "added_at": null,
@@ -751,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
+        "name": "Home Before The World Ends",
+        "url": "https://open.spotify.com/album/53SZYASReMx3CIFrlGa2wy"
       },
       "artists": [
+        {
+          "name": "Will Varley",
+          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
+        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 173202,
-      "name": "Back To The Future",
-      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
+      "duration_ms": 199506,
+      "name": "Home Before The World Ends",
+      "url": "https://open.spotify.com/track/33QOISLy6UEQBDBUhH2DPp"
     },
     {
       "added_at": null,

@@ -7663,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "Ghost Avenue",
+        "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173606,
+      "name": "Ghost Avenue",
+      "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
+    },
+    {
+      "album": {
         "name": "Gimme Some",
         "url": "https://open.spotify.com/album/6ssgCi2BiNcnXN6IoSgvr0"
       },
@@ -20434,7 +20452,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 163608,
       "name": "stay tune",
       "url": "https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX"

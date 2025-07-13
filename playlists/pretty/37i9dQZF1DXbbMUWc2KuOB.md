@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,625 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,657 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 15 | [The way to lose you \(Inst.\)](https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
 | 16 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 17 | [Nevertheless \- Instrumental](https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 |
-| 18 | [Good Person \(2022\) \- Instrumental](https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
-| 19 | [I WANNA KNOW \- Instrumental](https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 |
+| 18 | [I WANNA KNOW \- Instrumental](https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 |
+| 19 | [Good Person \(2022\) \- Instrumental](https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 20 | [Wish \- Instrumental](https://open.spotify.com/track/3jxYOo3LSBsJjv1GYvNJpi) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 |
 | 21 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
 | 22 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 25 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
 | 26 | [시간의 상처 \(Inst.\)](https://open.spotify.com/track/6xdFDuOy3aJLAdfa0Z5Mtk) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [내 남편과 결혼해줘 OST Part.4](https://open.spotify.com/album/5QXH2tKwc5DVyawOzIHgDy) | 4:37 |
 | 27 | [So Tender \- Instrumental](https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
-| 28 | [With You \(Inst.\)](https://open.spotify.com/track/2Q3KiqbzEeRRYks33iLNLs) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
-| 29 | [Fall In Love \- Instrumental](https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Nevertheless, \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm) | 3:59 |
+| 28 | [Fall In Love \- Instrumental](https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Nevertheless, \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm) | 3:59 |
+| 29 | [With You \(Inst.\)](https://open.spotify.com/track/2Q3KiqbzEeRRYks33iLNLs) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
 | 30 | [Looks like a real thing \- Instrumental](https://open.spotify.com/track/3o1od0SpRtQI628cYNubg1) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3) | 3:02 |
 | 31 | [Friend \- Instrumental](https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:16 |
 | 32 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |

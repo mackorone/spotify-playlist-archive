@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: Jem Cassar\-Daley
 
-542 songs - 1 day 5 hr 22 min
+543 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-03-07 | 2024-07-10 |
 | [Burner Account](https://open.spotify.com/track/2J4QEeZlSW72LhJe2gCfUt) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Burner Account](https://open.spotify.com/album/5PE3nDgPOvJASgRdhWNAID) | 3:45 | 2025-05-01 | 2025-05-16 |
 | [BUTTERFLIES](https://open.spotify.com/track/5Tx84RyiFBtsFrfWOnLatD) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [BUTTERFLIES](https://open.spotify.com/album/2EOiazPJKBs3af7nQOyRBW) | 2:56 | 2024-09-02 | 2024-09-27 |
+| [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Kim Chaewon of LE SSERAFIM](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7) | 2:44 | 2025-07-10 |  |
 | [BUTTERFLY](https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [BUTTERFLY](https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy) | 4:25 | 2025-02-20 | 2025-07-01 |
 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 | 2024-03-07 | 2024-06-12 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-20 |  |
@@ -484,7 +485,7 @@
 | [think later](https://open.spotify.com/track/1EZVE1xdg8Iw3TRB31gCnc) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [think later](https://open.spotify.com/album/2jYSosNTWCPQ7hdfTzG8RM) | 2:57 | 2025-07-03 | 2025-07-11 |
 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 | 2024-06-18 | 2024-06-28 |
 | [This City Died](https://open.spotify.com/track/5cJtktHVCpPKU3TBQd00SH) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU) | [This City Died](https://open.spotify.com/album/6HLrM34lswFZdBALgDFGAi) | 2:30 | 2025-03-13 | 2025-03-28 |
-| [this is what floating feels like](https://open.spotify.com/track/51aKhzD5dtUJeiK1TN3RmL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [this is what floating feels like](https://open.spotify.com/album/6HTDWSqiAiRrwOltna85gk) | 2:28 | 2025-04-17 |  |
+| [this is what floating feels like](https://open.spotify.com/track/51aKhzD5dtUJeiK1TN3RmL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [this is what floating feels like](https://open.spotify.com/album/6HTDWSqiAiRrwOltna85gk) | 2:28 | 2025-04-17 | 2025-07-13 |
 | [this is what slow dancing feels like](https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what slow dancing feels like](https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5) | 2:25 | 2024-07-09 | 2025-03-28 |
 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 | 2023-03-30 | 2023-05-11 |
 | [This Song](https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [This Song](https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G) | 3:33 | 2025-05-29 |  |

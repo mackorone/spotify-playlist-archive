@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-231 songs - 12 hr 0 min
+232 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 | 2025-06-16 |
 | [Get Away](https://open.spotify.com/track/1cZCvmW4b4DGpiZhgwvb5j) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Get Away](https://open.spotify.com/album/64iH7iS9FsuhcYC5A4FAZ2) | 3:41 | 2025-04-17 | 2025-06-12 |
 | [Girlfriend](https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Girlfriend](https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa) | 3:31 | 2025-06-12 |  |
+| [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 |  |
 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 | 2024-09-26 |  |
 | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI) | 2:22 | 2024-06-27 | 2025-04-04 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-27 |  |
@@ -200,7 +201,7 @@
 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 | 2025-05-22 |  |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-27 | 2024-10-11 |
 | [Summer Rain](https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Summer Rain](https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B) | 2:42 | 2024-06-27 | 2025-05-03 |
-| [Synd synd synd](https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Synd synd synd](https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn) | 3:12 | 2024-06-27 |  |
+| [Synd synd synd](https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Synd synd synd](https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn) | 3:12 | 2024-06-27 | 2025-07-13 |
 | [Synnes sumarvise](https://open.spotify.com/track/6sywAIdIEeNfGsQNEb3fbK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Synnes sumarvise](https://open.spotify.com/album/3Ov9vdLXHJ8CWiiao8Yhnr) | 2:14 | 2024-06-27 | 2024-09-08 |
 | [Syrener \- Akustisk](https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [Syrener \(Akustisk\)](https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4) | 3:07 | 2024-06-27 | 2025-05-03 |
 | [Så easy](https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL), [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2) | [Og eg lyger så det renner som en foss gjennom rommet](https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH) | 3:40 | 2024-06-27 |  |

@@ -8051,6 +8051,24 @@
     },
     {
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
@@ -8614,7 +8632,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 184050,
       "name": "La Del Proceso",
       "url": "https://open.spotify.com/track/1AH1OsF7LabIl5RjhXR0u2"
@@ -15294,7 +15312,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-13",
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
@@ -16864,6 +16882,40 @@
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+    },
+    {
+      "album": {
+        "name": "Sigue Bailandome",
+        "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
+      },
+      "artists": [
+        {
+          "name": "Yannc",
+          "url": "https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352441,
+      "name": "Sigue Bailandome",
+      "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
     },
     {
       "album": {

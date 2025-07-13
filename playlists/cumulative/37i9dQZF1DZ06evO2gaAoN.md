@@ -4,7 +4,7 @@
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-27 songs - 1 hr 34 min
+28 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2025-03-04 |  |
 | [Girls Need Love \(Girls Mix\) \(feat\. Tyla\)](https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Girls Need Love \(Girls Mix\)](https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71) | 2:38 | 2025-03-04 |  |
 | [I Buy \(feat\. Marioo\)](https://open.spotify.com/track/6GTfwYjB6R4GWPAZqXdqZx) | [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Soul Nativez](https://open.spotify.com/artist/29OcJ7yI5UobrUXl4zdGOg), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Amapiano: East Meets South](https://open.spotify.com/album/4K9dtInn4pfpearduIBxrU) | 5:58 | 2025-03-04 | 2025-05-10 |
+| [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-07-13 |  |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2025-03-04 |  |
 | [Ke Shy](https://open.spotify.com/track/0PgY2q9kphq67E83PL9yPq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Piano Republik](https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ) | 3:19 | 2025-03-04 | 2025-06-01 |
 | [Ke Shy](https://open.spotify.com/track/46JbnUilMIKcoeXYpZyB53) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Piano Republik](https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO) | 3:19 | 2025-06-01 |  |

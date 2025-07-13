@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Luccas Carlos",
-  "num_followers": 437895,
+  "num_followers": 437888,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,26 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
+        "name": "Doce",
+        "url": "https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        }
+      ],
+      "duration_ms": 141702,
+      "name": "Beijo Doce",
+      "url": "https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
         "name": "Depois do Fim (Deluxe)",
         "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 145602,
       "name": "Um Doce, Uma Flor",
       "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "Doce",
-        "url": "https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        }
-      ],
-      "duration_ms": 141702,
-      "name": "Beijo Doce",
-      "url": "https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Viver de Carinho",
-        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "Viver de Carinho",
-      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "Noites De Monza",
         "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 171311,
       "name": "Noites De Monza",
       "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "Viver de Carinho",
+        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 148396,
+      "name": "Viver de Carinho",
+      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "\u00d3rbitas",
-        "url": "https://open.spotify.com/album/3i6Iaw3fUGfsczN2Q2phAu"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "Infinito Particular",
-      "url": "https://open.spotify.com/track/5QODT6XGiYRmrVh4MyuUM6"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "Caso eu Case",
         "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 215943,
       "name": "Caso eu Case",
       "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "\u00d3rbitas",
+        "url": "https://open.spotify.com/album/3i6Iaw3fUGfsczN2Q2phAu"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "Infinito Particular",
+      "url": "https://open.spotify.com/track/5QODT6XGiYRmrVh4MyuUM6"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "sofrer por voc\u00ea",
         "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "ANEMOIA",
-        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
       },
       "artists": [
         {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
         }
       ],
-      "duration_ms": 212234,
-      "name": "ROSA",
-      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -555,6 +539,22 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "ANEMOIA",
+        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Fica De Dengo",
-        "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 145306,
-      "name": "Fica De Dengo",
-      "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "Mar Manso",
         "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "Fica De Dengo",
+        "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "Fica De Dengo",
+      "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Voltei",
-        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        }
-      ],
-      "duration_ms": 129270,
-      "name": "Voltei",
-      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "sinto saudade",
         "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 150978,
       "name": "sinto saudade",
       "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "Voltei",
+        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        }
+      ],
+      "duration_ms": 129270,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 257521,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
-      },
-      "artists": [
-        {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
+        "name": "ME AMAR",
+        "url": "https://open.spotify.com/album/7ISMqKFCsDeVkROA3iDuut"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 169814,
+      "name": "ME AMAR",
+      "url": "https://open.spotify.com/track/68jiuGIvxLu5yDQmItN5NA"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
         "name": "Saber Confiar",
         "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 171581,
       "name": "PROFANO",
       "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "ME AMAR",
-        "url": "https://open.spotify.com/album/7ISMqKFCsDeVkROA3iDuut"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 169814,
-      "name": "ME AMAR",
-      "url": "https://open.spotify.com/track/68jiuGIvxLu5yDQmItN5NA"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "Meu Corpo Pede",
-        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "Meu corpo pede",
-      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "LEBLON",
         "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 151032,
       "name": "LEBLON",
       "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "Meu Corpo Pede",
+        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "Meu corpo pede",
+      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+        "name": "Mar\u00e9 Alta",
+        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
         }
       ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+      "duration_ms": 186363,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
     },
     {
       "added_at": "2025-07-11 21:25:35",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2025-07-11 21:25:35",
       "album": {
-        "name": "nada do que voc\u00ea falou",
-        "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
-        }
-      ],
-      "duration_ms": 153875,
-      "name": "nada do que voc\u00ea falou",
-      "url": "https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
-        "name": "Mar\u00e9 Alta",
-        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 186363,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
-    },
-    {
-      "added_at": "2025-07-11 21:25:35",
-      "album": {
         "name": "\u00c1udios Antigos",
         "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
       },
@@ -1443,6 +1411,38 @@
       "duration_ms": 204731,
       "name": "\u00c1udios Antigos",
       "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+    },
+    {
+      "added_at": "2025-07-11 21:25:35",
+      "album": {
+        "name": "nada do que voc\u00ea falou",
+        "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+        }
+      ],
+      "duration_ms": 153875,
+      "name": "nada do que voc\u00ea falou",
+      "url": "https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc"
     }
   ],
   "unique_name": "Pop Leve",

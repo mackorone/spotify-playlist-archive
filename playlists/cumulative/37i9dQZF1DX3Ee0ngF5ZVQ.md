@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-699 songs - 1 day 17 hr 35 min
+700 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Cuz I'm Country](https://open.spotify.com/track/3djfobOj71XBOhb8eQaCzS) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Cuz I'm Country](https://open.spotify.com/album/03ccca7v1ES41IFLaSeSq6) | 3:13 | 2022-04-08 | 2022-08-06 |
 | [Damn Fine Livin'](https://open.spotify.com/track/5USNgeOEK6Z85dEj59RPsz) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Damn Fine Livin'](https://open.spotify.com/album/6kf6HOmzaq6m8YgYQmxsAc) | 3:09 | 2023-04-14 | 2023-07-08 |
 | [Damn Good Friends \(feat\. Cleto Cordero\)](https://open.spotify.com/track/4zTTPZ75hYzYpiPXnlEbnb) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u), [Cleto Cordero](https://open.spotify.com/artist/127jOwnWSHgNKlKY34KVh3) | [Damn Good Friends](https://open.spotify.com/album/0q06gvA8Vgy2yjCg3SHdOI) | 3:48 | 2024-01-05 | 2024-12-21 |
+| [Damn Good Taste in Whiskey](https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Damn Good Taste in Whiskey](https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz) | 2:55 | 2025-07-11 |  |
 | [Damn I Need a Drink](https://open.spotify.com/track/39o414yDjRtRy5la1JSoUA) | [Cory Michael](https://open.spotify.com/artist/1k5u7BdZYkZPJJaIMJivsZ) | [Damn I Need a Drink](https://open.spotify.com/album/73s6nWYz7v9knI8ryE1b09) | 3:05 | 2021-12-17 | 2022-07-23 |
 | [Damn This Heart Of Mine](https://open.spotify.com/track/09CO5s80NyjQvE9RiBYdD1) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Damn This Heart Of Mine](https://open.spotify.com/album/2fHU5IuiQHpwOW78v1u3Sw) | 3:03 | 2023-05-12 | 2023-06-03 |
 | [Dance Hall Hell](https://open.spotify.com/track/5G2VgMq3PRET97pQ9zZkTc) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Western & Roll](https://open.spotify.com/album/3yYi2yRTDctlJEsSddZ9yv) | 3:33 | 2022-06-24 | 2022-07-15 |
@@ -573,7 +574,7 @@
 | [That's How You Know](https://open.spotify.com/track/2a8QMkvjHVN05rjChPwaD9) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [That's How You Know](https://open.spotify.com/album/79tkDy0wcYPE0oaU6FIdl8) | 2:59 | 2023-06-30 | 2023-07-29 |
 | [That's Texas](https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [That's Texas](https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8) | 2:43 | 2023-10-13 |  |
 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 | 2024-01-05 |  |
-| [That's What You Get](https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [That's What You Get](https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT) | 2:39 | 2024-10-04 |  |
+| [That's What You Get](https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [That's What You Get](https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT) | 2:39 | 2024-10-04 | 2025-07-13 |
 | [The Bar Guy](https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Bar Guy](https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc) | 3:34 | 2023-03-24 | 2023-05-14 |
 | [The Bar Guy](https://open.spotify.com/track/73PETz82LOgrKAlxtpCPu7) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:34 | 2023-05-12 | 2023-07-01 |
 | [The Barn](https://open.spotify.com/track/6BDXxo7jytTFl9xNcT2OBs) | [Colby Lee Swift](https://open.spotify.com/artist/7h0IvtBCdPbcIBkSskcM49) | [The Barn](https://open.spotify.com/album/7rG5sX9pivGGmMow6FCgwC) | 3:48 | 2025-01-31 | 2025-03-21 |

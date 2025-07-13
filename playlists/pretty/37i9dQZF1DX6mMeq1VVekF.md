@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Kae Tempest
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,056 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,065 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 11 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
 | 12 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
 | 13 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
-| 14 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 |
-| 15 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 |
+| 14 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 |
+| 15 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 |
 | 16 | [Wasteman](https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Wasteman](https://open.spotify.com/album/2xJKS127RMqv3KpKeiW6Do) | 2:25 |
 | 17 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 |
 | 18 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 30 | [Atabaque Riddim](https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Com Amor Brazil](https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy) | 2:23 |
 | 31 | [NO MANNERS](https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [NO MANNERS](https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX) | 2:18 |
 | 32 | [Same Sh\*t](https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Same Sh\*t](https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r) | 2:28 |
-| 33 | [Know Yourself](https://open.spotify.com/track/3CZrKsC8qiP6byNgqKXEfV) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Know Yourself](https://open.spotify.com/album/7nlEUHiivhC4V9mbmLcDdX) | 2:40 |
-| 34 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
+| 33 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
+| 34 | [Know Yourself](https://open.spotify.com/track/3CZrKsC8qiP6byNgqKXEfV) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Know Yourself](https://open.spotify.com/album/7nlEUHiivhC4V9mbmLcDdX) | 2:40 |
 | 35 | [cook & effy](https://open.spotify.com/track/2Ine8NFQ7cUXIIlvzBlOPE) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [cook & effy](https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX) | 3:07 |
 | 36 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 37 | [Prada or Celine](https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Prada or Celine](https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd) | 2:20 |

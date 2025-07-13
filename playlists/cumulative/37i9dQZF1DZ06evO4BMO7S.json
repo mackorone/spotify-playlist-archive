@@ -629,6 +629,28 @@
     },
     {
       "album": {
+        "name": "NamgungFEFERE",
+        "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        },
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228544,
+      "name": "NamgungFEFERE (feat. Japanese Breakfast)",
+      "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
+    },
+    {
+      "album": {
         "name": "Nobody Sees Me Like You Do",
         "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
       },

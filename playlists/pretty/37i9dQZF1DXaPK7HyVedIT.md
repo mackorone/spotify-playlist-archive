@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Bashkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,156 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,917 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 2 | [All I Ever Wanted \(GoodTimes Mix\)](https://open.spotify.com/track/3c5l2NvI7m6K9OsOkD0ww1) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Analu \(BR\)](https://open.spotify.com/artist/7eL1mVS0252oWwJTXb74EI) | [11](https://open.spotify.com/album/47IATRI8YvOdoDaqe0MSCh) | 4:33 |
 | 3 | [5 Days In Búzios](https://open.spotify.com/track/32P5p8mzGF3wzWaSico9mM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [5 Days In Búzios](https://open.spotify.com/album/1m6dFh2O0KPxyiVIxXzwQt) | 4:03 |
 | 4 | [Stuka Ju87](https://open.spotify.com/track/5nNWOLemVk2QaeeJQwOKli) | [Manzzy](https://open.spotify.com/artist/33gsd5LjLbV9ETLSpMhu2g), [Vizionnare](https://open.spotify.com/artist/6BiimOYyjHir9iIH4gaxY9) | [Stuka Ju87](https://open.spotify.com/album/22lPWJ6vAFKQxKHerUFquF) | 4:21 |
-| 5 | [coca \(Extended Mix\)](https://open.spotify.com/track/4IySr3wanzNZ8VhqP7xMbB) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [coca](https://open.spotify.com/album/0DMgwPOW2DJXQiJFTsx6pf) | 3:36 |
+| 5 | [coca \(Extended Mix\)](https://open.spotify.com/track/4IySr3wanzNZ8VhqP7xMbB) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [coca \(Extended Mix\)](https://open.spotify.com/album/0DMgwPOW2DJXQiJFTsx6pf) | 3:36 |
 | 6 | [Let It Be For Love](https://open.spotify.com/track/4oCWAv1wVeJ3Wk3irk8e5o) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Breathe](https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku) | 3:22 |
 | 7 | [Place In Your Heart](https://open.spotify.com/track/6DAbgChwb351IrjMcDcIDN) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Place In Your Heart](https://open.spotify.com/album/1cxKBMK3BW5bVg1VyzoKPQ) | 2:57 |
 | 8 | [Repare](https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Repare](https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE) | 3:22 |

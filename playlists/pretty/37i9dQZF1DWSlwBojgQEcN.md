@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684,533 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,017 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 27 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
 | 28 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 29 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
-| 30 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
-| 31 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
+| 30 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
+| 31 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 32 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
 | 33 | [Big Love Ahead](https://open.spotify.com/track/3RGfmaB407YxayMDaV2jlO) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Big Love Ahead](https://open.spotify.com/album/0XT6wyN9L8cv0On0rOKNIb) | 1:48 |
 | 34 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
@@ -72,13 +72,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 62 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 |
 | 63 | [Hearts](https://open.spotify.com/track/5E8MFkrcyd9w621kmLhDFO) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 4:52 |
 | 64 | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t) | 3:58 |
-| 65 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 |
-| 66 | [1,000 Years](https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:39 |
+| 65 | [1,000 Years](https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:39 |
+| 66 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 |
 | 67 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
 | 68 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 |
 | 69 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
-| 70 | [Machine](https://open.spotify.com/track/5bd7amccz6nBtODT3TgAZE) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Augusta](https://open.spotify.com/album/0f76y2SetY65asEqyesJed) | 2:53 |
-| 71 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 |
+| 70 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 |
+| 71 | [Machine](https://open.spotify.com/track/5bd7amccz6nBtODT3TgAZE) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Augusta](https://open.spotify.com/album/0f76y2SetY65asEqyesJed) | 2:53 |
 | 72 | [I'm so in Love with You \(feat\. Seth Avett\)](https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [The War Inside \(Deluxe Edition\)](https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy) | 3:46 |
 | 73 | [I Like to Be With Me When I'm With You](https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [The Collection](https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i) | 3:50 |
 | 74 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 96 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
 | 97 | [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 |
 | 98 | [Monte Carlo](https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Monte Carlo](https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak) | 3:47 |
-| 99 | [Upon These Stones](https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu) | [Tom Francis](https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH) | [One Step Away](https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ) | 4:18 |
-| 100 | [Whatever You Do](https://open.spotify.com/track/4K37GcwIOuIiN9LxLw98Us) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Whatever You Do](https://open.spotify.com/album/01MktWtflLn2FrKjMYNtVM) | 4:07 |
+| 99 | [Whatever You Do](https://open.spotify.com/track/4K37GcwIOuIiN9LxLw98Us) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Whatever You Do](https://open.spotify.com/album/01MktWtflLn2FrKjMYNtVM) | 4:07 |
+| 100 | [Love Is a Made up Word](https://open.spotify.com/track/1dUfHTOZfjE7fqpqd5zjpH) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Love Is a Made up Word](https://open.spotify.com/album/16nXFlZeEgcDuSCEr8fjKD) | 3:06 |
 
 Snapshot ID: `aF1tFgAAAADL9oMhmXssmPPhqFP99FbY`

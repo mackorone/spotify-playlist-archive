@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,103 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,344 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 40 | [Machine Gun Blues](https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Hard Times And Nursery Rhymes \(Deluxe Edition\)](https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK) | 3:33 |
 | 41 | [Why Worry](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:19 |
 | 42 | [On A Turntable](https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:38 |
-| 43 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
-| 44 | [Shut Up!](https://open.spotify.com/track/2SMYQhVrLA7NRjUxAVghSH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any...](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:02 |
+| 43 | [Shut Up!](https://open.spotify.com/track/2SMYQhVrLA7NRjUxAVghSH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any...](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:02 |
+| 44 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
 | 45 | [I Don't Care As Long As You Sing](https://open.spotify.com/track/15XkE7wBo9JYmpEc757A4E) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [23 Singles](https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB) | 3:20 |
 | 46 | [I Was Wrong](https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [White Light White Heat White Trash](https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv) | 3:57 |
 | 47 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
@@ -68,16 +68,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 58 | [Revolution](https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Andiamo \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK) | 2:24 |
 | 59 | [Failed Imagineer](https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:11 |
 | 60 | [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 |
-| 61 | [Skeletons](https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Skeletons](https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe) | 2:48 |
-| 62 | [The Perfect Crime](https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Perfect Crime](https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf) | 3:26 |
+| 61 | [The Perfect Crime](https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Perfect Crime](https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf) | 3:26 |
+| 62 | [Skeletons](https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Skeletons](https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe) | 2:48 |
 | 63 | [Rocket Man](https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Have a Ball](https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF) | 3:15 |
 | 64 | [What I Got](https://open.spotify.com/track/5nkYHBWXu7KCgcdwP6jcB1) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:51 |
 | 65 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 |
 | 66 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 |
 | 67 | [Die for the Government](https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:39 |
 | 68 | [I Believe I Can Fly](https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Take a Break](https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3) | 3:01 |
-| 69 | [Veteran](https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A Place Called Home](https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi) | 2:45 |
-| 70 | [Live While You Can](https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:37 |
+| 69 | [Live While You Can](https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:37 |
+| 70 | [Veteran](https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A Place Called Home](https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi) | 2:45 |
 | 71 | [The Best I Ever Had](https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z) | [The Swellers](https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw) | [Good For Me](https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA) | 3:59 |
 | 72 | [Clear The Air](https://open.spotify.com/track/7dNsLDM4BflWv392VYzr7n) | [Off With Their Heads](https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv) | [In Desolation](https://open.spotify.com/album/2vc58taiB1ZmDDXS6CtENW) | 3:47 |
 | 73 | [Prisoner of Society](https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End](https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7) | 3:49 |

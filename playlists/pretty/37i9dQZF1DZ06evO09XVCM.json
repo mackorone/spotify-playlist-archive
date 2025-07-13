@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34421,
+  "num_followers": 34424,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAC8RZ+turdk/DGDKmUd2Pjz",
+  "snapshot_id": "aHBUAAAAAAD2NOtvZ1QVj0I6+fn62t7o",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lucky One",
-        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 219072,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -815,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+        "name": "The Lucky One",
+        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
       },
       "artists": [
         {
@@ -824,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 238253,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
+      "duration_ms": 219072,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
       },
@@ -859,26 +859,6 @@
       "duration_ms": 260113,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Raindrops Keep Falling On My Head",
-      "url": "https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
       "duration_ms": 245813,
       "name": "the only",
       "url": "https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo"
     },
     {
       "added_at": null,

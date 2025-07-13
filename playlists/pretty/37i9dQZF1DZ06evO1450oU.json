@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAADRcrjnIXArq7sBF/NQ5yt+",
+  "snapshot_id": "aHBUAAAAAABoII7DmEpdOdyQ6A6aLARw",
   "tracks": [
     {
       "added_at": null,
@@ -212,54 +212,6 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out of the Sky",
-        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Soul Jar",
-      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Strangers Go",
-        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Window Shade",
-      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
       "duration_ms": 266485,
       "name": "Electricity Is Humming",
       "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
@@ -292,6 +244,54 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
+      "duration_ms": 254733,
+      "name": "Window Shade",
+      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 281319,
+      "name": "Swim in Time",
+      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out of the Sky",
+        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Soul Jar",
+      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where Strangers Go",
+        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
       "duration_ms": 205826,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+      "duration_ms": 161284,
+      "name": "Euclid",
+      "url": "https://open.spotify.com/track/19l8TA5uRWQKdVbu7HY9lB"
     }
   ],
   "unique_name": "This Is Salt Creek",

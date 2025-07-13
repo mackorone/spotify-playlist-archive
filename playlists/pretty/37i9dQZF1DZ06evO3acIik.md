@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,341 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,357 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 31 | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/album/1WPY8kRB01objem7KdBwya) | 4:27 |
 | 32 | [Do You Remember?](https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:58 |
 | 33 | [Crumble](https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [SOPHIETHEHOMIE](https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:55 |
-| 34 | [3:35am](https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K) | 3:02 |
-| 35 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 |
+| 34 | [Days Are Getting Shorter](https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w) | 5:34 |
+| 35 | [3:35am](https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K) | 3:02 |
 | 36 | [Amor](https://open.spotify.com/track/7kzWwZlJ1SP35FPvImMn7D) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:08 |
-| 37 | [Days Are Getting Shorter](https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w) | 5:34 |
+| 37 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 |
 | 38 | [6:16am](https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 1:59 |
 | 39 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
 | 40 | [Downfalls](https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7) | 0:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Same Shit \(feat\. dj gummy bear\)](https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [Same Shit \(feat\. dj gummy bear\)](https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ) | 3:05 |
 | 50 | [Stay With Me](https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 4:36 |
 
-Snapshot ID: `aG8CgAAAAACAxGNWij6c68YGV2dSvmF7`
+Snapshot ID: `aHBUAAAAAAAKxZDTD/f4Hk2iDkpe9vDn`

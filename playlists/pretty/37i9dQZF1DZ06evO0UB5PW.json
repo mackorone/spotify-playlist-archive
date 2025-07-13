@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 59664,
+  "num_followers": 59682,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG8CgAAAAAB26gmwK1uDGP+9wUK98lJX",
+  "snapshot_id": "aHBUAAAAAABij8JPYL7H9uPq+vqOMgsF",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunter (Deluxe)",
-        "url": "https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Curl of the Burl",
-      "url": "https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunter",
         "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 207320,
       "name": "Black Tongue",
       "url": "https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunter (Deluxe)",
+        "url": "https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Curl of the Burl",
+      "url": "https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU"
     },
     {
       "added_at": null,

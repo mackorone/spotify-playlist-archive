@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79354,
+  "num_followers": 79376,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "Kj\u00e6rlighetsvisa",
+      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
+    },
+    {
+      "added_at": "2025-07-03 22:00:30",
+      "album": {
         "name": "Linedans",
         "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 253946,
       "name": "Gressholmen",
       "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
-    },
-    {
-      "added_at": "2025-07-03 22:00:30",
-      "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "Kj\u00e6rlighetsvisa",
-      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
     },
     {
       "added_at": "2025-07-03 22:00:30",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 231334,
-      "name": "T\u00e5rnet",
-      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
-    },
-    {
-      "added_at": "2025-07-03 22:00:30",
-      "album": {
         "name": "Paus synger Paus",
         "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 202000,
       "name": "Mitt lille land",
       "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+    },
+    {
+      "added_at": "2025-07-03 22:00:30",
+      "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 231334,
+      "name": "T\u00e5rnet",
+      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
     },
     {
       "added_at": "2025-07-03 22:00:30",
@@ -407,18 +407,18 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
-        "name": "Til deg (Single Version)",
-        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
+        "name": "T\u00f8r ikkje leva",
+        "url": "https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D"
       },
       "artists": [
         {
-          "name": "Marthe Wang",
-          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         }
       ],
-      "duration_ms": 223760,
-      "name": "Til deg - Single Version",
-      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
+      "duration_ms": 221687,
+      "name": "T\u00f8r ikkje leva",
+      "url": "https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo"
     },
     {
       "added_at": "2025-07-03 22:00:30",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
-        "name": "T\u00f8r ikkje leva",
-        "url": "https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D"
+        "name": "Til deg (Single Version)",
+        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+          "name": "Marthe Wang",
+          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
         }
       ],
-      "duration_ms": 221687,
-      "name": "T\u00f8r ikkje leva",
-      "url": "https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo"
+      "duration_ms": 223760,
+      "name": "Til deg - Single Version",
+      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
     },
     {
       "added_at": "2025-07-03 22:00:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
-        "name": "V\u00e5r beste dag",
-        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 202588,
-      "name": "V\u00e5r beste dag",
-      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
-    },
-    {
-      "added_at": "2025-07-03 22:00:30",
-      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+    },
+    {
+      "added_at": "2025-07-03 22:00:30",
+      "album": {
+        "name": "V\u00e5r beste dag",
+        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 202588,
+      "name": "V\u00e5r beste dag",
+      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
     },
     {
       "added_at": "2025-07-03 22:00:30",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
-        "name": "St\u00f8v Og Stjerner",
-        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "V\u00e5r Beste Dag",
-      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
-    },
-    {
-      "added_at": "2025-07-03 22:00:30",
-      "album": {
         "name": "Annen som du",
         "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 217703,
       "name": "Annen som du",
       "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
+    },
+    {
+      "added_at": "2025-07-03 22:00:30",
+      "album": {
+        "name": "St\u00f8v Og Stjerner",
+        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "V\u00e5r Beste Dag",
+      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
     },
     {
       "added_at": "2025-07-03 22:00:30",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-07-03 22:00:30",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
-        }
-      ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
-    },
-    {
-      "added_at": "2025-07-03 22:00:30",
-      "album": {
         "name": "Nordlandslefse",
         "url": "https://open.spotify.com/album/0k1WDGvdIJmkh2DJdygRdB"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 285720,
       "name": "Nordlandslefse",
       "url": "https://open.spotify.com/track/1vqgABBkvcpEg4v0ol8fn1"
+    },
+    {
+      "added_at": "2025-07-03 22:00:30",
+      "album": {
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+        }
+      ],
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2025-07-03 22:00:30",

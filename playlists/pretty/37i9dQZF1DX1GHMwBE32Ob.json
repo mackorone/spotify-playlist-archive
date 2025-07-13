@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zlatan",
-  "num_followers": 99263,
+  "num_followers": 99366,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
         "name": "Timileyin 2.0",
         "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 159346,
       "name": "Where I\u2019m from",
       "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
         "name": "Trenches Luv",
         "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 163633,
       "name": "Money Moves",
       "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
         "name": "Bust Down",
         "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 196363,
       "name": "Bust Down",
       "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -755,18 +755,22 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+        "name": "For Where?",
+        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
+      "duration_ms": 113454,
+      "name": "For Where?",
+      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -787,22 +791,18 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
-        "name": "For Where?",
-        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
       },
       "artists": [
         {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
         }
       ],
-      "duration_ms": 113454,
-      "name": "For Where?",
-      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-07-11 00:01:28",
       "album": {
-        "name": "Bon Appetit",
-        "url": "https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Bon Appetit",
-      "url": "https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
         "name": "Shakespopi",
         "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
       },
@@ -1003,22 +983,6 @@
       "duration_ms": 160375,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
-    },
-    {
-      "added_at": "2025-07-11 00:01:28",
-      "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "added_at": "2025-07-11 00:01:28",
@@ -1043,6 +1007,42 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
+    },
+    {
+      "added_at": "2025-07-11 00:01:28",
+      "album": {
+        "name": "Bon Appetit",
+        "url": "https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Bon Appetit",
+      "url": "https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5"
     },
     {
       "added_at": "2025-07-11 00:01:28",

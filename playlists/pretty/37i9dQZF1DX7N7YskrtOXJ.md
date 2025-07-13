@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,569 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,635 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 22 | [Mi Unico Amor](https://open.spotify.com/track/5xOLqQamew1yeZInzZsh8T) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Un Clásico](https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85) | 2:41 |
 | 23 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 |
 | 24 | [Otro Día Más](https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más](https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye) | 3:22 |
-| 25 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
+| 25 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 |
 | 26 | [Tu Vives Equivocada](https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4) | 3:46 |
-| 27 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 |
+| 27 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
 | 28 | [Cumbia buena](https://open.spotify.com/track/6olrFuGY4UmIvc6Xh4B1Mn) | [Luis Ornelas](https://open.spotify.com/artist/4fV5UOyZ7VTY9y04Jt79gI), [Luis Ornelas y su Grupo](https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44) | [En Vivo](https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI) | 1:57 |
 | 29 | [Como la Flor](https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Como la Flor](https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp) | 3:03 |
 | 30 | [Dejame Quererte](https://open.spotify.com/track/0bhXLKsxJS295w4Z0LMW7Q) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Un Clásico](https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85) | 3:21 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 51 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
 | 52 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
 | 53 | [La Vecina](https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 2:59 |
-| 54 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
-| 55 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 |
-| 56 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
+| 54 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 |
+| 55 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
+| 56 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
 | 57 | [La Santa Diabla](https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 5:56 |
 | 58 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 |
 | 59 | [Ahora Quién](https://open.spotify.com/track/6orkKcLFfNacnV5J0xnFjJ) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 4:58 |

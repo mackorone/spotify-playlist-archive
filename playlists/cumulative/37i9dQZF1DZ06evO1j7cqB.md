@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 48 min
+114 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Moch Sa Mhadainn](https://open.spotify.com/track/1QcJb3RpR83LVjbAmO4hXB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 4:35 | 2023-07-08 | 2023-09-22 |
 | [Mothra's Song](https://open.spotify.com/track/07MzNaR5Rrxm4IqpeOHAxM) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Godzilla: King of the Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4) | 2:10 | 2024-03-17 | 2024-08-16 |
 | [Murtagh's Oath](https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 3:48 | 2023-09-09 | 2025-04-11 |
-| [Nassau Shores](https://open.spotify.com/track/6WoDhdxJvDSgy6WdSAwa5j) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 2:11 | 2024-07-01 |  |
+| [Nassau Shores](https://open.spotify.com/track/6WoDhdxJvDSgy6WdSAwa5j) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 2:11 | 2024-07-01 | 2025-07-13 |
 | [New Dawn at Fraser's Ridge](https://open.spotify.com/track/28TQujqPTiHBSDO6QNcrZT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/14QEvPK4ChqxgybGRtvREd) | 3:45 | 2023-09-09 | 2023-12-14 |
 | [Nori Brandyfoot](https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:49 | 2022-12-01 |  |
 | [Númenor](https://open.spotify.com/track/5m17ITVv8Mva7X5HYRSClh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 4:31 | 2022-12-01 | 2024-10-25 |
@@ -103,6 +103,7 @@
 | [The Passage of Time](https://open.spotify.com/track/4VtzaoMcaQBSae0G7JIdNe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Battlestar Galactica: Season 4 \(Original Soundtrack\) \[Remastered\]](https://open.spotify.com/album/0UtUKe502MOiS0zH6S5RHB) | 1:09 | 2023-09-21 | 2023-11-11 |
 | [The Path](https://open.spotify.com/track/1LIXGhj15OAJh8M1EstmhO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 8:27 | 2023-12-21 | 2024-04-07 |
 | [The River\-daughter \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/7mOi1ez8ZqQDxynyF8Q7Ah) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 1:09 | 2024-08-30 | 2025-05-07 |
+| [The Second Foundation](https://open.spotify.com/track/7g1ZS3b4q5t0p16We3C3q6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [Foundation: Season 3 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1VkLyajPWCqbEtUuCzcRCY) | 3:41 | 2025-07-13 |  |
 | [The Stranger](https://open.spotify.com/track/4lRIrVALubeKxXQ9zDXnO6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 5:03 | 2022-12-07 | 2023-01-14 |
 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 | 2023-03-31 |  |
 | [The Sun Yet Shines](https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 4:34 | 2024-09-12 |  |
