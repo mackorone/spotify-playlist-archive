@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,242 likes - 115 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,298 likes - 115 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Back At Ya](https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Back At Ya](https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI) | 3:54 |
-| 2 | [Versatile](https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Versatile](https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0) | 3:14 |
+| 1 | [Versatile](https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Versatile](https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0) | 3:14 |
+| 2 | [Back At Ya](https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Back At Ya](https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI) | 3:54 |
 | 3 | [No Limits](https://open.spotify.com/track/08uWw9U1PwWfkLCb391nla) | [Kamorah](https://open.spotify.com/artist/0hYTcual29EvsFwnPqWnpi) | [No Limits EP](https://open.spotify.com/album/2QT9RHjBdkdfjHSIsjgt5q) | 4:01 |
 | 4 | [Don't You Want My Love](https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Don't You Want My Love](https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP) | 3:52 |
 | 5 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 114 | [50 INCH WOOFAS](https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN), [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [50 INCH WOOFAS](https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb) | 2:56 |
 | 115 | [On Deck](https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [On Deck](https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy) | 3:18 |
 
-Snapshot ID: `aHEojAAAAADImkSsX46UcncLRNDW4/wK`
+Snapshot ID: `aHPH3AAAAADAGF/PXC7Z4JeLhffOyNeM`

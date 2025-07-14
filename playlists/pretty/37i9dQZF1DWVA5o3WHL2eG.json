@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: OSKA",
-  "num_followers": 39419,
+  "num_followers": 39422,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
+        "name": "Du bist high",
+        "url": "https://open.spotify.com/album/7yYWzxqLM1W6sKHPJMMwxf"
+      },
+      "artists": [
+        {
+          "name": "Charlize",
+          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
+        }
+      ],
+      "duration_ms": 141829,
+      "name": "Du bist high",
+      "url": "https://open.spotify.com/track/233eDMI71mHNwJAs4ybgiM"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
         "name": "Warmes Bier",
         "url": "https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 126153,
       "name": "Slutalarm",
       "url": "https://open.spotify.com/track/2ehLRnItNnf7ZpsVwBpqyL"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
-        "name": "Du bist high",
-        "url": "https://open.spotify.com/album/7yYWzxqLM1W6sKHPJMMwxf"
-      },
-      "artists": [
-        {
-          "name": "Charlize",
-          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
-        }
-      ],
-      "duration_ms": 141829,
-      "name": "Du bist high",
-      "url": "https://open.spotify.com/track/233eDMI71mHNwJAs4ybgiM"
     },
     {
       "added_at": "2025-07-01 22:00:27",

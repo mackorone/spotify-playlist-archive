@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,519 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,550 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 2 | [Vidhi](https://open.spotify.com/track/6SQJSUTpV19eAvK5UHlVU6) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [Jkfactor](https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv) | [Vidhi](https://open.spotify.com/album/4zouKNLpJL3ZdWg2TDTf7J) | 2:22 |
 | 3 | [RentalRap \(Parkkaan Idamille\)](https://open.spotify.com/track/5Xev3pFAWixBYsC7yACDL0) | [Vikaas Alphonse](https://open.spotify.com/artist/04zBR4pYFN5uXURipTEWM1) | [RentalRap \(Parkkaan Idamille\)](https://open.spotify.com/album/3APjpLizzOkMJqvI6xZnin) | 2:59 |
 | 4 | [Munnottu](https://open.spotify.com/track/5sOZQG8Yr8tYunaHuSp4ik) | [Earthgrime](https://open.spotify.com/artist/2eDYdmzgVH5cTJh20dCeSO), [Edo No Jidai](https://open.spotify.com/artist/2uqwKAgha9aY8lqBIZk0t9), [Bhraandan](https://open.spotify.com/artist/42jvGGIqzYvTjLlgPDVoCD) | [Dirty Natural Adholokam](https://open.spotify.com/album/64UeFxLJrRWUmBpNGAvTVD) | 3:49 |
-| 5 | [Sundara Lokam \- From "Not so Hiphop"](https://open.spotify.com/track/6omswR4MHXOzcF6mmKSPem) | [Rajat Prakash](https://open.spotify.com/artist/3Tju0d02eWwa4FDcqR643X), [Hatsmyth](https://open.spotify.com/artist/1TnWgtL7dTSCAsBpYvCzbQ) | [Sundara Lokam \(From "Not so Hiphop"\)](https://open.spotify.com/album/4jmK3sfAihkChR79LuXzBC) | 4:32 |
+| 5 | [Sundara Lokam \- From "Not so Hiphop"](https://open.spotify.com/track/6omswR4MHXOzcF6mmKSPem) | [Hatsmyth](https://open.spotify.com/artist/1TnWgtL7dTSCAsBpYvCzbQ), [Rajat Prakash](https://open.spotify.com/artist/3Tju0d02eWwa4FDcqR643X) | [Sundara Lokam \(From "Not so Hiphop"\)](https://open.spotify.com/album/4jmK3sfAihkChR79LuXzBC) | 4:32 |
 | 6 | [Poothiri](https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic) | [Poothiri](https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5) | 4:00 |
 | 7 | [AARA?](https://open.spotify.com/track/04T0gu2e2r7yTFA2sGC6e8) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [Jkfactor](https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv) | [AARA?](https://open.spotify.com/album/33p98nR4AQlS3qNkbd4Yhv) | 2:34 |
 | 8 | [Lovely](https://open.spotify.com/track/69wWhg8D5ZqhwUcZmh0MDV) | [SAMJU ZAG](https://open.spotify.com/artist/6UmqznGDf6FWjpZBJEfiKO), [Baluccciiii](https://open.spotify.com/artist/7wOhPadZzkMCYcHo8GIpho), [BEAT KADA](https://open.spotify.com/artist/1rioOvyqLSkH6GHDrgzOdJ) | [Lovely](https://open.spotify.com/album/3eRyDGrFeHsQmzJouTFmGm) | 3:39 |

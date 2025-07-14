@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24444,
+  "num_followers": 24448,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 311327,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 311327,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "D\u00eda del Trabajador",
         "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 144341,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/2jUBJI2rdKGtVXqjKnuf5b"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Sombra de Tibur\u00f3n",
-        "url": "https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 195410,
-      "name": "Malos Sentimientos",
-      "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Bar de Playa",
         "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 129945,
       "name": "Bar de Playa",
       "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Sombra de Tibur\u00f3n",
+        "url": "https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 195410,
+      "name": "Malos Sentimientos",
+      "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Vandalismo Comparado",
+        "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        },
+        {
+          "name": "Ni\u00f1o Elefante",
+          "url": "https://open.spotify.com/artist/6acinmwqNCJbgvPoRpaO2n"
+        }
+      ],
+      "duration_ms": 135189,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
         "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Vandalismo Comparado",
-        "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
-      },
-      "artists": [
-        {
-          "name": "107 Faunos",
-          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
-        },
-        {
-          "name": "Ni\u00f1o Elefante",
-          "url": "https://open.spotify.com/artist/6acinmwqNCJbgvPoRpaO2n"
-        }
-      ],
-      "duration_ms": 135189,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Losers' Paradise",
         "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 210750,
       "name": "Losers' Paradise",
       "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "general paz",
+        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 169581,
+      "name": "General Paz",
+      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -887,18 +903,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "general paz",
-        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+        "name": "Destruyo Mi Guitarra",
+        "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
       },
       "artists": [
         {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 169581,
-      "name": "General Paz",
-      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
+      "duration_ms": 117087,
+      "name": "Destruyo Mi Guitarra",
+      "url": "https://open.spotify.com/track/5Dj8AXxfscyjkgO3M5jiJq"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -955,26 +975,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Destruyo Mi Guitarra",
-        "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
-      },
-      "artists": [
-        {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 117087,
-      "name": "Destruyo Mi Guitarra",
-      "url": "https://open.spotify.com/track/5Dj8AXxfscyjkgO3M5jiJq"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "LOS VIEJOS CON GUITA",
         "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/43lwpoOoIiRukN8WCCVn3k"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/5dlP6YPy7JaOIsqQ4jaNNn"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Me gusta mirarte de cerca",
         "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
       },
@@ -1043,26 +1063,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/43lwpoOoIiRukN8WCCVn3k"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        },
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/5dlP6YPy7JaOIsqQ4jaNNn"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "malas decisiones",
         "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Cinta Testigo, Vol. 1",
-        "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 182197,
-      "name": "Las Cosas que Fueron Antes",
-      "url": "https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "No Mor\u00ed",
         "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 183203,
       "name": "No Mor\u00ed",
       "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Cinta Testigo, Vol. 1",
+        "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 182197,
+      "name": "Las Cosas que Fueron Antes",
+      "url": "https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "NT al sol",
-        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        },
-        {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
-        },
-        {
-          "name": "El Mundo Limon",
-          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
-        }
-      ],
-      "duration_ms": 202827,
-      "name": "NT al sol",
-      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Comportamiento Err\u00e1tico",
         "url": "https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 189940,
       "name": "Otra Galaxia",
       "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "NT al sol",
+        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        },
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "El Mundo Limon",
+          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+        }
+      ],
+      "duration_ms": 202827,
+      "name": "NT al sol",
+      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
+        "url": "https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O"
+      },
+      "artists": [
+        {
+          "name": "Fantasmagoria",
+          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+        }
+      ],
+      "duration_ms": 118625,
+      "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
+      "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "No digas que no te avis\u00e9",
         "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 266472,
       "name": "No digas que no te avis\u00e9",
       "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "VOLVER A CERO",
-        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
-      },
-      "artists": [
-        {
-          "name": "Dante Ouvi\u00f1a",
-          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "VOLVER A CERO",
-      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1447,34 +1447,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Donde nac\u00ed",
-        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+        "name": "VOLVER A CERO",
+        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
         }
       ],
-      "duration_ms": 231270,
-      "name": "Donde nac\u00ed",
-      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
-        "url": "https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O"
-      },
-      "artists": [
-        {
-          "name": "Fantasmagoria",
-          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
-        }
-      ],
-      "duration_ms": 118625,
-      "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
-      "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
+      "duration_ms": 186250,
+      "name": "VOLVER A CERO",
+      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1507,6 +1491,22 @@
       "duration_ms": 263000,
       "name": "Boca de Dama",
       "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "added_at": "2025-05-09 15:00:14",

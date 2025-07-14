@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > DJ Snake au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,750 likes - 40 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,798 likes - 40 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

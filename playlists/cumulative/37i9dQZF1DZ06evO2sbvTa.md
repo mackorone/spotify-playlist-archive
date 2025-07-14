@@ -4,11 +4,11 @@
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 25 min
+58 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [77 Birds \(feat\. Gucci Mane\)](https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 3:59 | 2025-07-06 |  |
+| [77 Birds \(feat\. Gucci Mane\)](https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 3:59 | 2025-07-06 | 2025-07-14 |
 | [Big Guwap \(feat\. Young Scooter\)](https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:04 | 2025-04-01 |  |
 | [Birds Take a Bath](https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Astronaut Status](https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA) | 4:24 | 2025-04-01 |  |
 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 | 2025-04-01 |  |
@@ -39,6 +39,7 @@
 | [Julio](https://open.spotify.com/track/06mKlVJEJvUObtruuxQuKi) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Street Runnaz 71](https://open.spotify.com/album/0DUanaQOnLsiDiMnSN2dwh) | 3:14 | 2025-04-28 | 2025-05-10 |
 | [Life](https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 3:04 | 2025-04-01 |  |
 | [Life Support](https://open.spotify.com/track/6ccAG3Mvu2qPtfqTjvt2VF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 4:10 | 2025-04-04 | 2025-05-07 |
+| [Lonely \(feat\. Young Scooter\) \- Remix](https://open.spotify.com/track/0QBDmhUqCEFtxA6OoAktKC) | [Speaker Knockerz](https://open.spotify.com/artist/3KuLo66B73btyQpdXlkqFx), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Married to the Money II \#MTTM2](https://open.spotify.com/album/3lLFSUpKZ22bmK9asvk5uE) | 3:06 | 2025-07-14 |  |
 | [Made It](https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fast Lane Juugin](https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX) | 4:26 | 2025-04-01 |  |
 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 | 2025-04-01 |  |
 | [Muddy \(feat\. Young Dolph & Young Scooter\)](https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap House 3](https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL) | 4:15 | 2025-04-01 |  |

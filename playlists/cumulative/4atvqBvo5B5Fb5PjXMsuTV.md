@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 13 Jul 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 14 Jul 22:04 UTC.
 
-5,120 songs - 11 day 20 hr 59 min
+5,123 songs - 11 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [Burgerpommes 2](https://open.spotify.com/track/3SGNRhjDFRsjYqswl3Zptq) | [LukasBS](https://open.spotify.com/artist/6UXLYfkcd2st5enW3bxvlQ), [Marvin Vlogt](https://open.spotify.com/artist/0lJCrlh8MQ4qGpLV0NMvAo), [Canselguel](https://open.spotify.com/artist/7xsSqPJSdYSj17KJKGGYTR) | [Burgerpommes 2](https://open.spotify.com/album/3lv5pXqA46mgcbRhZG5S2W) | 3:01 | 2024-12-02 | 2024-12-06 |
 | [Burj Khalifa](https://open.spotify.com/track/49Ycoi7GZLEciqnmhtge14) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Burj Khalifa](https://open.spotify.com/album/26heFnuWNaGoVT1pZ3Tw9v) | 3:05 | 2024-04-26 | 2024-04-28 |
 | [Burn](https://open.spotify.com/track/2AhIsvwpkE3CI2cNefp7au) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [Burn](https://open.spotify.com/album/3jIXM6JwItR5LJ37kIfmUl) | 3:03 | 2024-10-30 | 2024-11-02 |
+| [Burn Me With A Bible](https://open.spotify.com/track/14axJIbe94zBTuMQAmS873) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Burn Me With A Bible](https://open.spotify.com/album/0x4sJF4h5ESw23g1eIsnfi) | 4:05 | 2025-07-13 |  |
 | [Burn My Mirror](https://open.spotify.com/track/6E11HSUXTXAPyihBt3i0Ut) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Burn My Mirror](https://open.spotify.com/album/7C66ymcWAcMaQejryjyaz6) | 3:13 | 2024-09-06 | 2024-09-10 |
 | [Burn Your Local Butcher](https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Burn Your Local Butcher](https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m) | 3:04 | 2024-07-30 | 2024-08-02 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-03 | 2024-07-06 |
@@ -1511,6 +1512,7 @@
 | [Fed by Violence](https://open.spotify.com/track/3dTLFY7SU7eBt6NyIduKLO) | [Frontières](https://open.spotify.com/artist/4LQCWMBhE1888kPXrl55Gc) | [Fed by Violence](https://open.spotify.com/album/0dAdjwMqwqDU8TZuryA2Os) | 3:54 | 2024-10-01 | 2024-10-04 |
 | [Feed My Mind](https://open.spotify.com/track/3KWrAfR59v82baJntLg68h) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Feed My Mind](https://open.spotify.com/album/3RNujL3zp0Ig0lUwxaOWPj) | 3:31 | 2024-09-11 | 2024-09-13 |
 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 | 2024-05-31 | 2024-06-02 |
+| [Feeeeeeeeel](https://open.spotify.com/track/5eSSmNIgjgzru9ONPvNNYf) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Feeeeeeeeel](https://open.spotify.com/album/4ETeS3fpSdrTBxSOims39G) | 2:13 | 2025-07-13 |  |
 | [FEEL](https://open.spotify.com/track/7eDUdsz2b3R2qs0k1fNIzx) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [FEEL](https://open.spotify.com/album/2XN13QMotjuOL0fSeRuiwd) | 3:25 | 2024-11-08 | 2024-11-26 |
 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 | 2024-09-11 | 2024-09-14 |
 | [Feel Like This](https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Feel Like This](https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW) | 3:48 | 2024-12-05 | 2024-12-07 |
@@ -2437,7 +2439,7 @@
 | [Kick Back](https://open.spotify.com/track/4L9SAF40SFewdrkl74b27M) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb) | [Kick Back](https://open.spotify.com/album/1WP54EBpUKdWeGMA7zChgj) | 3:36 | 2024-10-04 | 2024-10-08 |
 | [KICK IT](https://open.spotify.com/track/1QO77IkCzSPJ32EyhEOsPe) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [ETERNAL YOUTH : KICK IT](https://open.spotify.com/album/4cl2tOZW0kKrJbAduHQ95G) | 2:49 | 2024-05-14 | 2024-05-16 |
 | [Kick the Bucket](https://open.spotify.com/track/55EFnf0yLtscto5FuBLpKD) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13) | [Kick the Bucket](https://open.spotify.com/album/4Tm49F9TjTJRFeAzaE5aL4) | 1:30 | 2024-10-22 | 2024-10-25 |
-| [Kickboxer](https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Kickboxer](https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn) | 3:50 | 2025-07-04 |  |
+| [Kickboxer](https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Kickboxer](https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn) | 3:50 | 2025-07-04 | 2025-07-14 |
 | [KiCKIN](https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [KiCKIN](https://open.spotify.com/album/51HW3FtsiuLI3sYGFWDfXs) | 2:22 | 2024-09-13 | 2024-09-15 |
 | [Kid & Leveret](https://open.spotify.com/track/67k5hyLeNqd8HueETh1qBh) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Kid & Leveret](https://open.spotify.com/album/06EK1nrUNdGIfJqJK50yNV) | 5:13 | 2025-02-23 | 2025-03-01 |
 | [KID AGAIN](https://open.spotify.com/track/0FcVZWtHJ0XoHhbT8fiyAg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [KID AGAIN](https://open.spotify.com/album/3WOOLxbV3VQ1EqejiL6W5d) | 3:19 | 2024-09-27 | 2024-10-02 |
@@ -3375,7 +3377,7 @@
 | [Permanently Fucked](https://open.spotify.com/track/6cHWzELjRZguOd4Ruvb5wM) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Permanently Fucked](https://open.spotify.com/album/1Qq9cVADXfGaooqiqI5x3H) | 4:13 | 2024-06-04 | 2024-06-06 |
 | [Perverted Exhumation](https://open.spotify.com/track/1COrRjz32t0Ujk8l2Cf4Qf) | [Coffin Rot](https://open.spotify.com/artist/6qKbKPLxqnwibapg6P3Fhs) | [Perverted Exhumation](https://open.spotify.com/album/7qqXzM0u8Yf0o4NNFdH9k6) | 4:14 | 2024-07-31 | 2024-08-02 |
 | [Petco](https://open.spotify.com/track/6CovIpwJhaHiu5vDFWGQAE) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Petco](https://open.spotify.com/album/0phvBVPWWFu1sgYSm7rGuN) | 3:03 | 2024-06-04 | 2024-06-06 |
-| [peter pan.](https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [peter pan.](https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L) | 3:04 | 2025-07-04 |  |
+| [peter pan.](https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [peter pan.](https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L) | 3:04 | 2025-07-04 | 2025-07-14 |
 | [PHANTOM BRICKWORKS VII](https://open.spotify.com/track/5Bxn4PN46l8nemHBEEd3RJ) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS VII](https://open.spotify.com/album/5ca3tSUujeAqajGODRd0J1) | 10:42 | 2024-11-08 | 2024-11-09 |
 | [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-10-29 | 2024-11-01 |
 | [Phat Butt](https://open.spotify.com/track/0MhGYNOByI9IUNRvkf2VdA) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/6Z5OissMrsh0s6pyUE9qdr) | 2:09 | 2024-06-21 | 2024-06-23 |
@@ -4841,7 +4843,7 @@
 | [What a Day](https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [What a Day](https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU) | 3:18 | 2024-08-01 | 2024-08-03 |
 | [What Are You \(Wow\)](https://open.spotify.com/track/7adBoIUp1r4G7m5ZElCqYy) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [What Are You \(Wow\)](https://open.spotify.com/album/31LdRx7FcPJmhh5uo22NVf) | 4:19 | 2025-06-14 | 2025-06-22 |
 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 | 2025-03-28 | 2025-04-05 |
-| [What Did I Miss?](https://open.spotify.com/track/1IeAHTFukgidXjoMi95uf2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/3JuECBOogQ2QOIYStKCrqv) | 3:14 | 2025-07-05 |  |
+| [What Did I Miss?](https://open.spotify.com/track/1IeAHTFukgidXjoMi95uf2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/3JuECBOogQ2QOIYStKCrqv) | 3:14 | 2025-07-05 | 2025-07-14 |
 | [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-09 | 2024-08-13 |
 | [What Girls Do](https://open.spotify.com/track/7D3xPNBJRaGB7XBFYF1By4) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Girls Do](https://open.spotify.com/album/6JMfi3fZWlTORb7RK9odSj) | 2:16 | 2024-06-28 | 2024-07-03 |
 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 | 2024-11-01 | 2024-11-07 |
@@ -5039,6 +5041,7 @@
 | [your name forever](https://open.spotify.com/track/25HmjsZYDISFMQmeZoQvkz) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [your name forever](https://open.spotify.com/album/4KNaPcFRyGMxyOQrOazeGm) | 3:49 | 2025-03-20 | 2025-03-29 |
 | [Your Name In Lights](https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Your Name In Lights](https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf) | 3:39 | 2024-12-10 | 2024-12-14 |
 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-01-10 | 2025-01-21 |
+| [Your New Place](https://open.spotify.com/track/27G7xkS9uc18t1FgTr89Pl) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Your New Place](https://open.spotify.com/album/0X2GVJ31G9U0rrbw4kneBa) | 7:32 | 2025-07-13 |  |
 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 | 2024-10-25 | 2024-10-31 |
 | [your wedding](https://open.spotify.com/track/1mrwfndSc4xemZcavXuJFq) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [your wedding](https://open.spotify.com/album/26D68txe714qfGvzXi6ZXu) | 3:36 | 2024-11-13 | 2024-11-26 |
 | [You’re So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 | 2024-06-03 | 2024-06-06 |

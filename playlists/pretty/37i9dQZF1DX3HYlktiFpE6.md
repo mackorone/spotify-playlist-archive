@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,575 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,573 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 95 | [Grace Kelly \- Studio Version](https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu) | [The Whiffenpoofs](https://open.spotify.com/artist/70kYiT1DhBuwkjGzASOeYV) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:18 |
 | 96 | [Fix You](https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [With a Twist \(Deluxe\)](https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt) | 4:06 |
 | 97 | [Fireflies](https://open.spotify.com/track/7LRWKRtImL5kcLHOZXOntp) | [University of Rochester Midnight Ramblers](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) | [Best of BOCA: The First 20 Years](https://open.spotify.com/album/0fYmQbtamuztIVeY5c7Svs) | 3:38 |
-| 98 | [Don't Stop Believin' \(Glee Cast Version\) \- Cover of Journey](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 |
+| 98 | [Don't Stop Believin' \- Cover of Journey](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 |
 | 99 | [God Herself](https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [God Herself](https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H) | 2:32 |
 | 100 | [Misty Mountains \(A Cappella\)](https://open.spotify.com/track/1g5OHdV7X0nOaB9Vy8sGdN) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Misty Mountains \(A Cappella\)](https://open.spotify.com/album/41iB6cCYKWTpOivxL7lVaS) | 4:20 |
 

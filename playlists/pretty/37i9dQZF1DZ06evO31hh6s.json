@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAAA88aE6thIzcxik0vQVG67u",
+  "snapshot_id": "aHGlgAAAAABxRRi4mlMnLTgLj8tXa3SU",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lisa Raised a G",
+        "url": "https://open.spotify.com/album/4NqKrN36q1dfYvNyFTIreB"
+      },
+      "artists": [
+        {
+          "name": "Ridah",
+          "url": "https://open.spotify.com/artist/5L87QWGllsoV5dGkeKvKn5"
+        },
+        {
+          "name": "Blayne",
+          "url": "https://open.spotify.com/artist/195Q0gacuE6fvICQuxhrCA"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 216158,
+      "name": "Picture Us Rollin' (feat. Blayne & Young Noble)",
+      "url": "https://open.spotify.com/track/5hyPuKYcTkThoNZkQh6shm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "96 (feat. Young Noble)",
         "url": "https://open.spotify.com/album/0xShvfb2iQJdt46crfsyQV"
       },
@@ -339,30 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lisa Raised a G",
-        "url": "https://open.spotify.com/album/4NqKrN36q1dfYvNyFTIreB"
-      },
-      "artists": [
-        {
-          "name": "Ridah",
-          "url": "https://open.spotify.com/artist/5L87QWGllsoV5dGkeKvKn5"
-        },
-        {
-          "name": "Blayne",
-          "url": "https://open.spotify.com/artist/195Q0gacuE6fvICQuxhrCA"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 216158,
-      "name": "Picture Us Rollin' (feat. Blayne & Young Noble)",
-      "url": "https://open.spotify.com/track/5hyPuKYcTkThoNZkQh6shm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlaw University",
         "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
       },
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last Outlaw",
+        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Audrey A",
+          "url": "https://open.spotify.com/artist/3UedSJ25mRuso9OuqVG8GU"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "HEAL (feat. Audrey A)",
+      "url": "https://open.spotify.com/track/5pqoEUIYMUO2eVcBzq1cEx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The White Album",
         "url": "https://open.spotify.com/album/3lHf8rtun1vZ2CnU6eQE0G"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 337386,
       "name": "Rubberband Stacks (feat. Cozmo, Yukmouth & Young Noble)",
       "url": "https://open.spotify.com/track/6PhgQvzag3XMNouxHo5In0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last Outlaw",
-        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "Audrey A",
-          "url": "https://open.spotify.com/artist/3UedSJ25mRuso9OuqVG8GU"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "HEAL (feat. Audrey A)",
-      "url": "https://open.spotify.com/track/5pqoEUIYMUO2eVcBzq1cEx"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last Outlaw",
+        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 174812,
+      "name": "Letter To DMX",
+      "url": "https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Print",
         "url": "https://open.spotify.com/album/4iKYORxngobssHDSwVxbKy"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 306293,
       "name": "Fucked Up World",
       "url": "https://open.spotify.com/track/6b25XjfYVAGAwbWIb5CnTT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last Outlaw",
-        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 174812,
-      "name": "Letter To DMX",
-      "url": "https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky Number 7",
-        "url": "https://open.spotify.com/album/3jJfv18AmpmrMOrOzHLgPR"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 422000,
-      "name": "Pac, Yak & Fatal",
-      "url": "https://open.spotify.com/track/71nKPQHrbb6ZTypv0u16om"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Outlaw",
         "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 181500,
       "name": "Born Alone, Die Alone",
       "url": "https://open.spotify.com/track/2eGum7AB3y8Rn9Cnxezr6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucky Number 7",
+        "url": "https://open.spotify.com/album/3jJfv18AmpmrMOrOzHLgPR"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 422000,
+      "name": "Pac, Yak & Fatal",
+      "url": "https://open.spotify.com/track/71nKPQHrbb6ZTypv0u16om"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son of God",
-        "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 496404,
-      "name": "Welcome To Real Life (feat. Arsonal, Hussein Fatal, Tony Atlanta, Malachi)",
-      "url": "https://open.spotify.com/track/7eIjVCRpfg7GLbuzbgMUCH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Outlaw",
         "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 219847,
       "name": "Cold Game",
       "url": "https://open.spotify.com/track/3qnfpioCY8qxwtkB32tPLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son of God",
+        "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 496404,
+      "name": "Welcome To Real Life (feat. Arsonal, Hussein Fatal, Tony Atlanta, Malachi)",
+      "url": "https://open.spotify.com/track/7eIjVCRpfg7GLbuzbgMUCH"
     },
     {
       "added_at": null,
@@ -707,6 +707,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "JJ Based on a Vill Story",
+        "url": "https://open.spotify.com/album/4TUoAnIcQld5TA9GrKSU9f"
+      },
+      "artists": [
+        {
+          "name": "Yukmouth",
+          "url": "https://open.spotify.com/artist/0ndMofuAPmTktjONZv20JL"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Ampichino",
+          "url": "https://open.spotify.com/artist/04HECiWVE4ogBNdOvJuyps"
+        },
+        {
+          "name": "TQ",
+          "url": "https://open.spotify.com/artist/5a6nqHiBS9v3CxYOs7ttET"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "The Ghetto",
+      "url": "https://open.spotify.com/track/0kRaNB7pA0PdHI3HPG3WfY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thugz And Gutta Folk",
         "url": "https://open.spotify.com/album/3PklyVRUPuboMktmUmvt6j"
       },
@@ -735,34 +763,6 @@
       "duration_ms": 213002,
       "name": "Comraderie",
       "url": "https://open.spotify.com/track/0GFcXILH9vqMJ0sBFeOTsS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JJ Based on a Vill Story",
-        "url": "https://open.spotify.com/album/4TUoAnIcQld5TA9GrKSU9f"
-      },
-      "artists": [
-        {
-          "name": "Yukmouth",
-          "url": "https://open.spotify.com/artist/0ndMofuAPmTktjONZv20JL"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "Ampichino",
-          "url": "https://open.spotify.com/artist/04HECiWVE4ogBNdOvJuyps"
-        },
-        {
-          "name": "TQ",
-          "url": "https://open.spotify.com/artist/5a6nqHiBS9v3CxYOs7ttET"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "The Ghetto",
-      "url": "https://open.spotify.com/track/0kRaNB7pA0PdHI3HPG3WfY"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAC ENERGY",
-        "url": "https://open.spotify.com/album/6FLx0S9PmZMUVpZ7gLsyVG"
-      },
-      "artists": [
-        {
-          "name": "RJ Payne",
-          "url": "https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "PAC ENERGY",
-      "url": "https://open.spotify.com/track/2F0Qd8nw6Se27I24tz5ZHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Outlaw",
         "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
       },
@@ -927,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PAC ENERGY",
+        "url": "https://open.spotify.com/album/6FLx0S9PmZMUVpZ7gLsyVG"
+      },
+      "artists": [
+        {
+          "name": "RJ Payne",
+          "url": "https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "PAC ENERGY",
+      "url": "https://open.spotify.com/track/2F0Qd8nw6Se27I24tz5ZHo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Son of God",
         "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
       },
@@ -939,38 +939,6 @@
       "duration_ms": 180035,
       "name": "The Price",
       "url": "https://open.spotify.com/track/1DfoMRdzLHBDHQVOKG7gK4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grow Through It (feat. J.Dot.L & Young Noble)",
-        "url": "https://open.spotify.com/album/63m74jNSB1JRs43zCn35Wn"
-      },
-      "artists": [
-        {
-          "name": "K-Salaam",
-          "url": "https://open.spotify.com/artist/7eDtRejmiXPmd5LeRZeuM6"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
-        },
-        {
-          "name": "J.Dot.L",
-          "url": "https://open.spotify.com/artist/3wIg0fXHYW6NrJNeIsHSaS"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Grow Through It (feat. J.Dot.L & Young Noble)",
-      "url": "https://open.spotify.com/track/7950mPHg3yU4JpWkaC95al"
     },
     {
       "added_at": null,
@@ -1095,26 +1063,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Low Records Presents Ghetto Monopoly",
-        "url": "https://open.spotify.com/album/3RfqSutMM8Z4OhYz7edq3N"
+        "name": "Grow Through It (feat. J.Dot.L & Young Noble)",
+        "url": "https://open.spotify.com/album/63m74jNSB1JRs43zCn35Wn"
       },
       "artists": [
         {
+          "name": "K-Salaam",
+          "url": "https://open.spotify.com/artist/7eDtRejmiXPmd5LeRZeuM6"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        },
+        {
+          "name": "J.Dot.L",
+          "url": "https://open.spotify.com/artist/3wIg0fXHYW6NrJNeIsHSaS"
+        },
+        {
           "name": "Young Noble",
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "Gaf Pak",
-          "url": "https://open.spotify.com/artist/1hnsD6lN8e0kXprfhjNqTX"
-        },
-        {
-          "name": "$krillz N Streets",
-          "url": "https://open.spotify.com/artist/59wXLcALaTJzdKxjFMYT5Y"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Hood Oriented",
-      "url": "https://open.spotify.com/track/0kWdVFeMdMQoTaEj1PlR9w"
+      "duration_ms": 196153,
+      "name": "Grow Through It (feat. J.Dot.L & Young Noble)",
+      "url": "https://open.spotify.com/track/7950mPHg3yU4JpWkaC95al"
     },
     {
       "added_at": null,
@@ -1143,18 +1119,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky Number 7",
-        "url": "https://open.spotify.com/album/3jJfv18AmpmrMOrOzHLgPR"
+        "name": "Thug Brothers",
+        "url": "https://open.spotify.com/album/6RQMdcI0S4puobgZ62MbvD"
       },
       "artists": [
+        {
+          "name": "Layzie Bone",
+          "url": "https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M"
+        },
+        {
+          "name": "Bizzy Bone",
+          "url": "https://open.spotify.com/artist/23xTTTcfVHvWRIPiDAOAE4"
+        },
+        {
+          "name": "Bone Brothers",
+          "url": "https://open.spotify.com/artist/03nnahQVkqASmP2XrU9YRR"
+        },
         {
           "name": "Young Noble",
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
         }
       ],
-      "duration_ms": 196070,
-      "name": "Henny & Yoga",
-      "url": "https://open.spotify.com/track/2fHo7g3gUIwUwrYfUUopQR"
+      "duration_ms": 267786,
+      "name": "1,2,3 - Bonus Track",
+      "url": "https://open.spotify.com/track/6xw5bzfHMyklTP3KpfcnFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Legend",
+        "url": "https://open.spotify.com/album/0HGHc3rDuEchbyP5t3UJNn"
+      },
+      "artists": [
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 212805,
+      "name": "Apparently",
+      "url": "https://open.spotify.com/track/386DhHFXyxwwWG0AUZoiGS"
     }
   ],
   "unique_name": "This Is Young Noble",

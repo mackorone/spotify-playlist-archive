@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-805 songs - 1 day 12 hr 20 min
+806 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [A Tribute To First Love](https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [A Tribute to First Love](https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM) | 4:13 | 2023-04-27 |  |
 | [Above the horizon](https://open.spotify.com/track/5wI2gifR40G8xSipSS6Y0b) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:39 | 2021-12-23 | 2022-07-14 |
 | [Adieu](https://open.spotify.com/track/3RiEYQBqeX6hnmnnz45ZHQ) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [In The Gaze](https://open.spotify.com/album/6geuLeECSQmXfQTS1LvaE6) | 2:51 | 2023-12-21 | 2024-10-18 |
-| [Adrift](https://open.spotify.com/track/4wsC53BG8Fb5zeEH0cIvoT) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Adrift](https://open.spotify.com/album/4nVIT4fPofwAVw7GmJWQPV) | 3:41 | 2021-12-23 |  |
+| [Adrift](https://open.spotify.com/track/4wsC53BG8Fb5zeEH0cIvoT) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Adrift](https://open.spotify.com/album/4nVIT4fPofwAVw7GmJWQPV) | 3:41 | 2021-12-23 | 2025-07-14 |
 | [After Hours](https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [After Hours](https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C) | 1:51 | 2022-01-06 |  |
 | [Afternoon coffee](https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:27 | 2022-07-28 | 2024-04-07 |
 | [Afternoon Rain](https://open.spotify.com/track/1iJnHe4sAY9GIaXKWv3gly) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Tyrone Hendrix](https://open.spotify.com/artist/6uBaKLoAcF7BV7gPHFa6Ev), [BrandonLee Cierley](https://open.spotify.com/artist/12YcQzIva0Bw4PVZVYuFjW) | [Afternoon Rain](https://open.spotify.com/album/3Ct0VS2eZA3QiVJXjwrhJR) | 2:53 | 2022-07-28 | 2023-04-27 |
@@ -810,6 +810,7 @@
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |
 | [平和](https://open.spotify.com/track/3g3k750g1iXaaFfK6aWazL) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [平和](https://open.spotify.com/album/3S5A4RX0kQMqKKnPT5UR4w) | 3:23 | 2024-04-12 | 2024-12-05 |
 | [愛が廃れたって \- Instrumental](https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/5V79pIal805EAayl2qblmu) | 4:11 | 2024-02-01 | 2024-06-08 |
+| [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 | 2025-07-11 |  |
 | [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 | 2024-01-10 |  |
 | [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 |  |
 | [蛍の光 \- Step into a World](https://open.spotify.com/track/2C9mRXopIobQ0Op4LmvVfB) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [蛍の光 \(Step into a World\)](https://open.spotify.com/album/2xuer9lpvG0RRLu2OICRn0) | 1:35 | 2022-03-24 | 2022-07-30 |

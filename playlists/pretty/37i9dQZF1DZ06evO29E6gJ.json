@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 12230,
+  "num_followers": 12232,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAAAfOFnO6YbmtpQ0/gXVbDyY",
+  "snapshot_id": "aHGlgAAAAABcQuKeBKs8/xTEijfSkoUR",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 130507,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/7eP3e8oSbNoxtZiBn6j5US"
+      "duration_ms": 150883,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1IakVCQY7u99BadooPlATN"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/1IakVCQY7u99BadooPlATN"
+      "duration_ms": 130507,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/7eP3e8oSbNoxtZiBn6j5US"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Latin Classics",
+        "url": "https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 142613,
+      "name": "Te Vas Angel M\u00edo",
+      "url": "https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Contestadas",
         "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 167800,
       "name": "La Mosca",
       "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Latin Classics",
-        "url": "https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 142613,
-      "name": "Te Vas Angel M\u00edo",
-      "url": "https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI"
     },
     {
       "added_at": null,

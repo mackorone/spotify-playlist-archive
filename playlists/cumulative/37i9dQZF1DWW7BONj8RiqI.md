@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Kes
 
-379 songs - 20 hr 41 min
+380 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-08-26 | 2022-02-27 |
 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 | 2023-02-21 | 2025-06-06 |
 | [Hello \(Iced Heart Riddim\)](https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1) | [muddy](https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM) | [Hello \(Iced Heart Riddim\)](https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4) | 2:54 | 2025-06-20 |  |
-| [Hi & Bye](https://open.spotify.com/track/5gJIue3f58TO6RHRxEAIgJ) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Hi & Bye](https://open.spotify.com/album/1r6F0umKEM8d10C8L4Sa3y) | 4:07 | 2025-06-20 |  |
+| [Hi & Bye](https://open.spotify.com/track/5gJIue3f58TO6RHRxEAIgJ) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Hi & Bye](https://open.spotify.com/album/1r6F0umKEM8d10C8L4Sa3y) | 4:07 | 2025-06-20 | 2025-07-14 |
 | [High Mass](https://open.spotify.com/track/4JESRfIwcr6xACaP4lUgeH) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Best of J.W\. Colllections](https://open.spotify.com/album/35QG2dkD2Bu1FksvC3nF2T) | 1:24 | 2021-08-26 | 2022-02-25 |
 | [Higher Than High](https://open.spotify.com/track/6fRxxDIFHyBO1sAJFrYPHm) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Book of Angels](https://open.spotify.com/album/2a5ZeVoFt7vhiHqtoPBp40) | 5:42 | 2021-08-26 | 2022-02-25 |
 | [Holiday](https://open.spotify.com/track/47n2t64cDRtk4SHJ6j5DQU) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:16 | 2023-07-11 | 2024-07-25 |
@@ -374,6 +374,7 @@
 | [We Woulda](https://open.spotify.com/track/08QneaTQS4TGH4ZovxQ3Bp) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 3:41 | 2022-08-18 | 2022-10-05 |
 | [Weak](https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 2:49 | 2022-02-24 | 2022-08-19 |
 | [Welcome To Carnival](https://open.spotify.com/track/5iQDeHszlApK5qgRaqEBTv) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Welcome To Spicemas](https://open.spotify.com/album/1CjKM4g3AY5QrrVGN76Ife) | 3:18 | 2023-08-11 | 2024-07-25 |
+| [Whale Fu See](https://open.spotify.com/track/1vo5iXgbv8sYVY2xBsZ0Xh) | [Og Park](https://open.spotify.com/artist/4XjPgbIrJruyUIu7NotYhS), [Rum Lawd](https://open.spotify.com/artist/3Ib51TwzOmZDXeUoUGhDOJ) | [Whale Fu See](https://open.spotify.com/album/6toehnLuWC2276thkFeJaQ) | 3:27 | 2025-06-20 |  |
 | [What I Want](https://open.spotify.com/track/7c53MoaEd6aRU7omlRnKgP) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [Soundz of Freedom \(My Ultimate Summer of Love Mix\)](https://open.spotify.com/album/6gnHb4btc0NLg0otP1H30f) | 3:53 | 2023-02-21 | 2023-07-12 |
 | [Whine & Jumping \(feat\. Patrice Roberts\)](https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:29 | 2023-05-15 |  |
 | [Whining Parish](https://open.spotify.com/track/6dV6nfALHtFTBDYnmfbwbq) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w) | [Whining Parish](https://open.spotify.com/album/63hP3ExO7vgGzLDwbpxfAN) | 3:26 | 2023-08-11 | 2024-07-25 |

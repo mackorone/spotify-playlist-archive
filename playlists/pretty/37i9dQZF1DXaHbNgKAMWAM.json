@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 18555,
+  "num_followers": 18561,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-07-08 05:47:15",
       "album": {
-        "name": "\uc5f0\uc560 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 OST Part.2",
-        "url": "https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 207987,
-      "name": "\uc788\uc796\uc544",
-      "url": "https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho"
-    },
-    {
-      "added_at": "2025-07-08 05:47:15",
-      "album": {
         "name": "The Emperor: Owner of the Mask (MBC Drama) OST Part.2",
         "url": "https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 204123,
       "name": "From the beginning You and I",
       "url": "https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr"
+    },
+    {
+      "added_at": "2025-07-08 05:47:15",
+      "album": {
+        "name": "\uc5f0\uc560 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 OST Part.2",
+        "url": "https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 207987,
+      "name": "\uc788\uc796\uc544",
+      "url": "https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho"
     },
     {
       "added_at": "2025-07-08 05:47:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-07-08 05:47:15",
       "album": {
-        "name": "Spring of Youth (Original Soundtrack) Part.7",
-        "url": "https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM"
-      },
-      "artists": [
-        {
-          "name": "Yoo Hwe Seung",
-          "url": "https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "The Look In Your Eyes",
-      "url": "https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd"
-    },
-    {
-      "added_at": "2025-07-08 05:47:15",
-      "album": {
         "name": "The First Night With The Duke (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/2Kr0Fr4pO4hinP2b2eLS6y"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2025-07-08 05:47:15",
       "album": {
-        "name": "Trust in Me (Piano by Cho Youngsoo)",
-        "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
+        "name": "Spring of Youth (Original Soundtrack) Part.7",
+        "url": "https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "Yoo Hwe Seung",
+          "url": "https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs"
         }
       ],
-      "duration_ms": 241413,
-      "name": "Trust in Me (Piano by Cho Youngsoo)",
-      "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
+      "duration_ms": 225360,
+      "name": "The Look In Your Eyes",
+      "url": "https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd"
     },
     {
       "added_at": "2025-07-08 05:47:15",
@@ -855,6 +839,22 @@
       "duration_ms": 226240,
       "name": "With me",
       "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
+    },
+    {
+      "added_at": "2025-07-08 05:47:15",
+      "album": {
+        "name": "Trust in Me (Piano by Cho Youngsoo)",
+        "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Trust in Me (Piano by Cho Youngsoo)",
+      "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
     },
     {
       "added_at": "2025-07-08 05:47:15",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-07-08 05:47:15",
       "album": {
-        "name": "Finale.",
-        "url": "https://open.spotify.com/album/5KPkiln3JOJEXwGq1YTSm0"
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
       "artists": [
         {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 251360,
-      "name": "Finale.",
-      "url": "https://open.spotify.com/track/2oX7ureEPLFBaPtbdJQqpM"
+      "duration_ms": 197813,
+      "name": "Like a dream",
+      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",

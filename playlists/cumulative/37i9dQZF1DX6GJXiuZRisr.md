@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-599 songs - 1 day 17 hr 33 min
+600 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [Need To Feel Loved \- Tinlicker Remix](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN) | [Reflekt](https://open.spotify.com/artist/6TwTAUcCILwoSPY2N3etuY), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Anjunabeats Volume 14](https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX) | 5:08 | 2021-05-07 | 2024-04-06 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/02u5cHxHuJ6NpUIhGsdbU7) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle \(Lane 8 Remix\)](https://open.spotify.com/album/1Arn6M713Pq2l6JuGcENCC) | 4:09 | 2021-05-07 | 2022-07-29 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 4:09 | 2022-07-01 | 2023-05-04 |
-| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 |  |
+| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 | 2025-07-14 |
 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 | 2025-03-21 |  |
 | [Never Let Me Go](https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Let Me Go](https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9) | 5:37 | 2025-02-28 |  |
 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 | 2021-05-07 | 2022-07-28 |
@@ -486,6 +486,7 @@
 | [Sun](https://open.spotify.com/track/3gwL0zQKWmtJA8oYhXmqn8) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Sun EP](https://open.spotify.com/album/2eEvThMm9Kj9HDifqrI8Xw) | 7:29 | 2021-05-07 | 2022-04-13 |
 | [Sunday Driver](https://open.spotify.com/track/66QxW6PVaVt4viuUqHFDsJ) | [Igor Garanin](https://open.spotify.com/artist/4ehXKv4sgs5snOxOGnEHLr) | [Anjunadeep Explorations 15](https://open.spotify.com/album/1Z7foZwT3Mg4ZT5GEKD49W) | 4:52 | 2021-05-07 | 2022-04-21 |
 | [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-09 |  |
+| [Super Powers](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Super Powers](https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi) | 3:32 | 2025-07-11 |  |
 | [Supermodel](https://open.spotify.com/track/3JT8wu4fht9m6m5H9VsAFz) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Supermodel](https://open.spotify.com/album/0wMDrSOXPQeh6Lm2jy5LO6) | 2:52 | 2023-03-03 | 2023-04-01 |
 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 | 2023-05-26 | 2024-07-22 |
 | [Surrender Your Love \- Progressive Edit](https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Surrender Your Love \(Progressive Edit\)](https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z) | 3:05 | 2025-02-21 |  |

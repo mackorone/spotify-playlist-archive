@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,094 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,084 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 | 37 | [Christmas Isn't Christmas](https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Christmas Isn't Christmas](https://open.spotify.com/album/0AGOmWdA3YPhNrKy4GUP3h) | 3:12 |
 | 38 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 39 | [Alone On Christmas](https://open.spotify.com/track/04ZIwjbUaPZzbni4Z5MTUq) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [Alone On Christmas](https://open.spotify.com/album/44Q3Mk0CHcd8fiBNJHHRMx) | 3:42 |
-| 40 | [We Need A Little Christmas](https://open.spotify.com/track/7CuTI8HKqIXMRRfoYEcgK5) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Santa's Happy Hour](https://open.spotify.com/album/60OpZt3Hw8MMxcHW8e5QTL) | 2:44 |
+| 40 | [We Need A Little Christmas \- Cover of Johnny Mathis](https://open.spotify.com/track/7CuTI8HKqIXMRRfoYEcgK5) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Santa's Happy Hour](https://open.spotify.com/album/60OpZt3Hw8MMxcHW8e5QTL) | 2:44 |
 | 41 | [Xmas](https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Xmas](https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0) | 3:22 |
 | 42 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/7z10BGU6HjSmIjqf8rOnyU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Kerst Hits Top 100 \- TOP 40 HITDOSSIER](https://open.spotify.com/album/4Z94GGol9n2V8tpzGEwqro) | 2:33 |
 | 43 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 |

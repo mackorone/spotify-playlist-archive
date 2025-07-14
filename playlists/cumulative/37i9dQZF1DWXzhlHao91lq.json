@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/413pUAWW19XqDYLramlwiR"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218149,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/1XyQyNR4Yynxfr9G4011xr"
+    },
+    {
+      "album": {
         "name": "Aisle 6",
         "url": "https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve"
       },
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 249066,
       "name": "Sitting Room",
       "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"

@@ -5737,6 +5737,24 @@
     },
     {
       "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/0j105nuNpX6LV3ucglFGkZ"
       },
@@ -11652,7 +11670,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 86953,
       "name": "Montagem Bandido",
       "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
@@ -11674,7 +11692,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 97606,
       "name": "Montagem Bandido - Slowed",
       "url": "https://open.spotify.com/track/2spuCBVvQyCsQFHIiie8gP"
@@ -14244,7 +14262,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 152266,
       "name": "Pilfingerdansen - Remix",
       "url": "https://open.spotify.com/track/1xH7LBCKd4kBzD3hiDMJcQ"
@@ -14262,7 +14280,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 156360,
       "name": "Pilfingerdansen - Remix",
       "url": "https://open.spotify.com/track/1nM60x7ZOBAVVe3ipKxD8b"
@@ -15242,7 +15260,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -15260,7 +15278,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -19604,7 +19622,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 83853,
       "name": "web 2.0",
       "url": "https://open.spotify.com/track/054SsgF3L2k5ZeTvbw9PaB"
@@ -22570,7 +22588,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 215680,
       "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0448\u0443\u043c",
       "url": "https://open.spotify.com/track/5NqhAFTgPTsxhm7kDhfVCw"
@@ -25464,6 +25482,24 @@
       "duration_ms": 132800,
       "name": "\u041a\u0443\u0445\u043d\u0438 - Acoustic Version",
       "url": "https://open.spotify.com/track/2kdqEnDyLr9ZzEn92O3HRn"
+    },
+    {
+      "album": {
+        "name": "\u043f\u043e\u0437\u043e\u0440\u043d\u0438\u043a\u0438 \u0432 \u043f\u0440\u044f\u043c\u043e\u043c \u044d\u0444\u0438\u0440\u0435",
+        "url": "https://open.spotify.com/album/4FBGAhGDpokjezkHBYIL9S"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u041e\u041b\u041c\u0410\u0422\u0415\u0420\u0418",
+          "url": "https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "\u043a\u0445\u043c-\u043a\u0445\u043c",
+      "url": "https://open.spotify.com/track/2Br49Z6ckGKdcnDGLj2L8q"
     },
     {
       "album": {
@@ -33508,7 +33544,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 91875,
       "name": "\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u0432\u0430\u043c\u043f\u0438\u0440 vamp",
       "url": "https://open.spotify.com/track/6wkSonQhYvYe1LPeEswTYk"
@@ -33544,7 +33580,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 127505,
       "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/3HuWSpAduuIwOr8Qfu1xK5"

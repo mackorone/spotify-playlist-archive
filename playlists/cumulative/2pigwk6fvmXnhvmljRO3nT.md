@@ -4,7 +4,7 @@
 
 > 
 
-7,436 songs - 19 day 7 hr 25 min
+7,438 songs - 19 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2227,6 +2227,7 @@
 | [Goodbyes](https://open.spotify.com/track/4CYBfRX3oEPni9Elqm8Bnt) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:50 | 2025-01-03 |  |
 | [Goodbyes \(feat\. Young Thug\)](https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:54 | 2025-01-15 |  |
 | [Gook](https://open.spotify.com/track/1T5mVPJE6LilJ7f73L3UDo) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Imperial](https://open.spotify.com/album/42fyKPanos0Q3woi848ktg) | 2:46 | 2025-01-03 |  |
+| [Goose's Dream \(Original\)](https://open.spotify.com/track/5nWhMu5iSKmibvr0uMQmWd) | [Insooni](https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy) | [Goose's Dream/To All Dreamers](https://open.spotify.com/album/7t69eXfrQb8fY51q8EvMQe) | 5:42 | 2025-07-13 |  |
 | [goosebumps](https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:03 | 2025-01-15 |  |
 | [Gore](https://open.spotify.com/track/4CWgevZ4xGjy6o5qMPgYR0) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 2:42 | 2025-01-15 |  |
 | [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:57 | 2025-01-03 |  |
@@ -7136,6 +7137,7 @@
 | [꽃 피는 봄이오면](https://open.spotify.com/track/0RpI9034T3Z2zu7hToTdqT) | [발라드가수들](https://open.spotify.com/artist/2B6LUHwavLRRQscG3Oi74n) | [여자가수 히트 발라드 모음 1집](https://open.spotify.com/album/2NHe3n99KMAEUnXlHIqR7u) | 4:40 | 2025-04-20 |  |
 | [꽃밭에서](https://open.spotify.com/track/4KBU5cza39cf420BfhFru0) | [조관우](https://open.spotify.com/artist/0LZbMJR8riIQCwgh0UKsin) | [Memory](https://open.spotify.com/album/3pnQ1isPX3JZFdMV7YkMZ4) | 4:12 | 2025-01-15 |  |
 | [꿈에서 본 거리](https://open.spotify.com/track/7sDSTwpLdrCXRHetyAolSD) | [Blue Sky](https://open.spotify.com/artist/1pzkEz6aaXEEdzoT9iGJwg) | [푸른하늘 4집 \- 꿈에서 본 거리](https://open.spotify.com/album/1FEXN5g2iw7b6VfZ7DBOHt) | 5:20 | 2025-06-04 |  |
+| [나 가거든](https://open.spotify.com/track/697iSASa9UXARX0baUqREG) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Yangpa The Best Album \- PI..ANWHA](https://open.spotify.com/album/6QPy92SsNFM5I8yQnNcFRk) | 5:26 | 2025-07-13 |  |
 | [나 어릴 적 꿈](https://open.spotify.com/track/35LWTNkTu78YPqF2lS7C0i) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [280KM SPEED](https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI) | 4:08 | 2025-01-15 |  |
 | [나는 나비](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Why Be?](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) | 3:34 | 2025-01-15 |  |
 | [나를 돌아봐](https://open.spotify.com/track/3T92e7pbfXFmeOmuGRUneg) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deux](https://open.spotify.com/album/7t9nZIRd4j53LjRx8opcx3) | 3:45 | 2025-01-03 |  |

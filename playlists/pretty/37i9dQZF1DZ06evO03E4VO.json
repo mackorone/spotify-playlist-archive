@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4754,
+  "num_followers": 4755,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAAAPLnwAeIUUfznYUBIAbwij",
+  "snapshot_id": "aHGlgAAAAAAc26K5dshA9Tw+1rYEKgJc",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "blink of an eye",
-        "url": "https://open.spotify.com/album/7DS8opcjcZNh1QVHPm3L3Z"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "blink of an eye",
-      "url": "https://open.spotify.com/track/4Kc7BvNsfQqqSbhqCrSQ6z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the voicenotes",
         "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 245945,
       "name": "pass you by",
       "url": "https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blink of an eye",
+        "url": "https://open.spotify.com/album/7DS8opcjcZNh1QVHPm3L3Z"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "blink of an eye",
+      "url": "https://open.spotify.com/track/4Kc7BvNsfQqqSbhqCrSQ6z"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 205626,
-      "name": "indica",
-      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
+      "duration_ms": 181480,
+      "name": "stfu (i got u)",
+      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 181480,
-      "name": "stfu (i got u)",
-      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
+      "duration_ms": 205626,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "mensajes de voz",
-        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+        "name": "lips (Original Music from The L Word: Generation Q)",
+        "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 185681,
-      "name": "un ni\u00f1o",
-      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
+      "duration_ms": 187853,
+      "name": "lips - Original Music from The L Word: Generation Q",
+      "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "lips (Original Music from The L Word: Generation Q)",
-        "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
+        "name": "mensajes de voz",
+        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
       },
       "artists": [
         {
@@ -420,25 +420,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 187853,
-      "name": "lips - Original Music from The L Word: Generation Q",
-      "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "valentine's day",
-        "url": "https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "valentine's day",
-      "url": "https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq"
+      "duration_ms": 185681,
+      "name": "un ni\u00f1o",
+      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "valentine's day",
+        "url": "https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "valentine's day",
+      "url": "https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "parallel universe pt. 1",
         "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "fantasies",
-        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "tell the one u love",
-      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "antisocial butterfly",
         "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 183587,
       "name": "mentiras",
       "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "tell the one u love",
+      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "fantasies",
-        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "fantasies",
-      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the voicenotes",
         "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 235480,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "fantasies",
+      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "fantasies",
-        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "get better",
-      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "antisocial butterfly",
         "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 87579,
       "name": "back to you",
       "url": "https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "get better",
+      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "hookah envenena",
-        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 170682,
-      "name": "hookah envenena",
-      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the voicenotes",
         "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 203627,
       "name": "voicenote",
       "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hookah envenena",
+        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 170682,
+      "name": "hookah envenena",
+      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
     },
     {
       "added_at": null,

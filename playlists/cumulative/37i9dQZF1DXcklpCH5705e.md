@@ -4,7 +4,7 @@
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 攬佬SKAI ISYOURGOD
 
-214 songs - 14 hr 4 min
+215 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [給最開心的人](https://open.spotify.com/track/2VDeyWFIuARXVnR4sJIkDE) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [JOYCE](https://open.spotify.com/album/02Brb1tEIxIPc7t5DwX4xv) | 4:18 | 2023-02-02 | 2025-04-04 |
 | [給自己的信](https://open.spotify.com/track/0Tmkb2BB7M6Jxugz2yHZCU) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [C AllLive 2012](https://open.spotify.com/album/6rvPe6eKm2V6YVw3GzJWAj) | 4:33 | 2023-02-02 | 2025-04-04 |
 | [習慣失戀](https://open.spotify.com/track/5p9lznconoyjwg1sR3LW1t) | [Hacken Lee](https://open.spotify.com/artist/3PV11RNUoGfX9tMN2wVljB) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 3:52 | 2023-02-02 | 2025-04-04 |
+| [花斑蚊](https://open.spotify.com/track/6BPO5uXhmI2Qq04zGQuhuz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財之江船入海 \(Stacks from All Sides：Fresh Off the Boat\)](https://open.spotify.com/album/4Jw2JJa6yqFTxLqau9Z3UN) | 3:06 | 2025-07-13 |  |
 | [花街70號](https://open.spotify.com/track/3zt402DLJ4BmCSGeq6K04K) | [Yatfung](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [Until We Meet Again](https://open.spotify.com/album/638h6Jjo6BtVm6vOJKjFbJ) | 3:40 | 2024-04-04 | 2025-04-04 |
 | [著地 \(劇集《男排女將》主題曲\)](https://open.spotify.com/track/18EQCFmlUF3N33s2KHYLcV) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [著地 \(劇集《男排女將》主題曲\)](https://open.spotify.com/album/1Tes4fMM6e2DMXgp6wqhHL) | 4:04 | 2022-03-10 | 2023-02-03 |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-03-10 | 2023-02-03 |

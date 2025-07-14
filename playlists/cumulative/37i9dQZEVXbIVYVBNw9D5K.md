@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,277 songs - 2 day 16 hr 22 min
+1,278 songs - 2 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Derinlerde](https://open.spotify.com/track/7eGi47ucrFzRVwMiNvPtsU) | [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [About Love](https://open.spotify.com/album/0TJ4vUmmSvJ4DMGRq9WhYu) | 3:21 | 2023-04-16 | 2023-06-04 |
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2022-10-20 | 2022-12-18 |
 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 | 2024-07-05 | 2024-10-13 |
-| [Değişmene Rağmen](https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:05 | 2024-10-12 |  |
+| [Değişmene Rağmen](https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:05 | 2024-10-12 | 2025-07-14 |
 | [Değişmene Rağmen](https://open.spotify.com/track/1czWk1T5x9q9PSPMgKuxza) | [yeixs](https://open.spotify.com/artist/51hQ28H5BjnESK2nUoloVC), [M4RLBORO](https://open.spotify.com/artist/7d4t6iQ96DSuN1JPhChNMd) | [Manifesto](https://open.spotify.com/album/0ic55RaWVgwBj3XYgEqAa7) | 3:05 | 2024-10-28 | 2024-10-31 |
 | [Değmesin Ellerimiz](https://open.spotify.com/track/0RoQ5sk1Z9PH2xki3gv5hO) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:27 | 2025-03-04 | 2025-03-09 |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
@@ -594,7 +594,8 @@
 | [HMDL](https://open.spotify.com/track/4gB1ND5arP2TEb7ZYAUrdL) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [HMDL](https://open.spotify.com/album/6Hc0LHGmWgFHtLLPkALdom) | 3:47 | 2025-03-19 | 2025-04-22 |
 | [HODRİ MEYDAN](https://open.spotify.com/track/7IVyGl2LapK633TQEhn6rz) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [HODRİ MEYDAN](https://open.spotify.com/album/3jwcQNmy7GNGjY3gfQ4PTZ) | 2:00 | 2024-12-25 | 2024-12-28 |
 | [HONG KONG](https://open.spotify.com/track/4FiDkc2woxfDbfCoSqx6pq) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HONG KONG](https://open.spotify.com/album/4q85FW8aOiLavEy0BEUeHq) | 1:51 | 2021-12-24 | 2022-03-01 |
-| [HOT](https://open.spotify.com/track/6wD0Bgtt1wx3DuDd6uhWmi) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/3hiG6TaCzWuemBgd2fyh3A) | 2:34 | 2025-07-12 |  |
+| [HOT](https://open.spotify.com/track/085J4lMzOEcymwLPktsbFF) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/7LSs8ufHN7cXBCobW69Omu) | 2:34 | 2025-07-13 |  |
+| [HOT](https://open.spotify.com/track/6wD0Bgtt1wx3DuDd6uhWmi) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/3hiG6TaCzWuemBgd2fyh3A) | 2:34 | 2025-07-12 | 2025-07-14 |
 | [Hotbox](https://open.spotify.com/track/5dXvWrwLhWdEeDdpYD4E08) | [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Hotbox](https://open.spotify.com/album/5HEe9U91C9uUsL9DwUxdmh) | 2:20 | 2022-03-12 | 2022-03-14 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-10-28 | 2023-11-25 |
@@ -1090,7 +1091,7 @@
 | [Suçlarımdan Biri](https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:51 | 2022-06-04 | 2023-04-29 |
 | [SWIM](https://open.spotify.com/track/4P1pxOmZaCIphpT7CGkEsX) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 4:26 | 2023-06-17 | 2023-06-24 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 | 2025-02-01 | 2025-02-22 |
-| [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 | 2024-10-12 | 2025-06-21 |
+| [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 | 2024-10-12 |  |
 | [SÖYLENEYDİBU?](https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [SÖYLENEYDİBU?](https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU) | 2:05 | 2023-05-06 | 2023-05-11 |
 | [SÜR](https://open.spotify.com/track/3SLOjhcE08rzXXBMN8c6UM) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [SÜR](https://open.spotify.com/album/0JMhNmkcLl9dZf9U7uDVkK) | 3:26 | 2022-08-06 | 2022-08-13 |
 | [Sır](https://open.spotify.com/track/1qfaoZIi4RuWa1eS8vYS2L) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sır](https://open.spotify.com/album/1DAMEAIqb27PCErT8HjCDx) | 3:09 | 2021-08-01 | 2021-08-13 |

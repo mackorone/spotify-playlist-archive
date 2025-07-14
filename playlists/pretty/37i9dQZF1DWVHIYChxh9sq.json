@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Codiciado y Edgardo Nu\u00f1ez",
-  "num_followers": 80018,
+  "num_followers": 80040,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
-    },
-    {
-      "added_at": "2025-07-04 05:47:54",
-      "album": {
         "name": "Desde Topo Hasta La Sierra (En vivo)",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra - En vivo",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "added_at": "2025-07-04 05:47:54",
+      "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "added_at": "2025-07-04 05:47:54",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
+        "name": "En Vivo Desde Hacienda Heights",
+        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 522409,
+      "name": "Popurri De Cumbias (En Vivo)",
+      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
+    },
+    {
+      "added_at": "2025-07-04 05:47:54",
+      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 167439,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
-    },
-    {
-      "added_at": "2025-07-04 05:47:54",
-      "album": {
-        "name": "En Vivo Desde Hacienda Heights",
-        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 522409,
-      "name": "Popurri De Cumbias (En Vivo)",
-      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
     },
     {
       "added_at": "2025-07-04 05:47:54",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
-        "name": "De Rey A Rey (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
-        "url": "https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 171365,
-      "name": "El Rey - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
-      "url": "https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX"
-    },
-    {
-      "added_at": "2025-07-04 05:47:54",
-      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
+    },
+    {
+      "added_at": "2025-07-04 05:47:54",
+      "album": {
+        "name": "De Rey A Rey (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
+        "url": "https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 171365,
+      "name": "El Rey - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
+      "url": "https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX"
     },
     {
       "added_at": "2025-07-04 05:47:54",

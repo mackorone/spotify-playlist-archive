@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 679688,
+  "num_followers": 679729,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAAA4Ai1CkyWfhaXmPZWaGUyg",
+  "snapshot_id": "aHGlgAAAAAB+eplZrv6dKD7Lc3H6rBcH",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 30893,
+      "name": "Yachting (Hyper)",
+      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bangarang EP",
         "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 301986,
       "name": "Breakn' a Sweat",
       "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Nights of Stone",
-        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 30893,
-      "name": "Yachting (Hyper)",
-      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
     },
     {
       "added_at": null,

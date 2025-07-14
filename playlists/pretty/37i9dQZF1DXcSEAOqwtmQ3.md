@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,609 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,647 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 35 | [Stalemate](https://open.spotify.com/track/039djQX5LwqXM93UxvktmR) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 12:54 |
 | 36 | [Nwa Baby \- Ashawo Remix](https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy) | 4:17 |
 | 37 | [If You Ask Me](https://open.spotify.com/track/1tsCod19WhQKq198y5jyhq) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Lasso of Truth](https://open.spotify.com/album/07CpwfF3iM9vj2oIqTuk2w) | 3:43 |
-| 38 | [Temptation](https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:44 |
+| 38 | [Yes/No](https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/0n1PpUAHQ6DZvQ4mOiSztv) | 4:07 |
 | 39 | [Imagine That](https://open.spotify.com/track/7zZdhUwZnYEtjBRv9VFY1J) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 4:59 |
 | 40 | [Roforofo Fight \- Edit](https://open.spotify.com/track/4JkMvo5aRm2oJLmVklQ6hn) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Roforofo Fight \(Edit\)](https://open.spotify.com/album/294gpzP3HeeoHAssMTLlyd) | 3:31 |
-| 41 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
-| 42 | [Yes/No](https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/0n1PpUAHQ6DZvQ4mOiSztv) | 4:07 |
-| 43 | [Bizzy Body](https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:49 |
-| 44 | [Arabade](https://open.spotify.com/track/3eOJ0hvl3c19W3NdQSZtHt) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Five Days A Week Lover](https://open.spotify.com/album/1rdN7vx7snfJbRIIrGdf37) | 8:55 |
+| 41 | [Temptation](https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:44 |
+| 42 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
+| 43 | [Arabade](https://open.spotify.com/track/3eOJ0hvl3c19W3NdQSZtHt) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Five Days A Week Lover](https://open.spotify.com/album/1rdN7vx7snfJbRIIrGdf37) | 8:55 |
+| 44 | [Bizzy Body](https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:49 |
 | 45 | [No Agreement \- Edit](https://open.spotify.com/track/5JFUFbOjmebUD2piGlcxhs) | [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [No Agreement \(Edit\)](https://open.spotify.com/album/1nR5s4IA9hwVziWOcwN1G6) | 4:38 |
 | 46 | [Implication](https://open.spotify.com/track/2JgnAVPrS91zBkuCZ05AXX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [T.I.A "This Is Afrobeats"](https://open.spotify.com/album/3JmTzkOMwlIlXWfvzZbMj4) | 3:27 |
 | 47 | [Pon Pon Pon](https://open.spotify.com/track/7r5MI82lGS5JcWNedhIBwi) | [Dagrin](https://open.spotify.com/artist/6LRZTXWP7Ytxujepqoq21m) | [C.E.O](https://open.spotify.com/album/7elpucLOwMMx4Nr4Kto9O3) | 3:55 |
-| 48 | [Ifunanya](https://open.spotify.com/track/039NjRtWTmq4zDBoUOqQgH) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best of P\-Square](https://open.spotify.com/album/6uzbZFSVUksKqMKQa8DAgf) | 4:26 |
-| 49 | [Dododo \- Ekassa 1](https://open.spotify.com/track/6bCmlUUb3u8MOSlu9myY1C) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sir Victor Uwaifo: Guitar Boy Superstar 1970\-76 \(Soundway Records\)](https://open.spotify.com/album/5FCUyTp1uErvfLcj1b1Tj7) | 5:19 |
+| 48 | [Dododo \- Ekassa 1](https://open.spotify.com/track/6bCmlUUb3u8MOSlu9myY1C) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sir Victor Uwaifo: Guitar Boy Superstar 1970\-76 \(Soundway Records\)](https://open.spotify.com/album/5FCUyTp1uErvfLcj1b1Tj7) | 5:19 |
+| 49 | [Ifunanya](https://open.spotify.com/track/039NjRtWTmq4zDBoUOqQgH) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best of P\-Square](https://open.spotify.com/album/6uzbZFSVUksKqMKQa8DAgf) | 4:26 |
 | 50 | [Beng Beng Beng](https://open.spotify.com/track/2zj1UGgmrHjNAEgDa0RKLB) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Afrobeat..\. No Go Die!](https://open.spotify.com/album/4XKaYN78bmgnEWuYsB2doQ) | 4:34 |
 
 Snapshot ID: `ZvaQqgAAAADzFCkmZ5gV+vaHAbzKigyP`

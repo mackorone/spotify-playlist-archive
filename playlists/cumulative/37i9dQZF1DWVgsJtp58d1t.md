@@ -4,7 +4,7 @@
 
 > Click into the feed to learn about what's going on in the world of Afro Adura\. Cover: <a href="spotify:artist:4zmZ8lVLzGc84S4v2B1rLx">Seyi Vibez</a>
 
-4,933 songs - 10 day 10 hr 4 min
+4,935 songs - 10 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [Candy Paint](https://open.spotify.com/track/2hZQJequTwkaizRM0NZRa1) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Candy Paint](https://open.spotify.com/album/3s8zCKO76ch2Lff9swRjtN) | 2:50 | 2024-05-31 | 2024-06-15 |
 | [Candyman](https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Candyman](https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR) | 2:52 | 2024-01-26 | 2024-02-10 |
 | [Cant Be Stopped](https://open.spotify.com/track/4elD76KLyqcW2L5j3BZ86s) | [Young Roc](https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ) | [Function 3000](https://open.spotify.com/album/71r49Trl9Otu24JcQYwOYM) | 2:55 | 2022-08-26 | 2022-09-10 |
+| [CANT STOP](https://open.spotify.com/track/7HFdogJVrkXSm0qBf1JlOB) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:12 | 2025-07-13 |  |
 | [Can’t Be Crete Boy](https://open.spotify.com/track/6azLIBwMsR99vcd360aoGE) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Can’t Be Crete Boy](https://open.spotify.com/album/4NutdbTH11xdWpDhsi1gda) | 3:42 | 2025-04-04 | 2025-04-12 |
 | [Can’t Get Enough](https://open.spotify.com/track/1WklfXO2hWnZx0617x5gkY) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [Can’t Get Enough](https://open.spotify.com/album/5l5yo7DplpKO1jhk9VvCDe) | 2:17 | 2025-06-20 | 2025-06-28 |
 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-13 | 2023-11-30 |
@@ -810,6 +811,7 @@
 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 | 2023-06-09 | 2024-01-13 |
 | [Champagne Shit \(feat\. Latto & Quavo\) \- Remix](https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Champagne Shit \(feat\. Latto & Quavo\) \[Remix\]](https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM) | 2:57 | 2023-10-06 | 2023-11-30 |
 | [Champagne Tears](https://open.spotify.com/track/68KMtOaV3uxUc639uTCoSw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Champagne Tears](https://open.spotify.com/album/0KljOvQxT7RwZqJ8TdM9Py) | 2:12 | 2023-01-27 | 2023-02-18 |
+| [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-13 |  |
 | [Champions](https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Champions](https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn) | 4:02 | 2023-02-03 | 2023-02-25 |
 | [change](https://open.spotify.com/track/2kd5RRR696cC1lWIdDFWTY) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [change](https://open.spotify.com/album/4I0E9mBELs6a1OQ51GVH5i) | 3:01 | 2024-07-19 | 2024-08-03 |
 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 | 2024-10-25 | 2024-11-16 |

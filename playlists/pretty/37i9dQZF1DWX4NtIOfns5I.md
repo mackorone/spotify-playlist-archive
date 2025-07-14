@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Kingfishr on the cover 🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,325 likes - 135 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,323 likes - 135 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

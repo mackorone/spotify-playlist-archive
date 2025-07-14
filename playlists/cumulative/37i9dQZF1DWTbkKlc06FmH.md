@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,059 songs - 2 day 14 hr 33 min
+1,060 songs - 2 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Memories](https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Memories](https://open.spotify.com/album/6W69O0ITYeU5NJfmMgq6Q9) | 2:51 | 2023-05-23 | 2023-05-31 |
 | [metro](https://open.spotify.com/track/3M9HbRpiukEESGhSl4ZS2x) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [liquid city](https://open.spotify.com/album/3Bg6Aso9MrVgtHiih6pclv) | 3:41 | 2024-09-11 | 2024-09-19 |
 | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ) | 3:05 | 2024-01-18 | 2024-03-29 |
+| [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-10 |  |
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-03-15 | 2024-04-19 |
 | [Midnight Train](https://open.spotify.com/track/3jaZ0zYnnidsLD9qlDMPRp) | [Murakami Keisuke](https://open.spotify.com/artist/34EzrWHspo4wT6YmLjE0IH) | [Midnight Train](https://open.spotify.com/album/7AH6O5WhlOlODKPvlHaurH) | 3:39 | 2022-10-25 | 2022-10-27 |
 | [Midnight Train](https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Midnight Train](https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC) | 3:39 | 2022-10-25 | 2023-03-03 |
@@ -760,7 +761,7 @@
 | [Special Days](https://open.spotify.com/track/4or4paBDr7wpOKosYPaz7b) | [Joint Beauty](https://open.spotify.com/artist/74RJ7LQOOa3A0FiCw15PxG), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc) | [Special Days](https://open.spotify.com/album/2XsEUQBbE5ZE6XSBxHucbE) | 3:39 | 2023-08-22 | 2024-04-19 |
 | [Special Days](https://open.spotify.com/track/04OUZdPUt3cnqmogtNh9d3) | [Joint Beauty](https://open.spotify.com/artist/74RJ7LQOOa3A0FiCw15PxG), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [ピーナッツくん](https://open.spotify.com/artist/3ssBfPaamcxmTrzSXcc2cb) | [Special Days](https://open.spotify.com/album/0QRbuoC9sDGuUGm37R7Sfh) | 3:39 | 2023-08-22 | 2024-07-31 |
 | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/7wte64HKNL0keeCHfanAG6) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk) | 2:46 | 2023-02-21 | 2023-03-15 |
-| [Spend My Nights](https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Spend My Nights](https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX) | 2:30 | 2025-03-26 |  |
+| [Spend My Nights](https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Spend My Nights](https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX) | 2:30 | 2025-03-26 | 2025-07-14 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-06-30 | 2023-11-08 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-05-17 |  |
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 | 2024-01-31 |

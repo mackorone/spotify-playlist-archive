@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: Lady Wray
 
-325 songs - 20 hr 9 min
+327 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Changes](https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha) | 3:23 | 2022-07-28 | 2022-12-02 |
 | [Changes](https://open.spotify.com/track/6VwmVpxjMhyNf8gosbY5fd) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5SJsyve81sqsW5NeGOWtyK) | 3:23 | 2022-06-02 | 2022-07-29 |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-01 | 2025-02-18 |
+| [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-14 |  |
 | [Closer](https://open.spotify.com/track/0lukJlQHT1z4xbFmQuby8h) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [3](https://open.spotify.com/album/27DK5lf19A05UbL8a32zy1) | 3:04 | 2022-07-28 | 2022-08-26 |
 | [Closer](https://open.spotify.com/track/4En5QnmJXPRQfHFivOMBKE) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Closer](https://open.spotify.com/album/0mOMaLC5MU7wGlwhDJShX2) | 3:04 | 2022-06-02 | 2022-07-29 |
 | [Come Around and Love Me](https://open.spotify.com/track/5FFSlcb55C7pIFcOYapN1b) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:04 | 2025-07-11 |  |
@@ -151,6 +152,7 @@
 | [Just Fine](https://open.spotify.com/track/49NvEjTPk04A5bUGOYfti4) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/3i18iObygAdcU1eRyYgK0A) | 2:54 | 2023-08-10 | 2024-04-19 |
 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 | 2022-06-23 | 2023-07-27 |
 | [Kanana](https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Kanana](https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky) | 5:35 | 2025-07-11 |  |
+| [Keep Walkin'](https://open.spotify.com/track/2wDdtIewggQNN3pLuFPVkF) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Keep Walkin'](https://open.spotify.com/album/5GKeUrkkzL3np1csd75Yk8) | 3:30 | 2025-07-14 |  |
 | [lady lovin'](https://open.spotify.com/track/1LDjZZmhunJz9lvMT5v5X1) | [Hannah Sands](https://open.spotify.com/artist/4Cu0LLtgyjsjQS7epwWL40) | [lady lovin'](https://open.spotify.com/album/3CWo3fW7bbZMxuF2jEmOqY) | 2:58 | 2022-12-15 | 2023-01-04 |
 | [Laying Low](https://open.spotify.com/track/2fifKuAmWQBwKmG31rNBNb) | [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [Laying Low](https://open.spotify.com/album/7p8J6goKPHU2o05TJ49WmL) | 2:49 | 2024-03-14 | 2025-02-13 |
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-02-29 | 2025-07-11 |
@@ -161,7 +163,7 @@
 | [Levels](https://open.spotify.com/track/4HxE3nHZaTYNzmyDFVXG3R) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Levels](https://open.spotify.com/album/2JuxzEoGKH1uBDsxB99b4F) | 4:23 | 2023-10-19 | 2023-11-24 |
 | [Light Me Up](https://open.spotify.com/track/1xntxOqCzuT5Ts40E9DH93) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Light Me Up](https://open.spotify.com/album/68GkScRP31aKYd1zrLNXyZ) | 3:44 | 2022-06-02 | 2022-07-22 |
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2022-06-02 | 2025-07-11 |
-| [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 | 2025-07-11 |  |
+| [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 | 2025-07-11 | 2025-07-14 |
 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 | 2022-10-13 | 2025-07-11 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-08-24 | 2025-07-11 |
 | [Love](https://open.spotify.com/track/07KSmwPq4eu1boA3cZYYY4) | [Buttered](https://open.spotify.com/artist/2qyspw08f8cTqsn8tInrB4) | [Love](https://open.spotify.com/album/1Oae3gR24xLKyiBJqAu2Ft) | 4:51 | 2022-06-02 | 2022-09-09 |
@@ -203,7 +205,7 @@
 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 | 2025-07-11 |  |
 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 | 2022-06-02 | 2025-07-11 |
 | [On Read](https://open.spotify.com/track/5Dz8KovSvRxL6AfkbQXAig) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Future Classic, Vol\. 1: Classic](https://open.spotify.com/album/346aNEGf6GqQlUK4NPAn2o) | 4:11 | 2023-03-23 | 2023-07-07 |
-| [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 | 2025-07-11 |  |
+| [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 | 2025-07-11 | 2025-07-14 |
 | [One Wish](https://open.spotify.com/track/4v2cHBzCtmkvWVWbZ4Rilu) | [Thea](https://open.spotify.com/artist/3MofB6MnXczVVUw6i94oFN) | [Land of Nod](https://open.spotify.com/album/7rzRftiKwTlCxFhZLmdyic) | 3:54 | 2022-06-02 | 2022-09-09 |
 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 | 2022-06-02 | 2025-07-11 |
 | [Open Up](https://open.spotify.com/track/4UDVrGYUdqaJ8o3yL1snpV) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Dawn](https://open.spotify.com/album/0UoHPF3kjLWKwSHkfmvlIq) | 3:51 | 2022-06-02 | 2022-11-18 |

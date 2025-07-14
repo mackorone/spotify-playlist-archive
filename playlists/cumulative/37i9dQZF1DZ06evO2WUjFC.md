@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-132 songs - 7 hr 24 min
+133 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Brillando Bengalas](https://open.spotify.com/track/2mYry3CA7QdxQcbXXSkt81) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/7CundRMbGZHSxzu6xjbRe0) | 2:27 | 2024-09-22 | 2025-07-08 |
 | [Brillando Bengalas](https://open.spotify.com/track/2riTGN7mgQH7VO0W5qbMF1) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/3wgoM6ZJLIVwkDBtZ0Lb1u) | 2:27 | 2024-03-01 | 2024-09-22 |
 | [Cajita De Oro \(Live\)](https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:52 | 2024-01-29 |  |
-| [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 | 2024-02-24 |  |
+| [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 | 2024-02-24 | 2025-07-14 |
 | [CELOSO](https://open.spotify.com/track/2zQaIkHQ4Z0QZI50z4kYWC) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:05 | 2025-04-24 | 2025-05-26 |
 | [COMPA BLADI \- En Vivo](https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:03 | 2025-02-28 |  |
 | [COMPA BLADI \- En Vivo](https://open.spotify.com/track/17P1GVYuIElGQGZKbmr2nY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:03 | 2025-03-05 | 2025-03-26 |
@@ -136,6 +136,7 @@
 | [VENGO A VER UNOS OJOS \- En Vivo](https://open.spotify.com/track/6i7VnbQMZh8PceE6pxb3xo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:38 | 2025-03-06 | 2025-03-10 |
 | [Volar Contigo](https://open.spotify.com/track/0zieToB8rxTmoIya3OArDI) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Musica Romantica](https://open.spotify.com/album/6mJe3rqxZVaYauD5NxYAki) | 1:51 | 2024-03-04 | 2024-03-11 |
 | [Vuelve](https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:09 | 2024-01-29 | 2025-07-12 |
+| [Ya Estan Cantando los Gallos](https://open.spotify.com/track/0phceqGwuJIBCbqveTdBsK) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ya Estan Cantando los Gallos](https://open.spotify.com/album/5FshjLV0Y5sQQBuIHeok8Z) | 3:59 | 2025-07-14 |  |
 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 | 2024-01-29 |  |
 | [YO NO SOY CELOSO \- En Vivo](https://open.spotify.com/track/7nzpSyN3g8VLoKiBOIxtiX) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8) | [YO NO SOY CELOSO \(En Vivo\)](https://open.spotify.com/album/5orwrnYkL5u7Thu3DmhBRo) | 3:51 | 2025-01-27 | 2025-04-19 |
 | [Zombie](https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Zombie](https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1) | 3:17 | 2024-01-29 | 2024-07-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6MtNKlWguIlTJ6Q7WAcDtU.md) - [plain]
 
 > Get through your workday with 8 hours of country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595 likes - 181 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 594 likes - 181 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

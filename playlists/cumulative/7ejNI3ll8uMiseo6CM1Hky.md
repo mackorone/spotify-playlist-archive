@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-173 songs - 9 hr 46 min
+174 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 | 2018-12-06 |  |
 | [The Good In Me](https://open.spotify.com/track/0XA9B3KXLmdgaQ2KcIJa3h) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:43 | 2019-06-21 |  |
 | [The Mean Kitty Song \(Hey Little Sparta\)](https://open.spotify.com/track/1LoaJqoMazBgXzCedWkp8x) | [Cory Williams](https://open.spotify.com/artist/3sct943v8qsOCvXrhzGaJm) | [The Mean Kitty Song \(Hey Little Sparta\)](https://open.spotify.com/album/1aY3VHGGkZcuEcC7Z4Sy4F) | 3:26 | 2018-12-06 |  |
+| [The Merry\-Go\-Round](https://open.spotify.com/track/7dtZBlwhY4SxBeVNzn3W0d) | [The Stupendium](https://open.spotify.com/artist/5bkJvRo8OeDzWKpiY4GK0O) | [The Merry\-Go\-Round \(The Amazing Digital Circus Song\)](https://open.spotify.com/album/7dOyc1AeTHuKG2U3Hk8QDg) | 6:32 | 2025-07-14 |  |
 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 | 2020-02-20 |  |
 | [There's No Good in a Goodbye](https://open.spotify.com/track/4SXGlAPgk4ucGfn3NHCdGI) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:10 | 2020-11-13 |  |
 | [Trndsttr \(feat\. M\. Maggie\) \- Lucian Remix](https://open.spotify.com/track/5LZQ5s0kRZS9nBSd1xLK7U) | [Black Coast](https://open.spotify.com/artist/4JMdvZoXArDVuMNNelKmjo), [M\. Maggie](https://open.spotify.com/artist/3jaknADFL7EOn3lSRneM7v), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Trndsttr \(feat\. M\. Maggie\) \[Lucian Remix\]](https://open.spotify.com/album/5q3vgbTbWJut1Go3qzVgya) | 2:59 | 2018-12-06 |  |

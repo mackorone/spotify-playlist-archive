@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 378,
+  "num_followers": 380,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAADz92MYds7I4g2aIceKowRn",
+  "snapshot_id": "aHGlgAAAAADdGxZUeLjrk9ezJGd09RHS",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Car",
-        "url": "https://open.spotify.com/album/759nkzilX3qEZTil0BPm4H"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Same Car",
-      "url": "https://open.spotify.com/track/0EMsXbJHyW0217asHoeMhY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 214840,
       "name": "Slide",
       "url": "https://open.spotify.com/track/5bkI1sHZKGz4iFQzPX7GJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Same Car",
+        "url": "https://open.spotify.com/album/759nkzilX3qEZTil0BPm4H"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Same Car",
+      "url": "https://open.spotify.com/track/0EMsXbJHyW0217asHoeMhY"
     },
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tim + Faith",
-        "url": "https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv"
+        "name": "Middle Of The Bed",
+        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
       },
       "artists": [
         {
@@ -88,25 +88,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 230106,
-      "name": "Tim + Faith",
-      "url": "https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ONE HOUSE DOWN (from the girl next door)",
-        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Middle Of The Bed",
-      "url": "https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV"
+      "duration_ms": 200800,
+      "name": "Middle Of The Bed - Single Version",
+      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
     },
     {
       "added_at": null,
@@ -123,6 +107,22 @@
       "duration_ms": 190480,
       "name": "Girl Where He Grew Up",
       "url": "https://open.spotify.com/track/53Osviolix5BVUSWf6qMbd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tim + Faith",
+        "url": "https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Tim + Faith",
+      "url": "https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Kiss",
-        "url": "https://open.spotify.com/album/0DVXGrjbjc0YSGbkh4g26Z"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Kiss Kiss",
-      "url": "https://open.spotify.com/track/6qbJuNW2LYU1kYnzyyVBBn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neon Love",
         "url": "https://open.spotify.com/album/18e5sUiTLTXM7Kk05LU75j"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 189253,
       "name": "Neon Love",
       "url": "https://open.spotify.com/track/0sKeaaAQYBTTkO8drpnEN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss Kiss",
+        "url": "https://open.spotify.com/album/0DVXGrjbjc0YSGbkh4g26Z"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Kiss Kiss",
+      "url": "https://open.spotify.com/track/6qbJuNW2LYU1kYnzyyVBBn"
     },
     {
       "added_at": null,
@@ -479,42 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5:01+",
-        "url": "https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        },
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Ready to Say Goodnight",
-      "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 199196,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Get The Girl",
         "url": "https://open.spotify.com/album/4ihf3F6dsVhpOgGAm4QLlJ"
       },
@@ -531,6 +495,46 @@
       "duration_ms": 202986,
       "name": "How To Get The Girl",
       "url": "https://open.spotify.com/track/3JJ2CkNEBTYSLaefgOopB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        }
+      ],
+      "duration_ms": 229165,
+      "name": "Here I Am Gone",
+      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5:01+",
+        "url": "https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Ready to Say Goodnight",
+      "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
     },
     {
       "added_at": null,
@@ -558,15 +562,11 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 229165,
-      "name": "Here I Am Gone",
-      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+      "duration_ms": 199196,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
     },
     {
       "added_at": null,

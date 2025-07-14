@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 496650,
+  "num_followers": 496669,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Walking Back Home",
-        "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 132762,
-      "name": "Walking Back Home",
-      "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
+        "name": "Walking Back Home",
+        "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 132762,
+      "name": "Walking Back Home",
+      "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -939,6 +939,26 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
+        "name": "Marion",
+        "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Laleilmanino",
+          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+        }
+      ],
+      "duration_ms": 221381,
+      "name": "Rayu",
+      "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
         "name": "The Best of Dewa 19",
         "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
-        "name": "Percayalah",
-        "url": "https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        },
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 266111,
-      "name": "Percayalah",
-      "url": "https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -991,22 +991,22 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Marion",
-        "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
+        "name": "Percayalah",
+        "url": "https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0"
       },
       "artists": [
         {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
-          "name": "Laleilmanino",
-          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
         }
       ],
-      "duration_ms": 221381,
-      "name": "Rayu",
-      "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
+      "duration_ms": 266111,
+      "name": "Percayalah",
+      "url": "https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Raisa",
-        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Serba Salah",
-      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "Dia",
         "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 207490,
       "name": "Dia",
       "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Serba Salah",
+      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
     },
     {
       "added_at": "2025-06-16 07:23:57",

@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 807059,
+  "num_followers": 807063,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
+        "name": "Nossa m\u00fasica",
+        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 239642,
+      "name": "Nossa m\u00fasica",
+      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
         "name": "Pra Melhorar",
         "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
       },
@@ -707,26 +723,6 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Mostrando Os Dentes",
-        "url": "https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mizutani",
-          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
-        },
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Deixar",
-      "url": "https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
@@ -743,18 +739,22 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Nossa m\u00fasica",
-        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
+        "name": "Mostrando Os Dentes",
+        "url": "https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8"
       },
       "artists": [
         {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        },
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
         }
       ],
-      "duration_ms": 239642,
-      "name": "Nossa m\u00fasica",
-      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+      "duration_ms": 151400,
+      "name": "Deixar",
+      "url": "https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -783,6 +783,22 @@
       "duration_ms": 196771,
       "name": "Joia",
       "url": "https://open.spotify.com/track/5PJZbd8I7PrQDDDcehVU6M"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
+        "name": "Top Hits",
+        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Lenha",
+      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -827,22 +843,6 @@
       "duration_ms": 160238,
       "name": "Samba",
       "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
-        "name": "Top Hits",
-        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "Lenha",
-      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00e1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
       },
       "artists": [
         {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 207933,
-      "name": "I Don't Want To Talk About It",
-      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -1071,6 +1055,22 @@
       "duration_ms": 212040,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
+        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00e1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "I Don't Want To Talk About It",
+      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
     },
     {
       "added_at": "2025-07-11 05:42:19",
@@ -1111,30 +1111,6 @@
     {
       "added_at": "2025-07-11 05:42:19",
       "album": {
-        "name": "Calm\u00f4",
-        "url": "https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
-        }
-      ],
-      "duration_ms": 254558,
-      "name": "Calm\u00f4",
-      "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
-    },
-    {
-      "added_at": "2025-07-11 05:42:19",
-      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
+    },
+    {
+      "added_at": "2025-07-11 05:42:19",
+      "album": {
+        "name": "Calm\u00f4",
+        "url": "https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        }
+      ],
+      "duration_ms": 254558,
+      "name": "Calm\u00f4",
+      "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
     },
     {
       "added_at": "2025-07-11 05:42:19",

@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-360 songs - 19 hr 25 min
+361 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 | 2024-06-28 | 2024-08-16 |
 | [Camels](https://open.spotify.com/track/1t30x389swdoiG08U2X2fz) | [Paine Galletto](https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY) | [Camels](https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa) | 1:54 | 2025-06-18 |  |
 | [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-28 | 2025-04-13 |
-| [CANADIAN TUXEDO](https://open.spotify.com/track/36LvtWLFULwuOtgCQwybJj) | [BORIS](https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a), [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [CANADIAN TUXEDO](https://open.spotify.com/album/4YPxNXWO0qpZ3A89RlkfrV) | 2:37 | 2025-07-03 | 2025-07-11 |
+| [CANADIAN TUXEDO](https://open.spotify.com/track/36LvtWLFULwuOtgCQwybJj) | [BORIS](https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a), [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [CANADIAN TUXEDO](https://open.spotify.com/album/4YPxNXWO0qpZ3A89RlkfrV) | 2:37 | 2025-07-03 |  |
 | [Cardio](https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Cardio](https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC) | 3:08 | 2024-06-28 | 2025-01-17 |
 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 | 2025-05-29 |  |
 | [Catch Me](https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf) | [Ellen Benediktson](https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8) | [Catch Me](https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq) | 2:57 | 2024-11-08 | 2025-05-23 |
@@ -113,6 +113,7 @@
 | [Flyttat därifrån](https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Flyttat därifrån](https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp) | 2:57 | 2024-06-28 | 2024-09-27 |
 | [fooo00oool](https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [fooo00oool](https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs) | 3:08 | 2025-06-13 |  |
 | [Forget,](https://open.spotify.com/track/7cAqg391pJlB8XWcgEWH6W) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [Forget,](https://open.spotify.com/album/1CrkjivjCUyyotAissCcqN) | 2:58 | 2025-03-07 | 2025-03-21 |
+| [Forgive, Forget](https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Forgive, Forget](https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE) | 2:49 | 2025-07-10 |  |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 | 2025-06-27 |
 | [Free](https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Free](https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL) | 2:29 | 2024-06-28 | 2024-10-03 |
 | [Freedom](https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Freedom](https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn) | 3:14 | 2025-06-05 |  |
@@ -295,7 +296,7 @@
 | [Slutat bry mig](https://open.spotify.com/track/23EKxveViwvrcoWTfCyuwa) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Slutat bry mig](https://open.spotify.com/album/0kPBXLUWO15ZXKE1yKg370) | 2:47 | 2025-05-08 |  |
 | [Slå mig en signal](https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kärleksrum](https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo) | 2:19 | 2025-03-20 |  |
 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 | 2024-10-10 | 2025-05-23 |
-| [snackar för mycket](https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [snackar för mycket](https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq) | 2:41 | 2025-04-24 |  |
+| [snackar för mycket](https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [snackar för mycket](https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq) | 2:41 | 2025-04-24 | 2025-07-14 |
 | [Snow In The Summer](https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Snow In The Summer](https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9) | 2:49 | 2024-06-28 | 2024-08-16 |
 | [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-28 | 2025-02-28 |
 | [Som En Sol](https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Som En Sol](https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7) | 2:55 | 2024-06-28 | 2024-10-05 |
@@ -337,7 +338,7 @@
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 |  |
 | [Tjejerna](https://open.spotify.com/track/0933FD1xHrm3KGjkz1cMl5) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Tjejerna](https://open.spotify.com/album/4v8as5ZYEZakizcgP0iVWW) | 3:05 | 2025-06-05 | 2025-06-13 |
 | [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 |  |
-| [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 |  |
+| [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 |  |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-05-09 |
 | [Trouble in Paradise](https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Trouble in Paradise](https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY) | 3:24 | 2024-08-22 | 2024-09-25 |

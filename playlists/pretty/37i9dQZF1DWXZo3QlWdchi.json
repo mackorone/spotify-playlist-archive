@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 331165,
+  "num_followers": 331218,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-06-28 00:29:27",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 330840,
-      "name": "Black - Live MTV Unplugged",
-      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
-    },
-    {
-      "added_at": "2025-06-28 00:29:27",
-      "album": {
         "name": "Ac\u00fastico Ira!",
         "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 258265,
       "name": "Tarde Vazia (feat. Samuel Rosa) - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj"
+    },
+    {
+      "added_at": "2025-06-28 00:29:27",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 330840,
+      "name": "Black - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
     },
     {
       "added_at": "2025-06-28 00:29:27",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-06-28 00:29:27",
       "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
+    },
+    {
+      "added_at": "2025-06-28 00:29:27",
+      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 222784,
       "name": "A Mais Pedida - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/6kCGzPmsyJkzs0UnbXjply"
-    },
-    {
-      "added_at": "2025-06-28 00:29:27",
-      "album": {
-        "name": "Ac\u00fastico Ira!",
-        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
-      },
-      "artists": [
-        {
-          "name": "Ira!",
-          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
     },
     {
       "added_at": "2025-06-28 00:29:27",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-06-28 00:29:27",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 233946,
-      "name": "Ironic - Live / Unplugged",
-      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
-    },
-    {
-      "added_at": "2025-06-28 00:29:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2025-06-28 00:29:27",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "Ironic - Live / Unplugged",
+      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
     },
     {
       "added_at": "2025-06-28 00:29:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-06-28 00:29:27",
       "album": {
-        "name": "Keep the Village Alive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5S7SW1LDkaCz3zCJI3Cbhn"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "I Wanna Get Lost With You - Acoustic 2015",
-      "url": "https://open.spotify.com/track/4rhGVkQaa29ZtWy4M9cbRw"
-    },
-    {
-      "added_at": "2025-06-28 00:29:27",
-      "album": {
         "name": "Todo Esse Querer (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 199201,
       "name": "Todo Esse Querer - Ao Vivo",
       "url": "https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O"
+    },
+    {
+      "added_at": "2025-06-28 00:29:27",
+      "album": {
+        "name": "Keep the Village Alive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5S7SW1LDkaCz3zCJI3Cbhn"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 256853,
+      "name": "I Wanna Get Lost With You - Acoustic 2015",
+      "url": "https://open.spotify.com/track/4rhGVkQaa29ZtWy4M9cbRw"
     },
     {
       "added_at": "2025-06-28 00:29:27",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-28 00:29:27",
       "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 196347,
-      "name": "C\u00e9u Azul (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
-    },
-    {
-      "added_at": "2025-06-28 00:29:27",
-      "album": {
         "name": "Music For The Motion Picture Into The Wild",
         "url": "https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236306,
       "name": "Society",
       "url": "https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i"
+    },
+    {
+      "added_at": "2025-06-28 00:29:27",
+      "album": {
+        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 196347,
+      "name": "C\u00e9u Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
     },
     {
       "added_at": "2025-06-28 00:29:27",

@@ -1,6 +1,6 @@
 {
   "description": "Sommeren er her!\ud83c\udf79\n",
-  "num_followers": 97521,
+  "num_followers": 97741,
   "original_name": "kj\u00e6re sommer",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
         "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
         "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
       },
@@ -687,26 +703,6 @@
       "duration_ms": 206333,
       "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
       "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "Solgangsbrisen",
-        "url": "https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6"
-      },
-      "artists": [
-        {
-          "name": "Erik Og Kriss",
-          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
-        },
-        {
-          "name": "Postgirobygget",
-          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
-        }
-      ],
-      "duration_ms": 205784,
-      "name": "Solgangsbrisen",
-      "url": "https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -731,6 +727,26 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
+        "name": "Solgangsbrisen",
+        "url": "https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6"
+      },
+      "artists": [
+        {
+          "name": "Erik Og Kriss",
+          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
+        },
+        {
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+        }
+      ],
+      "duration_ms": 205784,
+      "name": "Solgangsbrisen",
+      "url": "https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
         "name": "Milk and Honey",
         "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 210807,
       "name": "Milk and Honey",
       "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "Never Look Down",
-        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Never Look Down",
-      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -783,18 +783,22 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
-        "name": "Slutet av sommarn",
-        "url": "https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I"
+        "name": "Skyfri himmel",
+        "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
       },
       "artists": [
         {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
         }
       ],
-      "duration_ms": 137810,
-      "name": "Slutet av sommarn",
-      "url": "https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO"
+      "duration_ms": 225570,
+      "name": "Skyfri himmel",
+      "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -819,6 +823,22 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Never Look Down",
+      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
         "name": "Kanskje det g\u00e5r te helvete",
         "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
       },
@@ -831,42 +851,6 @@
       "duration_ms": 146813,
       "name": "Gjesten p\u00e5 festen",
       "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "Skyfri himmel",
-        "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "Skyfri himmel",
-      "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -887,6 +871,38 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
+        "name": "Slutet av sommarn",
+        "url": "https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 137810,
+      "name": "Slutet av sommarn",
+      "url": "https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
+        "name": "Ta med deg d\u00f8ra",
+        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 211810,
+      "name": "Ta med deg d\u00f8ra",
+      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/3PGsOrW90ABHRIuv4zG9la"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 153064,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/1Y98awUOuPdheqh0cnDLHw"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 211489,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "Ta med deg d\u00f8ra",
-        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 211810,
-      "name": "Ta med deg d\u00f8ra",
-      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
         "name": "All I have to do is dream",
         "url": "https://open.spotify.com/album/2rILOh9OCQWDgjO1dbDtVd"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+        "name": "S\u00e5nn som deg",
+        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+      "duration_ms": 204529,
+      "name": "S\u00e5nn som deg",
+      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -1211,38 +1227,6 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
-        "name": "LOVELIFE",
-        "url": "https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "LOVELIFE",
-      "url": "https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "S\u00e5nn som deg",
-        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 204529,
-      "name": "S\u00e5nn som deg",
-      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
         "name": "henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
+        "name": "LOVELIFE",
+        "url": "https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "LOVELIFE",
+      "url": "https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
       },
@@ -1275,38 +1275,6 @@
       "duration_ms": 151666,
       "name": "BOY",
       "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "Beautifully Ordinary",
-        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 304812,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "I veit",
-        "url": "https://open.spotify.com/album/14aX895lIZdOR9iq3ZDvMj"
-      },
-      "artists": [
-        {
-          "name": "06 Boys",
-          "url": "https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "I veit",
-      "url": "https://open.spotify.com/track/2BVufDWowBtrpyN2rIHmzy"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -1331,18 +1299,18 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
-        "name": "Ole Lukk\u00f8ye",
-        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
       },
       "artists": [
         {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 265726,
-      "name": "Ole Lukk\u00f8ye",
-      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -1359,6 +1327,54 @@
       "duration_ms": 155000,
       "name": "Om hundre \u00e5r",
       "url": "https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
+        "name": "Ole Lukk\u00f8ye",
+        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Ole Lukk\u00f8ye",
+      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
+        "name": "I veit",
+        "url": "https://open.spotify.com/album/14aX895lIZdOR9iq3ZDvMj"
+      },
+      "artists": [
+        {
+          "name": "06 Boys",
+          "url": "https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "I veit",
+      "url": "https://open.spotify.com/track/2BVufDWowBtrpyN2rIHmzy"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
+        "name": "Kor e du?",
+        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
+      },
+      "artists": [
+        {
+          "name": "Sondre Justad",
+          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
+        }
+      ],
+      "duration_ms": 200798,
+      "name": "Kor e du?",
+      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -1383,42 +1399,6 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
-        "name": "Kor e du?",
-        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
-      },
-      "artists": [
-        {
-          "name": "Sondre Justad",
-          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
-        }
-      ],
-      "duration_ms": 200798,
-      "name": "Kor e du?",
-      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
-        "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
-        "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        },
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 195929,
-      "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
-      "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
-    },
-    {
-      "added_at": "2025-07-10 22:00:20",
-      "album": {
         "name": "Spor i sn\u00f8",
         "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
       },
@@ -1439,26 +1419,18 @@
     {
       "added_at": "2025-07-10 22:00:20",
       "album": {
-        "name": "It's Ok If You Forget Me",
-        "url": "https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG"
+        "name": "25",
+        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
       },
       "artists": [
         {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        },
-        {
-          "name": "Emma Jensen",
-          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 176000,
-      "name": "It\u00b4s Ok If You Forget Me (feat. Emma Jensen)",
-      "url": "https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP"
+      "duration_ms": 198200,
+      "name": "25",
+      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
     },
     {
       "added_at": "2025-07-10 22:00:20",
@@ -1475,6 +1447,22 @@
       "duration_ms": 133875,
       "name": "B\u00f8lger",
       "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
+    },
+    {
+      "added_at": "2025-07-10 22:00:20",
+      "album": {
+        "name": "Over deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Over deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     }
   ],
   "unique_name": "kj\u00e6re sommer",

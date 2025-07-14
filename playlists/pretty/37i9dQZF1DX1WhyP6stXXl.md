@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,658 likes - 91 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,641 likes - 91 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

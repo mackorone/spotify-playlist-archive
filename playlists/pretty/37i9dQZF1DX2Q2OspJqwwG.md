@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,356 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,377 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 83 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
 | 84 | [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 |
 | 85 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 |
-| 86 | [Am un secret](https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Am un secret](https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV) | 2:50 |
-| 87 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
+| 86 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
+| 87 | [Am un secret](https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Am un secret](https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV) | 2:50 |
 | 88 | [Love Is The Answer](https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Love Is The Answer](https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD) | 3:32 |
 | 89 | [Spania](https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Spania](https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc) | 2:39 |
 | 90 | [Nebunia lui Babasha](https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Nebunia lui Babasha](https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or) | 2:25 |

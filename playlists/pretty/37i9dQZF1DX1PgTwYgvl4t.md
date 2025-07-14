@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=rZp8R5ApQyqhkzBLDn6Y4g>Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,365 likes - 100 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,568 likes - 100 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

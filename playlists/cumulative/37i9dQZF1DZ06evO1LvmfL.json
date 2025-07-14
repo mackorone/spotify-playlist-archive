@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177835,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/1I4W1xZzTmgusoHl1vmMrA"
+    },
+    {
+      "album": {
         "name": "Sleep is Exhausting",
         "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
       },
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 202736,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/2yca6MO7D35fltqQEFkWjT"

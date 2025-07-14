@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y091BKRxpU.md) - [plain]
 
 > the sound of retribution, according to Zoë Kravitz\. Inspired by the film Blink Twice\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,254 likes - 28 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,299 likes - 28 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

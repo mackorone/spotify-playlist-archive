@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Carla Hero, Mecna, Niky Savage, Marte, Néza e Rhove, Rondodasosa e Byron Messia e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,804 likes - 204 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,800 likes - 204 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

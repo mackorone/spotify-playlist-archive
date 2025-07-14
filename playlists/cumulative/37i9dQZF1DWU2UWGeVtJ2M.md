@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-361 songs - 20 hr 18 min
+364 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Amore](https://open.spotify.com/track/7dEhUSzB32GMXhkrqtEYec) | [L•Y](https://open.spotify.com/artist/6TX5wo8K752OtN0iDcTPs3) | [Amore](https://open.spotify.com/album/30MfxQbaHfZ9VqDOyFBjuj) | 3:36 | 2022-06-06 | 2022-07-29 |
 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 | 2022-07-25 |  |
 | [Apathy](https://open.spotify.com/track/5t3JUzspTv8op7W0vX9KL4) | [shy\-c](https://open.spotify.com/artist/08UgDZuFwNBio0gstXxJqm) | [Apathy](https://open.spotify.com/album/6s9lnnZnoPeqzRf78rVsUt) | 3:27 | 2022-06-06 | 2022-07-29 |
-| [April Smile](https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX) | [FLORA](https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ) | [Ambivalence](https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd) | 3:45 | 2022-06-06 |  |
+| [April Smile](https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX) | [FLORA](https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ) | [Ambivalence](https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd) | 3:45 | 2022-06-06 | 2025-07-14 |
 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 | 2022-07-25 |  |
 | [Autumn breeze](https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI) | 2:54 | 2022-06-06 | 2022-07-29 |
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-25 | 2024-04-19 |
@@ -100,8 +100,9 @@
 | [Don't Give In](https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Don't Give In](https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck) | 3:29 | 2022-07-25 | 2022-10-13 |
 | [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 | 2022-10-24 | 2025-07-10 |
 | [Don’t Matter](https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh) | [Lydia Lee](https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F) | [The House That I Live In](https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML) | 3:02 | 2022-06-06 | 2024-07-12 |
+| [Dreams](https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Dreams](https://open.spotify.com/album/1AmFnQikFakztHXt8ZHj4I) | 2:21 | 2025-07-14 |  |
 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 | 2022-10-24 | 2025-06-28 |
-| [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 | 2024-04-08 |  |
+| [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 | 2024-04-08 | 2025-07-14 |
 | [Drowning](https://open.spotify.com/track/5yOy3vK27xjkWaqTS46gHN) | [Three Oscillators](https://open.spotify.com/artist/7sWAzQH4ktfR6aO0L2gwB7), [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Drowning](https://open.spotify.com/album/4mdszm9ez7c8ohdLyG5n8v) | 3:36 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/3KkVd7Xg0jCAZSOatzQ6Td) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [drunk](https://open.spotify.com/album/14vqR57z8khZzYex37NVg9) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2022-07-25 | 2024-04-19 |
@@ -144,7 +145,7 @@
 | [goodnight, don’t wait](https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree](https://open.spotify.com/album/12vbr4MN4nwzxxLgh3VfiH) | 3:23 | 2024-06-09 | 2024-08-01 |
 | [Grateful](https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Grateful](https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs) | 3:05 | 2022-07-25 |  |
 | [He Don't Love Me](https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:30 | 2022-07-25 | 2024-01-17 |
-| [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2022-06-06 |  |
+| [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2022-06-06 | 2025-07-14 |
 | [Heart of Mine](https://open.spotify.com/track/4HJwDpcBcr8CcuPED5UunP) | [Kuizz](https://open.spotify.com/artist/6x8oQWq0xiL4aIJTXCUx7u) | [Heart of Mine](https://open.spotify.com/album/4Wxs9jEq4dwPFd5iLdwBHj) | 2:51 | 2022-06-13 | 2022-07-27 |
 | [Heat](https://open.spotify.com/track/1WMgD7XURLt8bb5p8uM2Pj) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE), [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [breathe.](https://open.spotify.com/album/29l6kAoHxTK5vYF5fsbiRs) | 3:10 | 2023-11-20 | 2024-04-19 |
 | [Heat](https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk) | [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [Heat](https://open.spotify.com/album/11UumVLKD0DqPUpxA4udNX) | 3:10 | 2022-08-15 | 2022-10-03 |
@@ -209,6 +210,7 @@
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2022-07-25 |  |
 | [Love Pocket](https://open.spotify.com/track/1VmjjzWu2bfSzEDYoUskGR) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/1AG0EVWWRdtX9o7hxEqRX0) | 2:55 | 2022-06-06 | 2022-07-29 |
 | [Lovers](https://open.spotify.com/track/3OxaSDrZktEd8yO94BYfle) | [NIGHTINGALE](https://open.spotify.com/artist/1BjY8OlzCH17snJo69ZGnc) | [Lovers](https://open.spotify.com/album/2GVugFYbeOHPmgAn88M7cu) | 3:52 | 2022-07-25 | 2022-07-27 |
+| [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 | 2025-07-14 |  |
 | [lucid dreaming](https://open.spotify.com/track/152hTttqi4LSGHUZK5Q0qS) | [kessari](https://open.spotify.com/artist/72Hau0P2ZO2GA1LAXyypFh) | [lucid dreaming](https://open.spotify.com/album/3yt5fkWOIs3IRQqUotKCgi) | 2:52 | 2022-06-06 | 2022-07-28 |
 | [Lucky](https://open.spotify.com/track/6MfrCyIyaYJbcB8FI7khMm) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Lucky](https://open.spotify.com/album/5y1MlBMoNjtPW6NhJepXnX) | 1:30 | 2022-06-06 | 2022-07-29 |
 | [Mad Blunted Jazz](https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA) | 5:12 | 2025-04-21 |  |
@@ -312,6 +314,7 @@
 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2022-07-25 |  |
 | [Tell Me Why](https://open.spotify.com/track/0qBV27lkQHQ3A4wGiSx7xB) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Tell Me Why](https://open.spotify.com/album/4L1Seg0eLOrj9fOhmyhEkc) | 3:17 | 2022-06-06 | 2022-07-29 |
 | [Temporary](https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Temporary](https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF) | 2:04 | 2022-07-25 |  |
+| [Tender love](https://open.spotify.com/track/60GK9ifHXOrJXJq46lwILc) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/2lHcXT4x2UOOQCjHVBftcs) | 3:23 | 2025-07-14 |  |
 | [Terrapin](https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse) | 4:38 | 2023-05-29 | 2024-04-19 |
 | [Terrapin](https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP) | 4:38 | 2023-03-06 | 2023-04-29 |
 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 | 2024-04-08 |  |

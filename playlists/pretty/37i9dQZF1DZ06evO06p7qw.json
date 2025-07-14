@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 180710,
+  "num_followers": 180763,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAACctqpAIwPElt92O/CVk53i",
+  "snapshot_id": "aHGlgAAAAABIA3gXBN6kCyD38JfwLtC4",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tropical Jesus",
-        "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
       "artists": [
         {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 188222,
-      "name": "Todo Estaba Bien",
-      "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
+      "duration_ms": 204069,
+      "name": "Lib\u00e9rame",
+      "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
     },
     {
       "added_at": null,
@@ -171,22 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+        "name": "Tropical Jesus",
+        "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
         },
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 204069,
-      "name": "Lib\u00e9rame",
-      "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
+      "duration_ms": 188222,
+      "name": "Todo Estaba Bien",
+      "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
     },
     {
       "added_at": null,
@@ -470,11 +470,15 @@
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Mojado",
-      "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
+      "duration_ms": 171693,
+      "name": "Intensos",
+      "url": "https://open.spotify.com/track/6TyjDUjt8Z8SotHhGQSUDq"
     },
     {
       "added_at": null,
@@ -542,15 +546,11 @@
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Intensos",
-      "url": "https://open.spotify.com/track/6TyjDUjt8Z8SotHhGQSUDq"
+      "duration_ms": 209133,
+      "name": "Mojado",
+      "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
     },
     {
       "added_at": null,

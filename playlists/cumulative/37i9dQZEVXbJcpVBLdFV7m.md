@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-1,689 songs - 3 day 16 hr 19 min
+1,690 songs - 3 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [24 SONGS](https://open.spotify.com/track/6QK8cvVsFnrS3i165Mpozd) | [Ego](https://open.spotify.com/artist/7C0ssKcggVw4t1Vy07zAqi), [khxznq](https://open.spotify.com/artist/2tlLU18GZKldCc9VqMSzZA), [goatedx](https://open.spotify.com/artist/2MlYvN6AiO5iFigapMc8be) | [24 SONGS](https://open.spotify.com/album/1JhyhL2JfZH0NW7vpvLoMI) | 3:22 | 2025-03-16 | 2025-04-03 |
 | [24 SONGS](https://open.spotify.com/track/0dqmkNlBpc4zTSj03voXU0) | [payphobia](https://open.spotify.com/artist/0AdUQWQN0I2tIHY2XeKy40) | [24 SONGS](https://open.spotify.com/album/7084tSsNu8ViQTvSrEmYXy) | 3:22 | 2025-04-02 | 2025-04-07 |
 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 | 2024-10-18 | 2024-11-27 |
-| [3 В 1 \- Неочаквано Добра Комбинация](https://open.spotify.com/track/5Gt3jhQjlGwrqpXgMMjiur) | [ANDRO2k](https://open.spotify.com/artist/0LQudHGnz8kyxuIqMT62iB), [Ъпсурт](https://open.spotify.com/artist/53COFJ8WvZu9Dke0Sl7TW8) | [Quattro](https://open.spotify.com/album/6JW4fB3m4gqVS6lGEgA0pN) | 4:03 | 2025-07-01 |  |
+| [3 В 1 \- Неочаквано Добра Комбинация](https://open.spotify.com/track/5Gt3jhQjlGwrqpXgMMjiur) | [ANDRO2k](https://open.spotify.com/artist/0LQudHGnz8kyxuIqMT62iB), [Ъпсурт](https://open.spotify.com/artist/53COFJ8WvZu9Dke0Sl7TW8) | [Quattro](https://open.spotify.com/album/6JW4fB3m4gqVS6lGEgA0pN) | 4:03 | 2025-07-01 | 2025-07-14 |
 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2025-01-07 | 2025-01-16 |
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-06-09 | 2024-08-02 |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-25 | 2024-09-02 |
@@ -49,6 +49,7 @@
 | [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-07-02 | 2024-07-17 |
 | [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2025-03-08 | 2025-03-17 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-18 | 2025-03-09 |
+| [Ace Trumpets](https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 2:34 | 2025-07-13 |  |
 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 | 2025-06-23 | 2025-06-27 |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-29 | 2024-02-24 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-26 | 2024-04-05 |

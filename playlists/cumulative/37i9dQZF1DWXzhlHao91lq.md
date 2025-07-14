@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-285 songs - 16 hr 10 min
+286 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [8 \- Acoustic](https://open.spotify.com/track/7jbqyVufN1czQkloAjFKSE) | [Salty Snacks](https://open.spotify.com/artist/5rXaOEzB1J3SPGCwb6yVcG) | [8 \(Acoustic\)](https://open.spotify.com/album/0c5XGUqq9pSkVhWvwii5nW) | 2:53 | 2022-07-04 | 2022-07-19 |
 | [A Hundred Lives](https://open.spotify.com/track/2vAmx7XDSa8k6FMDexIkye) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [A Hundred Lives](https://open.spotify.com/album/5o9kQ5bfkI1D1aEFH9Clpq) | 3:37 | 2023-10-30 | 2023-11-07 |
 | [Adam & Eve](https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Adam & Eve](https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss) | 3:25 | 2024-12-16 | 2025-03-30 |
+| [Adore](https://open.spotify.com/track/1XyQyNR4Yynxfr9G4011xr) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Adore](https://open.spotify.com/album/413pUAWW19XqDYLramlwiR) | 3:38 | 2025-07-13 |  |
 | [Aisle 6](https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Aisle 6](https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve) | 3:05 | 2024-04-01 | 2024-06-05 |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2022-07-25 | 2022-08-09 |
 | [All You Had To Do](https://open.spotify.com/track/2fXJIXFwPZd1ikOWO0s1xC) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [All You Had To Do](https://open.spotify.com/album/5zvuBhjoffN1OW1ElmwBGX) | 3:30 | 2024-01-22 | 2024-01-30 |
@@ -205,7 +206,7 @@
 | [Simple](https://open.spotify.com/track/7GTjLQEp3dzgOjAG5iTSna) | [JAWN](https://open.spotify.com/artist/2yRfs4MG77gLXamZ5RsVRE), [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Simple](https://open.spotify.com/album/0P8nJmZesuyc3gz5eqDoJM) | 3:15 | 2022-05-30 | 2022-07-29 |
 | [Simple I Love You](https://open.spotify.com/track/2JB8jVL2rcxwuUXMpEC5hV) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Simple I Love You](https://open.spotify.com/album/7tG7pmie0dFgpCllh86V7O) | 3:53 | 2022-05-30 | 2022-07-27 |
 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 | 2022-07-25 |  |
-| [Sitting Room](https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 4:09 | 2024-05-27 |  |
+| [Sitting Room](https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 4:09 | 2024-05-27 | 2025-07-14 |
 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 | 2022-06-27 |  |
 | [Skin & Bones](https://open.spotify.com/track/42NTvEyFiluZCbMGoiyWyD) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Elijah Would!](https://open.spotify.com/album/2LTl1LnmvSFhW6qzFJkAHB) | 2:28 | 2024-10-28 | 2025-02-12 |
 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 | 2022-05-30 |  |

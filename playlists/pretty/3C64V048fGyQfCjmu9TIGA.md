@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 
 > The best of the 1990s classics, 90s throwbacks, 90s R&amp;B, 90s Pop, 90s Songs, 90s Music, 90s Alternative and more from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,386,671 likes - 146 songs - 10 hr 1 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,387,136 likes - 146 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

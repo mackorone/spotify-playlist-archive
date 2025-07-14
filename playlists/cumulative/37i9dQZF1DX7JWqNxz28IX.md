@@ -4,7 +4,7 @@
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-325 songs - 14 hr 45 min
+326 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [KILLYOUREGO](https://open.spotify.com/track/2VfrwxKFPVD1RHV9oARiun) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [TRASHBIN, Vol\. 3](https://open.spotify.com/album/4RwU2dfTY9D2yfEcYsXn4z) | 1:45 | 2024-07-01 | 2024-09-12 |
 | [KING NOTHINGG](https://open.spotify.com/track/4pTeMPZunwlT9ZVaE9NvvO) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/2cEL04tddUszYFy6tEM1rI) | 2:26 | 2025-07-11 |  |
 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 | 2022-04-21 |  |
+| [l'effetto finisce](https://open.spotify.com/track/2RAEvL5pOV0l7G0wRrF3AI) | [azael](https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk), [Thrilljard](https://open.spotify.com/artist/1hU5tCFqrPp0suz17uIC2t) | [Live.Survive.Die \(LSD\)](https://open.spotify.com/album/2qnHfYuTAwnAIdKDqiyDlB) | 2:03 | 2025-07-11 |  |
 | [L'ultima mezz'ora](https://open.spotify.com/track/6ATipis5X5ZhJtQFtA5Moe) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [L'ultima mezz'ora](https://open.spotify.com/album/37H1a1CLMD2QSnj5L4A9sb) | 2:56 | 2024-02-22 | 2025-07-12 |
 | [La cura, non sei te](https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT) | [Chanoir Hdn](https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O) | [La cura, non sei te](https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz) | 2:08 | 2022-12-15 | 2023-04-30 |
 | [la legge di chi soffre 2](https://open.spotify.com/track/1EGzTItXgO4kHW6PM3eaVv) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [piccolo principe](https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [Goth Planet](https://open.spotify.com/album/08nI70JbtcOyaypoq7SRq2) | 3:22 | 2024-02-29 | 2025-02-08 |
@@ -193,7 +194,7 @@
 | [NON PIANGERE](https://open.spotify.com/track/0IVsYyzXsH5QZNMNxO8LfT) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/60rupYxX1cyqiXYltdInJl) | 2:45 | 2022-06-02 | 2022-09-17 |
 | [NON PIANGERE](https://open.spotify.com/track/0aF8dGSr4JxGrNiCLYKydt) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/3POuzBmU79UAhUbtXjp0IM) | 2:45 | 2022-09-08 | 2023-01-13 |
 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 | 2022-04-21 | 2023-11-16 |
-| [NON PUOI FARMI COSÌ MALE](https://open.spotify.com/track/7eHuOEOCUjbN4JxtRWtnc4) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [NON PUOI FARMI COSÌ MALE](https://open.spotify.com/album/0gPZ9d5kgislAe382N22aw) | 2:41 | 2025-07-11 |  |
+| [NON PUOI FARMI COSÌ MALE](https://open.spotify.com/track/7eHuOEOCUjbN4JxtRWtnc4) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [NON PUOI FARMI COSÌ MALE](https://open.spotify.com/album/0gPZ9d5kgislAe382N22aw) | 2:41 | 2025-07-11 | 2025-07-14 |
 | [Non Sarà Uguale](https://open.spotify.com/track/0JpKsj1vVqq0NqYyNrQQdt) | [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs) | [Non Sarà Uguale](https://open.spotify.com/album/5JLlWPE1rQ1sDVEsBjpVlf) | 2:23 | 2022-10-27 | 2022-12-15 |
 | [NON SO CHI SIAMO](https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O) | [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [NON SO CHI SIAMO](https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw) | 2:51 | 2023-06-15 | 2024-05-10 |
 | [Non te l'ho detto mai](https://open.spotify.com/track/4PkT1On1EL0WdX5CilUbAU) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Non te l'ho detto mai](https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS) | 2:16 | 2023-11-22 | 2024-02-02 |

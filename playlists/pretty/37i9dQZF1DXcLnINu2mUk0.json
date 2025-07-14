@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro",
-  "num_followers": 51275,
+  "num_followers": 51295,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 242970,
       "name": "Dire\u00e7\u00e3o Paris",
       "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "Before I Lose My Voice",
-        "url": "https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 186483,
-      "name": "Before I Lose My Voice",
-      "url": "https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
         "name": "Bairrista de Luxo",
         "url": "https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN"
       },
@@ -707,26 +691,6 @@
       "duration_ms": 135804,
       "name": "Bairrista de Luxo",
       "url": "https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
-        "name": "ROSAS",
-        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "ROSAS",
-      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -751,6 +715,42 @@
       "duration_ms": 202280,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
+        "name": "Before I Lose My Voice",
+        "url": "https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 186483,
+      "name": "Before I Lose My Voice",
+      "url": "https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "C\u00edntia",
-          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 168157,
-      "name": "Weed e Wine",
-      "url": "https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp"
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "C\u00edntia",
+          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+      "duration_ms": 168157,
+      "name": "Weed e Wine",
+      "url": "https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "XVIII",
-        "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
-      },
-      "artists": [
-        {
-          "name": "Dolce",
-          "url": "https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "J\u00e1 N\u00e3o Aguento",
-      "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -1067,6 +1051,38 @@
       "duration_ms": 212200,
       "name": "Delulu (feat. Nenny & MC PH)",
       "url": "https://open.spotify.com/track/0dimwLCNAWr0iPUOJOW3vF"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
+        "name": "XVIII",
+        "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
+      },
+      "artists": [
+        {
+          "name": "Dolce",
+          "url": "https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "J\u00e1 N\u00e3o Aguento",
+      "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
+        "name": "M\u00f4 Amigo",
+        "url": "https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB"
+      },
+      "artists": [
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        }
+      ],
+      "duration_ms": 161887,
+      "name": "M\u00f4 Amigo",
+      "url": "https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -1103,6 +1119,26 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
+        "name": "N\u00e3o d\u00e1 pa parar",
+        "url": "https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 193700,
+      "name": "N\u00e3o d\u00e1 pa parar",
+      "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
       },
@@ -1127,8 +1163,24 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "M\u00f4 Amigo",
-        "url": "https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB"
+        "name": "Menino da Mam\u00e3",
+        "url": "https://open.spotify.com/album/1nL4jNVtHWn1XAIxqqWKVN"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 186155,
+      "name": "Volta \u00e0 Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/2NEBYP6Vu29Ry96OuxOhs4"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
+        "name": "Rico",
+        "url": "https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu"
       },
       "artists": [
         {
@@ -1136,29 +1188,9 @@
           "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
         }
       ],
-      "duration_ms": 161887,
-      "name": "M\u00f4 Amigo",
-      "url": "https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
-        "name": "Quem Sabe",
-        "url": "https://open.spotify.com/album/7nOa8A54XGy95qGFcWWmOo"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 250909,
-      "name": "Quem Sabe",
-      "url": "https://open.spotify.com/track/00a1pwOoED1x9WbL4h8iGM"
+      "duration_ms": 153396,
+      "name": "Rico",
+      "url": "https://open.spotify.com/track/2v8HWzaIKCOlKuctXLZY7T"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -1179,42 +1211,6 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "N\u00e3o d\u00e1 pa parar",
-        "url": "https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 193700,
-      "name": "N\u00e3o d\u00e1 pa parar",
-      "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
-        "name": "Menino da Mam\u00e3",
-        "url": "https://open.spotify.com/album/1nL4jNVtHWn1XAIxqqWKVN"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 186155,
-      "name": "Volta \u00e0 Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/2NEBYP6Vu29Ry96OuxOhs4"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
         "name": "Beijo Teu",
         "url": "https://open.spotify.com/album/6Jc4gFjWVwjtDxFKH5vhOT"
       },
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "Rico",
-        "url": "https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu"
+        "name": "Quem Sabe",
+        "url": "https://open.spotify.com/album/7nOa8A54XGy95qGFcWWmOo"
       },
       "artists": [
         {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
         }
       ],
-      "duration_ms": 153396,
-      "name": "Rico",
-      "url": "https://open.spotify.com/track/2v8HWzaIKCOlKuctXLZY7T"
+      "duration_ms": 250909,
+      "name": "Quem Sabe",
+      "url": "https://open.spotify.com/track/00a1pwOoED1x9WbL4h8iGM"
     },
     {
       "added_at": "2025-07-10 23:00:11",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-07-10 23:00:11",
       "album": {
-        "name": "S\u00f3 Pra Mim",
-        "url": "https://open.spotify.com/album/4dc0uwZofhKRr0zfVHWXl4"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "S\u00f3 Pra Mim",
-      "url": "https://open.spotify.com/track/086BFApQhJolDewBka9jit"
-    },
-    {
-      "added_at": "2025-07-10 23:00:11",
-      "album": {
         "name": "PARA SEMPRE",
         "url": "https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 183000,
       "name": "PARA SEMPRE",
       "url": "https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d"
+    },
+    {
+      "added_at": "2025-07-10 23:00:11",
+      "album": {
+        "name": "Buqu\u00ea",
+        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 211584,
+      "name": "Buqu\u00ea",
+      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
     }
   ],
   "unique_name": "Seda",

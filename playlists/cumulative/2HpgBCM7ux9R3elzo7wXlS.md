@@ -4,7 +4,7 @@
 
 > All of it
 
-881 songs - 2 day 7 hr 0 min
+884 songs - 2 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 | 2025-06-02 |  |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2025-06-02 |  |
 | [Buttercup, Jack Stauber \(Sam Said Remix\)](https://open.spotify.com/track/4ejzzXZmu7nRogRXyBOtoK) | [Sam Said](https://open.spotify.com/artist/2t7h4CKYVsgOi4F8oB2KRV) | [Rainy Days](https://open.spotify.com/album/4NYL9pBvai1wZPj6mB0wtZ) | 2:04 | 2025-06-02 |  |
+| [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Kim Chaewon of LE SSERAFIM](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7) | 2:44 | 2025-07-13 |  |
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 | 2025-06-02 |  |
 | [California Dreamin'](https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [All The Leaves Are Brown The Golden Era Collection](https://open.spotify.com/album/6d9b6qTmzQ2WOOGB2cDCDq) | 2:40 | 2025-06-02 |  |
 | [Can't Fight City Halloween](https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 4:04 | 2025-06-02 |  |
@@ -375,6 +376,7 @@
 | [If I Am With You](https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:26 | 2025-06-02 |  |
 | [If I Can Stop One Heart From Breaking](https://open.spotify.com/track/48fqIDIQDD1ARyTrlSb8wW) | [Chewie Melodies](https://open.spotify.com/artist/2dbjQX4XbIMrb5kayolqSZ), [Pealeaf](https://open.spotify.com/artist/0KA6hGOfI1cXBiRikEXwoa) | [Honkai Star Rail: Penacony](https://open.spotify.com/album/2lbER8OJmLZ9b2gh4Gh47t) | 3:17 | 2025-06-02 |  |
 | [If I Can Stop One Heart From Breaking](https://open.spotify.com/track/7f3GFn9aFk8yKrrSQ8VnTp) | [Robin](https://open.spotify.com/artist/55NononxYKjAdaLpphQ4JD), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [INSIDE](https://open.spotify.com/album/0max2UoPzegnhjwv1yhyEC) | 3:22 | 2025-06-02 |  |
+| [ILMB](https://open.spotify.com/track/3nr3oHUp1yTHnjgarY8KX0) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-13 |  |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2025-06-02 |  |
 | [ILUV](https://open.spotify.com/track/30ln1OwxEZdXDfEploBcsU) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:03 | 2025-06-02 |  |
 | [Immortal](https://open.spotify.com/track/4IO8X9W69dIQe0EC5ALXhq) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Immortal](https://open.spotify.com/album/7xgzD7onYd1Pms93ZOtxxX) | 4:14 | 2025-06-02 |  |
@@ -852,6 +854,7 @@
 | [When I'm Gone](https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 4:20 | 2025-06-08 |  |
 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 | 2025-06-02 |  |
 | [Where Did You Sleep Last Night \- Live](https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 5:06 | 2025-06-02 |  |
+| [WHERE WAS YOU](https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:32 | 2025-07-13 |  |
 | [Whiplash ghostwriter](https://open.spotify.com/track/5xriANIELW3kGlXQqML03N) | [LexusX](https://open.spotify.com/artist/7MhEb5HUvff7Tz2I7tUrmg) | [Whiplash ghostwriter](https://open.spotify.com/album/5ztajZBzJ4go2afOdC2txA) | 1:33 | 2025-06-02 |  |
 | [WHITE NIGHT](https://open.spotify.com/track/49xooPdasAQlKhW6Sf1Rhq) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [WHITE NIGHT \(Honkai: Star Rail Penacony Theme Song\)](https://open.spotify.com/album/4qJdhQLcSfAAm3yxf66ylq) | 2:18 | 2025-06-02 |  |
 | [WHITE NIGHT \- Korean Ver.](https://open.spotify.com/track/3j7aVlWZiJGOSUI8lryEyZ) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [WHITE NIGHT \(Honkai: Star Rail Penacony Theme Song\)](https://open.spotify.com/album/4qJdhQLcSfAAm3yxf66ylq) | 2:17 | 2025-06-02 |  |

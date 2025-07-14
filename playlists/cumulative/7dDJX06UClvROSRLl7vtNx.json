@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 164400,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7dTsAhklIRJhId49ayybZx"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 175000,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/2hESLhxdaKlLA5Xt9kZdsz"
@@ -6708,7 +6708,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 140869,
       "name": "Here Alone",
       "url": "https://open.spotify.com/track/6tLOoOROOk2bOBavroNsZr"
@@ -8123,6 +8123,28 @@
     },
     {
       "album": {
+        "name": "I Love U",
+        "url": "https://open.spotify.com/album/2zYFsTIrWF6Jouufbc8kFM"
+      },
+      "artists": [
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        },
+        {
+          "name": "colormeblue.",
+          "url": "https://open.spotify.com/artist/2pTVZkDfvfNKhwQP4mtFev"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/2yPbjRmigNaQCvK6brJEfL"
+    },
+    {
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0eoK7ANOO5FCLdEwAUsjrP"
       },
@@ -9478,7 +9500,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 168515,
       "name": "Kiss Of Life",
       "url": "https://open.spotify.com/track/6CtPNkELK4Y5UiFMR9tltU"
@@ -14050,7 +14072,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 181000,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3MZuHLe0tPPfC9u2RfrPLc"
@@ -15395,6 +15417,24 @@
     },
     {
       "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/5r78zL4y7qTvCtJtEw0h4q"
+      },
+      "artists": [
+        {
+          "name": "Braaten",
+          "url": "https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/2xVYp2n2DVNVie6Wf689N9"
+    },
+    {
+      "album": {
         "name": "Same Room",
         "url": "https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD"
       },
@@ -15756,6 +15796,28 @@
       "duration_ms": 136818,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/78cQPtw2d185IBI3RTZw2P"
+    },
+    {
+      "album": {
+        "name": "Serotonin (speaks to me)",
+        "url": "https://open.spotify.com/album/79pClvzbv6r6dHJ3VBHM5X"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        },
+        {
+          "name": "Ridges",
+          "url": "https://open.spotify.com/artist/199tThI1DV4Y9yQT49z5Rt"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188432,
+      "name": "Serotonin (speaks to me)",
+      "url": "https://open.spotify.com/track/6ZRWGSexfCNErfw34knhDb"
     },
     {
       "album": {
@@ -19022,6 +19084,36 @@
       "duration_ms": 172031,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5RcwBBCCWOEWefMm3fZ9TS"
+    },
+    {
+      "album": {
+        "name": "Troubled Water",
+        "url": "https://open.spotify.com/album/4KuL4zZsXNEQrukjEoiCmp"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "blaank",
+          "url": "https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS"
+        },
+        {
+          "name": "bir\u00f8",
+          "url": "https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX"
     },
     {
       "album": {

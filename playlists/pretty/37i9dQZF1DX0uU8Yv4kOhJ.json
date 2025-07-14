@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 131526,
+  "num_followers": 131544,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 317790,
-      "name": "Gente Mariposa",
-      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Altamar",
         "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
       },
@@ -467,22 +451,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Amansar\u00e1 (Remixed)",
-        "url": "https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 239417,
-      "name": "Sue\u00f1o en Paraguay - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5"
+      "duration_ms": 317790,
+      "name": "Gente Mariposa",
+      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -507,6 +487,26 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Amansar\u00e1 (Remixed)",
+        "url": "https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 239417,
+      "name": "Sue\u00f1o en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Guitarra y Canto del Ande",
         "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Pura Flor",
-        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Pura Flor",
-      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Mezcla",
         "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 351173,
       "name": "De Barrio",
       "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Pura Flor",
+        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
+      },
+      "artists": [
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Pura Flor",
+      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Qam Hina",
-        "url": "https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK"
-      },
-      "artists": [
-        {
-          "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
-        }
-      ],
-      "duration_ms": 247109,
-      "name": "Qam Hina",
-      "url": "https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Caminar en Belleza",
         "url": "https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 219297,
       "name": "Caminar en Belleza",
       "url": "https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Qam Hina",
+        "url": "https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK"
+      },
+      "artists": [
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "duration_ms": 247109,
+      "name": "Qam Hina",
+      "url": "https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Melodias Andinas - Musica Instrumental",
+        "url": "https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz"
+      },
+      "artists": [
+        {
+          "name": "Apurimac",
+          "url": "https://open.spotify.com/artist/4yRx3awKST6iw13Oy84kFi"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Sol de los Andes",
+      "url": "https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Wal\u00fcng II",
         "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 244000,
       "name": "Baile De M\u00e1scaras",
       "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Melodias Andinas - Musica Instrumental",
-        "url": "https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz"
-      },
-      "artists": [
-        {
-          "name": "Apurimac",
-          "url": "https://open.spotify.com/artist/4yRx3awKST6iw13Oy84kFi"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Sol de los Andes",
-      "url": "https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu"
     },
     {
       "added_at": "2023-09-29 18:58:26",

@@ -5384,6 +5384,32 @@
     {
       "album": {
         "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/1dykSfMKD0vYaCH9Rp338Y"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156137,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB"
       },
       "artists": [
@@ -7292,7 +7318,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 257502,
       "name": "DNA \u221e - Seb Wildblood Remix",
       "url": "https://open.spotify.com/track/4gtlCdwN4mvKfddyOCehsl"

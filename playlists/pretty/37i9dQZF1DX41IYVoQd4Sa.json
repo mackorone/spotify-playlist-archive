@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05d1\u05d9\u05d3\u05df",
-  "num_followers": 32167,
+  "num_followers": 32171,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -298,6 +298,10 @@
         {
           "name": "Lia D'sau",
           "url": "https://open.spotify.com/artist/7F1pxS8QveIS1n1ggy1i6R"
+        },
+        {
+          "name": "Tom Meira Armony",
+          "url": "https://open.spotify.com/artist/0oj8hNnM00zzw4PPoWl4TK"
         }
       ],
       "duration_ms": 227100,
@@ -511,6 +515,22 @@
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+    },
+    {
+      "added_at": "2025-07-10 21:00:08",
+      "album": {
         "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
         "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
       },
@@ -527,22 +547,6 @@
       "duration_ms": 196262,
       "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
       "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
-    },
-    {
-      "added_at": "2025-07-10 21:00:08",
-      "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
-      },
-      "artists": [
-        {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
-        }
-      ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2025-07-10 21:00:08",
@@ -743,26 +747,6 @@
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
-        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        },
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "\u05d6\u05d4 \u05d1\u05d3\u05d9\u05d5\u05e7 \u05de\u05d4 \u05e9\u05d0\u05ea\u05d4 \u05d0\u05d5\u05d4\u05d1",
-      "url": "https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m"
-    },
-    {
-      "added_at": "2025-07-10 21:00:08",
-      "album": {
         "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
         "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
       },
@@ -779,18 +763,22 @@
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
-        "name": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05de\u05ea\u05d2\u05dc\u05d2\u05dc",
-        "url": "https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF"
+        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP"
       },
       "artists": [
         {
-          "name": "Shuli Rand",
-          "url": "https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN"
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
         }
       ],
-      "duration_ms": 259724,
-      "name": "\u05dc\u05d2\u05dc\u05d2\u05dc \u05d0\u05ea \u05d6\u05d4 \u05d4\u05dc\u05d0\u05d4",
-      "url": "https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR"
+      "duration_ms": 180160,
+      "name": "\u05d6\u05d4 \u05d1\u05d3\u05d9\u05d5\u05e7 \u05de\u05d4 \u05e9\u05d0\u05ea\u05d4 \u05d0\u05d5\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m"
     },
     {
       "added_at": "2025-07-10 21:00:08",
@@ -815,6 +803,22 @@
     {
       "added_at": "2025-07-10 21:00:08",
       "album": {
+        "name": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05de\u05ea\u05d2\u05dc\u05d2\u05dc",
+        "url": "https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF"
+      },
+      "artists": [
+        {
+          "name": "Shuli Rand",
+          "url": "https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN"
+        }
+      ],
+      "duration_ms": 259724,
+      "name": "\u05dc\u05d2\u05dc\u05d2\u05dc \u05d0\u05ea \u05d6\u05d4 \u05d4\u05dc\u05d0\u05d4",
+      "url": "https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR"
+    },
+    {
+      "added_at": "2025-07-10 21:00:08",
+      "album": {
         "name": "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d2\u05dc",
         "url": "https://open.spotify.com/album/1nWz68CCKhJbiJ8Ed4GHpr"
       },
@@ -827,6 +831,22 @@
       "duration_ms": 206276,
       "name": "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d2\u05dc",
       "url": "https://open.spotify.com/track/6l3iux77GY6VC4rBW4bmij"
+    },
+    {
+      "added_at": "2025-07-10 21:00:08",
+      "album": {
+        "name": "\u05d4\u05d0\u05de\u05e0\u05d4 \u05d4\u05d7\u05d1\u05e8\u05ea\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/5QeQGrTNQwH1hToFmA4M7Q"
+      },
+      "artists": [
+        {
+          "name": "IDIOT!",
+          "url": "https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe"
+        }
+      ],
+      "duration_ms": 185585,
+      "name": "\u05d9\u05dc\u05d3\u05d4",
+      "url": "https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6"
     },
     {
       "added_at": "2025-07-10 21:00:08",
@@ -863,22 +883,6 @@
       "duration_ms": 169500,
       "name": "It\u2019ll Probably Be Fine",
       "url": "https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl"
-    },
-    {
-      "added_at": "2025-07-10 21:00:08",
-      "album": {
-        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

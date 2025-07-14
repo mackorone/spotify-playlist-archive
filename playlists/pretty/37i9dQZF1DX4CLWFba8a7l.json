@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: ONEFOUR",
-  "num_followers": 128756,
+  "num_followers": 128758,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
     },
     {
+      "added_at": "2025-06-05 14:00:35",
+      "album": {
+        "name": "ALL I WANT IS YOU",
+        "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 135570,
+      "name": "ALL I WANT IS YOU",
+      "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
+    },
+    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "Small Change",
@@ -269,26 +285,10 @@
       "url": "https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ"
     },
     {
-      "added_at": "2025-06-05 14:00:35",
+      "added_at": "2025-06-26 14:00:40",
       "album": {
-        "name": "ALL I WANT IS YOU",
-        "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 135570,
-      "name": "ALL I WANT IS YOU",
-      "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
-    },
-    {
-      "added_at": "2025-05-08 14:00:23",
-      "album": {
-        "name": "moody",
-        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
+        "name": "car",
+        "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 175833,
-      "name": "moody",
-      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
+      "duration_ms": 197396,
+      "name": "car",
+      "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
     },
     {
       "added_at": "2025-05-08 14:00:23",
@@ -333,52 +333,20 @@
       "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
-      "added_at": "2025-06-05 14:00:35",
+      "added_at": "2025-05-29 14:00:09",
       "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 240906,
-      "name": "Love Balloon",
-      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 303130,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
-    },
-    {
-      "added_at": "2025-06-26 14:00:40",
-      "album": {
-        "name": "car",
-        "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 197396,
-      "name": "car",
-      "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
+      "duration_ms": 207661,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
     },
     {
       "added_at": "2025-05-29 14:00:09",
@@ -397,36 +365,52 @@
       "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
-      "added_at": "2025-05-29 14:00:09",
+      "added_at": "2025-06-05 14:00:35",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 207661,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+    },
+    {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "moody",
+        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "moody",
+      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
     },
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+      "duration_ms": 303130,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
       "added_at": "2025-07-03 14:00:10",
@@ -453,22 +437,6 @@
       "url": "https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA"
     },
     {
-      "added_at": "2025-05-08 14:00:23",
-      "album": {
-        "name": "If That Makes Sense",
-        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Whateverrrr",
-      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
-    },
-    {
       "added_at": "2025-05-22 22:30:26",
       "album": {
         "name": "Where You Need To Be",
@@ -483,6 +451,38 @@
       "duration_ms": 253478,
       "name": "Where You Need To Be",
       "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "If That Makes Sense",
+        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Whateverrrr",
+      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
     },
     {
       "added_at": "2025-05-15 14:00:27",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Safeandsound",
-        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 277617,
-      "name": "Safeandsound",
-      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
         "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Safeandsound",
+        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 277617,
+      "name": "Safeandsound",
+      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
     },
     {
       "added_at": "2025-05-15 14:00:27",
@@ -655,6 +655,22 @@
       "duration_ms": 169061,
       "name": "Is It Real (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
+    },
+    {
+      "added_at": "2025-07-10 14:00:09",
+      "album": {
+        "name": "The Epilogue (Deluxe)",
+        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 186971,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -707,22 +723,6 @@
     {
       "added_at": "2025-06-26 14:00:40",
       "album": {
-        "name": "Again? Fuck.",
-        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 172901,
-      "name": "Again? Fuck.",
-      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
-    },
-    {
-      "added_at": "2025-06-26 14:00:40",
-      "album": {
         "name": "SONS",
         "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 154835,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC"
+    },
+    {
+      "added_at": "2025-06-26 14:00:40",
+      "album": {
+        "name": "Again? Fuck.",
+        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 172901,
+      "name": "Again? Fuck.",
+      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
     },
     {
       "added_at": "2025-06-19 14:50:03",
@@ -753,36 +769,20 @@
       "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
     },
     {
-      "added_at": "2025-07-10 14:00:09",
+      "added_at": "2025-06-26 14:00:40",
       "album": {
-        "name": "The Epilogue (Deluxe)",
-        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
+        "name": "Hold On (Young Heart)",
+        "url": "https://open.spotify.com/album/4sBG7LXU3LXfEPLY2uDsiF"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         }
       ],
-      "duration_ms": 186971,
-      "name": "Hurt So Bad",
-      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
-    },
-    {
-      "added_at": "2025-05-15 14:00:27",
-      "album": {
-        "name": "Luxford",
-        "url": "https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx"
-      },
-      "artists": [
-        {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        }
-      ],
-      "duration_ms": 207015,
-      "name": "Luxford",
-      "url": "https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv"
+      "duration_ms": 196375,
+      "name": "Hold On (Young Heart)",
+      "url": "https://open.spotify.com/track/3LvEDt0pBDKzsODbpZk9e3"
     },
     {
       "added_at": "2025-05-08 14:00:23",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
     },
     {
+      "added_at": "2025-05-15 14:00:27",
+      "album": {
+        "name": "Luxford",
+        "url": "https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 207015,
+      "name": "Luxford",
+      "url": "https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv"
+    },
+    {
       "added_at": "2025-05-01 14:00:27",
       "album": {
         "name": "Golden Wolf",
@@ -859,22 +875,6 @@
       "duration_ms": 148140,
       "name": "WHATEVERWHATEVER",
       "url": "https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13"
-    },
-    {
-      "added_at": "2025-06-26 14:00:40",
-      "album": {
-        "name": "Hold On (Young Heart)",
-        "url": "https://open.spotify.com/album/4sBG7LXU3LXfEPLY2uDsiF"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Hold On (Young Heart)",
-      "url": "https://open.spotify.com/track/3LvEDt0pBDKzsODbpZk9e3"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "DON WEST",
-        "url": "https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "What Turns You On",
-      "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "it's Franky baby!",
         "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 221602,
       "name": "Give Thanks, Give Praise",
       "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "DON WEST",
+        "url": "https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "What Turns You On",
+      "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl"
     },
     {
-      "added_at": "2025-04-10 14:00:36",
-      "album": {
-        "name": "Don't Forget You Love Me",
-        "url": "https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1"
-      },
-      "artists": [
-        {
-          "name": "Calum Hood",
-          "url": "https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Don't Forget You Love Me",
-      "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
-    },
-    {
       "added_at": "2025-07-03 14:00:10",
       "album": {
         "name": "Hold On You",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2025-04-10 14:00:36",
       "album": {
+        "name": "Don't Forget You Love Me",
+        "url": "https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1"
+      },
+      "artists": [
+        {
+          "name": "Calum Hood",
+          "url": "https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Don't Forget You Love Me",
+      "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
+    },
+    {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
         "name": "Don\u2019t Happy, Be Worry",
         "url": "https://open.spotify.com/album/0oINbUTZmShChwgDUZRJdd"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 189373,
       "name": "Don\u2019t Happy, Be Worry",
       "url": "https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D"
-    },
-    {
-      "added_at": "2025-04-17 14:00:17",
-      "album": {
-        "name": "Deadstick",
-        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 213575,
-      "name": "Deadstick",
-      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
     },
     {
       "added_at": "2025-06-12 14:00:31",
@@ -1139,6 +1123,22 @@
       "duration_ms": 147571,
       "name": "Big Ol' Hammer",
       "url": "https://open.spotify.com/track/0KC3gdNQmZcNmGUJg4iXEV"
+    },
+    {
+      "added_at": "2025-04-17 14:00:17",
+      "album": {
+        "name": "Deadstick",
+        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "Deadstick",
+      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
     },
     {
+      "added_at": "2025-05-01 14:00:27",
+      "album": {
+        "name": "wraith",
+        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 245892,
+      "name": "summer in december",
+      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
+    },
+    {
       "added_at": "2025-05-15 14:00:27",
       "album": {
         "name": "Fuck My Computer",
@@ -1221,38 +1237,6 @@
       "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
     },
     {
-      "added_at": "2025-04-24 14:00:12",
-      "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
-    },
-    {
-      "added_at": "2025-05-01 14:00:27",
-      "album": {
-        "name": "wraith",
-        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 245892,
-      "name": "summer in december",
-      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
-    },
-    {
       "added_at": "2025-06-26 14:00:40",
       "album": {
         "name": "i couldn't hold back",
@@ -1271,6 +1255,22 @@
       "duration_ms": 170316,
       "name": "i couldn't hold back",
       "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
+    },
+    {
+      "added_at": "2025-04-24 14:00:12",
+      "album": {
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     }
   ],
   "unique_name": "Turn Up Aus",

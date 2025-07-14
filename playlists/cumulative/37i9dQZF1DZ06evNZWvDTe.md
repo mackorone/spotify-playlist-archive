@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-197 songs - 11 hr 45 min
+198 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bank Alert \(feat\. Sarkodie, Magnito, Rexxie\) \- Remix](https://open.spotify.com/track/0heNdSZd6xfjrzLbHsqmuk) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Magnito](https://open.spotify.com/artist/2cyfzkY6IT0nKHN3s447n8), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Bank Alert \(feat\. Sarkodie, Magnito, Rexxie\) \[Remix\]](https://open.spotify.com/album/601f2LpNIDTzwLsKUGVndK) | 2:55 | 2024-05-15 | 2024-05-25 |
 | [Bank Alert \(feat\. Sarkodie, Magnito, Rexxie\) \- Remix](https://open.spotify.com/track/2907hZ0CqhS6Yc18XEg4wi) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Magnito](https://open.spotify.com/artist/2cyfzkY6IT0nKHN3s447n8), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 2:55 | 2024-05-25 | 2024-08-06 |
 | [Bayla Trap \(feat\. Sarkodie\)](https://open.spotify.com/track/3c6ak2NO54ZOamcelzcDZB) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:00 | 2024-05-04 | 2024-05-11 |
-| [Bend](https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Out of the Blue](https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb) | 3:12 | 2025-04-13 |  |
+| [Bend](https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Out of the Blue](https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb) | 3:12 | 2025-04-13 | 2025-07-14 |
+| [Bend](https://open.spotify.com/track/5QtWGN5XskZE8xWoiVZWaN) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Out of the Blue](https://open.spotify.com/album/2DuSvcWHqhbLipYUewA9cA) | 3:12 | 2025-07-14 |  |
 | [Berma tua](https://open.spotify.com/track/0aZx0G20HO8rk5E4878ftc) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [SKYFACE](https://open.spotify.com/artist/2lIVZskAMVAZZrsGQxw8LF), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [The Return of Okomfo Anokye](https://open.spotify.com/album/0dOOE0uoxf6XjtIa0DSSTp) | 3:53 | 2025-02-23 | 2025-03-04 |
 | [Berma tua](https://open.spotify.com/track/3jq66XizJX2mwUc9EQYurM) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [SKYFACE](https://open.spotify.com/artist/2lIVZskAMVAZZrsGQxw8LF), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [The Return of Okomfo Anokye 2](https://open.spotify.com/album/6avz6g0p9uHUp6cmiRQR7P) | 3:53 | 2025-03-04 | 2025-04-03 |
 | [Better Days \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/0ou0qN9oPjJ442ZHrEksLx) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:26 | 2022-11-13 |  |

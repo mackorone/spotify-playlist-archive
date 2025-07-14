@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 237500,
       "name": "Inner Circle",
       "url": "https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9"
@@ -5394,6 +5394,28 @@
       "duration_ms": 303929,
       "name": "Light Through The Leaves",
       "url": "https://open.spotify.com/track/4Yq7rlqu3mvqe5lDiTlbWq"
+    },
+    {
+      "album": {
+        "name": "Lightshine",
+        "url": "https://open.spotify.com/album/4lGDwZiDMWjSrQ0WF8er6h"
+      },
+      "artists": [
+        {
+          "name": "Boreta",
+          "url": "https://open.spotify.com/artist/4pk4xXNYrYeJpf82VJJwLo"
+        },
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359956,
+      "name": "Lightshine",
+      "url": "https://open.spotify.com/track/1yTW421kLGkPZC4FK4uVAy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "pretas chefe, em zazzau (procure saber) ou no peri",
-  "num_followers": 1409210,
+  "num_followers": 1409176,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,62 @@
     {
       "added_at": "2025-07-11 03:01:14",
       "album": {
+        "name": "Veterano",
+        "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
+      },
+      "artists": [
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        },
+        {
+          "name": "Surfista",
+          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
+        },
+        {
+          "name": "Ryuchi",
+          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        },
+        {
+          "name": "JVMVO",
+          "url": "https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Veterano",
+      "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
+    },
+    {
+      "added_at": "2025-07-11 03:01:14",
+      "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 140155,
+      "name": "Hiperfoco",
+      "url": "https://open.spotify.com/track/1rO0uD1DwejqeZLNXTroJK"
+    },
+    {
+      "added_at": "2025-07-11 03:01:14",
+      "album": {
         "name": "365 Dias (Vida Mansa)",
         "url": "https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt"
       },
@@ -295,62 +351,6 @@
       "duration_ms": 527220,
       "name": "365 Dias (Vida Mansa)",
       "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
-    },
-    {
-      "added_at": "2025-07-11 03:01:14",
-      "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 140155,
-      "name": "Hiperfoco",
-      "url": "https://open.spotify.com/track/1rO0uD1DwejqeZLNXTroJK"
-    },
-    {
-      "added_at": "2025-07-11 03:01:14",
-      "album": {
-        "name": "Veterano",
-        "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
-      },
-      "artists": [
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
-        },
-        {
-          "name": "Surfista",
-          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
-        },
-        {
-          "name": "Ryuchi",
-          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
-        },
-        {
-          "name": "Ian Durso",
-          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
-        },
-        {
-          "name": "JVMVO",
-          "url": "https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Veterano",
-      "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
     },
     {
       "added_at": "2025-07-11 03:01:14",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-07-11 03:01:14",
       "album": {
-        "name": "Desabafo 2",
-        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Desabafo 2",
-      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
-    },
-    {
-      "added_at": "2025-07-11 03:01:14",
-      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
+    },
+    {
+      "added_at": "2025-07-11 03:01:14",
+      "album": {
+        "name": "Desabafo 2",
+        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Desabafo 2",
+      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
     },
     {
       "added_at": "2025-07-11 03:01:14",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-07-11 03:01:14",
       "album": {
-        "name": "MAIOR QUE O TEMPO",
-        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "PRETTY LET GIRL",
-      "url": "https://open.spotify.com/track/5UBCGftdDXdaxomn1eloLC"
-    },
-    {
-      "added_at": "2025-07-11 03:01:14",
-      "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 300000,
       "name": "Sempre na Simplicidade",
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
+    },
+    {
+      "added_at": "2025-07-11 03:01:14",
+      "album": {
+        "name": "MAIOR QUE O TEMPO",
+        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "PRETTY LET GIRL",
+      "url": "https://open.spotify.com/track/5UBCGftdDXdaxomn1eloLC"
     },
     {
       "added_at": "2025-07-11 03:01:14",
@@ -899,6 +899,26 @@
       "duration_ms": 213681,
       "name": "Drive-In",
       "url": "https://open.spotify.com/track/337ctDJq6yBjGmHuN3AYCX"
+    },
+    {
+      "added_at": "2025-07-11 03:01:14",
+      "album": {
+        "name": "KM2",
+        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 139914,
+      "name": "KIA",
+      "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
     },
     {
       "added_at": "2025-07-11 03:01:14",
@@ -955,26 +975,6 @@
       "duration_ms": 757611,
       "name": "Poesia Ac\u00fastica 16",
       "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
-    },
-    {
-      "added_at": "2025-07-11 03:01:14",
-      "album": {
-        "name": "KM2",
-        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 139914,
-      "name": "KIA",
-      "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
     },
     {
       "added_at": "2025-07-11 03:01:14",
@@ -1315,6 +1315,34 @@
     {
       "added_at": "2025-07-11 03:01:14",
       "album": {
+        "name": "Cada Segundo",
+        "url": "https://open.spotify.com/album/5nIxh4z5tSZRr4FtTm3hnr"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Xaolin Records",
+          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
+        },
+        {
+          "name": "prodPdrin",
+          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
+        },
+        {
+          "name": "BenzMuzik",
+          "url": "https://open.spotify.com/artist/4Eo4lUeztnE59MDtxS79UO"
+        }
+      ],
+      "duration_ms": 144125,
+      "name": "Cada Segundo",
+      "url": "https://open.spotify.com/track/4hjmYQiICe4ANizZa01zLm"
+    },
+    {
+      "added_at": "2025-07-11 03:01:14",
+      "album": {
         "name": "Maior Sonho",
         "url": "https://open.spotify.com/album/4t1HG3xApLlhIGLPcb7QPX"
       },
@@ -1335,30 +1363,6 @@
       "duration_ms": 147112,
       "name": "Maior Sonho",
       "url": "https://open.spotify.com/track/7hwYkCjxq2uwPXuuXSD089"
-    },
-    {
-      "added_at": "2025-07-11 03:01:14",
-      "album": {
-        "name": "VIDA LOKA TAMB\u00c9M AMA",
-        "url": "https://open.spotify.com/album/6CCADFkIl2uMHg1a1bfz2t"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Taramps",
-          "url": "https://open.spotify.com/artist/4ZEOtfy8YKar5Jqu1yR3TH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Palavra Certa",
-      "url": "https://open.spotify.com/track/4VK07cFahaOvnAN6Mc0QIJ"
     },
     {
       "added_at": "2025-07-11 03:01:14",
@@ -1407,30 +1411,26 @@
     {
       "added_at": "2025-07-11 03:01:14",
       "album": {
-        "name": "Cada Segundo",
-        "url": "https://open.spotify.com/album/5nIxh4z5tSZRr4FtTm3hnr"
+        "name": "VIDA LOKA TAMB\u00c9M AMA",
+        "url": "https://open.spotify.com/album/6CCADFkIl2uMHg1a1bfz2t"
       },
       "artists": [
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
         },
         {
-          "name": "Xaolin Records",
-          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "prodPdrin",
-          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
-        },
-        {
-          "name": "BenzMuzik",
-          "url": "https://open.spotify.com/artist/4Eo4lUeztnE59MDtxS79UO"
+          "name": "Taramps",
+          "url": "https://open.spotify.com/artist/4ZEOtfy8YKar5Jqu1yR3TH"
         }
       ],
-      "duration_ms": 144125,
-      "name": "Cada Segundo",
-      "url": "https://open.spotify.com/track/4hjmYQiICe4ANizZa01zLm"
+      "duration_ms": 192000,
+      "name": "Palavra Certa",
+      "url": "https://open.spotify.com/track/4VK07cFahaOvnAN6Mc0QIJ"
     },
     {
       "added_at": "2025-07-11 03:01:14",

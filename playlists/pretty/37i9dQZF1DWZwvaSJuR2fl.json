@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 77139,
+  "num_followers": 77160,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2025-07-01 15:41:20",
       "album": {
-        "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96 \"American\"",
-        "url": "https://open.spotify.com/album/2Q1JQspir0kJGijQtxGuTR"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Artemis Quartet",
-          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
-        }
-      ],
-      "duration_ms": 600620,
-      "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96, B. 179 \"American\": I. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/5IFhWvF6LtCGih8QZnyYpF"
-    },
-    {
-      "added_at": "2025-07-01 15:41:20",
-      "album": {
         "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
         "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 194541,
       "name": "Poetic Tone Pictures, Op.85: VIII. Goblins' Dance",
       "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
+    },
+    {
+      "added_at": "2025-07-01 15:41:20",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96 \"American\"",
+        "url": "https://open.spotify.com/album/2Q1JQspir0kJGijQtxGuTR"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Artemis Quartet",
+          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
+        }
+      ],
+      "duration_ms": 600620,
+      "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96, B. 179 \"American\": I. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/5IFhWvF6LtCGih8QZnyYpF"
     },
     {
       "added_at": "2025-07-01 15:41:20",
@@ -455,30 +455,6 @@
     {
       "added_at": "2025-07-01 15:41:20",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Overtures & Orchestral Suites",
-        "url": "https://open.spotify.com/album/4z6ieiSUTk7BjyhLmbtc4y"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Czech Philharmonic",
-          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
-        },
-        {
-          "name": "Libor Pe\u0161ek",
-          "url": "https://open.spotify.com/artist/0f4gYAcahUX8MaZxWQ2PG4"
-        }
-      ],
-      "duration_ms": 901546,
-      "name": "Dvo\u0159\u00e1k: Othello, Op. 93, B. 174",
-      "url": "https://open.spotify.com/track/1MFk4JWh6A4q8TrvqtgpMr"
-    },
-    {
-      "added_at": "2025-07-01 15:41:20",
-      "album": {
         "name": "Dvor\u00e1k: Symphonies Nos.4-6",
         "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 587133,
       "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: IV. Finale. Allegro con brio",
       "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
+    },
+    {
+      "added_at": "2025-07-01 15:41:20",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Overtures & Orchestral Suites",
+        "url": "https://open.spotify.com/album/4z6ieiSUTk7BjyhLmbtc4y"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Libor Pe\u0161ek",
+          "url": "https://open.spotify.com/artist/0f4gYAcahUX8MaZxWQ2PG4"
+        }
+      ],
+      "duration_ms": 901546,
+      "name": "Dvo\u0159\u00e1k: Othello, Op. 93, B. 174",
+      "url": "https://open.spotify.com/track/1MFk4JWh6A4q8TrvqtgpMr"
     },
     {
       "added_at": "2025-07-01 15:41:20",
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
         }
       ],
-      "duration_ms": 760733,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: IV. Finale. Allegro molto",
-      "url": "https://open.spotify.com/track/6cEmZmkoooz48sBTBpKo4R"
+      "duration_ms": 492266,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
+      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
     },
     {
       "added_at": "2025-07-01 15:41:20",
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
         }
       ],
-      "duration_ms": 492266,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
-      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
+      "duration_ms": 760733,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: IV. Finale. Allegro molto",
+      "url": "https://open.spotify.com/track/6cEmZmkoooz48sBTBpKo4R"
     },
     {
       "added_at": "2025-07-01 15:41:20",
@@ -871,30 +871,6 @@
     {
       "added_at": "2025-07-01 15:41:20",
       "album": {
-        "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
-        "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
-      "url": "https://open.spotify.com/track/4Uk5HBXrc3bo5q0d2uqnhk"
-    },
-    {
-      "added_at": "2025-07-01 15:41:20",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Symphony No. 9 \"From the New World\" (Live)",
         "url": "https://open.spotify.com/album/0IT7dlpnQAfmSjIAiSAboK"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 728333,
       "name": "Symphony No. 9 in E Minor, Op. 95 \"From the New World\": I. Adagio - Allegro molto - Live",
       "url": "https://open.spotify.com/track/4pwNxKW2ivTmVU9QIKYkjR"
+    },
+    {
+      "added_at": "2025-07-01 15:41:20",
+      "album": {
+        "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
+        "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
+      "url": "https://open.spotify.com/track/4Uk5HBXrc3bo5q0d2uqnhk"
     },
     {
       "added_at": "2025-07-01 15:41:20",

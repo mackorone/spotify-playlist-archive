@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk"
+      },
+      "artists": [
+        {
+          "name": "Harbours & Oceans",
+          "url": "https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151427,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
       },
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 137440,
       "name": "Luminous Dusk",
       "url": "https://open.spotify.com/track/1npHOLMRCqO4PURfTgked3"

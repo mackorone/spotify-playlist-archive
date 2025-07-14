@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MAXWqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MAcoKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "\u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c",
         "url": "https://open.spotify.com/album/7h7qc2jEqgx2lDuqLbJBts"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4jpR02nSAY9ibzrIRgqyA0"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Dame Un Grrr",
         "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -153,51 +153,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "PlaqueBoyMax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Ma Tnsani (Yalla Habibi)",
-        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        },
-        {
-          "name": "AYA",
-          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Ma Tnsani (Yalla Habibi)",
-      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -237,7 +193,67 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Ma Tnsani (Yalla Habibi)",
+        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Ma Tnsani (Yalla Habibi)",
+      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        }
+      ],
+      "duration_ms": 173037,
+      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -269,23 +285,7 @@
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
-      },
-      "artists": [
-        {
-          "name": "\u652c\u4f6cSKAI ISYOURGOD",
-          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
-        }
-      ],
-      "duration_ms": 173037,
-      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Tutti Frutii",
         "url": "https://open.spotify.com/album/0ZkNnMi7lkSvcpMONwXFx6"
@@ -337,23 +337,7 @@
       "url": "https://open.spotify.com/track/1R08fu4ZYFsJ7MSWIJnnUj"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "SRCE <3",
         "url": "https://open.spotify.com/album/3gWUSePjD1Ftku7PoaHQ6u"
@@ -369,31 +353,23 @@
       "url": "https://open.spotify.com/track/2yCmwvygjgWcfWMrTqdBRx"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
-        "name": "Cunosc Omul Dupa Fata",
-        "url": "https://open.spotify.com/album/4BmemUWgPp7eu9RN17XrI4"
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
       },
       "artists": [
         {
-          "name": "\u0218tefan de la B\u0103rbule\u0219ti",
-          "url": "https://open.spotify.com/artist/1SGx0Rio4xIMWvgOLU4h3E"
-        },
-        {
-          "name": "Nicolae Guta",
-          "url": "https://open.spotify.com/artist/1WgCdu3YOI6rVp6Hr4NSc2"
-        },
-        {
-          "name": "Adrian Minune",
-          "url": "https://open.spotify.com/artist/2BeObI1iPHRvdqHuW7wLJ8"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 283413,
-      "name": "Danseaza",
-      "url": "https://open.spotify.com/track/5gAT4vNHad5sWQkAfRD6jj"
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "I ONE",
         "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
@@ -409,7 +385,7 @@
       "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Fire Fire",
         "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
@@ -433,39 +409,7 @@
       "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Young Black & Rich",
-        "url": "https://open.spotify.com/album/6xkOwszy81F71cFJcWTCNg"
-      },
-      "artists": [
-        {
-          "name": "Melly Mike",
-          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
-        }
-      ],
-      "duration_ms": 155062,
-      "name": "Young Black & Rich",
-      "url": "https://open.spotify.com/track/2o5yF4bBAgbeCDSsY5Rrnx"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -485,7 +429,63 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Young Black & Rich",
+        "url": "https://open.spotify.com/album/6xkOwszy81F71cFJcWTCNg"
+      },
+      "artists": [
+        {
+          "name": "Melly Mike",
+          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
+        }
+      ],
+      "duration_ms": 155062,
+      "name": "Young Black & Rich",
+      "url": "https://open.spotify.com/track/2o5yF4bBAgbeCDSsY5Rrnx"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Cunosc Omul Dupa Fata",
+        "url": "https://open.spotify.com/album/4BmemUWgPp7eu9RN17XrI4"
+      },
+      "artists": [
+        {
+          "name": "\u0218tefan de la B\u0103rbule\u0219ti",
+          "url": "https://open.spotify.com/artist/1SGx0Rio4xIMWvgOLU4h3E"
+        },
+        {
+          "name": "Nicolae Guta",
+          "url": "https://open.spotify.com/artist/1WgCdu3YOI6rVp6Hr4NSc2"
+        },
+        {
+          "name": "Adrian Minune",
+          "url": "https://open.spotify.com/artist/2BeObI1iPHRvdqHuW7wLJ8"
+        }
+      ],
+      "duration_ms": 283413,
+      "name": "Danseaza",
+      "url": "https://open.spotify.com/track/5gAT4vNHad5sWQkAfRD6jj"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Vem Vem",
         "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
@@ -505,27 +505,47 @@
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
-        "name": "God Is A Weapon",
-        "url": "https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw"
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
         }
       ],
-      "duration_ms": 215444,
-      "name": "God Is A Weapon",
-      "url": "https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH"
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        },
+        {
+          "name": "AR\u5218\u592b\u9633",
+          "url": "https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45"
+        }
+      ],
+      "duration_ms": 211677,
+      "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
+      "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "MENTE M\u00c1",
         "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
@@ -545,7 +565,43 @@
       "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "God Is A Weapon",
+        "url": "https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 215444,
+      "name": "God Is A Weapon",
+      "url": "https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Holo",
+        "url": "https://open.spotify.com/album/1HSXiOLZ4VdDRObIBppk6W"
+      },
+      "artists": [
+        {
+          "name": "Limbo",
+          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/1PqiPSxaMyH0EaV5fu2KQy"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "we never dated",
         "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
@@ -561,87 +617,7 @@
       "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Can't Decide",
-        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        },
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Can't Decide",
-      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "\u041d\u0430\u043b\u0435\u0439",
-        "url": "https://open.spotify.com/album/6ftLCvIX76F4wrwOtTngiT"
-      },
-      "artists": [
-        {
-          "name": "Robi",
-          "url": "https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz"
-        },
-        {
-          "name": "Tino",
-          "url": "https://open.spotify.com/artist/2ckf22lohTHo1t33yIM88e"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "\u041d\u0430\u043b\u0435\u0439",
-      "url": "https://open.spotify.com/track/3cZTfGt9LFi9j4apzfvx0l"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/3wogsSWyEEu5eVgLqUqySF"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Vaitimbora",
-        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        },
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        }
-      ],
-      "duration_ms": 135131,
-      "name": "Vaitimbora",
-      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
@@ -665,7 +641,27 @@
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "\u041d\u0430\u043b\u0435\u0439",
+        "url": "https://open.spotify.com/album/6ftLCvIX76F4wrwOtTngiT"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz"
+        },
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2ckf22lohTHo1t33yIM88e"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "\u041d\u0430\u043b\u0435\u0439",
+      "url": "https://open.spotify.com/track/3cZTfGt9LFi9j4apzfvx0l"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Tipo Nino Vs Kabrinha",
         "url": "https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH"
@@ -689,27 +685,7 @@
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
-      },
-      "artists": [
-        {
-          "name": "\u652c\u4f6cSKAI ISYOURGOD",
-          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
-        },
-        {
-          "name": "AR\u5218\u592b\u9633",
-          "url": "https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45"
-        }
-      ],
-      "duration_ms": 211677,
-      "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
-      "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Bunna Summa (Ice Cream Summer Deluxe)",
         "url": "https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM"
@@ -725,27 +701,23 @@
       "url": "https://open.spotify.com/track/43FkWr8JNh12rKfXNBFR1H"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
-        "name": "Dior (feat. Chrystal)",
-        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 169159,
-      "name": "Dior (feat. Chrystal)",
-      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
+      "duration_ms": 226493,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/3wogsSWyEEu5eVgLqUqySF"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Danoto kopay",
         "url": "https://open.spotify.com/album/4BGy2DxZmw8dLyu1OYEeyT"
@@ -765,43 +737,31 @@
       "url": "https://open.spotify.com/track/3Z0bGsiJF9ErQF1iMHsa1G"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
-        "name": "Quattro",
-        "url": "https://open.spotify.com/album/6JW4fB3m4gqVS6lGEgA0pN"
+        "name": "Can't Decide",
+        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
       },
       "artists": [
         {
-          "name": "ANDRO2k",
-          "url": "https://open.spotify.com/artist/0LQudHGnz8kyxuIqMT62iB"
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
         },
         {
-          "name": "\u042a\u043f\u0441\u0443\u0440\u0442",
-          "url": "https://open.spotify.com/artist/53COFJ8WvZu9Dke0Sl7TW8"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "3 \u0412 1 - \u041d\u0435\u043e\u0447\u0430\u043a\u0432\u0430\u043d\u043e \u0414\u043e\u0431\u0440\u0430 \u041a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u044f",
-      "url": "https://open.spotify.com/track/5Gt3jhQjlGwrqpXgMMjiur"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "\u0414\u0430 \u043f\u043e\u0436\u0438\u0432\u0435\u044f",
-        "url": "https://open.spotify.com/album/1N6fL7QbtsQVU0Vz7KEfGB"
-      },
-      "artists": [
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
         {
-          "name": "Mirela",
-          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
         }
       ],
-      "duration_ms": 212267,
-      "name": "\u0414\u0430 \u043f\u043e\u0436\u0438\u0432\u0435\u044f",
-      "url": "https://open.spotify.com/track/4F0dg6feGY0Xhv3b21zYGk"
+      "duration_ms": 175384,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
@@ -817,39 +777,7 @@
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "Holo",
-        "url": "https://open.spotify.com/album/1HSXiOLZ4VdDRObIBppk6W"
-      },
-      "artists": [
-        {
-          "name": "Limbo",
-          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/1PqiPSxaMyH0EaV5fu2KQy"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "stay",
-        "url": "https://open.spotify.com/album/6gROqlekZN4pD7DmuJeoJT"
-      },
-      "artists": [
-        {
-          "name": "Aden Lou",
-          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
-        }
-      ],
-      "duration_ms": 185942,
-      "name": "stay",
-      "url": "https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "SONBAHAR",
         "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
@@ -873,39 +801,7 @@
       "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
-      "album": {
-        "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
-        "url": "https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
-      "url": "https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I"
-    },
-    {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -925,27 +821,47 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
-        "name": "Huligani",
-        "url": "https://open.spotify.com/album/5aDFKr8SI5H1bWGj7dXD7Z"
+        "name": "stay",
+        "url": "https://open.spotify.com/album/6gROqlekZN4pD7DmuJeoJT"
       },
       "artists": [
         {
-          "name": "Djena",
-          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
-        },
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+          "name": "Aden Lou",
+          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Huligani",
-      "url": "https://open.spotify.com/track/7KhJMKLSxQWG98iMhCiYqX"
+      "duration_ms": 185942,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "duration_ms": 154066,
+      "name": "Ace Trumpets",
+      "url": "https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "FAMOUS",
         "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
@@ -956,56 +872,44 @@
           "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
         }
       ],
-      "duration_ms": 157191,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
-        "name": "Underdog (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5eZ1Y9l73CbY1Q5eu92LvK"
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 142328,
-      "name": "Underdog (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S"
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
-        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-        "url": "https://open.spotify.com/album/7xCa8dTNt8T0y3opjZK9ir"
+        "name": "\u0414\u0430 \u043f\u043e\u0436\u0438\u0432\u0435\u044f",
+        "url": "https://open.spotify.com/album/1N6fL7QbtsQVU0Vz7KEfGB"
       },
       "artists": [
         {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+          "name": "Mirela",
+          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
         }
       ],
-      "duration_ms": 172314,
-      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-      "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
+      "duration_ms": 212267,
+      "name": "\u0414\u0430 \u043f\u043e\u0436\u0438\u0432\u0435\u044f",
+      "url": "https://open.spotify.com/track/4F0dg6feGY0Xhv3b21zYGk"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "Premiers pas",
         "url": "https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4"
@@ -1021,7 +925,7 @@
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "DIA DEL\u00cdCIA",
         "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
@@ -1045,7 +949,7 @@
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
     },
     {
-      "added_at": "2025-07-12 16:22:05",
+      "added_at": "2025-07-13 15:46:11",
       "album": {
         "name": "FAMOUS",
         "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
@@ -1056,9 +960,109 @@
           "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
         }
       ],
-      "duration_ms": 180353,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+      "duration_ms": 157191,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Vaitimbora",
+        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "duration_ms": 135131,
+      "name": "Vaitimbora",
+      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/7xCa8dTNt8T0y3opjZK9ir"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Huligani",
+        "url": "https://open.spotify.com/album/5aDFKr8SI5H1bWGj7dXD7Z"
+      },
+      "artists": [
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+        },
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Huligani",
+      "url": "https://open.spotify.com/track/7KhJMKLSxQWG98iMhCiYqX"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
+        "url": "https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
+      "url": "https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I"
+    },
+    {
+      "added_at": "2025-07-13 15:46:11",
+      "album": {
+        "name": "Underdog (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5eZ1Y9l73CbY1Q5eu92LvK"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 142328,
+      "name": "Underdog (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S"
     }
   ],
   "unique_name": "Viral 50 - Bulgaria",

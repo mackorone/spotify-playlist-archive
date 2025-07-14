@@ -4,11 +4,12 @@
 
 > marrakech season
 
-74 songs - 5 hr 3 min
+75 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-06-27 |  |
+| [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 | 2025-07-13 |  |
 | [Alegria](https://open.spotify.com/track/6THD0HpXvLeHy8kdiK4NQg) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [OSFUR](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO) | [Alegria](https://open.spotify.com/album/7jLacsfzdGbhbfwE5EH455) | 2:24 | 2025-06-27 |  |
 | [Alive](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO) | 3:12 | 2025-06-27 |  |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2025-06-27 |  |
@@ -58,7 +59,7 @@
 | [Out In The Streets](https://open.spotify.com/track/2uxqdKyl1zTx1KGv9FUZ0w) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J) | [Out In The Streets](https://open.spotify.com/album/7d194iurh335XjLVGe0IRq) | 3:16 | 2025-06-27 |  |
 | [Peru \- Peace Control Remix](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Peru \(Peace Control Remix\)](https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw) | 4:47 | 2025-06-27 |  |
 | [Que Pasa](https://open.spotify.com/track/4XwHUW9PAPHIYOW8bXEaSK) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Que Pasa](https://open.spotify.com/album/7ppvKpJGdfqeqkhM5lP6ur) | 7:19 | 2025-06-27 |  |
-| [Reborn](https://open.spotify.com/track/5vdwM9imM15OBwcYE0Id9G) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Healing EP](https://open.spotify.com/album/2rWjO6Nqe0EcT51Mpg321Z) | 7:10 | 2025-06-27 |  |
+| [Reborn](https://open.spotify.com/track/5vdwM9imM15OBwcYE0Id9G) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Healing EP](https://open.spotify.com/album/2rWjO6Nqe0EcT51Mpg321Z) | 7:10 | 2025-06-27 | 2025-07-14 |
 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 | 2025-06-27 |  |
 | [Rwina](https://open.spotify.com/track/73CKzmFl0HBDVh28xOEHU6) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Itri Boy](https://open.spotify.com/album/2yPV0QKx8KtNwceNQ5gQ9r) | 3:06 | 2025-06-27 |  |
 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 | 2025-06-27 |  |

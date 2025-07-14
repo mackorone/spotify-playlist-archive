@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,047 likes - 144 songs - 7 hr 41 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,045 likes - 144 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 15 | [Baby I Love You](https://open.spotify.com/track/1tIRAawWBRIcOUqbu4pxt7) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Baby I Love You](https://open.spotify.com/album/3Y21Y9YDCryfDO6lhSmWRS) | 3:14 |
 | 16 | [In Too Deep \- Acoustic](https://open.spotify.com/track/6dhDsUbIB96e1UX8d0UKHW) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [In Too Deep \(Acoustic\)](https://open.spotify.com/album/017Bceqexkn7Lrxd9ZEhM7) | 2:19 |
 | 17 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 |
-| 18 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/4MeIqmkDUpzCNh25g7PaYN) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/4TOEnObzWo2hprdRapk6Jc) | 2:38 |
+| 18 | [I Want It That Way \- Acoustic](https://open.spotify.com/track/6PLkxuAnQuGN2zcr56XfYu) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/6FleVZQ8V2b3puB2WZgyFl) | 2:46 |
 | 19 | [Best Day of My Life \- Acoustic](https://open.spotify.com/track/1K3piXjBqn6HLxqDFe4sTc) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Best Day of My Life \(Acoustic\)](https://open.spotify.com/album/2dR0Fxs2Or6ZS4dkfshf92) | 2:33 |
 | 20 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/6tpYrSlAy3AI2RQilzawrm) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/1S8QuVTrjyVNPrsDIdcjpk) | 2:56 |
 | 21 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 143 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 144 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAF3zkhLdaraHansAvxjKsrNWoxteUP`
+Snapshot ID: `AAAF4ar2Fa6JLZqw6M8gNmlt/sElIxPJ`

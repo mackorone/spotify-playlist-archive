@@ -914,6 +914,28 @@
     {
       "album": {
         "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Only Thing That\u2019s Gone",
+      "url": "https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
       "artists": [
@@ -928,7 +950,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 196706,
       "name": "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H"

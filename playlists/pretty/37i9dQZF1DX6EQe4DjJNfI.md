@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Delacruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,811 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,870 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 34 | [Não Vou Negar](https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY), [papi](https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu) | [Não Vou Negar](https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb) | 2:43 |
 | 35 | [Auge](https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Auge](https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu) | 3:10 |
 | 36 | [perco o ar](https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [perco o ar](https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z) | 3:24 |
-| 37 | [Ligação](https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkLança](https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Ligação](https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG) | 3:29 |
-| 38 | [Real \(Citando Djonga\)](https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS) | [Eric](https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT), [MofoRec](https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn) | [Real \(Citando Djonga\)](https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb) | 3:25 |
+| 37 | [Real \(Citando Djonga\)](https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS) | [Eric](https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT), [MofoRec](https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn) | [Real \(Citando Djonga\)](https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb) | 3:25 |
+| 38 | [Ligação](https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkLança](https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Ligação](https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG) | 3:29 |
 | 39 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 |
 | 40 | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY) | 3:01 |
 | 41 | [Censura e Prazer](https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Nael](https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Censura e Prazer](https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog) | 3:55 |

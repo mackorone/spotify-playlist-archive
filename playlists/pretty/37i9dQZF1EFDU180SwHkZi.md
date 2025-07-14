@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 118 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 118 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 39 | [Gulzar](https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD) | 3:09 |
 | 40 | [Comfortable](https://open.spotify.com/track/2wpbd3TMjF3zuJhSwln1iX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Comfortable](https://open.spotify.com/album/4IyNzsMpD1ztwKGEgQjsxC) | 2:26 |
 | 41 | [Discovering You](https://open.spotify.com/track/3exJk2UsZJz4SFAIXoDt4i) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [New Stage](https://open.spotify.com/album/29ZHoZziuOvmkSArdiUXAw) | 2:32 |
-| 42 | [Down Easy](https://open.spotify.com/track/4VMtyHM4MTW8DKtxas8K16) | [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Down Easy](https://open.spotify.com/album/7eSICnVsgASy2NGJtSxkxj) | 3:42 |
-| 43 | [Hope That I Go First](https://open.spotify.com/track/6ITZgBVNjWEjuS0KxWwE60) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 2:45 |
+| 42 | [Hope That I Go First](https://open.spotify.com/track/6ITZgBVNjWEjuS0KxWwE60) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 2:45 |
+| 43 | [Down Easy](https://open.spotify.com/track/4VMtyHM4MTW8DKtxas8K16) | [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Down Easy](https://open.spotify.com/album/7eSICnVsgASy2NGJtSxkxj) | 3:42 |
 | 44 | [january](https://open.spotify.com/track/4BCwkKDpIsWgAJohzaEjux) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/0VGR9ywEKEl4vMgTvSVC5m) | 2:36 |
 | 45 | [Feel Good](https://open.spotify.com/track/0KLQEVv44FyvoJ0ry9P02v) | [Stolar](https://open.spotify.com/artist/73PLndNan9GxNYmuCCSUT3) | [Feel Good](https://open.spotify.com/album/2KFVfaT6bP1LAWsGJg9uMQ) | 3:14 |
 | 46 | [Salvador](https://open.spotify.com/track/2dsnEM8ahQjuVmS8miG9jS) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Salvador](https://open.spotify.com/album/4VhygJCt8Zj9h4RDL3Y47v) | 2:59 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 89 | [Lost](https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:39 |
 | 90 | [Nautanki](https://open.spotify.com/track/7Fvcb6tJ3SDyi8KNCa9cRC) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Nautanki](https://open.spotify.com/album/2K5wWX8prJG98gdA5fgITA) | 2:41 |
 | 91 | [What In The World \(feat\. NATURE\)](https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [What In The World \(feat\. NATURE\)](https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN) | 3:18 |
-| 92 | [Pick It Up](https://open.spotify.com/track/6NwCRGuQvKoYfUdmnzxGZw) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:26 |
-| 93 | [Senti](https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Senti](https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4) | 2:53 |
+| 92 | [Senti](https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Senti](https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4) | 2:53 |
+| 93 | [Pick It Up](https://open.spotify.com/track/6NwCRGuQvKoYfUdmnzxGZw) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:26 |
 | 94 | [Burned Out](https://open.spotify.com/track/3Aofkcqfh8ebCQ6YiMxfpM) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Naquita D'souza](https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:51 |
 | 95 | [Wild & Free](https://open.spotify.com/track/05Sb9KO8eHqAHeUSSzLlfT) | [Alma Mater](https://open.spotify.com/artist/16YKNdADpeH4T6V9QLXR70) | [Wild & Free](https://open.spotify.com/album/48XSx8Zm25U8yXvg1xDOSx) | 2:24 |
 | 96 | [Die Happy](https://open.spotify.com/track/42iy1n6ZMIjayR0MxlFjMB) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [Die Happy](https://open.spotify.com/album/25XVdH27KKP7h16HwH2hPW) | 2:53 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 117 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 |
 | 118 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 
-Snapshot ID: `Ab2m/gAAAACveRK8P+kq8QpzLiOb1PER`
+Snapshot ID: `Ab2slAAAAACfbCSq8KpUw+jgWFGtPV6+`

@@ -231,22 +231,6 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Zabawa Mistrz\u00f3w",
-        "url": "https://open.spotify.com/album/3WPrIDuKUgpqSp49lqkJkN"
-      },
-      "artists": [
-        {
-          "name": "Marek Niedzielski",
-          "url": "https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "Kiedy\u015b musi przej\u015b\u0107",
-      "url": "https://open.spotify.com/track/4Gqu9DThFgvafgX5VaplDC"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
         "name": "Polish Pop",
         "url": "https://open.spotify.com/album/4ybxOiKb5bm8kCfKA4QziA"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 218960,
       "name": "Moje serce to jest muzyk",
       "url": "https://open.spotify.com/track/1Pjj0ncZd9hEVb5gQjZsgB"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
+        "name": "Zabawa Mistrz\u00f3w",
+        "url": "https://open.spotify.com/album/3WPrIDuKUgpqSp49lqkJkN"
+      },
+      "artists": [
+        {
+          "name": "Marek Niedzielski",
+          "url": "https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY"
+        }
+      ],
+      "duration_ms": 171560,
+      "name": "Kiedy\u015b musi przej\u015b\u0107",
+      "url": "https://open.spotify.com/track/4Gqu9DThFgvafgX5VaplDC"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Harmony Attack",
-        "url": "https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK"
-      },
-      "artists": [
-        {
-          "name": "Newest Zealand",
-          "url": "https://open.spotify.com/artist/0Ks3WKQ64ZmWa3QkbbeCbj"
-        }
-      ],
-      "duration_ms": 238917,
-      "name": "Harmony Attack",
-      "url": "https://open.spotify.com/track/6ZpreeLhTLF0MWe7nRWx69"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
         "name": "DZIADZIA",
         "url": "https://open.spotify.com/album/7waCxzx8goMVyQ5qkZeHBx"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 567164,
       "name": "wyj\u015bcie",
       "url": "https://open.spotify.com/track/1aH1fENPzVchx3y8oLEiQD"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
+        "name": "Harmony Attack",
+        "url": "https://open.spotify.com/album/5aki7fOUNGSsxD8BjdLiMK"
+      },
+      "artists": [
+        {
+          "name": "Newest Zealand",
+          "url": "https://open.spotify.com/artist/0Ks3WKQ64ZmWa3QkbbeCbj"
+        }
+      ],
+      "duration_ms": 238917,
+      "name": "Harmony Attack",
+      "url": "https://open.spotify.com/track/6ZpreeLhTLF0MWe7nRWx69"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
+        "name": "cobalt",
+        "url": "https://open.spotify.com/album/1VnNovTogSuauD5fM53wpl"
+      },
+      "artists": [
+        {
+          "name": "imasleep",
+          "url": "https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "awake",
+      "url": "https://open.spotify.com/track/2RdFb2aD32eKHVhsQtWbJt"
+    },
+    {
+      "added_at": "2025-07-04 09:05:32",
+      "album": {
         "name": "Nie by\u0142o \u017ale",
         "url": "https://open.spotify.com/album/27pwhbLxg3mslINMEudf6W"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 243979,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2025-07-04 09:05:32",
-      "album": {
-        "name": "cobalt",
-        "url": "https://open.spotify.com/album/1VnNovTogSuauD5fM53wpl"
-      },
-      "artists": [
-        {
-          "name": "imasleep",
-          "url": "https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "awake",
-      "url": "https://open.spotify.com/track/2RdFb2aD32eKHVhsQtWbJt"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Jak by\u0142em ma\u0142y",
-        "url": "https://open.spotify.com/album/6AsuqfjORZUCU4S77WRfyT"
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/3RESOrhgeEBNjtGla5htuF"
       },
       "artists": [
         {
           "name": "DAW!D",
           "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
-        },
-        {
-          "name": "Liwia",
-          "url": "https://open.spotify.com/artist/7rxPZ4OFvnelQH8M4mqB4K"
         }
       ],
-      "duration_ms": 155758,
-      "name": "Jak by\u0142em ma\u0142y",
-      "url": "https://open.spotify.com/track/6FBUZtEehhE7RBrJ97f8aB"
+      "duration_ms": 175395,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/4geeetUpB5S2g7AzrRU911"
     },
     {
       "added_at": "2025-07-04 09:05:32",
@@ -1651,18 +1647,22 @@
     {
       "added_at": "2025-07-04 09:05:32",
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/3RESOrhgeEBNjtGla5htuF"
+        "name": "Jak by\u0142em ma\u0142y",
+        "url": "https://open.spotify.com/album/6AsuqfjORZUCU4S77WRfyT"
       },
       "artists": [
         {
           "name": "DAW!D",
           "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+        },
+        {
+          "name": "Liwia",
+          "url": "https://open.spotify.com/artist/7rxPZ4OFvnelQH8M4mqB4K"
         }
       ],
-      "duration_ms": 175395,
-      "name": "Reset",
-      "url": "https://open.spotify.com/track/4geeetUpB5S2g7AzrRU911"
+      "duration_ms": 155758,
+      "name": "Jak by\u0142em ma\u0142y",
+      "url": "https://open.spotify.com/track/6FBUZtEehhE7RBrJ97f8aB"
     },
     {
       "added_at": "2025-07-04 09:05:32",

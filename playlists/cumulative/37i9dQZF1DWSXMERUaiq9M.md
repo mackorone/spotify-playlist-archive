@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-522 songs - 1 day 8 hr 39 min
+523 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Kerala](https://open.spotify.com/track/2kpeGK7obKW8xaN3p5lMMT) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Kerala](https://open.spotify.com/album/3xOvwpeoFQnUn7f0UzhCId) | 3:29 | 2024-08-12 | 2024-08-23 |
 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 | 2023-10-02 | 2025-07-11 |
 | [kids never sleep](https://open.spotify.com/track/1W13VTyEXLviqjj2bMDJDd) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [kids never sleep](https://open.spotify.com/album/3Hux8afYu6wKMBFx1ZgHh0) | 3:15 | 2024-10-17 | 2024-10-26 |
-| [Kiss Me](https://open.spotify.com/track/5leHWyGGcGHxoSQix9qNwV) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BBYx](https://open.spotify.com/artist/2QiXPWnegDIZucLvDpYRS7) | [Kiss Me](https://open.spotify.com/album/4cYM4uABrN5HUIsAHr7wth) | 2:11 | 2025-05-15 |  |
+| [Kiss Me](https://open.spotify.com/track/5leHWyGGcGHxoSQix9qNwV) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BBYx](https://open.spotify.com/artist/2QiXPWnegDIZucLvDpYRS7) | [Kiss Me](https://open.spotify.com/album/4cYM4uABrN5HUIsAHr7wth) | 2:11 | 2025-05-15 | 2025-07-14 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-09-02 | 2025-03-04 |
 | [Kisses \(feat\. bbyclose\) \- Malugi Remix](https://open.spotify.com/track/18jcuenWg8hfYdZee2lQfc) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Kisses \(feat\. bbyclose\) \[Malugi Remix\]](https://open.spotify.com/album/0ahPH3o9zxwGdxwEjDgxz5) | 2:30 | 2024-12-28 | 2025-01-07 |
 | [Knees Break](https://open.spotify.com/track/0SyWhkrm6yBPgqliVB7MP9) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [MCYL](https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr) | [Knees Break](https://open.spotify.com/album/77FcRYFTPoemKvDGLZ4s0Q) | 2:28 | 2024-12-28 | 2025-05-23 |
@@ -347,6 +347,7 @@
 | [Open Air \- Bauernfeind & MRD Remix](https://open.spotify.com/track/67nT9OXkvqivVPdvLgNjwd) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [Bauernfeind](https://open.spotify.com/artist/0h154IoHceoxecVBZSopbt), [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 5:20 | 2023-03-10 | 2023-03-25 |
 | [P.A.R.T.Y.](https://open.spotify.com/track/6cdwuEuy9h42etVznXLTtd) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [P.A.R.T.Y.](https://open.spotify.com/album/0qYPyKXjit9qxZfehmx4xf) | 7:13 | 2023-03-10 | 2023-03-25 |
 | [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 | 2024-06-13 |  |
+| [Papi](https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk) | [NOVAH](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Papi](https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr) | 3:36 | 2025-07-11 |  |
 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-09-15 |  |
 | [Party People](https://open.spotify.com/track/2ABnWO87LfxTHsj2dewC7X) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Nik Sitz](https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Party People](https://open.spotify.com/album/1iTxUzn9DqvScz3SJVjdgz) | 3:15 | 2024-08-12 |  |
 | [Patience](https://open.spotify.com/track/5CteVFkxiW0XfzCbTyh4Pc) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Patience](https://open.spotify.com/album/4OX5yUMOuU4w1DCcmXtEpy) | 3:28 | 2024-08-22 | 2024-09-17 |

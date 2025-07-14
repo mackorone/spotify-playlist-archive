@@ -863,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Bence De Git",
+        "url": "https://open.spotify.com/album/2RS2HYUvZ8OfOM54qzxv2n"
+      },
+      "artists": [
+        {
+          "name": "Aerro",
+          "url": "https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A"
+        },
+        {
+          "name": "Soner Sar\u0131kabaday\u0131",
+          "url": "https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233786,
+      "name": "Bence De Git",
+      "url": "https://open.spotify.com/track/5yFePkkCwAof5pChuKI2I3"
+    },
+    {
+      "album": {
         "name": "AKKOR",
         "url": "https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G"
       },
@@ -3460,7 +3482,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 193450,
       "name": "Lin\u00e7",
       "url": "https://open.spotify.com/track/5rfAcnchUmdVTce1OBOzGo"
@@ -3727,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
+        "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151198,
+      "name": "Nanik",
+      "url": "https://open.spotify.com/track/6OodgbaFCaBejPQo4RjOtm"
+    },
+    {
+      "album": {
         "name": "Nazar",
         "url": "https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS"
       },
@@ -3916,7 +3956,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 167000,
       "name": "Olur Ya",
       "url": "https://open.spotify.com/track/0zhme0rfZ6NNA8dXeOt1RP"

@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 225422,
       "name": "April Smile",
       "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/1AmFnQikFakztHXt8ZHj4I"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141220,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
       },
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 218627,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 187131,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
@@ -3852,6 +3870,24 @@
       "duration_ms": 232941,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/3OxaSDrZktEd8yO94BYfle"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253106,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
     },
     {
       "album": {
@@ -5818,6 +5854,28 @@
       "duration_ms": 124811,
       "name": "Temporary",
       "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
+    },
+    {
+      "album": {
+        "name": "I Need Space",
+        "url": "https://open.spotify.com/album/2lHcXT4x2UOOQCjHVBftcs"
+      },
+      "artists": [
+        {
+          "name": "Mounika.",
+          "url": "https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO"
+        },
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Tender love",
+      "url": "https://open.spotify.com/track/60GK9ifHXOrJXJq46lwILc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0toaL49WhSJAPcTs94NCJt?si=dHWRSPStRFCdP9TX\_6nY2A"> MAXX MOOR</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,940 likes - 591 songs - 1 day 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,966 likes - 591 songs - 1 day 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -479,7 +479,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 469 | [GREY](https://open.spotify.com/track/41ZGDLBTRWnOoOfEa3P86W) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [REMEMBER WHEN](https://open.spotify.com/album/4qhe990gZoUbWJMqAMirj2) | 2:15 |
 | 470 | [Play Bout You](https://open.spotify.com/track/2ja9ZkUmMJqfEVt2kxHiWf) | [Tniyah](https://open.spotify.com/artist/7EHD7M7VrgyUaRkleSNlKN) | [Play Bout You](https://open.spotify.com/album/72rFpoDQ0FEIUavgtbmEWw) | 3:04 |
 | 471 | [1\-800 Heartbreak](https://open.spotify.com/track/20i3ZsA13evmkPqDh7TrE4) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [1\-800 Heartbreak](https://open.spotify.com/album/5nd07jJ9pXUfglidYQotxQ) | 3:40 |
-| 472 | [88 \(Slowed\)](https://open.spotify.com/track/6F3wfmGhOAHToWMoLYPsa6) | [JVVMN](https://open.spotify.com/artist/3D4dAWx2lZl8GG3biBWMje) | [88 \(Slowed\)](https://open.spotify.com/album/2GwS3bNz3gOQYypuiirunR) | 1:12 |
+| 472 | [88 \(Slowed\)](https://open.spotify.com/track/6F3wfmGhOAHToWMoLYPsa6) | [Jaymin](https://open.spotify.com/artist/363QzY8jZxW6KgkpHmwW5P) | [88 \(Slowed\)](https://open.spotify.com/album/2GwS3bNz3gOQYypuiirunR) | 1:12 |
 | 473 | [Give It Up](https://open.spotify.com/track/1KNNzjKUcp30V52dcD1jLW) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR), [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Give It Up](https://open.spotify.com/album/1FNgqA9u8ZQ10rjZ7aRFP5) | 3:16 |
 | 474 | [Foggin' Up The Windows](https://open.spotify.com/track/4jNBM6lhDOa2fyfHbdqdYQ) | [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Foggin' Up The Windows](https://open.spotify.com/album/4ustYbpYeN83XdD2rqMP7A) | 2:41 |
 | 475 | [untitled](https://open.spotify.com/track/65cZbTtLNKCiHz1LgCe44a) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [untitled](https://open.spotify.com/album/5fZozb3fnQVbCr3npr4TUV) | 2:27 |

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 362609,
+  "num_followers": 362630,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-06-20 13:17:21",
       "album": {
-        "name": "Ask & You Shall Receive",
-        "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Ask & You Shall Receive",
-      "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
-    },
-    {
-      "added_at": "2025-06-20 13:17:21",
-      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 141971,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+    },
+    {
+      "added_at": "2025-06-20 13:17:21",
+      "album": {
+        "name": "Ask & You Shall Receive",
+        "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ask & You Shall Receive",
+      "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
     },
     {
       "added_at": "2025-06-20 13:17:21",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-06-20 13:17:21",
       "album": {
-        "name": "Mehr davon",
-        "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
-      },
-      "artists": [
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "Mehr davon",
-      "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
-    },
-    {
-      "added_at": "2025-06-20 13:17:21",
-      "album": {
         "name": "Ghost of You",
         "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 158063,
       "name": "Ghost of You",
       "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
+    },
+    {
+      "added_at": "2025-06-20 13:17:21",
+      "album": {
+        "name": "Mehr davon",
+        "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
+      },
+      "artists": [
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 173808,
+      "name": "Mehr davon",
+      "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
     },
     {
       "added_at": "2025-06-20 13:17:21",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-06-20 13:17:21",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
-    },
-    {
-      "added_at": "2025-06-20 13:17:21",
-      "album": {
         "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
         "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
+    },
+    {
+      "added_at": "2025-06-20 13:17:21",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     }
   ],
   "unique_name": "Feelgood Pop",

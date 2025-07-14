@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  FADES.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,757 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,755 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 37 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
 | 38 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 39 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
-| 40 | [MANIN](https://open.spotify.com/track/4yNI6PHSp0WBV5iJS4tAfj) | [Euskoprincess](https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Mattin](https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO), [GlorySixVain](https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw) | [TOTOSAKI](https://open.spotify.com/album/5Se7DmKuolG3YN4AE2MD4K) | 2:56 |
+| 40 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 41 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
-| 42 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
+| 42 | [MANIN](https://open.spotify.com/track/4yNI6PHSp0WBV5iJS4tAfj) | [Euskoprincess](https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Mattin](https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO), [GlorySixVain](https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw) | [TOTOSAKI](https://open.spotify.com/album/5Se7DmKuolG3YN4AE2MD4K) | 2:56 |
 | 43 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 44 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
-| 45 | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq) | 2:57 |
-| 46 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
+| 45 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
+| 46 | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq) | 2:57 |
 | 47 | [NO PUDE SALVARNOS](https://open.spotify.com/track/292HLgM3QgJNZbfZFDu3BY) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [NO PUDE SALVARNOS](https://open.spotify.com/album/2iCBgzJqgwhsDysYWrjFXO) | 3:33 |
 | 48 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
 | 49 | [costa brava](https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [costa brava](https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ) | 2:58 |

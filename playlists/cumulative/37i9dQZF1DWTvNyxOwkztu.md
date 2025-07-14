@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-324 songs - 17 hr 55 min
+325 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Fun Fact](https://open.spotify.com/track/4bCQBQwCFZ9fGIzbBe8aie) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Fun Fact](https://open.spotify.com/album/2x7mmLM0rn4USeYDSGaEMX) | 2:01 | 2023-02-17 | 2023-03-26 |
 | [Further](https://open.spotify.com/track/5dyh4NnQsrGOpj5xwnfQXE) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [STRNGE](https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr) | [Further](https://open.spotify.com/album/5WfLnXduak0QdyoIzWPaKt) | 5:18 | 2023-04-14 | 2024-06-29 |
 | [Furui ki](https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Furui ki](https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG) | 3:05 | 2022-10-07 | 2023-04-15 |
-| [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 | 2023-04-14 |  |
+| [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 | 2023-04-14 | 2025-07-14 |
 | [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 | 2022-03-25 | 2025-06-26 |
 | [Get Down](https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Get Down](https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa) | 3:20 | 2023-04-14 | 2024-08-05 |
 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 | 2022-08-05 |  |
@@ -211,6 +211,7 @@
 | [Oh La La](https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9) | [Red Hot Viper](https://open.spotify.com/artist/4gFtwOVP0ozdW5asXUidtk) | [Oh La La](https://open.spotify.com/album/4BNRC7NznGNmAQIa11ZKCc) | 3:14 | 2021-12-09 | 2022-09-13 |
 | [On The Cloud](https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [On the Cloud](https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG) | 1:51 | 2021-12-09 | 2022-07-29 |
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2021-12-09 | 2023-09-10 |
+| [Oro \(feat\. Sofiane Pamart\)](https://open.spotify.com/track/58ip4yjN2Ho65FQQ0hmJAc) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Oro \(feat\. Sofiane Pamart\)](https://open.spotify.com/album/4GGzMyM3MeJk4iFN3f4woK) | 2:45 | 2025-07-11 |  |
 | [Ours \- Hermanez Remix](https://open.spotify.com/track/5dOn7fur446SKKcujG3zwM) | [LØC](https://open.spotify.com/artist/4BdGq2d0jIMo3egZnE61sD), [Hermanez](https://open.spotify.com/artist/4JPGyWMMmaxIRcS4zItdHJ) | [Ours \(Hermanez Remix\)](https://open.spotify.com/album/7DbXJlGgQVjnLduIEyUl5B) | 7:39 | 2022-06-02 | 2024-04-19 |
 | [Ours \- Hermanez Remix](https://open.spotify.com/track/7e93cN9QsW1gJZWRXvkEsa) | [LØC](https://open.spotify.com/artist/4BdGq2d0jIMo3egZnE61sD), [Hermanez](https://open.spotify.com/artist/4JPGyWMMmaxIRcS4zItdHJ) | [Ours](https://open.spotify.com/album/7IrwbWvazSqPcLSnW3XoYC) | 7:39 | 2021-12-09 | 2022-07-29 |
 | [Over You](https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [wavecrvsh](https://open.spotify.com/artist/5egmvcmVXBPzk6y3A9Tqrm), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Over You](https://open.spotify.com/album/4LqGhps0CA546STC9A5Neq) | 2:38 | 2023-10-13 |  |

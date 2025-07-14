@@ -1,29 +1,13 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 59242,
+  "num_followers": 59298,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHEojAAAAADImkSsX46UcncLRNDW4/wK",
+  "snapshot_id": "aHPH3AAAAADAGF/PXC7Z4JeLhffOyNeM",
   "tracks": [
-    {
-      "added_at": "2025-06-29 03:44:32",
-      "album": {
-        "name": "Back At Ya",
-        "url": "https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Back At Ya",
-      "url": "https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5"
-    },
     {
       "added_at": "2025-07-11 04:00:23",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 194198,
       "name": "Versatile",
       "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"
+    },
+    {
+      "added_at": "2025-06-29 03:44:32",
+      "album": {
+        "name": "Back At Ya",
+        "url": "https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Back At Ya",
+      "url": "https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5"
     },
     {
       "added_at": "2025-07-09 18:30:05",

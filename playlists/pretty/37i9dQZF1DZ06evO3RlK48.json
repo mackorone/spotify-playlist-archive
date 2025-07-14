@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 16365,
+  "num_followers": 16367,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAABaISEDB8x9BAU65O4B55cu",
+  "snapshot_id": "aHGlgAAAAAAI+tKwgQdkV/XZQVgau1dF",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad At Letting Go (feat. MUNA)",
-        "url": "https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX"
+        "name": "In My Way",
+        "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
       },
       "artists": [
-        {
-          "name": "Leland",
-          "url": "https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69"
-        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 200959,
-      "name": "Bad At Letting Go (feat. MUNA)",
-      "url": "https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe"
+      "duration_ms": 200772,
+      "name": "In My Way",
+      "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
     },
     {
       "added_at": null,
@@ -403,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Way",
-        "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
+        "name": "Bad At Letting Go (feat. MUNA)",
+        "url": "https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX"
       },
       "artists": [
+        {
+          "name": "Leland",
+          "url": "https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 200772,
-      "name": "In My Way",
-      "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
+      "duration_ms": 200959,
+      "name": "Bad At Letting Go (feat. MUNA)",
+      "url": "https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe"
     },
     {
       "added_at": null,

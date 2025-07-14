@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 189 songs - 7 hr 34 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 187 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 76 | [bi.](https://open.spotify.com/track/4SUmeADBziuSW4axIFIMtZ) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:30 |
 | 77 | [Has To Be](https://open.spotify.com/track/29Iqky207Y14lJip5DkFiN) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Has To Be](https://open.spotify.com/album/4m0K0hcRBcLIdI9FuiGS7U) | 1:55 |
 | 78 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 |
-| 79 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
-| 80 | [could you care less?](https://open.spotify.com/track/1G4YZUPeJ4qpPcUbggoPeE) | [threedimensionsapart](https://open.spotify.com/artist/70NihY4U5ZPHsbgeD1EJoE) | [bliss](https://open.spotify.com/album/6I9fLhZ7IUK5uO63pSAWqH) | 1:55 |
-| 81 | [i got hit by a range rover in fursuit](https://open.spotify.com/track/6fZYnr9HmUtxPIGCctbdYD) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [i got hit by a range rover in fursuit](https://open.spotify.com/album/6VPdOqNTNJhHXgdl0qvZRU) | 2:15 |
-| 82 | [bliss](https://open.spotify.com/track/6JNeKRU19aQmlAf79fQQXr) | [threedimensionsapart](https://open.spotify.com/artist/70NihY4U5ZPHsbgeD1EJoE) | [bliss](https://open.spotify.com/album/6I9fLhZ7IUK5uO63pSAWqH) | 1:40 |
+| 79 | [Met Her on the Internet](https://open.spotify.com/track/2DuCgKbzA35AnBxG1ghu7X) | [Kempachii](https://open.spotify.com/artist/5UE3fPtMEts6UkMutPv2jx) | [Met Her on the Internet](https://open.spotify.com/album/1UsW8v5XZUc1AwgeCkqzXF) | 2:17 |
+| 80 | [Dark Thoughts](https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:16 |
+| 81 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
+| 82 | [Go Bananas](https://open.spotify.com/track/4F7f3j1fDiAstE6CQP3sjk) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Spark Master Tape](https://open.spotify.com/artist/0JXPiLgbGX4n86jsocSkG6) | [Baby Gravy 2](https://open.spotify.com/album/1oxxysQmylUXuxzSdHlqUc) | 2:11 |
 | 83 | [In my feed](https://open.spotify.com/track/7FZiM35Iy0UQuHIxtZl9TN) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [In my feed](https://open.spotify.com/album/3NziTSqh3ecjv43YZ35BZD) | 1:51 |
 | 84 | [hml](https://open.spotify.com/track/6Cqw08IMFqD3lh0oLzUvxm) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [hml](https://open.spotify.com/album/0KJDJSAPIcdVE2SoxHv25W) | 2:00 |
 | 85 | [drip!](https://open.spotify.com/track/3CvcUcRVdmcP5Y3ouMG0kW) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [drip!](https://open.spotify.com/album/1UjH6VYt8fNHQthMWjs0Un) | 1:14 |
@@ -194,8 +194,6 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 184 | [reassurance.](https://open.spotify.com/track/6NAy2TcjgLjcJiVgdL8flR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:52 |
 | 185 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 |
 | 186 | [don'twasteurtimeonme.](https://open.spotify.com/track/11HdoXtPilCaCGTnIu1HvU) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 3:02 |
-| 187 | [Go Bananas](https://open.spotify.com/track/4F7f3j1fDiAstE6CQP3sjk) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Spark Master Tape](https://open.spotify.com/artist/0JXPiLgbGX4n86jsocSkG6) | [Baby Gravy 2](https://open.spotify.com/album/1oxxysQmylUXuxzSdHlqUc) | 2:11 |
-| 188 | [Dark Thoughts](https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:16 |
-| 189 | [Met Her on the Internet](https://open.spotify.com/track/2DuCgKbzA35AnBxG1ghu7X) | [Kempachii](https://open.spotify.com/artist/5UE3fPtMEts6UkMutPv2jx) | [Met Her on the Internet](https://open.spotify.com/album/1UsW8v5XZUc1AwgeCkqzXF) | 2:17 |
+| 187 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 
-Snapshot ID: `AAAFhg0kggrYQ6Nmzp4VHYC8v7RoQ1ON`
+Snapshot ID: `AAAFjn7++8skxqM0WgiDi6E/ZTUelKsU`

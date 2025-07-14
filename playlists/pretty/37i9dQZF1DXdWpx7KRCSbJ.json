@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 331201,
+  "num_followers": 331159,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -703,18 +703,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Batid\u00e3o Do Playboy 2",
-        "url": "https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn"
+        "name": "Cobaia",
+        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
       "artists": [
         {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 188695,
-      "name": "Pode Me Bloquear",
-      "url": "https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H"
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Cobaia",
-        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
+        "name": "Batid\u00e3o Do Playboy 2",
+        "url": "https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
         }
       ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
+      "duration_ms": 188695,
+      "name": "Pode Me Bloquear",
+      "url": "https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -947,30 +947,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
-        "url": "https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
-      "url": "https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/3TgRfu57g7p1rrmLs6X3Dv"
       },
@@ -995,6 +971,30 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
+        "url": "https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
+      "url": "https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Jenifer",
         "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00f3 Depois do Carnaval",
-        "url": "https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "S\u00f3 Depois do Carnaval",
-      "url": "https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Pra voc\u00ea acreditar (Ao vivo)",
         "url": "https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 203894,
       "name": "Pra voc\u00ea acreditar - Ao vivo",
       "url": "https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "S\u00f3 Depois do Carnaval",
+        "url": "https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "S\u00f3 Depois do Carnaval",
+      "url": "https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "\u00c0 Vontade",
-        "url": "https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP"
+        "name": "Day e Lara (...) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj"
       },
       "artists": [
         {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+          "name": "Day e Lara",
+          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 130420,
-      "name": "Safadezinha",
-      "url": "https://open.spotify.com/track/2eZ7emue8wqYu3wslMWlcJ"
+      "duration_ms": 157946,
+      "name": "At\u00e9 Ex Duvida (feat. Maiara & Maraisa) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3twpVbHfTCpgHNlStxfpzx"
     },
     {
       "added_at": "2023-01-17 01:33:36",

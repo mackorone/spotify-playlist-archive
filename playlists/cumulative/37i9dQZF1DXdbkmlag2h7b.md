@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-292 songs - 15 hr 8 min
+293 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Atmosphere](https://open.spotify.com/track/70qrjTSITI223cRd3vplUI) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Atmosphere](https://open.spotify.com/album/3GYeeFdeoxLMMBe5kg8fby) | 2:32 | 2024-11-14 | 2025-01-29 |
 | [Aurora Line](https://open.spotify.com/track/1zuGL74HX3yHU0UNFoW1pX) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Aurora Line](https://open.spotify.com/album/4ZJXs5rAbVlDCbpECFFEq6) | 2:32 | 2024-04-29 | 2024-12-29 |
 | [Aurora Sky](https://open.spotify.com/track/3zRrJfbjE6HzOyC6IpUgnL) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Aurora Sky](https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL) | 2:56 | 2025-01-14 |  |
+| [Awaken](https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Awaken](https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk) | 2:31 | 2025-07-09 |  |
 | [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 | 2021-12-09 | 2025-06-29 |
 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 | 2021-12-09 | 2025-01-29 |
 | [Becker's](https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Memory Canvas](https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF) | 3:35 | 2022-11-22 | 2023-10-13 |
@@ -161,7 +162,7 @@
 | [Lumiere](https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Lumiere](https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3) | 2:48 | 2023-05-19 |  |
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2021-12-09 | 2023-10-06 |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-12-09 | 2025-03-06 |
-| [Luminous Dusk](https://open.spotify.com/track/1npHOLMRCqO4PURfTgked3) | [Indigo Rae](https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3) | [Luminous Dusk](https://open.spotify.com/album/2YIWnBvu9TXVRbyl2yJtPI) | 2:17 | 2025-03-05 |  |
+| [Luminous Dusk](https://open.spotify.com/track/1npHOLMRCqO4PURfTgked3) | [Indigo Rae](https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3) | [Luminous Dusk](https://open.spotify.com/album/2YIWnBvu9TXVRbyl2yJtPI) | 2:17 | 2025-03-05 | 2025-07-14 |
 | [Luméa](https://open.spotify.com/track/2JsGCaSlVchB4drKoL6GQb) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Luméa](https://open.spotify.com/album/0vA6p7prOWPvYs2cYyYGo4) | 2:45 | 2025-06-03 |  |
 | [Luna](https://open.spotify.com/track/4WukGsbJZHciloJygVdG63) | [Nicoló Lorenzo](https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt) | [Tranquillo](https://open.spotify.com/album/6Ii8nqRSP1GXwaYx2Zl1sQ) | 2:11 | 2024-01-31 | 2024-07-24 |
 | [Lustrous](https://open.spotify.com/track/76fvWeCGNWOpvnRxwaB0rw) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Lustrous](https://open.spotify.com/album/1G6Xs1b0DXim2OmfamJTAh) | 3:01 | 2024-09-19 | 2024-11-15 |

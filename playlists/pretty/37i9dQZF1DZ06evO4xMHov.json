@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62853,
+  "num_followers": 62857,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAABdIsWOvqw6zwLvrK6+43UQ",
+  "snapshot_id": "aHGlgAAAAADZYcmiO4P+9ckB15H3YULX",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 280880,
       "name": "Grande \u00e9 o Senhor - Ac\u00fastico Ao Vivo",
       "url": "https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": null,
@@ -791,46 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gloria A Deus",
-        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship Portugu\u00eas",
-          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
-        },
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 379803,
-      "name": "Maravilhado",
-      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra",
-      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -851,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Ele Cres\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 602491,
       "name": "Que Ele Cres\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gloria A Deus",
+        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Portugu\u00eas",
+          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
+        },
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 379803,
+      "name": "Maravilhado",
+      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
     },
     {
       "added_at": null,

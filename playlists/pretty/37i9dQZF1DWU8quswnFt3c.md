@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Regina Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,110 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,010 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 9 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
 | 10 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 11 | [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 |
-| 12 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
+| 12 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
 | 13 | [Hooked](https://open.spotify.com/track/2eCESimcY5kb5j6EwR4E4E) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Hooked](https://open.spotify.com/album/259hWQhXBOcAcNMM299FbZ) | 2:24 |
-| 14 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
+| 14 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
 | 15 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 |
 | 16 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 |
 | 17 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 |
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 31 | [A fost mai simplu să pleci](https://open.spotify.com/track/1YpYFebQmJE6r7wk0hZcQ4) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [A fost mai simplu să pleci](https://open.spotify.com/album/2ADICf1yT37nPwVObJU2uF) | 2:40 |
 | 32 | [Saiyyan Na Maane](https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Saiyyan Na Maane](https://open.spotify.com/album/1vL10WzZmWzUi2Ez5QfpEn) | 2:47 |
 | 33 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
-| 34 | [Lao Vào](https://open.spotify.com/track/6l0jR8cJqLRSWWXi9TZPLx) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:39 |
+| 34 | [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 |
 | 35 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
-| 36 | [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 |
+| 36 | [Lao Vào](https://open.spotify.com/track/6l0jR8cJqLRSWWXi9TZPLx) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:39 |
 | 37 | [Sorry My Honey](https://open.spotify.com/track/0l1E1oeXx5G5sGfvrS2Lb8) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Sorry My Honey](https://open.spotify.com/album/5wJJtnYBJRoVG20i8JLONk) | 3:33 |
 | 38 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
 | 39 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
 | 40 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 |
 | 41 | [Sugar](https://open.spotify.com/track/0NDtqYhhPiGTUGCJBmHsJG) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [Sugar](https://open.spotify.com/album/2lIFJ8da4YeAtyAW3kvha5) | 3:12 |
-| 42 | [Kryptonita](https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Kryptonita](https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9) | 2:44 |
-| 43 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 |
+| 42 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 |
+| 43 | [Kryptonita](https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Kryptonita](https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9) | 2:44 |
 | 44 | [Depois Do Pecado](https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Depois Do Pecado](https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj) | 2:27 |
 | 45 | [A8](https://open.spotify.com/track/0gkp70DCW19XjTRMksgdJF) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [to you, to me](https://open.spotify.com/album/4gsgZrKtgwCBAMIn7Qs42V) | 3:28 |
 | 46 | [intuition](https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [intuition](https://open.spotify.com/album/2skKy8ko4caAopJQlqP6FV) | 3:02 |

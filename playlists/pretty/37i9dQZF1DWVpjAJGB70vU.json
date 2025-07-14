@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating 30 years of Shania Twain's timeless album \"The Woman In Me\" on 90s Country! ",
-  "num_followers": 2045894,
+  "num_followers": 2046607,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "Hard Workin' Man",
         "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 178493,
       "name": "Hard Workin' Man",
       "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 219506,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "You've Got to Stand for Something",
-        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Tippin",
-          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "You've Got to Stand for Something",
-      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "Honky Tonk Attitude",
         "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
       },
@@ -1231,8 +1215,24 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+        "name": "You've Got to Stand for Something",
+        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Tippin",
+          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "You've Got to Stand for Something",
+      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+      "duration_ms": 219506,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "Past The Point Of Rescue",
         "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 177986,
       "name": "Small Town Saturday Night",
       "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Used To Want To Be A Cowboy",
-        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
+        "name": "Thinkin' Problem",
+        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
       },
       "artists": [
         {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+          "name": "David Ball",
+          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
         }
       ],
-      "duration_ms": 245173,
-      "name": "This Cowboy's Hat",
-      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+      "duration_ms": 181133,
+      "name": "Thinkin' Problem",
+      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Thinkin' Problem",
-        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
+        "name": "Used To Want To Be A Cowboy",
+        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
       "artists": [
         {
-          "name": "David Ball",
-          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Thinkin' Problem",
-      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+      "duration_ms": 245173,
+      "name": "This Cowboy's Hat",
+      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 200533,
       "name": "Ain't That Lonely Yet",
       "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "One Way Ticket (Because I Can)",
-      "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "Lonestar",
         "url": "https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 173600,
       "name": "No News",
       "url": "https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "One Way Ticket (Because I Can)",
+      "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
       "artists": [
         {
@@ -1768,9 +1768,9 @@
           "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+      "duration_ms": 227640,
+      "name": "No Doubt About It",
+      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1839,8 +1839,8 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
       },
       "artists": [
         {
@@ -1848,9 +1848,9 @@
           "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 227640,
-      "name": "No Doubt About It",
-      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Dream Walkin'",
-      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "When Fallen Angels Fly",
         "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 169933,
       "name": "I Try to Think About Elvis",
       "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Dream Walkin'",
+      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Life's So Funny",
-        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Bigger Than the Beatles",
-      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "Wynonna",
         "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
       },
@@ -2295,18 +2279,18 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "The Essential Mary Chapin Carpenter",
-        "url": "https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9"
+        "name": "Life's So Funny",
+        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
       },
       "artists": [
         {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 243106,
-      "name": "He Thinks He'll Keep Her",
-      "url": "https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd"
+      "duration_ms": 237226,
+      "name": "Bigger Than the Beatles",
+      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -2339,6 +2323,22 @@
       "duration_ms": 298560,
       "name": "How Can I Help You Say Goodbye",
       "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "The Essential Mary Chapin Carpenter",
+        "url": "https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9"
+      },
+      "artists": [
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "He Thinks He'll Keep Her",
+      "url": "https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd"
     },
     {
       "added_at": "2025-02-07 16:35:27",

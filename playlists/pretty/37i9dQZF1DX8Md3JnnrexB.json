@@ -27,22 +27,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Too Hot - Single Version",
-      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 216426,
       "name": "Knocks Me Off My Feet",
       "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Too Hot - Single Version",
+      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
-        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "September When I First Met You - Single Version",
-      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 206053,
       "name": "When She Was My Girl",
       "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "September When I First Met You - Single Version",
+      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Moody's Mood",
+      "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Moody's Mood",
-      "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Stax Volt Chartbusters Vol 1",
         "url": "https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Lunch Money",
-        "url": "https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH"
-      },
-      "artists": [
-        {
-          "name": "Stefan Sands",
-          "url": "https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Lunch Money",
-      "url": "https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Friends In Love",
         "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 298946,
       "name": "For You",
       "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Lunch Money",
+        "url": "https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH"
+      },
+      "artists": [
+        {
+          "name": "Stefan Sands",
+          "url": "https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Lunch Money",
+      "url": "https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
+        "name": "Love Is Gonna Getcha",
+        "url": "https://open.spotify.com/album/709eBqOXOnZfdMts8husvP"
+      },
+      "artists": [
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Through The Test Of Time",
+      "url": "https://open.spotify.com/track/4aRVe5BSez0xl1znDotjxX"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
-        "name": "Love Is Gonna Getcha",
-        "url": "https://open.spotify.com/album/709eBqOXOnZfdMts8husvP"
-      },
-      "artists": [
-        {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Through The Test Of Time",
-      "url": "https://open.spotify.com/track/4aRVe5BSez0xl1znDotjxX"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90"
-      },
-      "artists": [
-        {
-          "name": "Kubla",
-          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
-        }
-      ],
-      "duration_ms": 205868,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "The Best Of Fourplay",
         "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 235733,
       "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
       "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "duration_ms": 205868,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "The Essential George Duke",
-        "url": "https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L"
-      },
-      "artists": [
-        {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Say That You Will",
-      "url": "https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "So Close",
         "url": "https://open.spotify.com/album/1N6OwzFpqpAbm4tjhuxMDe"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 293533,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7c51mPqkeaO44KJjVuBG5J"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "The Essential George Duke",
+        "url": "https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L"
+      },
+      "artists": [
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Say That You Will",
+      "url": "https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br"
     },
     {
       "added_at": "2025-06-06 13:10:13",

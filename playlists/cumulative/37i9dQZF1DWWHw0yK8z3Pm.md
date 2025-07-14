@@ -4,12 +4,12 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Benjamin Dakota Rogers
 
-542 songs - 1 day 8 hr 59 min
+543 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 Somethin'](https://open.spotify.com/track/4lHPNTdXSUfsVMQk0nuP82) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [20 Somethin'](https://open.spotify.com/album/0ZkNmLA4MBUDhi7Ck8iIqR) | 3:56 | 2023-01-20 | 2023-05-01 |
-| [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-05 |  |
+| [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-05 | 2025-07-14 |
 | [3 Sisters](https://open.spotify.com/track/4dhjdRY1ThnabNKlgPB8Ri) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [The Rise](https://open.spotify.com/album/2cIkSmfJgEMerV6Nn6Pnyo) | 3:41 | 2022-05-13 | 2022-07-23 |
 | [68 \- Live](https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:28 | 2023-09-08 | 2024-04-19 |
 | [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-24 | 2023-09-14 |
@@ -408,6 +408,7 @@
 | [Rise from the Wreck](https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Rise from the Wreck](https://open.spotify.com/album/13v4v7CGKvH6Iap0p2d5SF) | 4:41 | 2022-06-03 | 2022-09-17 |
 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 | 2022-11-11 | 2025-01-18 |
 | [River Rain](https://open.spotify.com/track/4H8SuWRnIuMEO2S9HQJOeE) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [River Rain](https://open.spotify.com/album/0tnqzZJt70WBtxyTvC8u6W) | 4:58 | 2022-09-16 | 2022-10-29 |
+| [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 | 2025-07-11 |  |
 | [Road Runner](https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC), [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Road Runner](https://open.spotify.com/album/78omrT8twYQBzaZWhy275N) | 2:36 | 2023-04-21 |  |
 | [Rocky Mountain Son](https://open.spotify.com/track/0yMofXux1vP1T1TnIP9xYT) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Rocky Mountain Son](https://open.spotify.com/album/47OjqEHaN93XqkLZB3Efpj) | 3:40 | 2024-09-20 | 2024-09-28 |
 | [Rolling Down The 405](https://open.spotify.com/track/0QXh2Z2ynE2TiNvQrUOz19) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Rolling Down The 405](https://open.spotify.com/album/2kQbgOhma9JF9wanjAXGYC) | 3:38 | 2024-07-12 | 2025-03-08 |

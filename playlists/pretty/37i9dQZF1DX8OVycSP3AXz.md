@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,660 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,673 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 41 | [Belles belles belles](https://open.spotify.com/track/58A0ccFbVbjAoA07ENee7k) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Master Serie Vol 1](https://open.spotify.com/album/1NxQK1XBP8kUoIv990pCEw) | 2:14 |
 | 42 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 |
 | 43 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
-| 44 | [Les elucubrations d'Antoine](https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [MusicWorld France](https://open.spotify.com/album/0WKozvA71AJGWSNW6y9Aa0) | 3:27 |
+| 44 | [Les élucubrations d'Antoine](https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [MusicWorld France](https://open.spotify.com/album/0WKozvA71AJGWSNW6y9Aa0) | 3:27 |
 | 45 | [Salut les copains](https://open.spotify.com/track/0h1Yfiy1LEHsyQTzGIZklu) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Salut les copains](https://open.spotify.com/album/5FDxqiMUFTJvINVP4N6K7K) | 2:36 |
 | 46 | [Il a le Truc](https://open.spotify.com/track/70fuO7PxNJXxtApu6Vki8e) | [Les Gam's](https://open.spotify.com/artist/5yj1bCBGvwhFRgYuKZgHqa) | [Les Gam's](https://open.spotify.com/album/6ktDHC59EX6rpC3RFjFCIW) | 2:28 |
 | 47 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/0q4gNGS2rCxzbpiJvE7R2D) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Tendres Annees](https://open.spotify.com/album/5ka3kH5QiNRqPJr0HvTSmY) | 2:24 |

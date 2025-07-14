@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Gaba Ko\u015bciug",
-  "num_followers": 23373,
+  "num_followers": 23375,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,38 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
         "name": "PLAYHOUSE",
         "url": "https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO"
       },
@@ -207,6 +239,22 @@
       "duration_ms": 191346,
       "name": "SALTY",
       "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "Gut Feelings",
+        "url": "https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 204551,
+      "name": "Gut Feelings",
+      "url": "https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -243,22 +291,6 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "Gut Feelings",
-        "url": "https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 204551,
-      "name": "Gut Feelings",
-      "url": "https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD"
       },
@@ -271,38 +303,6 @@
       "duration_ms": 158933,
       "name": "The Boys",
       "url": "https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 186435,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "Jest jak jest",
-        "url": "https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        }
-      ],
-      "duration_ms": 168507,
-      "name": "Jest jak jest",
-      "url": "https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
         "name": "Casting / Fuckboy (Chcia\u0142by\u015b wi\u0119cej)",
         "url": "https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 173032,
       "name": "Fuckboy (Chcia\u0142by\u015b wi\u0119cej)",
       "url": "https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "Jest jak jest",
+        "url": "https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 168507,
+      "name": "Jest jak jest",
+      "url": "https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -503,38 +503,6 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
-        "name": "KEEP IT COOL",
-        "url": "https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 173247,
-      "name": "KEEP IT COOL",
-      "url": "https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
-      },
-      "artists": [
-        {
-          "name": "George Alice",
-          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
-        }
-      ],
-      "duration_ms": 171833,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
         "name": "Bez",
         "url": "https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG"
       },
@@ -547,6 +515,22 @@
       "duration_ms": 232950,
       "name": "Bez",
       "url": "https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "KEEP IT COOL",
+        "url": "https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 173247,
+      "name": "KEEP IT COOL",
+      "url": "https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -567,6 +551,22 @@
       "duration_ms": 160470,
       "name": "Need 2",
       "url": "https://open.spotify.com/track/2XOTQLxng9rBeHw2jHNqDY"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-07-10 22:00:32",
       "album": {
+        "name": "Psy",
+        "url": "https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 200249,
+      "name": "Psy",
+      "url": "https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
         "name": "jeszcze raz",
         "url": "https://open.spotify.com/album/0cxn6C6Yk2zEZlRn2EVHg5"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 220444,
       "name": "jeszcze raz",
       "url": "https://open.spotify.com/track/1zxUcEhaqPbgmryzP9Q6fu"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "Psy",
-        "url": "https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 200249,
-      "name": "Psy",
-      "url": "https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -687,6 +687,26 @@
       "duration_ms": 148847,
       "name": "Letni",
       "url": "https://open.spotify.com/track/1jjkob4b4R34GxNVHSvg0X"
+    },
+    {
+      "added_at": "2025-07-10 22:00:32",
+      "album": {
+        "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
+        "url": "https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
+      "url": "https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo"
     },
     {
       "added_at": "2025-07-10 22:00:32",
@@ -907,26 +927,6 @@
       "duration_ms": 151978,
       "name": "co ty na to?",
       "url": "https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A"
-    },
-    {
-      "added_at": "2025-07-10 22:00:32",
-      "album": {
-        "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
-        "url": "https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        },
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "ZANOSI SI\u0118 NA MI\u0141O\u015a\u0106",
-      "url": "https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo"
     },
     {
       "added_at": "2025-07-10 22:00:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Joshua Redman",
+  "description": "New jazz for open minds. Cover: Kokoroko",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 266500,
       "name": "5th Symphony In Congo Square",
       "url": "https://open.spotify.com/track/77SYnhEsNZuWMZgt07Tarn"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 214320,
       "name": "9 Months",
       "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
@@ -1437,6 +1437,28 @@
     },
     {
       "album": {
+        "name": "All Time (feat. Tawiah)",
+        "url": "https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Tawiah",
+          "url": "https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "All Time (feat. Tawiah)",
+      "url": "https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br"
+    },
+    {
+      "album": {
         "name": "All Twelve",
         "url": "https://open.spotify.com/album/0FW8a4vabb2b1WpPDlt6Er"
       },
@@ -1795,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Other Worlds And Habitats",
+        "url": "https://open.spotify.com/album/2GiS0VlEUYCI5bOv7mf1qA"
+      },
+      "artists": [
+        {
+          "name": "The Sorcerers",
+          "url": "https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "Ancestral Machines",
+      "url": "https://open.spotify.com/track/5vKrqEL5TM8VYxA2L4Ddog"
+    },
+    {
+      "album": {
         "name": "Ancestral Prototypes",
         "url": "https://open.spotify.com/album/0KxhTSZZlWjwMFmP6IloVF"
       },
@@ -1814,6 +1854,24 @@
       "duration_ms": 147292,
       "name": "Ancestral Prototypes",
       "url": "https://open.spotify.com/track/6zqpO4lWlxkIvNfdofHHC6"
+    },
+    {
+      "album": {
+        "name": "Ancestros Futuros",
+        "url": "https://open.spotify.com/album/2QDno1xazwTq0sjLllvfjI"
+      },
+      "artists": [
+        {
+          "name": "Cochemea",
+          "url": "https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291120,
+      "name": "Ancestros Futuros",
+      "url": "https://open.spotify.com/track/7epyCKvpOaA5yrn7fTXGHV"
     },
     {
       "album": {
@@ -2476,6 +2534,32 @@
       "duration_ms": 328813,
       "name": "Arun",
       "url": "https://open.spotify.com/track/06rW0g1K3mq53QUpWCTEu7"
+    },
+    {
+      "album": {
+        "name": "Dom Salvador JID024",
+        "url": "https://open.spotify.com/album/6uFBKSXZAJTDcYODdkMqum"
+      },
+      "artists": [
+        {
+          "name": "Dom Salvador",
+          "url": "https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246379,
+      "name": "As Esta\u00e7\u014des",
+      "url": "https://open.spotify.com/track/7xifzp3yYwKS9vr3hErSwX"
     },
     {
       "album": {
@@ -3236,6 +3320,24 @@
       "duration_ms": 212933,
       "name": "Bajrangbali",
       "url": "https://open.spotify.com/track/1iDDTc4gBmnciyfcbauam7"
+    },
+    {
+      "album": {
+        "name": "Painter of the Invisible",
+        "url": "https://open.spotify.com/album/3yIQEQ92XpqZ9QZxsfgFJu"
+      },
+      "artists": [
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384391,
+      "name": "Baldwin's Blues",
+      "url": "https://open.spotify.com/track/4ourCDVAn58iIDPpJ8SVBW"
     },
     {
       "album": {
@@ -5036,6 +5138,54 @@
       "duration_ms": 307960,
       "name": "Bone And Soil - Shabaka Hutchings Remix",
       "url": "https://open.spotify.com/track/2j1IMbqrawYeu3pIvYaiX0"
+    },
+    {
+      "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/5umlnOLijmNTnpUpmwFV8b"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        },
+        {
+          "name": "Dale Bruning",
+          "url": "https://open.spotify.com/artist/5P4yuRXGXvpmkDzcIikF9u"
+        },
+        {
+          "name": "Nick Forster",
+          "url": "https://open.spotify.com/artist/1dzljRFpEm5yZvL0EIKsY8"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Bonita's Place",
+      "url": "https://open.spotify.com/track/56s77gCsfmyzy3yFnQuJza"
+    },
+    {
+      "album": {
+        "name": "Bonito y Sabroso (Live)",
+        "url": "https://open.spotify.com/album/4kcORqYSr61GtWbg1Azx4w"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234157,
+      "name": "Bonito y Sabroso - Live",
+      "url": "https://open.spotify.com/track/1NtlpQgzqR6nxUdR9a8VEN"
     },
     {
       "album": {
@@ -7724,6 +7874,24 @@
       "duration_ms": 268784,
       "name": "D.O.T.S.",
       "url": "https://open.spotify.com/track/7rDKF3YrD0pVIW5CGPP3Ni"
+    },
+    {
+      "album": {
+        "name": "Tuff Times Never Last",
+        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228385,
+      "name": "Da Du Dah",
+      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
     },
     {
       "album": {
@@ -13574,7 +13742,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
@@ -17058,7 +17226,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 382508,
       "name": "Just Can't Wait",
       "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
@@ -17694,7 +17862,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 224915,
       "name": "La Tijera",
       "url": "https://open.spotify.com/track/7LLdhEEpwgOLdNz737nhYS"
@@ -19803,6 +19971,32 @@
     },
     {
       "album": {
+        "name": "MAGIC DANCE",
+        "url": "https://open.spotify.com/album/0Jj6mJVhOOKTLFVEeCyjqZ"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Michael League",
+          "url": "https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216265,
+      "name": "MAGIC DANCE",
+      "url": "https://open.spotify.com/track/5JbX3yCeWW9xcdExxG2lCG"
+    },
+    {
+      "album": {
         "name": "Magnolia II",
         "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
       },
@@ -21880,7 +22074,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 314679,
       "name": "M\u00fasica Faz Parte de Mim",
       "url": "https://open.spotify.com/track/4RpBzgNoIYrDibKbbHF6yH"
@@ -23470,7 +23664,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 467920,
       "name": "Ofafrii",
       "url": "https://open.spotify.com/track/2FpbV6zmzihAGz5JepkYoX"
@@ -23506,7 +23700,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 295500,
       "name": "Oh My Stars",
       "url": "https://open.spotify.com/track/0Xvder5yNsM1HXZGq6UvUK"
@@ -29831,6 +30025,24 @@
     },
     {
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/17iTtXH2NvxgYUj2VV6PDV"
+      },
+      "artists": [
+        {
+          "name": "Sam Levine",
+          "url": "https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255480,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0maP9hHUwdSArRsD3EI76E"
+    },
+    {
+      "album": {
         "name": "Conceptions",
         "url": "https://open.spotify.com/album/2Y9hxcp2xlm3HZIgqWhH8w"
       },
@@ -31707,6 +31919,28 @@
     },
     {
       "album": {
+        "name": "Taka",
+        "url": "https://open.spotify.com/album/6MrMK600SB4lD8QL4j5H8Y"
+      },
+      "artists": [
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258946,
+      "name": "Taka",
+      "url": "https://open.spotify.com/track/5kMHEF0XECJEpgrJaDohqv"
+    },
+    {
+      "album": {
         "name": "TAKE A CHANCE (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
       },
@@ -31896,7 +32130,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 652975,
       "name": "Tamir (for Tamir Rice)",
       "url": "https://open.spotify.com/track/3nFcW5RWdQzQ2bbWNzeMSk"
@@ -34370,7 +34604,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 296760,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/5Zh8iOUvnZAday3MdqNQx7"
@@ -35052,7 +35286,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 466480,
       "name": "To The Moon (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/3ixFx7kbMdBVSeMqfYagJN"

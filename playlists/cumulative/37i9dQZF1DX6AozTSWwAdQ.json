@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
@@ -3215,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak On Hold",
+        "url": "https://open.spotify.com/album/1wO23VUgRc2czBwP3CVLgE"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164765,
+      "name": "Heartbreak On Hold",
+      "url": "https://open.spotify.com/track/3D79l3bllproKTAjMqZQSe"
+    },
+    {
+      "album": {
         "name": "Never Look Back (Deluxe)",
         "url": "https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx"
       },
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 201153,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
@@ -4360,6 +4378,24 @@
       "duration_ms": 176399,
       "name": "leave me for dead",
       "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
+    },
+    {
+      "album": {
+        "name": "Legalize Living",
+        "url": "https://open.spotify.com/album/50bN734086s72BiT5VNoPw"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Legalize Living",
+      "url": "https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT"
     },
     {
       "album": {

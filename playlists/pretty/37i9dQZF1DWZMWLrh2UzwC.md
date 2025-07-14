@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Justin Bieber, BLACKPINK, Masdo, 3P, CLAUDIA, empty page., Tyla, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,773 likes - 143 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,779 likes - 143 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

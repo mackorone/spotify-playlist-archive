@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-562 songs - 1 day 7 hr 56 min
+563 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/63IC8gaszSBCasV9THojiT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:28 | 2024-01-29 |  |
 | [Fall](https://open.spotify.com/track/5Hd0J6dWz0jqgRDJoRpOdc) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Fall](https://open.spotify.com/album/2aKKhb3QvJcB4yxbRXZTUu) | 3:37 | 2024-10-17 |  |
 | [Falling](https://open.spotify.com/track/5i0g98UudqymFhmcBfCs9I) | [Josh Hoge](https://open.spotify.com/artist/3xlxlp5Pzc1JYmyUPS79VC) | [This Holiday](https://open.spotify.com/album/3SYNzzNRhQBNQgtfIopiyH) | 2:12 | 2024-01-29 |  |
+| [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 | 2025-07-13 |  |
 | [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 | 2025-01-09 | 2025-05-11 |
 | [Favorite Song](https://open.spotify.com/track/5QmWwEZY23peUBTVC8bIYA) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:45 | 2024-01-29 |  |
 | [Favourite Scar](https://open.spotify.com/track/68gjvd3jdbJa4ByEpd5mt6) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:36 | 2024-01-29 |  |
@@ -396,7 +397,7 @@
 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2024-01-29 |  |
 | [Room For You](https://open.spotify.com/track/0ZR0D8BOyH1b8vtrSnA5Xu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:47 | 2024-08-16 |  |
 | [Rumour Has It](https://open.spotify.com/track/4roNDqb3Mm6EUAPCtW0Sct) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:43 | 2024-01-29 |  |
-| [Rumour Has It / Someone Like You](https://open.spotify.com/track/5iYUt3rsgrGFU0nugdhYwj) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 7](https://open.spotify.com/album/5QbBCWilH4naI9TGm9lbG2) | 3:27 | 2024-01-29 |  |
+| [Rumour Has It / Someone Like You \- Cover of Adele](https://open.spotify.com/track/5iYUt3rsgrGFU0nugdhYwj) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 7](https://open.spotify.com/album/5QbBCWilH4naI9TGm9lbG2) | 3:27 | 2024-01-29 |  |
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2024-01-29 |  |
 | [Run \(with Mariah Angeliq\) \- Latin Version](https://open.spotify.com/track/0RpCZ17BXI0x8b14UFrgDQ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Run \(with Mariah Angeliq\) \[Latin Version\]](https://open.spotify.com/album/7tXGtR2l4iE3kvuCzFqLxL) | 2:16 | 2024-01-29 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-01-29 |  |

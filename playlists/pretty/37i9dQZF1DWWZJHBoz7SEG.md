@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Pa' bailar, pa' llorar, pa' pistear y pa' enamorar..\. Los tracks más chidos de la semana en compañía de Manu Chao y Santa Fe Klan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,457 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,592 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

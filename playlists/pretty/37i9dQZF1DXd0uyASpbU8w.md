@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Burna Boy, Justin Bieber, Tyla, KMAT and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,946 likes - 94 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,970 likes - 94 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

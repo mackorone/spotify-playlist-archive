@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-259 songs - 15 hr 42 min
+260 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Eu e Você](https://open.spotify.com/track/5SPr3nOUnQSq8xjeDTTwVY) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior) | [Eu e Você](https://open.spotify.com/album/5LeHhtWVgTxb8NVVe4m1PK) | 2:37 | 2022-02-04 | 2022-07-29 |
 | [Eu Não Sei Te Amar](https://open.spotify.com/track/7xgps6ZioyyH3AqjYjyFu6) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Eu Não Sei Te Amar](https://open.spotify.com/album/1Yhcy9dq0MAIcU00PnHMzM) | 3:12 | 2022-02-04 | 2022-07-27 |
 | [Faixa Extra](https://open.spotify.com/track/4sqCNJNaoC6h2d6YbyOWNg) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [Moletom](https://open.spotify.com/album/1GSxfFtqA55sIBhS6kEvMI) | 2:11 | 2022-03-22 | 2022-07-02 |
-| [Faz Uma Loucura Por Mim](https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Faz Uma Loucura Por Mim](https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM) | 3:35 | 2022-02-04 |  |
+| [Faz Uma Loucura Por Mim](https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Faz Uma Loucura Por Mim](https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM) | 3:35 | 2022-02-04 | 2025-07-14 |
 | [Fim do Horizonte](https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8) | [Fim do Horizonte](https://open.spotify.com/album/46bYEuUXkQl7pL0p88TdgJ) | 3:20 | 2022-04-08 | 2023-03-10 |
 | [Final de Semana](https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Final de Semana](https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu) | 3:21 | 2022-02-04 |  |
 | [Fiz pra Você](https://open.spotify.com/track/0YSqqxz1LzukkCoPSzmkcE) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz pra Você](https://open.spotify.com/album/6FsNorcuVRASevNtPwmbix) | 3:12 | 2022-02-04 | 2022-07-28 |
@@ -218,6 +218,7 @@
 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 | 2022-02-04 |  |
 | [Saiba](https://open.spotify.com/track/13HJiaanpj9UUlM0oRdLCw) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Rodrigo Tavares](https://open.spotify.com/artist/3AJRxQt0V8I0MqhqZ1fwTG), [Tuto Ferraz](https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd), [Vico](https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC) | [Saiba](https://open.spotify.com/album/7ebm89fROlRR91r89dSYNw) | 2:43 | 2022-02-04 | 2025-03-21 |
 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 | 2022-02-04 | 2025-02-15 |
+| [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 | 2025-07-11 |  |
 | [Samurai \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 4:48 | 2022-03-22 |  |
 | [Se Avexe Não](https://open.spotify.com/track/0PaNt7j8MFe0FhZg9PdHbO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/69C3YveqQVaurpkSqVcVZl) | 3:42 | 2022-03-22 | 2022-07-28 |
 | [Se Avexe Não](https://open.spotify.com/track/27hosIGRjZMgGU8HUuKIKc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:44 | 2022-07-22 | 2022-08-02 |

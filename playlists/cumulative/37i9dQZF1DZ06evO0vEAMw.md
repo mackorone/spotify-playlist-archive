@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-161 songs - 8 hr 57 min
+162 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,11 +19,12 @@
 | [Ada](https://open.spotify.com/track/3WMpfOFiAvYnLeqhCT67EN) | [Ecool](https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ada](https://open.spotify.com/album/0jjnnEjMF5hoydjQeT8jky) | 3:03 | 2025-04-24 |  |
 | [ALASKA \(feat\. Davido, Hell Raton & Shiva\)](https://open.spotify.com/track/7io8voeFCefZOJ9Vr5kEZr) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Hell Raton](https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:10 | 2022-10-12 | 2023-04-02 |
 | [All Of You](https://open.spotify.com/track/5N7a6DRcTKdym90PV9O3MC) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Omo Baba Olowo: The Genesis](https://open.spotify.com/album/5XNb9GHjQa9DA2tWeQzJxU) | 3:07 | 2022-03-09 | 2022-04-16 |
-| [Anything](https://open.spotify.com/track/1eBS61fYNgOFTNdOVkyuJr) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:02 | 2025-04-20 |  |
+| [Anything](https://open.spotify.com/track/1eBS61fYNgOFTNdOVkyuJr) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:02 | 2025-04-20 | 2025-07-14 |
 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 | 2023-12-13 | 2025-04-20 |
 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 | 2021-12-28 | 2023-08-17 |
 | [AWAY](https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:33 | 2023-04-01 |  |
 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 | 2024-11-03 | 2025-05-07 |
+| [Awuke](https://open.spotify.com/track/6erurkBpnedevTPib23gid) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:52 | 2025-07-14 |  |
 | [Awuke \- ADP Club Mix](https://open.spotify.com/track/3uctEnI3gYlp5D2HsK8nt3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [Awuke \(ADP Club Mix\)](https://open.spotify.com/album/7L2MYhwy6UmYOhDKNnIPFb) | 2:52 | 2024-12-22 | 2025-01-19 |
 | [Aye](https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s) | 3:55 | 2025-03-30 |  |
 | [Aye](https://open.spotify.com/track/5HspFBscNH4wot51w4uNIG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/7rZER9qm52MTJtGbjpB0tW) | 3:55 | 2024-12-08 | 2025-03-30 |

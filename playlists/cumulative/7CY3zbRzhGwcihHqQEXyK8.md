@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-675 songs - 1 day 11 hr 6 min
+676 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Level](https://open.spotify.com/track/4N5SKzbllEm8CnHDq6TieV) | [synapticholo](https://open.spotify.com/artist/4ZGmqUupkjG4G7R4oDTJXH) | [Level](https://open.spotify.com/album/5sQIlAaLy7yOpuQbvFOXCr) | 2:26 | 2024-12-15 |  |
 | [Light Orange Doesn't Work, What Caused You To Drift Away From Green?](https://open.spotify.com/track/2S7iwLbJuOtg8zPFbWxZ8F) | [Blurain](https://open.spotify.com/artist/1qoYHtGe1GYUzFpoRIse8y) | [What Life Really Means](https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv) | 2:15 | 2024-12-15 |  |
 | [light show](https://open.spotify.com/track/6fcTAFTH4i5wZHPWvsYkM6) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [nekozuna](https://open.spotify.com/artist/6WWwCtl1SwJ2lrrO9h9GDK) | [light show](https://open.spotify.com/album/0NKSXQrINqlKY8uHcnG8ND) | 1:47 | 2024-12-15 |  |
+| [light show!](https://open.spotify.com/track/2aYKas1Lfbthk72TpJyL4K) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40), [dreamy](https://open.spotify.com/artist/1KpXScwD3ZK1nTMj5P3oRJ), [kip](https://open.spotify.com/artist/2WDac7cSmAKbSNPIQVdYmJ) | [light show!](https://open.spotify.com/album/3x6dUwtV4nxqakFICLF24X) | 2:08 | 2025-07-14 |  |
 | [Lights Off](https://open.spotify.com/track/36lim4IVPFwVIDCoJgeufX) | [Kyle Allen Music](https://open.spotify.com/artist/1yH2ZjYHWeStR8K6Z7xYoL), [Corey Wilder](https://open.spotify.com/artist/55JaQX2wIdP3uVEZtt8mxW) | [Lights Off](https://open.spotify.com/album/6Ch6WzIj9VYLzeU65H0mi8) | 2:48 | 2024-12-15 |  |
 | [Like we planned](https://open.spotify.com/track/2cslA3Pzrs5A6V8CPOBba4) | [Silly Salamander](https://open.spotify.com/artist/7eHt3lUzYzgMkWz4qE12gP) | [Like we planned](https://open.spotify.com/album/233V2VhzdnpNJlOepiMfYR) | 3:46 | 2024-12-15 |  |
 | [Like We're Nearing The End](https://open.spotify.com/track/46p73lwSnJJbEyelCc6bJ4) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Vol\. 3 Dispersed Thinking](https://open.spotify.com/album/57K4XaNkJo4LschM3ufPXd) | 2:30 | 2024-12-15 |  |

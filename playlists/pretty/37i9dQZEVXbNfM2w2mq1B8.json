@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 17356,
+  "num_followers": 17367,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MAXWqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MAcoKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "\u0422\u0430\u0437\u0438 \u0434\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
         "url": "https://open.spotify.com/album/4BKWSEifxxparI4dOCRrcq"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/4ZMpVZ52QE7EMJ35F5ReN2"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "\u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c",
         "url": "https://open.spotify.com/album/7h7qc2jEqgx2lDuqLbJBts"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/4jpR02nSAY9ibzrIRgqyA0"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u041f\u0440\u0430\u0432\u0435\u043d\u0430 \u0432 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
-        "url": "https://open.spotify.com/album/2JAJHyFPLlM2DyxuvQ6FDk"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u041f\u0440\u0430\u0432\u0435\u043d\u0430 \u0432 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
-      "url": "https://open.spotify.com/track/2BPBJe9D4sSYmidE1OX6FO"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "Danoto kopay",
         "url": "https://open.spotify.com/album/4BGy2DxZmw8dLyu1OYEeyT"
@@ -85,7 +85,39 @@
       "url": "https://open.spotify.com/track/3Z0bGsiJF9ErQF1iMHsa1G"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u041f\u0440\u0430\u0432\u0435\u043d\u0430 \u0432 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+        "url": "https://open.spotify.com/album/2JAJHyFPLlM2DyxuvQ6FDk"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u041f\u0440\u0430\u0432\u0435\u043d\u0430 \u0432 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+      "url": "https://open.spotify.com/track/2BPBJe9D4sSYmidE1OX6FO"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
+        "url": "https://open.spotify.com/album/0RuQ7R8ieksjGTerAp0F8n"
+      },
+      "artists": [
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
+        }
+      ],
+      "duration_ms": 170487,
+      "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
+      "url": "https://open.spotify.com/track/1Upth6DB6AHg3tWFQ3gnpX"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "Huligani",
         "url": "https://open.spotify.com/album/5aDFKr8SI5H1bWGj7dXD7Z"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/7KhJMKLSxQWG98iMhCiYqX"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -116,44 +148,12 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+      "duration_ms": 207347,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
-        "url": "https://open.spotify.com/album/0RuQ7R8ieksjGTerAp0F8n"
-      },
-      "artists": [
-        {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
-        }
-      ],
-      "duration_ms": 170487,
-      "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
-      "url": "https://open.spotify.com/track/1Upth6DB6AHg3tWFQ3gnpX"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "\u041a\u0430\u043f\u0443\u0447\u0438\u043d\u0430",
         "url": "https://open.spotify.com/album/5HJ4d3WvoVRPrqyfIJUdZI"
@@ -173,23 +173,27 @@
       "url": "https://open.spotify.com/track/0dBBOeVLEIysM0EqCbO7dJ"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "\u0420\u0435\u0436\u0435, \u0420\u0435\u0436\u0435",
-        "url": "https://open.spotify.com/album/0zIha0GDLqDFo7nJwhpqoA"
+        "name": "Shimmy",
+        "url": "https://open.spotify.com/album/1Wq5jlgeIOqyJ4fzZUabuH"
       },
       "artists": [
         {
-          "name": "VANE$$A",
-          "url": "https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL"
+          "name": "Deejay Pico",
+          "url": "https://open.spotify.com/artist/4afo4juvlF3KjzTy0OEflb"
+        },
+        {
+          "name": "Lexi",
+          "url": "https://open.spotify.com/artist/1FyDhemd0XBaAOeICsgs6w"
         }
       ],
-      "duration_ms": 195862,
-      "name": "\u0420\u0435\u0436\u0435, \u0420\u0435\u0436\u0435",
-      "url": "https://open.spotify.com/track/1r8idx9lRikl6t0qA8Nqvm"
+      "duration_ms": 239999,
+      "name": "Shimmy",
+      "url": "https://open.spotify.com/track/3AZGF9eV68DnDbhWDWGBzn"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "Bum Lake Pare",
         "url": "https://open.spotify.com/album/1OsYlJECVezvlJ6vK80vmS"
@@ -209,23 +213,39 @@
       "url": "https://open.spotify.com/track/3Ta7Nz7ZaaHe9wDlfOdwOe"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "\u0417\u0432\u044a\u043d\u044f \u0442\u0438, \u0430\u043b\u043e",
-        "url": "https://open.spotify.com/album/5aePtyWR4XlUYJqKN8SAjk"
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
       },
       "artists": [
         {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 243130,
-      "name": "\u0417\u0432\u044a\u043d\u044f \u0442\u0438, \u0430\u043b\u043e",
-      "url": "https://open.spotify.com/track/7HunT1JA3wToGQD41HnDXc"
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u0420\u0435\u0436\u0435, \u0420\u0435\u0436\u0435",
+        "url": "https://open.spotify.com/album/0zIha0GDLqDFo7nJwhpqoA"
+      },
+      "artists": [
+        {
+          "name": "VANE$$A",
+          "url": "https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "\u0420\u0435\u0436\u0435, \u0420\u0435\u0436\u0435",
+      "url": "https://open.spotify.com/track/1r8idx9lRikl6t0qA8Nqvm"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -253,23 +273,7 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "S\u2018Agapao",
-        "url": "https://open.spotify.com/album/066OTZ0bPhKS5bkMlT0urC"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "S\u2018Agapao",
-      "url": "https://open.spotify.com/track/78STrusGDYuWx92lZW4yHi"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
         "url": "https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy"
@@ -285,95 +289,47 @@
       "url": "https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "Mrasnica",
-        "url": "https://open.spotify.com/album/6wP5dihV6tPPxQ2HASFU8v"
+        "name": "088",
+        "url": "https://open.spotify.com/album/1sF7DEJq86bQ2zgkKJxaHm"
       },
       "artists": [
         {
-          "name": "Azis",
-          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
-        }
-      ],
-      "duration_ms": 225601,
-      "name": "Mrasnica",
-      "url": "https://open.spotify.com/track/1LXRWQeHY486xZVgl3uJ4x"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ"
-      },
-      "artists": [
-        {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/1lYu0w0V6kGnFhH4jq1ZtS"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u041a\u044a\u0434\u0435 \u0441\u0438 \u0441\u0435\u0433\u0430",
-        "url": "https://open.spotify.com/album/1DMaKwgQRLhFcwc1SAEGU3"
-      },
-      "artists": [
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "\u041a\u044a\u0434\u0435 \u0441\u0438 \u0441\u0435\u0433\u0430",
-      "url": "https://open.spotify.com/track/67v4GN0tIrfPGosPzSyo2I"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4Gk9vGkSFLeNOdom4P0t8N"
         },
         {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "Mirela",
+          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
         }
       ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+      "duration_ms": 161086,
+      "name": "088",
+      "url": "https://open.spotify.com/track/2keBOP6Rp3PfbLXrFjNDKq"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
-        "url": "https://open.spotify.com/album/6oZYnvPvShjq45MQ5bnN5e"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN"
       },
       "artists": [
         {
-          "name": "Kiara",
-          "url": "https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z"
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
         },
         {
-          "name": "Monkey",
-          "url": "https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO"
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
         }
       ],
-      "duration_ms": 175813,
-      "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
-      "url": "https://open.spotify.com/track/2Exu33bEQ8U2ZSCwLXJ2I5"
+      "duration_ms": 198000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "\u041c\u0430\u0439 \u043f\u043e\u043b\u0443\u0434\u044f\u0445",
         "url": "https://open.spotify.com/album/5TjTfDE7PYbHbmbRw7HOI0"
@@ -393,7 +349,175 @@
       "url": "https://open.spotify.com/track/7rpYxeb9bA0qUa4KdeIfS6"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "Mrasnica",
+        "url": "https://open.spotify.com/album/6wP5dihV6tPPxQ2HASFU8v"
+      },
+      "artists": [
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "duration_ms": 225601,
+      "name": "Mrasnica",
+      "url": "https://open.spotify.com/track/1LXRWQeHY486xZVgl3uJ4x"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "S\u2018Agapao",
+        "url": "https://open.spotify.com/album/066OTZ0bPhKS5bkMlT0urC"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "S\u2018Agapao",
+      "url": "https://open.spotify.com/track/78STrusGDYuWx92lZW4yHi"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/1lYu0w0V6kGnFhH4jq1ZtS"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u0417\u0432\u044a\u043d\u044f \u0442\u0438, \u0430\u043b\u043e",
+        "url": "https://open.spotify.com/album/5aePtyWR4XlUYJqKN8SAjk"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "duration_ms": 243130,
+      "name": "\u0417\u0432\u044a\u043d\u044f \u0442\u0438, \u0430\u043b\u043e",
+      "url": "https://open.spotify.com/track/7HunT1JA3wToGQD41HnDXc"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
+        "url": "https://open.spotify.com/album/6oZYnvPvShjq45MQ5bnN5e"
+      },
+      "artists": [
+        {
+          "name": "Kiara",
+          "url": "https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z"
+        },
+        {
+          "name": "Monkey",
+          "url": "https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
+      "url": "https://open.spotify.com/track/2Exu33bEQ8U2ZSCwLXJ2I5"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "22:22",
+        "url": "https://open.spotify.com/album/2uExVrySWlwMWSEKfQ4bke"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 215918,
+      "name": "22:22",
+      "url": "https://open.spotify.com/track/6Rov6lAeKFILrSHmkUyvxw"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -433,39 +557,103 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "\u0427\u0443\u043f\u0438 \u0431\u0430\u0440\u0438\u0435\u0440\u0438",
-        "url": "https://open.spotify.com/album/2TgVyjy1zTuhSKvbnuLuXt"
+        "name": "\u041f\u0440\u0430\u0437\u043d\u0443\u0432\u0430\u0448",
+        "url": "https://open.spotify.com/album/4INV34EnV9mpkKlPavZ2zv"
       },
       "artists": [
         {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+          "name": "Desi Slava",
+          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
+        },
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
         }
       ],
-      "duration_ms": 195164,
-      "name": "\u0427\u0443\u043f\u0438 \u0431\u0430\u0440\u0438\u0435\u0440\u0438",
-      "url": "https://open.spotify.com/track/7injeo0OCRz5C9UKtYmiP0"
+      "duration_ms": 202014,
+      "name": "\u041f\u0440\u0430\u0437\u043d\u0443\u0432\u0430\u0448",
+      "url": "https://open.spotify.com/track/48iEUmuI93bQAXZ3bSvojr"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "22:22",
-        "url": "https://open.spotify.com/album/2uExVrySWlwMWSEKfQ4bke"
+        "name": "RAZ DVA TRI",
+        "url": "https://open.spotify.com/album/0cD2sKcB37WnARfeOVG07P"
       },
       "artists": [
         {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Atanas Kolev",
+          "url": "https://open.spotify.com/artist/10iUgMo6V58HTpiZrEnNQu"
         }
       ],
-      "duration_ms": 215918,
-      "name": "22:22",
-      "url": "https://open.spotify.com/track/6Rov6lAeKFILrSHmkUyvxw"
+      "duration_ms": 149004,
+      "name": "RAZ DVA TRI",
+      "url": "https://open.spotify.com/track/1l3XkislBJaCvh7B2Lp2SD"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "Mazalyak",
+        "url": "https://open.spotify.com/album/3O5pvkZ7Jrlqz1UN9qain9"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        },
+        {
+          "name": "Monkey",
+          "url": "https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Mazalyak",
+      "url": "https://open.spotify.com/track/542H35VsHuyhN1mBzDpAaT"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
+        "url": "https://open.spotify.com/album/5VBSe7KYebMlPsrDoETNul"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
+      "url": "https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u041d\u0430\u043b\u0435\u0439",
+        "url": "https://open.spotify.com/album/6ftLCvIX76F4wrwOtTngiT"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz"
+        },
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2ckf22lohTHo1t33yIM88e"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "\u041d\u0430\u043b\u0435\u0439",
+      "url": "https://open.spotify.com/track/3cZTfGt9LFi9j4apzfvx0l"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "\u0422\u0443\u043a-\u0422\u0430\u043c",
         "url": "https://open.spotify.com/album/0slK8t50As7YJYf48XG05r"
@@ -489,111 +677,39 @@
       "url": "https://open.spotify.com/track/49Wp0NALmAsMBkaXYzd8ur"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "Mazalyak",
-        "url": "https://open.spotify.com/album/3O5pvkZ7Jrlqz1UN9qain9"
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN"
       },
       "artists": [
         {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        },
-        {
-          "name": "Monkey",
-          "url": "https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 218181,
-      "name": "Mazalyak",
-      "url": "https://open.spotify.com/track/542H35VsHuyhN1mBzDpAaT"
+      "duration_ms": 180250,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
+        "name": "Party Never Ends, Part 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf"
       },
       "artists": [
         {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Orso",
-          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
-        },
-        {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         }
       ],
-      "duration_ms": 177598,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+      "duration_ms": 201230,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
-        "url": "https://open.spotify.com/album/5VBSe7KYebMlPsrDoETNul"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
-      "url": "https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u041f\u0440\u0430\u0437\u043d\u0443\u0432\u0430\u0448",
-        "url": "https://open.spotify.com/album/4INV34EnV9mpkKlPavZ2zv"
-      },
-      "artists": [
-        {
-          "name": "Desi Slava",
-          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
-        },
-        {
-          "name": "Djena",
-          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
-        }
-      ],
-      "duration_ms": 202014,
-      "name": "\u041f\u0440\u0430\u0437\u043d\u0443\u0432\u0430\u0448",
-      "url": "https://open.spotify.com/track/48iEUmuI93bQAXZ3bSvojr"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "Losha",
         "url": "https://open.spotify.com/album/0K4vDNBQ6yIs06UuOk3sWt"
@@ -609,115 +725,23 @@
       "url": "https://open.spotify.com/track/0Ksj1ehwR3eJl6L3bB9VZk"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+        "name": "\u0427\u0443\u043f\u0438 \u0431\u0430\u0440\u0438\u0435\u0440\u0438",
+        "url": "https://open.spotify.com/album/2TgVyjy1zTuhSKvbnuLuXt"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
         }
       ],
-      "duration_ms": 144624,
-      "name": "Rebirth (Intro)",
-      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
+      "duration_ms": 195164,
+      "name": "\u0427\u0443\u043f\u0438 \u0431\u0430\u0440\u0438\u0435\u0440\u0438",
+      "url": "https://open.spotify.com/track/7injeo0OCRz5C9UKtYmiP0"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u041d\u0430\u043b\u0435\u0439",
-        "url": "https://open.spotify.com/album/6ftLCvIX76F4wrwOtTngiT"
-      },
-      "artists": [
-        {
-          "name": "Robi",
-          "url": "https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz"
-        },
-        {
-          "name": "Tino",
-          "url": "https://open.spotify.com/artist/2ckf22lohTHo1t33yIM88e"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "\u041d\u0430\u043b\u0435\u0439",
-      "url": "https://open.spotify.com/track/3cZTfGt9LFi9j4apzfvx0l"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "RAZ DVA TRI",
-        "url": "https://open.spotify.com/album/0cD2sKcB37WnARfeOVG07P"
-      },
-      "artists": [
-        {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "Atanas Kolev",
-          "url": "https://open.spotify.com/artist/10iUgMo6V58HTpiZrEnNQu"
-        }
-      ],
-      "duration_ms": 149004,
-      "name": "RAZ DVA TRI",
-      "url": "https://open.spotify.com/track/1l3XkislBJaCvh7B2Lp2SD"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
-        "url": "https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
-      "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        },
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
-        "url": "https://open.spotify.com/album/3kXgJjEq9r9ARBUxFr1nO6"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        }
-      ],
-      "duration_ms": 211578,
-      "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
-      "url": "https://open.spotify.com/track/21z8pee2qYV0SzbqQCb72g"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -749,23 +773,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "Party Never Ends, Pt. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2qL4k9MmaPNgj2PMayGuHH"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Caliente - Radio Edit",
-      "url": "https://open.spotify.com/track/41nUOHxf1hwr5myEEbXco7"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "Tvoya Totalno",
         "url": "https://open.spotify.com/album/3qFr1hLqtRlXwhd5vICUTK"
@@ -781,23 +789,43 @@
       "url": "https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ"
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
       },
       "artists": [
         {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 165142,
-      "name": "Milkyway",
-      "url": "https://open.spotify.com/track/3dZvjnXX0kBOdsiF3lboNJ"
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u0411\u0438\u0442\u043a\u043e\u0439\u043d \u043a\u044e\u0447\u0435\u043a",
+        "url": "https://open.spotify.com/album/6Hgr9CtGysYNFrSu6OMlar"
+      },
+      "artists": [
+        {
+          "name": "DJ Damyan",
+          "url": "https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI"
+        },
+        {
+          "name": "Monkey",
+          "url": "https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw"
+        }
+      ],
+      "duration_ms": 198139,
+      "name": "\u0411\u0438\u0442\u043a\u043e\u0439\u043d \u043a\u044e\u0447\u0435\u043a",
+      "url": "https://open.spotify.com/track/2TKc0nGOVXS2ECxQGAMsZd"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "Ne dalja nishto",
         "url": "https://open.spotify.com/album/4zcVpWysWHqsycS7OdbBx5"
@@ -813,27 +841,7 @@
       "url": "https://open.spotify.com/track/3xH6QvmqSbvQaN5iNqwZYn"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "SRCE <3",
-        "url": "https://open.spotify.com/album/3gWUSePjD1Ftku7PoaHQ6u"
-      },
-      "artists": [
-        {
-          "name": "Mila Robert",
-          "url": "https://open.spotify.com/artist/5tLSSaTETr45nkqq42McjK"
-        },
-        {
-          "name": "Azis",
-          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Polujivi",
-      "url": "https://open.spotify.com/track/5USdMIrRxaU3vnKaPxqj1C"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -849,7 +857,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
         "url": "https://open.spotify.com/album/4Wbs7T5xkCSeCv7tgugC4C"
@@ -885,7 +893,7 @@
       "url": "https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -917,67 +925,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "What Did I Miss?",
-        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "\u0411\u0438\u0442\u043a\u043e\u0439\u043d \u043a\u044e\u0447\u0435\u043a",
-        "url": "https://open.spotify.com/album/6Hgr9CtGysYNFrSu6OMlar"
-      },
-      "artists": [
-        {
-          "name": "DJ Damyan",
-          "url": "https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI"
-        },
-        {
-          "name": "Monkey",
-          "url": "https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw"
-        }
-      ],
-      "duration_ms": 198139,
-      "name": "\u0411\u0438\u0442\u043a\u043e\u0439\u043d \u043a\u044e\u0447\u0435\u043a",
-      "url": "https://open.spotify.com/track/2TKc0nGOVXS2ECxQGAMsZd"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
-      "album": {
-        "name": "Ministarat Na Veselieto",
-        "url": "https://open.spotify.com/album/2UDNAQc1BPelhkcRxCCyHO"
-      },
-      "artists": [
-        {
-          "name": "Krisko",
-          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
-        },
-        {
-          "name": "Lora Karajova",
-          "url": "https://open.spotify.com/artist/5io8vM6q4wMK12XmOdEYIt"
-        },
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/6r0YcUb4D28iZMWUKPlBWf"
-        }
-      ],
-      "duration_ms": 206917,
-      "name": "Ministarat Na Veselieto",
-      "url": "https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo"
-    },
-    {
-      "added_at": "2025-07-12 13:25:40",
+      "added_at": "2025-07-13 13:21:14",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -995,6 +943,54 @@
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "\u041a\u044a\u0434\u0435 \u0441\u0438 \u0441\u0435\u0433\u0430",
+        "url": "https://open.spotify.com/album/1DMaKwgQRLhFcwc1SAEGU3"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "\u041a\u044a\u0434\u0435 \u0441\u0438 \u0441\u0435\u0433\u0430",
+      "url": "https://open.spotify.com/track/67v4GN0tIrfPGosPzSyo2I"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "duration_ms": 165142,
+      "name": "Milkyway",
+      "url": "https://open.spotify.com/track/3dZvjnXX0kBOdsiF3lboNJ"
+    },
+    {
+      "added_at": "2025-07-13 13:21:14",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "duration_ms": 156019,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/36UkdnNAjc21ZoBJMp2EA6"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAADOf1YLxxAH4O61Z1kX0tmi",
+  "snapshot_id": "aHGlgAAAAAB8rmvjnvKOlswDOnFoyioA",
   "tracks": [
     {
       "added_at": null,
@@ -247,38 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Little Walter",
-      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Of Music",
-        "url": "https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 438800,
-      "name": "Still A Man",
-      "url": "https://open.spotify.com/track/3EA1GVdqwyjVvbw9XJ87gq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ray Ray",
         "url": "https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 258813,
       "name": "Rifle Love",
       "url": "https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of Music",
+        "url": "https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 438800,
+      "name": "Still A Man",
+      "url": "https://open.spotify.com/track/3EA1GVdqwyjVvbw9XJ87gq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Little Walter",
+      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 346226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns"
+      "duration_ms": 285133,
+      "name": "Born Not To Know",
+      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 285133,
-      "name": "Born Not To Know",
-      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
+      "duration_ms": 346226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns"
     }
   ],
   "unique_name": "This Is Tony! Toni! Ton\u00e9!",

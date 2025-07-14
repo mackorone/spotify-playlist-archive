@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 183027,
       "name": "ALYX (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/39XG4fTadjyZtPYybMqvZA"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 193554,
       "name": "Baby (with J Balvin)",
       "url": "https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 238533,
       "name": "BON TON (feat. Lazza, BLANCO, Sfera Ebbasta & Michelangelo)",
       "url": "https://open.spotify.com/track/0cefXmvbKCLgPnSoWqclfz"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 197647,
       "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
       "url": "https://open.spotify.com/track/4dNo8BDY0ZU7fJhiTQZuIq"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 205928,
       "name": "Cyborg (feat. Geolier)",
       "url": "https://open.spotify.com/track/54wRUYPMEHLttFdLImOlAt"
@@ -1938,6 +1938,28 @@
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "album": {
+        "name": "Anno Zero",
+        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "DONNA VERA (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8"
     },
     {
       "album": {
@@ -2339,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/0CnhUDR5R712uOBRT2KlHo"
+      },
+      "artists": [
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111879,
+      "name": "FIORI TRASTEVERINI 2025",
+      "url": "https://open.spotify.com/track/2pfOZSBz0AXJruqVTzQhrU"
+    },
+    {
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -2562,6 +2602,50 @@
       "duration_ms": 185986,
       "name": "FUORI DI TESTA - feat. Par-T-One",
       "url": "https://open.spotify.com/track/2et2A0W3In3OYaRdJrY6m9"
+    },
+    {
+      "album": {
+        "name": "Fuorilegge (feat. Sayf)",
+        "url": "https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126371,
+      "name": "Fuorilegge (feat. Sayf)",
+      "url": "https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11"
+    },
+    {
+      "album": {
+        "name": "G Class",
+        "url": "https://open.spotify.com/album/6u19dZ1V8d9lCZgsARSXQY"
+      },
+      "artists": [
+        {
+          "name": "Loco Dice",
+          "url": "https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148105,
+      "name": "G Class",
+      "url": "https://open.spotify.com/track/4XcQdx9CH6hjwBkgsZNGIh"
     },
     {
       "album": {
@@ -3046,7 +3130,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 191869,
       "name": "Hollywood (feat. Diplo)",
       "url": "https://open.spotify.com/track/4CvW0iHAs7yJhbpnJ3NSnS"
@@ -3460,6 +3544,28 @@
       "duration_ms": 310153,
       "name": "KILO",
       "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
+    },
+    {
+      "album": {
+        "name": "Kipsta (feat. Kuremino)",
+        "url": "https://open.spotify.com/album/0aNQyscRPmeCuZ21vzppOM"
+      },
+      "artists": [
+        {
+          "name": "Lenny Delicious",
+          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154181,
+      "name": "Kipsta (feat. Kuremino)",
+      "url": "https://open.spotify.com/track/7bFnwrQazGOL4vvabrlbEJ"
     },
     {
       "album": {
@@ -4232,7 +4338,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 195820,
       "name": "Medellin (feat. Lazza)",
       "url": "https://open.spotify.com/track/1hqV0kb6c8Rp9jvJRPcDy7"
@@ -4482,6 +4588,24 @@
       "duration_ms": 179868,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+    },
+    {
+      "album": {
+        "name": "MTP",
+        "url": "https://open.spotify.com/album/3RbAF1UiiO3HNzIYSUXlPn"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135830,
+      "name": "MTP",
+      "url": "https://open.spotify.com/track/4Swl67KjGwtWdNPqm0ZD39"
     },
     {
       "album": {
@@ -4934,6 +5058,32 @@
       "duration_ms": 138709,
       "name": "Pacific Coast Head",
       "url": "https://open.spotify.com/track/7gOKza5coRie6AW7GgPQOC"
+    },
+    {
+      "album": {
+        "name": "PALAZZI TAG",
+        "url": "https://open.spotify.com/album/6DBYaDwivTs4zZsFSIQp2k"
+      },
+      "artists": [
+        {
+          "name": "PRIMA ALBA",
+          "url": "https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv"
+        },
+        {
+          "name": "Molo",
+          "url": "https://open.spotify.com/artist/3orzMpb0hF6UNoP2mPXBol"
+        },
+        {
+          "name": "piccolokaiju",
+          "url": "https://open.spotify.com/artist/5ROrAM1o4WbOHYJSXgNb8J"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166423,
+      "name": "PALAZZI TAG",
+      "url": "https://open.spotify.com/track/6hptNIP5clGBqn5Pk8rWbM"
     },
     {
       "album": {
@@ -5629,6 +5779,28 @@
     },
     {
       "album": {
+        "name": "Reinsertado 2.0",
+        "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
+    },
+    {
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -5750,7 +5922,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 129395,
       "name": "SHOW ME LOVE (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/0x2OzaIb8l0FZ092yVNC6y"
@@ -6039,6 +6211,28 @@
     },
     {
       "album": {
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
+    },
+    {
+      "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
       },
@@ -6062,6 +6256,28 @@
       "duration_ms": 143500,
       "name": "TAXI SULLA LUNA",
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
+    },
+    {
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/52VHqcYCHd3V8Ei8QYA2Cs"
+      },
+      "artists": [
+        {
+          "name": "Matt Kush",
+          "url": "https://open.spotify.com/artist/5B9ZPuAybSaWKxW5Ehf4iP"
+        },
+        {
+          "name": "Ayo Tyno",
+          "url": "https://open.spotify.com/artist/2OjbBWyCK2DBjhxkTNvS0N"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/0GA3Q6sDJKFyFTuOD08fOn"
     },
     {
       "album": {

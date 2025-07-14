@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 52182,
+  "num_followers": 52255,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAACsJWTUsDCfRU6jALNjTuFh",
+  "snapshot_id": "aHGlgAAAAACsi391QU1oct6w+JXCoWro",
   "tracks": [
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 186446,
-      "name": "Anabelle",
-      "url": "https://open.spotify.com/track/4GG8Rx7YMvZ1NbIEW8yZtF"
+      "duration_ms": 237250,
+      "name": "East Of The Massanutten",
+      "url": "https://open.spotify.com/track/3qUc4SlnZOeD6WjD3veU5X"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+        "name": "Prosperity",
+        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 237250,
-      "name": "East Of The Massanutten",
-      "url": "https://open.spotify.com/track/3qUc4SlnZOeD6WjD3veU5X"
+      "duration_ms": 197877,
+      "name": "Prosperity",
+      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
       "duration_ms": 198946,
       "name": "Winning Streak",
       "url": "https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prosperity",
-        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Prosperity",
-      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
     },
     {
       "added_at": null,
@@ -647,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Wrangler",
-        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "Warped Tour",
-      "url": "https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starfoxx",
         "url": "https://open.spotify.com/album/58SxzTBJiPqZyb3x4xRQeK"
       },
@@ -675,6 +643,22 @@
       "duration_ms": 235986,
       "name": "Starfoxx",
       "url": "https://open.spotify.com/track/26ripkMj3zMuzvXUFba7Ig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Wrangler",
+        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Warped Tour",
+      "url": "https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp"
     },
     {
       "added_at": null,

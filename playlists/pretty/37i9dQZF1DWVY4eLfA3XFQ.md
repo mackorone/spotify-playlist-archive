@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐐 Tech house technicians, featuring Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,863 likes - 125 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,901 likes - 125 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

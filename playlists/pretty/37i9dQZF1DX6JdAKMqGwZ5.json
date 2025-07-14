@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Ronroneo con Zuaraz.",
-  "num_followers": 200259,
+  "num_followers": 200243,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "Lo que yo te he querido",
-        "url": "https://open.spotify.com/album/6qC0JcKUO8kNEftI6iXxlF"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        },
-        {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
-        }
-      ],
-      "duration_ms": 203435,
-      "name": "Lo que yo te he querido",
-      "url": "https://open.spotify.com/track/6uVKzyquFqdEOcwDKVpeSF"
-    },
-    {
-      "added_at": "2025-07-10 22:01:11",
-      "album": {
         "name": "Tachando los D\u00edas",
         "url": "https://open.spotify.com/album/3UL4sjMuMjkcBIjXZnkFwy"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
+        "name": "Lo que yo te he querido",
+        "url": "https://open.spotify.com/album/6qC0JcKUO8kNEftI6iXxlF"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        },
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "duration_ms": 203435,
+      "name": "Lo que yo te he querido",
+      "url": "https://open.spotify.com/track/6uVKzyquFqdEOcwDKVpeSF"
+    },
+    {
+      "added_at": "2025-07-10 22:01:11",
+      "album": {
         "name": "escocia",
         "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
       },
@@ -783,38 +783,6 @@
       "duration_ms": 177321,
       "name": "escocia",
       "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
-    },
-    {
-      "added_at": "2025-07-10 22:01:11",
-      "album": {
-        "name": "Muero X Verte",
-        "url": "https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa"
-      },
-      "artists": [
-        {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 206452,
-      "name": "Muero X Verte",
-      "url": "https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW"
-    },
-    {
-      "added_at": "2025-07-10 22:01:11",
-      "album": {
-        "name": "la soledad",
-        "url": "https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "la soledad",
-      "url": "https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -835,18 +803,18 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "Kryptonita",
-        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
+        "name": "Muero X Verte",
+        "url": "https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa"
       },
       "artists": [
         {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 164257,
-      "name": "Kryptonita",
-      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
+      "duration_ms": 206452,
+      "name": "Muero X Verte",
+      "url": "https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -867,6 +835,38 @@
       "duration_ms": 186098,
       "name": "Amiguita como t\u00fa",
       "url": "https://open.spotify.com/track/4PbRIvIm1t92ecszR1TNr9"
+    },
+    {
+      "added_at": "2025-07-10 22:01:11",
+      "album": {
+        "name": "Kryptonita",
+        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "Kryptonita",
+      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
+    },
+    {
+      "added_at": "2025-07-10 22:01:11",
+      "album": {
+        "name": "la soledad",
+        "url": "https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "la soledad",
+      "url": "https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "Tu Jard\u00edn Japon\u00e9s",
-        "url": "https://open.spotify.com/album/2hWhmTAJXovA994YIN3qTm"
-      },
-      "artists": [
-        {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        }
-      ],
-      "duration_ms": 192798,
-      "name": "Tu Jard\u00edn Japon\u00e9s",
-      "url": "https://open.spotify.com/track/229tdnZT5apIOECNcOF7qY"
-    },
-    {
-      "added_at": "2025-07-10 22:01:11",
-      "album": {
         "name": "Salvavidas",
         "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
       },
@@ -1187,18 +1171,34 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
+        "name": "ZULOA",
+        "url": "https://open.spotify.com/album/3rBmtIJmfuxfwwsf8mnqkH"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "Merina Gris",
+          "url": "https://open.spotify.com/artist/7MoqcWOPD6BEKF85fxvwuD"
         }
       ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
+      "duration_ms": 212000,
+      "name": "Mejor*",
+      "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
+    },
+    {
+      "added_at": "2025-07-10 22:01:11",
+      "album": {
+        "name": "Tu Jard\u00edn Japon\u00e9s",
+        "url": "https://open.spotify.com/album/2hWhmTAJXovA994YIN3qTm"
+      },
+      "artists": [
+        {
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        }
+      ],
+      "duration_ms": 192798,
+      "name": "Tu Jard\u00edn Japon\u00e9s",
+      "url": "https://open.spotify.com/track/229tdnZT5apIOECNcOF7qY"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "ZULOA",
-        "url": "https://open.spotify.com/album/3rBmtIJmfuxfwwsf8mnqkH"
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
       "artists": [
         {
-          "name": "Merina Gris",
-          "url": "https://open.spotify.com/artist/7MoqcWOPD6BEKF85fxvwuD"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Mejor*",
-      "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "El Bosque [2025]",
-        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
+        "name": "El mejor verano de la vida",
+        "url": "https://open.spotify.com/album/1gTXbQtT1bSiEUpvm7GmhJ"
       },
       "artists": [
         {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+          "name": "Smile",
+          "url": "https://open.spotify.com/artist/47IdumnUeVozInz0gfdk6o"
         }
       ],
-      "duration_ms": 237242,
-      "name": "El Bosque [2025]",
-      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
+      "duration_ms": 206450,
+      "name": "El mejor verano de la vida",
+      "url": "https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "El mejor verano de la vida",
-        "url": "https://open.spotify.com/album/1gTXbQtT1bSiEUpvm7GmhJ"
-      },
-      "artists": [
-        {
-          "name": "Smile",
-          "url": "https://open.spotify.com/artist/47IdumnUeVozInz0gfdk6o"
-        }
-      ],
-      "duration_ms": 206450,
-      "name": "El mejor verano de la vida",
-      "url": "https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL"
-    },
-    {
-      "added_at": "2025-07-10 22:01:11",
-      "album": {
         "name": "Imaginado es todo",
         "url": "https://open.spotify.com/album/0garmhDOkyNqvle6gCIgrh"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 183700,
       "name": "Imaginado es todo",
       "url": "https://open.spotify.com/track/46Y7EPIAybAUs3Y7bYOdL1"
+    },
+    {
+      "added_at": "2025-07-10 22:01:11",
+      "album": {
+        "name": "El Bosque [2025]",
+        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 237242,
+      "name": "El Bosque [2025]",
+      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "El Laberinto [2012]",
-        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 231889,
-      "name": "El Laberinto [2012]",
-      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
-    },
-    {
-      "added_at": "2025-07-10 22:01:11",
-      "album": {
         "name": "Loros",
         "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
@@ -1551,22 +1535,6 @@
       "duration_ms": 146853,
       "name": "Loros",
       "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
-    },
-    {
-      "added_at": "2025-07-10 22:01:11",
-      "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -1587,6 +1555,38 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
+    },
+    {
+      "added_at": "2025-07-10 22:01:11",
+      "album": {
+        "name": "El Laberinto [2012]",
+        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 231889,
+      "name": "El Laberinto [2012]",
+      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
+    },
+    {
+      "added_at": "2025-07-10 22:01:11",
+      "album": {
         "name": "SORA",
         "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
       },
@@ -1599,26 +1599,6 @@
       "duration_ms": 224000,
       "name": "TECHNO TRISTE",
       "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
-    },
-    {
-      "added_at": "2025-07-10 22:01:11",
-      "album": {
-        "name": "DE BAJ\u00d3N",
-        "url": "https://open.spotify.com/album/1EafdZ6KB2ug86sxQWlWx5"
-      },
-      "artists": [
-        {
-          "name": "Rada Mancy",
-          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
-        },
-        {
-          "name": "LOWLIGHT",
-          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
-        }
-      ],
-      "duration_ms": 153929,
-      "name": "De Baj\u00f3n",
-      "url": "https://open.spotify.com/track/7wjwa7qvN5ZF1kL8Q3tirb"
     },
     {
       "added_at": "2025-07-10 22:01:11",
@@ -1671,18 +1651,38 @@
     {
       "added_at": "2025-07-10 22:01:11",
       "album": {
-        "name": "El Bosque",
-        "url": "https://open.spotify.com/album/3Z3nDVA3nbeSRbJY1hAcpq"
+        "name": "DE BAJ\u00d3N",
+        "url": "https://open.spotify.com/album/1EafdZ6KB2ug86sxQWlWx5"
       },
       "artists": [
         {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+          "name": "Rada Mancy",
+          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
         }
       ],
-      "duration_ms": 238945,
-      "name": "La Br\u00fajula [2018]",
-      "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
+      "duration_ms": 153929,
+      "name": "De Baj\u00f3n",
+      "url": "https://open.spotify.com/track/7wjwa7qvN5ZF1kL8Q3tirb"
+    },
+    {
+      "added_at": "2025-07-10 22:01:11",
+      "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 193006,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
     },
     {
       "added_at": "2025-07-10 22:01:11",

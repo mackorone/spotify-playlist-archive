@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-291 songs - 14 hr 55 min
+292 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Are You Lonesome Tonight \- Acoustic](https://open.spotify.com/track/66YElTd7MwaseFmQrl7fml) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Are You Lonesome Tonight \(Acoustic\)](https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO) | 2:45 | 2022-07-19 | 2023-02-02 |
 | [Are You Ready For Love \- Acoustic](https://open.spotify.com/track/1gSYByMOpWmlDoZbDWkoCY) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Are You Ready For Love \(Acoustic\)](https://open.spotify.com/album/7y3h4tQvfsi20zAYLvHZlu) | 3:37 | 2023-09-01 | 2024-01-13 |
 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/25WqOFXGafpwxSb19RwXOP) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH) | 3:16 | 2024-01-12 | 2024-11-04 |
-| [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/4MeIqmkDUpzCNh25g7PaYN) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/4TOEnObzWo2hprdRapk6Jc) | 2:38 | 2025-06-14 |  |
+| [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/4MeIqmkDUpzCNh25g7PaYN) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/4TOEnObzWo2hprdRapk6Jc) | 2:38 | 2025-06-14 | 2025-07-14 |
 | [Baby I Love You](https://open.spotify.com/track/1tIRAawWBRIcOUqbu4pxt7) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Baby I Love You](https://open.spotify.com/album/3Y21Y9YDCryfDO6lhSmWRS) | 3:14 | 2025-07-05 |  |
 | [Baby I'm Yours \- Acoustic](https://open.spotify.com/track/6HTPUY4wJX7cR2b67nLFa5) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Baby I'm Yours \(Acoustic\)](https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g) | 1:59 | 2021-05-24 | 2024-03-04 |
 | [Beautiful Birds \- Acoustic](https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68) | 2:53 | 2019-10-13 |  |
@@ -117,6 +117,7 @@
 | [I Still Haven't Found What I'm Looking For \- Acoustic](https://open.spotify.com/track/3KPKbWGJqITz5JFBl4JBQY) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [I Still Haven't Found What I'm Looking For \(Acoustic\)](https://open.spotify.com/album/7aa9VyWjwogK3jCEe4eTuB) | 2:54 | 2021-04-23 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\) \- Acoustic](https://open.spotify.com/track/2q4qvzWZIaad6OC7H7Mp8Q) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [I Wanna Dance with Somebody \(Who Loves Me\) \[Acoustic\]](https://open.spotify.com/album/0MctNxUvJxux2M8sJC1zFG) | 3:12 | 2023-05-29 |  |
 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Acoustic](https://open.spotify.com/track/5BPcAEFOIZjBaTiP8GIRkj) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [I Wanna Dance With Somebody \(Who Loves Me\) \[Acoustic\]](https://open.spotify.com/album/3PCCXJrYq6E86Nm0XzbK6N) | 2:49 | 2024-10-25 |  |
+| [I Want It That Way \- Acoustic](https://open.spotify.com/track/6PLkxuAnQuGN2zcr56XfYu) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/6FleVZQ8V2b3puB2WZgyFl) | 2:46 | 2025-07-13 |  |
 | [I Want You Back \- Acoustic](https://open.spotify.com/track/1k26xiw242De5t5AgWjC5o) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Want You Back \(Acoustic\)](https://open.spotify.com/album/5c7gMpATd9TRWI9SRzslXD) | 2:25 | 2021-05-21 | 2022-07-16 |
 | [I'd Do Anything for Love \(But I Won't Do That\) \- Acoustic](https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [I'd Do Anything for Love \(But I Won't Do That\) \[Acoustic\]](https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY) | 2:58 | 2024-02-09 | 2024-05-28 |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |

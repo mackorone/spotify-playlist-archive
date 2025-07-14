@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1039512,
+  "num_followers": 1039668,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAAAjqndlSOZXNZKg+eZDPhzg",
+  "snapshot_id": "aHGlgAAAAAAZG0e/nzHqY27Jh1zIPtFM",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 3)",
-        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 201409,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 251746,
       "name": "Comando X - En Vivo",
       "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 3)",
+        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 
 > Focus with nature sounds in the background...
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,499 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,512 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,23 +42,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 32 | [Rain Falling On Tree](https://open.spotify.com/track/0obt0uwGoJXkktxoSylXVz) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 3:23 |
 | 33 | [Summer Song](https://open.spotify.com/track/5SZN94c5Neyb7tUNMGmykq) | [Under Bare Sky](https://open.spotify.com/artist/7KcqBIpoFRx659XfOwH8NK) | [Brook and Birds](https://open.spotify.com/album/1d8yAL9vhDTbuf6ARhzR6w) | 3:16 |
 | 34 | [Rain Forest Birds](https://open.spotify.com/track/2C9TaqPP3rgZriyjBxAlIT) | [Swedish\-Bird\-Sounds](https://open.spotify.com/artist/7r4MqLN5DpsHNTexMJPakD) | [Swedish Morning Birds](https://open.spotify.com/album/4GGkrc2HZyOsZphGmvWRYF) | 3:00 |
-| 35 | [Light Forest Rain 1](https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
+| 35 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 36 | [Rain by Little River](https://open.spotify.com/track/2brWHSL7SJHBdfQ73Wolxo) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 2:44 |
 | 37 | [Sleep: Soft Ocean](https://open.spotify.com/track/6HV3zhmqLZ6kL9afSxn2t9) | [Ocean Sounds ACE](https://open.spotify.com/artist/4syiBrG4nPb9SCaHgyAHL8) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:29 |
 | 38 | [Stream Of Rain](https://open.spotify.com/track/1t2qgFuUPlkCDOy8YXQ64e) | [Mirai](https://open.spotify.com/artist/6oEZ7IsYCH7xwmb83A6eQx) | [Stream Of Rain](https://open.spotify.com/album/09vojMSSTFVj9Mi1KmW8J5) | 2:28 |
 | 39 | [Mountain Creek](https://open.spotify.com/track/5SKs7vPBQ7UOaWsBHu7ljM) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Peaceful Rivers](https://open.spotify.com/album/3AQDF4HBATBzY9uVXEeVqK) | 2:29 |
 | 40 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 |
-| 41 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
-| 42 | [Dreamy Beach Sample](https://open.spotify.com/track/21vF00XMLwcgG6797XcvqA) | [Elements of Nature](https://open.spotify.com/artist/3r1H7zt8YmcO8Vj20uEMy5) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 3:00 |
+| 41 | [Dreamy Beach Sample](https://open.spotify.com/track/21vF00XMLwcgG6797XcvqA) | [Elements of Nature](https://open.spotify.com/artist/3r1H7zt8YmcO8Vj20uEMy5) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 3:00 |
+| 42 | [Light Forest Rain 1](https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 43 | [Soothing River Flow on Rocks](https://open.spotify.com/track/3IXlhcZ7Xt1sQNMXLZb5XR) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Snowmelt and Rivers for Sleeping](https://open.spotify.com/album/3WomUrOQJWJknkjRYQiMIn) | 4:17 |
 | 44 | [Gentle Stream Ambience](https://open.spotify.com/track/1FCp5LjTO2YsW9zmQJ7nOk) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Soothing Nature Sounds](https://open.spotify.com/album/6vbXz5ZRueTrOsNwC8pFFv) | 3:05 |
 | 45 | [Forest Songbirds](https://open.spotify.com/track/2dKHsmhfzawprqv0vmDfDg) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:52 |
 | 46 | [Birdsong in the Spring Sunshine](https://open.spotify.com/track/27bJQg13LMOE0J52ZhKoso) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Nature Sounds: Total Relaxation](https://open.spotify.com/album/1i9EbDW7l9X23ZJm25sLQg) | 9:59 |
-| 47 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
+| 47 | [Rain Sensation](https://open.spotify.com/track/2AQyoXB6bKNjNhgg94XGze) | [Au](https://open.spotify.com/artist/7lVHqL3Z1v20q0GLwQkBc5) | [Rainy State](https://open.spotify.com/album/2gtA4fEAhdqMhT6y8KK57W) | 3:28 |
 | 48 | [Calm Waves](https://open.spotify.com/track/77HIe7T6ZFhUELCuyUBB6O) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 2:22 |
-| 49 | [Rain Sensation](https://open.spotify.com/track/2AQyoXB6bKNjNhgg94XGze) | [Au](https://open.spotify.com/artist/7lVHqL3Z1v20q0GLwQkBc5) | [Rainy State](https://open.spotify.com/album/2gtA4fEAhdqMhT6y8KK57W) | 3:28 |
-| 50 | [Calm Flood At Night](https://open.spotify.com/track/6VkZJJuyt2SLgZWnwaalHo) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Binaural Water](https://open.spotify.com/album/0xQArU4l4FMn0WhLpQE2GN) | 4:31 |
-| 51 | [Western Ocean Waves](https://open.spotify.com/track/6oGDf7vGsT9Xp2ABRil9ss) | [All Night Chill Makers](https://open.spotify.com/artist/2i0PdFbccjRzAc6ZZPwk5O) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:44 |
+| 49 | [Calm Flood At Night](https://open.spotify.com/track/6VkZJJuyt2SLgZWnwaalHo) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Binaural Water](https://open.spotify.com/album/0xQArU4l4FMn0WhLpQE2GN) | 4:31 |
+| 50 | [Western Ocean Waves](https://open.spotify.com/track/6oGDf7vGsT9Xp2ABRil9ss) | [All Night Chill Makers](https://open.spotify.com/artist/2i0PdFbccjRzAc6ZZPwk5O) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:44 |
+| 51 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
 | 52 | [Dream A Little Ocean](https://open.spotify.com/track/53zuMhOcAgFoyiqWTWbAyu) | [Dreams of Dreams](https://open.spotify.com/artist/3ukM0chAmXUoKjdG4evPMZ) | [Ocean Sound Effects](https://open.spotify.com/album/6mKOEeFkctULRUSSvG9p0H) | 2:52 |
 | 53 | [Gentle & Soothing Waves](https://open.spotify.com/track/4tCdxjBYd8FB37Ghzm90xv) | [Natalia Cornell](https://open.spotify.com/artist/4tudTZdoFOJkJqoxf584HK) | [Gentle & Soothing Waves](https://open.spotify.com/album/1O1oCL07H8eaNA9kjKYYRT) | 2:47 |
 | 54 | [Lots Of Birds](https://open.spotify.com/track/5rMSnbkf864tD4lXPmXRAO) | [Mother Earth HD](https://open.spotify.com/artist/2mtvi4kXa2uiaj5Tk5ePYT) | [HD Bird Sounds](https://open.spotify.com/album/0UCVzEgBYRyrVhIdMVQvNi) | 2:38 |

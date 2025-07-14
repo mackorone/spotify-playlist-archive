@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  VVINK Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,878 likes - 199 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,880 likes - 199 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 21 | [SAVAGE](https://open.spotify.com/track/7kmbQMe7hH9c9wF9N7FXcb) | [RAFAYEL](https://open.spotify.com/artist/10HlJ4RVnM7wF62asiq165) | [SAVAGE](https://open.spotify.com/album/2FwZWXjkjYjybqOwHk7O0k) | 2:44 |
 | 22 | [windows down](https://open.spotify.com/track/1KYeLWWtc7HlGbkLST38R4) | [yvesta](https://open.spotify.com/artist/5lIwOBF6kUZwGbbPsB6H1L) | [windows down](https://open.spotify.com/album/4H4H5BnjvNGe5KOthOcWeQ) | 1:52 |
 | 23 | [For U](https://open.spotify.com/track/1SNqRGsRZ3knMK0GIKyBKE) | [maya](https://open.spotify.com/artist/5B7xxHilhXaB1nfh4zNlvN) | [For U](https://open.spotify.com/album/2a6SrF5DBOacwK4jfu3MZn) | 3:23 |
-| 24 | [Missile](https://open.spotify.com/track/32rfbyT9JD67WRyqrGEd2Y) | [Freshman](https://open.spotify.com/artist/30oAWiU2CNhEQisRucq1z4), [yerroi](https://open.spotify.com/artist/62fmNflL0KqDihP5IGy5Tu) | [Missile](https://open.spotify.com/album/0XPRcNsCbHPsD5P4zrAfFt) | 2:18 |
+| 24 | [Missile](https://open.spotify.com/track/32rfbyT9JD67WRyqrGEd2Y) | [Freshman](https://open.spotify.com/artist/6t4Cc0KyBWl3q5SIecpmhj), [yerroi](https://open.spotify.com/artist/62fmNflL0KqDihP5IGy5Tu) | [Missile](https://open.spotify.com/album/0XPRcNsCbHPsD5P4zrAfFt) | 2:18 |
 | 25 | [WALAG](https://open.spotify.com/track/60LsvLxdk6fYmBpdMFTQKd) | [Pinkbarney](https://open.spotify.com/artist/2LXDeK2ugpMawkXuEiXFwo), [Rich Geng](https://open.spotify.com/artist/2tGlFHw7er5hCDnjrtRbIH) | [WALAG](https://open.spotify.com/album/2ytM7PZUUEIWmrKXBB1ANZ) | 2:50 |
 | 26 | [Basta](https://open.spotify.com/track/32H6YbxmWouqy6y8qUX2ig) | [Rxyge](https://open.spotify.com/artist/5azIhcw0S78xR8AyM3gbJW), [Tatzkaye](https://open.spotify.com/artist/6USh8AGJb2OAJ1R8cNkXw1) | [Basta](https://open.spotify.com/album/6Lcn83J0aWagNotO6ND6s9) | 3:14 |
 | 27 | [There's No Time](https://open.spotify.com/track/1Brr6FE2aWBqBUOMdhfNw7) | [Ryan Madrid](https://open.spotify.com/artist/3S9WuSIAumNRgIoxdp1hyv), [Bea Remollo](https://open.spotify.com/artist/22osQ0e1jjGaPBeZfUBJfW) | [There's No Time](https://open.spotify.com/album/4b6mq8Y6vWpY5CYlHBTxvx) | 3:59 |

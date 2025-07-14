@@ -3878,7 +3878,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 156463,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
@@ -10896,7 +10896,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -11509,6 +11509,24 @@
     },
     {
       "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+    },
+    {
+      "album": {
         "name": "Fancy Footwork",
         "url": "https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF"
       },
@@ -11872,6 +11890,24 @@
       "duration_ms": 144722,
       "name": "FICKA",
       "url": "https://open.spotify.com/track/1LbccDWO37QQUaRvoI2LjV"
+    },
+    {
+      "album": {
+        "name": "Bastard Barden",
+        "url": "https://open.spotify.com/album/5hSiTTwXzECNEAOQWPcRMF"
+      },
+      "artists": [
+        {
+          "name": "Mittel Alta",
+          "url": "https://open.spotify.com/artist/2QjjVXLHTBPbpM18ftwvYV"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141307,
+      "name": "Ficket Euch",
+      "url": "https://open.spotify.com/track/6x5QVKHFGRXs6scgCcK5Bl"
     },
     {
       "album": {
@@ -13454,7 +13490,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 126933,
       "name": "GET NAKED",
       "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
@@ -14490,6 +14526,32 @@
       "duration_ms": 183253,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/3RYraCZjOLm1jXudyvtPVe"
+    },
+    {
+      "album": {
+        "name": "Halt Dein Maul",
+        "url": "https://open.spotify.com/album/6uIIVmrXQqRi3UY39sVdow"
+      },
+      "artists": [
+        {
+          "name": "Bob & Daisy",
+          "url": "https://open.spotify.com/artist/3dBjmUJo7klQzMddIwvjGG"
+        },
+        {
+          "name": "Evelyn Weigert",
+          "url": "https://open.spotify.com/artist/51RSo7Kipn8zHujdjJboHe"
+        },
+        {
+          "name": "Tom Beck",
+          "url": "https://open.spotify.com/artist/21K88i5VrYfqD4qzT5H1Xi"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92745,
+      "name": "Halt Dein Maul",
+      "url": "https://open.spotify.com/track/1S2pnDGtxOESWCACIWX5xb"
     },
     {
       "album": {
@@ -16530,7 +16592,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 173980,
       "name": "HURENSOHN - HARDSTYLE REMIX",
       "url": "https://open.spotify.com/track/7pKVuT8zvGIcRw2qdZQeej"
@@ -32882,7 +32944,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 194793,
       "name": "Stay",
       "url": "https://open.spotify.com/track/54MW4msqRY1DcxPYpu8xrH"
@@ -36220,7 +36282,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 246892,
       "name": "Tr\u00e4umer",
       "url": "https://open.spotify.com/track/5qSftcgE8ieJnOLlpvlAwD"
@@ -37352,7 +37414,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 169818,
       "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
       "url": "https://open.spotify.com/track/4pRAG3h4ZTfyEhRMytddzd"

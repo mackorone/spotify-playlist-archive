@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-3,183 songs - 7 day 2 hr 24 min
+3,184 songs - 7 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Am I Dreaming \(Metro Boomin & A$AP Rocky, Roisee\)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Roisee](https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 4:16 | 2023-06-27 | 2023-07-05 |
 | [Amar De Nuevo](https://open.spotify.com/track/4jjFjbqCTkaN1mGb0BMYl2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:28 | 2024-12-03 | 2024-12-05 |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-05-24 | 2023-06-12 |
+| [AMARTE DUELE](https://open.spotify.com/track/513pK1MrQqWnzD1ZeanQOT) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMARTE DUELE / Plática con Cupido / ALV Cupido](https://open.spotify.com/album/45qBWz1LmpbQ1ZaHdD3hRC) | 3:39 | 2025-07-13 |  |
 | [Amenaza](https://open.spotify.com/track/2Q1Ad9XxaOAGnrfbrifRHc) | [FocusedMJ](https://open.spotify.com/artist/779RihZndUsOCIbfkHdBQ2) | [Amenaza](https://open.spotify.com/album/5Trhyy6GFxdHnrSBVp1fjf) | 2:37 | 2024-11-25 | 2024-12-04 |
 | [Ameri](https://open.spotify.com/track/5lXKHJ3kYg9aM0TdBgaZBe) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:19 | 2024-11-19 | 2024-12-02 |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2023-04-22 | 2023-05-03 |
@@ -782,7 +783,7 @@
 | [Devuelvete \(Guaracha\)](https://open.spotify.com/track/1SODbO76xvYjobGXyvQA15) | [Deejay Ghost](https://open.spotify.com/artist/4N8sMKcWQVo6bHBit1GsWL) | [Devuelvete \(Guaracha\)](https://open.spotify.com/album/1UH60K9xF2k5EQi3evqjLB) | 4:22 | 2023-08-05 | 2023-11-16 |
 | [DEYANDEL](https://open.spotify.com/track/1ujYLtq20bXGciPsoCdpH2) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [DEYANDEL](https://open.spotify.com/album/4om2Diarfopoy4b3Sq1u2p) | 3:07 | 2024-07-30 | 2024-08-06 |
 | [DEYANDEL](https://open.spotify.com/track/7hxilbHrjpPQPtLZ8GsScn) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [HABLANDO DE TI](https://open.spotify.com/album/6rnqGuJHKPtXBDDuT9zTIf) | 3:07 | 2024-08-18 | 2024-08-28 |
-| [DIA DELÍCIA](https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do) | 1:15 | 2025-06-11 |  |
+| [DIA DELÍCIA](https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do) | 1:15 | 2025-06-11 | 2025-07-14 |
 | [DIABLA](https://open.spotify.com/track/00EWeXw1RLUwCMw8pxtXAE) | [Los Diozes](https://open.spotify.com/artist/30Ml7nTMkXYyb0UoLwtmCc) | [HOTEL MALIGNO](https://open.spotify.com/album/3fSSAHjqml1DUmMNJk1OMW) | 3:37 | 2024-11-05 | 2024-11-20 |
 | [Diablita](https://open.spotify.com/track/6BVh7E3RrGEbj5jcx0QksO) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 3:18 | 2024-03-19 | 2024-03-30 |
 | [Diablote \(Filtrado\)](https://open.spotify.com/track/5gR5v9JHQ9fM7ZSs2m6vH2) | [filtraboy](https://open.spotify.com/artist/302n5pnujhtDxxrIX0cUG8) | [Diablote \(Filtrado\)](https://open.spotify.com/album/3c4QAaLckSiNtPED6C56NV) | 2:30 | 2023-01-10 | 2023-01-16 |

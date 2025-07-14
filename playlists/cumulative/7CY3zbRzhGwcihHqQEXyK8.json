@@ -6435,6 +6435,32 @@
     },
     {
       "album": {
+        "name": "light show!",
+        "url": "https://open.spotify.com/album/3x6dUwtV4nxqakFICLF24X"
+      },
+      "artists": [
+        {
+          "name": "glitterpop!",
+          "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
+        },
+        {
+          "name": "dreamy",
+          "url": "https://open.spotify.com/artist/1KpXScwD3ZK1nTMj5P3oRJ"
+        },
+        {
+          "name": "kip",
+          "url": "https://open.spotify.com/artist/2WDac7cSmAKbSNPIQVdYmJ"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128181,
+      "name": "light show!",
+      "url": "https://open.spotify.com/track/2aYKas1Lfbthk72TpJyL4K"
+    },
+    {
+      "album": {
         "name": "Lights Off",
         "url": "https://open.spotify.com/album/6Ch6WzIj9VYLzeU65H0mi8"
       },

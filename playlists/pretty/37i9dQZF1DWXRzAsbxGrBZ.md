@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: <a href="https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR?si=52s\_6ISSTwiFfkB\-bfk2kw">Artwork Sounds</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,025 likes - 69 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,071 likes - 69 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

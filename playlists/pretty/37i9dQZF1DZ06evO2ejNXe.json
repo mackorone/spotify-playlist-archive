@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1592,
+  "num_followers": 1593,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAACs8kKgN9T31DNBMRv+isxi",
+  "snapshot_id": "aHGlgAAAAAAgMT0UunPFkk5/ZMMl57/J",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed",
-        "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        },
-        {
           "name": "Banda Zarape",
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        },
-        {
-          "name": "Roberto Junior Y Su Bande\u00f1o",
-          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
         }
       ],
-      "duration_ms": 645067,
-      "name": "Popurr\u00ed",
-      "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
+      "duration_ms": 181293,
+      "name": "Muevelo Bien",
+      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
     },
     {
       "added_at": null,
@@ -515,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+        "name": "Popurr\u00ed",
+        "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
       },
       "artists": [
         {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
           "name": "Banda Zarape",
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        },
+        {
+          "name": "Roberto Junior Y Su Bande\u00f1o",
+          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Muevelo Bien",
-      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
+      "duration_ms": 645067,
+      "name": "Popurr\u00ed",
+      "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
     },
     {
       "added_at": null,

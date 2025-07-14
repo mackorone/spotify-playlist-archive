@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,788 songs - 5 day 1 hr 52 min
+1,789 songs - 5 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Clearest Blue \- Gryffin Remix](https://open.spotify.com/track/5JNOYtRd2E9QiwosqMCBmZ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Every Open Eye \(Extended Edition\)](https://open.spotify.com/album/0ytgAfCjv6U5BMEDrQgCwX) | 4:19 | 2020-05-18 | 2020-07-03 |
 | [Close The Distance](https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Close The Distance / A Matter Of Chance](https://open.spotify.com/album/3YRlJNIUwdjOfcZlH0GpNo) | 5:55 | 2024-04-19 | 2024-05-10 |
 | [Close to You](https://open.spotify.com/track/30c3t4nCmnst0ink5jMpJR) | [Platonic Penguins](https://open.spotify.com/artist/12W4ebUWcTwgkXafxS6Vtm) | [Close to You](https://open.spotify.com/album/6WtQdf95tahhXN2OPupN7H) | 2:46 | 2021-08-13 | 2022-07-29 |
+| [Close Your Eyes](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Close Your Eyes](https://open.spotify.com/album/1dykSfMKD0vYaCH9Rp338Y) | 2:36 | 2025-07-11 |  |
 | [Close Your Eyes](https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Close Your Eyes](https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB) | 4:54 | 2024-10-25 | 2025-01-01 |
 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2021-08-20 | 2022-10-13 |
 | [Closer](https://open.spotify.com/track/6o30i136QpwWOL2v98cSAd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:12 | 2022-01-21 | 2022-02-12 |
@@ -368,7 +369,7 @@
 | [Divide \(feat\. Kelsey Bulkin\)](https://open.spotify.com/track/3CvMXAVFGmfq56tvUAa9ip) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Kelsey Bulkin](https://open.spotify.com/artist/3vDjFm7GgG4ph7WR1KwNvp) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 4:01 | 2020-05-18 | 2020-07-03 |
 | [Divinity \- filous Remix](https://open.spotify.com/track/5EEb0Vm8xUKjpwH2jlftOl) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Divinity \(filous Remix\)](https://open.spotify.com/album/14i5IIywwM8fMuuI87M4Ap) | 4:07 | 2020-05-18 | 2020-07-03 |
 | [DJs Gotta Dance More](https://open.spotify.com/track/30HLXV5dIVOlrp2ncsUyjn) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [DJs Gotta Dance More](https://open.spotify.com/album/4IhHOv33cZ5J14gdrGbSoF) | 4:12 | 2020-05-18 | 2021-01-11 |
-| [DNA ∞ \- Seb Wildblood Remix](https://open.spotify.com/track/4gtlCdwN4mvKfddyOCehsl) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [DNA ∞ / 1 DAY 2 LATE REMIXES](https://open.spotify.com/album/15ezXCAzEqJMVyPE3mfMMT) | 4:17 | 2025-06-20 |  |
+| [DNA ∞ \- Seb Wildblood Remix](https://open.spotify.com/track/4gtlCdwN4mvKfddyOCehsl) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [DNA ∞ / 1 DAY 2 LATE REMIXES](https://open.spotify.com/album/15ezXCAzEqJMVyPE3mfMMT) | 4:17 | 2025-06-20 | 2025-07-14 |
 | [Do I Go](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Do I Go](https://open.spotify.com/album/4SJrqffwVOdXAhuzl1subk) | 3:34 | 2023-10-20 | 2023-12-10 |
 | [Do It All Again](https://open.spotify.com/track/3th9QWkO5Rn0HbD0v4E8mT) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [hey](https://open.spotify.com/album/3HLrOVIjvjuFcaUikX5jWH) | 3:18 | 2025-05-16 |  |
 | [Do It Like You](https://open.spotify.com/track/5h1Gi50T9QxVfzvIF8vciC) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Do It Like You](https://open.spotify.com/album/4PKH86wn7Gw4iel2WD564k) | 3:10 | 2020-05-18 | 2020-07-18 |

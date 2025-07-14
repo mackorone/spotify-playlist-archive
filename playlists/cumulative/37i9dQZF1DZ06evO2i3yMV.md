@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-153 songs - 8 hr 39 min
+154 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 | 2025-05-07 |  |
 | [Say Yes](https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Say Yes](https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk) | 3:53 | 2023-05-02 | 2024-01-26 |
 | [Say Yes \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Homegrown \(Deluxe\)](https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa) | 3:53 | 2023-07-08 |  |
-| [Sci Fi](https://open.spotify.com/track/5Nxvers9WcNIW6rvPCsW0C) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 2:58 | 2025-03-10 |  |
+| [Sci Fi](https://open.spotify.com/track/5Nxvers9WcNIW6rvPCsW0C) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 2:58 | 2025-03-10 | 2025-07-14 |
+| [Sci Fi \- Polar Youth Remix](https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Polar Youth](https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Eternal Reverie Remixes](https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo) | 3:07 | 2025-07-14 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/0Zb19M8DGaIEreIyyFTo5k) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU) | 3:38 | 2023-05-02 | 2024-02-09 |
 | [Smoke & Mirrors](https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o) | 3:38 | 2024-02-08 |  |
 | [So Ridiculous](https://open.spotify.com/track/1VU9BGdWkqfpSqLdr6AsXl) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 2:02 | 2023-12-16 | 2023-12-25 |

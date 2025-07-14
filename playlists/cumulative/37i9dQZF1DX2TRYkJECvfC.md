@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-611 songs - 2 day 2 hr 54 min
+612 songs - 2 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 | 2021-12-08 |  |
 | [indulge](https://open.spotify.com/track/1xtAsTz9HdPJX20KUlQ3sB) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [indulge](https://open.spotify.com/album/1yOTjWiA4wQXKdZHiD07GA) | 4:27 | 2021-12-08 | 2023-08-05 |
 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 | 2023-04-04 |  |
-| [Inner Circle](https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Inner Circle](https://open.spotify.com/album/2M1BIG6uhYyndZdG7tEsNz) | 3:57 | 2023-02-03 |  |
+| [Inner Circle](https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Inner Circle](https://open.spotify.com/album/2M1BIG6uhYyndZdG7tEsNz) | 3:57 | 2023-02-03 | 2025-07-14 |
 | [Inspired](https://open.spotify.com/track/1Bii3LSvFNeRTrW4s0Kj4m) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS) | [Inspire](https://open.spotify.com/album/4fBLyRZWGvgptQHuFp3Q17) | 6:13 | 2021-12-08 | 2022-07-28 |
 | [Interlaced](https://open.spotify.com/track/4xwUt1Ukkfc0b3DwsB3f2b) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Interlaced](https://open.spotify.com/album/1LKwsKTXI8hvBmccPCXsec) | 5:04 | 2021-12-08 | 2024-01-17 |
 | [Into The Night](https://open.spotify.com/track/4sKq8rbmhzWElf2rJDG7cJ) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Into The Night](https://open.spotify.com/album/5oiK8JQJeUOstxrhzjgKjZ) | 3:06 | 2024-06-21 |  |
@@ -278,6 +278,7 @@
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-09-22 |  |
 | [Life](https://open.spotify.com/track/6shlrqMyqGLIfXLt6eeR0I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [200% GALCHER](https://open.spotify.com/album/5tlLnGJdn7m5qucplsZqB1) | 5:01 | 2022-05-03 | 2022-12-28 |
 | [Light Through The Leaves](https://open.spotify.com/track/4Yq7rlqu3mvqe5lDiTlbWq) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Heal EP](https://open.spotify.com/album/2qdxKEcWDbs61f6oRDqHAW) | 5:03 | 2025-05-23 | 2025-07-11 |
+| [Lightshine](https://open.spotify.com/track/1yTW421kLGkPZC4FK4uVAy) | [Boreta](https://open.spotify.com/artist/4pk4xXNYrYeJpf82VJJwLo), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Lightshine](https://open.spotify.com/album/4lGDwZiDMWjSrQ0WF8er6h) | 5:59 | 2025-07-11 |  |
 | [Like I Used To](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To](https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy) | 4:56 | 2022-05-03 |  |
 | [Like This](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Like This](https://open.spotify.com/album/62nbCTAyxJwCgIEMBLBg48) | 2:48 | 2022-10-28 | 2025-05-25 |
 | [Lily Garden](https://open.spotify.com/track/7wRqT3udwo3luOmcQhYpzB) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Lily Garden](https://open.spotify.com/album/5tplUNgqHpTQkv086mPPIm) | 3:18 | 2024-08-16 |  |

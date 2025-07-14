@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1J1pGfTqp5ReVIX8Z1Wzsg">BabyChiefDoIt</a>
 
-2,415 songs - 4 day 11 hr 16 min
+2,416 songs - 4 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [Don't Get Hit](https://open.spotify.com/track/1egaPOAa20HfQaaueGlmzK) | [VV$ KEN](https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Don't Get Hit](https://open.spotify.com/album/2DkdMqF3c9vjelvdoAFrsB) | 3:23 | 2022-02-04 | 2022-04-02 |
 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 | 2023-11-10 | 2024-01-27 |
 | [Don't Get Ya Feelings In It \(feat\. Luh Tyler\)](https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Don't Get Ya Feelings In It \(feat\. Luh Tyler\)](https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9) | 3:36 | 2023-07-21 | 2023-10-21 |
-| [Don't Hold The Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold The Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 | 2025-05-16 |  |
+| [Don't Hold The Fire](https://open.spotify.com/track/02CUgLutqmue2cayDgmn53) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Don't Hold The Fire](https://open.spotify.com/album/4XF9ZL4bbEp0Ab0yDtYhsA) | 2:27 | 2025-05-16 | 2025-07-14 |
 | [Don't Like Me](https://open.spotify.com/track/15vBa8JFlc906oRT103Fdf) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Don't Like Me](https://open.spotify.com/album/4LlFHwHtA9gQZ6XC9fvWeZ) | 2:17 | 2022-03-18 | 2022-04-29 |
 | [Don't Look At Numbers \- Lost Kids Edition](https://open.spotify.com/track/5CfWNBwDYZfurQCrQUzWa7) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Lost Kids Edition\)](https://open.spotify.com/album/63nYWwU4DroL9w3eXbRwB2) | 3:37 | 2022-08-19 | 2022-08-25 |
 | [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 | 2022-08-19 | 2022-08-27 |
@@ -1318,6 +1318,7 @@
 | [Missing Something](https://open.spotify.com/track/6nb42AwSexz0HPLcWK4yFx) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Missing Something](https://open.spotify.com/album/0joh96R5NbQ8U4Seyw6F6b) | 2:51 | 2021-12-25 | 2022-01-22 |
 | [Mission](https://open.spotify.com/track/4hXTbyfZIbdOJIf3bdGLH1) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Mission](https://open.spotify.com/album/2ADWm5XgZZlHVolpAv0psD) | 2:09 | 2022-05-06 | 2022-07-09 |
 | [Mixed Feelings](https://open.spotify.com/track/0jylP8rKjs0snyyWUeadlS) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Mixed Feelings](https://open.spotify.com/album/1lxOUM2JBoxfhUE76QDyVJ) | 3:01 | 2024-05-25 | 2024-06-01 |
+| [MM3](https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:54 | 2025-07-13 |  |
 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 | 2023-10-06 | 2024-08-31 |
 | [Mmm](https://open.spotify.com/track/2QA6RYmeu1MJLrdRfY1rsw) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Don't Sleep While It's Lit \- Part 1](https://open.spotify.com/album/53h1OIQ9PYUj88Q7Hhl8WR) | 2:48 | 2024-11-29 | 2025-02-15 |
 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 | 2023-07-21 | 2023-09-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia KERZALTA ja Isac Elliotilta, The Rasmukselta, KIKILTÄ, Senyalta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,117 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,119 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

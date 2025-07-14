@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Burna Boy, Justin Bieber, Soulwax, Olivia Dean, AFROJACK and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,098 likes - 82 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,094 likes - 82 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

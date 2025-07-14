@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6672,
+  "num_followers": 6674,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAAC1Dgp7mIBUasGWYLMoKEXD",
+  "snapshot_id": "aHGlgAAAAACQhABP1akkC1++osgMwGTG",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 216733,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The D4tour",
+        "url": "https://open.spotify.com/album/6SImeP4mkkkcFWYDmsgzh9"
+      },
+      "artists": [
+        {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 160289,
+      "name": "Butterfly 2021",
+      "url": "https://open.spotify.com/track/6HOgqo3YPmtvrEeKvgDtl9"
     },
     {
       "added_at": null,
@@ -47,26 +67,6 @@
       "duration_ms": 228493,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The D4tour",
-        "url": "https://open.spotify.com/album/6SImeP4mkkkcFWYDmsgzh9"
-      },
-      "artists": [
-        {
-          "name": "Ekoh",
-          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 160289,
-      "name": "Butterfly 2021",
-      "url": "https://open.spotify.com/track/6HOgqo3YPmtvrEeKvgDtl9"
     },
     {
       "added_at": null,
@@ -183,6 +183,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Starry Eyed Surprise",
+        "url": "https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Shifty Shellshock",
+          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 191039,
+      "name": "Starry Eyed Surprise",
+      "url": "https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "APOCALIPS",
         "url": "https://open.spotify.com/album/72F2zT9lAbEBuvWuzeUpLH"
       },
@@ -207,30 +231,6 @@
       "duration_ms": 222573,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/5VVSJqGpIKPVGntd7qFUeI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starry Eyed Surprise",
-        "url": "https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Shifty Shellshock",
-          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 191039,
-      "name": "Starry Eyed Surprise",
-      "url": "https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc"
     },
     {
       "added_at": null,

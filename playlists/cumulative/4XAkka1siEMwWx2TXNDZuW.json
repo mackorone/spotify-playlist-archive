@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "An empty bliss beyond this World",
+        "url": "https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "date_added": "2025-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115989,
+      "name": "I feel as if I might be vanishing",
+      "url": "https://open.spotify.com/track/6YYEiMGPk5bdiy5oA3cm7u"
+    },
+    {
+      "album": {
         "name": "I Live in the Hills, I Never See Anyone.",
         "url": "https://open.spotify.com/album/4DN17pslottKmZPaF0aPvX"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 74250,
       "name": "Scotland, I Wish You Had Stayed",
       "url": "https://open.spotify.com/track/7joZfFcUBofZaovZdYe0to"
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 279539,
       "name": "You Know How to Make a Boy Feel Warm",
       "url": "https://open.spotify.com/track/1oU1k57RerTGjZ1yTodvyl"

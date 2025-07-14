@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-104 songs - 5 hr 30 min
+105 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Lone Star](https://open.spotify.com/track/3SZ94PA3dLogWLvBEPD2dv) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:19 | 2024-04-03 |  |
 | [Lose Somebody](https://open.spotify.com/track/1iejPNbfS5p32qpByIDuYK) | [Florence Nevada](https://open.spotify.com/artist/5Su2AuJl1GOtKPIYTmYLKu) | [Lose Somebody](https://open.spotify.com/album/3pGl8W6BmODkc1fCfgy3xj) | 2:13 | 2024-04-21 | 2024-06-09 |
 | [Lose Somebody](https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:19 | 2024-04-03 |  |
-| [Lose You Too](https://open.spotify.com/track/5KIZ2mEfechClRNZqq0X0S) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Lose You Too](https://open.spotify.com/album/0NRMQWeLiLHKubdUSAzz2V) | 3:30 | 2025-05-22 |  |
+| [Lose You Too](https://open.spotify.com/track/3GIyiJDNjbXESMWxrgARDg) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Act II: COUNTRYSTAR](https://open.spotify.com/album/7cuMWFxEYkP7NLm7sRR62W) | 3:30 | 2025-07-13 |  |
+| [Lose You Too](https://open.spotify.com/track/5KIZ2mEfechClRNZqq0X0S) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Lose You Too](https://open.spotify.com/album/0NRMQWeLiLHKubdUSAzz2V) | 3:30 | 2025-05-22 | 2025-07-14 |
 | [love in the living room](https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:10 | 2024-04-03 |  |
 | [mandela effect](https://open.spotify.com/track/6mvZMZaPix0TNCRYObsLI0) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX) | 2:52 | 2024-04-03 |  |
 | [NO SAD SONGS](https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:52 | 2024-04-03 |  |

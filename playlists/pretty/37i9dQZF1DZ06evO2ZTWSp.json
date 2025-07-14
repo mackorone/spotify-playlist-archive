@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 483651,
+  "num_followers": 483643,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAAAIfUW/fPqGYVL3xEYf+Dtd",
+  "snapshot_id": "aHGlgAAAAACG8YGjtufBlIr3pjj6v9CE",
   "tracks": [
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions (Live at SXSW 2014)",
-        "url": "https://open.spotify.com/album/36YdveJJhT49E0blTQODsS"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 316510,
-      "name": "A Change Is Gonna Come (feat. Lizzo) - Live at SXSW 2013",
-      "url": "https://open.spotify.com/track/2z6qRBkf6jjWUuzLA9CXO0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iko",
         "url": "https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 211952,
       "name": "Iko",
       "url": "https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Sessions (Live at SXSW 2014)",
+        "url": "https://open.spotify.com/album/36YdveJJhT49E0blTQODsS"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 316510,
+      "name": "A Change Is Gonna Come (feat. Lizzo) - Live at SXSW 2013",
+      "url": "https://open.spotify.com/track/2z6qRBkf6jjWUuzLA9CXO0"
     },
     {
       "added_at": null,

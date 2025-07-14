@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "End of Days",
+        "url": "https://open.spotify.com/album/7frsZXqNIZrhQQZljXzup9"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2025-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242160,
+      "name": "End of Days",
+      "url": "https://open.spotify.com/track/7496eOsY66VYmI91bHfJqq"
+    },
+    {
+      "album": {
         "name": "forget-me-not",
         "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
       },
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 353546,
       "name": "\u30df\u30df\u30c3\u30af",
       "url": "https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t"

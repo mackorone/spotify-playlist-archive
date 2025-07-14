@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1213281,
+  "num_followers": 1213360,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHBUAAAAAADcNE1VTNZMTDTdWHyk4enu",
+  "snapshot_id": "aHGlgAAAAABrZlvIuVW4DjhqoUg7FX/1",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 165213,
       "name": "Quiet Nights of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Rain In My Heart",
+      "url": "https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 201560,
       "name": "Wave",
       "url": "https://open.spotify.com/track/4qY2AhtXXuWST74MrShHTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Rain In My Heart",
-      "url": "https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Drinking Water (Aqua de Beber)",
-      "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 153146,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Drinking Water (Aqua de Beber)",
+      "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Are You? (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Autumn Leaves - Remastered 1999",
-      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ol' Blue Eyes Is Back",
         "url": "https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 211066,
       "name": "Let Me Try Again (Laisse Moi le Temps)",
       "url": "https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where Are You? (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Autumn Leaves - Remastered 1999",
+      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
     },
     {
       "added_at": null,

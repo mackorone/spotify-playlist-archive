@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1486574,
+  "num_followers": 1486918,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-07-11 04:00:08",
       "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+    },
+    {
+      "added_at": "2025-07-11 04:00:08",
+      "album": {
         "name": "Madvillainy Demos",
         "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 166016,
       "name": "Just for Kicks (\u201cMeat Grinder\u201d demo)",
       "url": "https://open.spotify.com/track/0xSGp6VPeckr3Inxz3IrA9"
-    },
-    {
-      "added_at": "2025-07-11 04:00:08",
-      "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2025-07-11 04:00:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-07-11 04:00:08",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
-    },
-    {
-      "added_at": "2025-07-11 04:00:08",
-      "album": {
         "name": "3:AM (feat. Erykah Badu)",
         "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2025-07-11 04:00:08",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
     },
     {
       "added_at": "2025-07-11 04:00:08",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-11 04:00:08",
       "album": {
-        "name": "C.A.P.S",
-        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
-      },
-      "artists": [
-        {
-          "name": "Oney1",
-          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
-        }
-      ],
-      "duration_ms": 95036,
-      "name": "No lo entienden",
-      "url": "https://open.spotify.com/track/0buUpwv945D4LkXufv2aOU"
-    },
-    {
-      "added_at": "2025-07-11 04:00:08",
-      "album": {
         "name": "Stories From The Brass Section",
         "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 200829,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2025-07-11 04:00:08",
+      "album": {
+        "name": "C.A.P.S",
+        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "duration_ms": 95036,
+      "name": "No lo entienden",
+      "url": "https://open.spotify.com/track/0buUpwv945D4LkXufv2aOU"
     },
     {
       "added_at": "2025-07-11 04:00:08",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-07-11 04:00:08",
       "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
-    },
-    {
-      "added_at": "2025-07-11 04:00:08",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 213940,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
+    },
+    {
+      "added_at": "2025-07-11 04:00:08",
+      "album": {
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2025-07-11 04:00:08",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2025-07-11 04:00:08",
       "album": {
+        "name": "Still Not In Space",
+        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
+      },
+      "artists": [
+        {
+          "name": "wnbl",
+          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
+        },
+        {
+          "name": "Mike Nasa",
+          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
+        }
+      ],
+      "duration_ms": 176149,
+      "name": "Still Not In Space",
+      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
+    },
+    {
+      "added_at": "2025-07-11 04:00:08",
+      "album": {
         "name": "Perdu in Peru",
         "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
       },
@@ -1935,26 +1955,6 @@
     {
       "added_at": "2025-07-11 04:00:08",
       "album": {
-        "name": "Still Not In Space",
-        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
-      },
-      "artists": [
-        {
-          "name": "wnbl",
-          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
-        },
-        {
-          "name": "Mike Nasa",
-          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
-        }
-      ],
-      "duration_ms": 176149,
-      "name": "Still Not In Space",
-      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
-    },
-    {
-      "added_at": "2025-07-11 04:00:08",
-      "album": {
         "name": "Protea",
         "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
       },
@@ -1975,18 +1975,26 @@
     {
       "added_at": "2025-07-11 04:00:08",
       "album": {
-        "name": "Joy Ellis",
-        "url": "https://open.spotify.com/album/3XlPczmJuWmA5eht2hCDwz"
+        "name": "Ravenite Social Club",
+        "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
       },
       "artists": [
         {
-          "name": "Tona",
-          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Emi Secrest",
+          "url": "https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj"
         }
       ],
-      "duration_ms": 186156,
-      "name": "Joy Ellis",
-      "url": "https://open.spotify.com/track/74jvTQE6JmAlvzArHew1qk"
+      "duration_ms": 236873,
+      "name": "To You (feat. Robert Glasper, Emi Secrest)",
+      "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
     }
   ],
   "unique_name": "Jazz Rap",

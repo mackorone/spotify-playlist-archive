@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Diquenza, JayKoppig & Equalz✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,030 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,039 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 56 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 |
 | 57 | [I'm HIM](https://open.spotify.com/track/3VYD9o3gXFsF26Z3eeYnau) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [I'm HIM](https://open.spotify.com/album/7DF0OGoaxXdKLZ0w23GdFJ) | 2:29 |
 | 58 | [Monaco](https://open.spotify.com/track/11XPvHzgmHtdDHFsuGBhWv) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Monaco](https://open.spotify.com/album/1ll9MIctKuy0vUvtzvwTA1) | 2:30 |
-| 59 | [Ya Coco](https://open.spotify.com/track/3IVLP9bNmtBVg0m0LVCPyv) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Ya Coco](https://open.spotify.com/album/6o6nWcY94bUhvraSCV1vOF) | 2:47 |
+| 59 | [Ya Coco](https://open.spotify.com/track/3IVLP9bNmtBVg0m0LVCPyv) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Ya Coco](https://open.spotify.com/album/6o6nWcY94bUhvraSCV1vOF) | 2:47 |
 | 60 | [Zij Weet 't](https://open.spotify.com/track/3MYtX4KibnFdEYpPVsNAzn) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Zij Weet 't](https://open.spotify.com/album/3cqSKnKu43NRT0PaZzDuLD) | 2:50 |
 | 61 | [Joke](https://open.spotify.com/track/1a3NfTt4Omh1RSxJVpYTcn) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Joke](https://open.spotify.com/album/0QAUbSySRHZUzcvzSjQfqA) | 2:06 |
 | 62 | [Money Machine](https://open.spotify.com/track/5Cbp8VCgukUrF7EJrzlREW) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Money Machine](https://open.spotify.com/album/5sGRRWrkvM2HoA8Q7PM247) | 2:21 |

@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr immer ab jetzt",
+        "url": "https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339"
+      },
+      "artists": [
+        {
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231946,
+      "name": "F\u00fcr immer ab jetzt",
+      "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
+    },
+    {
+      "album": {
         "name": "Hollywood (Akustik Version)",
         "url": "https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 129587,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"

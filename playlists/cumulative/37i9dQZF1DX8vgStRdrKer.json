@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 315968,
       "name": "ELIYAH",
       "url": "https://open.spotify.com/track/4VcrZkamuQXvxDhQFV8d9V"
@@ -3397,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Hallowed be Your name",
+        "url": "https://open.spotify.com/album/7LFyb6Flt2msg9R00Ufnw5"
+      },
+      "artists": [
+        {
+          "name": "Deborah-Divine",
+          "url": "https://open.spotify.com/artist/4DjzETMqJxkPCqhVhuOrWZ"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335000,
+      "name": "Hallowed be Your name",
+      "url": "https://open.spotify.com/track/46rcEw6HHRMHISqGI0U5ZZ"
+    },
+    {
+      "album": {
         "name": "He Won't (Worship Medley)",
         "url": "https://open.spotify.com/album/04pSAhuoZGv9xW2mdTwbgR"
       },
@@ -3854,6 +3872,32 @@
       "duration_ms": 435500,
       "name": "I Choose to Be",
       "url": "https://open.spotify.com/track/4hgrMvvWacZcUdED5UvK8F"
+    },
+    {
+      "album": {
+        "name": "I Di Nma",
+        "url": "https://open.spotify.com/album/44gmFtUfJZowGXQKxYVRxq"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        },
+        {
+          "name": "CHINEMEREM",
+          "url": "https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v"
+        },
+        {
+          "name": "OMASHINES",
+          "url": "https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "I Di Nma",
+      "url": "https://open.spotify.com/track/5Pbsedj5IZKL5ZlrGvi7zg"
     },
     {
       "album": {
@@ -7386,7 +7430,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 147633,
       "name": "Prepare the Way",
       "url": "https://open.spotify.com/track/7uW9MM84wg65ODHwMTL5Fc"
@@ -8532,7 +8576,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 328965,
       "name": "The Hand Of God",
       "url": "https://open.spotify.com/track/5bC6PKM9LZlsiuJsE0DZve"
@@ -9163,6 +9207,24 @@
     },
     {
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/7ev8lmfEPAaYXNJA01WKZ3"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190473,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/0vVhuLpWJslUjhKN9YXIIh"
+    },
+    {
+      "album": {
         "name": "Victory Sound",
         "url": "https://open.spotify.com/album/79zmVYrvzQCbazatZcaHvU"
       },
@@ -9226,7 +9288,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 219620,
       "name": "Wabwino",
       "url": "https://open.spotify.com/track/2CnBRKSQmsH87eU0nZylci"
@@ -9982,7 +10044,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-14",
       "duration_ms": 189884,
       "name": "You",
       "url": "https://open.spotify.com/track/6kG2ntaZOpL797wjs5UUjF"

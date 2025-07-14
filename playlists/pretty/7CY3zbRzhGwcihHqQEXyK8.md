@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 645 songs - 1 day 9 hr 3 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 646 songs - 1 day 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -653,5 +653,6 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 643 | [Discord Mod](https://open.spotify.com/track/4qhzjEgV9tziHne1hhvOwf) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [Discord Mod](https://open.spotify.com/album/3DvpeRumDhhttjRSlGaf57) | 2:49 |
 | 644 | [ALIEN](https://open.spotify.com/track/2EEp44O4xezj1BmrMGRPvh) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [ALIEN](https://open.spotify.com/album/6gGBBnCivtdZAKcWVzPgTk) | 3:08 |
 | 645 | [MURDER EVERY 1 U KNOW! \- SALVIA'S VERSION](https://open.spotify.com/track/6iCNGXd4dIkVj7oofcRomz) | [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [MURDER EVERY 1 U KNOW! \(SALVIA'S VERSION\)](https://open.spotify.com/album/1CDHqGeMoQ4sKJWBeWwVAV) | 2:07 |
+| 646 | [light show!](https://open.spotify.com/track/2aYKas1Lfbthk72TpJyL4K) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40), [dreamy](https://open.spotify.com/artist/1KpXScwD3ZK1nTMj5P3oRJ), [kip](https://open.spotify.com/artist/2WDac7cSmAKbSNPIQVdYmJ) | [light show!](https://open.spotify.com/album/3x6dUwtV4nxqakFICLF24X) | 2:08 |
 
-Snapshot ID: `AAABmwycHTWvF6fhLzeI94Ef96M0/ui2`
+Snapshot ID: `AAABnMxRJ6L9EHBYFz000UEgSePwwHgl`
